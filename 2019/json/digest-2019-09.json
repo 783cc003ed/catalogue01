@@ -1,0 +1,203 @@
+{
+    "expanded_url": [
+        "https://viz.greynoise.io/query/?gnql=tags%3A%22vBulletin%205.x%20RCE%22"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 47,
+    "tweettext": "GreyNoise is observing opportunistic exploitation of the recent vBulletin 5.x remote code execution vulnerability (CVE-2019-16759), starting three hours ago from several hundred devices around the Internet. Tags available now. \n\ntags:\"vBulletin 5.x RCE\"\n\nhttps://t.co/tBMaCdimRI https://t.co/3JLNNxA0qG",
+    "tweettime": "2019-09-25, 16:38:51",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1176898873622781954",
+    "username": "GreyNoiseIO"
+}
+{
+    "tweetfavorites": 50,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 30,
+    "tweettext": "مايكرسوفت  تصدر ترقيع لثغرتين حرجة إحداهم في المتصفح والأخرى في برنامج الحماية من مايكرسوفت CVE-2019-1367 — a critical IE zero-day under active attack.\nCVE-2019-1255 — DoS flaw in Microsoft Defender.\nالحل قم بتحديث الأمني في اسرع وقت https://t.co/TYUCBvRsq2",
+    "tweettime": "2019-09-24, 16:03:31",
+    "tweeturl": "https://twitter.com/MAlajab/status/1176527593304182784",
+    "username": "MAlajab"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2019/09/windows-update-zero-day.html"
+    ],
+    "tweetfavorites": 201,
+    "tweetquotes": 9,
+    "tweetreplies": 2,
+    "tweetretweets": 208,
+    "tweettext": "It's not a Patch Tuesday, but #Microsoft is rolling out emergency out-of-band security patches for two new vulnerabilities:\n\n➡️ CVE-2019-1367 — a critical IE zero-day under active attack.\n➡️ CVE-2019-1255 — DoS flaw in Microsoft Defender.\n\nRead details: https://t.co/oLonGzrR1O https://t.co/uxthA4IOaM",
+    "tweettime": "2019-09-24, 07:51:09",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1176403685879902210",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1367",
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1255"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 24,
+    "tweetreplies": 12,
+    "tweetretweets": 126,
+    "tweettext": "Out of band security vulnerability fixes CVE-2019-1367 and CVE-2019-1255 have been released today. For more information please see https://t.co/QMUM53m8so and https://t.co/vy3d0wXWng .",
+    "tweettime": "2019-09-23, 17:07:37",
+    "tweeturl": "https://twitter.com/msftsecresponse/status/1176181336131784705",
+    "username": "msftsecresponse"
+}
+{
+    "expanded_url": [
+        "https://www.reddit.com/r/netsec/comments/d80o63/cve20191082_windows_local_privileges_escalation/"
+    ],
+    "tweetfavorites": 263,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 125,
+    "tweettext": "CVE-2019-1082 Windows Local Privileges Escalation. Little Writeup How i found lpe vulnerability. https://t.co/Gtd82bRqKR",
+    "tweettime": "2019-09-23, 06:01:18",
+    "tweeturl": "https://twitter.com/Dinosn/status/1176013649774874624",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://link.medium.com/37fKrP5Pc0"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "CVE-2019-1082 Windows Local Privileges Escalation. Little Writeup How i found lpe vulnerability. https://t.co/sNJ5bNezCC",
+    "tweettime": "2019-09-23, 02:58:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1175967546912075776",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2019/09/phpmyadmin-csrf-exploit.html"
+    ],
+    "tweetfavorites": 212,
+    "tweetquotes": 19,
+    "tweetreplies": 2,
+    "tweetretweets": 214,
+    "tweettext": "Warning — Researcher drops PoC for a new #phpMyAdmin zero-day flaw (CVE-2019-12922) publicly that affects all versions of the popular, widely-used database management #software.\n\nDetails: https://t.co/XGJpDCbuW0\n\n#infosec #webdev\n\n—via @security_wang https://t.co/GWmQceJUrI",
+    "tweettime": "2019-09-18, 09:23:20",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1174252554651426823",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://blog.trendmicro.com/trendlabs-security-intelligence/from-bindiff-to-zero-day-a-proof-of-concept-exploiting-cve-2019-1208-in-internet-explorer/"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "From BinDiff to Zero-Day: A Proof of Concept Exploiting CVE-2019-1208 in Internet Explorer https://t.co/nc3XaeKeu9 #CyberSecurity #CyberCrime #Vulnerability #Exploit #Infosec https://t.co/Cp2rp8togz",
+    "tweettime": "2019-09-16, 07:32:56",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1173499997708574722",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 689,
+    "tweetquotes": 19,
+    "tweetreplies": 16,
+    "tweetretweets": 316,
+    "tweettext": "phpMyAdmin 4.9.0.1 CSRF vuln to delete any server(s) - CVE-2019-12922\n\nPoc:\n&lt;p&gt;Deleting Server 1&lt;/p&gt;\n&lt;img src=“\nhttp://server/phpmyadmin/setup/index.php?page=servers&amp;mode=remove&amp;id=1″\nstyle=“display:none;” /&gt;\n\nHappy hacking \n#0day",
+    "tweettime": "2019-09-13, 07:56:18",
+    "tweeturl": "https://twitter.com/xxByte/status/1172418715717009409",
+    "username": "xxByte"
+}
+{
+    "expanded_url": [
+        "https://github.com/GeneralEG/CVE-2019-15858/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 9,
+    "tweettext": "GitHub - GeneralEG/CVE-2019-15858: Unauthenticated RCE at Woody Ad Snippets / CVE-2019-15858 (PoC) https://t.co/v1rKtaG7B5",
+    "tweettime": "2019-09-13, 01:54:49",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1172327741741387776",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/GeneralEG/CVE-2019-15858"
+    ],
+    "tweetfavorites": 170,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 80,
+    "tweettext": "I just released an Exploit for CVE-2019-15858!\n\nUnauthenticated RCE at Woody Ad Snippets\n\"WordPress Plugin with 90k Active Installation\"\n\nYou can find the usage and the demonstration here:\nhttps://t.co/SOGgS6cXsB\n\n#BugBounty\n#GeneralEG https://t.co/OrFy4P2qhl",
+    "tweettime": "2019-09-12, 22:38:04",
+    "tweeturl": "https://twitter.com/GeneralEG64/status/1172278229333413888",
+    "username": "GeneralEG64"
+}
+{
+    "expanded_url": [
+        "https://blog.trendmicro.com/trendlabs-security-intelligence/from-bindiff-to-zero-day-a-proof-of-concept-exploiting-cve-2019-1208-in-internet-explorer/"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "From BinDiff to Zero-Day: A Proof of Concept Exploiting CVE-2019-1208 in Internet Explorer https://t.co/45VjymtB0H",
+    "tweettime": "2019-09-12, 19:03:09",
+    "tweeturl": "https://twitter.com/Dinosn/status/1172224144068546560",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://blog.trendmicro.com/trendlabs-security-intelligence/from-bindiff-to-zero-day-a-proof-of-concept-exploiting-cve-2019-1208-in-internet-explorer/"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "From BinDiff to Zero-Day: A Proof of Concept Exploiting CVE-2019-1208 in Internet Explorer https://t.co/nOBAOE7mrx #UAF #IE #exploit",
+    "tweettime": "2019-09-12, 18:53:02",
+    "tweeturl": "https://twitter.com/axcheron/status/1172221599866589185",
+    "username": "axcheron"
+}
+{
+    "expanded_url": [
+        "http://bit.ly/34CA7ge"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 10,
+    "tweettext": "New post: From BinDiff to Zero-Day: A Proof of Concept Exploiting CVE-2019-1208 in Internet Explorer https://t.co/xuWAl3pwwE @TrendMicroRSRCH",
+    "tweettime": "2019-09-12, 12:08:16",
+    "tweeturl": "https://twitter.com/TrendMicroRSRCH/status/1172119736110522369",
+    "username": "TrendMicroRSRCH"
+}
+{
+    "expanded_url": [
+        "https://github.com/rogue-kdc/CVE-2019-1253"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 56,
+    "tweettext": "@_RastaMouse and I found a privilege escalation/DoS bug in Windows AppX Deployment Server (CVE-2019-1253)\nBoth of us found it independently while researching CVE-2019-0841\nUse it responsibly!\nhttps://t.co/Ts899ikpDi",
+    "tweettime": "2019-09-11, 08:45:27",
+    "tweeturl": "https://twitter.com/rogue_kdc/status/1171706305368723457",
+    "username": "rogue_kdc"
+}
+{
+    "expanded_url": [
+        "https://github.com/kmkz/exploit/blob/master/PUBLISURE-EXPLOIT-CHAIN-ADVISORY.txt"
+    ],
+    "tweetfavorites": 117,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 48,
+    "tweettext": "3 vulns #exploit chain used in #PenTest 45 days ago -&gt; #ACL bypass+SQLi+RCE via file upload :S CVE-2019-14252/14253/14254 - No magic 0days here: https://t.co/NajroEqOSU #Pentesting #CVE #disclosure cc @Publisure @jeefers",
+    "tweettime": "2019-09-05, 09:46:50",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1169547426249826305",
+    "username": "kmkz_security"
+}

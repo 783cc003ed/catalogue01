@@ -1,0 +1,196 @@
+{
+    "expanded_url": [
+        "https://www.twistlock.com/labs-blog/disclosing-directory-traversal-vulnerability-kubernetes-copy-cve-2019-1002101/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "Kubernetes (kubectl) directory traversal vulnerability due to insufficient fix - CVE-2019-1002101 https://t.co/4AyerI779V",
+    "tweettime": "2019-03-31, 08:32:28",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1112271431163731968",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=913246"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2019-5764: Use-After-Free in libvpx, as used in Chrome's WebRTC\nhttps://t.co/iU6BIog5Rl",
+    "tweettime": "2019-03-26, 14:51:57",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1110554991876554752",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://www.microsoft.com/security/blog/2019/03/25/from-alert-to-driver-vulnerability-microsoft-defender-atp-investigation-unearths-privilege-escalation-flaw/"
+    ],
+    "tweetfavorites": 139,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 77,
+    "tweettext": "Check out my new blog \"From alert to driver vulnerability: Microsoft Defender ATP investigation unearths privilege escalation flaw\" telling the story behind the discovery of CVE-2019-5241 &amp; CVE-2019-5242 vulnerabilities in Huawei PC Manager driver. Enjoy!\nhttps://t.co/8JCvOvsGq5",
+    "tweettime": "2019-03-25, 15:26:38",
+    "tweeturl": "https://twitter.com/realAmitRap/status/1110201329237004288",
+    "username": "realAmitRap"
+}
+{
+    "expanded_url": [
+        "https://www.youtube.com/watch?v=mGe95jhQONc"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "Really enjoyed this video about \"CVE-2018-10994, Steal messages from Signal using RCE\". From explanation to exploitation.\nCheck out his channel  :)\n\nhttps://t.co/Z74TN9Tw3L",
+    "tweettime": "2019-03-25, 14:33:09",
+    "tweeturl": "https://twitter.com/kunalp94/status/1110187870185127937",
+    "username": "kunalp94"
+}
+{
+    "expanded_url": [
+        "https://github.com/k1n9/CVE-2019-0604/?fbclid=IwAR295OULlw76Qkw2Qc1BgT4eAbV7fB3C0fmK2EhuZ4_iqh7yHMKzZ1lfr4s"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 0,
+    "tweetreplies": 6,
+    "tweetretweets": 85,
+    "tweettext": "[PoC] CVE-2019-0604: Microsoft SharePoint RCE \n\nhttps://t.co/vcGwXD2exx",
+    "tweettime": "2019-03-25, 00:46:45",
+    "tweeturl": "https://twitter.com/wugeej/status/1109979902046945280",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://github.com/exodusintel/CVE-2019-5786"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2019-5786 Google Chrome FileReader use-after-free exploit: https://t.co/Lmt21ZMyzz",
+    "tweettime": "2019-03-22, 17:16:52",
+    "tweeturl": "https://twitter.com/_sinn3r/status/1109141908729880577",
+    "username": "_sinn3r"
+}
+{
+    "expanded_url": [
+        "https://www.thezdi.com/blog/2019/3/13/cve-2019-0604-details-of-a-microsoft-sharepoint-rce-vulnerability"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "CVE-2019-0604: Details of a Microsoft SharePoint RCE Vulnerability https://t.co/LVNDwmuMSr",
+    "tweettime": "2019-03-22, 13:04:26",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1109078380232597504",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://github.com/exodusintel/CVE-2019-5786"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Exodus Intel CVE-2019-5786 Chrome 72.0.3626.119 stable FileReader UaF exploit for Windows 7 x86.\nhttps://t.co/oQTuky95zx",
+    "tweettime": "2019-03-21, 02:18:10",
+    "tweeturl": "https://twitter.com/scriptjunkie1/status/1108553355541049345",
+    "username": "scriptjunkie1"
+}
+{
+    "expanded_url": [
+        "https://weibo.com/ttarticle/p/show?id=2309404351596157885398"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Analysis of CVE-2019-5786 Chrome FileReader Use-After-Free\nhttps://t.co/gfc27CTMpB",
+    "tweettime": "2019-03-19, 08:44:26",
+    "tweeturl": "https://twitter.com/RanchoIce/status/1107925785866723328",
+    "username": "RanchoIce"
+}
+{
+    "expanded_url": [
+        "http://blogs.360.cn/post/RootCause_CVE-2019-0808_EN.html"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "Windows Kernel Privilege Escalation Vulnerability (CVE-2019-0808) root cause analysis https://t.co/tz8WuCNl1D #vulnerability #windows https://t.co/dEAEtdN5a0",
+    "tweettime": "2019-03-18, 13:00:35",
+    "tweeturl": "https://twitter.com/x0rz/status/1107627861408649219",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "http://blogs.360.cn/post/RootCause_CVE-2019-0808_EN.html"
+    ],
+    "tweetfavorites": 300,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 185,
+    "tweettext": "Microsoft fixed a Windows 0day (CVE-2019-0808) in Patch Tuesday. Our team constructed the POC and reproduced the vulnerability triggering process. Click here to read more: https://t.co/aE6l1nPwnw",
+    "tweettime": "2019-03-14, 08:49:12",
+    "tweeturl": "https://twitter.com/360CoreSec/status/1106115047787393025",
+    "username": "360CoreSec"
+}
+{
+    "expanded_url": [
+        "https://youtu.be/OdEwBY7rXMw",
+        "https://www.exploit-db.com/exploits/46536"
+    ],
+    "tweetfavorites": 300,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 177,
+    "tweettext": "MSHTML Engine RCE - CVE-2019-0541: Running arbitrary code on any Windows version since at least XP up to latest 10 and Server 2019 made SURPRISINGLY easy. Video: https://t.co/V1jQ0TJ7C7  and PoC: https://t.co/KRLmCHXYpN",
+    "tweettime": "2019-03-14, 04:25:15",
+    "tweeturl": "https://twitter.com/Edu_Braun_0day/status/1106048620678311942",
+    "username": "Edu_Braun_0day"
+}
+{
+    "expanded_url": [
+        "https://github.com/mpgn/CVE-2019-0192/"
+    ],
+    "tweetfavorites": 212,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 111,
+    "tweettext": "GitHub - mpgn/CVE-2019-0192: RCE on Apache Solr using deserialization of untrusted data via jmx.serviceUrl https://t.co/y0wUfQknsU",
+    "tweettime": "2019-03-10, 19:49:05",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1104831560744751104",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2019/03/update-google-chrome-hack.html"
+    ],
+    "tweetfavorites": 464,
+    "tweetquotes": 65,
+    "tweetreplies": 12,
+    "tweetretweets": 580,
+    "tweettext": "⚠️ Important — Update your #Google Chrome immediately to patch a new high-severity 0-day RCE #vulnerability (CVE-2019-5786) that hackers are actively exploiting in the wild\n\nhttps://t.co/vrorvFYuU8\n\nPatched Chrome version 72.0.3626.121 has been released for Windows, macOS, Linux https://t.co/IoW8ZjQgZZ",
+    "tweettime": "2019-03-06, 09:57:27",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1103233119434489857",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop.html"
+    ],
+    "tweetfavorites": 222,
+    "tweetquotes": 7,
+    "tweetreplies": 7,
+    "tweetretweets": 149,
+    "tweettext": "Google discovered a Chrome RCE #0day in the wild (CVE-2019-5786). Reportedly, a full chain with a sandbox escape: https://t.co/Nxfrvr5wIh \n\nIn 2019, I expect epic 0days to be found in the wild: Android, iOS, Windows, Office, virtualization, and more. Stay safe and enjoy the show.",
+    "tweettime": "2019-03-06, 03:40:07",
+    "tweeturl": "https://twitter.com/cBekrar/status/1103138159133569024",
+    "username": "cBekrar"
+}

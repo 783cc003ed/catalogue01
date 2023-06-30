@@ -1,0 +1,95 @@
+{
+    "expanded_url": [
+        "http://blog.frizk.net/2018/03/total-meltdown.html",
+        "https://blog.xpnsec.com/total-meltdown-cve-2018-1038/",
+        "https://www.exploit-db.com/exploits/44581/"
+    ],
+    "tweetfavorites": 195,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 147,
+    "tweettext": "Very good reads + exploit for Microsoft Windows PML4 Privilege Escalation Vulnerability (CVE-2018-1038) by Ulf Frisk:\nhttps://t.co/CgqEmCCl2K\nhttps://t.co/6KwYP124fM\nhttps://t.co/54NSnwelsE",
+    "tweettime": "2018-05-28, 12:17:05",
+    "tweeturl": "https://twitter.com/hosselot/status/1001074883537891328",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://xiaodaozhi.com/exploit/156.html"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 42,
+    "tweettext": "Vulnerability Details / Exploitation of Recent (Zero-day) WIN32K SetImeInfoEx NULL Pointer Dereference Vulnerability (CVE-2018-8120) by Leeqwind:\nhttps://t.co/Stm8TX3pOq",
+    "tweettime": "2018-05-16, 09:11:51",
+    "tweeturl": "https://twitter.com/hosselot/status/996679610405408774",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://www.virustotal.com/#/file/6cfbebe9c562d9cdfc540ce45d09c8a00d227421349b12847c421ba6f71f4284/detection"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 33,
+    "tweettext": "Looks like CVE-CVE-2018-8120 Windows Kernel 'Win32k.sys' Local Privilege Escalation Vulnerability \nhttps://t.co/hzcG5DeHRk https://t.co/6pZQsG9cc7",
+    "tweettime": "2018-05-14, 16:49:29",
+    "tweeturl": "https://twitter.com/PhysicalDrive0/status/996070003815452672",
+    "username": "PhysicalDrive0"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/05/electron-node-integration.html"
+    ],
+    "tweetfavorites": 173,
+    "tweetquotes": 9,
+    "tweetreplies": 1,
+    "tweetretweets": 151,
+    "tweettext": "Critical flaw (CVE-2018-1000136) discovered in #Electron framework could expose application server to Remote Code Execution (RCE) attacks—PoC exploit released.\n\nhttps://t.co/shCNrgXJ6E\n\nDevelopers should ensure their Electron-based apps are updated and patched. https://t.co/cgqiSGHPa8",
+    "tweettime": "2018-05-14, 10:04:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/995968175203172353",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/root-cause-analysis-of-cve-2018-8174/85486/"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 73,
+    "tweettext": "The King is dead. Long live the King! - Root cause analysis of the latest Internet Explorer zero day – CVE-2018-8174\n\n https://t.co/8SItwd60xC \n#IE #0day https://t.co/nz56jjb4aK",
+    "tweettime": "2018-05-09, 18:25:46",
+    "tweeturl": "https://twitter.com/dimitribest/status/994282296223174671",
+    "username": "dimitribest"
+}
+{
+    "expanded_url": [
+        "http://blogs.360.cn/blog/cve-2018-8174-en/"
+    ],
+    "tweetfavorites": 263,
+    "tweetquotes": 16,
+    "tweetreplies": 3,
+    "tweetretweets": 191,
+    "tweettext": "Analysis of CVE-2018-8174 VBScript 0day and APT actor related to Office targeted attack... https://t.co/OltmxiYBIP",
+    "tweettime": "2018-05-09, 10:43:58",
+    "tweeturl": "https://twitter.com/360CoreSec/status/994166078585491456",
+    "username": "360CoreSec"
+}
+{
+    "expanded_url": [
+        "https://www.virustotal.com/#/file/10ceb5916cd90e75f8789881af40287c655831c5086ae1575b327556b63cdb24/",
+        "https://securelist.com/root-cause-analysis-of-cve-2018-8174/85486/",
+        "https://twitter.com/buffaloverflow/status/989798880295444480"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 60,
+    "tweettext": "Hash for this sample was:\nhttps://t.co/1RVOzKtTBF\n\nCVE-2018-8174 IE #0day. Great analysis here:\nhttps://t.co/vlIifdznRl https://t.co/WKTd7Iz7TA",
+    "tweettime": "2018-05-09, 07:36:17",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/994118847048437760",
+    "username": "buffaloverflow"
+}

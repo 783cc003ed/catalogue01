@@ -1,0 +1,65 @@
+{
+    "expanded_url": [
+        "http://mp.weixin.qq.com/s/X2JcKCpCH4exDoxMK5oN5Q"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 50,
+    "tweettext": "Detailed analysis of the mysterious Windows Search zero-day attack CVE-2017-8543 patched last month. https://t.co/196iaBv0fz, in Chinese.",
+    "tweettime": "2017-07-18, 21:40:44",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/887426940604268544",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "http://thehackernews.com/2017/07/cisco-webex-vulnerability.html"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 157,
+    "tweettext": "Critical Remote Code Execution (CVE-2017-6753) Vulnerability in #Cisco WebEx Browser Extensions for Chrome &amp; Firefox https://t.co/3CePZWkbk9",
+    "tweettime": "2017-07-18, 11:42:24",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/887276364549705728",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://rh0dev.github.io/blog/2017/the-return-of-the-jit/"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "Mozilla Firefox DEP and ASLR Bypass Using ASM.JS JIT-Spray (CVE-2017-5375 and CVE-2017-5400):\nhttps://t.co/VfRN44aIjk",
+    "tweettime": "2017-07-17, 08:03:10",
+    "tweeturl": "https://twitter.com/hosselot/status/886858802598957056",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://blogs.technet.microsoft.com/srd/2017/07/13/eternal-synergy-exploit-analysis/"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 79,
+    "tweettext": "Eternal Synergy Exploit Analysis (Windows SMB Remote Code Execution Vulnerability: CVE-2017-0143) https://t.co/zbSJb4kEgE",
+    "tweettime": "2017-07-14, 16:32:54",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/885899918040195072",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/Microsoft/ChakraCore/pull/2959/commits/1ae7e3ce95515758b4cd7215cb4e48539a0f4031"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "Git commit for Pwn2Own Microsoft Edge Chakra ArrayBuffer Use-After-Free vulnerability (CVE-2017-0236):\nhttps://t.co/BHZmGipTWD",
+    "tweettime": "2017-07-11, 07:59:53",
+    "tweeturl": "https://twitter.com/hosselot/status/884683648880005120",
+    "username": "hosselot"
+}

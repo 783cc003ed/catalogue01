@@ -1,0 +1,272 @@
+{
+    "expanded_url": [
+        "https://hulkvision.github.io/blog/post1/"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "RCE in Adobe Acrobat Reader for android(CVE-2021-40724)\n\n'This feature was vulnerable to path traversal vulnerability.'\n\n#infosec #pentest #redteam\n\nhttps://t.co/Blz9LM4FTt https://t.co/dkipRlTQAU",
+    "tweettime": "2022-02-28, 08:22:03",
+    "tweeturl": "https://twitter.com/CyberWarship/status/1498211886071963649",
+    "username": "CyberWarship"
+}
+{
+    "tweetfavorites": 42,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "A good real exemple of JOP usage exploiting CVE-2013-4988 ln Windows 7 system 👌\n\"IcoFX 2.6 - '.ico' Buffer Overflow SEH + DEP Bypass using JOP\"\nxttps://www.exploit-db.com/exploits/49959",
+    "tweettime": "2022-02-27, 20:31:09",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1498032980786356224",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/0vercl0k/CVE-2022-21971"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\" https://t.co/QtJ7xXtoKH #Pentesting #CVE #RCE #Windows #Vulnerability #Infosec https://t.co/uQhbym6v8j",
+    "tweettime": "2022-02-27, 16:45:33",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1497976208692334595",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/Mr-xn/CVE-2022-24086"
+    ],
+    "tweetfavorites": 130,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 44,
+    "tweettext": "CVE-2022-24086: Adobe Commerce versions 2.4.3-p1 (and earlier) and 2.3.7-p2 (and earlier) are affected by an improper input validation vulnerability... this issue does not require user interaction and could result in arbitrary code execution.\n\nPoC\nhttps://t.co/RIq2Jliogw https://t.co/Sf99i8KdCj",
+    "tweettime": "2022-02-26, 00:28:33",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1497367949883154434",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit \n\n#pentest #redteam #infosec\n\nhttps://t.co/xx3a70mHaH https://t.co/YhV1qf26Jw",
+    "tweettime": "2022-02-22, 12:33:03",
+    "tweeturl": "https://twitter.com/CyberWarship/status/1496100722575921155",
+    "username": "CyberWarship"
+}
+{
+    "expanded_url": [
+        "https://ruia-ruia.github.io/NFC-UAF/"
+    ],
+    "tweetfavorites": 179,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 63,
+    "tweettext": "Linux kernel Use-After-Free (CVE-2021-23134) PoC\n\nAn article by @Awarau1 about exploiting a use-after-free in NFC sockets to leak /etc/shadow.\n\nAmusingly, uses TeX formatting on web to explain the exploit.\n\nhttps://t.co/ytJ3mogyre",
+    "tweettime": "2022-02-22, 00:28:29",
+    "tweeturl": "https://twitter.com/linkersec/status/1495918381932949516",
+    "username": "linkersec"
+}
+{
+    "expanded_url": [
+        "https://ruia-ruia.github.io/NFC-UAF/"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Linux kernel Use-After-Free (CVE-2021-23134) PoC.  https://t.co/75kvwPPK1K #Pentesting #Linux  #CyberSecurity #Infosec https://t.co/BhM5K9b9Hg",
+    "tweettime": "2022-02-21, 15:01:00",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1495775568301854720",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://ruia-ruia.github.io/NFC-UAF/"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "Linux kernel NFC Use-After-Free (CVE-2021-23134) PoC : https://t.co/wAwtbiNam4",
+    "tweettime": "2022-02-21, 14:48:08",
+    "tweeturl": "https://twitter.com/binitamshah/status/1495772332803358727",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://ruia-ruia.github.io/NFC-UAF/"
+    ],
+    "tweetfavorites": 121,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 42,
+    "tweettext": "Linux kernel NFC Use-After-Free (CVE-2021-23134) PoC https://t.co/5EglcKxMed",
+    "tweettime": "2022-02-21, 06:28:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1495646494845636609",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://github.com/parsdefense/CVE-2021-1965"
+    ],
+    "tweetfavorites": 587,
+    "tweetquotes": 10,
+    "tweetreplies": 8,
+    "tweetretweets": 176,
+    "tweettext": "Zero-Click PoC Trigger for CVE-2021-1965 (Qualcomm SnapDragon WiFi Driver RCE) https://t.co/VKbb4qWUle https://t.co/89EeznIiGi",
+    "tweettime": "2022-02-18, 14:32:11",
+    "tweeturl": "https://twitter.com/ParsDefense/status/1494681154162671626",
+    "username": "ParsDefense"
+}
+{
+    "tweetfavorites": 356,
+    "tweetquotes": 15,
+    "tweetreplies": 9,
+    "tweetretweets": 123,
+    "tweettext": "🔥 We have reproduced the fresh CVE-2022-24086 Improper Input Validation vulnerability in Magento Open Source and Adobe Commerce.\n\nSuccessful exploitation could lead to RCE from an unauthenticated user. https://t.co/QFXd7M9VVO",
+    "tweettime": "2022-02-17, 09:19:59",
+    "tweeturl": "https://twitter.com/ptswarm/status/1494240197915123713",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2022/02/stable-channel-update-for-desktop_14.html"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "More 0Day in the wild found by TAG and quickly patched by Chrome.\n\nCVE-2022-0609: Use after free in Animation. Reported by Adam Weidemann and Clément Lecigne of Google's Threat Analysis Group on 2022-02-10\n\nhttps://t.co/WyFmzhTDQM",
+    "tweettime": "2022-02-16, 22:25:16",
+    "tweeturl": "https://twitter.com/ShaneHuntley/status/1494075433326768129",
+    "username": "ShaneHuntley"
+}
+{
+    "tweetfavorites": 41,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 20,
+    "tweettext": "This is the first zero-day fixed in Google Chrome since the start of 2022.\n\nTracked as CVE-2022-0609, it is a \"Use after free in Animation\" bug with High severity and has been seen exploited in the wild.\n\nIn 2021, a total of 16 zero-day vulnerabilities was fixed in Google Chrome.",
+    "tweettime": "2022-02-14, 23:43:56",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1493370454467297280",
+    "username": "BleepinComputer"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/en-us/HT213093",
+        "https://support.apple.com/en-us/HT213092"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 35,
+    "tweettext": "⚠ CVE-2022-22620 #0day in iOS, iPadOS, and macOS Monterey\n\n\"Processing maliciously crafted web content may lead to arbitrary code execution.\" \n\n\"Apple is aware of a report that this issue may have been actively exploited.\" 👀\n\nhttps://t.co/rxAMysSZsq\nhttps://t.co/y61BVKsFB0 https://t.co/F1C4mhCSAH",
+    "tweettime": "2022-02-11, 12:12:00",
+    "tweeturl": "https://twitter.com/BushidoToken/status/1492109158883250180",
+    "username": "BushidoToken"
+}
+{
+    "expanded_url": [
+        "https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "SpoolFool: Windows Print Spooler Privilege Escalation (CVE-2022-21999)\n\nPoC\nhttps://t.co/xz33zqm1hz https://t.co/go89Krsh24",
+    "tweettime": "2022-02-10, 13:23:49",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1491764846903410701",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://big5-sec.github.io/posts/an-analysis-of-cve-2022-21877/"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "A bit late, but here is an analysis for fun of CVE-2022-21877 (storage spaces controller memory leak) found by @linhlhq of @starlabs_sg : https://t.co/qOJzQV0uAM",
+    "tweettime": "2022-02-08, 23:26:42",
+    "tweeturl": "https://twitter.com/Big5_sec/status/1491191790602694656",
+    "username": "Big5_sec"
+}
+{
+    "tweetfavorites": 207,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 41,
+    "tweettext": "CVE-2022-22004: Microsoft Office ClickToRun Remote Code Execution Vulnerability\n\nThanks! https://t.co/mMq8pCC2Zp",
+    "tweettime": "2022-02-08, 19:05:53",
+    "tweeturl": "https://twitter.com/l33d0hyun/status/1491126152005820417",
+    "username": "l33d0hyun"
+}
+{
+    "tweetfavorites": 307,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 58,
+    "tweettext": "At 153 slides to explain the vuln + exploit for CVE-2020-29661, for #OST2 Vuln1001, with tons of animations for heap grooming, it’s starting to feel like I’m bumping up against the limits of Keynote (it’s slowing down). In any case here’s a gif of some key scenes! https://t.co/bygVkYNINb",
+    "tweettime": "2022-02-04, 15:31:53",
+    "tweeturl": "https://twitter.com/XenoKovah/status/1489622745772134403",
+    "username": "XenoKovah"
+}
+{
+    "expanded_url": [
+        "https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "Moodle: Blind SQL Injection (CVE-2021-36393) and Broken Access Control (CVE-2021-36397)  https://t.co/AFHvT3aBR1  #Pentesting #SQLInjection #CVE #CyberSecurity #Infosec https://t.co/68mewHm4r1",
+    "tweettime": "2022-02-03, 00:00:36",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1489025994199547909",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/manuelz120/CVE-2021-45897"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "CVE-2021-45897: SuiteCRM before 7.12.3 and 8.x before 8.0.2 allows remote code execution.\n\nPoC\nhttps://t.co/wzz3otyqGX https://t.co/Ytp9BTjdSW",
+    "tweettime": "2022-02-02, 13:03:48",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1488860704211935233",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/2/1/cve-2021-44142-details-on-a-samba-code-execution-bug-demonstrated-at-pwn2own-austin"
+    ],
+    "tweetfavorites": 257,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 122,
+    "tweettext": "CVE-2021-44142: Details on a #Samba remote code execution bug demonstrated at #Pwn2Own Austin. An OOB heap read/write vuln was present in versions prior to 4.13.17. Read all the details &amp; patch analysis at https://t.co/WparuqjSix",
+    "tweettime": "2022-02-01, 22:28:15",
+    "tweeturl": "https://twitter.com/thezdi/status/1488640366307950604",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html"
+    ],
+    "tweetfavorites": 149,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 49,
+    "tweettext": "My write-up of CVE-2021-36393 and CVE-2021-36397, SQL Injection and Broken Access Control in Moodle.\n\nhttps://t.co/rdKDb8rVcF",
+    "tweettime": "2022-02-01, 20:03:48",
+    "tweeturl": "https://twitter.com/0xkasper/status/1488604015801815051",
+    "username": "0xkasper"
+}

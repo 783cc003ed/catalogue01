@@ -1,0 +1,734 @@
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2023-045_Bouncy_Castle_For_Java/"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "GHSL-2023-045: LDAP injection in Bounty Castle For Java - CVE-2023-33201\nhttps://t.co/oh5wSbp1ho",
+    "tweettime": "2023-06-27, 15:31:38",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1673715721174392832",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://github.com/Chocapikk/CVE-2023-27372/tree/main"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 7,
+    "tweettext": "CVE-2023-27372 SPIP &lt; 4.2.1 - Remote Code Execution\nhttps://t.co/IWRxFWAtK6",
+    "tweettime": "2023-06-27, 14:15:01",
+    "tweeturl": "https://twitter.com/momika233/status/1673696438570864640",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/06/new-fortinets-fortinac-vulnerability.html"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 47,
+    "tweettext": "⚡️ Urgent security alert! Fortinet has released urgent updates to fix a critical #vulnerability (CVE-2023-33299) in FortiNAC, exposing networks to arbitrary code execution. \n\nLearn more: https://t.co/mAuDsuD6U0\n\n#cybersecurity #informationsecurity #hacking #infosec",
+    "tweettime": "2023-06-27, 05:37:03",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1673566086728503297",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept https://t.co/R4jxqjVQdm  #Pentesting #CVE #CyberSecurity #Infosec https://t.co/RB6fq4rqxP",
+    "tweettime": "2023-06-26, 09:00:35",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1673254919606870018",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://qriousec.github.io/post/vbox-pwn2own-2023/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "Analysis of VirtualBox CVE-2023-21987 and CVE-2023-21991 https://t.co/iR0dIHO0WL  #Pentesting #VirtualBox #CVE #CyberSecurity #Infosec https://t.co/U6ronAwTH9",
+    "tweettime": "2023-06-25, 03:55:04",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1672815648114606082",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "RT @filip_dragovic: Here is my PoC for CVE-2023-20178 / Arbitrary File Delete vulnerability in Cisco Secure Client and Cisco AnyConnect whi…",
+    "tweettime": "2023-06-23, 16:08:57",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1672275558229581826",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://github.com/dhmosfunk/CVE-2023-25690-POC"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "\"CVE-2023-25690-POC: CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability.\"\n\n#infosec #pentest #redteam \nhttps://t.co/hUPqajzIsx https://t.co/Osf18FLo2E",
+    "tweettime": "2023-06-23, 09:20:03",
+    "tweeturl": "https://twitter.com/CyberWarship/status/1672172658543271936",
+    "username": "CyberWarship"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "RT @thezdi: CVE-2022-31696: @renorobertr takes an in-depth look at this #VMware #ESXi type confusion privilege escalation he discovered. He…",
+    "tweettime": "2023-06-22, 16:05:52",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1671912395315331074",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2023/6/21/cve-2022-31696-an-analysis-of-a-vmware-esxi-tcp-socket-keepalive-type-confusion-lpe"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "CVE-2022-31696: @renorobertr takes an in-depth look at this #VMware #ESXi type confusion privilege escalation he discovered. He shows his research methodology and looks at the patch released to fix it.\n\nhttps://t.co/hrx3RjUv1L",
+    "tweettime": "2023-06-22, 16:03:00",
+    "tweeturl": "https://twitter.com/thezdi/status/1671911673886547972",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/en-us/HT201222"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 22,
+    "tweettext": "Apple has released updates for WebKit CVE-2023-32439, which was being exploited in the wild.\nYou know the drill.\nhttps://t.co/XcklPbL1J3 https://t.co/pmuUKmnCvF",
+    "tweettime": "2023-06-22, 00:27:50",
+    "tweeturl": "https://twitter.com/wdormann/status/1671676332302843904",
+    "username": "wdormann"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 122,
+    "tweettext": "RT @oct0xor: Today Apple released updates for CVE-2023-32434 (Kernel) and CVE-2023-32435 (WebKit) in-the-wild zero-days which were discover…",
+    "tweettime": "2023-06-21, 20:05:09",
+    "tweeturl": "https://twitter.com/maddiestone/status/1671610223818330115",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/7500/files"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "RT @RitikChaddha: CVE-2023-34362 - MOVEit Transfer - Remote Code Execution (critical) 🚨🚨\n\nNuclei Template :\nhttps://t.co/PTiasZqMjl\n\n@pdnuc…",
+    "tweettime": "2023-06-21, 19:36:23",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1671602986382942224",
+    "username": "pdnuclei"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "RT @bishopfox: We’ve created a tool to quickly check if a remote #FortiGate firewall is affected by critical #vulnerability #CVE-2023-27997…",
+    "tweettime": "2023-06-20, 21:46:52",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1671273436625375232",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 114,
+    "tweettext": "RT @hyprdude: part 2 of my latest blog post covering the heap overflow I found in MiniDLNA (CVE-2023-33476) is up! this one focuses on the…",
+    "tweettime": "2023-06-20, 12:28:38",
+    "tweeturl": "https://twitter.com/chompie1337/status/1671132952690847745",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "Retweet due to so many people asked for the gadgetchain of CVE-2021-35587 in OAM 10g,\nThe step to reproduce it has already been provided in  section \"Universal gadget chain for 10.3.x\"\nDetail: https://t.co/mDXx1HCVQh https://t.co/Gmm6CbA2P8",
+    "tweettime": "2023-06-20, 11:21:00",
+    "tweeturl": "https://twitter.com/testanull/status/1671115931605696512",
+    "username": "testanull"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 114,
+    "tweettext": "RT @hyprdude: part 2 of my latest blog post covering the heap overflow I found in MiniDLNA (CVE-2023-33476) is up! this one focuses on the…",
+    "tweettime": "2023-06-20, 07:33:14",
+    "tweeturl": "https://twitter.com/steventseeley/status/1671058613216096260",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 114,
+    "tweettext": "RT @hyprdude: part 2 of my latest blog post covering the heap overflow I found in MiniDLNA (CVE-2023-33476) is up! this one focuses on the…",
+    "tweettime": "2023-06-20, 06:04:55",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1671036384516112384",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://frycos.github.io/vulns4free/2023/06/18/fortinac.html"
+    ],
+    "tweetfavorites": 82,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 35,
+    "tweettext": "CVE-2022-39952: A external control of file name or path in Fortinet FortiNAC allow an unauthenticated attacker to execute unauthorized code or commands via specifically crafted HTTP request.\n\ncc @frycos \n\nPoC\nhttps://t.co/dxaP2DmeB2 https://t.co/G3QFLVyYN2",
+    "tweettime": "2023-06-20, 02:10:11",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1670977312211324931",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "RT @starlabs_sg: \"Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability\" is by our former inte…",
+    "tweettime": "2023-06-19, 19:04:57",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1670870300538335250",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "RT @starlabs_sg: \"Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability\" is by our former inte…",
+    "tweettime": "2023-06-19, 15:32:18",
+    "tweeturl": "https://twitter.com/chompie1337/status/1670816786713812992",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-23333"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "https://t.co/7ZztFwHNpL CVE-2023-23333 SolarView Compact through 6.00 RCE. ZoomEye: \"SolarView Compact\" Mainly distributed in Japan. https://t.co/RyZnIcYoeD",
+    "tweettime": "2023-06-19, 04:48:35",
+    "tweeturl": "https://twitter.com/80vul/status/1670654790391730176",
+    "username": "80vul"
+}
+{
+    "expanded_url": [
+        "https://github.com/Wh04m1001/CVE-2023-20178"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "CVE-2023-20178: Arbitrary File Delete vulnerability in Cisco Secure Client (tested on 5.0.01242) and Cisco AnyConnect (tested on 4.10.06079).\n\nPoC\nhttps://t.co/qWnrOu3ktJ https://t.co/v3feJ2Qp2V",
+    "tweettime": "2023-06-19, 02:03:59",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1670613364232564737",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/Aituglo/CVE-2023-34960/blob/master/poc.py"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 0,
+    "tweetreplies": 4,
+    "tweetretweets": 33,
+    "tweettext": "CVE-2023-34960 Chamilo PoC\nhttps://t.co/wSut4tZdJa",
+    "tweettime": "2023-06-17, 01:53:12",
+    "tweeturl": "https://twitter.com/momika233/status/1669885874291740672",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://community.progress.com/s/article/MOVEit-Transfer-Critical-Vulnerability-15June2023"
+    ],
+    "tweetfavorites": 137,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 44,
+    "tweettext": "There's a new MOVEit Transfer vulnerability.\nNo, not that one. A new one: CVE-2023-35708\nGet patching (again).\nhttps://t.co/HT1TR3E40Q https://t.co/JqvXdGbE9V",
+    "tweettime": "2023-06-16, 12:53:35",
+    "tweeturl": "https://twitter.com/wdormann/status/1669689677824049154",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://github.com/lanleft/CVE2023-1829"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2023-1829: A use-after-free vulnerability in the Linux Kernel traffic control index filter (tcindex) can be exploited to achieve local privilege escalation.\n\nPoc\n\nhttps://t.co/o5tCESU91N https://t.co/mS1EnUcfIW",
+    "tweettime": "2023-06-16, 11:07:57",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1669663093587099648",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/d3vc0r3/6460a5f006e32a2ebffe739e411ab1b8"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "CVE-2023-24243: CData Arc/API/Sync &lt;= v22.0.8336 Server-Side Request Forgery (SSRF) vulnerablity\n\nPoC\nhttps://t.co/rjaaQNZhGi https://t.co/NyxRJz6Y7G",
+    "tweettime": "2023-06-16, 11:02:45",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1669661786457423873",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "RT @Y4er_ChaBug: Great article! But I think you are missing a very critical part, CVE-2023-20887 is actually a patch bypass for CVE-2022-31…",
+    "tweettime": "2023-06-15, 17:05:28",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1669390680689344512",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://huntr.dev/bounties/1eb74fd8-0258-4c1f-a904-83b52e373a87/"
+    ],
+    "tweetfavorites": 82,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "CVE-2023-3224:  Nuxt contains a test-component-wrapper component.... accepts arbitrary user input on the server side. This pattern will almost always lead to an RCE bug.\n\nPoC\nhttps://t.co/Nc4vhONAk4 https://t.co/TOaojcQufi",
+    "tweettime": "2023-06-15, 12:01:12",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1669314110670921728",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://blog.lexfo.fr/xortigate-cve-2023-27997.html"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 34,
+    "tweettext": "The bug is exploitable by issuing GET/POST requests to any of the two URLs: /remote/hostcheck_validate, and /remote/logincheck\nXORtigate: Pre-authentication Remote Code Execution on Fortigate VPN (CVE-2023-27997)\nhttps://t.co/aznfja8zF8",
+    "tweettime": "2023-06-14, 17:02:35",
+    "tweeturl": "https://twitter.com/momika233/status/1669027565917597697",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2023-1734",
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2023-1730"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "2 more to the collection :\nCVE-2023-33133 - Microsoft Office Excel WebCharts out-of-bounds write vulnerability : https://t.co/e51pNDk79W\n\nCVE-2023-32029 - Microsoft Office Excel FreePhisxdb arbitrary free vulnerability : https://t.co/fy3w2WpkLI",
+    "tweettime": "2023-06-14, 11:32:07",
+    "tweeturl": "https://twitter.com/_Icewall/status/1668944401442258948",
+    "username": "_Icewall"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 105,
+    "tweettext": "RT @SinSinology: 🚨 Here is the #Exploit and technical detail for the CVE-2023-20887 Pre-Authenticated Remote Code Execution in #VMWare vRea…",
+    "tweettime": "2023-06-14, 03:02:02",
+    "tweeturl": "https://twitter.com/steventseeley/status/1668816036865638400",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 111,
+    "tweettext": "RT @LexfoSecurite: #Fortinet patched #CVE-2023-27997, a critical vulnerability affecting its VPN #Fortigate. Our latest blogpost describes…",
+    "tweettime": "2023-06-14, 00:17:31",
+    "tweeturl": "https://twitter.com/steventseeley/status/1668774635037675520",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 111,
+    "tweettext": "RT @LexfoSecurite: #Fortinet patched #CVE-2023-27997, a critical vulnerability affecting its VPN #Fortigate. Our latest blogpost describes…",
+    "tweettime": "2023-06-13, 21:45:27",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1668736363024510979",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 274,
+    "tweettext": "RT @kevin_backhouse: This video shows my PoC for libssh CVE-2023-2283 (authentication bypass vuln). The attacker logs in with ED25519 authe…",
+    "tweettime": "2023-06-13, 20:44:16",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1668720964903882754",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2022/CVE-2022-4262.html"
+    ],
+    "tweetfavorites": 129,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "😍 New RCA! The v8 security team is at it again with a new RCA for CVE-2022-4262, the #itw0days patched in December 2022. I really like how they modified the fuzzing flag to better find this class of bugs! Thank you @5aelo! 🔥\n\n https://t.co/nsVXKPHjym https://t.co/ARp4s5meAn",
+    "tweettime": "2023-06-13, 17:14:37",
+    "tweeturl": "https://twitter.com/maddiestone/status/1668668207920717826",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://labs.watchtowr.com/xortigate-or-cve-2023-27997/"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "#Xortigate, or CVE-2023-27997 - The Rumoured #RCE That Was\n\n#Fortinet #Fortigate \n\nhttps://t.co/HNGALfvsmO",
+    "tweettime": "2023-06-13, 05:17:07",
+    "tweeturl": "https://twitter.com/0xdea/status/1668487640725823488",
+    "username": "0xdea"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "RT @BushidoToken: Confirmed: Volt Typhoon used an auth bypass CVE-2022-40684 in FortiOS products for initial access\n\nUnconfirmed: If Volt T…",
+    "tweettime": "2023-06-13, 00:56:30",
+    "tweeturl": "https://twitter.com/wdormann/status/1668422054872219650",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://github.com/horizon3ai/CVE-2023-34362"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "GitHub - horizon3ai/CVE-2023-34362: MOVEit CVE-2023-34362 - https://t.co/BfEVOjC4K2",
+    "tweettime": "2023-06-12, 12:48:37",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1668238879714062343",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "RT @Horizon3Attack: CVE-2023-34362, affecting MOVEit Transfer, enables unauth RCE through a series of issues:\n🔺 Custom Header abuse to SSRF…",
+    "tweettime": "2023-06-12, 12:04:57",
+    "tweeturl": "https://twitter.com/testanull/status/1668227888041304064",
+    "username": "testanull"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "RT @Horizon3Attack: CVE-2023-34362, affecting MOVEit Transfer, enables unauth RCE through a series of issues:\n🔺 Custom Header abuse to SSRF…",
+    "tweettime": "2023-06-12, 11:40:41",
+    "tweeturl": "https://twitter.com/steventseeley/status/1668221781952569346",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 93,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 31,
+    "tweettext": "I heard a rumor that the recent FortiOS versions 7.2.5, 7.0.12, 6.4.13, 6.2.15, 6.0.17 fix remotely exploitable CVE-2023-27997\nNot that you would know this by looking at #Fortinet PSIRT publications or anything.\nCan't have miscreants finding out about this, amirite? https://t.co/TXouhIc3vW",
+    "tweettime": "2023-06-11, 13:15:25",
+    "tweeturl": "https://twitter.com/wdormann/status/1667883233122320384",
+    "username": "wdormann"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 274,
+    "tweettext": "RT @kevin_backhouse: This video shows my PoC for libssh CVE-2023-2283 (authentication bypass vuln). The attacker logs in with ED25519 authe…",
+    "tweettime": "2023-06-09, 16:23:48",
+    "tweeturl": "https://twitter.com/chompie1337/status/1667205864942387214",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://www.numencyber.com/cve-2023-29336-win32k-analysis/"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 12,
+    "tweettext": "CVE-2023-29336: The recent Microsoft security patch uncovered a critical privilege escalation vulnerability within win32k, which has already been exploited in real-world\n\nPoC\nhttps://t.co/1QqtCm2hxm https://t.co/lBCcGDORuD",
+    "tweettime": "2023-06-09, 11:22:04",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1667129932168810498",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/86x/CVE-2023-32353-PoC"
+    ],
+    "tweetfavorites": 134,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 52,
+    "tweettext": "GitHub - 86x/CVE-2023-32353-PoC: Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows - https://t.co/oLiSQZD6h9",
+    "tweettime": "2023-06-08, 23:38:47",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1666952946649829376",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2023/CVE-2023-28252.html"
+    ],
+    "tweetfavorites": 130,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 29,
+    "tweettext": "😎NEW RCA! Genwei Jiang of @Mandiant authored an RCA on CVE-2023-28252, the Windows CLFS in-the-wild 0-day that was patched in April. #itw0days\n\nhttps://t.co/ui9KVo9ylp https://t.co/Brwg8e0Bei",
+    "tweettime": "2023-06-08, 22:32:16",
+    "tweeturl": "https://twitter.com/maddiestone/status/1666936207954284545",
+    "username": "maddiestone"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 274,
+    "tweettext": "RT @kevin_backhouse: This video shows my PoC for libssh CVE-2023-2283 (authentication bypass vuln). The attacker logs in with ED25519 authe…",
+    "tweettime": "2023-06-08, 15:48:42",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1666834647354060801",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://chromium.googlesource.com/v8/v8.git/+/e144f3b71e64e01d6ffd247eb15ca1ff56f6287b",
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments",
+        "https://mathiasbynens.be/notes/shapes-ics"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Latest In-The-Wild Google Chrome V8 type confusion vulnerability (CVE-2023-3079) is patched[1] by fixing store handler selection for arguments objects [2] during inline caching [3]:\n1- https://t.co/G0wbhUskzR\n2- https://t.co/GlNtSg5EjS\n3- https://t.co/C4c5Lme99v",
+    "tweettime": "2023-06-08, 02:24:56",
+    "tweeturl": "https://twitter.com/hosselot/status/1666632372870103040",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2023/06/stable-channel-update-for-desktop.html"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 19,
+    "tweettext": "Another #itw0days discovered by @_clem1! CVE-2023-3079 in v8. Patch released by Chrome within 4 days of report!\n\nhttps://t.co/FACjoECvOc",
+    "tweettime": "2023-06-06, 14:56:53",
+    "tweeturl": "https://twitter.com/maddiestone/status/1666096831372328968",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/05/keepass-exploit-allows-attackers-to.html"
+    ],
+    "tweetfavorites": 184,
+    "tweetquotes": 5,
+    "tweetreplies": 3,
+    "tweetretweets": 89,
+    "tweettext": "UPDATE — KeePass releases v2.54 update, fixing CVE-2023-32784, a critical flaw that enables extraction of the master password from memory.\n\nhttps://t.co/a7demQDwSX",
+    "tweettime": "2023-06-06, 13:27:10",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1666074252527931394",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/sites/default/files/2023-06/Synacktiv-3DS-Delmia_Apriso_2017_to_2022-Multiple-Vulnerabilities.pdf"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "During a security assessment, our ninjas @kalimer0x00 and @us3r777 found multiple vulnerabilities on the DELMIA Apriso software:\n\nCVE-2023-2141: an unsafe deserialization\nCVE-2023-2140: a pre-auth SSRF\nCVE-2023-2139: a reflected XSS\n\nhttps://t.co/IM9PWNBUHu https://t.co/YMHPHk7IO6",
+    "tweettime": "2023-06-06, 13:08:27",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1666069541112143875",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://github.com/hacksysteam/CVE-2023-21608"
+    ],
+    "tweetfavorites": 361,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 142,
+    "tweettext": "Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit - by @HackSysTeam \nhttps://t.co/IjngCUorov",
+    "tweettime": "2023-06-05, 08:39:27",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1665639456747945991",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 402,
+    "tweettext": "RT @MsftSecIntel: Microsoft is attributing attacks exploiting the CVE-2023-34362 MOVEit Transfer 0-day vulnerability to Lace Tempest, known…",
+    "tweettime": "2023-06-05, 02:19:20",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1665543797562920960",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/ImageMagick/ImageMagick/issues/6338"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 67,
+    "tweettext": "RT @ShawarkOFFICIAL: Imagemagick CVE-2023-34152 Shell command injection\n\nhttps://t.co/Bb5d2gczCD",
+    "tweettime": "2023-06-05, 02:18:52",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1665543682513068033",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6019g9J5l"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "Microsoft strongly urges organizations affected by the CVE-2023-34362 MOVEit Transfer vulnerability to apply security patches and perform mitigation actions provided by Progress in their security advisory. https://t.co/Zo5KuQliOq",
+    "tweettime": "2023-06-05, 01:55:15",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1665537736231583744",
+    "username": "MsftSecIntel"
+}
+{
+    "tweetfavorites": 36,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 6,
+    "tweettext": "Exploitation is often followed by deployment of a web shell w/ data exfil capabilities. CVE-2023-34362 allows attackers to authenticate as any user. Lace Tempest (Storm-0950, overlaps w/ FIN11, TA505) authenticates as the user with the highest privileges to exfiltrate files.",
+    "tweettime": "2023-06-05, 01:55:14",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1665537734746816512",
+    "username": "MsftSecIntel"
+}
+{
+    "tweetfavorites": 833,
+    "tweetquotes": 41,
+    "tweetreplies": 10,
+    "tweetretweets": 420,
+    "tweettext": "Microsoft is attributing attacks exploiting the CVE-2023-34362 MOVEit Transfer 0-day vulnerability to Lace Tempest, known for ransomware operations &amp; running the Clop extortion site. The threat actor has used similar vulnerabilities in the past to steal data &amp; extort victims. https://t.co/q73WtGru7j",
+    "tweettime": "2023-06-05, 01:55:13",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1665537730946670595",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF -exploit:\nhttps://t.co/C9DI6WTyMO",
+    "tweettime": "2023-06-04, 21:31:58",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1665471481344655361",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 72,
+    "tweettext": "RT @maddiestone: ✨🤖 New RCA by @tehjh up! CVE-2023-20963 is a 0-day in Android's Parcel serialization/deserialization which was used in-the…",
+    "tweettime": "2023-06-02, 03:53:00",
+    "tweeturl": "https://twitter.com/testanull/status/1664480204692283393",
+    "username": "testanull"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 73,
+    "tweettext": "RT @maddiestone: ✨🤖 New RCA by @tehjh up! CVE-2023-20963 is a 0-day in Android's Parcel serialization/deserialization which was used in-the…",
+    "tweettime": "2023-06-01, 17:05:08",
+    "tweeturl": "https://twitter.com/CodeColorist/status/1664317165732872211",
+    "username": "CodeColorist"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2023/CVE-2023-20963.html"
+    ],
+    "tweetfavorites": 176,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 73,
+    "tweettext": "✨🤖 New RCA by @tehjh up! CVE-2023-20963 is a 0-day in Android's Parcel serialization/deserialization which was used in-the-wild by the pinduoduo app. #itw0days\n\nhttps://t.co/7Jah3SRvpu",
+    "tweettime": "2023-06-01, 15:58:02",
+    "tweeturl": "https://twitter.com/maddiestone/status/1664300280853446656",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2023/5/31/cve-2023-24941-microsoft-network-file-system-remote-code-execution"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2023-24941: #Microsoft patched another RCE in the NFS server (CVSS 9.8), and the folks from Trend Micro research provide all the details and some detection guidance. Read all about it at https://t.co/ijxPnd0tl0",
+    "tweettime": "2023-06-01, 15:05:00",
+    "tweeturl": "https://twitter.com/thezdi/status/1664286932455550977",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/06/active-mirai-botnet-variant-exploiting.html"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "U.S. Cybersecurity Agency raises alarm over critical flaw in Zyxel gear! Active exploitation detected. Learn more about the CVE-2023-28771 vulnerability and its potential risks.\n\nRead: https://t.co/UVTbaR3Oe1\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2023-06-01, 04:19:33",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1664124498725969920",
+    "username": "TheHackersNews"
+}

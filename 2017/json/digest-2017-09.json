@@ -1,0 +1,78 @@
+{
+    "expanded_url": [
+        "https://security.szurek.pl/synology-photo-station-673-3432-remote-code-execution.html"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
+    "tweettext": "#Synology Photo Station 6.7.3 unauthenticated #RCE Chain of 4 bugs #CVE-2017-11151-11155 https://t.co/2GNABXfwyf https://t.co/AhOkxUsg2A",
+    "tweettime": "2017-09-18, 04:06:49",
+    "tweeturl": "https://twitter.com/KacperSzurek/status/909629760388714496",
+    "username": "KacperSzurek"
+}
+{
+    "expanded_url": [
+        "https://blog.gdssecurity.com/labs/2017/3/27/an-analysis-of-cve-2017-5638.html"
+    ],
+    "tweetfavorites": 156,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 114,
+    "tweettext": "Analysis of CVE-2017-5638 (Apache Struts 2 RCE) https://t.co/un4wVq9B1B #equihax #equifax #vulnerability https://t.co/fHTTuGrdRA",
+    "tweettime": "2017-09-17, 09:56:23",
+    "tweeturl": "https://twitter.com/x0rz/status/909355342542327809",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "http://seclists.org/fulldisclosure/2017/Sep/33"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "Exploit toolkit for CVE-2017-8759 - Microsoft .NET Framework RCE (Builder + listener + video tutorial) https://t.co/uz05I6NUzv",
+    "tweettime": "2017-09-15, 19:02:14",
+    "tweeturl": "https://twitter.com/Dinosn/status/908767937074515973",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://helpx.adobe.com/security/products/coldfusion/apsb17-30.html"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 64,
+    "tweettext": "Running ColdFusion? Update now. Critical unauthenticated RCE (as SYSTEM by default) https://t.co/gYkePFxXyl CVE-2017-11283 &amp; CVE-2017-11284",
+    "tweettime": "2017-09-12, 18:31:51",
+    "tweeturl": "https://twitter.com/nickstadb/status/907673124686229505",
+    "username": "nickstadb"
+}
+{
+    "expanded_url": [
+        "https://www.imperva.com/blog/2017/09/cve-2017-9805-analysis-of-apache-struts-rce-vulnerability-in-rest-plugin/"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "CVE-2017-9805: Analysis of Apache Struts RCE Vulnerability in REST Plugin https://t.co/B7cGt2NQU0",
+    "tweettime": "2017-09-08, 17:20:59",
+    "tweeturl": "https://twitter.com/Dinosn/status/906205737893945348",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html?m=1"
+    ],
+    "tweetfavorites": 139,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 40,
+    "tweettext": "Achievement unlocked!\nMy first UAF on Chrome\nCVE-2017-5111\nhttps://t.co/dFWRURLjdv",
+    "tweettime": "2017-09-06, 04:00:42",
+    "tweeturl": "https://twitter.com/l4wio/status/905279567060926464",
+    "username": "l4wio"
+}

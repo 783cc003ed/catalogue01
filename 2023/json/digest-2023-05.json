@@ -1,0 +1,353 @@
+{
+    "expanded_url": [
+        "https://msft.it/6018gegrs"
+    ],
+    "tweetfavorites": 215,
+    "tweetquotes": 15,
+    "tweetreplies": 2,
+    "tweetretweets": 99,
+    "tweettext": "A macOS vulnerability could allow an attacker with root access to bypass System Integrity Protection (SIP) and perform arbitrary operations on a device. Learn more about CVE-2023-32369, which we refer to as “Migraine”, and its patch in our latest blog: https://t.co/DAyWI2zsec",
+    "tweettime": "2023-05-30, 16:03:00",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1663576753204342785",
+    "username": "MsftSecIntel"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 90,
+    "tweettext": "RT @mmolgtm: This time I'll look at CVE-2022-46395, an Arm Mali GPU driver UAF I found by analysing Jann Horn's CVE-2022-36449. I'll also u…",
+    "tweettime": "2023-05-26, 14:20:39",
+    "tweeturl": "https://twitter.com/0vercl0k/status/1662101446136037379",
+    "username": "0vercl0k"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 88,
+    "tweettext": "RT @mmolgtm: This time I'll look at CVE-2022-46395, an Arm Mali GPU driver UAF I found by analysing Jann Horn's CVE-2022-36449. I'll also u…",
+    "tweettime": "2023-05-25, 23:37:53",
+    "tweeturl": "https://twitter.com/steventseeley/status/1661879290760417280",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 90,
+    "tweettext": "RT @mmolgtm: This time I'll look at CVE-2022-46395, an Arm Mali GPU driver UAF I found by analysing Jann Horn's CVE-2022-36449. I'll also u…",
+    "tweettime": "2023-05-25, 20:40:04",
+    "tweeturl": "https://twitter.com/chompie1337/status/1661834542531878926",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "Get root privileges on an Android phone! Learn how @mmolgtm  discovered CVE-2022-46395 in the Arm Mali kernel driver via root cause analysis of a Project Zero bug and then used it to get root privileges! https://t.co/tF4gDXY8yt",
+    "tweettime": "2023-05-25, 16:23:58",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1661770089308233728",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2022/CVE-2022-3723.html"
+    ],
+    "tweetfavorites": 140,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 32,
+    "tweettext": "💫New RCA from @5aelo on CVE-2022-3723, a logic issue in Chrome's Turbofan JIT compiler. \n\nhttps://t.co/2DXg2Ez2yc",
+    "tweettime": "2023-05-25, 13:36:34",
+    "tweeturl": "https://twitter.com/maddiestone/status/1661727963237462019",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://ti.qianxin.com/blog/articles/CVE-2023-28252-Analysis-of-In-the-Wild-Exploit-Sample-of-CLFS-Privilege-Escalation-Vulnerability/"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "Windows CLFS #EoP #CVE-2023-28252\nAnalysis of in-the-wild exp sample and vuln root cause\n\nCheck out the report for more details: https://t.co/cuFstpbizn https://t.co/sD75wtWQlv",
+    "tweettime": "2023-05-23, 10:54:57",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1660962515399094273",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://github.com/dhmosfunk/CVE-2023-25690-POC"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 14,
+    "tweettext": "CVE-2023-25690: Some mod_proxy configurations on Apache HTTP Server versions 2.4.0 through 2.4.55 allow a HTTP Request Smuggling attack. Configurations are affected when mod_proxy is enabled..\n\nPoC\nhttps://t.co/IEYwKMYgDk https://t.co/o5za0BbyHO",
+    "tweettime": "2023-05-23, 01:11:49",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1660815765564698624",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/dhmosfunk/CVE-2023-25690-POC"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 47,
+    "tweettext": "GitHub - dhmosfunk/CVE-2023-25690-POC: CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. - https://t.co/CAmymVsMoI",
+    "tweettime": "2023-05-22, 05:57:07",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1660525177028100096",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/WebKit/WebKit/commit/e34edaa74575ee13efcebdb7672b949a743ab32a"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2023-28204(Safari 0-day, may have been actively exploited) - commit e34edaa (https://t.co/DUcwn4jwcJ) \"[JSC]",
+    "tweettime": "2023-05-21, 01:26:42",
+    "tweeturl": "https://twitter.com/momika233/status/1660094736848523264",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/WebKit/WebKit/commit/e34edaa74575ee13efcebdb7672b949a743ab32a"
+    ],
+    "tweetfavorites": 147,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Apparently, recent Apple Safari in the wild full chain exploit used 3 vulnerabilities:\n1/3- Information disclosure within \"RegExpGlobalData::performMatch\" (CVE-2023-28204):\nhttps://t.co/wOy4Rctzhl\n\nThis vulnerability is potentially used to leak information to adjust shellcode.",
+    "tweettime": "2023-05-20, 14:39:45",
+    "tweeturl": "https://twitter.com/hosselot/status/1659931923936862209",
+    "username": "hosselot"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @stephenfewer: Our @rapid7 AttackerKB analysis detailing CVE-2023-28771 is available. Unauthenticated command injection on the WAN inter…",
+    "tweettime": "2023-05-19, 21:32:32",
+    "tweeturl": "https://twitter.com/steventseeley/status/1659673415803076609",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://bishopfox.com/blog/exploit-cve-2022-42475"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "Very nice article by @bishopfox  \n\nA More Complete #Exploit for #Fortinet CVE-2022-42475\n\nhttps://t.co/DCPzzShXT9",
+    "tweettime": "2023-05-19, 16:57:14",
+    "tweeturl": "https://twitter.com/0xdea/status/1659604134352371721",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://labs.watchtowr.com/fortinet-no-more-funny-titles-cve-2022-42475/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 5,
+    "tweettext": "Starting to catch up with articles that have been waiting in my #TODO list for a while...\n\nFirst up: We're Out Of Titles For #VPN Vulns - It's Not Funny Anymore (#Fortinet CVE-2022-42475)\n\nhttps://t.co/Plf7kTDGJ7 https://t.co/4NUcTNxl9K",
+    "tweettime": "2023-05-19, 15:55:41",
+    "tweeturl": "https://twitter.com/0xdea/status/1659588643957141505",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2022/CVE-2022-41073.html"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "We also posted the RCA of CVE-2022-41073. #itw0days https://t.co/ZHcMRmwHNU",
+    "tweettime": "2023-05-19, 13:44:42",
+    "tweeturl": "https://twitter.com/maddiestone/status/1659555682255884293",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://github.com/maddiestone/ConPresentations/blob/master/OffensiveCon2023.PrintSpooler.pdf"
+    ],
+    "tweetfavorites": 425,
+    "tweetquotes": 1,
+    "tweetreplies": 7,
+    "tweetretweets": 135,
+    "tweettext": "Here are the slides from @tiraniddo and my talk, \"The Print Spooler Bug that Wasn't\" this morning at @offensive_con. We take you through our investigation into CVE-2022-41073, an in-the-wild 0-day that Microsoft patched in Nov 2022. #OffensiveCon2023\n https://t.co/nM1T5a5XoR https://t.co/6jpiEclnTD",
+    "tweettime": "2023-05-19, 13:44:41",
+    "tweeturl": "https://twitter.com/maddiestone/status/1659555679743385600",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/en-us/HT213757"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 36,
+    "tweettext": "Apple's new security release states that's the rapid security response from a few weeks ago patched 3 Safari itw 0-days: CVE-2023-32409, CVE-2023-28204, CVE-2023-32373. CVE-2023-32409 was reported by @_clem1 and @DonnchaC \n\nhttps://t.co/eDkfPJ4XSF https://t.co/9Q4QMglbF6",
+    "tweettime": "2023-05-19, 04:26:23",
+    "tweeturl": "https://twitter.com/maddiestone/status/1659415179237511170",
+    "username": "maddiestone"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "RT @thezdi: At #Pwn2Own Vancouver, @hi_im_d4rkn3ss of @starlabs_sg used 2 bugs to exploit #VMware Workstation. CVE-2023-20869/20870 are now…",
+    "tweettime": "2023-05-19, 00:30:02",
+    "tweeturl": "https://twitter.com/testanull/status/1659355697547722753",
+    "username": "testanull"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "RT @thezdi: At #Pwn2Own Vancouver, @hi_im_d4rkn3ss of @starlabs_sg used 2 bugs to exploit #VMware Workstation. CVE-2023-20869/20870 are now…",
+    "tweettime": "2023-05-18, 19:11:09",
+    "tweeturl": "https://twitter.com/chompie1337/status/1659275448734347268",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2023/5/17/cve-2023-2086920870-exploiting-vmware-workstation-at-pwn2own-vancouver"
+    ],
+    "tweetfavorites": 174,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "At #Pwn2Own Vancouver, @hi_im_d4rkn3ss of @starlabs_sg used 2 bugs to exploit #VMware Workstation. CVE-2023-20869/20870 are now patched, so he provides details of the uninitialized variable &amp; stack-based overflow bugs he used to win $80K. Read the blog at https://t.co/ZHKOs4ucsx",
+    "tweettime": "2023-05-18, 15:52:24",
+    "tweeturl": "https://twitter.com/thezdi/status/1659225431780753408",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.com/RandomRobbieBF/CVE-2023-32243"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2023-32243: WordPress Plugin Essential Addons for Elementor 5.4.0-5.7.1 - Unauthenticated Privilege Escalation.\n\nPoC\nhttps://t.co/la1rVro1Wg https://t.co/HMC1W79omr",
+    "tweettime": "2023-05-16, 14:38:55",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1658482162486878208",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/Liuk3r/CVE-2023-32233"
+    ],
+    "tweetfavorites": 138,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 35,
+    "tweettext": "CVE-2023-32233: Linux kernel through 6.3.1, a use-after-free in Netfilter nf_tables when processing batch requests can be abused to perform arbitrary read and write operations on kernel memory. Unprivileged local users can obtain root privileges.\n\nPoC\nhttps://t.co/ZaCZwGwShr https://t.co/Glb2zm4tXL",
+    "tweettime": "2023-05-16, 14:21:32",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1658477790398935042",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/j00sean/SecBugs/tree/main/CVEs/CVE-2023-27363"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "CVE-2023-27363: Foxit PDF Reader Remote Code Execution Vulnerability.\n\nPoC\nhttps://t.co/nNsDZ0n7jD https://t.co/cYKzyU6ufe",
+    "tweettime": "2023-05-12, 17:41:37",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1657078589706100753",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2023-085_libssh/"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "GHSL-2023-085: Authentication bypass in libssh - CVE-2023-2283 https://t.co/NFOrNi1jCm",
+    "tweettime": "2023-05-09, 16:22:34",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1655971533917913102",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://github.com/glavstroy/CVE-2023-28231"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "CVE-2023-28231: DHCP Server Service Remote Code Execution Vulnerability\n\nPoC\nhttps://t.co/b5Fpveg9fW https://t.co/9UzCM8erX9",
+    "tweettime": "2023-05-06, 16:33:32",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1654887129778880514",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/Malwareman007/CVE-2023-27326"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "Parallels Desktop VM Escape\nCVE-2023-27326\nhttps://t.co/5DbYPcCxig",
+    "tweettime": "2023-05-06, 08:16:34",
+    "tweeturl": "https://twitter.com/momika233/status/1654762062852280321",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 65,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 10,
+    "tweettext": "CVE-2023-25826  OpenTSDB 2.4.1 RCE https://t.co/OXQ4yZafQB",
+    "tweettime": "2023-05-06, 08:15:57",
+    "tweeturl": "https://twitter.com/chybeta/status/1654761907432353794",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 480,
+    "tweetquotes": 27,
+    "tweetreplies": 4,
+    "tweetretweets": 207,
+    "tweettext": "More actors are exploiting unpatched CVE-2023-27350 in print management software Papercut since we last reported on Lace Tempest. Microsoft has now observed Iranian state-sponsored threat actors Mint Sandstorm (PHOSPHORUS) &amp; Mango Sandstorm (MERCURY) exploiting CVE-2023-27350.",
+    "tweettime": "2023-05-05, 22:12:22",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1654610012457648129",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://source.android.com/docs/security/bulletin/2023-05-01#2023-05-05-security-patch-level-vulnerability-details"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 22,
+    "tweettext": "The Android ITW LPE bug, CVE-2023-0266, discovered by @_clem1 in January is fixed in the May Android Security Bulletin. If your device has security patch level 2023-05-05 then it's been patched. \n\nhttps://t.co/8hCSuD30VK",
+    "tweettime": "2023-05-03, 15:02:36",
+    "tweeturl": "https://twitter.com/maddiestone/status/1653777081157971968",
+    "username": "maddiestone"
+}

