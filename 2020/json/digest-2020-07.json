@@ -496,10 +496,10 @@
     "expanded_url": [
         "https://research.checkpoint.com/2020/resolving-your-way-into-domain-admin-exploiting-a-17-year-old-bug-in-windows-dns-servers/"
     ],
-    "tweetfavorites": 1245,
-    "tweetquotes": 60,
-    "tweetreplies": 12,
-    "tweetretweets": 801,
+    "tweetfavorites": 1188,
+    "tweetquotes": 57,
+    "tweetreplies": 10,
+    "tweetretweets": 771,
     "tweettext": "We discovered a 17-year-old vulnerability in all of Windows DNS Servers.\nSIGRed (CVE-2020-1350) is a wormable, critical vulnerability that can be used to achieve full Domain Administrator privileges.\nhttps://t.co/giebs7WIhp",
     "tweettime": "2020-07-14, 18:59:55",
     "tweeturl": "https://twitter.com/_CPResearch_/status/1283114016999706624",
@@ -542,10 +542,10 @@
     "username": "jarsnah12"
 }
 {
-    "tweetfavorites": 174,
+    "tweetfavorites": 168,
     "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 87,
+    "tweetretweets": 84,
     "tweettext": "Stay tuned for our technical publication regarding #SIGRed (CVE-2020-1350) at 12 (PST) - Critical vulnerability in Windows DNS",
     "tweettime": "2020-07-14, 17:15:25",
     "tweeturl": "https://twitter.com/_CPResearch_/status/1283087717174214664",
@@ -838,6 +838,22 @@
     "tweettime": "2020-07-06, 09:24:20",
     "tweeturl": "https://twitter.com/NCCGroupInfosec/status/1280070065896017926",
     "username": "NCCGroupInfosec"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2141/",
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2142/",
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2143/",
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2144/"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 122,
+    "tweettext": "[CPR-Zero] CVE-2020-9497 &amp; CVE-2020-9498 (Apache Guacamole): Remote Code Execution and Privilege Escalation in Apache Guacamole-server\nhttps://t.co/2pKjFtRv85\nhttps://t.co/qZIjxaMSje\nhttps://t.co/xsCux5tWGR\nhttps://t.co/rnlzY9xS5V",
+    "tweettime": "2020-07-06, 08:54:03",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1280062445000822786",
+    "username": "_CPResearch_"
 }
 {
     "tweetfavorites": 0,

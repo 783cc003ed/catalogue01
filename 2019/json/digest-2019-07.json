@@ -53,6 +53,19 @@
 }
 {
     "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2131/"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "[CPR-Zero] CVE-2019-1096 (Windows 10 Kernel): Out-Of-Bounds Read in NtGdiPlgBlt syscall in win32kfull.sys\nhttps://t.co/lEeFc1li6c",
+    "tweettime": "2019-07-24, 12:35:58",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1154007312916451328",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
         "https://paper.seebug.org/990/",
         "https://medium.com/@knownsec404team/analysis-of-cve-2019-11229-from-git-config-to-rce-32c217727baa"
     ],
@@ -77,6 +90,19 @@
     "tweettime": "2019-07-23, 13:45:44",
     "tweeturl": "https://twitter.com/LukasStefanko/status/1153662482256486405",
     "username": "LukasStefanko"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2129/"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "[CPR-Zero] CVE-2019-1014 (Windows 10 Kernel): Race condition leading to Use-After-Free in the OpenClipboard function in win32kfull.sys\nhttps://t.co/InGSkqNgus",
+    "tweettime": "2019-07-18, 11:50:30",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1151821544404000768",
+    "username": "_CPResearch_"
 }
 {
     "expanded_url": [

@@ -349,6 +349,19 @@
 }
 {
     "expanded_url": [
+        "https://testbnull.medium.com/oracle-access-manager-pre-auth-rce-cve-2021-35587-analysis-1302a4542316"
+    ],
+    "tweetfavorites": 460,
+    "tweetquotes": 6,
+    "tweetreplies": 10,
+    "tweetretweets": 213,
+    "tweettext": "As promised,\nHere is the detail and a part of PoC about the OAM Pre-Auth RCE (CVE-2021-35587)\nIt may require more work to get fully functional PoC,\nHave fun with it!\ncc @peterjson \nhttps://t.co/N7zSCUOvWt",
+    "tweettime": "2022-03-09, 14:37:14",
+    "tweeturl": "https://twitter.com/testanull/status/1501567794022092805",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
         "https://www.mandiant.com/resources/apt41-us-state-governments"
     ],
     "tweetfavorites": 104,
@@ -440,6 +453,19 @@
     "username": "Bonfee1"
 }
 {
+    "expanded_url": [
+        "https://youtu.be/pkoHPJSAB2o"
+    ],
+    "tweetfavorites": 401,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 120,
+    "tweettext": "CVE-2021-35587 Oracle Access Manager Pre-Auth RCE found by me and \n@peterjson\nBlog post will be published soon, stay tuned!\nhttps://t.co/g99AbRABXZ",
+    "tweettime": "2022-03-06, 09:57:55",
+    "tweeturl": "https://twitter.com/testanull/status/1500410338046791686",
+    "username": "testanull"
+}
+{
     "tweetfavorites": 32,
     "tweetquotes": 2,
     "tweetreplies": 1,
@@ -448,6 +474,16 @@
     "tweettime": "2022-03-05, 23:41:15",
     "tweeturl": "https://twitter.com/yongdaek/status/1500255150790754305",
     "username": "yongdaek"
+}
+{
+    "tweetfavorites": 63,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "CVE-2018-13379 exploit activity detected from 185.7.214.223 (🇷🇺) and 185.7.214.224 (🇷🇺).\n\nTarget:\nFortinet VPN servers vulnerable to unauthenticated arbitrary file read leading to disclosure of usernames and passwords in plaintext.\n#threatintel",
+    "tweettime": "2022-03-05, 20:52:53",
+    "tweeturl": "https://twitter.com/bad_packets/status/1500212779675836416",
+    "username": "bad_packets"
 }
 {
     "expanded_url": [

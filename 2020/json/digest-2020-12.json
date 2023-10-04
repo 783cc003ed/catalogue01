@@ -99,10 +99,10 @@
         "https://github.com/testanull/ProjectSIM/",
         "https://link.medium.com/uK3qeyfYpcb"
     ],
-    "tweetfavorites": 145,
+    "tweetfavorites": 140,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 63,
+    "tweetretweets": 65,
     "tweettext": "I just published an analysis of CVE-2020-7200, HPE SIM AMF Deserialization lead to RCE \nPoC: https://t.co/rjF7LSlWxG\nPost: https://t.co/rCbrkHxBhn",
     "tweettime": "2020-12-22, 07:09:36",
     "tweeturl": "https://twitter.com/testanull/status/1341279708491599872",

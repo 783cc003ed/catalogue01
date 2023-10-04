@@ -52,6 +52,19 @@
 }
 {
     "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2136/"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "[CPR-Zero] CVE-2020-0655 (Windows): Improper fix for CVE-2019-0887 uncovers Path Traversal issues in all versions of Windows\nhttps://t.co/ioJrKiY8Q1",
+    "tweettime": "2020-05-26, 11:31:56",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1265244274322558976",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
         "https://github.com/amartinsec/CVE-2020-12800/"
     ],
     "tweetfavorites": 43,

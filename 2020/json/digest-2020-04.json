@@ -95,10 +95,10 @@
     "expanded_url": [
         "https://cpr-zero.checkpoint.com/vulns/cprid-2147/"
     ],
-    "tweetfavorites": 135,
+    "tweetfavorites": 128,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 69,
+    "tweetretweets": 61,
     "tweettext": "[CPR-Zero] CVE-2020-0791 (Windows 10 Kernel): Out-Of-Bounds Read\\Write in the StrechBlt function in win32kfull.sys\nhttps://t.co/PGg9X2bNHE",
     "tweettime": "2020-04-20, 09:55:44",
     "tweeturl": "https://twitter.com/_CPResearch_/status/1252174102133116928",

@@ -574,10 +574,10 @@
     "expanded_url": [
         "https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html"
     ],
-    "tweetfavorites": 100,
+    "tweetfavorites": 98,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 43,
+    "tweetretweets": 41,
     "tweettext": "⚠️ CVE-2022-26134 event detected ⚠️\n\nSource IP:\n193.106.191.48 (🇷🇺)\n\nTarget:\nAtlassian Confluence servers vulnerable to unauthenticated remote code execution (https://t.co/mZ6pPfOBws)\n\nLast seen:\n2022-06-03T21:32:10Z\n#threatintel",
     "tweettime": "2022-06-03, 22:01:05",
     "tweeturl": "https://twitter.com/bad_packets/status/1532844850298597376",

@@ -61,6 +61,16 @@
     "username": "thezdi"
 }
 {
+    "tweetfavorites": 78,
+    "tweetquotes": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 46,
+    "tweettext": "BlueKeep (CVE-2019-0708) #RDP scans detected per country:\n🇳🇱  Netherlands  3,652\n🇷🇺  Russia  2,376\n🇨🇳  China  2,209\n🇺🇸  United States  537\n🇰🇷  South Korea  293\n🇩🇪  Germany  179\n🇻🇳  Vietnam  168\n🇨🇦  Canada  63\n🇬🇷  Greece  54\n🇱🇻  Latvia  19\nAll Other Countries  36 https://t.co/eBQ1OC1U93",
+    "tweettime": "2019-05-27, 11:23:12",
+    "tweeturl": "https://twitter.com/bad_packets/status/1132970504023764992",
+    "username": "bad_packets"
+}
+{
     "expanded_url": [
         "https://hansesecure.de/2018/02/vulnerability-in-coolplayer/"
     ],

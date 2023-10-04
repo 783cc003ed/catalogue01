@@ -100,6 +100,16 @@
     "username": "TheHackersNews"
 }
 {
+    "tweetfavorites": 224,
+    "tweetquotes": 6,
+    "tweetreplies": 8,
+    "tweetretweets": 83,
+    "tweettext": "Can you trust a file's digital signature? 🤔\nA new #Zloader campaign abuses CVE-2013-3900 for defense evasion.\n\n🔥 HTA content appended to a signed Microsoft DLL, without breaking trust\n🔥 MSHTA used to execute the appended script\n🔥 CVE-2013-3900 still unpatched by default https://t.co/5n1AoS6hsl",
+    "tweettime": "2021-11-23, 11:17:03",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1463104303770578944",
+    "username": "_CPResearch_"
+}
+{
     "tweetfavorites": 257,
     "tweetquotes": 2,
     "tweetreplies": 0,
@@ -136,10 +146,10 @@
     "expanded_url": [
         "https://gist.github.com/testanull/0188c1ae847f37a70fe536123d14f398"
     ],
-    "tweetfavorites": 716,
+    "tweetfavorites": 691,
     "tweetquotes": 9,
     "tweetreplies": 2,
-    "tweetretweets": 297,
+    "tweetretweets": 290,
     "tweettext": "As many ppl requested, \nHere is the PoC of CVE-2021-42321, Exchange Post-Auth RCE\nThis PoC just pop mspaint.exe on the target, can be use to recognize the signature pattern of a successful attack event\nhttps://t.co/mTbOFz94qM",
     "tweettime": "2021-11-21, 10:14:18",
     "tweeturl": "https://twitter.com/testanull/status/1462363736815988744",
@@ -181,6 +191,19 @@
     "tweettime": "2021-11-18, 20:17:48",
     "tweeturl": "https://twitter.com/bad_packets/status/1461428446660153345",
     "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://www.virustotal.com/gui/file/ee2d53303e2c5a2787dad11e3a0abce5ea0ff9a4219e963e69a4054a11efc628"
+    ],
+    "tweetfavorites": 192,
+    "tweetquotes": 6,
+    "tweetreplies": 1,
+    "tweetretweets": 82,
+    "tweettext": "The 32bit version of CVE-2021-1732 was recently uploaded to Virus Total from Pakistan. The 0-day exploit was used by Bitter APT and developed by the US-based offensive company Exodus Intelligence (aka “Moses”).\nhttps://t.co/CvjHbGGLmh https://t.co/qvEJ6Tbr7J",
+    "tweettime": "2021-11-16, 16:19:38",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1460643735952318474",
+    "username": "_CPResearch_"
 }
 {
     "expanded_url": [
@@ -416,6 +439,19 @@
     "tweettime": "2021-11-04, 12:12:24",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1456232864278667265",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 32,
+    "tweettext": "\"The vulnerability [CVE-2021-22205] resides in ExifTool, an open source tool used to remove metadata from images, which fails in parsing certain metadata embedded in the uploaded image, resulting in code execution.\" https://t.co/ggY5h3qh49",
+    "tweettime": "2021-11-04, 03:20:20",
+    "tweeturl": "https://twitter.com/bad_packets/status/1456098961479983109",
+    "username": "bad_packets"
 }
 {
     "tweetfavorites": 328,

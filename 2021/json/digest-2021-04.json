@@ -37,6 +37,16 @@
     "username": "elhackernet"
 }
 {
+    "tweetfavorites": 207,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 55,
+    "tweettext": "Still don't know if this is CVE-2021-28482 or CVE-2021-28483\nBut it's posibble to take down Exchange with a low privilege user https://t.co/xXOT6pP08t",
+    "tweettime": "2021-04-23, 06:32:16",
+    "tweeturl": "https://twitter.com/testanull/status/1385481630228258820",
+    "username": "testanull"
+}
+{
     "expanded_url": [
         "https://gist.github.com/wdormann/bbf95c5ccebb826a1e21124cfb320106"
     ],

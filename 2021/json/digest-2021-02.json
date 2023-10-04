@@ -145,6 +145,19 @@
 }
 {
     "expanded_url": [
+        "https://research.checkpoint.com/2021/the-story-of-jian"
+    ],
+    "tweetfavorites": 151,
+    "tweetquotes": 9,
+    "tweetreplies": 0,
+    "tweetretweets": 84,
+    "tweettext": "Our researchers found that CVE-2017-0005, a 0-Day attributed to the Chinese APT31, is a replica of an Equation Group 0-Day, that was caught and repurposed by APT31 during 2014, 3 years before the Shadow Brokers leak.\nRead the complete story on our blog.\nhttps://t.co/sz3bAxrbYJ",
+    "tweettime": "2021-02-22, 11:07:15",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1363807562278318081",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
         "https://www.anquanke.com/post/id/231625"
     ],
     "tweetfavorites": 201,

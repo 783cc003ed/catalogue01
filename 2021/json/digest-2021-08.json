@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 102,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 21,
+    "tweettext": "Continue on CVE-2021-26084\nThere was some tweet telling that block the entrypoint \"/pages/createpage-entervariables.action\" will reduce the risk.\nBut it's not enough,\nAfter rechecking, there're more than 2 entrypoints can be used with the Pre-Auth RCE.\nRT wisely!",
+    "tweettime": "2021-08-31, 18:27:51",
+    "tweeturl": "https://twitter.com/testanull/status/1432772135722762242",
+    "username": "testanull"
+}
+{
     "tweetfavorites": 229,
     "tweetquotes": 6,
     "tweetreplies": 5,
@@ -9,10 +19,10 @@
     "username": "haxor31337"
 }
 {
-    "tweetfavorites": 177,
+    "tweetfavorites": 172,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 27,
+    "tweetretweets": 25,
     "tweettext": "About the CVE-2021-26084, \nIt's a Pre-Auth RCE vulnerability by default, even if the Sign-Up function is disabled. \nPatch your server before the PoC is released!\ncc @rootxharsh @iamnoooob @peterjson",
     "tweettime": "2021-08-31, 10:49:38",
     "tweeturl": "https://twitter.com/testanull/status/1432656820829507585",
@@ -43,6 +53,16 @@
     "tweettime": "2021-08-30, 05:01:56",
     "tweeturl": "https://twitter.com/pixiepointsec/status/1432206932668940288",
     "username": "pixiepointsec"
+}
+{
+    "tweetfavorites": 83,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "Mass scanning activity detected from 213.232.127.67 (🇮🇷) checking for Microsoft Exchange servers vulnerable to #ProxyShell (CVE-2021-34473).\n#threatintel",
+    "tweettime": "2021-08-29, 16:58:14",
+    "tweeturl": "https://twitter.com/bad_packets/status/1432024809425145864",
+    "username": "bad_packets"
 }
 {
     "expanded_url": [
@@ -81,6 +101,19 @@
     "tweettime": "2021-08-25, 06:34:45",
     "tweeturl": "https://twitter.com/chybeta/status/1430418351755456518",
     "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.realtek.com/images/safe-report/Realtek_APRouter_SDK_Advisory-CVE-2021-35392_35395.pdf"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "We've detected mass scanning activity from multiple hosts targeting routers vulnerable to CVE-2021-35395.\n\nFirst seen: 2021-08-21T04:01:39Z\nLast seen: 2021-08-23T20:06:25Z\n\nVendor advisory: https://t.co/kBNlbtF4vP\n#threatintel",
+    "tweettime": "2021-08-24, 03:47:48",
+    "tweeturl": "https://twitter.com/bad_packets/status/1430013950364585991",
+    "username": "bad_packets"
 }
 {
     "tweetfavorites": 202,
@@ -386,10 +419,10 @@
     "username": "0xdea"
 }
 {
-    "tweetfavorites": 111,
+    "tweetfavorites": 102,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 51,
+    "tweetretweets": 45,
     "tweettext": "Ongoing mass scanning activity detected from 45.95.147.15 (🇳🇱) checking for Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. #threatintel",
     "tweettime": "2021-08-04, 05:42:05",
     "tweeturl": "https://twitter.com/bad_packets/status/1422794953734778881",

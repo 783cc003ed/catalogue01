@@ -215,10 +215,10 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 97,
+    "tweetfavorites": 96,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 43,
+    "tweetretweets": 42,
     "tweettext": "Mass scanning activity detected from 58.62.36.13 (🇨🇳) and 58.62.36.17 (🇨🇳) targeting F5 BIG-IP iControl REST endpoints vulnerable to unauthenticated remote code execution (CVE-2022-1388).\n#threatintel",
     "tweettime": "2022-05-22, 07:13:38",
     "tweeturl": "https://twitter.com/bad_packets/status/1528272861118418944",
@@ -717,6 +717,19 @@
     "tweettime": "2022-05-10, 01:33:01",
     "tweeturl": "https://twitter.com/wugeej/status/1523838488386293760",
     "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://support.f5.com/csp/article/K23605346"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 40,
+    "tweettext": "⚠️ CVE-2022-1388 event detected ⚠️\n\nSource IP:\n170.254.178.173 (🇺🇸)\n\nTarget:\nF5 BIG-IP iControl REST endpoints vulnerable to unauthenticated remote code execution (https://t.co/WUtSumd1b7).\n#threatintel https://t.co/EOPrUcWXoe",
+    "tweettime": "2022-05-09, 19:04:45",
+    "tweeturl": "https://twitter.com/bad_packets/status/1523740777406377985",
+    "username": "bad_packets"
 }
 {
     "expanded_url": [

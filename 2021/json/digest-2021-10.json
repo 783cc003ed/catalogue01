@@ -79,10 +79,10 @@
     "expanded_url": [
         "https://testbnull.medium.com/50-shades-of-solarwinds-orion-patch-manager-deserialization-final-part-cve-2021-35218-3d38166cb81f"
     ],
-    "tweetfavorites": 267,
+    "tweetfavorites": 248,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 96,
+    "tweetretweets": 89,
     "tweettext": "Here is the final part of SolarWinds Orion Deserialization (CVE-2021-35218)\nThis vulnerability can be triggered without any authentication,\n*It's sad that ZDI didn't accept  this as an Pre-Auth RCE\nKudo @Y4er_ChaBug for detailed analysis!\nhttps://t.co/ggBgxMu3zF",
     "tweettime": "2021-10-29, 08:21:16",
     "tweeturl": "https://twitter.com/testanull/status/1454000368711450627",
@@ -785,6 +785,16 @@
     "tweettime": "2021-10-06, 07:36:50",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1445654263971995653",
     "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 79,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 32,
+    "tweettext": "We've detected mass scanning activity from multiple hosts (🇨🇦 🇩🇪 🇮🇳 🇱🇺 🇳🇱 🇸🇬 🇬🇧 🇺🇸) checking for Apache HTTP servers vulnerable to CVE-2021-41773.\n\nQuery our API for \"tags=CVE-2021-41773\" for source IP addresses and other relevant indicators. #threatintel",
+    "tweettime": "2021-10-06, 05:10:02",
+    "tweeturl": "https://twitter.com/bad_packets/status/1445617322815721473",
+    "username": "bad_packets"
 }
 {
     "expanded_url": [

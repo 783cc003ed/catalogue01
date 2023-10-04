@@ -205,6 +205,16 @@
     "username": "maddiestone"
 }
 {
+    "tweetfavorites": 66,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "CVE-2021-22005 exploit activity detected from multiple hosts (🇨🇦 🇭🇰 🇸🇬 🇺🇸) targeting our VMware vCenter honeypots.\n\nActivity is based on a PoC published earlier today.\n\nQuery our API for \"tags=CVE-2021-22005\" for full payload and other relevant indicators. #threatintel",
+    "tweettime": "2021-09-24, 18:12:12",
+    "tweeturl": "https://twitter.com/bad_packets/status/1441465508348317702",
+    "username": "bad_packets"
+}
+{
     "expanded_url": [
         "https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html"
     ],
@@ -221,13 +231,26 @@
     "expanded_url": [
         "https://testbnull.medium.com/quick-note-of-vcenter-rce-cve-2021-22005-4337d5a817ee"
     ],
-    "tweetfavorites": 451,
+    "tweetfavorites": 441,
     "tweetquotes": 7,
     "tweetreplies": 9,
-    "tweetretweets": 179,
+    "tweetretweets": 176,
     "tweettext": "Just public some notes on CVE-2021-22005 \nA part of the PoC is also included\nHappy weekend patching!\nhttps://t.co/njfALhCDKH",
     "tweettime": "2021-09-24, 10:17:12",
     "tweeturl": "https://twitter.com/testanull/status/1441345969451245574",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://www.youtube.com/watch?v=WVJ8RDR7Xzs"
+    ],
+    "tweetfavorites": 174,
+    "tweetquotes": 2,
+    "tweetreplies": 7,
+    "tweetretweets": 38,
+    "tweettext": "Another approach to get RCE of CVE-2021-22005,\nWork with most case, doesn't require CEIP to be enabled,\n\"..;/\" is not dead\nCC @wvuuuuuuuuuuuuu,\nhttps://t.co/a1ept3yetx",
+    "tweettime": "2021-09-24, 04:35:21",
+    "tweeturl": "https://twitter.com/testanull/status/1441259937724698627",
     "username": "testanull"
 }
 {
@@ -265,6 +288,19 @@
     "tweettime": "2021-09-22, 20:14:46",
     "tweeturl": "https://twitter.com/HaifeiLi/status/1440771574668279814",
     "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2021-0020.html"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 12,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "CVE-2021-22005 scanning activity detected from 116.48.233.234 (🇭🇰).\n\nTarget:\nVMware vCenter servers vulnerable to arbitrary file upload leading to remote code execution (https://t.co/JWfc7rHuUK).\n#threatintel https://t.co/mDFQtyx8IG",
+    "tweettime": "2021-09-22, 07:33:53",
+    "tweeturl": "https://twitter.com/bad_packets/status/1440580092653031427",
+    "username": "bad_packets"
 }
 {
     "expanded_url": [
@@ -309,10 +345,10 @@
     "expanded_url": [
         "https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure"
     ],
-    "tweetfavorites": 71,
+    "tweetfavorites": 64,
     "tweetquotes": 2,
-    "tweetreplies": 1,
-    "tweetretweets": 39,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
     "tweettext": "CVE-2021-38647 exploit activity detected from 5.149.248.66 (🇳🇱) and 44.238.21.135 (🇺🇸).\n\nTarget:\nAzure Linux OMI endpoints vulnerable to remote code execution (https://t.co/ioxDgZ9AlM).\n\nPayload URLs:\nhttp://5.149.248.66:1080/re/b.x86\nhttp://45.137.21.9/re/r.x86\n#threatintel https://t.co/d83rsYyzIq",
     "tweettime": "2021-09-21, 02:28:12",
     "tweeturl": "https://twitter.com/bad_packets/status/1440140776269238272",
@@ -764,10 +800,10 @@
     "expanded_url": [
         "https://link.medium.com/WHh3Vau1vjb"
     ],
-    "tweetfavorites": 290,
+    "tweetfavorites": 288,
     "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 103,
+    "tweetretweets": 102,
     "tweettext": "Just published some analysis on CVE-2021-2400 &amp; CVE-2021-2401, Oracle BI XXE\nAnd some case study to get RCE with it\nHave fun!\n https://t.co/UDS24aO3lh",
     "tweettime": "2021-09-13, 10:18:22",
     "tweeturl": "https://twitter.com/testanull/status/1437359994207227910",

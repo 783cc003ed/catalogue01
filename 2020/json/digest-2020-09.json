@@ -13,6 +13,19 @@
 }
 {
     "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2157/"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 44,
+    "tweettext": "[CPR-Zero] CVE-2020-1510 (Windows 10 Kernel): Out-Of-Bounds Read in the StrechBlt function in win32kfull.sys\nhttps://t.co/NoL9VSJeg0",
+    "tweettime": "2020-09-29, 06:59:01",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1310836461571321856",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
         "https://doublepulsar.com/in-the-wild-exploitation-of-zerologon-detected-over-the-internet-on-honeypot-f61e2700215b"
     ],
     "tweetfavorites": 485,
@@ -73,6 +86,19 @@
     "tweettime": "2020-09-22, 08:22:22",
     "tweeturl": "https://twitter.com/gweeperx/status/1308320723711275008",
     "username": "gweeperx"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2156/"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "[CPR-Zero] CVE-2020-1350 (Windows DNS Server): Integer Overflow leading to Heap-Based Buffer Overflow (SIGRed)\nhttps://t.co/fNPgRVlZMY",
+    "tweettime": "2020-09-21, 11:58:15",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1308012664795418626",
+    "username": "_CPResearch_"
 }
 {
     "expanded_url": [
@@ -176,10 +202,10 @@
     "expanded_url": [
         "https://cpr-zero.checkpoint.com/vulns/cprid-2155/"
     ],
-    "tweetfavorites": 121,
+    "tweetfavorites": 120,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 61,
+    "tweetretweets": 60,
     "tweettext": "[CPR-Zero] CVE-2020-1310 (Windows 8.1/10 Kernel): Use-After-Free in win32k.sys triggered from Desktop Window Manager\nhttps://t.co/obT9tkAclY",
     "tweettime": "2020-09-14, 13:32:56",
     "tweeturl": "https://twitter.com/_CPResearch_/status/1305499777317171201",
@@ -419,6 +445,19 @@
     "tweettime": "2020-09-03, 17:57:44",
     "tweeturl": "https://twitter.com/thezdi/status/1301580148827922432",
     "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2154/"
+    ],
+    "tweetfavorites": 130,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "[CPR-Zero] CVE-2020-1247 (Windows 10 Kernel): Out-Of-Bounds Read\\Write in the StrechBlt function in win32kfull.sys\nhttps://t.co/7ipnr8eNlp",
+    "tweettime": "2020-09-03, 11:00:10",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1301475065159180288",
+    "username": "_CPResearch_"
 }
 {
     "expanded_url": [

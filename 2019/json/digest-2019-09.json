@@ -77,6 +77,19 @@
 }
 {
     "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2133/"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "[CPR-Zero] CVE-2019-1164 (Windows 10 Kernel): Out-Of-Bounds Read\\Write in the StrechBlt function in win32kfull.sys\nhttps://t.co/BnUuYd9RWK",
+    "tweettime": "2019-09-23, 11:31:03",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1176096638055661568",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
         "https://www.reddit.com/r/netsec/comments/d80o63/cve20191082_windows_local_privileges_escalation/"
     ],
     "tweetfavorites": 263,

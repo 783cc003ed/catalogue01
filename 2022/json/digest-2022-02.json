@@ -58,6 +58,16 @@
     "username": "cyber_advising"
 }
 {
+    "tweetfavorites": 74,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "Mass scanning activity detected from 5.188.159.169 (🇷🇺) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. https://t.co/iZEry0PmvF",
+    "tweettime": "2022-02-24, 06:01:12",
+    "tweeturl": "https://twitter.com/bad_packets/status/1496726886323408896",
+    "username": "bad_packets"
+}
+{
     "expanded_url": [
         "https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/"
     ],
@@ -121,6 +131,16 @@
     "tweettime": "2022-02-21, 06:28:06",
     "tweeturl": "https://twitter.com/_r_netsec/status/1495646494845636609",
     "username": "_r_netsec"
+}
+{
+    "tweetfavorites": 76,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "Mass scanning activity detected from the following hosts targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext.",
+    "tweettime": "2022-02-20, 03:09:53",
+    "tweeturl": "https://twitter.com/bad_packets/status/1495234220867788805",
+    "username": "bad_packets"
 }
 {
     "expanded_url": [

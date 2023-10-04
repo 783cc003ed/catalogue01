@@ -148,6 +148,21 @@
 }
 {
     "expanded_url": [
+        "https://gist.github.com/testanull/4f8a9305b5b57ab8e7f15bbb0fb93461",
+        "https://gist.github.com/testanull/4bb77519acf2c8e919f8d9b015eda880",
+        "https://www.facebook.com/notes/nguy%E1%BB%85n-ti%E1%BA%BFn-giang/cve-2020-7961-debug-diary-liferay-deserialization-part-5/2802738799840067"
+    ],
+    "tweetfavorites": 292,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 123,
+    "tweettext": "CVE-2020-7961 direct shell PoC \nGenerator: https://t.co/xBMkl7CjV2\nPayload: https://t.co/hBBxActL93\nBlog post in Vietnamese: https://t.co/U6qeIV1ZgY\nMuch respect to @codewhitesec and @ mbechler https://t.co/bfwgu4t7hg",
+    "tweettime": "2020-03-27, 14:21:20",
+    "tweeturl": "https://twitter.com/testanull/status/1243543630729695237",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
         "https://bit.ly/3bsf4PZ"
     ],
     "tweetfavorites": 233,

@@ -38,10 +38,10 @@
     "expanded_url": [
         "https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf"
     ],
-    "tweetfavorites": 641,
-    "tweetquotes": 9,
-    "tweetreplies": 11,
-    "tweetretweets": 251,
+    "tweetfavorites": 621,
+    "tweetquotes": 10,
+    "tweetreplies": 9,
+    "tweetretweets": 246,
     "tweettext": "Analysis of CVE-2020-14882\nWeblogic RCE via HTTP CVSS 9.8/10\nHope you enjoy it ;)\nThanks an anonymous man for supporting!\nhttps://t.co/Olhn9oye0r",
     "tweettime": "2020-10-28, 09:57:29",
     "tweeturl": "https://twitter.com/testanull/status/1321390624042442753",
@@ -219,10 +219,10 @@
     "expanded_url": [
         "https://medium.com/@testbnull/cve-2020-4280-ibm-qradar-java-deserialization-anlysis-and-bypass-c3fe57207057"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 46,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 16,
+    "tweetretweets": 15,
     "tweettext": "A few words about the CVE-2020-4280 - IBM QRadar Java Deserialization and the patch of it\n\nhttps://t.co/oZ39hxEfr0",
     "tweettime": "2020-10-20, 12:50:34",
     "tweeturl": "https://twitter.com/testanull/status/1318535076926222341",
@@ -341,6 +341,19 @@
     "tweettime": "2020-10-15, 08:47:19",
     "tweeturl": "https://twitter.com/ddouhine/status/1316661921974833152",
     "username": "ddouhine"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/hacker-leaks-passwords-for-900-enterprise-vpn-servers/"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "@BleepinComputer Barnes &amp; Noble had multiple Pulse Secure VPN servers that went unpatched against CVE-2019-11510 for months. Data from their servers was found in the recent leak (https://t.co/4NtBO5Xps8) as well.",
+    "tweettime": "2020-10-15, 05:01:36",
+    "tweeturl": "https://twitter.com/bad_packets/status/1316605119564193799",
+    "username": "bad_packets"
 }
 {
     "expanded_url": [

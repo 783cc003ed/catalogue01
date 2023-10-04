@@ -512,6 +512,16 @@
     "username": "cyber_advising"
 }
 {
+    "tweetfavorites": 71,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "CVE-2022-22965 event detected from 185.244.152.15 (🇮🇶) with follow-up GET request for \"/1877team.jsp?pwd=j&amp;cmd=whoami\"\n#Spring4Shell https://t.co/kQqnfNHgF1",
+    "tweettime": "2022-04-06, 20:03:06",
+    "tweeturl": "https://twitter.com/bad_packets/status/1511796663140052994",
+    "username": "bad_packets"
+}
+{
     "expanded_url": [
         "https://haxatron.gitbook.io/vulnerability-research/vr1"
     ],

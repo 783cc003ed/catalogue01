@@ -100,6 +100,16 @@
     "username": "hasherezade"
 }
 {
+    "tweetfavorites": 101,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 57,
+    "tweettext": "Mass scanning activity detected from 217.12.210.51 (🇺🇦) targeting the following vulnerabilities:\n\nCVE-2020-14005\nSolarWinds Orion RCE \n\nCVE-2021-21972\nVMware vCenter RCE\n\nCVE-2021-21985\nVMware vSphere Client RCE \n#threatintel",
+    "tweettime": "2021-07-27, 04:42:29",
+    "tweeturl": "https://twitter.com/bad_packets/status/1419880851177832451",
+    "username": "bad_packets"
+}
+{
     "expanded_url": [
         "https://t.zsxq.com/3VBAImU"
     ],
@@ -414,7 +424,7 @@
     "expanded_url": [
         "https://link.medium.com/iuhew6zIShb"
     ],
-    "tweetfavorites": 93,
+    "tweetfavorites": 92,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 30,
@@ -580,7 +590,7 @@
     "expanded_url": [
         "https://www.kb.cert.org/vuls/id/383432"
     ],
-    "tweetfavorites": 284,
+    "tweetfavorites": 285,
     "tweetquotes": 16,
     "tweetreplies": 17,
     "tweetretweets": 102,

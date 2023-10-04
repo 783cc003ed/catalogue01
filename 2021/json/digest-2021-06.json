@@ -268,14 +268,27 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 100,
+    "tweetfavorites": 91,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 63,
+    "tweetretweets": 54,
     "tweettext": "Ongoing mass scanning activity detected from 91.241.19.51 (🇷🇺) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. #threatintel https://t.co/1EeRpuCZrh",
     "tweettime": "2021-06-22, 23:56:40",
     "tweeturl": "https://twitter.com/bad_packets/status/1407487734642470915",
     "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2164"
+    ],
+    "tweetfavorites": 88,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "[CPR-Zero] CVE-2021-31939 (Outlook, Office): Use-After-Free in graph data parsing code in graph.exe https://t.co/AzlW9uAxXo",
+    "tweettime": "2021-06-22, 15:27:17",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1407359543340941317",
+    "username": "_CPResearch_"
 }
 {
     "expanded_url": [
@@ -449,6 +462,16 @@
     "username": "USCERT_gov"
 }
 {
+    "tweetfavorites": 358,
+    "tweetquotes": 9,
+    "tweetreplies": 8,
+    "tweetretweets": 79,
+    "tweettext": "Finally got direct shell of CVE-2021-21985 without RMI https://t.co/dorOlUywHu",
+    "tweettime": "2021-06-04, 12:20:28",
+    "tweeturl": "https://twitter.com/testanull/status/1400789548284596229",
+    "username": "testanull"
+}
+{
     "expanded_url": [
         "https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/"
     ],
@@ -485,8 +508,8 @@
     "username": "wugeej"
 }
 {
-    "tweetfavorites": 106,
-    "tweetquotes": 5,
+    "tweetfavorites": 104,
+    "tweetquotes": 3,
     "tweetreplies": 2,
     "tweetretweets": 31,
     "tweettext": "Quick confirm that this is the real PoC of CVE-2021-21985 👍 https://t.co/jsXKFf1lZZ",

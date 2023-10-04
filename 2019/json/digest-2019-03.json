@@ -208,6 +208,16 @@
     "username": "cBekrar"
 }
 {
+    "tweetfavorites": 89,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "New #APT33 attack?🤔\n\nlocal-update[.]com/RawabiJob.hta\n\nHTA displays a job offer and impersonates a Saudi company (@RawabiHolding)\n\nShares similarities with an old APT33 script\n\nlocal-update[.]com was recently seen in an attack exploiting CVE-2018-20250\n\n@CurlyCyber https://t.co/YDWPPMLrPw",
+    "tweettime": "2019-03-05, 14:47:30",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1102943725750239237",
+    "username": "_CPResearch_"
+}
+{
     "expanded_url": [
         "https://www.synacktiv.com/ressources/Synacktiv_OpenBSD_PacketFilter_CVE-2019-5597_ipv6_frag.pdf"
     ],

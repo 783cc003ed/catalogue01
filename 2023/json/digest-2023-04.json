@@ -241,10 +241,10 @@
     "expanded_url": [
         "https://research.checkpoint.com/2023/queuejumper-critical-unauthorized-rce-vulnerability-in-msmq-service/"
     ],
-    "tweetfavorites": 289,
+    "tweetfavorites": 286,
     "tweetquotes": 12,
     "tweetreplies": 4,
-    "tweetretweets": 114,
+    "tweetretweets": 113,
     "tweettext": "🚨 We discovered 3 vulnerabilities in Microsoft Message Queuing (MSMQ) service, including #QueueJumper (CVE-2023-21554), a Critical vulnerability that could allow unauthorized attackers to remotely execute code.\n\nMore details in our blog 👉 https://t.co/sobbPgFBQi\n\n#PatchNow https://t.co/NvfUTgbI1N",
     "tweettime": "2023-04-11, 17:10:27",
     "tweeturl": "https://twitter.com/_CPResearch_/status/1645836723660771328",

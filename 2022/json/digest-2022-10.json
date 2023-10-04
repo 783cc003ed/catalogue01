@@ -843,10 +843,10 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 95,
+    "tweetfavorites": 93,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 45,
+    "tweetretweets": 44,
     "tweettext": "Mass scanning activity detected from multiple Tor exit nodes targeting Microsoft Exchange servers vulnerable to remote code execution (CVE-2022-41082). #threatintel #ProxyNotShell",
     "tweettime": "2022-10-06, 21:30:02",
     "tweeturl": "https://twitter.com/bad_packets/status/1578135518952439810",
