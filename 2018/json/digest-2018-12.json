@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 144,
+    "tweetquotes": 14,
+    "tweetreplies": 4,
+    "tweetretweets": 66,
+    "tweettext": "CVE-2018-18007 added to honeypot watchlist.\n\nThis vulnerability affects D-Link DSL-2770L routers.\n\nAn unauthenticated user can visit the page \"atbox.htm\" (if exposed to the internet) and obtain the admin account password in clear text.",
+    "tweettime": "2018-12-21, 20:54:01",
+    "tweeturl": "https://twitter.com/bad_packets/status/1076219259364139008",
+    "username": "bad_packets"
+}
+{
     "tweetfavorites": 538,
     "tweetquotes": 7,
     "tweetreplies": 11,

@@ -305,10 +305,10 @@
     "expanded_url": [
         "https://sysdig.com/blog/cve-2022-42889-text4shell/?fbclid=IwAR390dT6t-APZtG9HJiUaWYWY-MARztD_-Z2ggwEbaYngaTaCvXCRar2sk8"
     ],
-    "tweetfavorites": 106,
+    "tweetfavorites": 110,
     "tweetquotes": 1,
-    "tweetreplies": 2,
-    "tweetretweets": 33,
+    "tweetreplies": 3,
+    "tweetretweets": 31,
     "tweettext": "CVE-2022-42889: Apache Commons Text Remote Code Execution.\norg.apache.commons.text.lookup.StringLookup lookups are: - \"script\" - execute expressions using the JVM script execution engine (javax.script) - \"dns\" - resolve dns records - \"url\" ...\n\nPoC\nhttps://t.co/tDxE9oC0i3 https://t.co/X9w67aVQLh",
     "tweettime": "2022-10-21, 10:40:45",
     "tweeturl": "https://twitter.com/cyber_advising/status/1583407936763674624",
@@ -823,10 +823,10 @@
     "expanded_url": [
         "https://tantosec.com/blog/cve-2022-41343/"
     ],
-    "tweetfavorites": 185,
+    "tweetfavorites": 180,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 67,
+    "tweetretweets": 66,
     "tweettext": "CVE-2022-41343:  PHP Dompdf RCE via Remote CSS Font Cache Installation...\nPoC\nhttps://t.co/pJTms92Hlb https://t.co/58qugTkNcG",
     "tweettime": "2022-10-07, 10:08:13",
     "tweeturl": "https://twitter.com/cyber_advising/status/1578326322127941632",
@@ -1021,10 +1021,10 @@
     "expanded_url": [
         "https://github.com/cosad3s/CVE-2022-35914-poc"
     ],
-    "tweetfavorites": 141,
+    "tweetfavorites": 138,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 39,
+    "tweetretweets": 38,
     "tweettext": "CVE-2022-35914: /vendor/htmlawed/htmlawed/htmLawedTest.php in the htmlawed module for GLPI through 10.0.2 allows PHP code injection.\n\nPoC\nhttps://t.co/PNNp7mTsiw https://t.co/YC46Q4fC6N",
     "tweettime": "2022-10-02, 10:05:51",
     "tweeturl": "https://twitter.com/cyber_advising/status/1576513784721862656",
@@ -1042,4 +1042,17 @@
     "tweettime": "2022-10-02, 07:15:51",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1576471006373613569",
     "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6010dE3KO"
+    ],
+    "tweetfavorites": 874,
+    "tweetquotes": 27,
+    "tweetreplies": 30,
+    "tweetretweets": 517,
+    "tweettext": "Microsoft Security Threat Intelligence teams have published additional analysis on observed exploitation of Exchange vulnerabilities CVE-2022-41040 and CVE-2022-41082 with security product mitigations and detections to help protect against further attacks https://t.co/5jcROyyBEz",
+    "tweettime": "2022-10-01, 04:25:00",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1576065620067631105",
+    "username": "MsftSecIntel"
 }

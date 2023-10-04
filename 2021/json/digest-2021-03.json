@@ -75,6 +75,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/terorie/cve-2021-3449"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 55,
+    "tweettext": "CVE-2021-3449: A flaw was found in openssl. A server crash and denial of service attack could occur if a client sends a TLSv1.2 renegotiation ClientHello\n\nPoC\nhttps://t.co/IXTVey4FL6 https://t.co/QimXSetvYN",
+    "tweettime": "2021-03-27, 19:29:39",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1375892794137571331",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2021/03/apple-issues-urgent-patch-update-for.html"
     ],
     "tweetfavorites": 325,
@@ -255,10 +268,10 @@
     "expanded_url": [
         "https://attackerkb.com/topics/J6pWeg5saG/k03009991-icontrol-rest-unauthenticated-remote-command-execution-vulnerability-cve-2021-22986"
     ],
-    "tweetfavorites": 181,
+    "tweetfavorites": 170,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 83,
+    "tweetretweets": 75,
     "tweettext": "CVE-2021-22986 (F5 iControl REST RCE).\n\nPoC\nhttps://t.co/dfaNm5rS09 https://t.co/qjgquJzPIe",
     "tweettime": "2021-03-17, 01:07:44",
     "tweeturl": "https://twitter.com/cyber_advising/status/1371991607545827328",
@@ -577,10 +590,10 @@
     "expanded_url": [
         "https://github.com/HoangKien1020/CVE-2021-23132"
     ],
-    "tweetfavorites": 243,
+    "tweetfavorites": 239,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 99,
+    "tweetretweets": 100,
     "tweettext": "CVE-2021-23132: Joomla com_media allowed paths that are not intended for image uploads to RCE.\n\nPoC\nhttps://t.co/hGCx8aIPsB https://t.co/rSgYaycqH0",
     "tweettime": "2021-03-03, 17:40:23",
     "tweeturl": "https://twitter.com/cyber_advising/status/1367167985560014853",
@@ -666,6 +679,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2021-21315 Node.JS OS sanitize service Parameters Command Injection\n\nPoC\nhttps://t.co/rkyJ7LZznA https://t.co/J4AE5fh8LA",
+    "tweettime": "2021-03-02, 08:02:06",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1366660069543264258",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://github.com/GuayoyoLabs/CVE-2021-21972"
     ],
     "tweetfavorites": 282,
@@ -681,10 +707,10 @@
     "expanded_url": [
         "https://www.synacktiv.com/en/publications/pwn2own-tokyo-2020-defeating-the-tp-link-ac1750.html"
     ],
-    "tweetfavorites": 156,
-    "tweetquotes": 2,
+    "tweetfavorites": 154,
+    "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 67,
+    "tweetretweets": 64,
     "tweettext": "#Pwn2Own Tokyo 2020. This blogpost explains the details of our CVE-2021-27246, a remote code execution on TP-Link AC1750 Smart Wifi Router.\n\nExploit, wait, and get root! \n\nhttps://t.co/KmzsSmT6Fv https://t.co/NiJfaw7quS",
     "tweettime": "2021-03-01, 18:29:37",
     "tweeturl": "https://twitter.com/Synacktiv/status/1366455599412613120",

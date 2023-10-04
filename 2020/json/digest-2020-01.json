@@ -382,13 +382,26 @@
     "expanded_url": [
         "https://docs.google.com/spreadsheets/d/1sJ8-cVyG4vFYq6-MGdapM1eAhUkoXIKlsmuzKdfD9Ys/edit?usp=sharing"
     ],
-    "tweetfavorites": 173,
-    "tweetquotes": 36,
+    "tweetfavorites": 164,
+    "tweetquotes": 35,
     "tweetreplies": 2,
-    "tweetretweets": 144,
+    "tweetretweets": 134,
     "tweettext": "Servers vulnerable to CVE-2019-19781 by country:\n🇺🇸 United States: 9,880\n🇩🇪 Germany: 2,510\n🇬🇧 United Kingdom: 2,028\n🇨🇭 Switzerland: 1,094\n🇦🇺 Australia: 1,076\n🇳🇱 Netherlands: 713\n🇨🇦 Canada: 682\n🇫🇷 France: 591\n🇮🇹 Italy: 568\n🇳🇴 Norway: 446\nAll others: 5,533\nhttps://t.co/tm7udJUzH1",
     "tweettime": "2020-01-13, 08:17:52",
     "tweeturl": "https://twitter.com/bad_packets/status/1216635462011351040",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://badpackets.net/over-25000-citrix-netscaler-endpoints-vulnerable-to-cve-2019-19781/"
+    ],
+    "tweetfavorites": 127,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 83,
+    "tweettext": "Opportunistic scanning activity continues to target Citrix (NetScaler) servers vulnerable to CVE-2019-19781.\n\nThis critical vulnerability allows unauthenticated remote attackers to execute arbitrary commands on the targeted server. #threatintel \nhttps://t.co/Ba1muwe7ny",
+    "tweettime": "2020-01-13, 08:15:59",
+    "tweeturl": "https://twitter.com/bad_packets/status/1216634986494738432",
     "username": "bad_packets"
 }
 {

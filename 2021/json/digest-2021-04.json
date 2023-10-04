@@ -64,6 +64,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/Henry4E36/Solr-SSRF"
+    ],
+    "tweetfavorites": 171,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 67,
+    "tweettext": "CVE-2021-27905: Apache Solr SSRF\nPoC\nhttps://t.co/TE0cupHAmm https://t.co/Q8PKTYT8xU",
+    "tweettime": "2021-04-22, 07:55:17",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1385140135843536899",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-27059",
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-27085"
     ],

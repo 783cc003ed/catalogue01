@@ -92,6 +92,19 @@
 }
 {
     "expanded_url": [
+        "https://gist.github.com/testanull/dcb536b409a28d74430a441d53b14456"
+    ],
+    "tweetfavorites": 132,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 63,
+    "tweettext": "CVE-2021-31474: This allows remote attackers to execute arbitrary code on affected installations of SolarWinds Network Performance Monitor 2020.2.1. Authentication is not required to exploit this vulnerability. \n\nPoC\nhttps://t.co/5kc5cTtRXy https://t.co/kYaEwmz1Ct",
+    "tweettime": "2021-05-26, 14:12:21",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1397556213949288448",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://link.medium.com/HmCaPqjhzgb",
         "https://github.com/straightblast/My-PoC-Exploits/blob/master/CVE-2021-21974.py"
     ],

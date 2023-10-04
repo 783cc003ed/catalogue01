@@ -207,3 +207,16 @@
     "tweeturl": "https://twitter.com/cBekrar/status/1103138159133569024",
     "username": "cBekrar"
 }
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/ressources/Synacktiv_OpenBSD_PacketFilter_CVE-2019-5597_ipv6_frag.pdf"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 95,
+    "tweettext": "Patch your Packet Filter: OpenBSD &amp; FreeBSD remote DoS in 2 IPv6 packets. Please don't fragment the Internet\" #CVE-2019-5597 https://t.co/1LZF9uAFVh",
+    "tweettime": "2019-03-01, 10:26:36",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1101428517030543360",
+    "username": "Synacktiv"
+}

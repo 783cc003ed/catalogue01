@@ -459,13 +459,26 @@
     "expanded_url": [
         "https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller"
     ],
-    "tweetfavorites": 194,
+    "tweetfavorites": 192,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 73,
+    "tweetretweets": 71,
     "tweettext": "CVE-2022-44721 Privilege escalation in Crowdstrike Falcon Uninstaller. \nExploiting this vulnerability allows an attacker with administrative privileges to bypass the token check on Windows end-devices and to uninstall the sensor from the device...\n\nPoC\nhttps://t.co/2gnwqVu9xX https://t.co/RYixATcl9O",
     "tweettime": "2022-12-04, 05:44:55",
     "tweeturl": "https://twitter.com/cyber_advising/status/1599278556885839874",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/Wh04m1001/SysmonEoP"
+    ],
+    "tweetfavorites": 250,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 118,
+    "tweettext": "(CVE-2022-41120/CVE-2022-XXXXX) Proof of Concept for arbitrary file delete/write in Microsoft Sysmon.\nVulnerability is in code responsible for ClipboardChange event that can be reached through RPC. Local users can send data to RPC server ...\n\nPoC\nhttps://t.co/iEXFIvvfob https://t.co/PD3UHQIlS2",
+    "tweettime": "2022-12-04, 05:38:13",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1599276871182856192",
     "username": "cyber_advising"
 }
 {

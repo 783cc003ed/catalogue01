@@ -35,10 +35,20 @@
     "username": "ptracesecurity"
 }
 {
+    "tweetfavorites": 234,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 88,
+    "tweettext": "⚠️ CVE-2018-13379 event detected ⚠️\n\nSource IP:\n195.133.31.89 (🇷🇺)\n\nTarget:\nFortinet VPN servers vulnerable to unauthenticated arbitrary file read leading to disclosure of usernames and passwords in plaintext.\n#threatintel https://t.co/JLsXqRmLHR",
+    "tweettime": "2022-02-27, 09:17:07",
+    "tweeturl": "https://twitter.com/bad_packets/status/1497863355310112771",
+    "username": "bad_packets"
+}
+{
     "expanded_url": [
         "https://github.com/Mr-xn/CVE-2022-24086"
     ],
-    "tweetfavorites": 130,
+    "tweetfavorites": 129,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 44,
@@ -207,6 +217,19 @@
     "tweettime": "2022-02-08, 19:05:53",
     "tweeturl": "https://twitter.com/l33d0hyun/status/1491126152005820417",
     "username": "l33d0hyun"
+}
+{
+    "expanded_url": [
+        "https://github.com/Audiobahn/CVE-2022-20699"
+    ],
+    "tweetfavorites": 245,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 99,
+    "tweettext": "CVE-2022-20699: Cisco Anyconnect VPN unauth RCE (rwx stack) it is not well checked.  cc @FlashbackPwn\n\nPoC\nhttps://t.co/RYwnG0slD6 https://t.co/bkKsqLi9Bw",
+    "tweettime": "2022-02-08, 12:45:48",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1491030502413049863",
+    "username": "cyber_advising"
 }
 {
     "tweetfavorites": 307,

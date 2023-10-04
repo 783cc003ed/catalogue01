@@ -38,6 +38,19 @@
     "username": "r4j0x00"
 }
 {
+    "expanded_url": [
+        "https://github.com/lockedbyte/CVE-Exploits/tree/master/CVE-2021-3156"
+    ],
+    "tweetfavorites": 200,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 59,
+    "tweettext": "CVE-2021-3156: PoC sudo vulnerability that affects most linux systems due to a heap-based buffer overflow.\nhttps://t.co/ewyy4u7cwE https://t.co/feCNZMc2Ls",
+    "tweettime": "2021-01-30, 03:03:53",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1355350998370410498",
+    "username": "cyber_advising"
+}
+{
     "tweetfavorites": 457,
     "tweetquotes": 5,
     "tweetreplies": 12,
@@ -168,6 +181,19 @@
     "tweettime": "2021-01-24, 07:08:00",
     "tweeturl": "https://twitter.com/campuscodi/status/1353238102354108418",
     "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://github.com/SNCKER/CVE-2021-3129"
+    ],
+    "tweetfavorites": 101,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 42,
+    "tweettext": "CVE-2021-3129: Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code\nhttps://t.co/k0TBvqVgKr https://t.co/NsBIm9wUNL",
+    "tweettime": "2021-01-22, 08:18:49",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1352531147801186306",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [
@@ -427,6 +453,16 @@
     "tweettime": "2021-01-06, 13:12:54",
     "tweeturl": "https://twitter.com/ptswarm/status/1346806951326396416",
     "username": "ptswarm"
+}
+{
+    "tweetfavorites": 120,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Have you ever tried to exploit CVE-2020-16952 (SSI on SharePoint by @steventseeley) and failed with “Unknown server tag 'WebPartPages:DataFormWebPart'”?\n\nWell, just register the tag before using it! #synacktivtips https://t.co/Up6hI7YudB",
+    "tweettime": "2021-01-06, 08:01:08",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1346728492688400386",
+    "username": "Synacktiv"
 }
 {
     "expanded_url": [

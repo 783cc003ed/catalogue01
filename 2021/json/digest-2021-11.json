@@ -38,6 +38,19 @@
     "username": "Dinosn"
 }
 {
+    "expanded_url": [
+        "https://haxx.in/posts/pwning-tipc/"
+    ],
+    "tweetfavorites": 127,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 49,
+    "tweettext": "CVE-2021-43267: An issue was discovered in net/tipc/crypto.c in the Linux kernel before 5.14.16. The Transparent Inter-Process ...\n\nPoC\nhttps://t.co/fycjKNJaIm https://t.co/QZuVmjCmrT",
+    "tweettime": "2021-11-29, 02:44:49",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1465149720653877252",
+    "username": "cyber_advising"
+}
+{
     "tweetfavorites": 361,
     "tweetquotes": 2,
     "tweetreplies": 2,
@@ -377,6 +390,19 @@
     "tweettime": "2021-11-05, 04:56:00",
     "tweeturl": "https://twitter.com/campuscodi/status/1456485425405521921",
     "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/publications/how-to-exploit-cve-2021-40539-on-manageengine-adselfservice-plus.html"
+    ],
+    "tweetfavorites": 151,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "Takeover an entire domain by resetting passwords! We detailed how to exploit CVE-2021-40539 on ManageEngine ADSelfService Plus in this blogpost https://t.co/craR84dtvv @acervoise - @tiyeuse",
+    "tweettime": "2021-11-04, 16:23:59",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1456296176408571919",
+    "username": "Synacktiv"
 }
 {
     "expanded_url": [

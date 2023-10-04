@@ -164,6 +164,19 @@
 }
 {
     "expanded_url": [
+        "https://www.anquanke.com/post/id/210817"
+    ],
+    "tweetfavorites": 139,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 63,
+    "tweettext": "CVE-2020-15504：Sophos XG RCE\nhttps://t.co/BLl0xeNajz https://t.co/Xrd45foUxI",
+    "tweettime": "2020-07-18, 14:47:23",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1284500014631460865",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://bit.ly/32vMXhH"
     ],
     "tweetfavorites": 33,
@@ -174,6 +187,19 @@
     "tweettime": "2020-07-18, 14:01:17",
     "tweeturl": "https://twitter.com/BlackBerry/status/1284488415753277442",
     "username": "BlackBerry"
+}
+{
+    "expanded_url": [
+        "https://github.com/Q4n/CVE-2020-1362"
+    ],
+    "tweetfavorites": 224,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 97,
+    "tweettext": "Exploiting an Elevation of Privilege bug in Windows 10 (CVE-2020-1362)  https://t.co/qAI7b3tPEa  #Windows10 #Exploit #CVE #BugBounty #Infosec https://t.co/5cyMCmGrbQ",
+    "tweettime": "2020-07-18, 06:03:06",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1284368076268601349",
+    "username": "ptracesecurity"
 }
 {
     "expanded_url": [
@@ -253,6 +279,16 @@
     "tweettime": "2020-07-15, 19:20:02",
     "tweeturl": "https://twitter.com/IanColdwater/status/1283481467956469763",
     "username": "IanColdwater"
+}
+{
+    "tweetfavorites": 109,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 81,
+    "tweettext": "PoC for CVE-2020-6286 and CVE-2020-6287 has been published to GitHub. Patch now!",
+    "tweettime": "2020-07-15, 18:48:28",
+    "tweeturl": "https://twitter.com/bad_packets/status/1283473525613838336",
+    "username": "bad_packets"
 }
 {
     "tweetfavorites": 414,

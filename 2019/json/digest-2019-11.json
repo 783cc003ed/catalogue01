@@ -156,6 +156,19 @@
 }
 {
     "expanded_url": [
+        "https://www.microsoft.com/security/blog/2019/11/07/the-new-cve-2019-0708-rdp-exploit-attacks-explained/"
+    ],
+    "tweetfavorites": 719,
+    "tweetquotes": 36,
+    "tweetreplies": 2,
+    "tweetretweets": 446,
+    "tweettext": "While we currently see only coin miners being dropped, we agree w/ the research community that CVE-2019-0708 (BlueKeep) exploitation can be big. Locate and patch exposed RDP services now. Read our latest blog w/ assist from @GossiTheDog &amp; @MalwareTechBlog https://t.co/y1NgN5WVu8",
+    "tweettime": "2019-11-07, 21:07:59",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1192549278507388929",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
         "https://www.sudokaikan.com/2019/11/cve-2019-16662-cve-2019-16663.html"
     ],
     "tweetfavorites": 52,

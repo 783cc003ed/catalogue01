@@ -41,6 +41,19 @@
 }
 {
     "expanded_url": [
+        "https://www.synacktiv.com/en/resources.html#publications"
+    ],
+    "tweetfavorites": 147,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 116,
+    "tweettext": "Slides for @elvanderb presentation \"macOS: how to gain root with CVE-2018-4193 in &lt; 10s\" @offensive_con are available! https://t.co/WGCDGBKJ1T",
+    "tweettime": "2019-02-19, 13:36:40",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1097852470645145600",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
         "https://bugs.chromium.org/p/project-zero/issues/detail?id=1760",
         "https://bugs.chromium.org/p/project-zero/issues/detail?id=1759"
     ],

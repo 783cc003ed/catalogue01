@@ -414,12 +414,25 @@
 }
 {
     "expanded_url": [
+        "https://research.ifcr.dk/certifried-active-directory-domain-privilege-escalation-cve-2022-26923-9e098fe298f4"
+    ],
+    "tweetfavorites": 189,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2022-26923: Active Directory Domain Services Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/19CjRU4sgU https://t.co/RQ8F0w7Jkt",
+    "tweettime": "2022-05-13, 21:22:02",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1525224877191569408",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://starlabs.sg/blog/2022/05/new-wine-in-old-bottle-microsoft-sharepoint-post-auth-deserialization-rce-cve-2022-29108/"
     ],
-    "tweetfavorites": 179,
+    "tweetfavorites": 174,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 62,
+    "tweetretweets": 61,
     "tweettext": "CVE-2022-29108: New Wine in Old Bottle - Microsoft Sharepoint Post-Auth Deserialization RCE.\n\nhttps://t.co/8s9WwKM9ij https://t.co/WUbqLWngNk",
     "tweettime": "2022-05-13, 21:20:26",
     "tweeturl": "https://twitter.com/cyber_advising/status/1525224472067903491",

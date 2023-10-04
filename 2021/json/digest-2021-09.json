@@ -384,6 +384,16 @@
     "username": "0xdea"
 }
 {
+    "tweetfavorites": 309,
+    "tweetquotes": 7,
+    "tweetreplies": 5,
+    "tweetretweets": 98,
+    "tweettext": "Mass scanning activity detected from 31.44.185.115 (🇷🇺) checking for Azure Linux OMI endpoints vulnerable to remote code execution (CVE-2021-38647).\n\nPorts targeted:\n1270/tcp\n5985/tcp\n5986/tcp\n#threatintel https://t.co/rnLO6zmw3A",
+    "tweettime": "2021-09-17, 18:58:45",
+    "tweeturl": "https://twitter.com/bad_packets/status/1438940505635622914",
+    "username": "bad_packets"
+}
+{
     "expanded_url": [
         "https://github.com/CHYbeta/OddProxyDemo/tree/master/mod_proxy/demo1",
         "https://portswigger.net/research/http2",
@@ -531,10 +541,10 @@
     "expanded_url": [
         "https://msft.it/6011XTGHN"
     ],
-    "tweetfavorites": 769,
+    "tweetfavorites": 720,
     "tweetquotes": 15,
-    "tweetreplies": 6,
-    "tweetretweets": 385,
+    "tweetreplies": 3,
+    "tweetretweets": 355,
     "tweettext": "New blog post: Analyzing attacks that exploit the CVE-2021-40444 MSHTML vulnerability https://t.co/UJbuvdMU1r",
     "tweettime": "2021-09-16, 00:00:00",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1438291542142246920",
@@ -1091,6 +1101,16 @@
     "username": "cycatz2"
 }
 {
+    "tweetfavorites": 151,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 54,
+    "tweettext": "CVE-2021-26084 exploit activity detected from the following hosts targeting our Atlassian Confluence honeypots:\n\n45.155.205.249 (🇷🇺)\n62.76.41.46 (🇷🇺)\n89.223.91.225 (🇷🇺)\n109.237.96.124 (🇷🇺)\n195.19.192.26 (🇷🇺)\n\nQuery our API for full payload and other relevant IOCs. #threatintel",
+    "tweettime": "2021-09-06, 03:21:54",
+    "tweeturl": "https://twitter.com/bad_packets/status/1434718473679093763",
+    "username": "bad_packets"
+}
+{
     "expanded_url": [
         "https://attackerkb.com/topics/Eu74wdMbEL/cve-2021-26084-confluence-server-ognl-injection/rapid7-analysis"
     ],
@@ -1154,12 +1174,25 @@
 }
 {
     "expanded_url": [
+        "https://msft.it/6010XHBDr"
+    ],
+    "tweetfavorites": 375,
+    "tweetquotes": 10,
+    "tweetreplies": 4,
+    "tweetretweets": 215,
+    "tweettext": "New blog: We're sharing technical information about CVE-2021-35211 that we shared with SolarWinds via coordinated vulnerability disclosure. Learn how we found the issue and how we worked with SolarWinds to fix the vulnerability and mitigate the attacks. https://t.co/XIZHYP0Upv",
+    "tweettime": "2021-09-02, 16:09:07",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1433461999787298818",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
         "https://confluence.atlassian.com/doc/confluence-security-advisory-2021-08-25-1077906215.html"
     ],
-    "tweetfavorites": 116,
+    "tweetfavorites": 112,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 50,
+    "tweetretweets": 45,
     "tweettext": "We've detected mass scanning and exploit activity from hosts in 🇧🇷 🇨🇳 🇭🇰 🇳🇵🇷🇴 🇷🇺 🇺🇸 targeting Atlassian Confluence servers vulnerable to remote code execution (https://t.co/GExSx8puLm).\n\nQuery our API for \"tags=CVE-2021-26084\" for full payload and source IPs. #threatintel",
     "tweettime": "2021-09-01, 19:59:40",
     "tweeturl": "https://twitter.com/bad_packets/status/1433157632370511873",

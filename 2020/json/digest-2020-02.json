@@ -1,5 +1,19 @@
 {
     "expanded_url": [
+        "https://y4er.com/post/weblogic-cve-2020-2551/",
+        "https://github.com/Y4er/CVE-2020-2551/"
+    ],
+    "tweetfavorites": 202,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 107,
+    "tweettext": "RCE CVE-2020-2551: Weblogic IIOP deserialization \n\nhttps://t.co/OHycda1cF8\n\nPOC\nhttps://t.co/Sj3h2dEeKS https://t.co/7SpNCS4ksp",
+    "tweettime": "2020-02-29, 18:23:40",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1233820146441052160",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0688",
         "https://github.com/NVISO-BE/sigma-public/blob/web_exchange_cve_2020_0688_exploit/rules/web/web_exchange_cve_2020_0688_exploit.yml"
     ],

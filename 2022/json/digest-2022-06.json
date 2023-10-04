@@ -261,12 +261,25 @@
 }
 {
     "expanded_url": [
+        "https://github.com/tr3ee/CVE-2022-23222"
+    ],
+    "tweetfavorites": 537,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 189,
+    "tweettext": "CVE-2022-23222: Linux kernel through 5.15.14 allows local users to gain privileges because of the availability of pointer arithmetic via certain *_OR_NULL pointer types.\n\nPoC\nhttps://t.co/zFAfB0UXg3 https://t.co/lBT5BLTO6w",
+    "tweettime": "2022-06-12, 07:47:27",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1535891514387218432",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://github.com/aaronsvk/CVE-2022-30075"
     ],
-    "tweetfavorites": 495,
-    "tweetquotes": 7,
-    "tweetreplies": 9,
-    "tweetretweets": 189,
+    "tweetfavorites": 479,
+    "tweetquotes": 6,
+    "tweetreplies": 7,
+    "tweetretweets": 184,
     "tweettext": "CVE-2022-30075: Authenticated Remote Code Execution in Tp-Link Routers.\n\nPoC\nhttps://t.co/AGyD2CVWA8 https://t.co/qU87X48x39",
     "tweettime": "2022-06-12, 07:45:12",
     "tweeturl": "https://twitter.com/cyber_advising/status/1535890951226462208",

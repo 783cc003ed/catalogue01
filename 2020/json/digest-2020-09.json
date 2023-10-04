@@ -52,6 +52,16 @@
     "username": "DanyL931"
 }
 {
+    "tweetfavorites": 856,
+    "tweetquotes": 91,
+    "tweetreplies": 8,
+    "tweetretweets": 588,
+    "tweettext": "Microsoft is actively tracking threat actor activity using exploits for the CVE-2020-1472 Netlogon EoP vulnerability, dubbed Zerologon. We have observed attacks where public exploits have been incorporated into attacker playbooks.",
+    "tweettime": "2020-09-24, 01:29:08",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1308941504707063808",
+    "username": "MsftSecIntel"
+}
+{
     "expanded_url": [
         "https://labs.redyops.com/index.php/2020/09/11/ibm-qradar-wincollect-escalation-of-privileges-cve-2020-4485-cve-2020-4486/"
     ],
@@ -199,10 +209,10 @@
     "expanded_url": [
         "https://github.com/iamnoooob/CVE-Reverse/tree/master/CVE-2020-15505"
     ],
-    "tweetfavorites": 89,
+    "tweetfavorites": 85,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 38,
+    "tweetretweets": 37,
     "tweettext": "CVE-2020-15505: A remote code execution vulnerability in MobileIron Core and Connector versions 10.6 and earlier, and Sentry versions 9.8 and earlier that allows remote attackers to execute arbitrary code via unspecified vectors.\n\nPoC\nhttps://t.co/YQmOrMu5C9 https://t.co/LYYVjPgjXF",
     "tweettime": "2020-09-13, 23:17:58",
     "tweeturl": "https://twitter.com/cyber_advising/status/1305284616329232386",
@@ -222,10 +232,10 @@
     "expanded_url": [
         "https://srcincite.io/pocs/cve-2020-16875.py.txt"
     ],
-    "tweetfavorites": 108,
-    "tweetquotes": 2,
+    "tweetfavorites": 165,
+    "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 50,
+    "tweetretweets": 73,
     "tweettext": "CVE-2020-16875: Microsoft Exchange Server DlpUtils AddTenantDlpPolicy Remote Code Execution Vulnerability\n\nPoC\nhttps://t.co/yjvJlbmchI https://t.co/V4HbRHEmZY",
     "tweettime": "2020-09-13, 14:08:31",
     "tweeturl": "https://twitter.com/cyber_advising/status/1305146341992140803",
@@ -383,6 +393,19 @@
     "tweettime": "2020-09-08, 08:02:20",
     "tweeturl": "https://twitter.com/kmkz_security/status/1303242252827987970",
     "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://watchcom.no/nyheter/nyhetsarkiv/uncovers-cisco-jabber-vulnerabilities/"
+    ],
+    "tweetfavorites": 171,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 84,
+    "tweettext": "CVE-2020-3495: Cisco Jabber Message Handling Arbitrary Code Execution (CVSS 9.9)\nhttps://t.co/1XqBeph0V0 https://t.co/j2iwdRuIoK",
+    "tweettime": "2020-09-03, 20:13:54",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1301614418413973504",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [

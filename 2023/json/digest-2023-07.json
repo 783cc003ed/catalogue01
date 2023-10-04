@@ -80,3 +80,16 @@
     "tweeturl": "https://twitter.com/momika233/status/1678405071200047116",
     "username": "momika233"
 }
+{
+    "expanded_url": [
+        "https://bishopfox.com/blog/cve-2023-27997-exploitable-and-fortigate-firewalls-vulnerable"
+    ],
+    "tweetfavorites": 397,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 173,
+    "tweettext": "CVE-2023-27997, heapoverflow in FortiOS OS behind FortiGate firewalls that allows RCE. 490,000 affected SSL VPN interfaces are exposed online.\n\nPoC\nhttps://t.co/V6ObaPXyZa https://t.co/nFy9sjiCRy",
+    "tweettime": "2023-07-01, 02:58:18",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1674975690188267522",
+    "username": "cyber_advising"
+}

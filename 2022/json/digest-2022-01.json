@@ -123,10 +123,10 @@
     "expanded_url": [
         "https://github.com/numanturle/CVE-2022-0332"
     ],
-    "tweetfavorites": 313,
+    "tweetfavorites": 310,
     "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 92,
+    "tweetretweets": 90,
     "tweettext": "CVE-2022-0332: Moodle 3.11 to 3.11.4 - SQL injection\n\nPoC\nhttps://t.co/KEMstBeUPV https://t.co/y6vnoGaAdl",
     "tweettime": "2022-01-26, 20:31:39",
     "tweeturl": "https://twitter.com/cyber_advising/status/1486436693888667651",
@@ -245,6 +245,20 @@
     "username": "wdormann"
 }
 {
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21907",
+        "https://github.com/antx-code/CVE-2022-21907"
+    ],
+    "tweetfavorites": 180,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 63,
+    "tweettext": "CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability\nhttps://t.co/z2Jwhy3OU3\nPoC\nhttps://t.co/PEg6bHlccW https://t.co/xGWChBTroc",
+    "tweettime": "2022-01-18, 18:14:10",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1483502992959623168",
+    "username": "cyber_advising"
+}
+{
     "tweetfavorites": 135,
     "tweetquotes": 4,
     "tweetreplies": 3,
@@ -338,6 +352,19 @@
     "tweettime": "2022-01-11, 20:07:11",
     "tweeturl": "https://twitter.com/mj0011sec/status/1480994719560003584",
     "username": "mj0011sec"
+}
+{
+    "expanded_url": [
+        "https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/"
+    ],
+    "tweetfavorites": 681,
+    "tweetquotes": 23,
+    "tweetreplies": 14,
+    "tweetretweets": 386,
+    "tweettext": "We have observed a China-based ransomware operator that we’re tracking as DEV-0401 exploiting the CVE-2021-44228 vulnerability in Log4j 2 (aka #log4shell) targeting internet-facing systems running VMWare Horizon. https://t.co/6GOdRwRTjk",
+    "tweettime": "2022-01-11, 02:37:30",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1480730559739359233",
+    "username": "MsftSecIntel"
 }
 {
     "expanded_url": [

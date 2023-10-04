@@ -37,6 +37,32 @@
 }
 {
     "expanded_url": [
+        "https://github.com/ghost-nemesis/cve-2021-20837-poc"
+    ],
+    "tweetfavorites": 241,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 65,
+    "tweettext": "CVE-2021-20837 : RCE in MovableType\nPoC\nhttps://t.co/tErldQg6Av https://t.co/gRJ6LQeSYc",
+    "tweettime": "2021-10-29, 11:45:21",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1454051725904580608",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/Aiminsun/CVE-2021-36260"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "CVE-2021-36260: command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation..\n\nPoC\nhttps://t.co/rS9EFiQu7F https://t.co/bl1tE4T1C0",
+    "tweettime": "2021-10-29, 11:43:57",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1454051375000719364",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://therecord.media/google-fixes-15th-and-16th-chrome-zero-day-this-year/",
         "https://chromereleases.googleblog.com/2021/10/stable-channel-update-for-desktop_28.html"
     ],
@@ -87,6 +113,19 @@
     "tweettime": "2021-10-28, 21:31:19",
     "tweeturl": "https://twitter.com/mj0011sec/status/1453836802930843648",
     "username": "mj0011sec"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6016k1VFi"
+    ],
+    "tweetfavorites": 611,
+    "tweetquotes": 36,
+    "tweetreplies": 6,
+    "tweetretweets": 283,
+    "tweettext": "Microsoft found a vulnerability (CVE-2021-30892) that could allow an attacker to bypass System Integrity Protection (SIP) in macOS. We shared our findings with Apple via coordinated vulnerability disclosure, and a fix was released October 26. Get details: https://t.co/FDZc5pOQX1",
+    "tweettime": "2021-10-28, 16:08:00",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1453755437745065991",
+    "username": "MsftSecIntel"
 }
 {
     "tweetfavorites": 32,
@@ -825,7 +864,7 @@
     "expanded_url": [
         "https://httpd.apache.org/security/vulnerabilities_24.html"
     ],
-    "tweetfavorites": 201,
+    "tweetfavorites": 199,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 70,

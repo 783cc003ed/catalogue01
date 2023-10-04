@@ -2,20 +2,20 @@
     "expanded_url": [
         "https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/"
     ],
-    "tweetfavorites": 390,
+    "tweetfavorites": 383,
     "tweetquotes": 4,
     "tweetreplies": 8,
-    "tweetretweets": 130,
+    "tweetretweets": 131,
     "tweettext": "CVE-2023-29489: XSS in million websites cPanel...\n\nPoc\nhttps://t.co/mclgvGs5dD https://t.co/wo5r1G7Esq",
     "tweettime": "2023-04-27, 13:51:31",
     "tweeturl": "https://twitter.com/cyber_advising/status/1651584864544604162",
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 364,
+    "tweetfavorites": 358,
     "tweetquotes": 31,
     "tweetreplies": 4,
-    "tweetretweets": 173,
+    "tweetretweets": 168,
     "tweettext": "Microsoft is attributing the recently reported attacks exploiting the CVE-2023-27350 and CVE-2023-27351 vulnerabilities in print management software PaperCut to deliver Clop ransomware to the threat actor tracked as Lace Tempest (overlaps with FIN11 and TA505).",
     "tweettime": "2023-04-26, 22:04:57",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1651346653901725696",
@@ -179,7 +179,7 @@
     "expanded_url": [
         "https://gist.github.com/monoxgas/f615514fb51ebb55a7229f3cf79cf95b"
     ],
-    "tweetfavorites": 124,
+    "tweetfavorites": 121,
     "tweetquotes": 3,
     "tweetreplies": 0,
     "tweetretweets": 30,

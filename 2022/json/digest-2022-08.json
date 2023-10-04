@@ -28,7 +28,7 @@
     "expanded_url": [
         "https://github.com/mistymntncop/CVE-2022-1802"
     ],
-    "tweetfavorites": 273,
+    "tweetfavorites": 271,
     "tweetquotes": 3,
     "tweetreplies": 2,
     "tweetretweets": 109,
@@ -727,6 +727,19 @@
     "tweettime": "2022-08-02, 05:34:17",
     "tweeturl": "https://twitter.com/vcslab/status/1554339786315350016",
     "username": "vcslab"
+}
+{
+    "expanded_url": [
+        "https://0x1337.ninja/2022/07/30/cve-2022-35650-analysis/"
+    ],
+    "tweetfavorites": 438,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 124,
+    "tweettext": "CVE-2022-35650: Moodle, occurs due to input validation error when importing lesson questions. This insufficient path checks results in arbitrary file read risk.\n\nPoC\nhttps://t.co/DET61wQR8y https://t.co/wKtztvnW5F",
+    "tweettime": "2022-08-01, 22:04:37",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1554226623947440130",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [

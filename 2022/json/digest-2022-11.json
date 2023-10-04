@@ -122,7 +122,7 @@
     "tweetfavorites": 121,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 45,
+    "tweetretweets": 44,
     "tweettext": "CVE-2022-40127 : Apache Airflow &lt; 2.4.0 DAG example_bash_operator Remote Code Execution.\n\nPoC\nhttps://t.co/bkM3PmBMaN https://t.co/oJGzB02lUc",
     "tweettime": "2022-11-22, 11:37:16",
     "tweeturl": "https://twitter.com/cyber_advising/status/1595018573486899202",

@@ -45,6 +45,19 @@
     "username": "pixiepointsec"
 }
 {
+    "expanded_url": [
+        "https://github.com/zwjjustdoit/Xstream-1.4.17"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "👺XSTREAM&lt;=1.4.17: \n-CVE-2021-39141（RCE）\n- CVE-2021-39144（RCE）\n- CVE-2021-39150（SSRF）\n- CVE-2021-39152（SSRF).\n\nPoC\nhttps://t.co/hzyk189ApL https://t.co/E7wemc8A2J",
+    "tweettime": "2021-08-26, 09:40:14",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1430827417539596290",
+    "username": "cyber_advising"
+}
+{
     "tweetfavorites": 40,
     "tweetquotes": 0,
     "tweetreplies": 2,
@@ -214,6 +227,16 @@
     "tweettime": "2021-08-11, 23:55:23",
     "tweeturl": "https://twitter.com/Steph3nSims/status/1425606804956876800",
     "username": "Steph3nSims"
+}
+{
+    "tweetfavorites": 127,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 57,
+    "tweettext": "Mass scanning activity detected from 3.15.221.32 (🇺🇸) checking for Microsoft Exchange servers vulnerable to #ProxyShell (CVE-2021-34473).\n#threatintel",
+    "tweettime": "2021-08-11, 23:23:57",
+    "tweeturl": "https://twitter.com/bad_packets/status/1425598895569006594",
+    "username": "bad_packets"
 }
 {
     "tweetfavorites": 155,

@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/erberkan/fortilogger_arbitrary_fileupload"
+    ],
+    "tweetfavorites": 132,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2021-3378 | FortiLogger - Unauthenticated Arbitrary File Upload (Metasploit)\nhttps://t.co/Ifj2vS9sYP https://t.co/vbI5JkETq6",
+    "tweettime": "2021-02-28, 11:26:28",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1365986722736189442",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://viz.greynoise.io/query/?gnql=tags%3A%22VMware%20vCenter%20RCE%20Attempt%22%20OR%20tags%3A%22VMWare%20vCenter%20RCE%20Vuln%20Check%22"
     ],
     "tweetfavorites": 42,
@@ -171,6 +184,19 @@
 }
 {
     "expanded_url": [
+        "https://www.synacktiv.com/publications/gpgme-used-confusion-its-super-effective.html"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 56,
+    "tweettext": "No need to worry about vulnerabilities if your API design is dangerous 😬\n\nThe GPG signature bypass in CVE-2020-10759 can easily be found in other codebases, such as VMware's Photon OS.\n\nFind more in our latest blogpost by @_lucas_georges_ \n\nhttps://t.co/x6Eq8gkedn https://t.co/rrxjyCI1YD",
+    "tweettime": "2021-02-17, 08:32:39",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1361956713155461122",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
         "https://www.vmware.com/security/advisories/VMSA-2021-0001.html"
     ],
     "tweetfavorites": 237,
@@ -191,6 +217,19 @@
     "tweettime": "2021-02-13, 10:35:58",
     "tweeturl": "https://twitter.com/sec715/status/1360538195532730370",
     "username": "sec715"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/swarm-of-palo-alto-pan-os-vulnerabilities/"
+    ],
+    "tweetfavorites": 242,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 100,
+    "tweettext": "Palo Alto PAN-OS vulnerabilities - CVE-2020-2037 #RCE \nhttps://t.co/WXJj8iDjnj https://t.co/QHSBrUpP2J",
+    "tweettime": "2021-02-12, 19:45:27",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1360314089780744196",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [
@@ -222,7 +261,7 @@
     "expanded_url": [
         "https://www.synacktiv.com/publications/exploiting-cve-2021-25770-a-server-side-template-injection-in-youtrack.html"
     ],
-    "tweetfavorites": 85,
+    "tweetfavorites": 84,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 33,
@@ -287,7 +326,7 @@
     "tweetfavorites": 233,
     "tweetquotes": 5,
     "tweetreplies": 5,
-    "tweetretweets": 104,
+    "tweetretweets": 102,
     "tweettext": "You wana race the iOS kernel? Here is our take on CVE-2021-1782 where @JohnCool__ explains the LPE vulnerability patched in 14.3:\n\nhttps://t.co/DrJmx0EnaR",
     "tweettime": "2021-02-10, 15:18:56",
     "tweeturl": "https://twitter.com/Synacktiv/status/1359522245450862592",
@@ -626,10 +665,10 @@
     "expanded_url": [
         "https://gist.github.com/FanqXu/36c5e0070fd8e0b6646993b4e386a6b1"
     ],
-    "tweetfavorites": 122,
+    "tweetfavorites": 117,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 38,
+    "tweetretweets": 35,
     "tweettext": "CVE-2021-25646 Apache Druid RCE POC\nhttps://t.co/Qot9xXWcZF https://t.co/XmTQ3QWoIU",
     "tweettime": "2021-02-03, 07:35:29",
     "tweeturl": "https://twitter.com/cyber_advising/status/1356868898294009861",
@@ -696,4 +735,17 @@
     "tweettime": "2021-02-01, 11:08:09",
     "tweeturl": "https://twitter.com/axi0mX/status/1356197640552161282",
     "username": "axi0mX"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/testanull/e9ba06d0c0c403402f6941fe2dbb868a"
+    ],
+    "tweetfavorites": 120,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "CVE-2020-4888 IBM Qradar siem deserialization to rce\nhttps://t.co/xEjSWw51jI https://t.co/G6D8q1F7YV",
+    "tweettime": "2021-02-01, 07:32:20",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1356143330019704832",
+    "username": "cyber_advising"
 }

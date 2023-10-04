@@ -78,6 +78,19 @@
     "username": "payloadartist"
 }
 {
+    "expanded_url": [
+        "https://msft.it/6017j1vJ1"
+    ],
+    "tweetfavorites": 563,
+    "tweetquotes": 45,
+    "tweetreplies": 7,
+    "tweetretweets": 320,
+    "tweettext": "Microsoft discovered and patched a 0-day exploit (CVE-2022-22047) that #KNOTWEED, an Austria-based private sector offensive actor, used to deploy #Subzero malware. Analysis of campaigns, tactics, &amp; payloads in this #MSTIC blog w/ @msftsecresponse @RiskIQ: https://t.co/9QZbKSo9FA",
+    "tweettime": "2022-07-27, 14:08:00",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1552294738933547009",
+    "username": "MsftSecIntel"
+}
+{
     "tweetfavorites": 46,
     "tweetquotes": 1,
     "tweetreplies": 0,
@@ -86,6 +99,19 @@
     "tweettime": "2022-07-27, 12:12:38",
     "tweeturl": "https://twitter.com/l33d0hyun/status/1552265704187240449",
     "username": "l33d0hyun"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "Following publication of CVE-2022-31813, we just published @_mabote_ analysis of the issue. Come learn how you can exploit mod_proxy's HTTP forwarding fail to grab all the bounties! 🤑\nhttps://t.co/IbBdnIUX4p",
+    "tweettime": "2022-07-26, 09:57:21",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1551869273156485120",
+    "username": "Synacktiv"
 }
 {
     "expanded_url": [
@@ -492,10 +518,10 @@
     "expanded_url": [
         "https://github.com/assetnote/jira-mobile-ssrf-exploit"
     ],
-    "tweetfavorites": 103,
+    "tweetfavorites": 102,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 42,
+    "tweetretweets": 41,
     "tweettext": "CVE-2022-26135 - Full-Read Server Side Request Forgery in Mobile Plugin for Jira Data Center and Server...\n\nPoC\nhttps://t.co/SuuWk2ThBX https://t.co/AUC4fYucE4",
     "tweettime": "2022-07-07, 14:42:59",
     "tweeturl": "https://twitter.com/cyber_advising/status/1545055784152625153",
@@ -505,10 +531,10 @@
     "expanded_url": [
         "https://github.com/aeyesec/CVE-2022-34265"
     ],
-    "tweetfavorites": 157,
+    "tweetfavorites": 150,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 61,
+    "tweetretweets": 57,
     "tweettext": "CVE-2022-34265: An issue was discovered in Django 3.2 before 3.2.14 and 4.0 before 4.0.6. The Trunc() and Extract() database functions are subject to SQL injection...\n\nPoC\nhttps://t.co/QeA8u67o5J https://t.co/bHGGVaEDbi",
     "tweettime": "2022-07-07, 14:41:48",
     "tweeturl": "https://twitter.com/cyber_advising/status/1545055486029938692",

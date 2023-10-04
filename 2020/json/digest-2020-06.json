@@ -91,6 +91,19 @@
 }
 {
     "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2020-0015.html"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "Advisory for the two vulnerabilities found by @OnlyTheDuck and @BrunoPujos is now public! CVE-2020-3962 and CVE-2020-3969 impact the SVGA 3D component of VMware hypervisors and were reported to @thezdi during #Pwn2Own 2020. Stay tuned for more details!\n\nhttps://t.co/xPh2nDGxmz",
+    "tweettime": "2020-06-24, 13:27:46",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1275782673026482178",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
         "https://labs.sentinelone.com/click-from-the-backyard-cve-2020-9332/"
     ],
     "tweetfavorites": 38,
@@ -127,6 +140,19 @@
     "tweettime": "2020-06-18, 00:33:07",
     "tweeturl": "https://twitter.com/K3vinLuSec/status/1273413397371969536",
     "username": "K3vinLuSec"
+}
+{
+    "expanded_url": [
+        "https://github.com/osamahamad/CVE-2020-5410-POC/"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2020-5410 Spring Cloud Config directory traversal vulnerability\nhttps://t.co/zWnbrIoBex https://t.co/ocDwZJgvTy",
+    "tweettime": "2020-06-17, 20:04:10",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1273345716036030464",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [

@@ -259,6 +259,19 @@
 }
 {
     "expanded_url": [
+        "https://securityonline.info/poc-released-for-windows-sysinternals-sysmon-privilege-escalation-cve-2023-29343-bug/"
+    ],
+    "tweetfavorites": 570,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 194,
+    "tweettext": "PoC Released for Windows SysInternals Sysmon Privilege Escalation (CVE-2023-29343) Bug https://t.co/HqOyRw6etH",
+    "tweettime": "2023-06-18, 16:54:51",
+    "tweeturl": "https://twitter.com/Dinosn/status/1670475171415613441",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://github.com/Aituglo/CVE-2023-34960/blob/master/poc.py"
     ],
     "tweetfavorites": 103,
@@ -424,6 +437,19 @@
     "tweettime": "2023-06-13, 05:17:07",
     "tweeturl": "https://twitter.com/0xdea/status/1668487640725823488",
     "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://github.com/GoogleCloudPlatform/esp-v2/security/advisories/GHSA-6qmp-9p95-fc5f"
+    ],
+    "tweetfavorites": 605,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 197,
+    "tweettext": "CVE-2023-30845 JWT authentication bypass via `X-HTTP-Method-Override` header https://t.co/xzo6zEgfL6",
+    "tweettime": "2023-06-13, 04:11:50",
+    "tweeturl": "https://twitter.com/Dinosn/status/1668471213402849280",
+    "username": "Dinosn"
 }
 {
     "tweetfavorites": 0,
@@ -651,10 +677,10 @@
     "username": "MsftSecIntel"
 }
 {
-    "tweetfavorites": 833,
+    "tweetfavorites": 816,
     "tweetquotes": 41,
     "tweetreplies": 10,
-    "tweetretweets": 420,
+    "tweetretweets": 411,
     "tweettext": "Microsoft is attributing attacks exploiting the CVE-2023-34362 MOVEit Transfer 0-day vulnerability to Lace Tempest, known for ransomware operations &amp; running the Clop extortion site. The threat actor has used similar vulnerabilities in the past to steal data &amp; extort victims. https://t.co/q73WtGru7j",
     "tweettime": "2023-06-05, 01:55:13",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1665537730946670595",

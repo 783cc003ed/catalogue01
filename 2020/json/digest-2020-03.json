@@ -224,6 +224,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/eerykitty/CVE-2020-0796-PoC"
+    ],
+    "tweetfavorites": 271,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 133,
+    "tweettext": "CVE-2020-0796 PoC aka CoronaBlue aka SMBGhost\n\nPOC\n\nhttps://t.co/DzaRRG1Eg0 https://t.co/D9RAfPAVLr",
+    "tweettime": "2020-03-14, 11:54:58",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1238795754124255232",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "http://blogs.360.cn/post/CVE-2020-0796.html",
         "https://translate.google.com/translate?hl=&sl=zh-CN&tl=en&u=http%3A%2F%2Fblogs.360.cn%2Fpost%2FCVE-2020-0796.html",
         "https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb2/1d435f21-9a21-4f4c-828e-624a176cf2a0"
@@ -281,10 +294,10 @@
     "expanded_url": [
         "https://www.synacktiv.com/posts/exploit/im-smbghost-daba-dee-daba-da.html"
     ],
-    "tweetfavorites": 409,
+    "tweetfavorites": 391,
     "tweetquotes": 17,
     "tweetreplies": 7,
-    "tweetretweets": 262,
+    "tweetretweets": 252,
     "tweettext": "Since MSRC just published a fix for CVE-2020-0796, here's @_lucas_georges_ quick and dirty root cause analysis on it: https://t.co/V2RQReCkrS #sambadijaneiro",
     "tweettime": "2020-03-12, 15:36:42",
     "tweeturl": "https://twitter.com/Synacktiv/status/1238126780734754816",
@@ -335,6 +348,20 @@
     "tweettime": "2020-03-10, 17:41:38",
     "tweeturl": "https://twitter.com/dnlongen/status/1237433447309852674",
     "username": "dnlongen"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/posts/exploit/binder-analysis-and-exploitation-of-cve-2020-0041.html",
+        "https://www.synacktiv.com/ressources/thcon2020_binder.pdf"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "Latest Android Binder vulnerability (CVE-2020-0041) analysed by @jbcayrou !\n\nBlogpost: https://t.co/CgXSpOF68e\n\nSlides: https://t.co/tHI0lv82FU",
+    "tweettime": "2020-03-10, 16:51:06",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1237420727332220929",
+    "username": "Synacktiv"
 }
 {
     "expanded_url": [

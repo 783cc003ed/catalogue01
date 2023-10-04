@@ -140,6 +140,16 @@
     "username": "CyberWarship"
 }
 {
+    "tweetfavorites": 328,
+    "tweetquotes": 25,
+    "tweetreplies": 6,
+    "tweetretweets": 162,
+    "tweettext": "An active malware campaign using emails in European languages distributes RTF files that carry the CVE-2017-11882 exploit, which allows attackers to automatically run malicious code without requiring user interaction. https://t.co/Ac6dYG9vvw",
+    "tweettime": "2019-06-07, 22:07:45",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1137118977983897600",
+    "username": "MsftSecIntel"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2019/06/windows-eop-exploit.html"
     ],

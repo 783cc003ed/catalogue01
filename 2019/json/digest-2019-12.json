@@ -13,6 +13,32 @@
 }
 {
     "expanded_url": [
+        "https://github.com/ryu22e/django_cve_2019_19844_poc/"
+    ],
+    "tweetfavorites": 193,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 96,
+    "tweettext": "django PoC for CVE-2019-19844\n\nAffected supported versions\nDjango master branch\nDjango 3.0\nDjango 2.2\nDjango 1.11\nhttps://t.co/SfvOh6xnFd https://t.co/Ny9EPoqZA5",
+    "tweettime": "2019-12-24, 14:04:49",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1209475014430482432",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/posts/pentest/pwning-an-outdated-kibana-with-not-so-sad-vulnerabilities.html"
+    ],
+    "tweetfavorites": 119,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 65,
+    "tweettext": "\"Hey la Kibana, Inspection des gadgets !\" 😋 Pwning Kibana 6.2 using prototype pollution and CVE-2018-17246 by @_mabote_ \n\nhttps://t.co/oHFPSKzcB7",
+    "tweettime": "2019-12-20, 14:06:35",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1208025909212667904",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
         "https://github.com/noperator/CVE-2019-18935"
     ],
     "tweetfavorites": 222,

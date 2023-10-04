@@ -195,10 +195,10 @@
     "expanded_url": [
         "https://github.com/kahla-sec/CVE-2021-27850_POC"
     ],
-    "tweetfavorites": 320,
+    "tweetfavorites": 315,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 129,
+    "tweetretweets": 128,
     "tweettext": "CVE-2021-27850: unauthenticated remote code execution vulnerability that was found in all recent versions of Apache Tapestry.\n\nPoC\nhttps://t.co/g9Gj2OHnIZ https://t.co/2AHHLIFVWZ",
     "tweettime": "2021-06-26, 19:33:49",
     "tweeturl": "https://twitter.com/cyber_advising/status/1408871138898419714",

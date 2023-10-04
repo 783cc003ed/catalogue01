@@ -257,10 +257,10 @@
     "expanded_url": [
         "https://github.com/Liuk3r/CVE-2023-32233"
     ],
-    "tweetfavorites": 138,
+    "tweetfavorites": 137,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 35,
+    "tweetretweets": 36,
     "tweettext": "CVE-2023-32233: Linux kernel through 6.3.1, a use-after-free in Netfilter nf_tables when processing batch requests can be abused to perform arbitrary read and write operations on kernel memory. Unprivileged local users can obtain root privileges.\n\nPoC\nhttps://t.co/ZaCZwGwShr https://t.co/Glb2zm4tXL",
     "tweettime": "2023-05-16, 14:21:32",
     "tweeturl": "https://twitter.com/cyber_advising/status/1658477790398935042",
@@ -306,10 +306,10 @@
     "expanded_url": [
         "https://github.com/glavstroy/CVE-2023-28231"
     ],
-    "tweetfavorites": 100,
+    "tweetfavorites": 97,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 41,
+    "tweetretweets": 39,
     "tweettext": "CVE-2023-28231: DHCP Server Service Remote Code Execution Vulnerability\n\nPoC\nhttps://t.co/b5Fpveg9fW https://t.co/9UzCM8erX9",
     "tweettime": "2023-05-06, 16:33:32",
     "tweeturl": "https://twitter.com/cyber_advising/status/1654887129778880514",
@@ -339,10 +339,10 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 480,
+    "tweetfavorites": 472,
     "tweetquotes": 27,
     "tweetreplies": 4,
-    "tweetretweets": 207,
+    "tweetretweets": 200,
     "tweettext": "More actors are exploiting unpatched CVE-2023-27350 in print management software Papercut since we last reported on Lace Tempest. Microsoft has now observed Iranian state-sponsored threat actors Mint Sandstorm (PHOSPHORUS) &amp; Mango Sandstorm (MERCURY) exploiting CVE-2023-27350.",
     "tweettime": "2023-05-05, 22:12:22",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1654610012457648129",

@@ -114,7 +114,7 @@
     "expanded_url": [
         "https://github.com/hakivvi/CVE-2022-29464"
     ],
-    "tweetfavorites": 91,
+    "tweetfavorites": 90,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 31,
@@ -234,6 +234,19 @@
     "tweettime": "2022-04-14, 18:30:22",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1514672426268954628",
     "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/polakow/CVE-2022-21907"
+    ],
+    "tweetfavorites": 172,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 63,
+    "tweettext": "CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability.\n\nPoC\nhttps://t.co/Q86pmFTM52 https://t.co/rRYxAY6i2z",
+    "tweettime": "2022-04-14, 13:43:03",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1514600123082280967",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [
@@ -405,6 +418,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/sherlocksecurity/VMware-CVE-2022-22954"
+    ],
+    "tweetfavorites": 137,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 45,
+    "tweettext": "CVE-2022-22954: VMware Workspace ONE Access Freemarker Server-side Template Injection\n\nPoC\nhttps://t.co/jRRVc97wSU https://t.co/SpOBgvQEQm",
+    "tweettime": "2022-04-11, 20:26:51",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1513614578722217989",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://dirtypipe.cm4all.com"
     ],
     "tweetfavorites": 40,
@@ -474,6 +500,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/jhftss/CVE-2022-22639"
+    ],
+    "tweetfavorites": 249,
+    "tweetquotes": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 61,
+    "tweettext": "CVE-2022-22639: This issue is fixed in iOS 15.4 and iPadOS 15.4, macOS Monterey 12.3. An application may be able to gain elevated privileges...\n\nPoC\nhttps://t.co/ulsDd5b7fh https://t.co/pQoBSykjLQ",
+    "tweettime": "2022-04-07, 11:17:36",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1512026801723355143",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://haxatron.gitbook.io/vulnerability-research/vr1"
     ],
     "tweetfavorites": 63,
@@ -515,7 +554,7 @@
     "expanded_url": [
         "https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/"
     ],
-    "tweetfavorites": 134,
+    "tweetfavorites": 133,
     "tweetquotes": 3,
     "tweetreplies": 0,
     "tweetretweets": 45,

@@ -75,10 +75,10 @@
     "expanded_url": [
         "https://blog.wpsec.com/contact-form-7-vulnerability/"
     ],
-    "tweetfavorites": 93,
+    "tweetfavorites": 95,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 32,
+    "tweetretweets": 33,
     "tweettext": "CVE-2020-35489: Unrestricted File Upload Vulnerability found in Contact Form 7 plugin affects 5M+ websites\nhttps://t.co/VBNwfVJO60 https://t.co/aBlWEgoH5q",
     "tweettime": "2020-12-23, 00:30:56",
     "tweeturl": "https://twitter.com/cyber_advising/status/1341541767318024192",
@@ -112,10 +112,10 @@
     "expanded_url": [
         "https://x41-dsec.de/security/advisory/exploit/research/2020/12/21/x41-microsoft-exchange-rce-dlp-bypass/"
     ],
-    "tweetfavorites": 378,
+    "tweetfavorites": 349,
     "tweetquotes": 8,
-    "tweetreplies": 3,
-    "tweetretweets": 167,
+    "tweetreplies": 2,
+    "tweetretweets": 155,
     "tweettext": "[ CVE-2020-16875 Protection/Filter Bypass ] MICROSOFT EXCHANGE REMOTE CODE EXECUTION\nhttps://t.co/y8bo9w9BUA https://t.co/yDDbZgmu4T",
     "tweettime": "2020-12-21, 20:29:34",
     "tweeturl": "https://twitter.com/cyber_advising/status/1341118637038575616",
@@ -276,10 +276,10 @@
     "expanded_url": [
         "https://github.com/Airboi/CVE-2020-17144-EXP"
     ],
-    "tweetfavorites": 199,
+    "tweetfavorites": 187,
     "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 75,
+    "tweetretweets": 74,
     "tweettext": "CVE-2020-17144: Microsoft Exchange Remote Code Execution Vulnerability\n\nhttps://t.co/texmYGydMe https://t.co/W2QkEOblD2",
     "tweettime": "2020-12-09, 14:37:56",
     "tweeturl": "https://twitter.com/cyber_advising/status/1336681491963781122",
@@ -289,10 +289,10 @@
     "expanded_url": [
         "https://github.com/ka1n4t/CVE-2020-17530"
     ],
-    "tweetfavorites": 269,
+    "tweetfavorites": 267,
     "tweetquotes": 8,
     "tweetreplies": 4,
-    "tweetretweets": 121,
+    "tweetretweets": 113,
     "tweettext": "CVE-2020-17530: Apache Struts2 Remote Code Execution Vulnerability Alert\nhttps://t.co/3mqu9Fl0Zn https://t.co/obW1Fkmt6Z",
     "tweettime": "2020-12-09, 14:35:18",
     "tweeturl": "https://twitter.com/cyber_advising/status/1336680827237904384",

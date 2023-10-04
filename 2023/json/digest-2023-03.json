@@ -416,10 +416,10 @@
     "expanded_url": [
         "https://github.com/Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal"
     ],
-    "tweetfavorites": 134,
+    "tweetfavorites": 131,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 40,
+    "tweetretweets": 39,
     "tweettext": "CVE-2023-1112: Path Traversal in Drag and Drop Multiple File Uploader PRO - Contact Form 7 version 5.0.6.1 allows unauthenticated remote attacker to upload files anywhere writable on the remote server.\n\nPoC\n\nhttps://t.co/eKyUMyAqHN https://t.co/nDVz6OwIM9",
     "tweettime": "2023-03-07, 09:29:10",
     "tweeturl": "https://twitter.com/cyber_advising/status/1633037060566130688",

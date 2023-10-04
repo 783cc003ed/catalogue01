@@ -26,6 +26,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/marcinguy/CVE-2019-2107"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 43,
+    "tweettext": "Android Phone Can Get Hacked Just By Playing A Video\n\nPOC CVE-2019-2107\n\nhttps://t.co/htkkLrzNGz https://t.co/SEphuSaAY5",
+    "tweettime": "2019-07-25, 19:19:48",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1154471328742813701",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://paper.seebug.org/991/",
         "https://medium.com/@knownsec404team/analysis-of-spring-mvc-directory-traversal-vulnerability-cve-2018-1271-b291bdb6be0d"
     ],

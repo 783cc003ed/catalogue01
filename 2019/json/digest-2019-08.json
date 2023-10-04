@@ -173,3 +173,16 @@
     "tweeturl": "https://twitter.com/chybeta/status/1159261425279234048",
     "username": "chybeta"
 }
+{
+    "expanded_url": [
+        "https://www.leavesongs.com/PENETRATION/django-jsonfield-cve-2019-14234.html"
+    ],
+    "tweetfavorites": 83,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 37,
+    "tweettext": "CVE-2019-14234 : Python Web Framework Django JSONField SQL Injection\n\nhttps://t.co/xIiz8sjkpG https://t.co/AsmpWgi7tW",
+    "tweettime": "2019-08-03, 23:38:01",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1157797800014426112",
+    "username": "cyber_advising"
+}
