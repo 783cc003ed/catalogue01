@@ -48,10 +48,10 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 2029,
-    "tweetquotes": 12,
-    "tweetreplies": 28,
-    "tweetretweets": 292,
+    "tweetfavorites": 1938,
+    "tweetquotes": 11,
+    "tweetreplies": 25,
+    "tweetretweets": 281,
     "tweettext": "tried something new and wrote an LPE exploit for CVE-2021-3490, a bug in the Linux Kernel eBPF verifier. was fun and learned a lot - blog post + PoC coming soon. happy memorial day! https://t.co/6kKWX2jw5W",
     "tweettime": "2021-05-29, 00:10:29",
     "tweeturl": "https://twitter.com/chompie1337/status/1398431515051167749",
@@ -455,6 +455,20 @@
     "tweettime": "2021-05-07, 12:10:54",
     "tweeturl": "https://twitter.com/theevilbit/status/1390640283084328965",
     "username": "theevilbit"
+}
+{
+    "expanded_url": [
+        "https://ssd-disclosure.com/ssd-advisory-voipmonitor-unauth-rce/",
+        "https://t.zsxq.com/UFUbAUz"
+    ],
+    "tweetfavorites": 147,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 59,
+    "tweettext": "CVE-2021-30461 voipmonitor RCE\n\nhttps://t.co/MLyHqkdNXr\n\nhttps://t.co/HDdshxPCOZ https://t.co/CDeVKAfFuK",
+    "tweettime": "2021-05-06, 11:32:43",
+    "tweeturl": "https://twitter.com/chybeta/status/1390268284763705345",
+    "username": "chybeta"
 }
 {
     "expanded_url": [

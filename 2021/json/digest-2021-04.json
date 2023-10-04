@@ -1,4 +1,19 @@
 {
+    "expanded_url": [
+        "https://www.mail-archive.com/announce@apache.org/msg06507.html",
+        "https://mp.weixin.qq.com/s/Dr-jwiRr4NByjErjiX_e1w",
+        "https://t.zsxq.com/zRja2v7"
+    ],
+    "tweetfavorites": 170,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "CVE-2021-30128 Apache OFBiz RCE\nhttps://t.co/NbF4vEFYNK\n\nhttps://t.co/vkKqGSwgq2\n\nhttps://t.co/6hs47T74g6 https://t.co/WLC8u3VCZW",
+    "tweettime": "2021-04-28, 09:11:30",
+    "tweeturl": "https://twitter.com/chybeta/status/1387333641638797316",
+    "username": "chybeta"
+}
+{
     "tweetfavorites": 238,
     "tweetquotes": 7,
     "tweetreplies": 18,
@@ -20,6 +35,19 @@
     "tweettime": "2021-04-27, 20:01:00",
     "tweeturl": "https://twitter.com/elhackernet/status/1387134706005676034",
     "username": "elhackernet"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/wdormann/bbf95c5ccebb826a1e21124cfb320106"
+    ],
+    "tweetfavorites": 193,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 59,
+    "tweettext": "I couldn't find many resources on ARM64 Windows shellcode.\nSo I decided to write my own small-batch, artisan, bespoke PoC for CVE-2021-21224.  It seemed like a good candidate because the shellcode section is both clear and also supports inline comments.\nhttps://t.co/c6nGGiD1Cg https://t.co/IcdzoiHJqg",
+    "tweettime": "2021-04-22, 21:13:42",
+    "tweeturl": "https://twitter.com/wdormann/status/1385341064513470466",
+    "username": "wdormann"
 }
 {
     "expanded_url": [
@@ -270,10 +298,10 @@
     "expanded_url": [
         "https://www.openwall.com/lists/oss-security/2021/04/08/1"
     ],
-    "tweetfavorites": 205,
-    "tweetquotes": 26,
+    "tweetfavorites": 192,
+    "tweetquotes": 25,
     "tweetreplies": 1,
-    "tweetretweets": 77,
+    "tweetretweets": 66,
     "tweettext": "[CVE-2021-29154] Linux kernel incorrect computation of branch displacements in BPF JIT compiler can be abused to execute arbitrary code in Kernel mode https://t.co/fFqxuRv7f6",
     "tweettime": "2021-04-09, 17:56:59",
     "tweeturl": "https://twitter.com/jedisct1/status/1380580516722831360",
@@ -378,6 +406,20 @@
     "tweettime": "2021-04-07, 12:55:05",
     "tweeturl": "https://twitter.com/0vercl0k/status/1379779764605620225",
     "username": "0vercl0k"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2021-050-jellyfin/",
+        "https://t.zsxq.com/uB6qBAI"
+    ],
+    "tweetfavorites": 190,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 63,
+    "tweettext": "CVE-2021-21402  Unauthenticated abritrary file read in Jellyfin\n\nhttps://t.co/KT7uQTNXX4\n\nhttps://t.co/d2KacgYMSD https://t.co/slNaQHwRlc",
+    "tweettime": "2021-04-06, 08:01:06",
+    "tweeturl": "https://twitter.com/chybeta/status/1379343391423561729",
+    "username": "chybeta"
 }
 {
     "expanded_url": [

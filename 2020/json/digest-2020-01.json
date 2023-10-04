@@ -244,6 +244,16 @@
     "username": "CyberWarship"
 }
 {
+    "tweetfavorites": 225,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 98,
+    "tweettext": "CVE-2020-2551  WebLogic RCE via IIOP protocol. https://t.co/WyKVkQASiL",
+    "tweettime": "2020-01-16, 12:42:05",
+    "tweeturl": "https://twitter.com/chybeta/status/1217789114914725888",
+    "username": "chybeta"
+}
+{
     "expanded_url": [
         "https://github.com/ollypwn/cve-2020-0601"
     ],
@@ -290,6 +300,20 @@
     "tweettime": "2020-01-15, 07:21:14",
     "tweeturl": "https://twitter.com/TimoHirvonen/status/1217345985304842240",
     "username": "TimoHirvonen"
+}
+{
+    "expanded_url": [
+        "https://www.phpmyadmin.net/security/PMASA-2020-1/",
+        "https://github.com/phpmyadmin/phpmyadmin/commit/c86acbf3ed49f69cf38b31879886dd5eb86b6983"
+    ],
+    "tweetfavorites": 235,
+    "tweetquotes": 5,
+    "tweetreplies": 3,
+    "tweetretweets": 113,
+    "tweettext": "CVE-2020-5504 SQLI in phpMyAdmin:  A malicious user could inject custom SQL in place of their own username when creating queries to this page\n\nhttps://t.co/WEJLVgyuRX\nfix: https://t.co/tR4uEqIeFi https://t.co/S3a3B1zHz4",
+    "tweettime": "2020-01-15, 02:13:08",
+    "tweeturl": "https://twitter.com/chybeta/status/1217268449996500992",
+    "username": "chybeta"
 }
 {
     "tweetfavorites": 1118,
@@ -440,7 +464,7 @@
         "https://www.shodan.io/search?query=Mongo+Express",
         "https://github.com/masahiro331/CVE-2019-10758"
     ],
-    "tweetfavorites": 362,
+    "tweetfavorites": 360,
     "tweetquotes": 4,
     "tweetreplies": 3,
     "tweetretweets": 186,

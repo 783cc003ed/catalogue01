@@ -9,10 +9,10 @@
     "username": "hrbrmstr"
 }
 {
-    "tweetfavorites": 377,
-    "tweetquotes": 12,
+    "tweetfavorites": 372,
+    "tweetquotes": 13,
     "tweetreplies": 11,
-    "tweetretweets": 114,
+    "tweetretweets": 109,
     "tweettext": "OK, where are we with Spring stuff?\n1) CVE-2022-22963 is a thing, and it affects Spring Cloud Connector.  It's RCE, so the CVSS score of 5.4 seems way off.\n2) Spring4Shell / SpringShell, invented by Cyber Kendra, isn't a Spring vulnerability at all.\nDoes that sound about right? https://t.co/OwPgA2BSIS",
     "tweettime": "2022-03-30, 17:45:48",
     "tweeturl": "https://twitter.com/wdormann/status/1509225394561507333",

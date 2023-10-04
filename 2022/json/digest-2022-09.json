@@ -304,6 +304,16 @@
     "username": "_0xf4n9x_"
 }
 {
+    "tweetfavorites": 759,
+    "tweetquotes": 3,
+    "tweetreplies": 10,
+    "tweetretweets": 147,
+    "tweettext": "CVE-2022-36804 Bitbucket Server RCE https://t.co/XGd3BeUtGQ",
+    "tweettime": "2022-09-19, 08:05:26",
+    "tweeturl": "https://twitter.com/chybeta/status/1571772438433910787",
+    "username": "chybeta"
+}
+{
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-34718"
     ],
@@ -411,6 +421,19 @@
     "tweettime": "2022-09-14, 08:00:25",
     "tweeturl": "https://twitter.com/Dinosn/status/1569959238474031104",
     "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/06UFeQNbE"
+    ],
+    "tweetfavorites": 108,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 28,
+    "tweettext": "CVE-2022-39135 Apache Calcite Avatica XXE\n\nhttps://t.co/JV0VbbELvg https://t.co/gdchvVSS3w",
+    "tweettime": "2022-09-14, 06:33:02",
+    "tweeturl": "https://twitter.com/chybeta/status/1569937246626922497",
+    "username": "chybeta"
 }
 {
     "tweetfavorites": 73,
@@ -608,6 +631,16 @@
     "tweettime": "2022-09-07, 05:28:58",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1567384408445026309",
     "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 762,
+    "tweetquotes": 5,
+    "tweetreplies": 13,
+    "tweetretweets": 212,
+    "tweettext": "OS Command Injection in Openssl CVE-2022-1292 https://t.co/AECg7L1wqd",
+    "tweettime": "2022-09-07, 02:08:30",
+    "tweeturl": "https://twitter.com/momika233/status/1567333959100678144",
+    "username": "momika233"
 }
 {
     "tweetfavorites": 168,

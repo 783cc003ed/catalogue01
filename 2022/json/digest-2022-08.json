@@ -265,6 +265,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "About\nA Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin &lt; 1.997.\n\nhttps://t.co/MJovA5OGNy",
+    "tweettime": "2022-08-19, 13:52:17",
+    "tweeturl": "https://twitter.com/momika233/status/1560625704584491008",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
         "https://chromium-review.googlesource.com/c/chromium/src/+/3820605"
     ],
     "tweetfavorites": 54,
@@ -419,6 +432,19 @@
 }
 {
     "expanded_url": [
+        "http://v-v.space/2022/08/11/CVE-2022-35804/"
+    ],
+    "tweetfavorites": 210,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 81,
+    "tweettext": "SMB RCE CVE-2022-35804\nhttps://t.co/Jx54bn1rtH",
+    "tweettime": "2022-08-13, 16:19:08",
+    "tweeturl": "https://twitter.com/momika233/status/1558488333096865792",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/cve-2022-2590-linux-kernel-privilege-escalation-vulnerability/"
     ],
     "tweetfavorites": 44,
@@ -551,10 +577,10 @@
     "expanded_url": [
         "https://github.com/chromium/chromium/commit/cd290e7cbed7b2f95e4c2dc805e9d175f9161fc4"
     ],
-    "tweetfavorites": 300,
+    "tweetfavorites": 292,
     "tweetquotes": 6,
     "tweetreplies": 6,
-    "tweetretweets": 113,
+    "tweetretweets": 110,
     "tweettext": "By now Microsoft has fixed both Follina CVE-2022-30190 and Dogwalk CVE-2022-34713 programming flaws.\nBut please don't forget that MSDT .diagcab files BY DESIGN will run code with a single click. With a UAC bypass if logged in as an admin.\nThis still works.\nhttps://t.co/MfojxHA5s3 https://t.co/D6WrvSSBU2",
     "tweettime": "2022-08-10, 12:51:23",
     "tweeturl": "https://twitter.com/wdormann/status/1557348886615826433",

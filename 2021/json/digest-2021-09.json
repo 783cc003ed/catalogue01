@@ -255,6 +255,19 @@
 }
 {
     "expanded_url": [
+        "https://www.virustotal.com/gui/file/ce27c2a9d54c9c2de777c735d5be6a532878591455082468251ace96adb276cf/community"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 9,
+    "tweettext": "Don't blame IE still allows loading ActiveX, this sample loads Media Player ActiveX control in Word! Have played it a bit but no idea what's the purpose.. Should not be CVE-2021-40444, or something new? :-)\n\n@wdormann @GossiTheDog \n\nDetected by @EXPMON_\nhttps://t.co/rY1lmWGhEw https://t.co/f5D4p9MfgM",
+    "tweettime": "2021-09-22, 20:14:46",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1440771574668279814",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-bug-in-default-vcenter-server-installs/#.YUoiQlUeVM8"
     ],
     "tweetfavorites": 114,
@@ -369,6 +382,21 @@
     "tweettime": "2021-09-18, 07:07:14",
     "tweeturl": "https://twitter.com/0xdea/status/1439123834775420933",
     "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://github.com/CHYbeta/OddProxyDemo/tree/master/mod_proxy/demo1",
+        "https://portswigger.net/research/http2",
+        "https://articles.zsxq.com/id_zztmlo4l3hbt.html"
+    ],
+    "tweetfavorites": 174,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 67,
+    "tweettext": "CVE-2021-33193 Request splitting via HTTP/2 method injection and mod_proxy (Reported by @albinowax )\n \ndemo: https://t.co/xI8kypoutS\n\narticle: \n1、https://t.co/IANbMdztu4\n2、https://t.co/RGxW2JU6an https://t.co/fLaSnJgGiw",
+    "tweettime": "2021-09-17, 12:59:49",
+    "tweeturl": "https://twitter.com/chybeta/status/1438850178706862088",
+    "username": "chybeta"
 }
 {
     "expanded_url": [
@@ -690,6 +718,16 @@
     "username": "CacharroHacks"
 }
 {
+    "tweetfavorites": 208,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 76,
+    "tweettext": "But before we get too in the weeds with this overly-complicated ITW exploit for CVE-2021-40444.\nWhat if we just try Internet Explorer and just an iframe pointed to a .CPL URI. No other trickery at all.\nSurely that wouldn't work (run code in a DLL) by itself, right?\n😲 https://t.co/NrraonZGWV",
+    "tweettime": "2021-09-13, 15:30:24",
+    "tweeturl": "https://twitter.com/wdormann/status/1437438522726703112",
+    "username": "wdormann"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2021/09/critical-bug-reported-in-npm-package.html"
     ],
@@ -904,6 +942,21 @@
     "username": "InQuest"
 }
 {
+    "expanded_url": [
+        "https://jfrog.com/blog/critical-vulnerability-in-haproxy-cve-2021-40346-integer-overflow-enables-http-smuggling",
+        "https://t.zsxq.com/FmqvVZv",
+        "https://github.com/CHYbeta/OddProxyDemo/tree/master/haproxy/demo1"
+    ],
+    "tweetfavorites": 316,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 106,
+    "tweettext": "CVE-2021-40346 HAProxy HTTP Smuggling and ACL bypass\n\nanalysis\n1. https://t.co/GoP4rq76dS\n\n2. https://t.co/NqhV8llRNf\n\ndemo: https://t.co/ywoZZE20bA https://t.co/2wSn5vJK6M",
+    "tweettime": "2021-09-09, 12:48:03",
+    "tweeturl": "https://twitter.com/chybeta/status/1435948115274735616",
+    "username": "chybeta"
+}
+{
     "tweetfavorites": 42,
     "tweetquotes": 1,
     "tweetreplies": 1,
@@ -938,6 +991,19 @@
     "tweettime": "2021-09-08, 21:00:07",
     "tweeturl": "https://twitter.com/netikus/status/1435709556726902789",
     "username": "netikus"
+}
+{
+    "expanded_url": [
+        "https://jira.atlassian.com/browse/JSDSERVER-8665"
+    ],
+    "tweetfavorites": 187,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "CVE-2021-39115  Jira Service Management Server Template Injection in Email Templates \n\nhttps://t.co/QuvECqOiGJ https://t.co/wDAH0Znuo0",
+    "tweettime": "2021-09-08, 07:54:08",
+    "tweeturl": "https://twitter.com/chybeta/status/1435511759121485830",
+    "username": "chybeta"
 }
 {
     "tweetfavorites": 162,
@@ -984,6 +1050,19 @@
     "tweettime": "2021-09-07, 20:42:02",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1435342618704191491",
     "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-40444"
+    ],
+    "tweetfavorites": 336,
+    "tweetquotes": 12,
+    "tweetreplies": 4,
+    "tweetretweets": 114,
+    "tweettext": "ActiveX truly is the gift that keeps on giving!\nNobody could have predicted this.  Nobody.\nCVE-2021-40444 in MSHTML this time around.\nhttps://t.co/QWLUM3mm3T https://t.co/aBSvWprKcd",
+    "tweettime": "2021-09-07, 20:16:59",
+    "tweeturl": "https://twitter.com/wdormann/status/1435336316238106632",
+    "username": "wdormann"
 }
 {
     "expanded_url": [

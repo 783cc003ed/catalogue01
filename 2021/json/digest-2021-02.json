@@ -43,6 +43,20 @@
 }
 {
     "expanded_url": [
+        "https://saltproject.io/security_announcements/active-saltstack-cve-release-2021-feb-25/",
+        "https://t.zsxq.com/zF6ybQr"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 55,
+    "tweettext": "CVE-2021-25281 wheel_async unauth access + CVE-2021-25282 salt.wheel.pillar_roots.write directory traversal\n\nhttps://t.co/USEkRv2XvC\n\nsomething: https://t.co/qUaPyV4Tc8 https://t.co/9JHsHq594g",
+    "tweettime": "2021-02-26, 07:34:12",
+    "tweeturl": "https://twitter.com/chybeta/status/1365203494869721090",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
         "https://github.com/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972"
     ],
     "tweetfavorites": 60,
@@ -79,6 +93,16 @@
     "tweettime": "2021-02-24, 17:15:46",
     "tweeturl": "https://twitter.com/ptswarm/status/1364625077355110409",
     "username": "ptswarm"
+}
+{
+    "tweetfavorites": 422,
+    "tweetquotes": 8,
+    "tweetreplies": 4,
+    "tweetretweets": 98,
+    "tweettext": "CVE-2021-21972 VMware vCenter RCE https://t.co/Utkul4elpm",
+    "tweettime": "2021-02-24, 09:52:04",
+    "tweeturl": "https://twitter.com/chybeta/status/1364513417118236675",
+    "username": "chybeta"
 }
 {
     "expanded_url": [
@@ -462,6 +486,21 @@
 }
 {
     "expanded_url": [
+        "https://mp.weixin.qq.com/s/McAoLfyf_tgFIfGTAoRCiw",
+        "https://t.zsxq.com/j2bIYZV",
+        "https://t.zsxq.com/e6AAauV"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 40,
+    "tweettext": "CVE-2021-25646 Apache Druid Remote Code Execution.\n\nanalysis: https://t.co/DvKXfPbe8i\n\nhttps://t.co/UI3pE9Wy5E\nhttps://t.co/qh2apDPIVS https://t.co/ENPzZBM21e",
+    "tweettime": "2021-02-07, 04:52:45",
+    "tweeturl": "https://twitter.com/chybeta/status/1358277495716368384",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
         "https://attackerkb.com/topics/GuXRxDl2UG/solarwinds-orion-platform-unauthenticated-rce-cve-2021-25274#rapid7-analysis",
         "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/full-system-control-with-new-solarwinds-orion-based-and-serv-u-ftp-vulnerabilities/"
     ],
@@ -475,10 +514,10 @@
     "username": "mubix"
 }
 {
-    "tweetfavorites": 980,
+    "tweetfavorites": 971,
     "tweetquotes": 5,
     "tweetreplies": 19,
-    "tweetretweets": 226,
+    "tweetretweets": 225,
     "tweettext": "learned a ton about userland heap exploitation in Windows + DNS protocol writing an RCE exploit for #SigRed CVE-2020-1350. detailed technical writeup + PoC coming soon (sans rickroll 😇) https://t.co/BetRkRiUfj",
     "tweettime": "2021-02-05, 18:08:44",
     "tweeturl": "https://twitter.com/chompie1337/status/1357753038451183620",

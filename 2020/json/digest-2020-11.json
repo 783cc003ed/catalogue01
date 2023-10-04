@@ -13,6 +13,19 @@
     "username": "binitamshah"
 }
 {
+    "expanded_url": [
+        "https://www.drupal.org/sa-core-2020-013"
+    ],
+    "tweetfavorites": 205,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "CVE-2020-28949/CVE-2020-28948\nhttps://t.co/2C4KXdQmpv\nRCE on Drupal via Phar Deserialization in PEAR Archive_Tar library. \n\nPoc: phar =&gt; PHAR\nPHAR://malicious_file.phar https://t.co/FS8iAdPg3w",
+    "tweettime": "2020-11-26, 17:18:53",
+    "tweeturl": "https://twitter.com/chybeta/status/1332010953370529793",
+    "username": "chybeta"
+}
+{
     "tweetfavorites": 103,
     "tweetquotes": 0,
     "tweetreplies": 3,
@@ -122,6 +135,19 @@
 }
 {
     "expanded_url": [
+        "https://t.zsxq.com/3nmuFiY"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "CVE-2020-8277 Node.js Denial of Service through DNS request\n\nhttps://t.co/AoPtUPUOPd https://t.co/6ksdv0Y8G2",
+    "tweettime": "2020-11-19, 12:40:03",
+    "tweeturl": "https://twitter.com/chybeta/status/1329404066502299649",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
         "https://github.co/3msMoMy"
     ],
     "tweetfavorites": 78,
@@ -155,6 +181,16 @@
     "tweettime": "2020-11-18, 04:38:42",
     "tweeturl": "https://twitter.com/pyn3rd/status/1328920545442680837",
     "username": "pyn3rd"
+}
+{
+    "tweetfavorites": 208,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2020-13942 Apache Unomi pre-auth RCE (bypass CVE-2020-11975 ) https://t.co/q7ppLTJdiT",
+    "tweettime": "2020-11-18, 04:05:59",
+    "tweeturl": "https://twitter.com/chybeta/status/1328912309440311297",
+    "username": "chybeta"
 }
 {
     "expanded_url": [
@@ -297,6 +333,20 @@
     "tweettime": "2020-11-09, 22:22:46",
     "tweeturl": "https://twitter.com/binitamshah/status/1325926835591421953",
     "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/UR3NNVf",
+        "https://saltstack.com/blog/on-november-3-2020-saltstack-publicly-disclosed-three-new-cves/"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "CVE-2020-25592  Any value for \"eauth\"/\"token” allow a user to bypass auth and make calls to Salt SSH.\n\nCVE-2020-16846 A user could use shell injections with the Salt API using the SSH Client.  \n\n25592+16846=Unauth RCE \n\n分析 https://t.co/tC20h1LUFq\n\nhttps://t.co/HbyQg9ZuIl https://t.co/YnfKRS7QTt",
+    "tweettime": "2020-11-09, 16:22:27",
+    "tweeturl": "https://twitter.com/chybeta/status/1325836157653934080",
+    "username": "chybeta"
 }
 {
     "tweetfavorites": 769,

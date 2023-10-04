@@ -205,6 +205,20 @@
     "username": "cyber_advising"
 }
 {
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2021-034_043-apache-dubbo/",
+        "https://t.zsxq.com/jEaUB6Q"
+    ],
+    "tweetfavorites": 217,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 95,
+    "tweettext": "CVE-2021-30179 Apache Dubbo RCE via Java deserialization in the Generic filter \n\ndetails\n1. https://t.co/fP4YQc88ig\n2. https://t.co/mONv0eSvCU https://t.co/h6ZwDgkq2x",
+    "tweettime": "2021-06-25, 09:00:26",
+    "tweeturl": "https://twitter.com/chybeta/status/1408349352435666951",
+    "username": "chybeta"
+}
+{
     "tweetfavorites": 490,
     "tweetquotes": 4,
     "tweetreplies": 6,

@@ -213,6 +213,19 @@
 }
 {
     "expanded_url": [
+        "https://twitter.com/_CPResearch_/status/1645836723660771328"
+    ],
+    "tweetfavorites": 166,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 69,
+    "tweettext": "🚨This unauthorized RCE bug (CVE-2023-21554) in the \"forgotten\" MSMQ service may have big impact. If you’re a Windows admin, you need to check your environments ASAP (you may have unawarely enabled the service).\nhttps://t.co/oNelXKq2ZO",
+    "tweettime": "2023-04-11, 17:48:02",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1645846180902088704",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
         "https://securelist.com/nokoyawa-ransomware-attacks-with-windows-zero-day/109483/"
     ],
     "tweetfavorites": 238,
@@ -257,7 +270,7 @@
     "tweetfavorites": 212,
     "tweetquotes": 1,
     "tweetreplies": 5,
-    "tweetretweets": 77,
+    "tweetretweets": 76,
     "tweettext": "Needle (CVE-2023-0179) exploit\nThis repository contains the exploit for my recently discovered vulnerability in the nftables subsystem that was assigned CVE-2023-0179\nhttps://t.co/LL9quUUN69",
     "tweettime": "2023-04-11, 01:40:21",
     "tweeturl": "https://twitter.com/momika233/status/1645602653433651200",

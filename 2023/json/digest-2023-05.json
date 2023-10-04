@@ -110,7 +110,7 @@
     "expanded_url": [
         "https://github.com/WebKit/WebKit/commit/e34edaa74575ee13efcebdb7672b949a743ab32a"
     ],
-    "tweetfavorites": 118,
+    "tweetfavorites": 116,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 46,
@@ -278,6 +278,16 @@
     "tweettime": "2023-05-12, 17:41:37",
     "tweeturl": "https://twitter.com/cyber_advising/status/1657078589706100753",
     "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 249,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 74,
+    "tweettext": "49 vulnerabilities in today's Patch Tuesday set, 2 of which are being exploited in the wild:\nCVE-2023-24932 : SecureBoot bypass\nCVE-2023-29336 : Win32k EoP https://t.co/M4MOXeVDWo",
+    "tweettime": "2023-05-09, 17:25:55",
+    "tweeturl": "https://twitter.com/wdormann/status/1655987474496094209",
+    "username": "wdormann"
 }
 {
     "expanded_url": [

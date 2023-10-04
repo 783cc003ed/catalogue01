@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 124,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 35,
+    "tweettext": "CVE-2021-21975 VMware vRealize Operations Manager API SSRF https://t.co/vRMpZSkfFV",
+    "tweettime": "2021-03-31, 16:16:27",
+    "tweeturl": "https://twitter.com/chybeta/status/1377293724879790087",
+    "username": "chybeta"
+}
+{
     "expanded_url": [
         "https://www.vmware.com/security/advisories/VMSA-2021-0004.html"
     ],
@@ -253,6 +263,29 @@
     "tweettime": "2021-03-17, 01:07:44",
     "tweeturl": "https://twitter.com/cyber_advising/status/1371991607545827328",
     "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 395,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 147,
+    "tweettext": "CVE-2021-22986 F5 BIG-IP/BIG-IQ iControl REST RCE https://t.co/SHlNTtgW84",
+    "tweettime": "2021-03-14, 03:17:41",
+    "tweeturl": "https://twitter.com/chybeta/status/1370937147939692557",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "http://f5.pm/go-62102.html"
+    ],
+    "tweetfavorites": 222,
+    "tweetquotes": 7,
+    "tweetreplies": 3,
+    "tweetretweets": 131,
+    "tweettext": "Well, I'll say that the ProxyLogon Exchange CVE-2021-26855 Exploit is completely out of the bag by now.\nhttps://t.co/ubsysTeFOj\nI'm not so sure about the \"Failed to write to shell\" error message.  But I can confirm that it did indeed drop a shell on my test Exchange 2016 box. https://t.co/ijOGx3BIif",
+    "tweettime": "2021-03-13, 18:13:26",
+    "tweeturl": "https://twitter.com/wdormann/status/1370800181143351296",
+    "username": "wdormann"
 }
 {
     "expanded_url": [
@@ -609,10 +642,10 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/"
     ],
-    "tweetfavorites": 54,
+    "tweetfavorites": 51,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetretweets": 12,
     "tweettext": "I want to be the first before Google researchers to report that there's also a Chrome 0day in the wild. CVE-2021-21166\nhttps://t.co/0jGPFtJlPF",
     "tweettime": "2021-03-02, 22:30:23",
     "tweeturl": "https://twitter.com/HaifeiLi/status/1366878579368157188",
@@ -622,10 +655,10 @@
     "expanded_url": [
         "https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred"
     ],
-    "tweetfavorites": 709,
+    "tweetfavorites": 700,
     "tweetquotes": 11,
     "tweetreplies": 14,
-    "tweetretweets": 278,
+    "tweetretweets": 276,
     "tweettext": "My first ever blog post: Anatomy of an Exploit: RCE CVE-2020-1350 #SIGRed. RCE PoC included, for research purposes. This was my first userland Windows heap exploit and I hope a deep dive into the process will help others. Patch or apply the workaround. https://t.co/CFRTs7Wdvs",
     "tweettime": "2021-03-02, 17:19:16",
     "tweeturl": "https://twitter.com/chompie1337/status/1366800284563963907",

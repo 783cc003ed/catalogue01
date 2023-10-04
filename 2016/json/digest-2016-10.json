@@ -11,3 +11,13 @@
     "tweeturl": "https://twitter.com/_odisseus/status/787979764443348992",
     "username": "_odisseus"
 }
+{
+    "tweetfavorites": 43,
+    "tweetquotes": 5,
+    "tweetreplies": 3,
+    "tweetretweets": 47,
+    "tweettext": "CVE-2016-7193, an Office vuln in handling RTF, exploited as #0day attack, &amp; was reported by \"Austrian MilCERT\". Looks really a big deal! https://t.co/6cCcSjxMMK",
+    "tweettime": "2016-10-12, 01:20:38",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/786013674179731456",
+    "username": "HaifeiLi"
+}

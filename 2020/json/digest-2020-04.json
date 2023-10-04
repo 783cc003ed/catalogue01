@@ -168,6 +168,19 @@
 }
 {
     "expanded_url": [
+        "https://confluence.atlassian.com/doc/confluence-security-advisory-2019-03-20-966660264.html"
+    ],
+    "tweetfavorites": 144,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 44,
+    "tweettext": "CVE-2019-3395 Confluence Pre-Auth SSRF via WebDAV \n\nhttps://t.co/MlAnUVu3ku https://t.co/Xn8zP97kL9",
+    "tweettime": "2020-04-08, 13:00:42",
+    "tweeturl": "https://twitter.com/chybeta/status/1247871993271054338",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
         "https://chromereleases.googleblog.com/2020/04/stable-channel-update-for-desktop_7.html",
         "https://bugs.chromium.org/p/chromium/issues/detail?id=950328"
     ],
@@ -205,6 +218,19 @@
     "tweettime": "2020-04-06, 07:32:50",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1247064710463225856",
     "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://support.sonatype.com/hc/en-us/sections/203012668-Security-Advisories"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 60,
+    "tweettext": "CVE-2020-10204 Nexus Repository Manager 3 - Remote Code Execution\n\nWell,  EL Injection \n\nhttps://t.co/zyj2mRlFrR https://t.co/A24G5kbh7R",
+    "tweettime": "2020-04-03, 11:21:57",
+    "tweeturl": "https://twitter.com/chybeta/status/1246035205858545664",
+    "username": "chybeta"
 }
 {
     "expanded_url": [

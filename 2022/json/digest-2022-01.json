@@ -51,6 +51,16 @@
     "username": "HackingDave"
 }
 {
+    "tweetfavorites": 296,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 78,
+    "tweettext": "Yup.  This CVE-2022-21882 PoC works. https://t.co/cZA5eL8UpK",
+    "tweettime": "2022-01-28, 23:25:10",
+    "tweeturl": "https://twitter.com/wdormann/status/1487205136174878721",
+    "username": "wdormann"
+}
+{
     "expanded_url": [
         "https://github.com/numanturle/CVE-2021-43789"
     ],
@@ -173,6 +183,30 @@
 }
 {
     "expanded_url": [
+        "https://twitter.com/HaifeiLi/status/1458144361561034756",
+        "https://www.trellix.com/en-gb/about/newsroom/stories/threat-labs/prime-ministers-office-compromised.html"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 31,
+    "tweettext": "Remember in November Patch Tuesday Microsoft fixed an Excel zero-day attack in the wild (CVE-2021-42292) but no details shared (https://t.co/UN3bNYg8Tg)? Well, after reading the Trellix (formerly McAfee) blogpost https://t.co/TYsBZlbwMX, I think I figured it out.:). A thread.",
+    "tweettime": "2022-01-26, 00:25:47",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1486133229614616577",
+    "username": "HaifeiLi"
+}
+{
+    "tweetfavorites": 307,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 80,
+    "tweettext": "The exploit for CVE-2021-4034 is both simple and universal.  What's not to love? https://t.co/ZRsbd0So53",
+    "tweettime": "2022-01-25, 22:39:44",
+    "tweeturl": "https://twitter.com/wdormann/status/1486106541665226753",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
         "https://packetstormsecurity.com/files/165642/VMware-vCenter-Server-Unauthenticated-Log4Shell-JNDI-Injection-Remote-Code-Execution.html"
     ],
     "tweetfavorites": 332,
@@ -201,10 +235,10 @@
     "expanded_url": [
         "https://vuls.cert.org/confluence/display/Wiki/2021/06/21/Finding+Privilege+Escalation+Vulnerabilities+in+Windows+using+Process+Monitor"
     ],
-    "tweetfavorites": 215,
+    "tweetfavorites": 214,
     "tweetquotes": 6,
     "tweetreplies": 2,
-    "tweetretweets": 62,
+    "tweetretweets": 61,
     "tweettext": "Reminder:\nFinding privilege escalation vulnerabilities in Windows using Process Monitor is perhaps the easiest way to find a vulnerability, ever.\nSee CVE-2022-0166\nhttps://t.co/cHg2W0khSS https://t.co/8amdUcprgj",
     "tweettime": "2022-01-19, 13:48:39",
     "tweeturl": "https://twitter.com/wdormann/status/1483798563092107266",
@@ -258,6 +292,16 @@
     "tweettime": "2022-01-14, 13:02:31",
     "tweeturl": "https://twitter.com/LukasStefanko/status/1481975013884452867",
     "username": "LukasStefanko"
+}
+{
+    "tweetfavorites": 1742,
+    "tweetquotes": 13,
+    "tweetreplies": 41,
+    "tweetretweets": 223,
+    "tweettext": "i'll admit - when i found it, i wasn't totally sure if i could get LPE with this strange little kernel bug alone. it took triggering the vuln 4x to do a full privesc with #CVE-2021-41073, a vuln in io_uring. blog post soon :) https://t.co/2dJKDMLdUv",
+    "tweettime": "2022-01-12, 23:43:32",
+    "tweeturl": "https://twitter.com/chompie1337/status/1481411553698238465",
+    "username": "chompie1337"
 }
 {
     "expanded_url": [

@@ -55,6 +55,21 @@
     "username": "bad_packets"
 }
 {
+    "expanded_url": [
+        "https://jira.atlassian.com/browse/CONFSERVER-60469",
+        "https://mp.weixin.qq.com/s/uZ6JIAMXFOV9Pr6l-M1iMg",
+        "https://t.zsxq.com/ybQrBAE"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 48,
+    "tweettext": "CVE-2020-29448 Pre-Authorization Limited Arbitrary File Read in Confluence Server\n\nhttps://t.co/SBE9HB5ids\n\nhttps://t.co/ZvgqLpqEHj\n\nhttps://t.co/Ae8gOqmkH0 https://t.co/NcN23KuW1i",
+    "tweettime": "2021-08-25, 06:34:45",
+    "tweeturl": "https://twitter.com/chybeta/status/1430418351755456518",
+    "username": "chybeta"
+}
+{
     "tweetfavorites": 202,
     "tweetquotes": 2,
     "tweetreplies": 14,
@@ -63,6 +78,20 @@
     "tweettime": "2021-08-23, 16:04:15",
     "tweeturl": "https://twitter.com/__mn1__/status/1429836893496266761",
     "username": "__mn1__"
+}
+{
+    "expanded_url": [
+        "https://jira.atlassian.com/browse/JRASERVER-72014",
+        "https://t.zsxq.com/iUn2vRz"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 51,
+    "tweettext": "CVE-2020-29453 Pre-Authorization Limited Arbitrary File Read in Jira Server\nhttps://t.co/CZZKFK7PzM \n\nhttps://t.co/ForOAI8ngJ https://t.co/lTlgc6TKmX",
+    "tweettime": "2021-08-23, 03:51:18",
+    "tweeturl": "https://twitter.com/chybeta/status/1429652441868357636",
+    "username": "chybeta"
 }
 {
     "expanded_url": [
@@ -99,6 +128,20 @@
     "tweettime": "2021-08-18, 17:45:51",
     "tweeturl": "https://twitter.com/Atredis/status/1428050526193819659",
     "username": "Atredis"
+}
+{
+    "expanded_url": [
+        "https://jira.atlassian.com/browse/JRASERVER-72695",
+        "https://wx.zsxq.com/dweb2/index/topic_detail/418428484242888"
+    ],
+    "tweetfavorites": 275,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 107,
+    "tweettext": "CVE-2021-26086 Pre-Auth Limited Remote File Read/Include in Jira Software Server\n\nhttps://t.co/x54JqhVJHR\n\ndetails: https://t.co/M3TDFgC8XR https://t.co/X2VubtIFJ6",
+    "tweettime": "2021-08-17, 09:53:31",
+    "tweeturl": "https://twitter.com/chybeta/status/1427569271387803651",
+    "username": "chybeta"
 }
 {
     "expanded_url": [

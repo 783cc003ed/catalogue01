@@ -12,6 +12,16 @@
     "username": "_ForrestOrr"
 }
 {
+    "tweetfavorites": 405,
+    "tweetquotes": 28,
+    "tweetreplies": 17,
+    "tweetretweets": 109,
+    "tweettext": "If any person or organization is suggesting you get spun up about CVE-2021-44832, you should really take a good look at what their motivations may be. https://t.co/RgkvCu3sv2",
+    "tweettime": "2021-12-28, 18:55:39",
+    "tweeturl": "https://twitter.com/wdormann/status/1475903286913998853",
+    "username": "wdormann"
+}
+{
     "expanded_url": [
         "https://github.com/pjlantz/optee-qemu/blob/main/README.md"
     ],
@@ -105,6 +115,19 @@
     "tweettime": "2021-12-18, 17:17:29",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1472254703501258756",
     "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://logging.apache.org/log4j/2.x/security.html#Fixed_in_Log4j_2.17.0_.28Java_8.29"
+    ],
+    "tweetfavorites": 224,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 77,
+    "tweettext": "Well, log4j 2.17 was released to fix CVE-2021-45105, which is just like CVE-2021-45046 but only a DoS impact.\nhttps://t.co/eEk5mPHPp1\nBefore anybody freaks out too much, I've still yet to be told a single real-world Java application that's vulnerable to either CVE.",
+    "tweettime": "2021-12-18, 15:42:21",
+    "tweeturl": "https://twitter.com/wdormann/status/1472230763655532552",
+    "username": "wdormann"
 }
 {
     "tweetfavorites": 49,
@@ -239,6 +262,20 @@
 }
 {
     "expanded_url": [
+        "https://github.com/apache/logging-log4j2/pull/608#issuecomment-993542299",
+        "https://github.com/kmindi/log4shell-vulnerable-app"
+    ],
+    "tweetfavorites": 482,
+    "tweetquotes": 19,
+    "tweetreplies": 5,
+    "tweetretweets": 193,
+    "tweettext": "For those relying on LOG4J_FORMAT_MSG_NO_LOOKUPS=true as a mitigation for CVE-2021-44228:\nWhile this does help, an app *MAY* still be vulnerable, depending on how it uses log4j. https://t.co/bzKxDboIn2\nExample vulnerable app: https://t.co/wpwrLblBWF\nNot sure how common this is... https://t.co/1V0TtGGicZ",
+    "tweettime": "2021-12-14, 17:13:55",
+    "tweeturl": "https://twitter.com/wdormann/status/1470804255552557064",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
         "https://github.com/0xInfection/LogMePwn"
     ],
     "tweetfavorites": 316,
@@ -301,6 +338,16 @@
     "tweettime": "2021-12-13, 21:40:55",
     "tweeturl": "https://twitter.com/MalwareTechBlog/status/1470509062366253056",
     "username": "MalwareTechBlog"
+}
+{
+    "tweetfavorites": 340,
+    "tweetquotes": 5,
+    "tweetreplies": 10,
+    "tweetretweets": 112,
+    "tweettext": "I cannot stress how wrong the NVD / Mitre entry is for CVE-2021-44228.\nThe fact that you're running a current JRE version does NOT protect against RCE with log4j! https://t.co/JwHgUhJ5To",
+    "tweettime": "2021-12-13, 21:28:37",
+    "tweeturl": "https://twitter.com/wdormann/status/1470505967196545025",
+    "username": "wdormann"
 }
 {
     "expanded_url": [
@@ -549,6 +596,19 @@
 }
 {
     "expanded_url": [
+        "https://logging.apache.org/log4j/2.x/security.html"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 32,
+    "tweettext": "CVE-2021-44228: Apache Log4j2 JNDI features do not protect against attacker controlled LDAP and other JNDI related endpoints.\n\nhttps://t.co/12u0753Oma https://t.co/CQmrsahNqw",
+    "tweettime": "2021-12-10, 10:09:11",
+    "tweeturl": "https://twitter.com/chybeta/status/1469247816094531585",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
         "https://github.com/veracode-research/rogue-jndi"
     ],
     "tweetfavorites": 484,
@@ -616,6 +676,19 @@
     "tweettime": "2021-12-08, 09:29:35",
     "tweeturl": "https://twitter.com/VulmonFeeds/status/1468513074298642433",
     "username": "VulmonFeeds"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/Q3VvRzn"
+    ],
+    "tweetfavorites": 144,
+    "tweetquotes": 3,
+    "tweetreplies": 7,
+    "tweetretweets": 34,
+    "tweettext": "CVE-2021-43798 Grafana path traversal\n\nAND\n\nBYPASS Nginx 400 Bad Request ~\n\nhttps://t.co/z0fD8VEE8W https://t.co/IJtStZGdfb",
+    "tweettime": "2021-12-08, 02:42:58",
+    "tweeturl": "https://twitter.com/chybeta/status/1468410745264041992",
+    "username": "chybeta"
 }
 {
     "expanded_url": [

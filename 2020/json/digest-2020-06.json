@@ -195,6 +195,20 @@
     "username": "_Icewall"
 }
 {
+    "expanded_url": [
+        "https://tanzu.vmware.com/security/cve-2020-5410",
+        "https://xz.aliyun.com/t/7877"
+    ],
+    "tweetfavorites": 297,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 108,
+    "tweettext": "CVE-2020-5410 Directory Traversal with spring-cloud-config-server\n\nadvisory: https://t.co/vigsgQkicN\nanalysis: https://t.co/ohAAFHPXKx https://t.co/Oi6xlwGFlZ",
+    "tweettime": "2020-06-15, 05:07:23",
+    "tweeturl": "https://twitter.com/chybeta/status/1272395253396328449",
+    "username": "chybeta"
+}
+{
     "tweetfavorites": 636,
     "tweetquotes": 6,
     "tweetreplies": 7,

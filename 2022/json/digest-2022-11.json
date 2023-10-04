@@ -93,10 +93,10 @@
     "expanded_url": [
         "https://github.com/Mr-xn/CVE-2022-40127"
     ],
-    "tweetfavorites": 116,
-    "tweetquotes": 3,
+    "tweetfavorites": 110,
+    "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 44,
+    "tweetretweets": 42,
     "tweettext": "CVE-2022-40127\nApache Airflow &lt; 2.4.0 DAG example_bash_operator RCE\nhttps://t.co/KCrDO9yevc",
     "tweettime": "2022-11-22, 16:02:42",
     "tweeturl": "https://twitter.com/momika233/status/1595085371754291200",
@@ -178,6 +178,16 @@
     "username": "ntsuji"
 }
 {
+    "tweetfavorites": 251,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 100,
+    "tweettext": "Can confirm.\nThis is a working exploit for #ProxyNotShell CVE-2022-41040 / CVE-2022-41082\nHere we have an Exchange 2019 box that's only up to date with what was available in October, and we have successful execution of calc.exe as SYSTEM.\n🎉 https://t.co/BlCJSJMcJM",
+    "tweettime": "2022-11-17, 18:32:30",
+    "tweeturl": "https://twitter.com/wdormann/status/1593311129874403335",
+    "username": "wdormann"
+}
+{
     "expanded_url": [
         "https://github.com/testanull/ProxyNotShell-PoC"
     ],
@@ -230,7 +240,7 @@
     "expanded_url": [
         "https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce"
     ],
-    "tweetfavorites": 172,
+    "tweetfavorites": 178,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 77,
@@ -304,9 +314,9 @@
     "username": "campuscodi"
 }
 {
-    "tweetfavorites": 291,
-    "tweetquotes": 14,
-    "tweetreplies": 11,
+    "tweetfavorites": 297,
+    "tweetquotes": 17,
+    "tweetreplies": 12,
     "tweetretweets": 124,
     "tweettext": "It's time to reveal the #ZippyReads CVE-2022-41091 3-word description:\nread-only files\nWhen you zip a read-only file, Windows will upon extraction:\n1) Write file\n2) Mark as read-only\n3) Attempt to set the MotW on the read-only file (and fail)\nThat's it.  That's the bug. https://t.co/6Z8TXGEbey",
     "tweettime": "2022-11-08, 18:10:07",

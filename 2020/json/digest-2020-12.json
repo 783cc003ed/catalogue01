@@ -13,6 +13,19 @@
     "username": "wugeej"
 }
 {
+    "expanded_url": [
+        "https://t.zsxq.com/JiU7AUf"
+    ],
+    "tweetfavorites": 194,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 89,
+    "tweettext": "CVE-2020-10148 SolarWinds Orion API RCE\n\n👇POC https://t.co/xLVuhSIE4Q https://t.co/cnXMupUjNI",
+    "tweettime": "2020-12-29, 02:58:35",
+    "tweeturl": "https://twitter.com/chybeta/status/1343753251053658113",
+    "username": "chybeta"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -159,6 +172,20 @@
     "tweettime": "2020-12-18, 06:07:03",
     "tweeturl": "https://twitter.com/loopspell/status/1339814413415550976",
     "username": "loopspell"
+}
+{
+    "expanded_url": [
+        "https://github.com/x-stream/xstream/commit/6740c04b217aef02d44fba26402b35e0f6f493ce",
+        "https://github.com/x-stream/xstream/commit/0bcbf50126a62dfcd65f93a0da0c6d1ae92aa738"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "CVE-2020-26258 XStream SSRF\nhttps://t.co/E90icQRUPo\n\nCVE-2020-26259 XStream  Arbitrary File Deletion\nhttps://t.co/QPpzpFJD15 https://t.co/2WZ1yEbVLU",
+    "tweettime": "2020-12-14, 05:05:02",
+    "tweeturl": "https://twitter.com/chybeta/status/1338349256080420865",
+    "username": "chybeta"
 }
 {
     "expanded_url": [

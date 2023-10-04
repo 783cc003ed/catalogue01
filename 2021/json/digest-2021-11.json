@@ -87,6 +87,16 @@
     "username": "TheHackersNews"
 }
 {
+    "tweetfavorites": 257,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2021-43557 Apache APISIX Path traversal in request_uri variable https://t.co/KOune3t93N",
+    "tweettime": "2021-11-23, 07:43:38",
+    "tweeturl": "https://twitter.com/chybeta/status/1463050595732918276",
+    "username": "chybeta"
+}
+{
     "expanded_url": [
         "http://target.com"
     ],

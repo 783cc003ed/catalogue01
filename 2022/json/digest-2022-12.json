@@ -115,6 +115,19 @@
 }
 {
     "expanded_url": [
+        "https://securelist.com/cve-2022-41040-and-cve-2022-41082-zero-days-in-ms-exchange/108364/"
+    ],
+    "tweetfavorites": 199,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 79,
+    "tweettext": "CVE-2022-41040 and CVE-2022-41082 – zero-days in MS Exchange\nhttps://t.co/bNnCKELBd3",
+    "tweettime": "2022-12-20, 05:46:11",
+    "tweeturl": "https://twitter.com/momika233/status/1605077081255161856",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
         "https://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/"
     ],
     "tweetfavorites": 43,
@@ -208,10 +221,10 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/critical-remote-code-execution-vulnerability-spnego-extended-negotiation-security-mechanism/"
     ],
-    "tweetfavorites": 3805,
-    "tweetquotes": 57,
-    "tweetreplies": 72,
-    "tweetretweets": 1106,
+    "tweetfavorites": 3828,
+    "tweetquotes": 59,
+    "tweetreplies": 78,
+    "tweetretweets": 1098,
     "tweettext": "Demonstrating CVE-2022-37958 RCE Vuln. Reachable via any Windows application protocol that authenticates. Yes, that means RDP, SMB and many more. Please patch this one, it's serious! \n\nhttps://t.co/ikOrTvQIJs https://t.co/bOTmL5Fh2H",
     "tweettime": "2022-12-13, 20:08:21",
     "tweeturl": "https://twitter.com/chompie1337/status/1602757336908660736",
@@ -304,6 +317,19 @@
     "tweettime": "2022-12-11, 08:25:54",
     "tweeturl": "https://twitter.com/0x_rood/status/1601855784291545088",
     "username": "0x_rood"
+}
+{
+    "expanded_url": [
+        "https://github.com/yuriisanin/CVE-2022-45025"
+    ],
+    "tweetfavorites": 593,
+    "tweetquotes": 5,
+    "tweetreplies": 12,
+    "tweetretweets": 196,
+    "tweettext": "CVE-2022-45025\nCommand injection via PDF import in Markdown Preview Enhanced (VSCode, Atom)\nhttps://t.co/ckY6LVAY1g https://t.co/h4xpnrzCMO",
+    "tweettime": "2022-12-10, 15:55:06",
+    "tweeturl": "https://twitter.com/momika233/status/1601606440459739136",
+    "username": "momika233"
 }
 {
     "tweetfavorites": 439,

@@ -176,9 +176,9 @@
     "expanded_url": [
         "https://codewhitesec.blogspot.com/2020/03/liferay-portal-json-vulns.html"
     ],
-    "tweetfavorites": 184,
+    "tweetfavorites": 180,
     "tweetquotes": 2,
-    "tweetreplies": 3,
+    "tweetreplies": 2,
     "tweetretweets": 89,
     "tweettext": "CVE-2020-7961 liferay-portal RCE: Unauthenticated Remote code execution via JSONWS (LPS-97029)\n\nhttps://t.co/IRbIUL52kh https://t.co/Huw3yss38t",
     "tweettime": "2020-03-23, 16:58:00",
@@ -337,6 +337,19 @@
     "username": "dnlongen"
 }
 {
+    "expanded_url": [
+        "https://github.com/apache/incubator-shardingsphere/releases"
+    ],
+    "tweetfavorites": 233,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 92,
+    "tweettext": "CVE-2020-1947 Remote Code Execution (RCE) Through YAML Deserialization in Apache ShardingSphere\n\nhttps://t.co/iyw7pZ5ZCw https://t.co/GhX0yYJMNP",
+    "tweettime": "2020-03-10, 14:12:59",
+    "tweeturl": "https://twitter.com/chybeta/status/1237380937085620225",
+    "username": "chybeta"
+}
+{
     "tweetfavorites": 233,
     "tweetquotes": 9,
     "tweetreplies": 9,
@@ -376,7 +389,7 @@
     "expanded_url": [
         "https://pivotal.io/security/cve-2020-5405"
     ],
-    "tweetfavorites": 119,
+    "tweetfavorites": 118,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 36,

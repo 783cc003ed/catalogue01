@@ -51,10 +51,10 @@
     "expanded_url": [
         "https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story"
     ],
-    "tweetfavorites": 1890,
-    "tweetquotes": 40,
-    "tweetreplies": 38,
-    "tweetretweets": 604,
+    "tweetfavorites": 1869,
+    "tweetquotes": 39,
+    "tweetreplies": 37,
+    "tweetretweets": 595,
     "tweettext": "So excited to finally release my blog post- Kernel Pwning with eBPF: a Love Story. I cover eBPF, the verifier, debugging, exploitation, mitigations and other cool findings! I do root cause analysis and exploit CVE-2021-3490 for LPE with PoC included. https://t.co/pWt1psHEFa",
     "tweettime": "2021-07-29, 17:38:23",
     "tweeturl": "https://twitter.com/chompie1337/status/1420800888273244162",
@@ -98,6 +98,19 @@
     "tweettime": "2021-07-27, 04:51:13",
     "tweeturl": "https://twitter.com/hasherezade/status/1419883049769111552",
     "username": "hasherezade"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/3VBAImU"
+    ],
+    "tweetfavorites": 282,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 86,
+    "tweettext": "CVE-2021-34429 Jetty WEB-INF infol leak\n\nsimple analysis:\nhttps://t.co/mhRoCIjfdi https://t.co/X9lksJlc53",
+    "tweettime": "2021-07-27, 00:44:05",
+    "tweeturl": "https://twitter.com/chybeta/status/1419820856688054272",
+    "username": "chybeta"
 }
 {
     "expanded_url": [
@@ -276,6 +289,19 @@
     "tweettime": "2021-07-15, 23:49:06",
     "tweeturl": "https://twitter.com/msftsecresponse/status/1415820752343891968",
     "username": "msftsecresponse"
+}
+{
+    "expanded_url": [
+        "https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "CVE-2021-22555: Turning \\x00\\x00 into 10000$\n- a 15 years old heap out-of-bounds write vulnerability in Linux Netfilter that is powerful enough to bypass all modern security mitigations and achieve kernel code execution. https://t.co/Fp0BgacBzG",
+    "tweettime": "2021-07-15, 09:49:48",
+    "tweeturl": "https://twitter.com/jedisct1/status/1415609535834767360",
+    "username": "jedisct1"
 }
 {
     "expanded_url": [
@@ -552,6 +578,19 @@
 }
 {
     "expanded_url": [
+        "https://www.kb.cert.org/vuls/id/383432"
+    ],
+    "tweetfavorites": 284,
+    "tweetquotes": 16,
+    "tweetreplies": 17,
+    "tweetretweets": 102,
+    "tweettext": "I've made a few changes to this flowchart to make it more clear, and also add some more boxes.  Because of course.\nI also added it to the CERT/CC vulnerability note for #PrintNightmare VU#383432 CVE-2021-34527\nhttps://t.co/c7Durfn4BL https://t.co/CfLcEe7mgf",
+    "tweettime": "2021-07-08, 18:58:13",
+    "tweeturl": "https://twitter.com/wdormann/status/1413210835326054402",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
         "https://www.zerodayinitiative.com/blog/2021/7/7/cve-2021-28474-sharepoint-remote-code-execution-via-server-side-control-interpretation-conflict"
     ],
     "tweetfavorites": 94,
@@ -577,10 +616,10 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 207,
+    "tweetfavorites": 199,
     "tweetquotes": 8,
     "tweetreplies": 7,
-    "tweetretweets": 107,
+    "tweetretweets": 101,
     "tweettext": "Confirmed.\nIf you have a system where PointAndPrint NoWarningNoElevationOnInstall = 1, then Microsoft's patch for #PrintNightmare CVE-2021-34527 does nothing to prevent either LPE or RCE. https://t.co/Ntxe9wpuke",
     "tweettime": "2021-07-07, 16:37:33",
     "tweeturl": "https://twitter.com/wdormann/status/1412813044279910416",

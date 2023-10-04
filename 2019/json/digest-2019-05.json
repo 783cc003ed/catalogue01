@@ -183,6 +183,16 @@
     "username": "buffaloverflow"
 }
 {
+    "tweetfavorites": 92,
+    "tweetquotes": 4,
+    "tweetreplies": 7,
+    "tweetretweets": 20,
+    "tweettext": "How to hack windows? Just upload a fake CVE-2019-0708 POC and wait script kids run it ...😎",
+    "tweettime": "2019-05-15, 09:53:17",
+    "tweeturl": "https://twitter.com/chybeta/status/1128599219973967873",
+    "username": "chybeta"
+}
+{
     "expanded_url": [
         "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00252.html"
     ],

@@ -39,6 +39,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/alt3kx/CVE-2023-24055_PoC"
+    ],
+    "tweetfavorites": 225,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 102,
+    "tweettext": "CVE-2023-24055 PoC (KeePass 2.5x)\nhttps://t.co/CVzndZOj5M",
+    "tweettime": "2023-01-28, 09:22:35",
+    "tweeturl": "https://twitter.com/momika233/status/1619264666051682304",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
         "https://github.com/akamai/akamai-security-research/tree/main/PoCs/CVE-2022-34689"
     ],
     "tweetfavorites": 76,
@@ -211,10 +224,10 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
     ],
-    "tweetfavorites": 1084,
+    "tweetfavorites": 1077,
     "tweetquotes": 10,
     "tweetreplies": 14,
-    "tweetretweets": 325,
+    "tweetretweets": 320,
     "tweettext": "My new blog post! Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”. Reverse engineering CVE-2022-34718 + write a remote Denial of Service exploit. Covers IPsec and IPv6 fragmentation in the Windows kernel, bin-diffing, and making weird packets https://t.co/XR8qhoq1ub",
     "tweettime": "2023-01-20, 18:51:41",
     "tweeturl": "https://twitter.com/chompie1337/status/1616508780061298689",
@@ -485,6 +498,32 @@
 }
 {
     "expanded_url": [
+        "https://github.com/momika233/CVE-2022-3656"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "https://t.co/fRV7O7cXAJ\nImperva Red Team recently disclosed a vulnerability named CVE-2022-3656, which allows the theft of sensitive documents, such as encrypted wallets and cloud provider credentials. #Chrome #GoogleForIndia",
+    "tweettime": "2023-01-13, 03:37:39",
+    "tweeturl": "https://twitter.com/momika233/status/1613742044387893249",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/Wh04m1001/CVE-2023-21752"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "PoC for arbitrary file delete vulnerability in Windows Backup service. CVE-2023-21752\nhttps://t.co/H2Ve2qYZD9",
+    "tweettime": "2023-01-12, 08:26:06",
+    "tweeturl": "https://twitter.com/momika233/status/1613452247199023105",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
         "https://gist.github.com/numanturle/c1e82c47f4cba24cff214e904c227386"
     ],
     "tweetfavorites": 33,
@@ -590,6 +629,33 @@
     "tweettime": "2023-01-10, 17:29:05",
     "tweeturl": "https://twitter.com/timstrazz/status/1612864115483246592",
     "username": "timstrazz"
+}
+{
+    "expanded_url": [
+        "https://blog.viettelcybersecurity.com/tabshell-owassrf/",
+        "https://gist.github.com/testanull/518871a2e2057caa2bc9c6ae6634103e"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "PoC of TabShell (CVE-2022-41076). More details: https://t.co/46bN4wPCHK\n\nhttps://t.co/62TvnqxnbB",
+    "tweettime": "2023-01-10, 07:21:51",
+    "tweeturl": "https://twitter.com/momika233/status/1612711300211306499",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/s0duku/cve-2022-31705"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2022-31705 (Geekpwn 2022 Vmware EHCI OOB) POC\nhttps://t.co/iQtmJVbV3Y",
+    "tweettime": "2023-01-10, 01:38:33",
+    "tweeturl": "https://twitter.com/momika233/status/1612624908588310530",
+    "username": "momika233"
 }
 {
     "expanded_url": [

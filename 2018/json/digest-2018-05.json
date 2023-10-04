@@ -54,6 +54,19 @@
 }
 {
     "expanded_url": [
+        "https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2018-1000136---Electron-nodeIntegration-Bypass/"
+    ],
+    "tweetfavorites": 771,
+    "tweetquotes": 36,
+    "tweetreplies": 13,
+    "tweetretweets": 571,
+    "tweettext": "The one bug to bring them all down - CVE-2018-1000136 (including, but not limited to: Signal Desktop, Slack, Discord, Atom, Visual Studio Code, Github Desktop) https://t.co/dPDkecJzFm #electron #vulnerability",
+    "tweettime": "2018-05-12, 17:43:54",
+    "tweeturl": "https://twitter.com/x0rz/status/995358920817430529",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
         "https://securelist.com/root-cause-analysis-of-cve-2018-8174/85486/"
     ],
     "tweetfavorites": 110,

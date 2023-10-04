@@ -63,6 +63,29 @@
 }
 {
     "expanded_url": [
+        "https://github.com/apache/kylin/commit/e373c64c96a54a7abfe4bccb82e8feb60db04749?diff=split"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "CVE-2020-1937 Apache Kylin SQL injection vulnerability\n\nhttps://t.co/ADzyXYjOdo https://t.co/wRQGD5XQvQ",
+    "tweettime": "2020-02-23, 12:37:52",
+    "tweeturl": "https://twitter.com/chybeta/status/1231558796096372736",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 543,
+    "tweetquotes": 9,
+    "tweetreplies": 19,
+    "tweetretweets": 277,
+    "tweettext": "Apache Tomcat AJP Vulnerability (CNVD-2020-10487/CVE-2020-1938 )  .This vulnerability was discovered by a security researcher of Chaitin Tech . \n\nYou can read any webapps files or include a file to RCE .JUST A POC-GIF with no DETAILS\n\nTomcat has fix this vulnerability ,UPDATE! https://t.co/Jauc5zPF3a",
+    "tweettime": "2020-02-20, 13:47:30",
+    "tweeturl": "https://twitter.com/chybeta/status/1230489154468732928",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
         "https://github.com/JakeBlair420/Spice"
     ],
     "tweetfavorites": 259,
@@ -232,4 +255,18 @@
     "tweettime": "2020-02-03, 13:37:02",
     "tweeturl": "https://twitter.com/_ringzer0/status/1224325925606699010",
     "username": "_ringzer0"
+}
+{
+    "expanded_url": [
+        "https://djangoproject.com/weblog/2020/feb/03/security-releases/",
+        "https://github.com/django/django/commit/eb31d845323618d688ad429479c6dda973056136"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "CVE-2020-7471: SQLI in Django: \ndjango.contrib.postgres.aggregates.StringAgg aggregation function was subject to SQL injection, using a suitably crafted delimiter.\nhttps://t.co/Uj7mrGQcIJ\nFIX: https://t.co/Tla6lZQmgg https://t.co/NljqLmin93",
+    "tweettime": "2020-02-03, 12:48:17",
+    "tweeturl": "https://twitter.com/chybeta/status/1224313657632292866",
+    "username": "chybeta"
 }

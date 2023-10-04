@@ -65,6 +65,19 @@
     "username": "gweeperx"
 }
 {
+    "expanded_url": [
+        "https://github.com/advisories/GHSA-699q-wcff-g9mj"
+    ],
+    "tweetfavorites": 165,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "CVE-2020-15148  Yii 2 yii\\db\\BatchQueryResult  RCE\n\nhttps://t.co/uq8NteBpSh https://t.co/EfQcxnJHLJ",
+    "tweettime": "2020-09-20, 10:26:22",
+    "tweeturl": "https://twitter.com/chybeta/status/1307627151093501958",
+    "username": "chybeta"
+}
+{
     "tweetfavorites": 135,
     "tweetquotes": 1,
     "tweetreplies": 1,
@@ -135,6 +148,19 @@
     "tweettime": "2020-09-15, 03:38:41",
     "tweeturl": "https://twitter.com/yoshiat/status/1305712616732422144",
     "username": "yoshiat"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472"
+    ],
+    "tweetfavorites": 227,
+    "tweetquotes": 20,
+    "tweetreplies": 5,
+    "tweetretweets": 119,
+    "tweettext": "Yeah, I can confirm that this public exploit for Zerologon (CVE-2020-1472) works.  Anybody who has not installed the patch from August's Patch Tuesday already is going to be in much worse shape than they already were.\nhttps://t.co/SWK2hUDOYc https://t.co/Lg8auMdtVU",
+    "tweettime": "2020-09-14, 17:48:19",
+    "tweeturl": "https://twitter.com/wdormann/status/1305564045282598912",
+    "username": "wdormann"
 }
 {
     "expanded_url": [
@@ -396,4 +422,17 @@
     "tweettime": "2020-09-02, 02:07:42",
     "tweeturl": "https://twitter.com/wugeej/status/1300978679518867457",
     "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://tanzu.vmware.com/security/cve-2020-5412"
+    ],
+    "tweetfavorites": 226,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 79,
+    "tweettext": "CVE-2020-5412 Full-Read SSRF in spring-cloud-netflix-hystrix-dashboard \n\nhttps://t.co/h1ydz1C7nE https://t.co/ueHvG6AFZL",
+    "tweettime": "2020-09-01, 04:57:34",
+    "tweeturl": "https://twitter.com/chybeta/status/1300659037831221248",
+    "username": "chybeta"
 }

