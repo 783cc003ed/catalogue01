@@ -361,10 +361,10 @@
     "expanded_url": [
         "https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf"
     ],
-    "tweetfavorites": 344,
+    "tweetfavorites": 348,
     "tweetquotes": 10,
     "tweetreplies": 8,
-    "tweetretweets": 177,
+    "tweetretweets": 178,
     "tweettext": "Watchout! CVE-2023-22809 on Sudo was patched today to prevent a privilege escalation on sudoedit. Read the security advisory by @aevy__ and @v1csec: https://t.co/w2uco4PGhh https://t.co/NPkWJYq74X",
     "tweettime": "2023-01-18, 15:28:18",
     "tweeturl": "https://twitter.com/Synacktiv/status/1615732821070315521",
@@ -513,7 +513,7 @@
     "expanded_url": [
         "https://github.com/Wh04m1001/CVE-2023-21752"
     ],
-    "tweetfavorites": 161,
+    "tweetfavorites": 160,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 41,
