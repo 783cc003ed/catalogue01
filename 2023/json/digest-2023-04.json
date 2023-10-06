@@ -12,10 +12,10 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 358,
+    "tweetfavorites": 359,
     "tweetquotes": 31,
     "tweetreplies": 4,
-    "tweetretweets": 168,
+    "tweetretweets": 169,
     "tweettext": "Microsoft is attributing the recently reported attacks exploiting the CVE-2023-27350 and CVE-2023-27351 vulnerabilities in print management software PaperCut to deliver Clop ransomware to the threat actor tracked as Lace Tempest (overlaps with FIN11 and TA505).",
     "tweettime": "2023-04-26, 22:04:57",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1651346653901725696",

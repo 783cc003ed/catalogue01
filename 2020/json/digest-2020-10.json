@@ -648,10 +648,10 @@
     "username": "niemand_sec"
 }
 {
-    "tweetfavorites": 690,
+    "tweetfavorites": 691,
     "tweetquotes": 27,
     "tweetreplies": 11,
-    "tweetretweets": 413,
+    "tweetretweets": 412,
     "tweettext": "We’re seeing more activity leveraging the CVE-2020-1472 exploit (ZeroLogon). A new campaign shrewdly poses as software updates that connect to known CHIMBORAZO (TA505) C2 infrastructure. The fake updates lead to UAC bypass and use of wscript.exe to run malicious scripts.",
     "tweettime": "2020-10-06, 21:54:08",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1313598440719355904",
@@ -664,7 +664,7 @@
     "tweetfavorites": 393,
     "tweetquotes": 32,
     "tweetreplies": 6,
-    "tweetretweets": 287,
+    "tweetretweets": 286,
     "tweettext": "MSTIC has observed activity by the nation-state actor MERCURY using the CVE-2020-1472 exploit (ZeroLogon) in active campaigns over the last 2 weeks. We strongly recommend patching. Microsoft 365 Defender customers can also refer to these detections: https://t.co/ieBj2dox78",
     "tweettime": "2020-10-05, 22:35:00",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1313246337153077250",
