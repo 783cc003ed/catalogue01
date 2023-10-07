@@ -281,7 +281,7 @@
     "tweetfavorites": 482,
     "tweetquotes": 19,
     "tweetreplies": 5,
-    "tweetretweets": 193,
+    "tweetretweets": 192,
     "tweettext": "For those relying on LOG4J_FORMAT_MSG_NO_LOOKUPS=true as a mitigation for CVE-2021-44228:\nWhile this does help, an app *MAY* still be vulnerable, depending on how it uses log4j. https://t.co/bzKxDboIn2\nExample vulnerable app: https://t.co/wpwrLblBWF\nNot sure how common this is... https://t.co/1V0TtGGicZ",
     "tweettime": "2021-12-14, 17:13:55",
     "tweeturl": "https://twitter.com/wdormann/status/1470804255552557064",

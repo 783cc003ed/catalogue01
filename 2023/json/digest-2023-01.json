@@ -227,7 +227,7 @@
     "tweetfavorites": 1077,
     "tweetquotes": 10,
     "tweetreplies": 14,
-    "tweetretweets": 319,
+    "tweetretweets": 318,
     "tweettext": "My new blog post! Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”. Reverse engineering CVE-2022-34718 + write a remote Denial of Service exploit. Covers IPsec and IPv6 fragmentation in the Windows kernel, bin-diffing, and making weird packets https://t.co/XR8qhoq1ub",
     "tweettime": "2023-01-20, 18:51:41",
     "tweeturl": "https://twitter.com/chompie1337/status/1616508780061298689",
@@ -361,10 +361,10 @@
     "expanded_url": [
         "https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf"
     ],
-    "tweetfavorites": 346,
+    "tweetfavorites": 347,
     "tweetquotes": 10,
     "tweetreplies": 8,
-    "tweetretweets": 179,
+    "tweetretweets": 180,
     "tweettext": "Watchout! CVE-2023-22809 on Sudo was patched today to prevent a privilege escalation on sudoedit. Read the security advisory by @aevy__ and @v1csec: https://t.co/w2uco4PGhh https://t.co/NPkWJYq74X",
     "tweettime": "2023-01-18, 15:28:18",
     "tweeturl": "https://twitter.com/Synacktiv/status/1615732821070315521",

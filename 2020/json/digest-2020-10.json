@@ -651,7 +651,7 @@
     "tweetfavorites": 691,
     "tweetquotes": 27,
     "tweetreplies": 11,
-    "tweetretweets": 412,
+    "tweetretweets": 411,
     "tweettext": "We’re seeing more activity leveraging the CVE-2020-1472 exploit (ZeroLogon). A new campaign shrewdly poses as software updates that connect to known CHIMBORAZO (TA505) C2 infrastructure. The fake updates lead to UAC bypass and use of wscript.exe to run malicious scripts.",
     "tweettime": "2020-10-06, 21:54:08",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1313598440719355904",
