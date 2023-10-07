@@ -309,7 +309,7 @@
     "tweetfavorites": 235,
     "tweetquotes": 5,
     "tweetreplies": 3,
-    "tweetretweets": 113,
+    "tweetretweets": 112,
     "tweettext": "CVE-2020-5504 SQLI in phpMyAdmin:  A malicious user could inject custom SQL in place of their own username when creating queries to this page\n\nhttps://t.co/WEJLVgyuRX\nfix: https://t.co/tR4uEqIeFi https://t.co/S3a3B1zHz4",
     "tweettime": "2020-01-15, 02:13:08",
     "tweeturl": "https://twitter.com/chybeta/status/1217268449996500992",
