@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://n1k0la-t.github.io/2023/10/24/Microsoft-Exchange-Server-CVE-2023-36745/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 71,
+    "tweettext": "RT @webdxg: Exchange Server CVE-2023-36745\nhttps://t.co/VDjXJiH3Kw\nStanding on the Shoulder of Giants @chudyPB .",
+    "tweettime": "2023-10-24, 14:03:22",
+    "tweeturl": "https://twitter.com/testanull/status/1716817661886386240",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/microsoft-exchange-server-rce-cve-2023-36745-flaw-gets-poc-exploit/"
     ],
     "tweetfavorites": 133,
@@ -23,4 +36,17 @@
     "tweettime": "2023-10-24, 07:45:31",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1716722572619030814",
     "username": "the_yellow_fall"
+}
+{
+    "expanded_url": [
+        "https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/"
+    ],
+    "tweetfavorites": 277,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 88,
+    "tweettext": "In this post I'll use CVE-2023-4069, a type confusion bug in the Maglev JIT compiler of Chrome that I reported in July, to gain RCE in the Chrome renderer sandbox: https://t.co/Mas6ALpKiO",
+    "tweettime": "2023-10-17, 15:23:10",
+    "tweeturl": "https://twitter.com/mmolgtm/status/1714301029146099903",
+    "username": "mmolgtm"
 }

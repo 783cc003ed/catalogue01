@@ -61,6 +61,19 @@
     "username": "blackorbird"
 }
 {
+    "expanded_url": [
+        "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
+    ],
+    "tweetfavorites": 277,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 98,
+    "tweettext": "CVE-2022-34718: Patch analysis, bug identification and exploit development (Windows TCP/IP Remote Code Execution Vulnerability)\nExcellent blog post by @chompie1337 \n\nhttps://t.co/ZDEOVqM765 \n\n#cybersecurity #cve #exploit https://t.co/7WfuQUqbeG",
+    "tweettime": "2023-09-11, 16:30:13",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1701271939149389927",
+    "username": "0xor0ne"
+}
+{
     "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 3,

@@ -787,10 +787,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 523,
+    "tweetfavorites": 516,
     "tweetquotes": 7,
     "tweetreplies": 5,
-    "tweetretweets": 170,
+    "tweetretweets": 166,
     "tweettext": "I'm too late at CVE-2021-40444 party. But i just wanted to take a look at MSIE exploitation. Awesome to see a full exploit (RCE w/ sandbox escape) only using 6 lines of javascript code. Cool no doubt. https://t.co/PzfXL46ARW",
     "tweettime": "2021-09-13, 12:21:01",
     "tweeturl": "https://twitter.com/j00sean/status/1437390861499838466",

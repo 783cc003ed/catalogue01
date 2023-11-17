@@ -75,6 +75,19 @@
 }
 {
     "expanded_url": [
+        "https://adamdoupe.com/blog/2022/12/13/cve-2022-42845-xnu-use-after-free-vulnerability-in-ndrv-dot-c/"
+    ],
+    "tweetfavorites": 101,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "Analysis and poc of CVE-2022-42845 (XNU Use After Free Vulnerability in ndrv.c)\nWriteup by @adamdoupe\n\nhttps://t.co/0Q08z5Xva6\n\n#xnu #apple #infosec #cybersecurity #cve https://t.co/7zsSJtiLPl",
+    "tweettime": "2023-03-25, 08:30:04",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1639545168847306753",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
         "https://github.com/Acceis/exploit-CVE-2023-23752",
         "https://t.me/hackgit/8006"
     ],

@@ -102,7 +102,7 @@
 }
 {
     "tweetfavorites": 46,
-    "tweetquotes": 1,
+    "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 20,
     "tweettext": "Microsoft patches 0day vulnerability in win32k.sys discovered by  Kaspersky Lab in August, targeting victims in the Middle East. Microsoft confirmed the vulnerability and designated it CVE-2018-8453. The exploit was executed by the first stage of a malware installer",

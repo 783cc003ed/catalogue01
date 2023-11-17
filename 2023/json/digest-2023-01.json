@@ -224,7 +224,7 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
     ],
-    "tweetfavorites": 1077,
+    "tweetfavorites": 1074,
     "tweetquotes": 10,
     "tweetreplies": 14,
     "tweetretweets": 318,
@@ -830,10 +830,10 @@
     "expanded_url": [
         "https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/"
     ],
-    "tweetfavorites": 226,
+    "tweetfavorites": 222,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 82,
+    "tweetretweets": 80,
     "tweettext": "CVE-2021-38003: vulnerability analysis and exploitation by @starlabs_sg\nV8 Javascript engine TheHole value leaking for RCE in Chromium-based browser \n\nhttps://t.co/CNdOT0IECa \n\n#chrome #cve #exploit #infosec #cybersecurity https://t.co/MITv2FRfie",
     "tweettime": "2023-01-03, 12:15:03",
     "tweeturl": "https://twitter.com/0xor0ne/status/1610248371498897408",
