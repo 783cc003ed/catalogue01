@@ -173,10 +173,10 @@
     "expanded_url": [
         "https://peterjson.medium.com/some-notes-about-microsoft-exchange-deserialization-rce-cve-2021-42321-110d04e8852"
     ],
-    "tweetfavorites": 417,
+    "tweetfavorites": 418,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 181,
+    "tweetretweets": 180,
     "tweettext": "Just published detailed analysis of Microsoft Exchange Deserialization to RCE (CVE-2021-42321), which's also found exploited in Tianfu Cup.\nEnglish version from @peterjson \nPoC is not provided, \nHave fun!\nhttps://t.co/H9Q2Q5Gbpw",
     "tweettime": "2021-11-19, 08:00:58",
     "tweeturl": "https://twitter.com/testanull/status/1461605405251883009",

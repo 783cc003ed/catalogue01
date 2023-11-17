@@ -259,6 +259,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/sinsinology/CVE-2023-20887"
+    ],
+    "tweetfavorites": 186,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 73,
+    "tweettext": "CVE-2023-20887\n\nPOC for CVE-2023-20887 VMWare Aria Operations for Networks (vRealize Network Insight) unauthenticated RCE\nhttps://t.co/wafSz8olxc\nhttps://t.co/AEuxL9Z1Ok #cybersecurity #infosec",
+    "tweettime": "2023-06-18, 22:10:14",
+    "tweeturl": "https://twitter.com/s0urc3c0d3err0r/status/1670554539681013760",
+    "username": "s0urc3c0d3err0r"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/poc-released-for-windows-sysinternals-sysmon-privilege-escalation-cve-2023-29343-bug/"
     ],
     "tweetfavorites": 569,
@@ -463,6 +476,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/sfewer-r7/CVE-2023-34362"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 33,
+    "tweettext": "Here we are.. CVE-2023-34362: MOVEit Transfer Unauthenticated RCE PoC\n\nhttps://t.co/6AeB1Kugf5",
+    "tweettime": "2023-06-12, 14:18:12",
+    "tweeturl": "https://twitter.com/S0ufi4n3/status/1668261421698752514",
+    "username": "S0ufi4n3"
+}
+{
+    "expanded_url": [
         "https://github.com/horizon3ai/CVE-2023-34362"
     ],
     "tweetfavorites": 68,
@@ -569,14 +595,24 @@
         "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments",
         "https://mathiasbynens.be/notes/shapes-ics"
     ],
-    "tweetfavorites": 69,
-    "tweetquotes": 1,
-    "tweetreplies": 1,
+    "tweetfavorites": 74,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
     "tweetretweets": 16,
     "tweettext": "Latest In-The-Wild Google Chrome V8 type confusion vulnerability (CVE-2023-3079) is patched[1] by fixing store handler selection for arguments objects [2] during inline caching [3]:\n1- https://t.co/G0wbhUskzR\n2- https://t.co/GlNtSg5EjS\n3- https://t.co/C4c5Lme99v",
     "tweettime": "2023-06-08, 02:24:56",
     "tweeturl": "https://twitter.com/hosselot/status/1666632372870103040",
     "username": "hosselot"
+}
+{
+    "tweetfavorites": 32,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "RCE PoC for CVE-2023-34362, a vulnerability in MOVEit, is detected\n\n#MOVEit #exploit https://t.co/c6dp0CUAO6",
+    "tweettime": "2023-06-07, 15:29:21",
+    "tweeturl": "https://twitter.com/DailyDarkWeb/status/1666467386449330178",
+    "username": "DailyDarkWeb"
 }
 {
     "expanded_url": [

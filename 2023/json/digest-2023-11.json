@@ -23,6 +23,19 @@
 }
 {
     "expanded_url": [
+        "https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/"
+    ],
+    "tweetfavorites": 180,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 70,
+    "tweettext": "🪲 New blog from me, @_clem1, and Kristen on the Zimbra in-the-wild 0-day, CVE-2023-37580, discovered by TAG in the summer. We discovered 4 different campaigns using the bug against organizations in Greece, Moldova, Tunisia, Vietnam, and Pakistan.\n\nhttps://t.co/m1vxz51QMC",
+    "tweettime": "2023-11-16, 16:24:40",
+    "tweeturl": "https://twitter.com/maddiestone/status/1725188141521523026",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36558"
     ],
     "tweetfavorites": 42,
@@ -103,7 +116,7 @@
     "expanded_url": [
         "https://zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
     ],
-    "tweetfavorites": 229,
+    "tweetfavorites": 230,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 68,
@@ -111,4 +124,28 @@
     "tweettime": "2023-11-08, 19:01:01",
     "tweeturl": "https://twitter.com/0xor0ne/status/1722328386280849899",
     "username": "0xor0ne"
+}
+{
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "CVE-2023-22518 should be noted that it ultimately causes RCE by overwriting the original data. That is, this vulnerability will cause the loss of the original Confluence data when attacked! https://t.co/927diq5K6S",
+    "tweettime": "2023-11-02, 14:31:43",
+    "tweeturl": "https://twitter.com/80vul/status/1720086286676230215",
+    "username": "80vul"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/13ZBgTRdQ",
+        "https://t.zsxq.com/13OZcG8KI"
+    ],
+    "tweetfavorites": 106,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 24,
+    "tweettext": "analysis for CVE-2023-22518\nconfluence unauth RCE\n\nhttps://t.co/fQrejfcPA6\n\n​https://t.co/eNWmwtqcTh https://t.co/jfvC4CLrdp",
+    "tweettime": "2023-11-02, 10:10:23",
+    "tweeturl": "https://twitter.com/chybeta/status/1720020520132137382",
+    "username": "chybeta"
 }

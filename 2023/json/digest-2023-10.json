@@ -1,4 +1,24 @@
 {
+    "tweetfavorites": 310,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2023-46747  request smuggling to RCE https://t.co/cQgKyFsdg3",
+    "tweettime": "2023-10-29, 14:14:22",
+    "tweeturl": "https://twitter.com/chybeta/status/1718632371527029195",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "The CVE-2023-41990 (TrueType) entry was added to the iOS 15.7.8 (July 2023) and iOS 16.3 (Jan 2023) release notes in September with annotations of ITW exploitation.",
+    "tweettime": "2023-10-27, 10:46:39",
+    "tweeturl": "https://twitter.com/maddiestone/status/1717855323468255490",
+    "username": "maddiestone"
+}
+{
     "expanded_url": [
         "https://n1k0la-t.github.io/2023/10/24/Microsoft-Exchange-Server-CVE-2023-36745/"
     ],
@@ -48,6 +68,43 @@
     "username": "0vercl0k"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @thezdi: CVE-2023-38600: @hosselot tells the story of an innocent #Apple #Safari copyWithin gone (way) outside. Read all of the details…",
+    "tweettime": "2023-10-18, 17:00:10",
+    "tweeturl": "https://twitter.com/hosselot/status/1714687829065035845",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2023/CVE-2023-26369.html"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 110,
+    "tweettext": "RT @_clem1: I just published a new RCA for CVE-2023-26369, the PDF 0-day that was used in the following campaign. https://t.co/cwABjAOc38",
+    "tweettime": "2023-10-18, 06:03:26",
+    "tweeturl": "https://twitter.com/maddiestone/status/1714522558890995970",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://blog.talosintelligence.com/active-exploitation-of-cisco-ios-xe-software/",
+        "https://vulncheck.com/blog/cisco-implants"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 41,
+    "tweettext": "Vulnerability Flash Alert - One You Can't Ignore\n🔥 0day ITW exploitation of CVE-2023-20198 \n💥 Thousands of Cisco IOS XE compromised \n☣️ Malware implants w/ HighPrivs installed on them\n🔟 CVSS 10.0, no patch or no workaround\n\n1. https://t.co/nYyBAB6Jby\n2. https://t.co/YxZpODMzmO",
+    "tweettime": "2023-10-17, 20:38:19",
+    "tweeturl": "https://twitter.com/BushidoToken/status/1714380340557439071",
+    "username": "BushidoToken"
+}
+{
     "expanded_url": [
         "https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/"
     ],
@@ -72,4 +129,27 @@
     "tweettime": "2023-10-13, 16:30:04",
     "tweeturl": "https://twitter.com/0xor0ne/status/1712868312885899663",
     "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2023/CVE-2023-36802.html"
+    ],
+    "tweetfavorites": 238,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 90,
+    "tweettext": "🔮NEW RCA!! A few hours after it was patched, TAG found an ITW exploit sample for CVE-2023-36802. @benoitsevens analyzed it in detail ✨\n\nhttps://t.co/uPkFuA5KPm",
+    "tweettime": "2023-10-11, 21:53:55",
+    "tweeturl": "https://twitter.com/maddiestone/status/1712225038437609891",
+    "username": "maddiestone"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "RT @zhuowei: For CVE-2023-42824, vm_object-&gt;vo_copy now has an extra generation count.\nIn vm_object_copy_delayed, after setting vo_copy, it…",
+    "tweettime": "2023-10-09, 20:11:20",
+    "tweeturl": "https://twitter.com/maddiestone/status/1711474447369351495",
+    "username": "maddiestone"
 }

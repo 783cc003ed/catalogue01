@@ -35,6 +35,29 @@
     "username": "momika233"
 }
 {
+    "tweetfavorites": 352,
+    "tweetquotes": 3,
+    "tweetreplies": 7,
+    "tweetretweets": 83,
+    "tweettext": "CVE-2023-3390: UAF on Linux Netfilter nftables MFT_MSG_NEWRULE leads to LPE.\nWe exploit this tiny 1-day vuln to pwn all targets of Google's kernelCTF for the first time in history.\nNice and clear triple-kill 🥳 https://t.co/kkWjiCZy8R",
+    "tweettime": "2023-07-27, 00:24:30",
+    "tweeturl": "https://twitter.com/c0m0r1/status/1684359067295420416",
+    "username": "c0m0r1"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=1432603"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "The sandbox escape bug entry is now open also (CVE-2023-2136):\nhttps://t.co/tJuOfWGDz3",
+    "tweettime": "2023-07-26, 01:57:03",
+    "tweeturl": "https://twitter.com/hosselot/status/1684019971863482368",
+    "username": "hosselot"
+}
+{
     "expanded_url": [
         "https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt"
     ],
@@ -46,6 +69,19 @@
     "tweettime": "2023-07-22, 01:18:46",
     "tweeturl": "https://twitter.com/momika233/status/1682560787087503360",
     "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=1432210"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "The bug entry is now open with a PoC (CVE-2023-2033):\nhttps://t.co/jw2h9peUTW",
+    "tweettime": "2023-07-19, 19:00:01",
+    "tweeturl": "https://twitter.com/hosselot/status/1681740693084188674",
+    "username": "hosselot"
 }
 {
     "tweetfavorites": 48,

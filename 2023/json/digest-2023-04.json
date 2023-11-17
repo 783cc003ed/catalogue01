@@ -23,6 +23,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/7128"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 5,
+    "tweetreplies": 6,
+    "tweetretweets": 42,
+    "tweettext": "CVE-2023-20864 - VMware Aria Operations for Logs / Log Insight Pre-Authentication RCE PoC.\n\n@pdnuclei Template - https://t.co/Hgc0Nm70Cf \n\ncc @iamnoooob @wvuuuuuuuuuuuuu ! https://t.co/MBwLUboCgz",
+    "tweettime": "2023-04-25, 15:27:12",
+    "tweeturl": "https://twitter.com/rootxharsh/status/1650884170363846656",
+    "username": "rootxharsh"
+}
+{
+    "expanded_url": [
         "https://vulncheck.com/blog/cve-2023-1671-analysis"
     ],
     "tweetfavorites": 63,
@@ -65,10 +78,10 @@
         "https://skia.googlesource.com/skia.git/+/1cbd33ecd73523f8d4bf88e9c5576303b39e5556",
         "https://skia.googlesource.com/skia.git/+/4dc748f14c6650cb45c7086a39af1760bfda41d2"
     ],
-    "tweetfavorites": 64,
-    "tweetquotes": 0,
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 17,
     "tweettext": "And here is Chrome sandbox escape fix (Integer overflow in Skia (CVE-2023-2136)):\nhttps://t.co/cU6dTN906G\n\nhttps://t.co/rsy8HMz8iv",
     "tweettime": "2023-04-19, 14:40:11",
     "tweeturl": "https://twitter.com/hosselot/status/1648698008249171968",
@@ -130,10 +143,10 @@
     "expanded_url": [
         "https://chromium.googlesource.com/v8/v8.git/+/c605df24af3cf95e313391b542eb57b04d642e7a"
     ],
-    "tweetfavorites": 57,
+    "tweetfavorites": 72,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 9,
+    "tweetretweets": 12,
     "tweettext": "Apparently, recent Chrome actively exploited zero-day vulnerability (CVE-2023-2033: type confusion in V8 engine) happens during handling of \"ErrorCaptureStackTrace\" builtin with Proxy involved. Here is the fix:\nhttps://t.co/YV5R3CYEbM",
     "tweettime": "2023-04-15, 14:17:00",
     "tweeturl": "https://twitter.com/hosselot/status/1647242623386542080",

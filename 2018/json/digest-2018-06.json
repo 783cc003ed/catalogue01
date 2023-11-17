@@ -87,10 +87,10 @@
     "username": "dhaval_kapil"
 }
 {
-    "tweetfavorites": 285,
+    "tweetfavorites": 283,
     "tweetquotes": 6,
     "tweetreplies": 5,
-    "tweetretweets": 155,
+    "tweetretweets": 153,
     "tweettext": "UAF exploit in WebKit's JavaScriptCore library (CVE-2016-4657) landed in @metasploit !! First #iOS exploit in #metasploit since 2012 and one of the vuln used by the #Pegasus spyware. Awesome project by @timwr backed up by @qwertyoruiopz @s1guza @thimstar works #PhoenixNonce https://t.co/0d63HeXVex",
     "tweettime": "2018-06-03, 09:45:34",
     "tweeturl": "https://twitter.com/ddouhine/status/1003211078623551488",
