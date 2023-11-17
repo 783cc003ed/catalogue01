@@ -261,10 +261,10 @@
     "expanded_url": [
         "https://labs.bluefrostsecurity.de/blog/2020/01/07/cve-2019-1215-analysis-of-a-use-after-free-in-ws2ifsl/"
     ],
-    "tweetfavorites": 119,
+    "tweetfavorites": 118,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 60,
+    "tweetretweets": 59,
     "tweettext": "Full writeup and exploit of Windows kernel ws2ifsl use-after-free (CVE-2019-1215) via @bluefrostsec and @flxflndy\n\nhttps://t.co/bC2O3rmNaV https://t.co/XvilzbqrOp",
     "tweettime": "2020-02-03, 13:37:02",
     "tweeturl": "https://twitter.com/_ringzer0/status/1224325925606699010",

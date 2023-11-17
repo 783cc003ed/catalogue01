@@ -19,6 +19,16 @@
     "username": "maddiestone"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 88,
+    "tweettext": "RT @ESETresearch: #ESETResearch discovered a zero-day XSS vulnerability (#CVE-2023-5631) in Roundcube Webmail servers. It is actively used…",
+    "tweettime": "2023-10-25, 10:35:56",
+    "tweeturl": "https://twitter.com/cherepanov74/status/1717127848622690463",
+    "username": "cherepanov74"
+}
+{
     "expanded_url": [
         "https://n1k0la-t.github.io/2023/10/24/Microsoft-Exchange-Server-CVE-2023-36745/"
     ],

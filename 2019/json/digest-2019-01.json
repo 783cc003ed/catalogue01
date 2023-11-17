@@ -65,10 +65,10 @@
     "expanded_url": [
         "https://github.com/0x36/CVE-pocs/blob/master/CVE-2018-4420-atm-uaf.c"
     ],
-    "tweetfavorites": 74,
+    "tweetfavorites": 68,
     "tweetquotes": 0,
-    "tweetreplies": 4,
-    "tweetretweets": 11,
+    "tweetreplies": 3,
+    "tweetretweets": 9,
     "tweettext": "CVE-2018-4420 by @_simo36\nPOC of iOS kernel UAF\nthis is fixed on iOS 12.1.\nhttps://t.co/VAJxFtfCYW\n#rJailbreakNews #iOS12",
     "tweettime": "2019-01-10, 20:44:07",
     "tweeturl": "https://twitter.com/JailbreakReal/status/1083464528010964992",
@@ -78,10 +78,10 @@
     "expanded_url": [
         "https://github.com/0x36/CVE-pocs/blob/master/CVE-2018-4420-atm-uaf.c"
     ],
-    "tweetfavorites": 349,
+    "tweetfavorites": 339,
     "tweetquotes": 5,
     "tweetreplies": 6,
-    "tweetretweets": 134,
+    "tweetretweets": 131,
     "tweettext": "a POC of an iOS kernel UAF  I found last year, CVE-2018-4420 fixed in 12.1, this requires host_priv port to be triggered. more bugs soon \nhttps://t.co/3zY4nXTsbF",
     "tweettime": "2019-01-10, 20:39:26",
     "tweeturl": "https://twitter.com/_simo36/status/1083463346395979783",

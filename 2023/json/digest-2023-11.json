@@ -23,6 +23,19 @@
 }
 {
     "expanded_url": [
+        "https://www.synacktiv.com/publications/magento-template-engine-a-story-of-cve-2022-24086.html"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "Magento Template Engine, a story of CVE-2022-24086 https://t.co/jsfdoFpXbG",
+    "tweettime": "2023-11-16, 22:55:40",
+    "tweeturl": "https://twitter.com/Dinosn/status/1725286539784007918",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/"
     ],
     "tweetfavorites": 180,
@@ -36,6 +49,19 @@
 }
 {
     "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36025"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "OK, this is now fixed with CVE-2023-36025\nWith this update, SmartScreen will engage if the remote (SMB/WebDav) target lives inside of a ZIP file.\nPrior to the update, remote targets inside of a ZIP got no SmartScreen warning love.\nPublicly disclosed: No\n🤷\nhttps://t.co/YwXHHCdBsj https://t.co/elisTPaU7e",
+    "tweettime": "2023-11-16, 13:46:53",
+    "tweeturl": "https://twitter.com/wdormann/status/1725148437115473947",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36558"
     ],
     "tweetfavorites": 42,
@@ -46,6 +72,20 @@
     "tweettime": "2023-11-15, 08:29:09",
     "tweeturl": "https://twitter.com/irsdl/status/1724706088329638243",
     "username": "irsdl"
+}
+{
+    "expanded_url": [
+        "https://lock.cmpxchg8b.com/reptar.html",
+        "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00950.html"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "If you like weird CPU bugs, check out Reptar CVE-2023-23583:\nhttps://t.co/Xj2woGdlvV\nAffected Intel CPUs include:\nIce Lake\nRocket Lake\nTiger Lake\nRaptor Lake\nAlder Lake\nSapphire Rapids\nApply those firmware updates!\nhttps://t.co/FsC0I7D5KC",
+    "tweettime": "2023-11-14, 18:08:28",
+    "tweeturl": "https://twitter.com/wdormann/status/1724489491031695651",
+    "username": "wdormann"
 }
 {
     "expanded_url": [

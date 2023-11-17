@@ -69,6 +69,19 @@
 }
 {
     "expanded_url": [
+        "https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/"
+    ],
+    "tweetfavorites": 237,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 90,
+    "tweettext": "In this post I'll use CVE-2023-3420, an incorrect side effect modelling bug in the JIT compiler that I reported to Chrome, to gain a sandboxed remote code execution in the renderer: https://t.co/mFdIXuM7xY",
+    "tweettime": "2023-09-26, 15:12:48",
+    "tweeturl": "https://twitter.com/mmolgtm/status/1706688276801667114",
+    "username": "mmolgtm"
+}
+{
+    "expanded_url": [
         "https://chromium.googlesource.com/v8/v8.git/+/ae7dc61652805bc8e2b060d53b2b6da7cf846b6f"
     ],
     "tweetfavorites": 91,

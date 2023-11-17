@@ -370,10 +370,10 @@
     "expanded_url": [
         "https://github.com/Neo23x0/sigma/blob/master/rules/windows/process_creation/win_exploit_cve_2020_1350.yml"
     ],
-    "tweetfavorites": 261,
+    "tweetfavorites": 257,
     "tweetquotes": 5,
     "tweetreplies": 5,
-    "tweetretweets": 152,
+    "tweetretweets": 149,
     "tweettext": "Sigma rule to detect the exploitation of Windows DNS RCE CVE-2020-1350\n\n- a long shot looking for spawned sub processes of dns.exe (requires parent logging &gt; e.g. Sysmon)\n- plz report false positives\n\nhttps://t.co/pzJni5aCUh https://t.co/qi8g6XvqDm",
     "tweettime": "2020-07-15, 09:19:42",
     "tweeturl": "https://twitter.com/cyb3rops/status/1283330388002246657",

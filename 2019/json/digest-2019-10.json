@@ -91,7 +91,7 @@
 {
     "tweetfavorites": 95,
     "tweetquotes": 2,
-    "tweetreplies": 5,
+    "tweetreplies": 4,
     "tweetretweets": 55,
     "tweettext": "#0day CVE-2019-16278 RCE\nNostromo httpd is prone to 2 cricital \nvulnerabilities for versions &lt;= 1.9.6 \n\nfirst one is an RCE through directory transversal\nsecond one is a DoS (CVE-2019-16279) https://t.co/Q1nvRze8aN",
     "tweettime": "2019-10-15, 03:28:07",
