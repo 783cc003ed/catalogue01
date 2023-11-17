@@ -38,10 +38,10 @@
     "expanded_url": [
         "https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490"
     ],
-    "tweetfavorites": 268,
+    "tweetfavorites": 263,
     "tweetquotes": 5,
     "tweetreplies": 8,
-    "tweetretweets": 94,
+    "tweetretweets": 91,
     "tweettext": "Here's the LPE PoC exploit for CVE-2021-3490. It works on fresh installs of both Ubuntu 20.10 and 21.04\nhttps://t.co/uTVx6TLF7e",
     "tweettime": "2021-07-29, 17:40:28",
     "tweeturl": "https://twitter.com/chompie1337/status/1420801410917089281",
@@ -51,10 +51,10 @@
     "expanded_url": [
         "https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story"
     ],
-    "tweetfavorites": 1869,
-    "tweetquotes": 39,
+    "tweetfavorites": 1854,
+    "tweetquotes": 38,
     "tweetreplies": 37,
-    "tweetretweets": 595,
+    "tweetretweets": 594,
     "tweettext": "So excited to finally release my blog post- Kernel Pwning with eBPF: a Love Story. I cover eBPF, the verifier, debugging, exploitation, mitigations and other cool findings! I do root cause analysis and exploit CVE-2021-3490 for LPE with PoC included. https://t.co/pWt1psHEFa",
     "tweettime": "2021-07-29, 17:38:23",
     "tweeturl": "https://twitter.com/chompie1337/status/1420800888273244162",
@@ -708,10 +708,10 @@
     "expanded_url": [
         "https://github.com/sailay1996/PrintNightmare-LPE"
     ],
-    "tweetfavorites": 75,
+    "tweetfavorites": 74,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 24,
+    "tweetretweets": 23,
     "tweettext": "created poc for NT SYSTEM \n\nLocal Privilege Escalation of PrintNightmare\n\nhttps://t.co/YBTZjo0UNz\n\n#PrintNightmare #cve-2021-1675 #lpe https://t.co/7cmrn9SJGs",
     "tweettime": "2021-07-05, 14:40:32",
     "tweeturl": "https://twitter.com/404death/status/1412058823104208898",

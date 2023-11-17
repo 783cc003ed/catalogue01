@@ -35,6 +35,16 @@
     "username": "zapstiko"
 }
 {
+    "tweetfavorites": 233,
+    "tweetquotes": 10,
+    "tweetreplies": 9,
+    "tweetretweets": 110,
+    "tweettext": "⚠️ CRITICAL ALERT\n🚨 ZERO-DAY on Chrome\n\nGoogle has patched the fifth Chrome zero-day vulnerability exploited in attacks since the start of the year in emergency security updates released today.\n\nUPDATE YOUR DEVICES NOW &amp; PLEASE SHARE!\n\nCVE-2023-5217 https://t.co/ErkYnLWleG",
+    "tweettime": "2023-09-27, 22:38:56",
+    "tweeturl": "https://twitter.com/wallet_guard/status/1707162938669142435",
+    "username": "wallet_guard"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -131,6 +141,19 @@
 }
 {
     "expanded_url": [
+        "https://exploits.forsale/themebleed/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2023-38146: Arbitrary Code Execution via Windows Themes. A series of issues exist on Windows 11 which can lead to arbitrary code being executed when a user loads a .theme file.\n\nPoC\nhttps://t.co/8TEHPZjO0w https://t.co/SbZz9R9gJH",
+    "tweettime": "2023-09-14, 09:04:17",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1702246880439099715",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html"
     ],
     "tweetfavorites": 121,
@@ -154,6 +177,29 @@
     "tweettime": "2023-09-12, 15:52:12",
     "tweeturl": "https://twitter.com/Fox0x01/status/1701624762059895228",
     "username": "Fox0x01"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 98,
+    "tweettext": "RT @0xor0ne: CVE-2022-34718: Patch analysis, bug identification and exploit development (Windows TCP/IP Remote Code Execution Vulnerability…",
+    "tweettime": "2023-09-12, 07:50:40",
+    "tweeturl": "https://twitter.com/_odisseus/status/1701503581906497645",
+    "username": "_odisseus"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/09/google-rushes-to-patch-critical-chrome.html"
+    ],
+    "tweetfavorites": 483,
+    "tweetquotes": 14,
+    "tweetreplies": 10,
+    "tweetretweets": 306,
+    "tweettext": "Urgent: Google releases patch for a new Chrome zero-day #vulnerability (CVE-2023-4863) that's being exploited in the wild.\n\nRead: https://t.co/41SANY0lKi\n\nDon't wait—update your browser now to protect against potential cyber threats.\n\n#cybersecurity #informationsecurity",
+    "tweettime": "2023-09-12, 05:17:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1701465123095785662",
+    "username": "TheHackersNews"
 }
 {
     "expanded_url": [
@@ -213,6 +259,19 @@
     "tweettime": "2023-09-04, 11:34:53",
     "tweeturl": "https://twitter.com/TodayCyberNews/status/1698660901845700942",
     "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://cert.gov.ua/article/5661411"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 89,
+    "tweettext": "RT @blackorbird: #GhostWriter Used CVE-2023-38831 to construct malware.\nhttps://t.co/oolDetFliU https://t.co/tVIgCENaV3",
+    "tweettime": "2023-09-02, 15:03:28",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1697988619347063272",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [

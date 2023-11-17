@@ -61,6 +61,29 @@
     "username": "wdormann"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "RT @blackorbird: #Sandworm have breached Danish energy sector companies. \nVery nice timeline analysis.#DigitalForensics\nCVE-2023-28771 + CV…",
+    "tweettime": "2023-11-15, 16:11:33",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1724822455208784245",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/11/new-poc-exploit-for-apache-activemq.html"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 55,
+    "tweettext": "⚠️ New PoC exploit for CVE-2023-46604 flaw in Apache ActiveMQ could let attackers stealthily execute malicious code.\n\nCVSS score: 10.0! Are your servers secure?\n\nLearn more about this critical vulnerability: https://t.co/YbLnOHUQ4K\n\n#cybersecurity #hacking",
+    "tweettime": "2023-11-15, 13:49:58",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1724786822830800972",
+    "username": "TheHackersNews"
+}
+{
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36558"
     ],
@@ -72,6 +95,46 @@
     "tweettime": "2023-11-15, 08:29:09",
     "tweeturl": "https://twitter.com/irsdl/status/1724706088329638243",
     "username": "irsdl"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/11/reptar-new-intel-cpu-vulnerability.html"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 93,
+    "tweettext": "Intel releases critical fixes for a high-severity CPU #vulnerability called \"Reptar\" (CVE-2023-23583) that affects multi-tenant virtualized environments, allowing privilege escalation, information disclosure and DoS attacks.\n\n🔗 Read more: https://t.co/HeLM8BpKfC\n\n#cybersecurity",
+    "tweettime": "2023-11-15, 07:54:22",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1724697332967493949",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://hunter.how/list?searchValue=web.title%3D%22SolarWinds%20Network%20Management%22%20and%20web.body%3D%22%2FSolarWinds.css%22",
+        "https://www.solarwinds.com/trust-center/security-advisories/cve-2023-40054"
+    ],
+    "tweetfavorites": 119,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "🚨Alert🚨CVE-2023-40054\nDirectory Traversal Remote Code Execution Vulnerability\n🔗Hunter:https://t.co/78djgdsP4w\nDorks 👇👇👇\nFOFA app=\"SolarWinds-Network-Management\"\n\n📰Refer to  https://t.co/mQ045rgdFz\n#infosec #infosecurity #Infosys #Vulnerability #cybersecurity https://t.co/9Hg7Ioqkws",
+    "tweettime": "2023-11-15, 03:05:51",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1724624725358583841",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/11/cachewarp-attack-new-vulnerability-in.html"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "🔒💻 Researchers found a #vulnerability in AMD's SEV technology, called CacheWarp (CVE-2023-20592), that allows privilege escalation and remote code execution in virtual machines.\n\n📰 Full story: https://t.co/JG86bazXGm\n\n#cybersecurity #informationsecurity",
+    "tweettime": "2023-11-14, 18:42:41",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1724498099283059036",
+    "username": "TheHackersNews"
 }
 {
     "expanded_url": [
@@ -125,6 +188,19 @@
     "tweettime": "2023-11-10, 23:51:36",
     "tweeturl": "https://twitter.com/stephenfewer/status/1723126289203110124",
     "username": "stephenfewer"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2023/11/09/etr-cve-2023-47246-sysaid-zero-day-vulnerability-exploited-by-lace-tempest/"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "A small bit of potentially good news on the new SysAid 0day (CVE-2023-47246) — it looks like there are only a few hundred servers exposed to the internet. https://t.co/HKLlyqCkFQ",
+    "tweettime": "2023-11-09, 14:23:09",
+    "tweeturl": "https://twitter.com/catc0n/status/1722620847029186594",
+    "username": "catc0n"
 }
 {
     "expanded_url": [

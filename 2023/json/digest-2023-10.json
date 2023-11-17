@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2023-20198: Cisco Cisco IOS XE is aware of active exploitation ..  This vulnerability allows a remote, unauthenticated attacker to create an account on an affected system with privilege level 15 access.\n\nPoC\nhttps://t.co/MTfvAtJL3b https://t.co/ysKgV68wls",
+    "tweettime": "2023-10-31, 09:18:54",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1719282790821240955",
+    "username": "cyber_advising"
+}
+{
     "tweetfavorites": 310,
     "tweetquotes": 2,
     "tweetreplies": 4,
@@ -7,6 +20,19 @@
     "tweettime": "2023-10-29, 14:14:22",
     "tweeturl": "https://twitter.com/chybeta/status/1718632371527029195",
     "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/"
+    ],
+    "tweetfavorites": 184,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 78,
+    "tweettext": "CVE-2023-46747: Compromising F5 BIG-IP With Request Smuggling. bypass configuration utility authentication, allowing an attacker with network access to the BIG-IP .... to execute arbitrary system commands. \n\nPoC\nhttps://t.co/hJ50WrUqv8 https://t.co/lKyjxF5OOD",
+    "tweettime": "2023-10-27, 10:51:38",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1717856574293606621",
+    "username": "cyber_advising"
 }
 {
     "tweetfavorites": 39,
@@ -27,6 +53,19 @@
     "tweettime": "2023-10-25, 10:35:56",
     "tweeturl": "https://twitter.com/cherepanov74/status/1717127848622690463",
     "username": "cherepanov74"
+}
+{
+    "expanded_url": [
+        "https://n1k0la-t.github.io/2023/10/24/Microsoft-Exchange-Server-CVE-2023-36745/"
+    ],
+    "tweetfavorites": 242,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 80,
+    "tweettext": "CVE-2023-36745:  Microsoft Exchange Server Remote Code Execution Vulnerability.\n\nPoC\nhttps://t.co/t7kkChV08Z https://t.co/UFUmuYBOy7",
+    "tweettime": "2023-10-25, 07:12:11",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1717076572539117655",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [
@@ -76,6 +115,19 @@
     "tweettime": "2023-10-23, 06:44:30",
     "tweeturl": "https://twitter.com/0vercl0k/status/1716344831260143739",
     "username": "0vercl0k"
+}
+{
+    "expanded_url": [
+        "https://github.com/horizon3ai/CVE-2023-34051"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 37,
+    "tweettext": "CVE-2023-34051: VMware Aria Operations for Logs contains an authentication bypass vulnerability. An unauthenticated, malicious actor can inject files into the operating system of an impacted appliance which can result in remote code execution.\n\nPoC\nhttps://t.co/Usl4Nx8Zvv https://t.co/9QZwLddFSl",
+    "tweettime": "2023-10-21, 17:44:02",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1715786031587303601",
+    "username": "cyber_advising"
 }
 {
     "tweetfavorites": 0,
@@ -152,6 +204,32 @@
     "tweettime": "2023-10-11, 21:53:55",
     "tweeturl": "https://twitter.com/maddiestone/status/1712225038437609891",
     "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://github.com/Wh04m1001/CVE-2023-36723"
+    ],
+    "tweetfavorites": 99,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "CVE-2023-36723 · Windows Container Manager Service Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/8tOyWsjryP https://t.co/kWdEMfrku4",
+    "tweettime": "2023-10-11, 11:46:16",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1712072118265868298",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://shorturl.at/qQVX4"
+    ],
+    "tweetfavorites": 609,
+    "tweetquotes": 10,
+    "tweetreplies": 13,
+    "tweetretweets": 242,
+    "tweettext": "🚨 Hundreds of Citrix VPN instances exploited via CVE-2023-3519 are harvesting corporate credentials in cleartext.\n\nAt this time, Shodan shows 406 compromised instances with malicious JavaScript code injected into the login page: https://t.co/AiG1RAOTAP (URL shortener because… https://t.co/EjfpsleMPe",
+    "tweettime": "2023-10-10, 10:15:19",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1711686844490936568",
+    "username": "1ZRR4H"
 }
 {
     "tweetfavorites": 0,

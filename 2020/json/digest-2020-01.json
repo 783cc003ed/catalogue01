@@ -48,10 +48,10 @@
     "expanded_url": [
         "https://www.openwall.com/lists/oss-security/2020/01/28/3"
     ],
-    "tweetfavorites": 157,
+    "tweetfavorites": 155,
     "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 96,
+    "tweetretweets": 95,
     "tweettext": "Qualys Security Advisory:  LPE and RCE (CVE-2020-7247) in OpenSMTPD, OpenBSD's mail server.  Erroneous logic in smtp_mailaddr() which validates user and domain. More details and PoC at: https://t.co/jjTJaqYgUO\n\nPS:  \"Did you ever play tic-tac-toe?\"",
     "tweettime": "2020-01-28, 23:16:46",
     "tweeturl": "https://twitter.com/pozdnychev/status/1222297493339361281",
@@ -172,10 +172,10 @@
     "expanded_url": [
         "https://github.com/ptresearch/AttackDetection/blob/master/CVE-2020-0601/cve-2020-0601.rules"
     ],
-    "tweetfavorites": 57,
+    "tweetfavorites": 55,
     "tweetquotes": 4,
     "tweetreplies": 0,
-    "tweetretweets": 29,
+    "tweetretweets": 26,
     "tweettext": "Scared by latest CVE-2020-0601 certificate spoofing vulnerability? We did a #suricata detection rule for you. It covers all known exploitations of TLS certificates and executable signing. Find it here: https://t.co/0J5HvEE6Vl\n#ChainOfFools #CurveBall",
     "tweettime": "2020-01-18, 16:54:22",
     "tweeturl": "https://twitter.com/AttackDetection/status/1218577379515387907",

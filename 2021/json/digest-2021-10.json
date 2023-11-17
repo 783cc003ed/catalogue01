@@ -221,10 +221,10 @@
         "https://securityforeveryone.com/blog/google-chrome-zero-day-vulnerability-cve-2021-30573",
         "https://github.com/s4e-lab/CVE-2021-30573-PoC-Google-Chrome"
     ],
-    "tweetfavorites": 57,
+    "tweetfavorites": 54,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 24,
+    "tweetretweets": 22,
     "tweettext": "Google Chrome Vulnerability Worth for $6K : Use After Free (CVE-2021-30573) : https://t.co/XPEfv6e2FO \n\nCVE-2021-30573-PoC-Google-Chrome : https://t.co/ohNJyFiZ8Z\n\ncredits @secforeveryone",
     "tweettime": "2021-10-24, 13:52:27",
     "tweeturl": "https://twitter.com/binitamshah/status/1452271774641672200",
@@ -401,8 +401,8 @@
     "expanded_url": [
         "https://github.com/ollypwn/CallbackHell"
     ],
-    "tweetfavorites": 277,
-    "tweetquotes": 4,
+    "tweetfavorites": 275,
+    "tweetquotes": 3,
     "tweetreplies": 1,
     "tweetretweets": 103,
     "tweettext": "I've created a PoC (DoS) for CVE-2021-40449 (Win32k - LPE) with a technical writeup, commented code, and steps to further exploit the vulnerability. Before going further myself, I thought I'd share this.\n\nhttps://t.co/wKjw5iZIjb",

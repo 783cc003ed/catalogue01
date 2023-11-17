@@ -615,6 +615,16 @@
     "username": "DailyDarkWeb"
 }
 {
+    "tweetfavorites": 185,
+    "tweetquotes": 13,
+    "tweetreplies": 8,
+    "tweetretweets": 85,
+    "tweettext": "🚨 CHROME 0-DAY: CVE-2023-3079\n\nNew Zero-Day in Chrome is being actively exploited in the wild leading to Chrome issuing an emergency update. This is another type confusion vulnerability that can lead to arbitrary code execution on your device. \n\nUPDATE YOUR DEVICES NOW! https://t.co/8wbycoKgdN",
+    "tweettime": "2023-06-06, 16:10:00",
+    "tweeturl": "https://twitter.com/wallet_guard/status/1666115231347605504",
+    "username": "wallet_guard"
+}
+{
     "expanded_url": [
         "https://chromereleases.googleblog.com/2023/06/stable-channel-update-for-desktop.html"
     ],

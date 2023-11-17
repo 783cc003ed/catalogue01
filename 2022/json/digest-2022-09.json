@@ -472,7 +472,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-34718"
     ],
-    "tweetfavorites": 68,
+    "tweetfavorites": 65,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 18,
@@ -521,10 +521,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37969"
     ],
-    "tweetfavorites": 249,
-    "tweetquotes": 6,
+    "tweetfavorites": 247,
+    "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 96,
+    "tweetretweets": 95,
     "tweettext": "ThreatLabz discovered a #0day #exploit that targeted CVE-2022-37969 on fully patched Windows 10 and Windows 11 systems. This vulnerability was addressed in today's #PatchTuesday. More information can be found here: https://t.co/jqdxmadTtj https://t.co/eYGihXX6fV",
     "tweettime": "2022-09-13, 21:58:52",
     "tweeturl": "https://twitter.com/Threatlabz/status/1569807855238402048",
