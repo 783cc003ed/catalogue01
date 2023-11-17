@@ -437,10 +437,10 @@
         "https://googleprojectzero.blogspot.com/2020/01/remote-iphone-exploitation-part-2.html",
         "https://googleprojectzero.blogspot.com/2020/01/remote-iphone-exploitation-part-3.html"
     ],
-    "tweetfavorites": 376,
+    "tweetfavorites": 369,
     "tweetquotes": 3,
-    "tweetreplies": 2,
-    "tweetretweets": 174,
+    "tweetreplies": 1,
+    "tweetretweets": 170,
     "tweettext": "Remote iPhone Exploitation 📱🔥\nPart 1: Poking Memory via iMessage and CVE-2019-8641\nhttps://t.co/GP6p9EHiZ1\nPart 2: a Remote ASLR Bypass\nhttps://t.co/VvJHLgqIIc\nPart 3: Gaining Code Execution\nhttps://t.co/WejOZvI6rP\n#MobileSecurity #iOSsecurity by @5aelo and @ProjectZeroBugs https://t.co/VxdXHuDxb1",
     "tweettime": "2020-01-09, 19:57:51",
     "tweeturl": "https://twitter.com/mobilesecurity_/status/1215362064543375360",

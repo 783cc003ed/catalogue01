@@ -13,6 +13,34 @@
 }
 {
     "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/SSzCU"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 10,
+    "tweettext": "CVE-2023-40176, -40177, -40572, -40573: Multiple vuln in XWiki, 9.0-9.9 rating 🔥\n\nFresh RCE, Privelege Escalation and stored XSS in XWiki Platform.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/HBmQiaDgBw\n\n#cybersecurity #vulnerability_map https://t.co/uB5BOS2kx2",
+    "tweettime": "2023-08-25, 18:00:01",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1695133944511873259",
+    "username": "Netlas_io"
+}
+{
+    "expanded_url": [
+        "https://github.com/0vercl0k/clairvoyance",
+        "https://bugs.fuchsia.dev/p/fuchsia/issues/detail?id=88451"
+    ],
+    "tweetfavorites": 231,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 45,
+    "tweettext": "At the end on 2021, I spent a week porting https://t.co/vZoBaD91pb to learn about ARM64 MMU. I found a weird bug in Google's Fuchsia MMU subsystem (CVE-2021-22566) 🔮🪲\n\nIt recently got derestricted, so sharing it in case somebody finds it interesting: https://t.co/XlKRlBfM6h 🙏🏽 https://t.co/yY860cRkh5",
+    "tweettime": "2023-08-21, 15:24:53",
+    "tweeturl": "https://twitter.com/0vercl0k/status/1693645355928154362",
+    "username": "0vercl0k"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/cve-2023-40477-winrar-code-execution-vulnerability/"
     ],
     "tweetfavorites": 691,

@@ -38,6 +38,16 @@
     "username": "the_yellow_fall"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 88,
+    "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-4069, a type confusion bug in the Maglev JIT compiler of Chrome that I reported in July, to gai…",
+    "tweettime": "2023-10-23, 06:44:30",
+    "tweeturl": "https://twitter.com/0vercl0k/status/1716344831260143739",
+    "username": "0vercl0k"
+}
+{
     "expanded_url": [
         "https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/"
     ],
@@ -49,4 +59,17 @@
     "tweettime": "2023-10-17, 15:23:10",
     "tweeturl": "https://twitter.com/mmolgtm/status/1714301029146099903",
     "username": "mmolgtm"
+}
+{
+    "expanded_url": [
+        "https://big5-sec.github.io/posts/CVE-2023-29360-analysis/"
+    ],
+    "tweetfavorites": 162,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 48,
+    "tweettext": "Analysis of CVE-2023-29360 (LPE in Windows mskssrv driver)\n\nhttps://t.co/zSWI8EmPZd\n\n#lpe #exploit #cybersecurity https://t.co/Z0unm1CND8",
+    "tweettime": "2023-10-13, 16:30:04",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1712868312885899663",
+    "username": "0xor0ne"
 }

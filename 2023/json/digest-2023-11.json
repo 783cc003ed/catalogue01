@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://www.synacktiv.com/publications/magento-template-engine-a-story-of-cve-2022-24086"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 9,
+    "tweettext": "Uncovering the hidden risks of a one-year-old Magento CVE! The next article by @_bluesheet in our web frameworks analysis series delves into the intricacies of CVE-2022-24086, a template engine flaw leading to a Remote Code Execution in this popular CMS.\nhttps://t.co/2couUVhKA7",
+    "tweettime": "2023-11-17, 09:26:33",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1725445308656538056",
+    "username": "Synacktiv"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -62,6 +75,19 @@
 }
 {
     "expanded_url": [
+        "https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification"
+    ],
+    "tweetfavorites": 108,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 37,
+    "tweettext": "New #ZeroDay abused by #Cl0p #ransomware affiliate!\n#CVE-2023-47246 is a Path Traversal vulnerability in #SysAid On-Prem software leading to code execution. \nIn the observed case it was abused to deploy a #Webshell on the affected system.\n\nhttps://t.co/CIzGY2gCAk",
+    "tweettime": "2023-11-09, 11:23:25",
+    "tweeturl": "https://twitter.com/Gi7w0rm/status/1722575618225709567",
+    "username": "Gi7w0rm"
+}
+{
+    "expanded_url": [
         "https://github.com/sule01u/CVE-2023-46604"
     ],
     "tweetfavorites": 39,
@@ -72,4 +98,17 @@
     "tweettime": "2023-11-09, 10:23:30",
     "tweeturl": "https://twitter.com/TodayCyberNews/status/1722560539547840543",
     "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
+    ],
+    "tweetfavorites": 229,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 68,
+    "tweettext": "Windows privilege escalation through Use-After-Free (UAF) in win32kfull (CVE-2023-21822)\nInteresting writeup by Marcin Wiązowski (@thezdi)\n\nhttps://t.co/Q3j7bxjs44\n\n#exploit #Windows #infosec https://t.co/eCiIS8xueo",
+    "tweettime": "2023-11-08, 19:01:01",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1722328386280849899",
+    "username": "0xor0ne"
 }

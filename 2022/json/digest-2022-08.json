@@ -136,7 +136,7 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/advisories/ZDI-22-1077/"
     ],
-    "tweetfavorites": 98,
+    "tweetfavorites": 96,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 31,
@@ -342,10 +342,10 @@
     "expanded_url": [
         "https://labs.nettitude.com/blog/cve-2022-30211-windows-l2tp-vpn-memory-leak-and-use-after-free-vulnerability/"
     ],
-    "tweetfavorites": 52,
+    "tweetfavorites": 49,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 15,
     "tweettext": "CVE-2022-30211: Zero-day in Microsoft's L2TP VPN, discovered by @i4mchr00t. This Memory Leak and Use after Free bug leads to DoS, and could potentially be exploited for Remote Code Execution.\n\nhttps://t.co/W0XWPZCNWF",
     "tweettime": "2022-08-17, 16:02:01",
     "tweeturl": "https://twitter.com/Nettitude_Labs/status/1559933576749121536",

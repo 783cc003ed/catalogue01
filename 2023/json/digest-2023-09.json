@@ -12,6 +12,16 @@
     "username": "0xor0ne"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 90,
+    "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-3420, an incorrect side effect modelling bug in the JIT compiler that I reported to Chrome, to…",
+    "tweettime": "2023-09-27, 14:53:59",
+    "tweeturl": "https://twitter.com/0vercl0k/status/1707045929713639602",
+    "username": "0vercl0k"
+}
+{
     "expanded_url": [
         "https://www.zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
     ],
