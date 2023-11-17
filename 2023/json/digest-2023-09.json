@@ -12,6 +12,32 @@
     "username": "0xor0ne"
 }
 {
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
+    ],
+    "tweetfavorites": 256,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "Interesting reading on Windows privilege escalation through Use-After-Free (UAF) in win32kfull (CVE-2023-21822)\nCredits Marcin Wiązowski (@thezdi)\n\nhttps://t.co/H842SjZa71\n\n#exploit #Windows #infosec https://t.co/c5H0IwuJt2",
+    "tweettime": "2023-09-24, 07:30:02",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1705847042843492538",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-released-for-chrome-zero-day-cve-2023-4863-vulnerability/"
+    ],
+    "tweetfavorites": 83,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "PoC released for Chrome zero-day CVE-2023-4863 vulnerability https://t.co/PaGnSvv4gq",
+    "tweettime": "2023-09-22, 17:56:13",
+    "tweeturl": "https://twitter.com/Dinosn/status/1705279848279584988",
+    "username": "Dinosn"
+}
+{
     "tweetfavorites": 349,
     "tweetquotes": 3,
     "tweetreplies": 4,
@@ -33,4 +59,14 @@
     "tweettime": "2023-09-13, 02:31:35",
     "tweeturl": "https://twitter.com/blackorbird/status/1701785666005430395",
     "username": "blackorbird"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 1,
+    "tweettext": "The past week I completely failed to port a Chrome sandbox escape exploit for CVE-2021-30633 to Chrome 90. And by completely, I mean _completely_. This is not something I've attempted before, and I have learned so much in the process.... but man, do I feel like a failure 😆",
+    "tweettime": "2023-09-04, 13:19:24",
+    "tweeturl": "https://twitter.com/ajxchapman/status/1698687203419828522",
+    "username": "ajxchapman"
 }

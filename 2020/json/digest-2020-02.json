@@ -17,10 +17,10 @@
         "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0688",
         "https://github.com/NVISO-BE/sigma-public/blob/web_exchange_cve_2020_0688_exploit/rules/web/web_exchange_cve_2020_0688_exploit.yml"
     ],
-    "tweetfavorites": 216,
+    "tweetfavorites": 212,
     "tweetquotes": 6,
     "tweetreplies": 2,
-    "tweetretweets": 134,
+    "tweetretweets": 132,
     "tweettext": "This morning, PoC code to abuse CVE-2020-0688 (Microsoft Exchange Validation Key Remote Code Execution Vulnerability) was released. In case you haven't done so, it's time to patch, patch, patch! https://t.co/DvqHexydpq\n\nOur sigma rule to detect this: https://t.co/fXalEL0F6Z",
     "tweettime": "2020-02-27, 11:56:41",
     "tweeturl": "https://twitter.com/NVISO_Labs/status/1232997983655993346",

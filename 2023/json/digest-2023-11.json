@@ -1,0 +1,65 @@
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36558"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 6,
+    "tweettext": "CVE-2023-36558 \"An unauthenticated attacker could bypass validations on Blazor Server forms\": https://t.co/lyvwYs11zL\n\nReported by @blowdart 😊 Not sure we are going to see any post from him though 😱",
+    "tweettime": "2023-11-15, 08:29:09",
+    "tweeturl": "https://twitter.com/irsdl/status/1724706088329638243",
+    "username": "irsdl"
+}
+{
+    "expanded_url": [
+        "https://github.com/chromium/chromium/commit/4997f2ba263ff7e1dbc7987dd3665459be14dffe"
+    ],
+    "tweetfavorites": 70,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "\"Tianfu Cup 2023\" Chrome use-after-free vulnerability in WebAudio (CVE-2023-5996 [1497859]) is fixed by ignoring channel count update after the context is closed:\nhttps://t.co/9wZdcSA3FB",
+    "tweettime": "2023-11-13, 16:47:06",
+    "tweeturl": "https://twitter.com/hosselot/status/1724106627106603492",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://github.com/d5sec/CVE-2021-43609-POC"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "CVE-2021-43609\n\nA SQLi in a sort parameter of Spiceworks. The full exploit chain is SQLi -&gt; file read -&gt; RCE.\n\nhttps://t.co/5DwmM2aoRa\n\n#cve #cybersecurity #infosec https://t.co/1tg4q9qrE7",
+    "tweettime": "2023-11-11, 12:14:17",
+    "tweeturl": "https://twitter.com/hack_git/status/1723313191763984563",
+    "username": "hack_git"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2023/11/10/metasploit-weekly-wrap-up-35/"
+    ],
+    "tweetfavorites": 154,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 61,
+    "tweettext": "This week's @metasploit release includes our unauth RCE exploit against Cisco IOS XE (CVE-2023-20198 and CVE-2023-20273), get all the details here: https://t.co/QatqBDxKgL https://t.co/fupSi3EH5l",
+    "tweettime": "2023-11-10, 23:51:36",
+    "tweeturl": "https://twitter.com/stephenfewer/status/1723126289203110124",
+    "username": "stephenfewer"
+}
+{
+    "expanded_url": [
+        "https://github.com/sule01u/CVE-2023-46604"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "☄️ CVE-2023-46604: Apache ActiveMQ RCE\n\nThe vulnerability allows arbitrary shell commands to be executed using serialized class types in the OpenWire protocol 👺\n\n 📣 Link to PoC:\nhttps://t.co/jeieLiNsgk\n\n#cve #rce #exploit #Cybersecurity #infosec",
+    "tweettime": "2023-11-09, 10:23:30",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1722560539547840543",
+    "username": "TodayCyberNews"
+}

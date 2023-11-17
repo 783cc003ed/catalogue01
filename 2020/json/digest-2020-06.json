@@ -235,10 +235,10 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 636,
+    "tweetfavorites": 627,
     "tweetquotes": 6,
     "tweetreplies": 7,
-    "tweetretweets": 268,
+    "tweetretweets": 266,
     "tweettext": "Demo of #EvilPrinter (CVE-2020-1300). Remote SYSTEM shell with just one connection attempt.\nAlso LPE and Sandbox Escape from Edge renderer on all modern Windows versions. https://t.co/VToEqCAAtb",
     "tweettime": "2020-06-12, 16:54:03",
     "tweeturl": "https://twitter.com/R3dF09/status/1271485928989528064",
