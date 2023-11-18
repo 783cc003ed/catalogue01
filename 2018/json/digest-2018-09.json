@@ -90,7 +90,7 @@
     "tweetfavorites": 68,
     "tweetquotes": 6,
     "tweetreplies": 9,
-    "tweetretweets": 70,
+    "tweetretweets": 68,
     "tweettext": "Strange. @Adobe's advisory says CVE-2018-15967 is privilege escalation (information disclosure) issue and important in severity.\n\nWhereas, @Microsoft's advisory says CVE-2018-15967 is a remote code execution bug with critical severity.",
     "tweettime": "2018-09-11, 17:17:00",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1039563472827244544",

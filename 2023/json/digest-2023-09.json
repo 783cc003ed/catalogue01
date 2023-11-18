@@ -267,6 +267,19 @@
     "username": "hosselot"
 }
 {
+    "expanded_url": [
+        "https://github.com/bjrjk/CVE-2022-4262/blob/main/CVE-2022-4262.md"
+    ],
+    "tweetfavorites": 123,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "More good stuff on Chrome RCE vuln research: @bjrjk wrote a super deep dive analysis of CVE-2022-4262, a non-trivial type confusion in v8 JavaScript engine which I reverse-engineered from patch early this year and briefly covered in my PHDays talk in May:  https://t.co/lhWuQPXngG…",
+    "tweettime": "2023-09-07, 08:33:17",
+    "tweeturl": "https://twitter.com/alisaesage/status/1699702365337870413",
+    "username": "alisaesage"
+}
+{
     "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 3,
@@ -285,6 +298,19 @@
     "tweettime": "2023-09-04, 11:34:53",
     "tweeturl": "https://twitter.com/TodayCyberNews/status/1698660901845700942",
     "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/sinsinology/CVE-2023-34039"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "POC for CVE-2023-34039 VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE\nhttps://t.co/rEymx6tdxy",
+    "tweettime": "2023-09-03, 03:07:10",
+    "tweeturl": "https://twitter.com/momika233/status/1698170745644630308",
+    "username": "momika233"
 }
 {
     "expanded_url": [

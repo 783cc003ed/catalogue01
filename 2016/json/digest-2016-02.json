@@ -5,7 +5,7 @@
     "tweetfavorites": 64,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 83,
+    "tweetretweets": 81,
     "tweettext": "CVE-2016-2384 arbitrary code execution due to a double-free in the usb-midi linux kernel driver - https://t.co/QfhW4oOecp bonus: SMEP bypass",
     "tweettime": "2016-02-22, 06:45:09",
     "tweeturl": "https://twitter.com/gN3mes1s/status/701658969278967808",

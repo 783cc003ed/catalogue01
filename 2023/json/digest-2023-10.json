@@ -145,6 +145,19 @@
 }
 {
     "expanded_url": [
+        "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
+    ],
+    "tweetfavorites": 248,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 66,
+    "tweettext": "Linux kernel exploitation writeup by @ExodusIntel\nCVE-2022-32250 : use-after-free targeting Linux kernel 5.18.1 \n\nhttps://t.co/W6U8j5bZtq\n\n#Linux #kernel #exploit #cve #infosec #cybersecurity https://t.co/b1osYO4V6O",
+    "tweettime": "2023-10-24, 16:30:15",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1716854626899702179",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
         "https://n1k0la-t.github.io/2023/10/24/Microsoft-Exchange-Server-CVE-2023-36745/"
     ],
     "tweetfavorites": 0,
@@ -193,6 +206,16 @@
     "username": "0vercl0k"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @cyber_advising: CVE-2023-34051: VMware Aria Operations for Logs contains an authentication bypass vulnerability. An unauthenticated, ma…",
+    "tweettime": "2023-10-22, 11:28:23",
+    "tweeturl": "https://twitter.com/momika233/status/1716053883313967372",
+    "username": "momika233"
+}
+{
     "expanded_url": [
         "https://github.com/horizon3ai/CVE-2023-34051"
     ],
@@ -204,6 +227,19 @@
     "tweettime": "2023-10-21, 17:44:02",
     "tweeturl": "https://twitter.com/cyber_advising/status/1715786031587303601",
     "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/abuyv/CVElab/tree/main/cves/cve-2023-20198"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 45,
+    "tweettext": "CVE-2023-20198 Cisco IOS XE Vulnerability NSE Script for Nmap\nhttps://t.co/thVZSlp2mI",
+    "tweettime": "2023-10-20, 09:23:00",
+    "tweeturl": "https://twitter.com/momika233/status/1715297556878725470",
+    "username": "momika233"
 }
 {
     "tweetfavorites": 0,

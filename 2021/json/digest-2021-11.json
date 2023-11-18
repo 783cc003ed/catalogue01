@@ -64,9 +64,9 @@
     "expanded_url": [
         "https://valhalla.nextron-systems.com/info/rule/EXPL_Windows_InstallerFileTakeOver_CVE_2021_41379_Nov21_1"
     ],
-    "tweetfavorites": 206,
+    "tweetfavorites": 203,
     "tweetquotes": 3,
-    "tweetreplies": 3,
+    "tweetreplies": 2,
     "tweetretweets": 74,
     "tweettext": "Within the 48h since our rule for CVE-2021-41379 Windows LPE 0day exploit codes is active, we've noticed 30 different samples with more and less AV detection coverage\n\nI you've found more, please let me know\n\nrule info with links to each sample\nhttps://t.co/SqUFOHvV1j https://t.co/Bz8dqOB5qV",
     "tweettime": "2021-11-24, 12:37:39",

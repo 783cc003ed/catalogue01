@@ -39,6 +39,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/alalng/CVE-2022-44789"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "Read my writeup and exploit for a Use-After-Free Vulnerability in Artifex MuJS (CVE-2022-44789): https://t.co/BvF3PkKemm \n\nHope some of the techniques used can help pwners in solving future MuJS CTF challs.🙂 https://t.co/fQ5W5lrku4",
+    "tweettime": "2023-01-29, 23:30:36",
+    "tweeturl": "https://twitter.com/alngpwn/status/1619840465876193281",
+    "username": "alngpwn"
+}
+{
+    "expanded_url": [
         "https://github.com/alt3kx/CVE-2023-24055_PoC"
     ],
     "tweetfavorites": 226,

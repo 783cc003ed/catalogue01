@@ -53,6 +53,16 @@
     "tweetreplies": 0,
     "tweetretweets": 48,
     "tweettext": "RT @wdormann: OK, this is now fixed with CVE-2023-36025\nWith this update, SmartScreen will engage if the remote (SMB/WebDav) target lives i…",
+    "tweettime": "2023-11-16, 18:35:05",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1725220962684043769",
+    "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 48,
+    "tweettext": "RT @wdormann: OK, this is now fixed with CVE-2023-36025\nWith this update, SmartScreen will engage if the remote (SMB/WebDav) target lives i…",
     "tweettime": "2023-11-16, 16:30:37",
     "tweeturl": "https://twitter.com/kmkz_security/status/1725189641056190864",
     "username": "kmkz_security"
@@ -118,6 +128,19 @@
     "tweettime": "2023-11-15, 08:29:09",
     "tweeturl": "https://twitter.com/irsdl/status/1724706088329638243",
     "username": "irsdl"
+}
+{
+    "expanded_url": [
+        "https://github.com/blackorbird/APT_REPORT/blob/master/Sandworm/sektorcert-angrebet-mod-dansk-kritisk-infrastruktur-tlp-clear-en.pdf"
+    ],
+    "tweetfavorites": 96,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "#Sandworm have breached Danish energy sector companies. \nVery nice timeline analysis.#DigitalForensics\nCVE-2023-28771 + CVE-2023-33009 + CVE-2023-33010\nhttps://t.co/z0eToaVTtQ https://t.co/qikuIqmZTk",
+    "tweettime": "2023-11-15, 08:01:00",
+    "tweeturl": "https://twitter.com/blackorbird/status/1724699004016234686",
+    "username": "blackorbird"
 }
 {
     "expanded_url": [
@@ -303,6 +326,19 @@
     "tweettime": "2023-11-07, 16:16:59",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1721924719077700072",
     "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://malwaretech.com/2019/09/bluekeep-a-journey-from-dos-to-rce-cve-2019-0708.html"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "BlueKeep: A Journey from DoS to RCE (CVE-2019-0708) – MalwareTech\n\nhttps://t.co/YyF8tqg4tN",
+    "tweettime": "2023-11-05, 22:30:25",
+    "tweeturl": "https://twitter.com/tbbhunter/status/1721293919978143837",
+    "username": "tbbhunter"
 }
 {
     "tweetfavorites": 42,

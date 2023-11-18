@@ -252,10 +252,10 @@
     "expanded_url": [
         "https://www.veeam.com/kb4288"
     ],
-    "tweetfavorites": 465,
-    "tweetquotes": 12,
+    "tweetfavorites": 457,
+    "tweetquotes": 11,
     "tweetreplies": 7,
-    "tweetretweets": 190,
+    "tweetretweets": 188,
     "tweettext": "🔥 Veeam fixed an Unauth RCE (CVE-2022-26500, CVE-2022-26501) in Veeam Backup &amp; Replication and a Local Privilege Escalation (CVE-2022-26503) in Veeam Agent for Microsoft Windows found by our researcher @ultrayoba.\n\nAdvisory: https://t.co/tRYsKBn3HD https://t.co/0zMluR7Zki",
     "tweettime": "2022-03-14, 13:21:32",
     "tweeturl": "https://twitter.com/ptswarm/status/1503360681978077185",
