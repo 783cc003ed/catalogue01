@@ -77,7 +77,7 @@
     "expanded_url": [
         "https://securityaffairs.co/wordpress/124917/hacking/microsoft-exchange-cve-2021-42321-rce-poc.html?utm_source=feedly&utm_medium=rss&utm_campaign=microsoft-exchange-cve-2021-42321-rce-poc"
     ],
-    "tweetfavorites": 93,
+    "tweetfavorites": 91,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 29,
@@ -133,10 +133,10 @@
     "username": "r00t_nasser"
 }
 {
-    "tweetfavorites": 400,
+    "tweetfavorites": 392,
     "tweetquotes": 12,
     "tweetreplies": 9,
-    "tweetretweets": 154,
+    "tweetretweets": 149,
     "tweettext": "You can detect the exploitation of Windows InstallerFileTakeOver LPE CVE-2021-41379 with the published PoC with events from the 'Application' Eventlog\n\nSearch for EventID 1033 and the keyword 'test pkg' https://t.co/ypqqfKTROK",
     "tweettime": "2021-11-22, 09:16:56",
     "tweeturl": "https://twitter.com/cyb3rops/status/1462711685484101634",

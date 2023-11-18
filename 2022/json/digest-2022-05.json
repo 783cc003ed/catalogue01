@@ -333,10 +333,10 @@
     "username": "steventseeley"
 }
 {
-    "tweetfavorites": 215,
+    "tweetfavorites": 213,
     "tweetquotes": 1,
     "tweetreplies": 4,
-    "tweetretweets": 31,
+    "tweetretweets": 30,
     "tweettext": "My first two CVEs of 2022 have been published: \nCVE-2022-21908: Microsoft Windows Installer LPE\nCVE-2022-26751: Apple AppleGraphicsControl component RCE (when rendering the thumbnail of a file) affecting macOS, iOS and iPadOS.",
     "tweettime": "2022-05-16, 21:54:43",
     "tweeturl": "https://twitter.com/izobashi/status/1526320265684213760",

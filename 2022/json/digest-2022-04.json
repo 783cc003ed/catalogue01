@@ -381,10 +381,10 @@
     "expanded_url": [
         "https://www.rapid7.com/blog/post/2022/04/12/cve-2022-24527-microsoft-connected-cache-local-privilege-escalation-fixed/"
     ],
-    "tweetfavorites": 151,
+    "tweetfavorites": 150,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 48,
+    "tweetretweets": 47,
     "tweettext": "Here's a pretty obvious LPE I found in Microsoft Connected Cache (CVE-2022-24527): https://t.co/KWre7iUDpg",
     "tweettime": "2022-04-12, 22:15:25",
     "tweeturl": "https://twitter.com/Junior_Baines/status/1514004288804204544",

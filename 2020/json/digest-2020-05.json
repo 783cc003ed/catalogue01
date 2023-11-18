@@ -18,7 +18,7 @@
     "tweetfavorites": 81,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 42,
+    "tweetretweets": 41,
     "tweettext": "The 3rd part of my XPC series is up. This time I cover the Microsoft Auto Update LPE vulnerability (CVE-2020-0984) I found last year and was fixed recently. Great example for why proper client verification is extremely important.\nhttps://t.co/6HZKbarrra",
     "tweettime": "2020-05-29, 05:55:16",
     "tweeturl": "https://twitter.com/theevilbit/status/1266246713150328832",
