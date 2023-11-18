@@ -91,10 +91,10 @@
     "expanded_url": [
         "https://exploiter.dev/blog/2022/CVE-2022-2602.html"
     ],
-    "tweetfavorites": 126,
+    "tweetfavorites": 125,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 52,
+    "tweetretweets": 51,
     "tweettext": "@kiks7_7 and I released a blogpost about the exploitation of CVE-2022-2602: a Linux use-after-free vulnerability in the io_uring subsystem.\n https://t.co/e0X0JsxzRb",
     "tweettime": "2022-12-21, 07:55:07",
     "tweeturl": "https://twitter.com/LukeGix/status/1605471913563680768",
@@ -104,10 +104,10 @@
     "expanded_url": [
         "https://blog.hacktivesecurity.com/index.php/2022/12/21/cve-2022-2602-dirtycred-file-exploitation-applied-on-an-io_uring-uaf/"
     ],
-    "tweetfavorites": 65,
+    "tweetfavorites": 61,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 23,
+    "tweetretweets": 21,
     "tweettext": "https://t.co/UHU4aH4xyu A new blog post by our Security Researcher @kiks7_7  on a very interesting bug (CVE-2022-2602 without a public exploit) that impacts the io_uring subsystem with an Use-After-Free vulnerability.\n\n#cybersecurity #infosec #exploitation #training https://t.co/A8VYk8X1qw",
     "tweettime": "2022-12-21, 06:22:23",
     "tweeturl": "https://twitter.com/hacktivesec/status/1605448579337916419",

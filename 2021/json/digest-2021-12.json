@@ -25,10 +25,10 @@
     "expanded_url": [
         "https://github.com/pjlantz/optee-qemu/blob/main/README.md"
     ],
-    "tweetfavorites": 109,
+    "tweetfavorites": 105,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 37,
+    "tweetretweets": 34,
     "tweettext": "CVE-2021-44733: Fuzzing and exploitation of a use-after-free in the Linux kernel TEE subsystem\n\nAn article about a bug in the Trusted Execution Environment subsystem. By Patrik Lantz @pjlantz.\n\nhttps://t.co/dPaOV5MV4S",
     "tweettime": "2021-12-28, 16:45:41",
     "tweeturl": "https://twitter.com/linkersec/status/1475870580540850179",

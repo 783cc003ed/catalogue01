@@ -224,10 +224,10 @@
     "expanded_url": [
         "https://github.com/maxpl0it/CVE-2020-0674-Exploit"
     ],
-    "tweetfavorites": 474,
-    "tweetquotes": 10,
+    "tweetfavorites": 476,
+    "tweetquotes": 9,
     "tweetreplies": 5,
-    "tweetretweets": 203,
+    "tweetretweets": 202,
     "tweettext": "Here's my exploit for CVE-2020-0674 (Internet Explorer UAF)\n\nBonus: EMET 5.52 (the final EMET version) doesn't appear to detect this (on Windows x64 it seems)\n\nhttps://t.co/IxCfpjGBqv",
     "tweettime": "2020-05-07, 22:03:52",
     "tweeturl": "https://twitter.com/maxpl0it/status/1258517934718062594",

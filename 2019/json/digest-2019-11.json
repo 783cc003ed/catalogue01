@@ -119,7 +119,7 @@
 {
     "tweetfavorites": 73,
     "tweetquotes": 1,
-    "tweetreplies": 3,
+    "tweetreplies": 2,
     "tweetretweets": 12,
     "tweettext": "So tonight Microsoft fixed 3 vulnerabilities I reported in Windows Font processing affecting Kernel in Windows before 10:\nCVE-2019-1419: RCE in Windows 10 and below.\nCVE-2019-1456: RCE in Windows 10 and below.\nCVE-2019-1412: Windows Kernel information disclosure.",
     "tweettime": "2019-11-12, 21:16:19",

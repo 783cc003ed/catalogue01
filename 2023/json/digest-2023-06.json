@@ -225,6 +225,19 @@
     "username": "cyber_advising"
 }
 {
+    "expanded_url": [
+        "https://github.com/j00sean/CVE-2022-44666#jar-files-as-payload"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape vulnerability (CVE-2022-44666) (0day). https://t.co/hOx0hmtnOS  #Pentesting #vulnerability #Windows  #CyberSecurity #Infosec https://t.co/KZCi24V0Fs",
+    "tweettime": "2023-06-19, 21:00:32",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1670899388468568066",
+    "username": "ptracesecurity"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,

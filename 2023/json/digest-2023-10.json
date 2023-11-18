@@ -319,6 +319,19 @@
 }
 {
     "expanded_url": [
+        "https://research.checkpoint.com/2023/stayin-alive-targeted-attacks-against-telecoms-and-government-ministries-in-asia/"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 38,
+    "tweettext": "Uncovering Stayin’ Alive operation, active since at least 2021:\n\n📞 Targets telecoms in Asia 🇰🇿🇺🇿🇻🇳🇵🇰\n\n🛠️ Spearphishing + DLL side-loading  (such as CVE-2022-23748 in Zoom)\n\n🐱 Linked to a China-affiliated threat actor, referred as ToddyCat\n\n👉 Read more: https://t.co/4Hz0fTYY3d https://t.co/mkVlxjef5B",
+    "tweettime": "2023-10-11, 17:01:15",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1712151387897753697",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
         "https://github.com/Wh04m1001/CVE-2023-36723"
     ],
     "tweetfavorites": 99,
