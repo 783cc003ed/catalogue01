@@ -465,6 +465,16 @@
     "username": "maddiestone"
 }
 {
+    "tweetfavorites": 697,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 168,
+    "tweettext": "🚨 #VMWare Pre-Authenticated Remote Code Execution (CVE-2023-20887) #PoC is ready https://t.co/6fi4keigOE",
+    "tweettime": "2023-06-13, 13:47:23",
+    "tweeturl": "https://twitter.com/SinSinology/status/1668616053856030725",
+    "username": "SinSinology"
+}
+{
     "expanded_url": [
         "https://labs.watchtowr.com/xortigate-or-cve-2023-27997/"
     ],

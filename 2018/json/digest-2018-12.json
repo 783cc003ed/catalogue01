@@ -35,10 +35,10 @@
     "expanded_url": [
         "https://github.com/kozmic/laravel-poc-CVE-2018-15133"
     ],
-    "tweetfavorites": 150,
+    "tweetfavorites": 149,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 84,
+    "tweetretweets": 82,
     "tweettext": "Laravel Remote Code Execution when APP_KEY is leaked PoC (CVE-2018-15133)\n\nhttps://t.co/T4q3zS1KJx",
     "tweettime": "2018-12-11, 14:08:24",
     "tweeturl": "https://twitter.com/intx0x80/status/1072493305890516993",

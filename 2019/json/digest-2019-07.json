@@ -72,7 +72,7 @@
     "tweetfavorites": 134,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 68,
+    "tweetretweets": 67,
     "tweettext": "The Analysis of CVE-2019-11229 -- From Git Config to RCE is out now. Read more on Seebug Paper: https://t.co/2fWuk3c27R or https://t.co/n393uQAtV0.",
     "tweettime": "2019-07-24, 03:09:58",
     "tweeturl": "https://twitter.com/seebug_team/status/1153864873769668608",
@@ -108,10 +108,10 @@
     "expanded_url": [
         "https://www.corben.io/atlassian-crowd-rce/"
     ],
-    "tweetfavorites": 454,
+    "tweetfavorites": 452,
     "tweetquotes": 5,
     "tweetreplies": 9,
-    "tweetretweets": 211,
+    "tweetretweets": 208,
     "tweettext": "New blog post: Analysis of an Atlassian Crowd RCE - CVE-2019-11580 \n\nhttps://t.co/v7yXkhFtOQ",
     "tweettime": "2019-07-14, 21:26:25",
     "tweeturl": "https://twitter.com/hacker_/status/1150516924490637314",

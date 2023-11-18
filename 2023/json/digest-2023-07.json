@@ -168,6 +168,16 @@
     "username": "0xor0ne"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 95,
+    "tweettext": "RT @ricnar456: As promised, the research on CVE-2023-28252 is already published with its PoC and the detailed explanation of the reversing…",
+    "tweettime": "2023-07-01, 16:20:29",
+    "tweeturl": "https://twitter.com/fdfalcon/status/1675177563923136513",
+    "username": "fdfalcon"
+}
+{
     "expanded_url": [
         "https://bishopfox.com/blog/cve-2023-27997-exploitable-and-fortigate-firewalls-vulnerable"
     ],

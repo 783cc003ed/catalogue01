@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://github.com/0vercl0k/CVE-2021-28476"
     ],
-    "tweetfavorites": 1003,
+    "tweetfavorites": 986,
     "tweetquotes": 8,
     "tweetreplies": 7,
-    "tweetretweets": 392,
+    "tweetretweets": 385,
     "tweettext": "I built a PoC for CVE-2021-28476, a guest-to-host \"Hyper-V Remote Code Execution Vulnerability\" in vmswitch.sys: https://t.co/PPEHLHbPyw 🔥🔥 https://t.co/aKCAwk42gj",
     "tweettime": "2021-05-31, 21:18:17",
     "tweeturl": "https://twitter.com/0vercl0k/status/1399475341601607685",
@@ -296,10 +296,10 @@
     "expanded_url": [
         "https://github.com/0vercl0k/CVE-2021-31166"
     ],
-    "tweetfavorites": 1275,
-    "tweetquotes": 29,
+    "tweetfavorites": 1249,
+    "tweetquotes": 28,
     "tweetreplies": 14,
-    "tweetretweets": 568,
+    "tweetretweets": 558,
     "tweettext": "I've built a PoC for CVE-2021-31166 the \"HTTP Protocol Stack Remote Code Execution Vulnerability\":  https://t.co/8mqLCByvCp 🔥🔥 https://t.co/yzgUs2CQO5",
     "tweettime": "2021-05-16, 16:45:20",
     "tweeturl": "https://twitter.com/0vercl0k/status/1393970836302811138",

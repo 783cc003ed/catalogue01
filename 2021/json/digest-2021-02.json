@@ -678,10 +678,10 @@
     "expanded_url": [
         "https://gist.github.com/FanqXu/36c5e0070fd8e0b6646993b4e386a6b1"
     ],
-    "tweetfavorites": 42,
+    "tweetfavorites": 40,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 10,
     "tweettext": "Apache Druid Remote Code Execution\n\nPOC: https://t.co/lMihyXmEav\n\n#CVE-2021-25646 https://t.co/qZMWbL5yPI",
     "tweettime": "2021-02-02, 15:29:07",
     "tweeturl": "https://twitter.com/_0xf4n9x_/status/1356625706407653379",
