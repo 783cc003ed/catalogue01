@@ -12,7 +12,7 @@
     "username": "MsftSecIntel"
 }
 {
-    "tweetfavorites": 124,
+    "tweetfavorites": 125,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 25,
@@ -91,10 +91,10 @@
     "expanded_url": [
         "https://ti.qianxin.com/blog/articles/CVE-2023-28252-Analysis-of-In-the-Wild-Exploit-Sample-of-CLFS-Privilege-Escalation-Vulnerability/"
     ],
-    "tweetfavorites": 91,
+    "tweetfavorites": 92,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 33,
+    "tweetretweets": 34,
     "tweettext": "Windows CLFS #EoP #CVE-2023-28252\nAnalysis of in-the-wild exp sample and vuln root cause\n\nCheck out the report for more details: https://t.co/cuFstpbizn https://t.co/sD75wtWQlv",
     "tweettime": "2023-05-23, 10:54:57",
     "tweeturl": "https://twitter.com/RedDrip7/status/1660962515399094273",

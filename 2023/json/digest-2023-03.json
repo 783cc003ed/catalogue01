@@ -38,7 +38,7 @@
     "expanded_url": [
         "https://ti.qianxin.com/blog/articles/Analysis-of-In-the-wild-Attack-Samples-Exploiting-Outlook-Privilege-Escalation-Vulnerability-(CVE-2023-23397)-EN/"
     ],
-    "tweetfavorites": 42,
+    "tweetfavorites": 41,
     "tweetquotes": 4,
     "tweetreplies": 0,
     "tweetretweets": 21,
@@ -123,6 +123,19 @@
     "tweettime": "2023-03-24, 00:42:50",
     "tweeturl": "https://twitter.com/JimSycurity/status/1639065198119071745",
     "username": "JimSycurity"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/"
+    ],
+    "tweetfavorites": 203,
+    "tweetquotes": 5,
+    "tweetreplies": 3,
+    "tweetretweets": 89,
+    "tweettext": "The recent #Veeam vuln, CVE-2023-27532, enables an unauth attacker to interact with an API to obtain creds as well as RCE as SYSTEM.\n\nOur blog detailing the research and process of adapting the exploit to be cross-platform as well as the POC to dump creds:\nhttps://t.co/yhYhUMNDUq",
+    "tweettime": "2023-03-23, 12:22:58",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1638879006056411136",
+    "username": "Horizon3Attack"
 }
 {
     "expanded_url": [
