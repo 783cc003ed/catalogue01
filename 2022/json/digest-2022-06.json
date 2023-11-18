@@ -12,10 +12,10 @@
     "username": "GHSecurityLab"
 }
 {
-    "tweetfavorites": 204,
+    "tweetfavorites": 201,
     "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 52,
+    "tweetretweets": 51,
     "tweettext": "1) CVE-2021-21042 to disclosure user32.dll's base addr.\n2) CVE-2019-7040 to get RCE.\n\nNo sbx, so protected mode is off. To be released soon... https://t.co/b3DiUxcdZW",
     "tweettime": "2022-06-29, 18:23:23",
     "tweeturl": "https://twitter.com/j00sean/status/1542212146313969665",

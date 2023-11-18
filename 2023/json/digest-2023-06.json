@@ -64,6 +64,19 @@
     "username": "ptracesecurity"
 }
 {
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2023/06/19/minidlna-cve-2023-33476-exploits.html"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "chonked pt.2: exploiting cve-2023-33476 for remote code execution https://t.co/mBALFl9d3u  #Pentesting  #RCE #Exploit #CVE #CyberSecurity #Infosec https://t.co/2MPym2YrfY",
+    "tweettime": "2023-06-24, 15:00:39",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1672620761323012098",
+    "username": "ptracesecurity"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -667,7 +680,7 @@
     "expanded_url": [
         "https://github.com/hacksysteam/CVE-2023-21608"
     ],
-    "tweetfavorites": 361,
+    "tweetfavorites": 367,
     "tweetquotes": 6,
     "tweetreplies": 2,
     "tweetretweets": 142,

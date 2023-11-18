@@ -40,9 +40,22 @@
 }
 {
     "expanded_url": [
+        "https://ftnt.net/6013PUFWP"
+    ],
+    "tweetfavorites": 130,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "#FortiGuardLabs Threat Signal Report: Adobe ColdFusion Deserialization of Untrusted Data Vulnerabilities (CVE-2023-26359, CVE-2023-26360) ⮕ https://t.co/G7Qoiy9oTq https://t.co/Ey1RqXt8uH",
+    "tweettime": "2023-08-25, 17:14:30",
+    "tweeturl": "https://twitter.com/FortiGuardLabs/status/1695122493453844856",
+    "username": "FortiGuardLabs"
+}
+{
+    "expanded_url": [
         "https://github.com/Wh04m1001/CVE-2023-36874"
     ],
-    "tweetfavorites": 307,
+    "tweetfavorites": 306,
     "tweetquotes": 4,
     "tweetreplies": 8,
     "tweetretweets": 135,

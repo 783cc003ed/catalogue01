@@ -335,10 +335,10 @@
     "expanded_url": [
         "https://www.synacktiv.com/sites/default/files/2021-10/AppJailLauncher.pdf"
     ],
-    "tweetfavorites": 117,
+    "tweetfavorites": 116,
     "tweetquotes": 4,
     "tweetreplies": 0,
-    "tweetretweets": 53,
+    "tweetretweets": 52,
     "tweettext": "Logical sandbox escape in AppJailLauncher (fix in AppJailLauncher plus Microsoft CVE-2021-41346), thanks @thalium_team for the blog post that led to the discovery of the bugs !\nhttps://t.co/ukRwPogStZ https://t.co/1PJGGBfXcA",
     "tweettime": "2021-10-18, 13:40:02",
     "tweeturl": "https://twitter.com/masthoon/status/1450094320028106767",
@@ -861,10 +861,10 @@
     "expanded_url": [
         "https://github.com/snowyyowl/writeups/blob/main/CVE-2021-26084.md"
     ],
-    "tweetfavorites": 278,
+    "tweetfavorites": 277,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 99,
+    "tweetretweets": 98,
     "tweettext": "Finally my disclosure request has been approved and here's a write-up of CVE-2021-26084, Confluence RCE. Though not much to add than what's already known of the CVE and it's exploits, i'm simply outlining my approach that led to this CVE .\n\nhttps://t.co/as1qLqNqMD",
     "tweettime": "2021-10-05, 16:07:58",
     "tweeturl": "https://twitter.com/bennyyjacob/status/1445420510590824451",

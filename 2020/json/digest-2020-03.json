@@ -355,10 +355,10 @@
     "expanded_url": [
         "https://blog.talosintelligence.com/2020/03/microsoft-patch-tuesday-march-2020.html"
     ],
-    "tweetfavorites": 168,
+    "tweetfavorites": 164,
     "tweetquotes": 12,
     "tweetreplies": 7,
-    "tweetretweets": 127,
+    "tweetretweets": 121,
     "tweettext": "Give your Windows sysadmins a virtual hug. Looks like they may be busy for a while... Potentially wormable RCE in SMBv3 CVE-2020-0796 (which incidentally, I cannot find any MSFT disclosure for yet). Let's see what WannaCry and NotPetya taught us... https://t.co/gqhJx5h2zV https://t.co/cGlCH6QVN7",
     "tweettime": "2020-03-10, 17:41:38",
     "tweeturl": "https://twitter.com/dnlongen/status/1237433447309852674",
@@ -434,7 +434,7 @@
     "tweetfavorites": 118,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 36,
+    "tweetretweets": 35,
     "tweettext": "CVE-2020-5405: Directory Traversal with spring-cloud-config-server.  A malicious user, or attacker, can send a request using a specially crafted URL that can lead a directory traversal attack.\n\nAdvisory: https://t.co/kmDGjaDkD9 https://t.co/gVauD9p6em",
     "tweettime": "2020-03-06, 13:53:44",
     "tweeturl": "https://twitter.com/chybeta/status/1235926542397521927",

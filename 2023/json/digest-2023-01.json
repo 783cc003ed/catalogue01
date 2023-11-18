@@ -183,10 +183,10 @@
         "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24059",
         "https://www.reddit.com/r/gtaonline/comments/10hsosu/mass_reporting_the_dangerous_pc_exploit/"
     ],
-    "tweetfavorites": 417,
-    "tweetquotes": 16,
+    "tweetfavorites": 394,
+    "tweetquotes": 15,
     "tweetreplies": 8,
-    "tweetretweets": 98,
+    "tweetretweets": 90,
     "tweettext": "Grand Theft Auto V has been assigned CVE-2023-24059 for containing a partial Remote Code Execution exploit\n\nMore information: https://t.co/Cwxt6gDmpY\n\nGrand Theft Auto Online community discussion: https://t.co/JrcEhESlu3",
     "tweettime": "2023-01-23, 06:41:56",
     "tweeturl": "https://twitter.com/vxunderground/status/1617412298817130500",
@@ -224,7 +224,7 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
     ],
-    "tweetfavorites": 1074,
+    "tweetfavorites": 1073,
     "tweetquotes": 10,
     "tweetreplies": 14,
     "tweetretweets": 318,
@@ -817,7 +817,7 @@
     "expanded_url": [
         "https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/"
     ],
-    "tweetfavorites": 81,
+    "tweetfavorites": 80,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 34,

@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://www.synacktiv.com/advisories/multiple-vulnerabilities-in-glpi"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 7,
+    "tweettext": "Our ninja @__jbms__ found 4 vulnerabilities allowing to  compromise accounts and gain super-admin privileges on GLPI. Update to  10.0.10 and read the security details in the technical advisory: https://t.co/husDYRZtE2\nCVE-2023-41321 CVE-2023-43322 CVE-2023-41323 CVE-2023-43324",
+    "tweettime": "2023-10-31, 16:28:44",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1719390961610957164",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
         "https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/",
         "https://www.cisa.gov/guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities",
         "https://templates.nuclei.sh/public/CVE-2023-20198"

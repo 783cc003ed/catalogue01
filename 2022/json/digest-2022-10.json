@@ -23,7 +23,7 @@
         "https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis"
     ],
     "tweetfavorites": 34,
-    "tweetquotes": 3,
+    "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 22,
     "tweettext": "Technical Analysis of Windows CLFS Zero-Day Vulnerability CVE-2022-37969 - Part 2: Exploit Analysis https://t.co/v5rMjnscml #Pentesting #Windows  #Exploit #Vulnerability  #CyberSecurity #Infosec https://t.co/LvdLI7pv9b",
@@ -128,10 +128,10 @@
     "expanded_url": [
         "https://securityonline.info/researchers-release-poc-for-windows-tcp-ip-rce-flaw-cve-2022-34718/"
     ],
-    "tweetfavorites": 171,
+    "tweetfavorites": 168,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 72,
+    "tweetretweets": 71,
     "tweettext": "Researchers Release PoC for Windows TCP/IP RCE Flaw (CVE-2022-34718) https://t.co/E48KL9yzSO",
     "tweettime": "2022-10-26, 17:51:36",
     "tweeturl": "https://twitter.com/Dinosn/status/1585328304722411520",
@@ -1024,10 +1024,10 @@
     "expanded_url": [
         "https://github.com/CronUp/Vulnerabilidades/blob/main/proxynotshell_checker.nse"
     ],
-    "tweetfavorites": 1767,
-    "tweetquotes": 11,
-    "tweetreplies": 22,
-    "tweetretweets": 580,
+    "tweetfavorites": 1804,
+    "tweetquotes": 12,
+    "tweetreplies": 27,
+    "tweetretweets": 586,
     "tweettext": "I wrote a quick Nmap script to scan for servers potentially vulnerable to #ProxyNotShell (based on Microsoft's recommended URL blocking rule) I hope it can be useful for someone :)\n\n[+] https://t.co/QsCw3D0dr7\n\n#0day CVE-2022-40140 CVE-2022-41082 https://t.co/7Rzghqsfyi",
     "tweettime": "2022-10-02, 07:15:51",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1576471006373613569",

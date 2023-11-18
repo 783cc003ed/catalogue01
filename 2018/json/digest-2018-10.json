@@ -91,10 +91,10 @@
     "username": "joernchen"
 }
 {
-    "tweetfavorites": 170,
+    "tweetfavorites": 164,
     "tweetquotes": 4,
     "tweetreplies": 0,
-    "tweetretweets": 90,
+    "tweetretweets": 86,
     "tweettext": "CVE-2018-8265 and CVE-2018-8493 will keep a lot of people busy this month! Remote TCP/IP stack info disclosure &amp; RCE on Exchange via an email. The Exchange bug, if reliable, is WAY more troublesome.",
     "tweettime": "2018-10-10, 23:22:07",
     "tweeturl": "https://twitter.com/hkashfi/status/1050164602527473666",

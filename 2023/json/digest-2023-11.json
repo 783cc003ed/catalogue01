@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://www.synacktiv.com/publications/magento-template-engine-a-story-of-cve-2022-24086"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 54,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 9,
+    "tweetretweets": 19,
     "tweettext": "Uncovering the hidden risks of a one-year-old Magento CVE! The next article by @_bluesheet in our web frameworks analysis series delves into the intricacies of CVE-2022-24086, a template engine flaw leading to a Remote Code Execution in this popular CMS.\nhttps://t.co/2couUVhKA7",
     "tweettime": "2023-11-17, 09:26:33",
     "tweeturl": "https://twitter.com/Synacktiv/status/1725445308656538056",
@@ -46,6 +46,16 @@
     "tweettime": "2023-11-16, 22:55:40",
     "tweeturl": "https://twitter.com/Dinosn/status/1725286539784007918",
     "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 48,
+    "tweettext": "RT @wdormann: OK, this is now fixed with CVE-2023-36025\nWith this update, SmartScreen will engage if the remote (SMB/WebDav) target lives i…",
+    "tweettime": "2023-11-16, 16:30:37",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1725189641056190864",
+    "username": "kmkz_security"
 }
 {
     "expanded_url": [
@@ -280,6 +290,19 @@
     "tweettime": "2023-11-08, 19:01:01",
     "tweeturl": "https://twitter.com/0xor0ne/status/1722328386280849899",
     "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 2,
+    "tweetreplies": 12,
+    "tweetretweets": 32,
+    "tweettext": "🛡️ @CISAgov added 2 🆕 vulnerabilities to the Known Exploited Vulnerabilities Catalog: CVE-2023-46604: #Apache ActiveMQ Deserialization of Untrusted Data Vulnerability &amp; CVE-2023-29552: Service Location Protocol (SLP) Denial-of-Service Vulnerability. 👉https://t.co/myxOwap1Tf https://t.co/wT815lxT12",
+    "tweettime": "2023-11-07, 16:16:59",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1721924719077700072",
+    "username": "USCERT_gov"
 }
 {
     "tweetfavorites": 42,
