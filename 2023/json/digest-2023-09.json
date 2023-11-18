@@ -35,6 +35,19 @@
     "username": "zapstiko"
 }
 {
+    "expanded_url": [
+        "https://github.com/s3cb0y/CVE-2023-43770-POC"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "GitHub - s3cb0y/CVE-2023-43770-POC: A Proof-Of-Concept for the CVE-2023-43770 vulnerability. - https://t.co/0tSLo2vC2G",
+    "tweettime": "2023-09-28, 06:04:04",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1707274960434328021",
+    "username": "piedpiper1616"
+}
+{
     "tweetfavorites": 233,
     "tweetquotes": 10,
     "tweetreplies": 9,
@@ -102,6 +115,19 @@
     "tweettime": "2023-09-24, 15:31:42",
     "tweeturl": "https://twitter.com/hosselot/status/1705968257205670082",
     "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/to016/b796ca3275fa11b5ab9594b1522f7226"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @nguyendt016: POC for CVE-2023-41892 (Craft CMS Remote Code Execution):\nhttps://t.co/x5PMK0hOaS\n\n#CVE #CraftCMS",
+    "tweettime": "2023-09-24, 15:09:09",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1705962582774104064",
+    "username": "piedpiper1616"
 }
 {
     "expanded_url": [
@@ -218,7 +244,7 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
     ],
-    "tweetfavorites": 277,
+    "tweetfavorites": 278,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 98,

@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/W01fh4cker/CVE-2023-47246-EXP"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "GitHub - W01fh4cker/CVE-2023-47246-EXP: exploit for cve-2023-47246 SysAid RCE (shell upload) - https://t.co/yUEZgscSnX",
+    "tweettime": "2023-11-17, 14:10:07",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1725516669223915637",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
         "https://www.synacktiv.com/publications/magento-template-engine-a-story-of-cve-2022-24086"
     ],
     "tweetfavorites": 31,
@@ -111,6 +124,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/tandasat/CVE-2023-36427"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "GitHub - tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427 - https://t.co/nv8eec4Uib",
+    "tweettime": "2023-11-15, 06:09:13",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1724670872504676383",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
         "https://hunter.how/list?searchValue=web.title%3D%22SolarWinds%20Network%20Management%22%20and%20web.body%3D%22%2FSolarWinds.css%22",
         "https://www.solarwinds.com/trust-center/security-advisories/cve-2023-40054"
     ],
@@ -149,6 +175,20 @@
     "tweettime": "2023-11-14, 18:08:28",
     "tweeturl": "https://twitter.com/wdormann/status/1724489491031695651",
     "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/8625",
+        "https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification"
+    ],
+    "tweetfavorites": 154,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "Scan for latest CVE-2023-47246 (SysAid Server - Remote Code Execution) using nuclei templates\n\nTemplate: https://t.co/fS9ACW7xTt\n\nAdvisory: https://t.co/8AZNjyQF1O\n\n#hackwithautomation #appsec #bugbounty #cybersecurity https://t.co/Klcq5KiUsK",
+    "tweettime": "2023-11-14, 14:03:26",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1724427823174017141",
+    "username": "pdnuclei"
 }
 {
     "expanded_url": [

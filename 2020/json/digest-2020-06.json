@@ -211,7 +211,7 @@
         "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1045",
         "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1027"
     ],
-    "tweetfavorites": 80,
+    "tweetfavorites": 79,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 30,
@@ -395,7 +395,7 @@
     "tweetfavorites": 36,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 15,
+    "tweetretweets": 14,
     "tweettext": "CVE-2020-0796 | Windows SMBv3 Client/Server Remote Code Execution Vulnerability\n\nPOC\nhttps://t.co/A1KkMmCzf0 https://t.co/al3Ar5J20x",
     "tweettime": "2020-06-02, 10:36:41",
     "tweeturl": "https://twitter.com/cyber_advising/status/1267767083888259072",

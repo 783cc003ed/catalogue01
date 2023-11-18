@@ -1,5 +1,20 @@
 {
     "expanded_url": [
+        "https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/",
+        "https://www.cisa.gov/guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities",
+        "https://templates.nuclei.sh/public/CVE-2023-20198"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 42,
+    "tweettext": "Scan for Cisco IOS XE - Authentication Bypass (CVE-2023-20198) using nuclei template 🔯\n\nPOC - https://t.co/hTUIqCFtx6\n\nCISA Advisory - https://t.co/XWOSBra6HA\n\nTemplate: https://t.co/yeXHk2HDn2 \n\n#hackwithautomation #security #bugbounty #cisco",
+    "tweettime": "2023-10-31, 10:55:43",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1719307154153496576",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
         "https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/"
     ],
     "tweetfavorites": 78,
@@ -10,6 +25,31 @@
     "tweettime": "2023-10-31, 09:18:54",
     "tweeturl": "https://twitter.com/cyber_advising/status/1719282790821240955",
     "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 119,
+    "tweettext": "RT @Horizon3Attack: 🔍 New POC Available! We’ve developed a Proof of Concept for CVE-2023-20198 in #Cisco IOS XE. This authentication-bypass…",
+    "tweettime": "2023-10-31, 04:13:36",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1719205957681774926",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/8496",
+        "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/",
+        "https://my.f5.com/manage/s/article/K000137353"
+    ],
+    "tweetfavorites": 527,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 174,
+    "tweettext": "Scan for F5 BIG-IP - Unauthenticated RCE via AJP Smuggling (CVE-2023-46747) using nuclei templates shared by  @iamnoooob @rootxharsh \n\nTemplate - https://t.co/rRWXJTXS55\n\nAnalysis - https://t.co/F9Z7VKdL7j by @praetorianlabs\n\nAdvisory - https://t.co/5Rqei12XBR… https://t.co/fKE1dxU8ps",
+    "tweettime": "2023-10-29, 19:11:08",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1718707055308005468",
+    "username": "pdnuclei"
 }
 {
     "tweetfavorites": 310,
@@ -66,6 +106,29 @@
     "tweettime": "2023-10-25, 07:12:11",
     "tweeturl": "https://twitter.com/cyber_advising/status/1717076572539117655",
     "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://n1k0la-t.github.io/2023/10/24/Microsoft-Exchange-Server-CVE-2023-36745/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 71,
+    "tweettext": "RT @webdxg: Exchange Server CVE-2023-36745\nhttps://t.co/VDjXJiH3Kw\nStanding on the Shoulder of Giants @chudyPB .",
+    "tweettime": "2023-10-24, 23:18:34",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1716957382230827114",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "RT @Gi7w0rm: #Citrix Netscaler #CVE-2023-4966 PoC released.\n\nDupped \"Citrix Bleed\", it allows to leak sensitive info from Citrix devices.…",
+    "tweettime": "2023-10-24, 23:16:20",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1716956820902908139",
+    "username": "piedpiper1616"
 }
 {
     "expanded_url": [
@@ -217,6 +280,19 @@
     "tweettime": "2023-10-11, 11:46:16",
     "tweeturl": "https://twitter.com/cyber_advising/status/1712072118265868298",
     "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "GitHub - chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802: LPE exploit for CVE-2023-36802 - https://t.co/0BrOuIjOzC",
+    "tweettime": "2023-10-11, 07:26:58",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1712006864089854247",
+    "username": "piedpiper1616"
 }
 {
     "expanded_url": [
