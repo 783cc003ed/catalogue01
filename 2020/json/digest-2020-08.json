@@ -253,10 +253,10 @@
     "expanded_url": [
         "https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html"
     ],
-    "tweetfavorites": 346,
+    "tweetfavorites": 343,
     "tweetquotes": 4,
     "tweetreplies": 6,
-    "tweetretweets": 155,
+    "tweetretweets": 154,
     "tweettext": "Yesterday's Patch Tuesday included a PhoneBook use-after-free vulnerability (CVE-2020-1530) I reported. I decided to do a step-by-step write up on how I discovered it. It covers some basic sample gathering, harnessing, fuzzing, analysis and exploitation https://t.co/Uvyvy8CqX1",
     "tweettime": "2020-08-12, 12:56:28",
     "tweeturl": "https://twitter.com/symeonp/status/1293531800325754891",

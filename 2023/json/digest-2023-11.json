@@ -110,10 +110,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36025"
     ],
-    "tweetfavorites": 150,
+    "tweetfavorites": 155,
     "tweetquotes": 2,
-    "tweetreplies": 1,
-    "tweetretweets": 46,
+    "tweetreplies": 2,
+    "tweetretweets": 48,
     "tweettext": "OK, this is now fixed with CVE-2023-36025\nWith this update, SmartScreen will engage if the remote (SMB/WebDav) target lives inside of a ZIP file.\nPrior to the update, remote targets inside of a ZIP got no SmartScreen warning love.\nPublicly disclosed: No\n🤷\nhttps://t.co/YwXHHCdBsj https://t.co/elisTPaU7e",
     "tweettime": "2023-11-16, 13:46:53",
     "tweeturl": "https://twitter.com/wdormann/status/1725148437115473947",

@@ -25,10 +25,10 @@
     "expanded_url": [
         "https://bugs.chromium.org/p/project-zero/issues/detail?id=2104"
     ],
-    "tweetfavorites": 346,
-    "tweetquotes": 28,
+    "tweetfavorites": 337,
+    "tweetquotes": 26,
     "tweetreplies": 3,
-    "tweetretweets": 171,
+    "tweetretweets": 164,
     "tweettext": "In addition to last week's Chrome/freetype 0day (CVE-2020-15999), Project Zero also detected and reported the Windows kernel bug (CVE-2020-17087) that was used for a sandbox escape. The technical details of CVE-2020-17087 are now available here: https://t.co/bO451188Mk",
     "tweettime": "2020-10-30, 16:00:47",
     "tweeturl": "https://twitter.com/benhawkes/status/1322206828202127360",

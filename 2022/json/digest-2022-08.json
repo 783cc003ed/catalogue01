@@ -97,10 +97,10 @@
     "expanded_url": [
         "https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/"
     ],
-    "tweetfavorites": 262,
+    "tweetfavorites": 258,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 110,
+    "tweetretweets": 108,
     "tweettext": "Our intern @_qwerty_po was destined to analyze a recent Linux kernel LPE vuln (CVE-2022-32250), a bug found and reported by @FidgetingBits.\n\nHere's a brief write-up on the analysis of the bug and the exploit development. Check it out! https://t.co/hYaClfbEYp (exploit included)",
     "tweettime": "2022-08-25, 04:26:44",
     "tweeturl": "https://twitter.com/theori_io/status/1562657706779222017",
@@ -254,7 +254,7 @@
     "expanded_url": [
         "https://securitylab.github.com/advisories/GHSL-2022-043_Chromium/"
     ],
-    "tweetfavorites": 192,
+    "tweetfavorites": 185,
     "tweetquotes": 4,
     "tweetreplies": 2,
     "tweetretweets": 73,

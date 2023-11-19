@@ -169,7 +169,7 @@
     "tweetfavorites": 53,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 38,
+    "tweetretweets": 37,
     "tweettext": "Qualys Security Advisory Team: \"The return of the WIZard\" (CVE-2019-10149). Instant LPE in Exim (4.87 to 4.91). Seven days to trigger a RCE. No memory corruption or ROP involved. Bypass NX/ASLR/SSP/PIE/full RELRO/etc. Architecture independent. More at https://t.co/xKwwe1ehKN",
     "tweettime": "2019-06-05, 17:52:21",
     "tweeturl": "https://twitter.com/pozdnychev/status/1136329928922804225",
