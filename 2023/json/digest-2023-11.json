@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/nathan31337/Splunk-RCE-poc"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 48,
+    "tweettext": "Splunk RCE -  Proof of concept exploit for CVE-2023-46214, SVD-2023-1104 https://t.co/GTu2IugDtO",
+    "tweettime": "2023-11-19, 05:16:50",
+    "tweeturl": "https://twitter.com/Dinosn/status/1726107240711819355",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://notes.netbytesec.com/2023/11/post-auth-rce-in-crater-invoice.html"
     ],
     "tweetfavorites": 31,
@@ -41,10 +54,10 @@
     "expanded_url": [
         "https://www.synacktiv.com/publications/magento-template-engine-a-story-of-cve-2022-24086"
     ],
-    "tweetfavorites": 54,
+    "tweetfavorites": 57,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 19,
+    "tweetretweets": 21,
     "tweettext": "Uncovering the hidden risks of a one-year-old Magento CVE! The next article by @_bluesheet in our web frameworks analysis series delves into the intricacies of CVE-2022-24086, a template engine flaw leading to a Remote Code Execution in this popular CMS.\nhttps://t.co/2couUVhKA7",
     "tweettime": "2023-11-17, 09:26:33",
     "tweeturl": "https://twitter.com/Synacktiv/status/1725445308656538056",
@@ -322,6 +335,16 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
+    "tweetfavorites": 415,
+    "tweetquotes": 8,
+    "tweetreplies": 7,
+    "tweetretweets": 88,
+    "tweettext": "We've recreated a proof-of-concept for the SysAid CVE-2023-47246 remote code execution and compromise -- blog post coming ASAP😜\n\nBig thanks to @gleeda @HuskyHacksMK @DaveKleinatland @calebjstewart and the whole @HuntressLabs crew helping dig into this one! https://t.co/zma48YUrCq",
+    "tweettime": "2023-11-09, 17:24:18",
+    "tweeturl": "https://twitter.com/_JohnHammond/status/1722666437112922300",
+    "username": "_JohnHammond"
+}
+{
     "expanded_url": [
         "https://www.rapid7.com/blog/post/2023/11/09/etr-cve-2023-47246-sysaid-zero-day-vulnerability-exploited-by-lace-tempest/"
     ],
@@ -364,7 +387,7 @@
     "expanded_url": [
         "https://zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
     ],
-    "tweetfavorites": 230,
+    "tweetfavorites": 229,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 68,

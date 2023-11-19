@@ -51,6 +51,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/8496"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "CVE-2023-46747, BIG-IP - Unauthenticated RCE via AJP Smuggling PoC with Nuclei, https://t.co/LYCaCfA1cm",
+    "tweettime": "2023-10-30, 08:19:27",
+    "tweeturl": "https://twitter.com/Dinosn/status/1718905441256718451",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://github.com/projectdiscovery/nuclei-templates/pull/8496",
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/",
         "https://my.f5.com/manage/s/article/K000137353"

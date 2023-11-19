@@ -437,8 +437,8 @@
     "expanded_url": [
         "https://msft.it/6019nwox3"
     ],
-    "tweetfavorites": 408,
-    "tweetquotes": 32,
+    "tweetfavorites": 406,
+    "tweetquotes": 31,
     "tweetreplies": 3,
     "tweetretweets": 246,
     "tweettext": "Microsoft has detected a 0-day remote code execution exploit being used to attack SolarWinds Serv-U FTP software in limited and targeted attacks. The vulnerability being exploited is CVE-2021-35211, reported by Microsoft and recently patched by SolarWinds. https://t.co/8Z1zAjfr8f",
