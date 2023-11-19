@@ -116,10 +116,10 @@
     "expanded_url": [
         "http://bit.ly/2KdcXWT"
     ],
-    "tweetfavorites": 135,
+    "tweetfavorites": 134,
     "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 87,
+    "tweetretweets": 86,
     "tweettext": "ZDI researcher @HexKitchen takes a detailed look at CVE-2019-1069 - an LPE via the Windows task scheduler. His analysis shows an attacker can escalate even without knowing a password. https://t.co/zMILRrxYzZ",
     "tweettime": "2019-06-11, 17:56:23",
     "tweeturl": "https://twitter.com/thezdi/status/1138505269737115654",

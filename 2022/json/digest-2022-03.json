@@ -516,10 +516,10 @@
     "expanded_url": [
         "https://www.hackthebox.com/blog/CVE-2022-0185:_A_case_study"
     ],
-    "tweetfavorites": 194,
+    "tweetfavorites": 191,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 81,
+    "tweetretweets": 80,
     "tweettext": "CVE-2022-0185: A modern #Linux kernel heap overflow #0day POC. How @clubby789 and his team pwned #Linux kernel version 5.11.0-44. 😎\nRead all about this amazing #PrivEsc here: https://t.co/WlH9hWtL5M\n\n#HackTheBox #HTB #CyberSecurity https://t.co/Dx1JV1qoPJ",
     "tweettime": "2022-03-01, 15:45:03",
     "tweeturl": "https://twitter.com/hackthebox_eu/status/1498685759498424327",
