@@ -392,3 +392,26 @@
     "tweeturl": "https://twitter.com/maddiestone/status/1711474447369351495",
     "username": "maddiestone"
 }
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 117,
+    "tweettext": "RT @kevin_backhouse: Video of my PoC for CVE-2023-43641: out-of-bounds array access in libcue. libcue is used by tracker-miners, which auto…",
+    "tweettime": "2023-10-09, 18:36:53",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1711450679187997067",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Today we're disclosing CVE-2023-43641 in libcue. Its severity is magnified by its use in GNOME's tracker-miners, as @kevin_backhouse explains in this blog post. https://t.co/FwWKsmhpee",
+    "tweettime": "2023-10-09, 17:08:22",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1711428403881001246",
+    "username": "GHSecurityLab"
+}

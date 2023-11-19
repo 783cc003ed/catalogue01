@@ -64,10 +64,10 @@
     "username": "Nettitude_Labs"
 }
 {
-    "tweetfavorites": 236,
+    "tweetfavorites": 232,
     "tweetquotes": 3,
     "tweetreplies": 8,
-    "tweetretweets": 146,
+    "tweetretweets": 145,
     "tweettext": "CVE-2018-8420 Aka #Microsoft XML Core Services MSXML #RCE through web browser PoC (included in yesterday MS patches)",
     "tweettime": "2018-09-12, 06:48:03",
     "tweeturl": "https://twitter.com/kmkz_security/status/1039767580163096576",

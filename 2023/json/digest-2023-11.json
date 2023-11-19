@@ -263,10 +263,10 @@
     "expanded_url": [
         "https://github.com/chromium/chromium/commit/4997f2ba263ff7e1dbc7987dd3665459be14dffe"
     ],
-    "tweetfavorites": 70,
+    "tweetfavorites": 73,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetretweets": 15,
     "tweettext": "\"Tianfu Cup 2023\" Chrome use-after-free vulnerability in WebAudio (CVE-2023-5996 [1497859]) is fixed by ignoring channel count update after the context is closed:\nhttps://t.co/9wZdcSA3FB",
     "tweettime": "2023-11-13, 16:47:06",
     "tweeturl": "https://twitter.com/hosselot/status/1724106627106603492",
@@ -398,6 +398,16 @@
     "tweettime": "2023-11-05, 22:30:25",
     "tweeturl": "https://twitter.com/tbbhunter/status/1721293919978143837",
     "username": "tbbhunter"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 48,
+    "tweettext": "RT @stephenfewer: We have added 2 modules to the @metasploit pull queue for the recent Cisco IOS XE vulns (CVE-2023-20198 and CVE-2023-2027…",
+    "tweettime": "2023-11-03, 21:58:57",
+    "tweeturl": "https://twitter.com/ddouhine/status/1720561227766628353",
+    "username": "ddouhine"
 }
 {
     "tweetfavorites": 42,
