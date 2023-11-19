@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://viz.greynoise.io/query/?gnql=tags%3A%22vBulletin%205.x%20RCE%22"
     ],
-    "tweetfavorites": 86,
+    "tweetfavorites": 87,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 47,
+    "tweetretweets": 46,
     "tweettext": "GreyNoise is observing opportunistic exploitation of the recent vBulletin 5.x remote code execution vulnerability (CVE-2019-16759), starting three hours ago from several hundred devices around the Internet. Tags available now. \n\ntags:\"vBulletin 5.x RCE\"\n\nhttps://t.co/tBMaCdimRI https://t.co/3JLNNxA0qG",
     "tweettime": "2019-09-25, 16:38:51",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1176898873622781954",

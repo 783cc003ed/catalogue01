@@ -97,8 +97,8 @@
     "expanded_url": [
         "https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/"
     ],
-    "tweetfavorites": 180,
-    "tweetquotes": 2,
+    "tweetfavorites": 195,
+    "tweetquotes": 3,
     "tweetreplies": 3,
     "tweetretweets": 70,
     "tweettext": "🪲 New blog from me, @_clem1, and Kristen on the Zimbra in-the-wild 0-day, CVE-2023-37580, discovered by TAG in the summer. We discovered 4 different campaigns using the bug against organizations in Greece, Moldova, Tunisia, Vietnam, and Pakistan.\n\nhttps://t.co/m1vxz51QMC",
@@ -209,6 +209,16 @@
     "username": "HunterMapping"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "RT @pdnuclei: Scan for latest CVE-2023-47246 (SysAid Server - Remote Code Execution) using nuclei templates\n\nTemplate: https://t.co/fS9ACW7…",
+    "tweettime": "2023-11-14, 21:24:58",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1724538941091557563",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2023/11/cachewarp-attack-new-vulnerability-in.html"
     ],
@@ -300,6 +310,16 @@
     "tweettime": "2023-11-10, 23:51:36",
     "tweeturl": "https://twitter.com/stephenfewer/status/1723126289203110124",
     "username": "stephenfewer"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "RT @stephenfewer: We have posted our @rapid7 AttackerKB Analysis for CVE-2023-38548, an NTLM hash leak via the Veeam ONE Web Client. Read a…",
+    "tweettime": "2023-11-10, 19:08:11",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1723054967676702847",
+    "username": "wvuuuuuuuuuuuuu"
 }
 {
     "expanded_url": [

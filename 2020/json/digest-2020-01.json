@@ -424,7 +424,7 @@
     ],
     "tweetfavorites": 86,
     "tweetquotes": 3,
-    "tweetreplies": 3,
+    "tweetreplies": 2,
     "tweetretweets": 52,
     "tweettext": "CVE-2019-19781 in three steps :\n\n1⃣ No account needed\n2⃣ Unrestricted File Upload\n3⃣ Template Injection through Template Toolkit \n\nResult into a Remote Code Execution without authentication ❗️\n\n🛂 Follow Citrix Mitigation to avoid exploitation https://t.co/tYge6LymSl",
     "tweettime": "2020-01-10, 15:03:25",

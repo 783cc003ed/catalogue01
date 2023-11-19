@@ -26,10 +26,10 @@
         "https://blog.zecops.com/vulnerabilities/analysis-and-reproduction-of-cve-2019-7286/",
         "https://blog.zecops.com/vulnerabilities/exploit-of-cve-2019-7286/"
     ],
-    "tweetfavorites": 59,
+    "tweetfavorites": 55,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 29,
+    "tweetretweets": 27,
     "tweettext": "We previously analyzed the (at the time) 0day used in the attacks Google Threat Analysis group revealed today. You can read the technical analysis of CVE-2019-7286 here https://t.co/qxB0epH7Uq and https://t.co/2WvxQcAlD1",
     "tweettime": "2019-08-30, 19:19:20",
     "tweeturl": "https://twitter.com/ZecOps/status/1167517173918486528",
@@ -127,10 +127,10 @@
     "expanded_url": [
         "https://zero.lol/2019-08-11-the-year-of-linux-on-the-desktop/"
     ],
-    "tweetfavorites": 44,
+    "tweetfavorites": 41,
     "tweetquotes": 5,
     "tweetreplies": 0,
-    "tweetretweets": 23,
+    "tweetretweets": 18,
     "tweettext": "The Year of Linux on the Desktop (CVE-2019-14744). \nFeaturing a command injection bug in KDE 4 and 5.\n\nhttps://t.co/ddCoXUcau4\n\n#security #bugbounty #bugbountytips #redteam #0day #exploit #security #kde #zerodotlol #zerolol #analysis #poc",
     "tweettime": "2019-08-12, 21:10:36",
     "tweeturl": "https://twitter.com/zer0pwn/status/1161022192638935040",
