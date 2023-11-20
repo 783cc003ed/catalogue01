@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://meterpreter.org/cve-2023-43177-crushftp-zero-day-vulnerability-threatens-thousands-of-organizations/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "CVE-2023-43177: La vulnerabilidad de día cero de CrushFTP amenaza a miles de organizaciones\nhttps://t.co/au2Ivui6SC",
+    "tweettime": "2023-11-20, 08:10:35",
+    "tweeturl": "https://twitter.com/elhackernet/status/1726513356121813408",
+    "username": "elhackernet"
+}
+{
+    "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
     "tweetfavorites": 148,
@@ -41,10 +54,10 @@
     "expanded_url": [
         "https://github.com/W01fh4cker/CVE-2023-47246-EXP"
     ],
-    "tweetfavorites": 52,
+    "tweetfavorites": 61,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 20,
     "tweettext": "GitHub - W01fh4cker/CVE-2023-47246-EXP: exploit for cve-2023-47246 SysAid RCE (shell upload) - https://t.co/yUEZgscSnX",
     "tweettime": "2023-11-17, 14:10:07",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1725516669223915637",
@@ -95,6 +108,16 @@
     "tweettime": "2023-11-16, 18:35:05",
     "tweeturl": "https://twitter.com/cyb3rops/status/1725220962684043769",
     "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "RT @craiu: After #Sandworm, now #APT29 also embracing Winrar #CVE-2023-38831 with their evergreen spearphishing doc theme \"Diplomatic car f…",
+    "tweettime": "2023-11-16, 16:50:02",
+    "tweeturl": "https://twitter.com/x0rz/status/1725194527885902130",
+    "username": "x0rz"
 }
 {
     "tweetfavorites": 0,
@@ -333,6 +356,20 @@
     "tweettime": "2023-11-10, 19:08:11",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1723054967676702847",
     "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://hunter.how/list?searchValue=favicon_hash%3D%225f30870725d650d7377a134c74f41cfd%22",
+        "https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "🚨Alert🚨CVE-2023-47246\nZero-Day Vulnerability in SysAid On-Prem Software\n🔗 Hunter：https://t.co/0oaEk8qpz1\nDorks 👇👇👇\nFOFA   icon_hash=\"1540720428\"\n📰refer to  https://t.co/CH4a0AwbVL\n\n#infosec #infosecurity #Infosys #Vulnerability #cybersecurity https://t.co/rq8uz1xGE1",
+    "tweettime": "2023-11-10, 09:08:31",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1722904053615907116",
+    "username": "HunterMapping"
 }
 {
     "tweetfavorites": 415,

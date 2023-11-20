@@ -253,6 +253,19 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2023/10/cisco-zero-day-exploited-to-implant.html"
+    ],
+    "tweetfavorites": 170,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 77,
+    "tweettext": "🚨 Cisco issued an alert about a new zero-day #vulnerability in IOS XE (CVE-2023-20273). Attackers are actively exploiting it to install a malicious Lua-based implant on vulnerable devices.\n\nLearn more: https://t.co/smPcpky38W\n\n#cybersecurity #informationsecurity #hacking",
+    "tweettime": "2023-10-21, 03:46:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1715575368315277463",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://github.com/abuyv/CVElab/tree/main/cves/cve-2023-20198"
     ],
     "tweetfavorites": 123,
