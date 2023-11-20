@@ -68,7 +68,7 @@
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/",
         "https://my.f5.com/manage/s/article/K000137353"
     ],
-    "tweetfavorites": 527,
+    "tweetfavorites": 526,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 174,
@@ -240,6 +240,16 @@
     "tweettime": "2023-10-21, 17:44:02",
     "tweeturl": "https://twitter.com/cyber_advising/status/1715786031587303601",
     "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "CVE-2023-34051\n\nCVE-2023-34051 is an authentication bypass that bypasses the patch for VMSA-2023-0001. VMSA-2023-0001 for vRealize Log Insight includes the following CVEs:\n\n• VMware vRealize Log Insight Directory Traversal Vulnerability (CVE-2022-31706)\n• VMware vRealize Log… https://t.co/baY4M7eUGI",
+    "tweettime": "2023-10-21, 07:05:02",
+    "tweeturl": "https://twitter.com/hack_git/status/1715625220621373598",
+    "username": "hack_git"
 }
 {
     "expanded_url": [
