@@ -504,10 +504,10 @@
     "expanded_url": [
         "https://www.reddit.com/r/blueteamsec/comments/jal83d/cve202016952_microsoft_sharepoint_server/"
     ],
-    "tweetfavorites": 299,
+    "tweetfavorites": 293,
     "tweetquotes": 7,
     "tweetreplies": 2,
-    "tweetretweets": 140,
+    "tweetretweets": 134,
     "tweettext": "CVE-2020-16898 (Windows TCP/IP RCE) is beaten by CVE-2020-16952 (SharePoint post auth file inclusion leading to RCE). CVE-2020-16952 has an exploit out and when combined with password spraying/phishing for creds s a threat right now - https://t.co/IZbbn8aB4o",
     "tweettime": "2020-10-13, 20:12:25",
     "tweeturl": "https://twitter.com/ollieatnccgroup/status/1316109559526838275",
