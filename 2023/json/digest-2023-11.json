@@ -15,10 +15,23 @@
     "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
-    "tweetfavorites": 148,
-    "tweetquotes": 2,
+    "tweetfavorites": 123,
+    "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 48,
+    "tweetretweets": 55,
+    "tweettext": "PoC exploit for CVE-2023-46214, SVD-2023-1104\n\nSplunk Enterprise versions below 9.0.7 and 9.1.2 RCE\n\nhttps://t.co/FhPXOBOLef",
+    "tweettime": "2023-11-19, 17:23:11",
+    "tweeturl": "https://twitter.com/S0ufi4n3/status/1726290031877538093",
+    "username": "S0ufi4n3"
+}
+{
+    "expanded_url": [
+        "https://github.com/nathan31337/Splunk-RCE-poc"
+    ],
+    "tweetfavorites": 244,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
     "tweettext": "Splunk RCE -  Proof of concept exploit for CVE-2023-46214, SVD-2023-1104 https://t.co/GTu2IugDtO",
     "tweettime": "2023-11-19, 05:16:50",
     "tweeturl": "https://twitter.com/Dinosn/status/1726107240711819355",

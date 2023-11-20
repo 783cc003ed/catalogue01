@@ -22,6 +22,29 @@
     "username": "freeprogrammers"
 }
 {
+    "expanded_url": [
+        "https://github.com/Occamsec/CVE-2023-2825"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 52,
+    "tweettext": "GitLab CVE-2023-2825 PoC that leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0\nhttps://t.co/5PfogGNQBf",
+    "tweettime": "2023-05-27, 02:44:18",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1662288590728986624",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 71,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "🎯 GitLab CE/EE Path Traversal Vulnerability (CVE-2023-2825)\n\nOn May 23, 2023, GitLab released version 16.0.1, which addressed a critical vulnerability,\n\nShodan Dork: \napplication-77ee44de16d2f31b4ddfd214b60b6327fe48b92df7054b1fb928fd6d4439fc7e.css\n\n#gitlab #BugBounty  #poc #cve https://t.co/l6b3jLip6j",
+    "tweettime": "2023-05-26, 14:28:35",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1662103439936200710",
+    "username": "TodayCyberNews"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
