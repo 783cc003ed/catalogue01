@@ -340,10 +340,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1647"
     ],
-    "tweetfavorites": 177,
+    "tweetfavorites": 175,
     "tweetquotes": 1,
-    "tweetreplies": 5,
-    "tweetretweets": 64,
+    "tweetreplies": 3,
+    "tweetretweets": 63,
     "tweettext": "CVE-2021-1647 - Windows Defender RCE\n\nVector: Local\nExploitation Assessment: Exploitation detected\n\nhttps://t.co/LHw2SdR2Lt",
     "tweettime": "2021-01-12, 18:42:14",
     "tweeturl": "https://twitter.com/buherator/status/1349064159464448000",

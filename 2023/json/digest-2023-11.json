@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://github.com/W01fh4cker/CVE-2023-47246-EXP"
     ],
-    "tweetfavorites": 50,
+    "tweetfavorites": 52,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 13,
+    "tweetretweets": 14,
     "tweettext": "CVE-2023-47246: SysAid ITSM On-Premise before 23.3.36, a path traversal vulnerability leads to code execution after an attacker writes a file to the Tomcat webroot, as exploited in the wild in November 2023.\n\nPoC\nhttps://t.co/Mu5JDhqcjU https://t.co/OJssCU6kUp",
     "tweettime": "2023-11-17, 15:15:35",
     "tweeturl": "https://twitter.com/cyber_advising/status/1725533144143568967",

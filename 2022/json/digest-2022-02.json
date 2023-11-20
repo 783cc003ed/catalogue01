@@ -84,10 +84,10 @@
     "expanded_url": [
         "https://ruia-ruia.github.io/NFC-UAF/"
     ],
-    "tweetfavorites": 179,
-    "tweetquotes": 2,
+    "tweetfavorites": 175,
+    "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 63,
+    "tweetretweets": 61,
     "tweettext": "Linux kernel Use-After-Free (CVE-2021-23134) PoC\n\nAn article by @Awarau1 about exploiting a use-after-free in NFC sockets to leak /etc/shadow.\n\nAmusingly, uses TeX formatting on web to explain the exploit.\n\nhttps://t.co/ytJ3mogyre",
     "tweettime": "2022-02-22, 00:28:29",
     "tweeturl": "https://twitter.com/linkersec/status/1495918381932949516",
@@ -110,7 +110,7 @@
     "expanded_url": [
         "https://ruia-ruia.github.io/NFC-UAF/"
     ],
-    "tweetfavorites": 73,
+    "tweetfavorites": 74,
     "tweetquotes": 4,
     "tweetreplies": 0,
     "tweetretweets": 15,
