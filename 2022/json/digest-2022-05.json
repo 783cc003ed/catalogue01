@@ -851,10 +851,10 @@
     "username": "jas502n"
 }
 {
-    "tweetfavorites": 806,
+    "tweetfavorites": 795,
     "tweetquotes": 14,
     "tweetreplies": 18,
-    "tweetretweets": 273,
+    "tweetretweets": 272,
     "tweettext": "🔥 We have reproduced the fresh CVE-2022-1388 in F5's BIG-IP.\n\nSuccessful exploitation could lead to RCE from an unauthenticated user.\n\nPatch ASAP! https://t.co/WjlWtTgSVz",
     "tweettime": "2022-05-07, 09:39:49",
     "tweeturl": "https://twitter.com/ptswarm/status/1522873828896034816",

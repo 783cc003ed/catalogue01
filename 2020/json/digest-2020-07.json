@@ -804,10 +804,10 @@
     "expanded_url": [
         "https://viz.greynoise.io/query/?gnql=tags%3A%22F5%20BIG-IP%20TMUI%20RCE%22"
     ],
-    "tweetfavorites": 228,
+    "tweetfavorites": 227,
     "tweetquotes": 7,
     "tweetreplies": 1,
-    "tweetretweets": 95,
+    "tweetretweets": 94,
     "tweettext": "GreyNoise is observing \"vuln check probes\" and active opportunistic exploitation of the recent F5 RCE vulnerability CVE-2020-5902 from multiple devices. Tags are available for all users now. \n\ntags:\"F5 BIG-IP TMUI RCE\"\ntags:\"F5 BIG-IP TMUI RCE Vuln Check\"\n\nhttps://t.co/aJm1oPboj6 https://t.co/vHZbvOln22",
     "tweettime": "2020-07-06, 14:54:34",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1280153168391921664",

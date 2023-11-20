@@ -133,7 +133,7 @@
     "expanded_url": [
         "https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/"
     ],
-    "tweetfavorites": 195,
+    "tweetfavorites": 197,
     "tweetquotes": 3,
     "tweetreplies": 3,
     "tweetretweets": 70,
@@ -294,6 +294,20 @@
     "tweettime": "2023-11-14, 14:03:26",
     "tweeturl": "https://twitter.com/pdnuclei/status/1724427823174017141",
     "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation",
+        "https://infosec.exchange/@raptor/111407835699201753"
+    ],
+    "tweetfavorites": 281,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 97,
+    "tweettext": "#Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640\n\nhttps://t.co/q2kisqzeWb\n\nNifty #PoC!\n\nhttps://t.co/to1G6PGc94",
+    "tweettime": "2023-11-14, 07:59:20",
+    "tweeturl": "https://twitter.com/0xdea/status/1724336195776225308",
+    "username": "0xdea"
 }
 {
     "expanded_url": [

@@ -160,7 +160,7 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
     ],
-    "tweetfavorites": 248,
+    "tweetfavorites": 249,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 66,
@@ -357,7 +357,7 @@
     "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2023/CVE-2023-36802.html"
     ],
-    "tweetfavorites": 238,
+    "tweetfavorites": 237,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 92,
@@ -422,7 +422,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 31,
+    "tweetretweets": 32,
     "tweettext": "RT @zhuowei: For CVE-2023-42824, vm_object-&gt;vo_copy now has an extra generation count.\nIn vm_object_copy_delayed, after setting vo_copy, it…",
     "tweettime": "2023-10-09, 20:11:20",
     "tweeturl": "https://twitter.com/maddiestone/status/1711474447369351495",

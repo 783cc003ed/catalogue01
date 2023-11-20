@@ -522,6 +522,22 @@
 }
 {
     "expanded_url": [
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html",
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part2.html",
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html",
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part4.html"
+    ],
+    "tweetfavorites": 425,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 118,
+    "tweettext": "Still a great series for learning Linux kernel exploitation\nGuide for exploiting CVE-2017-11176 (UaF in mq_notify function)\nCredits @LexfoSecurite\n\nhttps://t.co/9dvQOGgpeG\nhttps://t.co/JsvFkbr9iQ\nhttps://t.co/PANcb1P6In\nhttps://t.co/2qEPjbier7\n\n#Linux #kernel #exploit #infosec https://t.co/H9MBn8xizo",
+    "tweettime": "2023-06-12, 19:30:06",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1668339915963129864",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
         "https://github.com/sfewer-r7/CVE-2023-34362"
     ],
     "tweetfavorites": 61,
@@ -782,7 +798,7 @@
     "expanded_url": [
         "https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit"
     ],
-    "tweetfavorites": 97,
+    "tweetfavorites": 100,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 37,
