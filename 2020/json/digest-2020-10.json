@@ -186,10 +186,10 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_20.html"
     ],
-    "tweetfavorites": 559,
-    "tweetquotes": 44,
+    "tweetfavorites": 547,
+    "tweetquotes": 42,
     "tweetreplies": 9,
-    "tweetretweets": 216,
+    "tweetretweets": 210,
     "tweettext": "Project Zero discovered and reported an actively exploited 0day in freetype that was being used to target Chrome. A stable release that fixes this issue (CVE-2020-15999) is available here: https://t.co/ZRQe72Qfkh",
     "tweettime": "2020-10-20, 19:49:10",
     "tweeturl": "https://twitter.com/benhawkes/status/1318640422571266048",
