@@ -26,6 +26,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/motikan2010/CVE-2023-6063-PoC"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) https://t.co/umE3o1KRTF  #pentesting #cybersecurity #infosec https://t.co/7iSWPya6su",
+    "tweettime": "2023-11-20, 01:00:14",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1726405054515593283",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
     "tweetfavorites": 123,
@@ -208,10 +221,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36558"
     ],
-    "tweetfavorites": 42,
+    "tweetfavorites": 44,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 6,
+    "tweetretweets": 7,
     "tweettext": "CVE-2023-36558 \"An unauthenticated attacker could bypass validations on Blazor Server forms\": https://t.co/lyvwYs11zL\n\nReported by @blowdart 😊 Not sure we are going to see any post from him though 😱",
     "tweettime": "2023-11-15, 08:29:09",
     "tweeturl": "https://twitter.com/irsdl/status/1724706088329638243",
