@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "CVE-2023-4357: Insufficient validation of untrusted input in XML in Google Chrome prior to 116.0.5845.96 allowed a remote attacker to bypass file access restrictions via a crafted HTML page. (Chromium security severity: Medium)\n\nPoC\nhttps://t.co/m7cUPxK8rd https://t.co/D3CC7fBf5M",
+    "tweettime": "2023-11-20, 16:28:57",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1726638772165722507",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://meterpreter.org/cve-2023-43177-crushftp-zero-day-vulnerability-threatens-thousands-of-organizations/"
     ],
     "tweetfavorites": 40,
