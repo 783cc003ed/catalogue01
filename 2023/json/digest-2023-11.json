@@ -26,6 +26,19 @@
 }
 {
     "expanded_url": [
+        "https://securityonline.info/researchers-published-poc-exploit-for-windows-zero-day-cve-2023-36025-vulnerability/"
+    ],
+    "tweetfavorites": 82,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "Researchers Published PoC Exploit for Windows Zero-Day CVE-2023-36025 Vulnerability https://t.co/YebFUctaCQ",
+    "tweettime": "2023-11-21, 10:50:16",
+    "tweeturl": "https://twitter.com/Dinosn/status/1726915927621730512",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation"
     ],
     "tweetfavorites": 58,
@@ -49,6 +62,19 @@
     "tweettime": "2023-11-20, 08:10:35",
     "tweeturl": "https://twitter.com/elhackernet/status/1726513356121813408",
     "username": "elhackernet"
+}
+{
+    "expanded_url": [
+        "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "GitHub - OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation: Apt style exploitation of Chrome 0day CVE-2023-4357 - https://t.co/a4k1f3O4wO",
+    "tweettime": "2023-11-20, 04:29:18",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1726457667357651091",
+    "username": "piedpiper1616"
 }
 {
     "expanded_url": [
@@ -119,7 +145,7 @@
     "expanded_url": [
         "https://github.com/W01fh4cker/CVE-2023-47246-EXP"
     ],
-    "tweetfavorites": 61,
+    "tweetfavorites": 62,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 20,
