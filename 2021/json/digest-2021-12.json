@@ -140,10 +140,10 @@
     "username": "Laughing_Mantis"
 }
 {
-    "tweetfavorites": 148,
+    "tweetfavorites": 146,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 51,
+    "tweetretweets": 50,
     "tweettext": "[HackTip ⚒] A quick way to perform CVE-2021-42278 / CVE-2021-42287 (aka sAMAccountName Spoofing) controlled exploitation from a beacon session without 'auto pwning' tools 👾 https://t.co/q1ckhkKd89",
     "tweettime": "2021-12-17, 13:08:23",
     "tweeturl": "https://twitter.com/snovvcrash/status/1471829627765239816",
