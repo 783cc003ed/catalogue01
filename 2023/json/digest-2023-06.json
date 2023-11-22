@@ -25,6 +25,16 @@
     "username": "momika233"
 }
 {
+    "tweetfavorites": 192,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2023-34598 - Local File Inclusion\nGibbon https://t.co/rtUytwhIZV",
+    "tweettime": "2023-06-27, 08:41:29",
+    "tweeturl": "https://twitter.com/shaybt12/status/1673612503547355137",
+    "username": "shaybt12"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2023/06/new-fortinets-fortinac-vulnerability.html"
     ],
