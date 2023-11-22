@@ -1,11 +1,24 @@
 {
     "expanded_url": [
+        "https://github.com/nathan31337/Splunk-RCE-poc"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 24,
+    "tweettext": "CVE-2023-46214\n\nAffected product(s),verison(s): Splunk Enterprise versions below 9.0.7 and 9.1.2\n\nThe vulnerability allows an attacker to upload malicious XSLT which can result in remote code execution on the Splunk Enterprise instance.\n\nPoC: https://t.co/15eaekhesB\n\n#DarkWeb https://t.co/JBLz01tJd9",
+    "tweettime": "2023-11-21, 20:00:00",
+    "tweeturl": "https://twitter.com/DailyDarkWeb/status/1727054274952417529",
+    "username": "DailyDarkWeb"
+}
+{
+    "expanded_url": [
         "https://hubs.la/Q029DjvK0"
     ],
-    "tweetfavorites": 139,
+    "tweetfavorites": 147,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 25,
+    "tweetretweets": 26,
     "tweettext": "NEW FREE ROOM 🌵\n\nExploit vulnerable Cacti instances using CVE-2022-46169\n\n🌐 Explore the vulnerability chain used to abuse Cacti 1.2.2\n💽 Achieve remote code execution by unauthenticated exploitation\n🔍 Implement detection and mitigation countermeasures\n\nhttps://t.co/gBPopsU76t https://t.co/VoWR7oF0aL",
     "tweettime": "2023-11-21, 17:27:57",
     "tweeturl": "https://twitter.com/RealTryHackMe/status/1727016008240488848",
