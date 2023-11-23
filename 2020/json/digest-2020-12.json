@@ -65,7 +65,7 @@
     "tweetfavorites": 382,
     "tweetquotes": 15,
     "tweetreplies": 4,
-    "tweetretweets": 152,
+    "tweetretweets": 151,
     "tweettext": "In May, Kaspersky (@oct0xor) discovered CVE-2020-0986 in Windows splwow64 was exploited itw as a 0day. Microsoft released a patch in June, but that patch didnt fix the vuln. After reporting that bad fix in Sept under a 90day deadline, it's still not fixed. https://t.co/WDGNs3JGka",
     "tweettime": "2020-12-23, 16:22:46",
     "tweeturl": "https://twitter.com/maddiestone/status/1341781305126612995",
@@ -302,7 +302,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-17140"
     ],
-    "tweetfavorites": 448,
+    "tweetfavorites": 449,
     "tweetquotes": 9,
     "tweetreplies": 17,
     "tweetretweets": 122,

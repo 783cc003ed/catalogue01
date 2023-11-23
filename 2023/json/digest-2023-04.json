@@ -128,6 +128,19 @@
 }
 {
     "expanded_url": [
+        "https://mp.weixin.qq.com/s/2yy3ViqcBEbH3ceH6zP8Ag"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "Repro of recently patched in the wild Chrome 0day CVE-2023-2033 by Kunlun Lab: https://t.co/99tSSB4wIW (CN) , more details available via CyberKunlun Intelligence Service",
+    "tweettime": "2023-04-17, 18:47:42",
+    "tweeturl": "https://twitter.com/mj0011sec/status/1648035523292991488",
+    "username": "mj0011sec"
+}
+{
+    "expanded_url": [
         "https://github.com/ambionics/vbulletin-exploits"
     ],
     "tweetfavorites": 56,

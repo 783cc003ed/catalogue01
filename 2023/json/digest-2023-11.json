@@ -1,4 +1,27 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @DailyDarkWeb: CVE-2023-46214\n\nAffected product(s),verison(s): Splunk Enterprise versions below 9.0.7 and 9.1.2\n\nThe vulnerability allow…",
+    "tweettime": "2023-11-22, 12:33:16",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1727304238361944572",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-published-for-visual-studio-code-rce-vulnerability-cve-2023-36742/"
+    ],
+    "tweetfavorites": 99,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 34,
+    "tweettext": "PoC Exploit Published for Visual Studio Code RCE Vulnerability (CVE-2023-36742) https://t.co/nY7H11wvdD",
+    "tweettime": "2023-11-22, 10:52:07",
+    "tweeturl": "https://twitter.com/Dinosn/status/1727278783122616636",
+    "username": "Dinosn"
+}
+{
     "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
@@ -52,6 +75,19 @@
 }
 {
     "expanded_url": [
+        "https://shashankbarthwal.com/articles/cve-2023-46604-activemq-rce"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 15,
+    "tweettext": "[CVE-2023-46604] ActiveMQ Insecure Deserialization RCE Analysis Writeup\n\nIn my attempts to learn more about vulnerability research, here is my analysis on the recent ActiveMQ vulnerablity and its exploitation.\n\nhttps://t.co/7DIVSaYMnn https://t.co/iRrE6iEyX5",
+    "tweettime": "2023-11-20, 15:51:24",
+    "tweeturl": "https://twitter.com/xscorp7/status/1726629322243678653",
+    "username": "xscorp7"
+}
+{
+    "expanded_url": [
         "https://meterpreter.org/cve-2023-43177-crushftp-zero-day-vulnerability-threatens-thousands-of-organizations/"
     ],
     "tweetfavorites": 56,
@@ -67,7 +103,7 @@
     "expanded_url": [
         "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation"
     ],
-    "tweetfavorites": 72,
+    "tweetfavorites": 73,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 29,
@@ -166,6 +202,19 @@
     "tweettime": "2023-11-17, 09:26:33",
     "tweeturl": "https://twitter.com/Synacktiv/status/1725445308656538056",
     "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://github.com/motikan2010/CVE-2023-6063-PoC"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2023-6063 \n\nWP Fastest Cache &lt;1.2.2 - UnAuth SQL Injection\n\nhttps://t.co/jGPumERC4i\n\n#cve #cybersecurity #infosec https://t.co/OruUpnjEAs",
+    "tweettime": "2023-11-17, 09:12:56",
+    "tweeturl": "https://twitter.com/PentestingN/status/1725441883684684083",
+    "username": "PentestingN"
 }
 {
     "tweetfavorites": 0,
