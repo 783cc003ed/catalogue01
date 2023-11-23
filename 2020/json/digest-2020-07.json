@@ -423,10 +423,10 @@
         "https://msrc-blog.microsoft.com/2020/07/14/july-2020-security-update-cve-2020-1350-vulnerability-in-windows-domain-name-system-dns-server/",
         "https://github.com/ZephrFish/CVE-2020-1350"
     ],
-    "tweetfavorites": 65,
+    "tweetfavorites": 63,
     "tweetquotes": 5,
     "tweetreplies": 3,
-    "tweetretweets": 30,
+    "tweetretweets": 29,
     "tweettext": "This is so, so bad.\nCVE-2020-1350 with CVSS of 10 named #SIGRed. Wormable RCE vulnerability in Windows DNS Server affecting all versions of Windows server running the DNS role. https://t.co/xYTzi72hF5\n\nExploit released already - https://t.co/9qphFRaqBR \n\n#infosec #cybersecurity",
     "tweettime": "2020-07-14, 20:23:37",
     "tweeturl": "https://twitter.com/blueteamblog/status/1283135082514046977",
@@ -522,10 +522,10 @@
     "expanded_url": [
         "https://us-cert.cisa.gov/ncas/current-activity/2020/07/14/microsoft-addresses-wormable-rce-vulnerability-windows-dns-server#Cyber"
     ],
-    "tweetfavorites": 571,
-    "tweetquotes": 31,
+    "tweetfavorites": 567,
+    "tweetquotes": 29,
     "tweetreplies": 23,
-    "tweetretweets": 426,
+    "tweetretweets": 422,
     "tweettext": "Microsoft has released an update addressing a “wormable” RCE vulnerability, CVE-2020-1350, in Windows DNS Server. Update asap! https://t.co/yjvpIgZbA3 #Cybersecurity #InfoSec",
     "tweettime": "2020-07-14, 18:32:33",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1283107131596722176",
