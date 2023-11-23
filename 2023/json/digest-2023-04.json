@@ -49,6 +49,19 @@
 }
 {
     "expanded_url": [
+        "https://www.randori.com/blog/vulnerability-analysis-queuejumper-cve-2023-21554/"
+    ],
+    "tweetfavorites": 120,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 61,
+    "tweettext": "We've been able to trigger CVE-2023-21554 AKA #QueueJumper, a recently patched RCE in Microsoft’s Message Queueing Service reported by @_CPResearch_. We can confirm it appears exploitable. IOCs and more: https://t.co/NxMiZIAb9P",
+    "tweettime": "2023-04-20, 21:56:37",
+    "tweeturl": "https://twitter.com/RandoriAttack/status/1649170230797541378",
+    "username": "RandoriAttack"
+}
+{
+    "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2022/CVE-2022-32917.html"
     ],
     "tweetfavorites": 94,

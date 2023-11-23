@@ -429,10 +429,10 @@
     "expanded_url": [
         "https://github.com/SIFalcon/Detection/blob/main/Yara/Hunting/HUNT_RTF_CVE_2023_21716.yar"
     ],
-    "tweetfavorites": 70,
-    "tweetquotes": 1,
+    "tweetfavorites": 63,
+    "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 24,
+    "tweetretweets": 23,
     "tweettext": "🚨 #CVE-2023-21716 is a new criticial #RCE in Microsoft Word exploited through RTF documents. Similar, older exploits are still very popular with threat actors.\nWe tested the PoC created by @jduck and created a first prototype #yara hunting rule 🔍\nhttps://t.co/JFFoltTmTt\n1/2🧵 https://t.co/UjCz0YVZKA",
     "tweettime": "2023-03-07, 14:38:36",
     "tweeturl": "https://twitter.com/SI_FalconTeam/status/1633114934253965314",
