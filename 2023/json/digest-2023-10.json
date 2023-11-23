@@ -88,6 +88,16 @@
     "username": "chybeta"
 }
 {
+    "tweetfavorites": 121,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 52,
+    "tweettext": "CVE-2023-46747\n\nCVSS score: 9.8\n\nAffected product(s),verison(s): F5 BIG-IP from 17.1.0 to 13.1.5\n\nThis vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system… https://t.co/CVy2uXYJki",
+    "tweettime": "2023-10-27, 14:37:59",
+    "tweeturl": "https://twitter.com/DailyDarkWeb/status/1717913537031356661",
+    "username": "DailyDarkWeb"
+}
+{
     "expanded_url": [
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/"
     ],
@@ -160,7 +170,7 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
     ],
-    "tweetfavorites": 249,
+    "tweetfavorites": 247,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 66,
@@ -326,6 +336,19 @@
     "tweettime": "2023-10-17, 15:23:10",
     "tweeturl": "https://twitter.com/mmolgtm/status/1714301029146099903",
     "username": "mmolgtm"
+}
+{
+    "expanded_url": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-privesc-j22SaA4z"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 34,
+    "tweettext": "CVE-2023-20198\n\nCVSS Score: 10.0\n\nAffected product(s),verison(s): Cisco IOS XE Software\n\nThis vulnerability allows a remote, unauthenticated attacker to create an account on an affected system with privilege level 15 access.\n\nhttps://t.co/C7wrs5kENd\n\n#cybersecurity #infosec https://t.co/OcrdezDABd",
+    "tweettime": "2023-10-17, 15:17:34",
+    "tweeturl": "https://twitter.com/DailyDarkWeb/status/1714299619528552779",
+    "username": "DailyDarkWeb"
 }
 {
     "expanded_url": [
