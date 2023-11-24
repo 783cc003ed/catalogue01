@@ -157,10 +157,10 @@
     "expanded_url": [
         "https://github.com/0vercl0k/CVE-2019-11708"
     ],
-    "tweetfavorites": 969,
-    "tweetquotes": 8,
+    "tweetfavorites": 960,
+    "tweetquotes": 7,
     "tweetreplies": 7,
-    "tweetretweets": 458,
+    "tweetretweets": 451,
     "tweettext": "Here is an exploit chain I wrote for Firefox that gets RCE via CVE-2019-9810 and escape the sandbox with CVE-2019-11708/CVE-2019-9810. Once compromised, it drops a payload and injects privileged JS code in already/newly created tabs. https://t.co/ZmUxjBBhpC https://t.co/LeAOCgqpMG",
     "tweettime": "2019-12-06, 14:18:38",
     "tweeturl": "https://twitter.com/0vercl0k/status/1202955509738934272",

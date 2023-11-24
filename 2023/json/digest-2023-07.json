@@ -112,6 +112,19 @@
     "username": "hack_git"
 }
 {
+    "expanded_url": [
+        "https://www.fortinet.com/blog/threat-research/lokibot-targets-microsoft-office-document-using-vulnerabilities-and-macros"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "Fortinet researchers show how the CVE-2021-40444 &amp; CVE-2022-30190 remote code execution vulnerabilities allowed attackers to embed malicious macros within Microsoft documents that, when executed, dropped the LokiBot malware onto the victim's system. https://t.co/dlkaVpYfE4 https://t.co/IfsIdPWSLg",
+    "tweettime": "2023-07-14, 10:56:00",
+    "tweeturl": "https://twitter.com/virusbtn/status/1679806947221032961",
+    "username": "virusbtn"
+}
+{
     "tweetfavorites": 48,
     "tweetquotes": 1,
     "tweetreplies": 3,
@@ -171,7 +184,7 @@
     "expanded_url": [
         "https://yanglingxi1993.github.io/dirty_pagetable/dirty_pagetable.html"
     ],
-    "tweetfavorites": 495,
+    "tweetfavorites": 497,
     "tweetquotes": 5,
     "tweetreplies": 13,
     "tweetretweets": 180,
