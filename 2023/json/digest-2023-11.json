@@ -25,10 +25,10 @@
     "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
-    "tweetfavorites": 69,
+    "tweetfavorites": 94,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 24,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
     "tweettext": "CVE-2023-46214\n\nAffected product(s),verison(s): Splunk Enterprise versions below 9.0.7 and 9.1.2\n\nThe vulnerability allows an attacker to upload malicious XSLT which can result in remote code execution on the Splunk Enterprise instance.\n\nPoC: https://t.co/15eaekhesB\n\n#DarkWeb https://t.co/JBLz01tJd9",
     "tweettime": "2023-11-21, 20:00:00",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1727054274952417529",
@@ -38,7 +38,7 @@
     "expanded_url": [
         "https://hubs.la/Q029DjvK0"
     ],
-    "tweetfavorites": 180,
+    "tweetfavorites": 179,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 30,
@@ -103,7 +103,7 @@
     "expanded_url": [
         "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation"
     ],
-    "tweetfavorites": 73,
+    "tweetfavorites": 74,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 29,
@@ -578,7 +578,7 @@
     "expanded_url": [
         "https://zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
     ],
-    "tweetfavorites": 229,
+    "tweetfavorites": 230,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 68,
