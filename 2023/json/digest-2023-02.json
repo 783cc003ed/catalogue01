@@ -291,10 +291,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21707"
     ],
-    "tweetfavorites": 60,
-    "tweetquotes": 1,
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 11,
+    "tweetretweets": 8,
     "tweettext": "Glad to see that the \"Microsoft Exchange Server Post-Authentication Remote Code Execution Vulnerability\" found by @testanull had been fixed and the CVE is CVE-2023-21707. We will release the details soon.\nhttps://t.co/0WZOa8rFiG",
     "tweettime": "2023-02-16, 08:13:56",
     "tweeturl": "https://twitter.com/starlabs_sg/status/1626132758367174656",

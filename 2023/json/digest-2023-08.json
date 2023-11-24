@@ -105,6 +105,16 @@
     "username": "Dinosn"
 }
 {
+    "tweetfavorites": 58,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "I recently identified a Remote Code Execution vulnerability, CVE-2023-35371, impacting Microsoft Office 365, Office 2019 for Mac, and Office LTSC for Mac 2021 due to a double free vulnerability. I'd like to thank the @msftsecresponse team for addressing this in the recent Patch…",
+    "tweettime": "2023-08-17, 06:52:26",
+    "tweeturl": "https://twitter.com/TecR0c/status/1692066840015712694",
+    "username": "TecR0c"
+}
+{
     "tweetfavorites": 170,
     "tweetquotes": 0,
     "tweetreplies": 5,

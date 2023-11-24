@@ -241,10 +241,10 @@
     "username": "cherepanov74"
 }
 {
-    "tweetfavorites": 33,
+    "tweetfavorites": 39,
     "tweetquotes": 0,
-    "tweetreplies": 4,
-    "tweetretweets": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 2,
     "tweettext": "I got an acknowledgment of Microsoft Office Graphics Remote Code Execution Vulnerability(CVE-2023-28285), 11 different vulnerabilities I reported were included in this CVE. Microsoft just assigned one CVE for them. @msftsecresponse #patchTuesday https://t.co/dzYmJqXhHq",
     "tweettime": "2023-04-11, 18:01:13",
     "tweeturl": "https://twitter.com/K3vinLuSec/status/1645849496969150466",
