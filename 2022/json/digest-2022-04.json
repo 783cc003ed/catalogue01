@@ -52,7 +52,7 @@
     "expanded_url": [
         "https://github.com/rapid7/metasploit-framework/pull/16504"
     ],
-    "tweetfavorites": 168,
+    "tweetfavorites": 167,
     "tweetquotes": 4,
     "tweetreplies": 2,
     "tweetretweets": 56,
@@ -268,7 +268,7 @@
     "tweetfavorites": 786,
     "tweetquotes": 16,
     "tweetreplies": 8,
-    "tweetretweets": 327,
+    "tweetretweets": 326,
     "tweettext": "Everyone's talking about the 9.8 RCE bug in Windows RPC runtime (CVE-2022-26809). @nachoskrnl bin-diffed rpcrt4.dll and located the integer overflow that was patched. Read about it here - https://t.co/jIakqMaDHh\nPatch now, and ffs don't expose TCP 445 to the internet. https://t.co/Adj8tvctlA",
     "tweettime": "2022-04-13, 21:41:03",
     "tweeturl": "https://twitter.com/OphirHarpaz/status/1514358026668552197",
