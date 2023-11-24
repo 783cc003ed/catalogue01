@@ -88,6 +88,16 @@
     "username": "chybeta"
 }
 {
+    "tweetfavorites": 56,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "new Apple updates!\n\n- CVE-2023-39434 : WebKit GPU Use-After-Free\n    - webkit commit : 249451\n- CVE-2023-40403 : libxslt Information Disclosure (Works in Safari)\n- Additional recognition\n\nIn the case of CVE-2023-39434, there are many changes in the patch. https://t.co/pzADoaTZq0",
+    "tweettime": "2023-09-26, 22:17:05",
+    "tweeturl": "https://twitter.com/l33d0hyun/status/1706795049915453649",
+    "username": "l33d0hyun"
+}
+{
     "expanded_url": [
         "https://github.com/Chocapikk/CVE-2023-29357"
     ],
