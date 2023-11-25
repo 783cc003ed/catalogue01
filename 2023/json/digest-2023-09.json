@@ -228,10 +228,10 @@
     "expanded_url": [
         "https://github.com/metaredteam/external-disclosures/security/advisories/GHSA-x7ch-h5rf-w2mf"
     ],
-    "tweetfavorites": 698,
+    "tweetfavorites": 697,
     "tweetquotes": 10,
     "tweetreplies": 12,
-    "tweetretweets": 177,
+    "tweetretweets": 176,
     "tweettext": "Time for an Arm-twist! CVE-2023-4039\n\nTom Hebb (Meta red team) and I discovered an 0day in GCC (for AArch64 targets) during my Arm exploitation training. \n\nIt renders stack canaries against overflows of dynamically-sized variables useless. \n\nhttps://t.co/q0vX86e9gK https://t.co/0NDB39Xg8f",
     "tweettime": "2023-09-12, 15:52:12",
     "tweeturl": "https://twitter.com/Fox0x01/status/1701624762059895228",

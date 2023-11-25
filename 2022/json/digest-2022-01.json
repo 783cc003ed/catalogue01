@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://github.com/KaLendsi/CVE-2022-21882"
     ],
-    "tweetfavorites": 130,
+    "tweetfavorites": 127,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 53,
+    "tweetretweets": 52,
     "tweettext": "quickly tested the CVE-2022-21882 Win10 LPE PoC from @kalendsi before applying KB5009543 (which should patch it). works nicely on my 21H2 19044.1415.  https://t.co/gvozRBxeU1 https://t.co/f0zej818Lf",
     "tweettime": "2022-01-30, 02:33:53",
     "tweeturl": "https://twitter.com/an0n_r0/status/1487615017688211457",
