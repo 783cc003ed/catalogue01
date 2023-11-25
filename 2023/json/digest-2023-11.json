@@ -12,7 +12,7 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-published-for-visual-studio-code-rce-vulnerability-cve-2023-36742/"
     ],
-    "tweetfavorites": 100,
+    "tweetfavorites": 101,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 34,
@@ -88,6 +88,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/W01fh4cker/CVE-2023-47246-EXP"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
+    "tweettext": "exploit for cve-2023-47246 SysAid RCE (shell upload) https://t.co/AnfosSPYK5 #pentesting #cybersecurity #infosec https://t.co/xjdPFxYpVd",
+    "tweettime": "2023-11-20, 10:45:05",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1726552237206274298",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
         "https://meterpreter.org/cve-2023-43177-crushftp-zero-day-vulnerability-threatens-thousands-of-organizations/"
     ],
     "tweetfavorites": 56,
@@ -140,12 +153,25 @@
 }
 {
     "expanded_url": [
+        "https://github.com/W01fh4cker/CVE-2023-47246-EXP"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "exploit for cve-2023-47246 SysAid RCE (shell upload) https://t.co/AnfosSPYK5  #pentesting #cybersecurity #infosec https://t.co/xue6whnLfy",
+    "tweettime": "2023-11-19, 21:00:14",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1726344654608560560",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
     "tweetfavorites": 132,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 59,
+    "tweetretweets": 58,
     "tweettext": "PoC exploit for CVE-2023-46214, SVD-2023-1104\n\nSplunk Enterprise versions below 9.0.7 and 9.1.2 RCE\n\nhttps://t.co/FhPXOBOLef",
     "tweettime": "2023-11-19, 17:23:11",
     "tweeturl": "https://twitter.com/S0ufi4n3/status/1726290031877538093",
@@ -299,10 +325,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36025"
     ],
-    "tweetfavorites": 155,
+    "tweetfavorites": 160,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 48,
+    "tweetretweets": 49,
     "tweettext": "OK, this is now fixed with CVE-2023-36025\nWith this update, SmartScreen will engage if the remote (SMB/WebDav) target lives inside of a ZIP file.\nPrior to the update, remote targets inside of a ZIP got no SmartScreen warning love.\nPublicly disclosed: No\n🤷\nhttps://t.co/YwXHHCdBsj https://t.co/elisTPaU7e",
     "tweettime": "2023-11-16, 13:46:53",
     "tweeturl": "https://twitter.com/wdormann/status/1725148437115473947",
