@@ -347,6 +347,20 @@
 }
 {
     "expanded_url": [
+        "https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html",
+        "https://blog.coffinsec.com/0day/2023/06/19/minidlna-cve-2023-33476-exploits.html"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "minidlna 1.3.2 cve-2023-33476 root cause analysis and exploitation \n\nPart1:\nhttp chunk parsing heap overflow (cve-2023-33476) root cause analysis\nhttps://t.co/4hhlWUd7ou\n\nPart2:\nexploiting cve-2023-33476 for remote code execution\nhttps://t.co/1F4HpkgWYW",
+    "tweettime": "2023-09-03, 07:45:25",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1698240766168973659",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
         "https://github.com/sinsinology/CVE-2023-34039"
     ],
     "tweetfavorites": 67,

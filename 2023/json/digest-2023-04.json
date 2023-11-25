@@ -446,8 +446,8 @@
     "expanded_url": [
         "https://attackerkb.com/topics/1iRdvtUgtW/cve-2023-26359/rapid7-analysis"
     ],
-    "tweetfavorites": 91,
-    "tweetquotes": 4,
+    "tweetfavorites": 88,
+    "tweetquotes": 5,
     "tweetreplies": 3,
     "tweetretweets": 42,
     "tweettext": "Our @rapid7 AttackerKB Analysis of CVE-2023-26359 in Adobe ColdFusion has been updated to detail unauthenticated remote code execution and arbitrary file reading. A @metasploit module will be available soon. All the details here: https://t.co/wlX0roWDGH",

@@ -17,7 +17,7 @@
         "https://www.cisa.gov/guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities",
         "https://templates.nuclei.sh/public/CVE-2023-20198"
     ],
-    "tweetfavorites": 122,
+    "tweetfavorites": 120,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 42,
@@ -68,10 +68,10 @@
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/",
         "https://my.f5.com/manage/s/article/K000137353"
     ],
-    "tweetfavorites": 527,
+    "tweetfavorites": 528,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 174,
+    "tweetretweets": 175,
     "tweettext": "Scan for F5 BIG-IP - Unauthenticated RCE via AJP Smuggling (CVE-2023-46747) using nuclei templates shared by  @iamnoooob @rootxharsh \n\nTemplate - https://t.co/rRWXJTXS55\n\nAnalysis - https://t.co/F9Z7VKdL7j by @praetorianlabs\n\nAdvisory - https://t.co/5Rqei12XBR… https://t.co/fKE1dxU8ps",
     "tweettime": "2023-10-29, 19:11:08",
     "tweeturl": "https://twitter.com/pdnuclei/status/1718707055308005468",

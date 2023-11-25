@@ -126,6 +126,19 @@
 }
 {
     "expanded_url": [
+        "https://attackerkb.com/topics/ALUsuJioE5/cve-2023-27532/rapid7-analysis"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 26,
+    "tweettext": "Our @rapid7 AttackerKB analysis of CVE-2023-27532 in Veeam Backup &amp; Replication has been posted, detailing the vulnerability, plaintext credentials leak and remote code execution: https://t.co/2VcfuPs83c",
+    "tweettime": "2023-03-23, 14:21:14",
+    "tweeturl": "https://twitter.com/stephenfewer/status/1638908767382241287",
+    "username": "stephenfewer"
+}
+{
+    "expanded_url": [
         "https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/"
     ],
     "tweetfavorites": 203,
