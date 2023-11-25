@@ -293,10 +293,10 @@
     "expanded_url": [
         "https://offsec.almond.consulting/ghostscript-cve-2023-28879.html"
     ],
-    "tweetfavorites": 288,
-    "tweetquotes": 3,
+    "tweetfavorites": 342,
+    "tweetquotes": 6,
     "tweetreplies": 2,
-    "tweetretweets": 113,
+    "tweetretweets": 131,
     "tweettext": "Ghostscript RCE CVE-2023-28879 can impact many applications processing images and PDF files.\nDiscovery and exploitation write-up by team member @sigabrt9 : https://t.co/tQyDkVf7tx https://t.co/phsvZNNzi2",
     "tweettime": "2023-04-11, 13:48:23",
     "tweeturl": "https://twitter.com/AlmondOffSec/status/1645785869432004611",

@@ -12,7 +12,7 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-published-for-visual-studio-code-rce-vulnerability-cve-2023-36742/"
     ],
-    "tweetfavorites": 99,
+    "tweetfavorites": 100,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 34,
@@ -142,10 +142,10 @@
     "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
-    "tweetfavorites": 123,
+    "tweetfavorites": 132,
     "tweetquotes": 1,
-    "tweetreplies": 0,
-    "tweetretweets": 55,
+    "tweetreplies": 1,
+    "tweetretweets": 59,
     "tweettext": "PoC exploit for CVE-2023-46214, SVD-2023-1104\n\nSplunk Enterprise versions below 9.0.7 and 9.1.2 RCE\n\nhttps://t.co/FhPXOBOLef",
     "tweettime": "2023-11-19, 17:23:11",
     "tweeturl": "https://twitter.com/S0ufi4n3/status/1726290031877538093",
@@ -155,10 +155,10 @@
     "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
-    "tweetfavorites": 244,
+    "tweetfavorites": 269,
     "tweetquotes": 4,
-    "tweetreplies": 0,
-    "tweetretweets": 82,
+    "tweetreplies": 1,
+    "tweetretweets": 87,
     "tweettext": "Splunk RCE -  Proof of concept exploit for CVE-2023-46214, SVD-2023-1104 https://t.co/GTu2IugDtO",
     "tweettime": "2023-11-19, 05:16:50",
     "tweeturl": "https://twitter.com/Dinosn/status/1726107240711819355",
