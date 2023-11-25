@@ -156,10 +156,10 @@
         "https://www.rcesecurity.com/2022/11/from-zero-to-hero-part-1-bypassing-intel-dcms-authentication-cve-2022-33942/",
         "https://www.rcesecurity.com/2022/12/from-zero-to-hero-part-2-intel-dcm-sql-injection-to-rce-cve-2022-21225/"
     ],
-    "tweetfavorites": 108,
+    "tweetfavorites": 101,
     "tweetquotes": 1,
-    "tweetreplies": 0,
-    "tweetretweets": 49,
+    "tweetreplies": 2,
+    "tweetretweets": 43,
     "tweettext": "Awesome Two Part Series by @MrTuxracer on a vulnerability chain from unauthenticated user to full RCE in Intel’s Data Center Manager\n\nAuth Bypass (CVE-2022-33942): https://t.co/BNe0hY4rU5\n\nSQLi to RCE (CVE-2022-21225): https://t.co/DciDd9dUj3\n\n#infosec #hacking #bugbounty https://t.co/I271BuVICi",
     "tweettime": "2023-01-25, 14:30:00",
     "tweeturl": "https://twitter.com/payloadartist/status/1618254865368506369",
