@@ -124,6 +124,16 @@
     "username": "mmolgtm"
 }
 {
+    "tweetfavorites": 368,
+    "tweetquotes": 6,
+    "tweetreplies": 6,
+    "tweetretweets": 86,
+    "tweettext": "🔥 We have reproduced the fresh CVE-2023-42793 in JetBrains TeamCity.\n\nAuthentication bypass allows an external attacker to gain administrative access to the server and execute any commands on it.  \n\nUpdate your software ASAP! https://t.co/DXp2gJ1HTq",
+    "tweettime": "2023-09-25, 08:27:36",
+    "tweeturl": "https://twitter.com/ptswarm/status/1706223917008834748",
+    "username": "ptswarm"
+}
+{
     "expanded_url": [
         "https://chromium.googlesource.com/v8/v8.git/+/ae7dc61652805bc8e2b060d53b2b6da7cf846b6f"
     ],

@@ -341,10 +341,10 @@
     "expanded_url": [
         "https://lab.viettelcybersecurity.com/advisories/VCSA-97"
     ],
-    "tweetfavorites": 339,
+    "tweetfavorites": 338,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 119,
+    "tweetretweets": 120,
     "tweettext": "🥳 We have reproduced an Arbitrary File Read for an internal site of Skype for Business / MS Lync!\n\nCVE: CVE-2022-26911\nSubdomains: dialin, meet, lyncdiscover, sip, ...\n\nOriginal advisory: https://t.co/WaYc1zs9Hh\n\nThe PoC ⤵️ https://t.co/fomzLr51tG",
     "tweettime": "2022-07-20, 13:14:49",
     "tweeturl": "https://twitter.com/ptswarm/status/1549744638193541122",
