@@ -157,7 +157,7 @@
     "tweetfavorites": 43,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 23,
+    "tweetretweets": 22,
     "tweettext": "Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126 \n\n-&gt; Chaining 2 vulns in Dark Souls 3 for RCE \nhttps://t.co/lJCgllEW1J",
     "tweettime": "2022-04-21, 05:23:45",
     "tweeturl": "https://twitter.com/kmkz_security/status/1517011184066695168",
