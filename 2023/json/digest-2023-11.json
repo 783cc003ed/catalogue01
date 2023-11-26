@@ -13,6 +13,16 @@
     "username": "ptracesecurity"
 }
 {
+    "tweetfavorites": 91,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "💯 Investigate the Splunk RCE vulnerability as a SOC Analyst\n\n🐞 CVE-2023-46214\n\n🗒 You can investigate this incident on LetsDefend for FREE\n\nIn Splunk Enterprise versions below 9.0.7 and 9.1.2, Splunk Enterprise does not safely sanitize extensible stylesheet language… https://t.co/3t9KUdAhNW",
+    "tweettime": "2023-11-24, 10:15:13",
+    "tweeturl": "https://twitter.com/LetsDefendIO/status/1727994271003820190",
+    "username": "LetsDefendIO"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -26,7 +36,7 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-published-for-visual-studio-code-rce-vulnerability-cve-2023-36742/"
     ],
-    "tweetfavorites": 101,
+    "tweetfavorites": 102,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 34,
