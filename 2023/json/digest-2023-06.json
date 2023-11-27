@@ -359,10 +359,10 @@
     "expanded_url": [
         "https://github.com/lanleft/CVE2023-1829"
     ],
-    "tweetfavorites": 37,
+    "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 13,
+    "tweetretweets": 14,
     "tweettext": "CVE-2023-1829: A use-after-free vulnerability in the Linux Kernel traffic control index filter (tcindex) can be exploited to achieve local privilege escalation.\n\nPoc\n\nhttps://t.co/o5tCESU91N https://t.co/mS1EnUcfIW",
     "tweettime": "2023-06-16, 11:07:57",
     "tweeturl": "https://twitter.com/cyber_advising/status/1669663093587099648",

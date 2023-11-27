@@ -75,7 +75,7 @@
     "expanded_url": [
         "https://securityonline.info/researchers-published-poc-exploit-for-windows-zero-day-cve-2023-36025-vulnerability/"
     ],
-    "tweetfavorites": 87,
+    "tweetfavorites": 88,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 27,
@@ -649,6 +649,19 @@
     "tweettime": "2023-11-08, 19:01:01",
     "tweeturl": "https://twitter.com/0xor0ne/status/1722328386280849899",
     "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://blog.securelayer7.net/analysis-of-cve-2023-38831-zero-day-vulnerability-in-winrar/"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Analysis of CVE-2023-38831 Zero-Day vulnerability in WinRAR https://t.co/WaHUquP8zW",
+    "tweettime": "2023-11-08, 07:58:03",
+    "tweeturl": "https://twitter.com/reverseame/status/1722161547005379070",
+    "username": "reverseame"
 }
 {
     "expanded_url": [
