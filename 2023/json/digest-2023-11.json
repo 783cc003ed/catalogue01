@@ -205,7 +205,7 @@
     "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
-    "tweetfavorites": 269,
+    "tweetfavorites": 268,
     "tweetquotes": 4,
     "tweetreplies": 1,
     "tweetretweets": 87,
@@ -491,7 +491,7 @@
     ],
     "tweetfavorites": 156,
     "tweetquotes": 0,
-    "tweetreplies": 0,
+    "tweetreplies": 1,
     "tweetretweets": 40,
     "tweettext": "Scan for latest CVE-2023-47246 (SysAid Server - Remote Code Execution) using nuclei templates\n\nTemplate: https://t.co/fS9ACW7xTt\n\nAdvisory: https://t.co/8AZNjyQF1O\n\n#hackwithautomation #appsec #bugbounty #cybersecurity https://t.co/Klcq5KiUsK",
     "tweettime": "2023-11-14, 14:03:26",

@@ -667,7 +667,7 @@
         "https://blog.0patch.com/2022/05/micropatches-for-remote-desktop-client.html"
     ],
     "tweetfavorites": 32,
-    "tweetquotes": 2,
+    "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 7,
     "tweettext": "Micropatches are available for Remote Desktop Client RCE (CVE-2022-21990) https://t.co/pGFuIzwG9S\n\nWe'd like to thank Abdelhamid Naceri (@KLINIX5) for publishing their finding and providing a proof-of-concept that allowed us to reproduce the vulnerability and create a micropatch. https://t.co/MAzqWBmrFD",

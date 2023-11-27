@@ -171,6 +171,20 @@
 }
 {
     "expanded_url": [
+        "https://blog.google/threat-analysis-group/countering-threats-north-korea/",
+        "https://www.virustotal.com/gui/file/03a41d29e3c9763093aca13f1cc8bcc41b201a6839c381aaaccf891204335685"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 54,
+    "tweettext": "Lazarus #APT groups exploiting a remote code execution vulnerability in Chrome:CVE-2022-0609. \n#DreamJob #AppleJeus \nReport:\nhttps://t.co/btxLtB9o21\nExploit:\nhttps://t.co/VD4ghF3OY8 https://t.co/8VmJORCXLm",
+    "tweettime": "2022-03-24, 17:03:10",
+    "tweeturl": "https://twitter.com/blackorbird/status/1507040337097027584",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
         "https://github.com/nonamecoder/CVE-2022-27254"
     ],
     "tweetfavorites": 106,
