@@ -363,6 +363,19 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2023/05/microsofts-may-patch-tuesday-fixes-38.html"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 62,
+    "tweettext": "🔒 Microsoft's May 2023 Patch Tuesday includes fixes for 38 security vulnerabilities, including a zero-day bug under active exploitation.\n\nThe bug (CVE-2023-29336) can grant SYSTEM privileges to attackers.\n\nDetails: https://t.co/fJnwRMz8C9\n\n#cybersecurity #informationsecurity",
+    "tweettime": "2023-05-10, 05:38:05",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1656171732942635008",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29344"
     ],
     "tweetfavorites": 260,
