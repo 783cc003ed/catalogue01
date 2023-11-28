@@ -502,7 +502,7 @@
         "https://github.com/projectdiscovery/nuclei-templates/pull/8625",
         "https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification"
     ],
-    "tweetfavorites": 156,
+    "tweetfavorites": 157,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 40,
@@ -735,6 +735,19 @@
     "tweettime": "2023-11-02, 14:31:43",
     "tweeturl": "https://twitter.com/80vul/status/1720086286676230215",
     "username": "80vul"
+}
+{
+    "expanded_url": [
+        "https://github.com/W01fh4cker/CVE-2023-46747-RCE"
+    ],
+    "tweetfavorites": 336,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 90,
+    "tweettext": "CVE-2023-46747-RCE\n\nF5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability.\n\nhttps://t.co/xaCLWFXMa3\n\n#cve #cybersecurity #infosec https://t.co/rFDen7Tjbw",
+    "tweettime": "2023-11-02, 10:21:05",
+    "tweeturl": "https://twitter.com/hack_git/status/1720023214175195232",
+    "username": "hack_git"
 }
 {
     "expanded_url": [

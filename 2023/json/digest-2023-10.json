@@ -68,10 +68,10 @@
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/",
         "https://my.f5.com/manage/s/article/K000137353"
     ],
-    "tweetfavorites": 528,
+    "tweetfavorites": 526,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 175,
+    "tweetretweets": 173,
     "tweettext": "Scan for F5 BIG-IP - Unauthenticated RCE via AJP Smuggling (CVE-2023-46747) using nuclei templates shared by  @iamnoooob @rootxharsh \n\nTemplate - https://t.co/rRWXJTXS55\n\nAnalysis - https://t.co/F9Z7VKdL7j by @praetorianlabs\n\nAdvisory - https://t.co/5Rqei12XBR… https://t.co/fKE1dxU8ps",
     "tweettime": "2023-10-29, 19:11:08",
     "tweeturl": "https://twitter.com/pdnuclei/status/1718707055308005468",
@@ -119,6 +119,32 @@
     "tweettime": "2023-10-27, 10:46:39",
     "tweeturl": "https://twitter.com/maddiestone/status/1717855323468255490",
     "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/10/f5-issues-warning-big-ip-vulnerability.html"
+    ],
+    "tweetfavorites": 183,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 95,
+    "tweettext": "⚡ Urgent — F5 warns of a critical #vulnerability (CVE-2023-46747) in BIG-IP, allowing unauthenticated remote code execution.\n\nLearn more: https://t.co/V2KdfBcqPH\n\n#cybersecurity #hacking",
+    "tweettime": "2023-10-27, 04:24:45",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1717759211948343410",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://my.f5.com/manage/s/article/K000137353"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 9,
+    "tweettext": "https://t.co/rqh910AOX7\n\nK000137353: BIG-IP Configuration utility unauthenticated remote code execution vulnerability CVE-2023-46747 https://t.co/UwJyKiW4fW",
+    "tweettime": "2023-10-27, 00:06:37",
+    "tweeturl": "https://twitter.com/chybeta/status/1717694249750417423",
+    "username": "chybeta"
 }
 {
     "tweetfavorites": 0,

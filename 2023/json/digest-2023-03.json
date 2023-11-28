@@ -298,10 +298,10 @@
     "expanded_url": [
         "https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-overflow/"
     ],
-    "tweetfavorites": 260,
+    "tweetfavorites": 249,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 104,
+    "tweetretweets": 101,
     "tweettext": "Linux unauthenticated remote code execution in kernel context (CVE-2023-0210 affecting KSMBD)\nCVE analysis writeup by @sysdig\n\nhttps://t.co/1eKncHlLx7\n\n#Linux #kernel #exploit #infosec #cybersecurity https://t.co/6wc4TuZRoX",
     "tweettime": "2023-03-14, 12:15:09",
     "tweeturl": "https://twitter.com/0xor0ne/status/1635615545838952449",
