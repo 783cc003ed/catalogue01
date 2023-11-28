@@ -100,10 +100,10 @@
     "expanded_url": [
         "https://medium.com/tenable-techblog/advantech-webaccess-unpatched-rce-ffe9f37f8b83"
     ],
-    "tweetfavorites": 47,
+    "tweetfavorites": 46,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 27,
+    "tweetretweets": 26,
     "tweettext": "Hello again, CVE-2017-16720 by @steventseeley! You were patched in January but it later turned out you really weren't. And now you're a 0day* with a public POC again.\n\nhttps://t.co/z7OdkWjJhx\n\n* for some values of 0day",
     "tweettime": "2018-09-11, 12:28:19",
     "tweeturl": "https://twitter.com/mkolsek/status/1039490822922792960",
