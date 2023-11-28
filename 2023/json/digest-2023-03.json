@@ -178,6 +178,19 @@
 }
 {
     "expanded_url": [
+        "https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere"
+    ],
+    "tweetfavorites": 74,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "Unauthenticated RCE in Goanywhere - CVE-2023-0669 - Youssef Muhammad\nhttps://t.co/s6kjJsBssR",
+    "tweettime": "2023-03-19, 14:01:00",
+    "tweeturl": "https://twitter.com/pentest_swissky/status/1637454124068503553",
+    "username": "pentest_swissky"
+}
+{
+    "expanded_url": [
         "https://www.huntress.com/blog/everything-we-know-about-cve-2023-23397"
     ],
     "tweetfavorites": 34,

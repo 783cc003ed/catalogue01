@@ -654,7 +654,7 @@
     "expanded_url": [
         "https://zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
     ],
-    "tweetfavorites": 229,
+    "tweetfavorites": 227,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 68,
@@ -711,6 +711,20 @@
     "tweettime": "2023-11-03, 21:58:57",
     "tweeturl": "https://twitter.com/ddouhine/status/1720561227766628353",
     "username": "ddouhine"
+}
+{
+    "expanded_url": [
+        "https://templates.nuclei.sh/public/CVE-2023-43795",
+        "https://www.synacktiv.com/advisories/unauthenticated-server-side-request-forgery-crlf-injection-in-geoserver-wms.html"
+    ],
+    "tweetfavorites": 210,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 43,
+    "tweettext": "🚨CVE-2023-43795 - GeoServer WPS - Server Side Request Forgery 🔥 discovered by @us3r777\nand @_remsio_\n\nNuclei Template: - https://t.co/VYLhfT7wV0\n\nReference: https://t.co/WcQIoBNmHD\n\n#bugbounty #geoserver #cve2023 #pdteam #hackwithautomation https://t.co/RC5nHSvGdE",
+    "tweettime": "2023-11-03, 11:41:14",
+    "tweeturl": "https://twitter.com/DhiyaneshDK/status/1720405772889121216",
+    "username": "DhiyaneshDK"
 }
 {
     "tweetfavorites": 42,

@@ -144,6 +144,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 28,
+    "tweettext": "New #CVE's 🔥\n\n1. CVE-2023-33510 - Jeecg P3 Biz Chat - LFI [high]\n2. CVE-2023-1454 - JeecgBoot 3.5.0 qurestSql - SQL Injection [critical]\n3. CVE-2022-40022 - Symmetricom SyncServer Unauthenticated - RCE [critical]\n4. CVE-2023-27372 - SPIP - RCE [critical]\n\nhttps://t.co/9n0mfnNTUR https://t.co/8jFJoZkHIn",
+    "tweettime": "2023-06-22, 10:07:34",
+    "tweeturl": "https://twitter.com/DhiyaneshDK/status/1671822227661115393",
+    "username": "DhiyaneshDK"
+}
+{
+    "expanded_url": [
         "https://support.apple.com/en-us/HT201222"
     ],
     "tweetfavorites": 52,
@@ -307,7 +320,7 @@
     "expanded_url": [
         "https://github.com/sinsinology/CVE-2023-20887"
     ],
-    "tweetfavorites": 186,
+    "tweetfavorites": 184,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 73,
@@ -432,6 +445,19 @@
     "username": "_Icewall"
 }
 {
+    "expanded_url": [
+        "https://github.com/sinsinology/CVE-2023-20887"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2023-20887\n\nPOC for CVE-2023-20887 VMWare Aria Operations for Networks (vRealize Network Insight) unauthenticated RCE\n\nhttps://t.co/5oRf0sj1NW\n\n#cve #cybersecurity #infosec https://t.co/QH3xZv87qx",
+    "tweettime": "2023-06-14, 05:19:07",
+    "tweeturl": "https://twitter.com/hack_git/status/1668850531979108354",
+    "username": "hack_git"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -550,7 +576,7 @@
     "expanded_url": [
         "https://github.com/sfewer-r7/CVE-2023-34362"
     ],
-    "tweetfavorites": 61,
+    "tweetfavorites": 60,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 33,

@@ -72,6 +72,16 @@
     "username": "cyb3rops"
 }
 {
+    "tweetfavorites": 624,
+    "tweetquotes": 6,
+    "tweetreplies": 10,
+    "tweetretweets": 236,
+    "tweettext": "Citrix Gateway VPN compromised via CVE-2023-3519 (a critical unauthenticated RCE) shows evidence of exploitation on 7th July, 11 days before the official patch.\n\nThe attackers exfiltrated the system configuration file to then probably use the Metasploit module called… https://t.co/vZuXdKsQ3r",
+    "tweettime": "2023-07-23, 05:04:14",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1682979913299632128",
+    "username": "1ZRR4H"
+}
+{
     "expanded_url": [
         "https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt"
     ],
@@ -133,6 +143,19 @@
     "tweettime": "2023-07-12, 23:28:12",
     "tweeturl": "https://twitter.com/HaifeiLi/status/1679271469044609024",
     "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://research.aurainfosec.io/pentest/bee-yond-capacity/"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2023-35803: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs \n\nPoC\nhttps://t.co/Dp53sbvDFG https://t.co/Soj7brDtvS",
+    "tweettime": "2023-07-12, 16:45:20",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1679170087499055119",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [
