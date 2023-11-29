@@ -182,10 +182,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1675"
     ],
-    "tweetfavorites": 313,
-    "tweetquotes": 12,
+    "tweetfavorites": 311,
+    "tweetquotes": 11,
     "tweetreplies": 2,
-    "tweetretweets": 127,
+    "tweetretweets": 126,
     "tweettext": "Recently, we found right approaches to exploit #CVE-2021-1675 successfully, both #LPE and #RCE. It is interesting that the vulnerability was classified into #LPE only by Microsoft, however, it was changed into Remote Code Execution recently.\n\nhttps://t.co/PQO3B12hoE https://t.co/kbYknK9fBw",
     "tweettime": "2021-06-28, 03:29:00",
     "tweeturl": "https://twitter.com/RedDrip7/status/1409353110187757575",
