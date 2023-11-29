@@ -38,7 +38,7 @@
     "expanded_url": [
         "https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490"
     ],
-    "tweetfavorites": 264,
+    "tweetfavorites": 265,
     "tweetquotes": 5,
     "tweetreplies": 8,
     "tweetretweets": 91,
@@ -51,10 +51,10 @@
     "expanded_url": [
         "https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story"
     ],
-    "tweetfavorites": 1857,
+    "tweetfavorites": 1858,
     "tweetquotes": 38,
     "tweetreplies": 37,
-    "tweetretweets": 594,
+    "tweetretweets": 593,
     "tweettext": "So excited to finally release my blog post- Kernel Pwning with eBPF: a Love Story. I cover eBPF, the verifier, debugging, exploitation, mitigations and other cool findings! I do root cause analysis and exploit CVE-2021-3490 for LPE with PoC included. https://t.co/pWt1psHEFa",
     "tweettime": "2021-07-29, 17:38:23",
     "tweeturl": "https://twitter.com/chompie1337/status/1420800888273244162",
