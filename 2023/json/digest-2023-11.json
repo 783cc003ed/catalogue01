@@ -23,6 +23,46 @@
 }
 {
     "expanded_url": [
+        "https://github.com/horizon3ai/CVE-2023-27524"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "PoC CVE-2023-27524 Insecure Default Configuration in Apache Superset Leads to RCE (Remote Code Execution) + Shodan Dork: \n\nhttps://t.co/Di2uzj5s8P\n\nShodan Dork: http.favicon.hash:1582430156\n\n#bugbounty #bugbountytips #bugbountytip",
+    "tweettime": "2023-11-27, 17:28:18",
+    "tweeturl": "https://twitter.com/adrielsec/status/1729190422801711532",
+    "username": "adrielsec"
+}
+{
+    "expanded_url": [
+        "https://github.com/nathan31337/Splunk-RCE-poc",
+        "https://blog.hrncirik.net/cve-2023-46214-analysis"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "PoC CVE-2023-46214 Splunk Enterprise RCE (Remote Code Execution)\n\nhttps://t.co/SpVYhqLpf3\nhttps://t.co/YBwCn4Cbc2\n\n#bugbounty #bugbountytip #bugbountytips",
+    "tweettime": "2023-11-27, 15:11:12",
+    "tweeturl": "https://twitter.com/adrielsec/status/1729155923422351763",
+    "username": "adrielsec"
+}
+{
+    "expanded_url": [
+        "https://github.com/leoanggal1/CVE-2023-3452-PoC"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "PoC CVE-2023-3452 RCE / RFI Unauthenticated\n Wordpress Plugin Canto &lt; 3.0.5\nhttps://t.co/y6maiJq3DM\n\n#bugbounty #bugbountytips #bugbountytip",
+    "tweettime": "2023-11-27, 09:41:04",
+    "tweeturl": "https://twitter.com/adrielsec/status/1729072839196627085",
+    "username": "adrielsec"
+}
+{
+    "expanded_url": [
         "https://www.kitploit.com/2023/10/looneypwner-exploit-tool-for-cve-2023.html?utm_source=dlvr.it&utm_medium=twitter"
     ],
     "tweetfavorites": 98,
