@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 9,
+    "tweetretweets": 9,
+    "tweettext": "This OwnCloud CVE-2023-49103 vul...\nYes, the presence of an unauthenticated phpinfo() is a thing.\nCan we talk about how the docker image for it sets the admin user + cleartext pass via environment variables?\nI don't know much Docker...\nPlease tell me this isn't a common practice? https://t.co/34WgX4x4Vd",
+    "tweettime": "2023-11-28, 21:12:17",
+    "tweeturl": "https://twitter.com/wdormann/status/1729609179730506055",
+    "username": "wdormann"
+}
+{
     "expanded_url": [
         "https://www.kitploit.com/2023/10/looneypwner-exploit-tool-for-cve-2023.html?utm_source=dlvr.it&utm_medium=twitter"
     ],
@@ -654,7 +664,7 @@
     "expanded_url": [
         "https://zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
     ],
-    "tweetfavorites": 228,
+    "tweetfavorites": 227,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 68,
