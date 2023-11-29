@@ -144,7 +144,7 @@
     "tweetfavorites": 88,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 41,
+    "tweetretweets": 42,
     "tweettext": "Crypto3/Hydseven exploit chain: a Firefox RCE + sandbox escape. Links w/ the CVE-2019-11707 (RCE)+CVE-2019-11708 (sandbox escape) Firefox exploits were emailed at Coinbase in a phishing campaign targeting exclusively the FF browser on Win, Linux, Mac\nhttps://t.co/dNWzat4h0U",
     "tweettime": "2022-04-21, 06:32:39",
     "tweeturl": "https://twitter.com/kmkz_security/status/1517028524196081664",

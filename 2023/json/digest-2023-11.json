@@ -23,6 +23,19 @@
 }
 {
     "expanded_url": [
+        "https://www.greynoise.io/blog/cve-2023-49103-owncloud-critical-vulnerability-quickly-exploited-in-the-wild"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "⚠️ CVE-2023-49103: ownCloud Critical Vulnerability Quickly Exploited in the Wild ⚠️ https://t.co/RdcQDPdTWU",
+    "tweettime": "2023-11-27, 23:40:28",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1729284081358340491",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
         "https://github.com/horizon3ai/CVE-2023-27524"
     ],
     "tweetfavorites": 62,
@@ -759,7 +772,7 @@
     "tweetfavorites": 57,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 11,
     "tweettext": "BlueKeep: A Journey from DoS to RCE (CVE-2019-0708) – MalwareTech\n\nhttps://t.co/YyF8tqg4tN",
     "tweettime": "2023-11-05, 22:30:25",
     "tweeturl": "https://twitter.com/tbbhunter/status/1721293919978143837",
