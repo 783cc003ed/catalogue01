@@ -1,21 +1,57 @@
 {
     "expanded_url": [
+        "https://www.labs.greynoise.io//grimoire/2023-11-29-owncloud-redux/"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 24,
+    "tweettext": "Explore the details of the recent ownCloud graphapi vulnerability (CVE-2023-49103) in our latest labs post, as this one starts with some mystery! https://t.co/j4r3clgX9k",
+    "tweettime": "2023-11-30, 01:12:58",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1730032138589020355",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/11/gotitan-botnet-spotted-exploiting.html"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "🚨 Apache ActiveMQ's CVE-2023-46604 flaw is under active exploitation by  hackers to distribute two dangerous programs: GoTitan, a Go-based #botnet, and PrCtrl Rat, a .NET threat.\n\nRead details: https://t.co/Z00iNl5jEs\n\n#cybersecurity #informationsecurity",
+    "tweettime": "2023-11-29, 05:08:18",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1729728973997764769",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2023/11/zero-day-alert-google-chrome-under.html"
     ],
-    "tweetfavorites": 249,
+    "tweetfavorites": 250,
     "tweetquotes": 9,
     "tweetreplies": 6,
-    "tweetretweets": 140,
+    "tweetretweets": 142,
     "tweettext": "🚨 Chrome users, it's time to upgrade!\n\n#Google released security updates for Chrome to fix seven issues, including an actively exploited zero-day #vulnerability (CVE-2023-6345).\n\nFind details here: https://t.co/x60w5u8wQC\n\n#cybersecurity #hacking",
     "tweettime": "2023-11-29, 04:27:58",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1729718823215923463",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 41,
-    "tweetquotes": 0,
-    "tweetreplies": 9,
-    "tweetretweets": 9,
+    "tweetfavorites": 190,
+    "tweetquotes": 10,
+    "tweetreplies": 19,
+    "tweetretweets": 80,
+    "tweettext": "🚨 CHROME ZERO-DAY: CVE-2023-6345\n\nUpdate your chrome browsers now! Google is aware that this zero-day is being exploited in the wild. https://t.co/3X8VAqExcR",
+    "tweettime": "2023-11-28, 22:43:58",
+    "tweeturl": "https://twitter.com/wallet_guard/status/1729632251623698759",
+    "username": "wallet_guard"
+}
+{
+    "tweetfavorites": 127,
+    "tweetquotes": 1,
+    "tweetreplies": 11,
+    "tweetretweets": 21,
     "tweettext": "This OwnCloud CVE-2023-49103 vul...\nYes, the presence of an unauthenticated phpinfo() is a thing.\nCan we talk about how the docker image for it sets the admin user + cleartext pass via environment variables?\nI don't know much Docker...\nPlease tell me this isn't a common practice? https://t.co/34WgX4x4Vd",
     "tweettime": "2023-11-28, 21:12:17",
     "tweeturl": "https://twitter.com/wdormann/status/1729609179730506055",
@@ -23,12 +59,25 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 87,
+    "tweettext": "🚨 CVE-2023-49103 is now actively under attack.\n\nHackers are exploiting a serious flaw in the \"graphapi\" app in ownCloud, gaining access to admin passwords, mail server credentials, and license keys.\n\nRead: https://t.co/7evxkfYAo2",
+    "tweettime": "2023-11-28, 12:25:44",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1729476666324562326",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://www.greynoise.io/blog/cve-2023-49103-owncloud-critical-vulnerability-quickly-exploited-in-the-wild"
     ],
-    "tweetfavorites": 41,
+    "tweetfavorites": 42,
     "tweetquotes": 6,
-    "tweetreplies": 0,
-    "tweetretweets": 25,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
     "tweettext": "⚠️ CVE-2023-49103: ownCloud Critical Vulnerability Quickly Exploited in the Wild ⚠️ https://t.co/RdcQDPdTWU",
     "tweettime": "2023-11-27, 23:40:28",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1729284081358340491",
@@ -229,7 +278,7 @@
     "expanded_url": [
         "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation"
     ],
-    "tweetfavorites": 76,
+    "tweetfavorites": 77,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 30,
@@ -294,7 +343,7 @@
     "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
-    "tweetfavorites": 269,
+    "tweetfavorites": 270,
     "tweetquotes": 5,
     "tweetreplies": 1,
     "tweetretweets": 87,
