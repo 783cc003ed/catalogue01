@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 71,
+    "tweettext": "RT @CyberWarship: \"PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published\"\n\n#infosec #pentest #redteam \nhttps://…",
+    "tweettime": "2023-11-30, 13:25:26",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1730216469869351262",
+    "username": "kmkz_security"
+}
+{
     "expanded_url": [
         "https://www.labs.greynoise.io//grimoire/2023-11-29-owncloud-redux/"
     ],
@@ -28,10 +38,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/11/zero-day-alert-google-chrome-under.html"
     ],
-    "tweetfavorites": 250,
+    "tweetfavorites": 252,
     "tweetquotes": 9,
     "tweetreplies": 6,
-    "tweetretweets": 142,
+    "tweetretweets": 143,
     "tweettext": "🚨 Chrome users, it's time to upgrade!\n\n#Google released security updates for Chrome to fix seven issues, including an actively exploited zero-day #vulnerability (CVE-2023-6345).\n\nFind details here: https://t.co/x60w5u8wQC\n\n#cybersecurity #hacking",
     "tweettime": "2023-11-29, 04:27:58",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1729718823215923463",
