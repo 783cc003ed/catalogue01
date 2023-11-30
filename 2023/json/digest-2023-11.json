@@ -2,11 +2,24 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 97,
+    "tweetretweets": 102,
     "tweettext": "RT @CyberWarship: \"PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published\"\n\n#infosec #pentest #redteam \nhttps://…",
     "tweettime": "2023-11-30, 13:25:26",
     "tweeturl": "https://twitter.com/kmkz_security/status/1730216469869351262",
     "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-for-windows-ntlm-privilege-escalation-flaw-cve-2023-21746-published/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "RT @ptracesecurity: PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published https://t.co/TC5pDRZhOo  #Pentesting…",
+    "tweettime": "2023-11-30, 09:29:36",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1730157117674303631",
+    "username": "hackerfantastic"
 }
 {
     "expanded_url": [
