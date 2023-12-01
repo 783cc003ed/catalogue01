@@ -2,7 +2,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 102,
+    "tweetretweets": 143,
     "tweettext": "RT @CyberWarship: \"PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published\"\n\n#infosec #pentest #redteam \nhttps://…",
     "tweettime": "2023-11-30, 13:25:26",
     "tweeturl": "https://twitter.com/kmkz_security/status/1730216469869351262",
@@ -418,7 +418,7 @@
     "expanded_url": [
         "https://github.com/W01fh4cker/CVE-2023-47246-EXP"
     ],
-    "tweetfavorites": 63,
+    "tweetfavorites": 62,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 20,
@@ -510,10 +510,10 @@
     "expanded_url": [
         "https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/"
     ],
-    "tweetfavorites": 200,
+    "tweetfavorites": 201,
     "tweetquotes": 3,
-    "tweetreplies": 3,
-    "tweetretweets": 70,
+    "tweetreplies": 4,
+    "tweetretweets": 71,
     "tweettext": "🪲 New blog from me, @_clem1, and Kristen on the Zimbra in-the-wild 0-day, CVE-2023-37580, discovered by TAG in the summer. We discovered 4 different campaigns using the bug against organizations in Greece, Moldova, Tunisia, Vietnam, and Pakistan.\n\nhttps://t.co/m1vxz51QMC",
     "tweettime": "2023-11-16, 16:24:40",
     "tweeturl": "https://twitter.com/maddiestone/status/1725188141521523026",
