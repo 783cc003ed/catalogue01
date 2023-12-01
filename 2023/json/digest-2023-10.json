@@ -432,7 +432,7 @@
     "expanded_url": [
         "https://github.com/Wh04m1001/CVE-2023-36723"
     ],
-    "tweetfavorites": 101,
+    "tweetfavorites": 100,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 33,
@@ -455,7 +455,7 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 631,
+    "tweetfavorites": 630,
     "tweetquotes": 6,
     "tweetreplies": 8,
     "tweetretweets": 175,
@@ -471,7 +471,7 @@
     "tweetfavorites": 612,
     "tweetquotes": 10,
     "tweetreplies": 13,
-    "tweetretweets": 245,
+    "tweetretweets": 246,
     "tweettext": "🚨 Hundreds of Citrix VPN instances exploited via CVE-2023-3519 are harvesting corporate credentials in cleartext.\n\nAt this time, Shodan shows 406 compromised instances with malicious JavaScript code injected into the login page: https://t.co/AiG1RAOTAP (URL shortener because… https://t.co/EjfpsleMPe",
     "tweettime": "2023-10-10, 10:15:19",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1711686844490936568",
