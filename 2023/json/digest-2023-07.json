@@ -72,7 +72,7 @@
     "username": "cyb3rops"
 }
 {
-    "tweetfavorites": 623,
+    "tweetfavorites": 624,
     "tweetquotes": 6,
     "tweetreplies": 10,
     "tweetretweets": 236,
@@ -106,6 +106,29 @@
     "tweettime": "2023-07-19, 19:00:01",
     "tweeturl": "https://twitter.com/hosselot/status/1681740693084188674",
     "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://support.citrix.com/article/CTX561482/citrix-adc-and-citrix-gateway-security-bulletin-for-cve20233519-cve20233466-cve20233467"
+    ],
+    "tweetfavorites": 222,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 107,
+    "tweettext": "⚠ Patch CVE-2023-3519 - Unauthenticated RCE in Citrix ADC and Citrix Gateway\n\nCitrix: \"Exploits of CVE-2023-3519 on unmitigated appliances have been observed\" 🔥\n\nhttps://t.co/jFtSuXe7PV",
+    "tweettime": "2023-07-18, 14:46:44",
+    "tweeturl": "https://twitter.com/BushidoToken/status/1681314564162588672",
+    "username": "BushidoToken"
+}
+{
+    "tweetfavorites": 51,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "🍯🚨 Honeypot Alert\n\nCVE-2023-20887 VMWare Aria Operations for Networks (vRealize Network Insight) unauthenticated RCE\n\nLast Attackers:\n108.174.60.151 🇺🇲 \n43.230.89.168 🇭🇰\n103.215.206.35 🇮🇳\n221.15.155.184 🇨🇳\n193.187.172.27 🇷🇺 https://t.co/mzPwrxANq0",
+    "tweettime": "2023-07-18, 11:13:00",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1681260777087565825",
+    "username": "1ZRR4H"
 }
 {
     "expanded_url": [
