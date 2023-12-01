@@ -383,7 +383,7 @@
     "tweetfavorites": 67,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 17,
+    "tweetretweets": 16,
     "tweettext": "In this post @mmolgtm shows how to get Remote Code Execution (RCE) in Chrome, by exploiting the type confusion vulnerability CVE-2023-4069 in the Maglev compiler.\n\nhttps://t.co/8CPoUbz70b",
     "tweettime": "2023-10-17, 15:06:16",
     "tweeturl": "https://twitter.com/GHSecurityLab/status/1714296777711431943",
