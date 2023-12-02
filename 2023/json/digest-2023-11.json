@@ -2,6 +2,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 89,
+    "tweettext": "RT @maddiestone: 💥New ITW 0-days discovered by @_clem1 and @benoitsevens . CVE-2023-6345 in Chrome (Skia) and CVE-2023-42916 and CVE-2023-4…",
+    "tweettime": "2023-11-30, 23:44:31",
+    "tweeturl": "https://twitter.com/AdmVonSchneider/status/1730372264854696359",
+    "username": "AdmVonSchneider"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 162,
     "tweettext": "RT @CyberWarship: \"PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published\"\n\n#infosec #pentest #redteam \nhttps://…",
     "tweettime": "2023-11-30, 13:25:26",
@@ -379,7 +389,7 @@
     "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
-    "tweetfavorites": 270,
+    "tweetfavorites": 271,
     "tweetquotes": 5,
     "tweetreplies": 1,
     "tweetretweets": 87,
@@ -457,7 +467,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 70,
+    "tweetretweets": 71,
     "tweettext": "RT @maddiestone: 🪲 New blog from me, @_clem1, and Kristen on the Zimbra in-the-wild 0-day, CVE-2023-37580, discovered by TAG in the summer.…",
     "tweettime": "2023-11-17, 07:58:29",
     "tweeturl": "https://twitter.com/AdmVonSchneider/status/1725423147581923799",
