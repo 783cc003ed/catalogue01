@@ -123,10 +123,10 @@
     "expanded_url": [
         "https://github.com/horizon3ai/CVE-2023-27524"
     ],
-    "tweetfavorites": 62,
+    "tweetfavorites": 66,
     "tweetquotes": 1,
-    "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
     "tweettext": "PoC CVE-2023-27524 Insecure Default Configuration in Apache Superset Leads to RCE (Remote Code Execution) + Shodan Dork: \n\nhttps://t.co/Di2uzj5s8P\n\nShodan Dork: http.favicon.hash:1582430156\n\n#bugbounty #bugbountytips #bugbountytip",
     "tweettime": "2023-11-27, 17:28:18",
     "tweeturl": "https://twitter.com/adrielsec/status/1729190422801711532",
@@ -612,7 +612,7 @@
         "https://hunter.how/list?searchValue=web.title%3D%22SolarWinds%20Network%20Management%22%20and%20web.body%3D%22%2FSolarWinds.css%22",
         "https://www.solarwinds.com/trust-center/security-advisories/cve-2023-40054"
     ],
-    "tweetfavorites": 120,
+    "tweetfavorites": 121,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 41,
