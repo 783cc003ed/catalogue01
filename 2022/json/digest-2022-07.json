@@ -272,7 +272,7 @@
     "tweetfavorites": 153,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 67,
+    "tweetretweets": 66,
     "tweettext": "LPE exploit for CVE-2022-34918. This exploit has been written for the kernel Linux ubuntu 5.15.0-39-generic\n\nBlog:\n\nhttps://t.co/30PhGTjHWj\n\nPOC:\n\nhttps://t.co/rGcsbuhzPE\n\n#Linux #LPE",
     "tweettime": "2022-07-21, 10:28:36",
     "tweeturl": "https://twitter.com/soheilhashemi_/status/1550065195896143873",
@@ -341,7 +341,7 @@
     "expanded_url": [
         "https://lab.viettelcybersecurity.com/advisories/VCSA-97"
     ],
-    "tweetfavorites": 338,
+    "tweetfavorites": 339,
     "tweetquotes": 4,
     "tweetreplies": 3,
     "tweetretweets": 120,

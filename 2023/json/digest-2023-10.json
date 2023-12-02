@@ -196,7 +196,7 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
     ],
-    "tweetfavorites": 249,
+    "tweetfavorites": 251,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 66,
@@ -455,10 +455,10 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 630,
+    "tweetfavorites": 634,
     "tweetquotes": 6,
     "tweetreplies": 8,
-    "tweetretweets": 175,
+    "tweetretweets": 176,
     "tweettext": "⚠️ We have reproduced CVE-2023-22515 in Atlassian Confluence.\n\nBroken access control allows unauthenticated users to gain administrative access to the web application! \n\nUpdate your software ASAP! https://t.co/MlE4ygyf3E",
     "tweettime": "2023-10-10, 11:05:51",
     "tweeturl": "https://twitter.com/ptswarm/status/1711699559359865200",

@@ -18,7 +18,7 @@
     "tweetfavorites": 742,
     "tweetquotes": 11,
     "tweetreplies": 9,
-    "tweetretweets": 197,
+    "tweetretweets": 196,
     "tweettext": "I developed an N-day exploit for CVE-2022-2586: Linux kernel nft_object Use-After-Free (UAF). I sent my exploit and writeup to the oss-security mailing list: https://t.co/E6YZiBG8xW https://t.co/4B2RHa0T6M",
     "tweettime": "2022-08-29, 20:03:52",
     "tweeturl": "https://twitter.com/lockedbyte/status/1564343093633208321",
@@ -355,7 +355,7 @@
     "expanded_url": [
         "https://access.redhat.com/security/cve/CVE-2022-2414"
     ],
-    "tweetfavorites": 142,
+    "tweetfavorites": 141,
     "tweetquotes": 3,
     "tweetreplies": 2,
     "tweetretweets": 51,

@@ -404,7 +404,7 @@
     "tweetfavorites": 275,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 103,
+    "tweetretweets": 102,
     "tweettext": "I've created a PoC (DoS) for CVE-2021-40449 (Win32k - LPE) with a technical writeup, commented code, and steps to further exploit the vulnerability. Before going further myself, I thought I'd share this.\n\nhttps://t.co/wKjw5iZIjb",
     "tweettime": "2021-10-16, 16:30:44",
     "tweeturl": "https://twitter.com/ly4k_/status/1449412505894330372",

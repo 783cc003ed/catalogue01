@@ -5,7 +5,7 @@
     "tweetfavorites": 181,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 70,
+    "tweetretweets": 69,
     "tweettext": "My personalized Windows 10 re-creation of the HYDSEVEN exploit chain used to target Coinbase. This chain involves the use of a Firefox RCE (CVE-2019-11707) and Firefox sandbox escape (CVE-2019-11708) for shellcode execution as Medium Integrity https://t.co/E1fftDiltx",
     "tweettime": "2021-12-29, 15:17:26",
     "tweeturl": "https://twitter.com/_ForrestOrr/status/1476210760514785282",
@@ -406,10 +406,10 @@
     "expanded_url": [
         "https://msft.it/6019ZENIW"
     ],
-    "tweetfavorites": 830,
+    "tweetfavorites": 829,
     "tweetquotes": 29,
     "tweetreplies": 9,
-    "tweetretweets": 463,
+    "tweetretweets": 462,
     "tweettext": "Microsoft is tracking threats taking advantage of the CVE-2021-44228 remote code execution (RCE) vulnerability in Apache Log4j 2 (\"Log4Shell\"). Get technical info and guidance for preventing, detecting, and hunting for related attacks: https://t.co/vOB7R1LXlj",
     "tweettime": "2021-12-12, 05:38:05",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1469904367281229824",

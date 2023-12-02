@@ -18,7 +18,7 @@
     "tweetfavorites": 71,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 67,
+    "tweetretweets": 66,
     "tweettext": "Qualys Security Advisory Team - Mutagen Astronomy:  Integer overflow in Linux's create_elf_tables(), CVE-2018-14634.  LPE (full root) from a suid-root binary.  RHEL, CentOS and Debian 8 are vulnerable.  Advisory, PoC and exploit at: https://t.co/mpqAXepCAQ",
     "tweettime": "2018-09-25, 17:14:47",
     "tweeturl": "https://twitter.com/pozdnychev/status/1044636342590873600",
