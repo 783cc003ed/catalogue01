@@ -573,7 +573,7 @@
     "tweetfavorites": 195,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 109,
+    "tweetretweets": 108,
     "tweettext": "CVE-2022-21972: Windows Server VPN - remote kernel use after free vulnerability, by @i4mchr00t. \n\nThis one has RCE potential. Patch just released on Patch Tuesday. Apply it now.\n\nhttps://t.co/udW54soCXP",
     "tweettime": "2022-05-11, 12:16:04",
     "tweeturl": "https://twitter.com/Nettitude_Labs/status/1524362704802226177",
