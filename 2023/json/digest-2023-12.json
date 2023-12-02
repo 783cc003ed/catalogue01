@@ -9,6 +9,26 @@
     "username": "0vercl0k"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 78,
+    "tweettext": "RT @bohops: [Blog] Abusing .NET Core CLR Diagnostic Features (+ CVE-2023-33127) \n\n- Analysis of .NET diagnostic features and tradecraft \n-…",
+    "tweettime": "2023-12-02, 02:57:17",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1730783165176762762",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "RT @zerodaytraining: Research insights on recent Chrome 0day in Skia (CVE-2023-6435) from our lab:\n\n1. The bug is an integer overflow in Sk…",
+    "tweettime": "2023-12-01, 12:30:22",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1730564997686690170",
+    "username": "kmkz_security"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2023/12/zero-day-alert-apple-rolls-out-ios.html"
     ],
