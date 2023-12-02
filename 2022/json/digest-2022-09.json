@@ -475,7 +475,7 @@
     "tweetfavorites": 65,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 18,
+    "tweetretweets": 17,
     "tweettext": "CVE-2022-34718 FAQ\n\nHow could an attacker exploit this vulnerability?\n\nAn unauthenticated attacker could send a specially crafted IPv6 packet to a Windows node where IPSec is enabled, which could enable a remote code execution exploitation on that machine.\nhttps://t.co/WKO2tWTK58 https://t.co/Y4ZT6U63xO",
     "tweettime": "2022-09-14, 00:42:33",
     "tweeturl": "https://twitter.com/netspooky/status/1569849045127929858",
