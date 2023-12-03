@@ -258,7 +258,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 37,
+    "tweetretweets": 36,
     "tweettext": "RT @cyber_advising: CVE-2023-34051: VMware Aria Operations for Logs contains an authentication bypass vulnerability. An unauthenticated, ma…",
     "tweettime": "2023-10-22, 11:28:23",
     "tweeturl": "https://twitter.com/momika233/status/1716053883313967372",
@@ -304,7 +304,7 @@
     "expanded_url": [
         "https://github.com/abuyv/CVElab/tree/main/cves/cve-2023-20198"
     ],
-    "tweetfavorites": 120,
+    "tweetfavorites": 122,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 44,
