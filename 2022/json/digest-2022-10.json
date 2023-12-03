@@ -36,7 +36,7 @@
         "https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part",
         "https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis"
     ],
-    "tweetfavorites": 223,
+    "tweetfavorites": 224,
     "tweetquotes": 3,
     "tweetreplies": 1,
     "tweetretweets": 95,
@@ -76,7 +76,7 @@
         "https://buff.ly/3gbozef",
         "https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/"
     ],
-    "tweetfavorites": 183,
+    "tweetfavorites": 184,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 80,
@@ -118,7 +118,7 @@
     "tweetfavorites": 38,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 19,
+    "tweetretweets": 18,
     "tweettext": "⚠️ CVE-2022-40684 event detected ⚠️\n\nSource IP:\n91.211.16.202 (🇷🇺)\n\nTarget:\nMultiple Fortinet products (FortiOS, FortiProxy, and FortiSwitchManager) vulnerable to authentication bypass (https://t.co/7a0u0A87xM).\n#threatintel",
     "tweettime": "2022-10-26, 19:50:01",
     "tweeturl": "https://twitter.com/bad_packets/status/1585358104979439624",
