@@ -232,7 +232,7 @@
     "tweetfavorites": 138,
     "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 61,
+    "tweetretweets": 60,
     "tweettext": "Two #0day exploits were used against targets in the Middle East, and led to the deployment of Candiru's #DevilsTongue spyware!\n\n- Heap BOF in WebRTC, Chromium (CVE-2022-2294)\n- LPE in a 3rd party driver\n\nGreat finding by the team @ @AvastThreatLabs!\n\nhttps://t.co/03GtyS8Eno\n\n&gt;&gt;",
     "tweettime": "2022-07-21, 14:11:46",
     "tweeturl": "https://twitter.com/megabeets_/status/1550121359761555460",

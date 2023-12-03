@@ -219,10 +219,10 @@
     "expanded_url": [
         "https://big5-sec.github.io/posts/an-analysis-of-cve-2022-21877/"
     ],
-    "tweetfavorites": 89,
+    "tweetfavorites": 88,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 33,
+    "tweetretweets": 31,
     "tweettext": "A bit late, but here is an analysis for fun of CVE-2022-21877 (storage spaces controller memory leak) found by @linhlhq of @starlabs_sg : https://t.co/qOJzQV0uAM",
     "tweettime": "2022-02-08, 23:26:42",
     "tweeturl": "https://twitter.com/Big5_sec/status/1491191790602694656",
