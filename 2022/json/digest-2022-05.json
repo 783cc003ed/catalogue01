@@ -521,7 +521,7 @@
     "tweetfavorites": 72,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 43,
+    "tweetretweets": 42,
     "tweettext": "Today's write up is a deep dive into CVE-2022-23270, another remote Microsoft Windows VPN vulnerability, by @i4mchr00t.  \n\nLearn how to identify and trigger Use after Free vulnerabilities in production code!\n\nhttps://t.co/FyVNR4VhYt",
     "tweettime": "2022-05-12, 12:16:27",
     "tweeturl": "https://twitter.com/Nettitude_Labs/status/1524725186678996992",

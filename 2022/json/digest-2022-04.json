@@ -55,7 +55,7 @@
     "tweetfavorites": 168,
     "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 56,
+    "tweetretweets": 55,
     "tweettext": "A little behind on this one, but here's a Metasploit module for the Redis sandbox escape RCE (CVE-2022-0543). PoC video and pcap within: https://t.co/jdLzt95ehm",
     "tweettime": "2022-04-26, 16:23:48",
     "tweeturl": "https://twitter.com/Junior_Baines/status/1518989229434540034",
