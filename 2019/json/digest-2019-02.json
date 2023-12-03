@@ -30,10 +30,10 @@
         "http://bit.ly/2XdzMNm",
         "http://bit.ly/2EkFPIs"
     ],
-    "tweetfavorites": 239,
+    "tweetfavorites": 240,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 129,
+    "tweetretweets": 128,
     "tweettext": "Microsoft Edge RCE PoC (CVE-2018-8495). Nice payload by @kmkz_security \nhttps://t.co/JBz1wmms6W\n\nInitial  writeup: https://t.co/Jd5BrMN2zv",
     "tweettime": "2019-02-20, 08:23:03",
     "tweeturl": "https://twitter.com/XssPayloads/status/1098135934665719808",

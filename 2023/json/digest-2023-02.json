@@ -196,7 +196,7 @@
     "tweetfavorites": 995,
     "tweetquotes": 39,
     "tweetreplies": 19,
-    "tweetretweets": 384,
+    "tweetretweets": 383,
     "tweettext": "CVE-2022-39952, announced today, allows for unauthenticated RCE against #Fortinet FortiNAC as the root user. Blog post and POC to be released soon. \n\nSee Fortinet's PSIRT: https://t.co/sBsrs8Wxqb https://t.co/EqkIo3ap4s",
     "tweettime": "2023-02-17, 21:19:15",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1626692778062237713",

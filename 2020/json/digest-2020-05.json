@@ -5,7 +5,7 @@
     "tweetfavorites": 56,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 21,
+    "tweetretweets": 20,
     "tweettext": "Discover how @bluefrostsec exploits #Android Binder to escape the Google #Chrome sandbox, attack the kernel, and obtain root privileges on a Pixel 3 device using CVE-2020-0041. https://t.co/9xtJJFBC3d\n\nDetailed writeup by @esanfelix and @jgrusko with video demo and POC on Github! https://t.co/KwUnhUmy9k",
     "tweettime": "2020-05-29, 12:37:02",
     "tweeturl": "https://twitter.com/_ringzer0/status/1266347819482390530",
