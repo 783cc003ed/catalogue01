@@ -29,6 +29,16 @@
     "username": "kmkz_security"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 90,
+    "tweettext": "RT @maddiestone: 💥New ITW 0-days discovered by @_clem1 and @benoitsevens . CVE-2023-6345 in Chrome (Skia) and CVE-2023-42916 and CVE-2023-4…",
+    "tweettime": "2023-12-01, 11:18:49",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1730546991518580808",
+    "username": "cyb3rops"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2023/12/zero-day-alert-apple-rolls-out-ios.html"
     ],
