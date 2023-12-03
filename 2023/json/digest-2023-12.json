@@ -22,7 +22,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 45,
+    "tweetretweets": 46,
     "tweettext": "RT @zerodaytraining: Research insights on recent Chrome 0day in Skia (CVE-2023-6435) from our lab:\n\n1. The bug is an integer overflow in Sk…",
     "tweettime": "2023-12-01, 12:30:22",
     "tweeturl": "https://twitter.com/kmkz_security/status/1730564997686690170",
