@@ -475,10 +475,10 @@
     "expanded_url": [
         "https://www.reddit.com/r/netsec/comments/ppb0th/rce_proof_of_concept_for_cve202138647_omigod/"
     ],
-    "tweetfavorites": 40,
+    "tweetfavorites": 38,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 10,
+    "tweetretweets": 8,
     "tweettext": "RCE Proof of Concept for CVE-2021-38647 (OMIGOD) https://t.co/EmEoDCuPfp",
     "tweettime": "2021-09-17, 04:25:03",
     "tweeturl": "https://twitter.com/Dinosn/status/1438720633429442560",
@@ -501,10 +501,10 @@
     "expanded_url": [
         "https://github.com/horizon3ai/CVE-2021-38647"
     ],
-    "tweetfavorites": 52,
+    "tweetfavorites": 50,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 24,
+    "tweetretweets": 23,
     "tweettext": "RCE Proof of Concept for CVE-2021-38647 (OMIGOD) https://t.co/Q4TGbURPuH",
     "tweettime": "2021-09-16, 15:58:06",
     "tweeturl": "https://twitter.com/_r_netsec/status/1438532657843871752",
@@ -981,7 +981,7 @@
     "tweetfavorites": 203,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 90,
+    "tweetretweets": 89,
     "tweettext": "If you're looking for real-world samples that exploit the Microsoft MSHTML Remote Code Execution Vulnerability (CVE-2021-40444), check out the files listed here:\n\nhttps://t.co/dCLZIHhGgV\nhttps://t.co/XjWWwxV0zY",
     "tweettime": "2021-09-09, 14:58:14",
     "tweeturl": "https://twitter.com/InQuest/status/1435980874101792769",
