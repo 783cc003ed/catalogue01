@@ -41,8 +41,8 @@
     "expanded_url": [
         "https://github.com/alalng/CVE-2022-44789"
     ],
-    "tweetfavorites": 31,
-    "tweetquotes": 3,
+    "tweetfavorites": 32,
+    "tweetquotes": 4,
     "tweetreplies": 1,
     "tweetretweets": 11,
     "tweettext": "Read my writeup and exploit for a Use-After-Free Vulnerability in Artifex MuJS (CVE-2022-44789): https://t.co/BvF3PkKemm \n\nHope some of the techniques used can help pwners in solving future MuJS CTF challs.🙂 https://t.co/fQ5W5lrku4",
