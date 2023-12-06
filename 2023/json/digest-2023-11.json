@@ -33,6 +33,19 @@
 }
 {
     "expanded_url": [
+        "https://securityonline.info/poc-exploit-for-windows-ntlm-privilege-escalation-flaw-cve-2023-21746-published/"
+    ],
+    "tweetfavorites": 436,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 167,
+    "tweettext": "\"PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published\"\n\n#infosec #pentest #redteam \nhttps://t.co/3VKVO5dqdJ https://t.co/uhFIPdEpux",
+    "tweettime": "2023-11-30, 08:22:02",
+    "tweeturl": "https://twitter.com/CyberWarship/status/1730140113898721389",
+    "username": "CyberWarship"
+}
+{
+    "expanded_url": [
         "https://www.labs.greynoise.io//grimoire/2023-11-29-owncloud-redux/"
     ],
     "tweetfavorites": 51,
@@ -673,10 +686,10 @@
         "https://github.com/projectdiscovery/nuclei-templates/pull/8625",
         "https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification"
     ],
-    "tweetfavorites": 157,
+    "tweetfavorites": 156,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 40,
+    "tweetretweets": 39,
     "tweettext": "Scan for latest CVE-2023-47246 (SysAid Server - Remote Code Execution) using nuclei templates\n\nTemplate: https://t.co/fS9ACW7xTt\n\nAdvisory: https://t.co/8AZNjyQF1O\n\n#hackwithautomation #appsec #bugbounty #cybersecurity https://t.co/Klcq5KiUsK",
     "tweettime": "2023-11-14, 14:03:26",
     "tweeturl": "https://twitter.com/pdnuclei/status/1724427823174017141",
