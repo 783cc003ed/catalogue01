@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-23-1512/"
+    ],
+    "tweetfavorites": 170,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 39,
+    "tweettext": "Here's a POC for CVE-2023-44414 (A pre-auth RCE): https://t.co/hJ7DDSONRW https://t.co/ADpXdVGZZo",
+    "tweettime": "2023-12-04, 23:18:05",
+    "tweeturl": "https://twitter.com/steventseeley/status/1731815163613806924",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
         "https://twitter.com/MsftSecIntel/status/1731626192300634585",
         "https://research.checkpoint.com/2023/the-obvious-the-normal-and-the-advanced-a-comprehensive-analysis-of-outlook-attack-vectors/"
     ],

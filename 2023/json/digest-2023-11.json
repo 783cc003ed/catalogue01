@@ -272,10 +272,10 @@
     "expanded_url": [
         "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation"
     ],
-    "tweetfavorites": 114,
+    "tweetfavorites": 115,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 38,
+    "tweetretweets": 39,
     "tweettext": "CVE-2023-4357: Insufficient validation of untrusted input in XML in Google Chrome prior to 116.0.5845.96 allowed a remote attacker to bypass file access restrictions via a crafted HTML page. (Chromium security severity: Medium)\n\nPoC\nhttps://t.co/m7cUPxK8rd https://t.co/D3CC7fBf5M",
     "tweettime": "2023-11-20, 16:28:57",
     "tweeturl": "https://twitter.com/cyber_advising/status/1726638772165722507",
@@ -389,7 +389,7 @@
     "expanded_url": [
         "https://github.com/nathan31337/Splunk-RCE-poc"
     ],
-    "tweetfavorites": 271,
+    "tweetfavorites": 270,
     "tweetquotes": 5,
     "tweetreplies": 1,
     "tweetretweets": 87,

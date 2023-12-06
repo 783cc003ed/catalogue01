@@ -30,7 +30,7 @@
     "expanded_url": [
         "https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/"
     ],
-    "tweetfavorites": 78,
+    "tweetfavorites": 76,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 19,
@@ -101,7 +101,7 @@
     "expanded_url": [
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/"
     ],
-    "tweetfavorites": 183,
+    "tweetfavorites": 181,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 78,
@@ -177,7 +177,7 @@
     "tweetfavorites": 241,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 80,
+    "tweetretweets": 78,
     "tweettext": "CVE-2023-36745:  Microsoft Exchange Server Remote Code Execution Vulnerability.\n\nPoC\nhttps://t.co/t7kkChV08Z https://t.co/UFUmuYBOy7",
     "tweettime": "2023-10-25, 07:12:11",
     "tweeturl": "https://twitter.com/cyber_advising/status/1717076572539117655",
@@ -282,10 +282,10 @@
     "expanded_url": [
         "https://github.com/horizon3ai/CVE-2023-34051"
     ],
-    "tweetfavorites": 64,
+    "tweetfavorites": 63,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 37,
+    "tweetretweets": 36,
     "tweettext": "CVE-2023-34051: VMware Aria Operations for Logs contains an authentication bypass vulnerability. An unauthenticated, malicious actor can inject files into the operating system of an impacted appliance which can result in remote code execution.\n\nPoC\nhttps://t.co/Usl4Nx8Zvv https://t.co/9QZwLddFSl",
     "tweettime": "2023-10-21, 17:44:02",
     "tweeturl": "https://twitter.com/cyber_advising/status/1715786031587303601",
@@ -446,7 +446,7 @@
     "expanded_url": [
         "https://github.com/Wh04m1001/CVE-2023-36723"
     ],
-    "tweetfavorites": 101,
+    "tweetfavorites": 99,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 33,

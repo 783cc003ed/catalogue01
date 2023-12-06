@@ -156,7 +156,7 @@
     "tweetfavorites": 54,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 14,
+    "tweetretweets": 13,
     "tweettext": "Gitlab Project Import RCE Analysis (CVE-2022-2185) https://t.co/DxWDiEm7bx",
     "tweettime": "2022-09-23, 08:40:29",
     "tweeturl": "https://twitter.com/reverseame/status/1573230813180829696",
@@ -472,7 +472,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-34718"
     ],
-    "tweetfavorites": 65,
+    "tweetfavorites": 64,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 17,
