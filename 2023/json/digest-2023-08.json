@@ -115,6 +115,29 @@
     "username": "TecR0c"
 }
 {
+    "tweetfavorites": 116,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 52,
+    "tweettext": "⚠️ We are continuing to monitor CVE-2023-24489 (Citrix ShareFile RCE) exploit activity closely. All flagged IPs are marked malicious. There's been a huge spike in activity today. Make sure your systems are up to date with the latest patches. https://t.co/AlgCE57QH6",
+    "tweettime": "2023-08-16, 16:42:29",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1691852944906305958",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://blog.assetnote.io/2023/08/09/exploiting-citrix-netscaler-cve-2023-3519/"
+    ],
+    "tweetfavorites": 203,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "In the last post of the series, my colleague explains the process that went into re-discovering the Citrix ADC / Netscaler RCE CVE-2023-3519. We also share an exploit for this vulnerability. Check out our blog if you want to learn more about the process: https://t.co/7csA4tlwA1 https://t.co/8rX2Jnmtzq",
+    "tweettime": "2023-08-10, 02:43:08",
+    "tweeturl": "https://twitter.com/infosec_au/status/1689467388708937728",
+    "username": "infosec_au"
+}
+{
     "expanded_url": [
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22",
         "https://thehackernews.com/2023/08/microsoft-releases-patches-for-74-new.html"
@@ -140,6 +163,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/BishopFox/CVE-2023-3519"
+    ],
+    "tweetfavorites": 107,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "Citrix ADC RCE CVE-2023-3519\nThis exploit uses addresses and shellcode for Citrix VPX 13.1-48.47.\nhttps://t.co/4isWgdXjTM",
+    "tweettime": "2023-08-06, 03:49:53",
+    "tweeturl": "https://twitter.com/momika233/status/1688034634712657920",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
         "https://starlabs.sg/blog/2023/06-breaking-the-code-exploiting-and-examining-cve-2023-1829-in-cls_tcindex-classifier-vulnerability/"
     ],
     "tweetfavorites": 156,
@@ -150,4 +186,30 @@
     "tweettime": "2023-08-05, 18:30:05",
     "tweeturl": "https://twitter.com/0xor0ne/status/1687893754483515393",
     "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://github.com/BishopFox/CVE-2023-3519"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 32,
+    "tweettext": "GitHub - BishopFox/CVE-2023-3519: RCE exploit for CVE-2023-3519 - https://t.co/FadweSfyei",
+    "tweettime": "2023-08-05, 02:02:36",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1687645245721505792",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/BishopFox/CVE-2023-3519"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 32,
+    "tweettext": "We're following others by publishing our exploit (and shellcode generator) for the critical-severity CVE-2023-3519, preauth RCE in Citrix ADC Gateway. If you haven't patched yet—do. 🩹 https://t.co/uTXQTvL8zc",
+    "tweettime": "2023-08-05, 00:17:57",
+    "tweeturl": "https://twitter.com/noperator/status/1687618913079545856",
+    "username": "noperator"
 }

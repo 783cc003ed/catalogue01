@@ -328,6 +328,19 @@
     "username": "momika233"
 }
 {
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2023/10/19/metasploit-weekly-wrap-up-32/"
+    ],
+    "tweetfavorites": 221,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 86,
+    "tweettext": "This weeks @metasploit release has our unauthenticated RCE exploit module for CVE-2023-22515, affecting Atlassian Confluence. Get all the release details here: https://t.co/APJ35inKNi https://t.co/xmjqDuJlDC",
+    "tweettime": "2023-10-19, 20:44:15",
+    "tweeturl": "https://twitter.com/stephenfewer/status/1715106608785604840",
+    "username": "stephenfewer"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -349,6 +362,20 @@
     "tweettime": "2023-10-18, 06:03:26",
     "tweeturl": "https://twitter.com/maddiestone/status/1714522558890995970",
     "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2023/CVE-2023-26369.html",
+        "https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/"
+    ],
+    "tweetfavorites": 235,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 103,
+    "tweettext": "#Lazarus CVE-2023-26369 Exploit: Adobe Acrobat PDF Reader RCE when processing TTF fonts\nhttps://t.co/cQWuyR6fHg\nref:\nhttps://t.co/mwQUWkk8QG https://t.co/S8gU4Q9Pku",
+    "tweettime": "2023-10-18, 03:27:26",
+    "tweeturl": "https://twitter.com/blackorbird/status/1714483299765354777",
+    "username": "blackorbird"
 }
 {
     "expanded_url": [
@@ -415,6 +442,26 @@
     "tweettime": "2023-10-13, 16:30:04",
     "tweeturl": "https://twitter.com/0xor0ne/status/1712868312885899663",
     "username": "0xor0ne"
+}
+{
+    "tweetfavorites": 71,
+    "tweetquotes": 0,
+    "tweetreplies": 4,
+    "tweetretweets": 12,
+    "tweettext": "CVE-2023-38545: A heap buffer overflow vulnerability in cURL, which gained attention due to an early patch exposure.\nExploitation requires certain conditions, like the use of SOCKS proxies and certain redirect settings.\nThis cannot be used to convert SSRF into RCE.\n#infosec https://t.co/XxEQV9X9Gj",
+    "tweettime": "2023-10-12, 09:22:09",
+    "tweeturl": "https://twitter.com/win3zz/status/1712398236441550870",
+    "username": "win3zz"
+}
+{
+    "tweetfavorites": 186,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 56,
+    "tweettext": "Did you know you can still exploit CVE-2023-43115 for RCE on a fully patched Fedora 38 with a LibreOffice document?🤯 https://t.co/9JFEjreVxi",
+    "tweettime": "2023-10-12, 08:07:08",
+    "tweeturl": "https://twitter.com/RedTeamPT/status/1712379361146318896",
+    "username": "RedTeamPT"
 }
 {
     "expanded_url": [

@@ -582,7 +582,7 @@
     "expanded_url": [
         "https://github.com/blackorbird/APT_REPORT/blob/master/Sandworm/sektorcert-angrebet-mod-dansk-kritisk-infrastruktur-tlp-clear-en.pdf"
     ],
-    "tweetfavorites": 100,
+    "tweetfavorites": 99,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 41,
@@ -739,9 +739,9 @@
     "expanded_url": [
         "https://www.rapid7.com/blog/post/2023/11/10/metasploit-weekly-wrap-up-35/"
     ],
-    "tweetfavorites": 154,
+    "tweetfavorites": 159,
     "tweetquotes": 0,
-    "tweetreplies": 2,
+    "tweetreplies": 3,
     "tweetretweets": 61,
     "tweettext": "This week's @metasploit release includes our unauth RCE exploit against Cisco IOS XE (CVE-2023-20198 and CVE-2023-20273), get all the details here: https://t.co/QatqBDxKgL https://t.co/fupSi3EH5l",
     "tweettime": "2023-11-10, 23:51:36",
