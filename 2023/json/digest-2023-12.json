@@ -2,10 +2,36 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/advisories/ZDI-23-1512/"
     ],
-    "tweetfavorites": 170,
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "RT @steventseeley: Here's a POC for CVE-2023-44414 (A pre-auth RCE): https://t.co/hJ7DDSONRW https://t.co/ADpXdVGZZo",
+    "tweettime": "2023-12-05, 17:55:11",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1732096292946424024",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://github.com/WebKit/WebKit/commit/00352dd86bfa102b6e4b792120e3ef3498a27d1e"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 12,
+    "tweettext": "Apple Safari In-The-Wild memory corruption vulnerability (CVE-2023-42917 [265067]) happens because flattenDictionaryStructure can shrink butterfly for named properties (like Array shift/unshift) and got exploited by triggering a race condition:\nhttps://t.co/LJyHF4QQSr",
+    "tweettime": "2023-12-05, 16:47:57",
+    "tweeturl": "https://twitter.com/hosselot/status/1732079371219804299",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-23-1512/"
+    ],
+    "tweetfavorites": 173,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 39,
+    "tweetretweets": 40,
     "tweettext": "Here's a POC for CVE-2023-44414 (A pre-auth RCE): https://t.co/hJ7DDSONRW https://t.co/ADpXdVGZZo",
     "tweettime": "2023-12-04, 23:18:05",
     "tweeturl": "https://twitter.com/steventseeley/status/1731815163613806924",
@@ -32,7 +58,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 42,
+    "tweetretweets": 45,
     "tweettext": "RT @maddiestone: 🪲 New RCA up for CVE-2021-4102 by @btiszka! It's a wild one in Chrome's Turbofan #itw0days\n\nhttps://t.co/Vr5Wj6aLSu",
     "tweettime": "2023-12-04, 19:42:17",
     "tweeturl": "https://twitter.com/kmkz_security/status/1731760856570941893",
