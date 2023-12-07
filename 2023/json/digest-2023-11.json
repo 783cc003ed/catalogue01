@@ -621,7 +621,7 @@
     "expanded_url": [
         "https://github.com/tandasat/CVE-2023-36427"
     ],
-    "tweetfavorites": 39,
+    "tweetfavorites": 40,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 23,
@@ -911,7 +911,7 @@
     "username": "DhiyaneshDK"
 }
 {
-    "tweetfavorites": 42,
+    "tweetfavorites": 41,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 8,
@@ -924,10 +924,10 @@
     "expanded_url": [
         "https://github.com/W01fh4cker/CVE-2023-46747-RCE"
     ],
-    "tweetfavorites": 334,
+    "tweetfavorites": 332,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 90,
+    "tweetretweets": 89,
     "tweettext": "CVE-2023-46747-RCE\n\nF5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability.\n\nhttps://t.co/xaCLWFXMa3\n\n#cve #cybersecurity #infosec https://t.co/rFDen7Tjbw",
     "tweettime": "2023-11-02, 10:21:05",
     "tweeturl": "https://twitter.com/hack_git/status/1720023214175195232",
