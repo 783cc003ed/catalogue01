@@ -38,10 +38,10 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 276,
+    "tweetfavorites": 268,
     "tweetquotes": 3,
     "tweetreplies": 9,
-    "tweetretweets": 59,
+    "tweetretweets": 55,
     "tweettext": "Zero-click LPE exploit (CVE-2022-32893) for iOS 16 Beta 7 currently on sale. Selling price - €2,500,000 🫢 https://t.co/NIkPBiwQyp",
     "tweettime": "2022-08-28, 15:24:51",
     "tweeturl": "https://twitter.com/Yalujb/status/1563910491936030720",
@@ -97,7 +97,7 @@
     "expanded_url": [
         "https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/"
     ],
-    "tweetfavorites": 255,
+    "tweetfavorites": 256,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 107,
@@ -316,10 +316,10 @@
     "username": "maddiestone"
 }
 {
-    "tweetfavorites": 205,
+    "tweetfavorites": 204,
     "tweetquotes": 6,
     "tweetreplies": 6,
-    "tweetretweets": 108,
+    "tweetretweets": 105,
     "tweettext": "🚨 Massive exploitation of CVE-2022-27925 (Zimbra Unauthenticated RCE) in progress, attackers install #Webshell in /opt/zimbra/mailboxd/webapps/zimbraAdmin/ as a backdoor for later access (IAB?).\n\nAttacks from:\n66.115.189.144 🇺🇸\n143.110.187.0 🇮🇳\n\n1/X https://t.co/CksrVG7cdg",
     "tweettime": "2022-08-17, 20:53:31",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1560006936866742281",

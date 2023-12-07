@@ -218,6 +218,16 @@
     "username": "cyber_advising"
 }
 {
+    "tweetfavorites": 227,
+    "tweetquotes": 20,
+    "tweetreplies": 15,
+    "tweetretweets": 119,
+    "tweettext": "🚨 CHROME ZERO-DAY\n\nGoogle has released an emergency Chrome security update to address the first zero-day vulnerability exploited in attacks this year, CVE-2023-2033. \n\nThe vulnerability affects Windows, Mac, and Linux systems, and users are urged to update immediately. https://t.co/jHNxq4bDaq",
+    "tweettime": "2023-04-14, 18:22:33",
+    "tweeturl": "https://twitter.com/wallet_guard/status/1646942029845344257",
+    "username": "wallet_guard"
+}
+{
     "expanded_url": [
         "https://offsec.almond.consulting/ghostscript-cve-2023-28879.html"
     ],
@@ -293,10 +303,10 @@
     "expanded_url": [
         "https://securelist.com/nokoyawa-ransomware-attacks-with-windows-zero-day/109483/"
     ],
-    "tweetfavorites": 238,
-    "tweetquotes": 8,
-    "tweetreplies": 4,
-    "tweetretweets": 110,
+    "tweetfavorites": 412,
+    "tweetquotes": 16,
+    "tweetreplies": 5,
+    "tweetretweets": 191,
     "tweettext": "We found a new zero-day (CVE-2023-28252) in Microsoft Windows used in Nokoyawa ransomware attacks\nhttps://t.co/LHM1ITb6KQ",
     "tweettime": "2023-04-11, 17:47:41",
     "tweeturl": "https://twitter.com/oct0xor/status/1645846093526355968",
@@ -319,7 +329,7 @@
     "expanded_url": [
         "https://offsec.almond.consulting/ghostscript-cve-2023-28879.html"
     ],
-    "tweetfavorites": 343,
+    "tweetfavorites": 341,
     "tweetquotes": 6,
     "tweetreplies": 2,
     "tweetretweets": 131,

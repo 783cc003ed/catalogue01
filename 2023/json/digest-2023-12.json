@@ -1,5 +1,32 @@
 {
     "expanded_url": [
+        "https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/?ref=0xor0ne.xyz"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 35,
+    "tweettext": "Another great writeup by @mmolgtm on Chrome RCE through type confusion (CVE-2023-4069)\n\nhttps://t.co/YH8IQzdQs1\n\n#chrome #infosec https://t.co/7qwQT1CuaY",
+    "tweettime": "2023-12-06, 19:01:36",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1732475392257142873",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://hunter.how/list?searchValue=product.name%3D%22OFBiz%22",
+        "https://securityonline.info/cve-2023-49070-rce-vulnerability-apache-ofbiz/"
+    ],
+    "tweetfavorites": 70,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 35,
+    "tweettext": "🚨Alert🚨CVE-2023-49070:Critical Pre-auth RCE Vulnerability Discovered in Apache OFBiz\n🔗 Hunter:https://t.co/sqZxG1XMDY\nDorks 👇👇👇\nFOFA    app=\"Apache_OFBiz\"\n\n📰Refer to https://t.co/KY5tJDUuJ9\n#infosec #infosecurity #Infosys #Vulnerability #cybersecurity https://t.co/PiRJmYPeIE",
+    "tweettime": "2023-12-06, 02:34:27",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1732226971822960874",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
         "https://www.zerodayinitiative.com/advisories/ZDI-23-1512/"
     ],
     "tweetfavorites": 0,
@@ -42,10 +69,10 @@
         "https://twitter.com/MsftSecIntel/status/1731626192300634585",
         "https://research.checkpoint.com/2023/the-obvious-the-normal-and-the-advanced-a-comprehensive-analysis-of-outlook-attack-vectors/"
     ],
-    "tweetfavorites": 39,
+    "tweetfavorites": 63,
     "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 10,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
     "tweettext": "Hey! Coincidentally, we just released a white paper which talks about this Outlook attack vector for CVE-2023-23397 (3.2 – special object attack vector), it has a perfect score 0!\nhttps://t.co/stmTY1jIwB\n\nThe paper: https://t.co/3tQFrL2kzu",
     "tweettime": "2023-12-04, 21:12:43",
     "tweeturl": "https://twitter.com/HaifeiLi/status/1731783615623663631",
