@@ -13,6 +13,20 @@
 }
 {
     "expanded_url": [
+        "https://www.virustotal.com/gui/file/a3acb9f79647f813671c1a21097a51836b0b95397ebc9cd178bc806e1773c864/detection",
+        "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-339a"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "The sample mentioned in the @CISACyber report AA23-339A on attacks against Adobe ColdFusion CVE-2023-26360 is ForkDump by @BillDemirkapi \n\n- only ESET gets it right\n\nSample\nhttps://t.co/dojObhUwLo\n\nCISA report\nhttps://t.co/neT9tchHmF https://t.co/sfqKZeSOSd",
+    "tweettime": "2023-12-06, 11:43:48",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1732365216422203588",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
         "https://hunter.how/list?searchValue=product.name%3D%22OFBiz%22",
         "https://securityonline.info/cve-2023-49070-rce-vulnerability-apache-ofbiz/"
     ],
@@ -42,10 +56,10 @@
     "expanded_url": [
         "https://github.com/WebKit/WebKit/commit/00352dd86bfa102b6e4b792120e3ef3498a27d1e"
     ],
-    "tweetfavorites": 69,
+    "tweetfavorites": 73,
     "tweetquotes": 3,
-    "tweetreplies": 2,
-    "tweetretweets": 12,
+    "tweetreplies": 3,
+    "tweetretweets": 13,
     "tweettext": "Apple Safari In-The-Wild memory corruption vulnerability (CVE-2023-42917 [265067]) happens because flattenDictionaryStructure can shrink butterfly for named properties (like Array shift/unshift) and got exploited by triggering a race condition:\nhttps://t.co/LJyHF4QQSr",
     "tweettime": "2023-12-05, 16:47:57",
     "tweeturl": "https://twitter.com/hosselot/status/1732079371219804299",
@@ -115,7 +129,7 @@
     "username": "0vercl0k"
 }
 {
-    "tweetfavorites": 35,
+    "tweetfavorites": 34,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 6,
