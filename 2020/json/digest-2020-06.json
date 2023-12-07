@@ -2,7 +2,7 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2020/05/stable-channel-update-for-desktop_19.html"
     ],
-    "tweetfavorites": 120,
+    "tweetfavorites": 121,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 15,
@@ -327,10 +327,10 @@
     "expanded_url": [
         "https://thehackernews.com/2020/06/SMBleed-smb-vulnerability.html"
     ],
-    "tweetfavorites": 550,
+    "tweetfavorites": 548,
     "tweetquotes": 26,
     "tweetreplies": 6,
-    "tweetretweets": 356,
+    "tweetretweets": 355,
     "tweettext": "SMBleed — A new security vulnerability (CVE-2020-1206) affects Windows SMBv3 protocol.\n\nDetails + PoC: https://t.co/DcF5pumvvM\n\nAn unauthenticated attacker (client/server) can also combine it with the \"wormable\" SMBGhost flaw to achieve RCE attacks.\n\n#infosec #cybersecurity https://t.co/lTOx5uP7l6",
     "tweettime": "2020-06-09, 20:36:11",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1270454668095782919",
