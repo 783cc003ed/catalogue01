@@ -25,7 +25,7 @@
     "expanded_url": [
         "https://bugs.chromium.org/p/project-zero/issues/detail?id=2104"
     ],
-    "tweetfavorites": 336,
+    "tweetfavorites": 338,
     "tweetquotes": 26,
     "tweetreplies": 3,
     "tweetretweets": 164,
@@ -186,10 +186,10 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_20.html"
     ],
-    "tweetfavorites": 546,
+    "tweetfavorites": 543,
     "tweetquotes": 42,
     "tweetreplies": 9,
-    "tweetretweets": 210,
+    "tweetretweets": 208,
     "tweettext": "Project Zero discovered and reported an actively exploited 0day in freetype that was being used to target Chrome. A stable release that fixes this issue (CVE-2020-15999) is available here: https://t.co/ZRQe72Qfkh",
     "tweettime": "2020-10-20, 19:49:10",
     "tweeturl": "https://twitter.com/benhawkes/status/1318640422571266048",
