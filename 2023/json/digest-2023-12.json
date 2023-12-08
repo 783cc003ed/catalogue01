@@ -13,6 +13,16 @@
     "username": "momika233"
 }
 {
+    "tweetfavorites": 72,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 29,
+    "tweettext": "🚨🍯 CVE-2023-1389: Unauthenticated Command Injection on TP-Link Archer AX21 leads to #MooBot (Mirai DDoS variant).\n\nAttacker: 172.104.228.72 🇩🇪\nPath: POST /cgi-bin/luci/;stok=/locale?form=country\nPayload: hxxp://91.92.249.96/condi/bot.x86_64\nC2: 91.92.249.96\n\n[+]… https://t.co/wUlS1R8OVs",
+    "tweettime": "2023-12-07, 14:59:58",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1732776974483910966",
+    "username": "1ZRR4H"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html"
     ],
@@ -29,10 +39,10 @@
     "expanded_url": [
         "https://blog.securelayer7.net/analysis-of-cve-2023-38831-zero-day-vulnerability-in-winrar/"
     ],
-    "tweetfavorites": 118,
+    "tweetfavorites": 121,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 41,
+    "tweetretweets": 43,
     "tweettext": "\"Analysis of CVE-2023-38831 Zero-Day vulnerability in WinRAR\" \n\n#infosec #pentest #redteam \nhttps://t.co/Utfw8dfQrm https://t.co/H9m3B882X6",
     "tweettime": "2023-12-07, 08:22:01",
     "tweeturl": "https://twitter.com/CyberWarship/status/1732676824511988072",
@@ -122,7 +132,7 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/advisories/ZDI-23-1512/"
     ],
-    "tweetfavorites": 175,
+    "tweetfavorites": 174,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 40,
@@ -152,7 +162,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 45,
+    "tweetretweets": 46,
     "tweettext": "RT @maddiestone: 🪲 New RCA up for CVE-2021-4102 by @btiszka! It's a wild one in Chrome's Turbofan #itw0days\n\nhttps://t.co/Vr5Wj6aLSu",
     "tweettime": "2023-12-04, 19:42:17",
     "tweeturl": "https://twitter.com/kmkz_security/status/1731760856570941893",
