@@ -65,10 +65,10 @@
     "expanded_url": [
         "https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/?ref=0xor0ne.xyz"
     ],
-    "tweetfavorites": 126,
+    "tweetfavorites": 166,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 35,
+    "tweetretweets": 45,
     "tweettext": "Another great writeup by @mmolgtm on Chrome RCE through type confusion (CVE-2023-4069)\n\nhttps://t.co/YH8IQzdQs1\n\n#chrome #infosec https://t.co/7qwQT1CuaY",
     "tweettime": "2023-12-06, 19:01:36",
     "tweeturl": "https://twitter.com/0xor0ne/status/1732475392257142873",
