@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "CVE-2023-45866: Unauthenticated Bluetooth keystroke-injection in Android, Linux, macOS and iOS https://t.co/kZNLWai2Qc",
+    "tweettime": "2023-12-08, 19:28:05",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1733206836093075815",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
         "https://github.com/apache/struts/commit/162e29fee9136f4bfd9b2376da2cbf590f9ea163",
         "https://github.com/apache/struts/commit/d8c69691ef1d15e76a5f4fcf33039316da2340b6"
     ],
