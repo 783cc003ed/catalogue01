@@ -91,6 +91,16 @@
     "username": "CyberWarship"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @kevin_backhouse: My blog post about how to exploit CVE-2023-43641 (1-click RCE in GNOME) is out.",
+    "tweettime": "2023-12-07, 04:49:55",
+    "tweeturl": "https://twitter.com/steventseeley/status/1732623449892462856",
+    "username": "steventseeley"
+}
+{
     "expanded_url": [
         "https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/?ref=0xor0ne.xyz"
     ],
