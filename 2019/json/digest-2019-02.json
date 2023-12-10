@@ -57,10 +57,10 @@
         "https://bugs.chromium.org/p/project-zero/issues/detail?id=1760",
         "https://bugs.chromium.org/p/project-zero/issues/detail?id=1759"
     ],
-    "tweetfavorites": 273,
+    "tweetfavorites": 269,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 159,
+    "tweetretweets": 156,
     "tweettext": "CVE-2019-7221 is a pretty nice guest-triggerable use-after-free in KVM (https://t.co/NhHXDsbWVV) and CVE-2019-7222 is an info leak to help with exploitation (https://t.co/tLV45JUKSv).",
     "tweettime": "2019-02-15, 17:26:11",
     "tweeturl": "https://twitter.com/_fel1x/status/1096460676678201344",
