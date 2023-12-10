@@ -58,7 +58,7 @@
     "username": "thecybertix"
 }
 {
-    "tweetfavorites": 231,
+    "tweetfavorites": 227,
     "tweetquotes": 10,
     "tweetreplies": 9,
     "tweetretweets": 110,
@@ -238,7 +238,7 @@
     "expanded_url": [
         "https://github.com/metaredteam/external-disclosures/security/advisories/GHSA-x7ch-h5rf-w2mf"
     ],
-    "tweetfavorites": 697,
+    "tweetfavorites": 698,
     "tweetquotes": 10,
     "tweetreplies": 12,
     "tweetretweets": 176,
@@ -264,7 +264,7 @@
     "tweetfavorites": 482,
     "tweetquotes": 14,
     "tweetreplies": 10,
-    "tweetretweets": 306,
+    "tweetretweets": 305,
     "tweettext": "Urgent: Google releases patch for a new Chrome zero-day #vulnerability (CVE-2023-4863) that's being exploited in the wild.\n\nRead: https://t.co/41SANY0lKi\n\nDon't wait—update your browser now to protect against potential cyber threats.\n\n#cybersecurity #informationsecurity",
     "tweettime": "2023-09-12, 05:17:51",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1701465123095785662",
@@ -313,7 +313,7 @@
     "expanded_url": [
         "https://github.com/bjrjk/CVE-2022-4262/blob/main/CVE-2022-4262.md"
     ],
-    "tweetfavorites": 122,
+    "tweetfavorites": 123,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 33,
