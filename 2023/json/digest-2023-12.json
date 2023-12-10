@@ -3,14 +3,29 @@
         "https://github.blog/author/kevinbackhouse/",
         "https://github.com/github/securitylab/tree/0a8ede65e0ac860d195868b093d3ddcbd00e6997/SecurityExploits/libcue/track_set_index_CVE-2023-43641"
     ],
-    "tweetfavorites": 70,
+    "tweetfavorites": 74,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 21,
+    "tweetretweets": 23,
     "tweettext": "How to exploit CVE-2023-43641 (a memory corruption vulnerability in libcue) to create a reliable 1-click RCE on Ubuntu 23.04 and Fedora 38 --&gt; very good one ! thank you @kevin_backhouse \nhttps://t.co/A9em8BD150\n\nCVE-2023-43641 PoC :\nhttps://t.co/Bo24mIysl1",
     "tweettime": "2023-12-09, 13:03:34",
     "tweeturl": "https://twitter.com/kmkz_security/status/1733472456063553543",
     "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/diego-tella/CVE-2023-1326-PoC",
+        "https://ift.tt/BHxK2mO",
+        "https://blog.solidsnail.com/posts/vscode-shell-integ-rce"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "#exploit\n1. CVE-2023-1326:\nPrivilege escalation in apport-cli 2.26.0\nhttps://t.co/zoqCjnGCQb\n\n2. CVE-2023-45866:\nUnauthenticated Bluetooth keystroke-injection in Android, Linux, macOS and iOS\nhttps://t.co/tG7vumiWnS\n\n3. CVE-2023-24893:\nVSCode RCE\nhttps://t.co/eMUS68C1yb",
+    "tweettime": "2023-12-09, 04:17:05",
+    "tweeturl": "https://twitter.com/akaclandestine/status/1733339962735554628",
+    "username": "akaclandestine"
 }
 {
     "expanded_url": [
@@ -87,6 +102,16 @@
     "tweettime": "2023-12-06, 19:01:36",
     "tweeturl": "https://twitter.com/0xor0ne/status/1732475392257142873",
     "username": "0xor0ne"
+}
+{
+    "tweetfavorites": 122,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
+    "tweettext": "My blog post about how to exploit CVE-2023-43641 (1-click RCE in GNOME) is out.",
+    "tweettime": "2023-12-06, 18:00:20",
+    "tweeturl": "https://twitter.com/kevin_backhouse/status/1732459975014821904",
+    "username": "kevin_backhouse"
 }
 {
     "expanded_url": [
