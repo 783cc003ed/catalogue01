@@ -1,5 +1,19 @@
 {
     "expanded_url": [
+        "https://github.blog/author/kevinbackhouse/",
+        "https://github.com/github/securitylab/tree/0a8ede65e0ac860d195868b093d3ddcbd00e6997/SecurityExploits/libcue/track_set_index_CVE-2023-43641"
+    ],
+    "tweetfavorites": 70,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "How to exploit CVE-2023-43641 (a memory corruption vulnerability in libcue) to create a reliable 1-click RCE on Ubuntu 23.04 and Fedora 38 --&gt; very good one ! thank you @kevin_backhouse \nhttps://t.co/A9em8BD150\n\nCVE-2023-43641 PoC :\nhttps://t.co/Bo24mIysl1",
+    "tweettime": "2023-12-09, 13:03:34",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1733472456063553543",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
         "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
     ],
     "tweetfavorites": 43,
@@ -90,6 +104,20 @@
 }
 {
     "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/Siajm"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 7,
+    "tweettext": "CVE-2023-22522, -25524: Two RCE in Atlassian Confluence Data&amp;Server, 9.0 rating 🔥\n\nNew problems with Atlassian software. This time, an attacker can inject code for RCE. \n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/uWKYdzjpQd\n\n#cybersecurity #vulnerability_map https://t.co/KCbT1ggkcG",
+    "tweettime": "2023-12-06, 11:30:00",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1732361747271422220",
+    "username": "Netlas_io"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2023/12/hackers-exploited-coldfusion.html"
     ],
     "tweetfavorites": 84,
@@ -106,10 +134,10 @@
         "https://hunter.how/list?searchValue=product.name%3D%22OFBiz%22",
         "https://securityonline.info/cve-2023-49070-rce-vulnerability-apache-ofbiz/"
     ],
-    "tweetfavorites": 70,
+    "tweetfavorites": 77,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 35,
+    "tweetreplies": 2,
+    "tweetretweets": 38,
     "tweettext": "🚨Alert🚨CVE-2023-49070:Critical Pre-auth RCE Vulnerability Discovered in Apache OFBiz\n🔗 Hunter:https://t.co/sqZxG1XMDY\nDorks 👇👇👇\nFOFA    app=\"Apache_OFBiz\"\n\n📰Refer to https://t.co/KY5tJDUuJ9\n#infosec #infosecurity #Infosys #Vulnerability #cybersecurity https://t.co/PiRJmYPeIE",
     "tweettime": "2023-12-06, 02:34:27",
     "tweeturl": "https://twitter.com/HunterMapping/status/1732226971822960874",
