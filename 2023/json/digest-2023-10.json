@@ -532,7 +532,7 @@
     "tweetfavorites": 611,
     "tweetquotes": 10,
     "tweetreplies": 13,
-    "tweetretweets": 246,
+    "tweetretweets": 247,
     "tweettext": "🚨 Hundreds of Citrix VPN instances exploited via CVE-2023-3519 are harvesting corporate credentials in cleartext.\n\nAt this time, Shodan shows 406 compromised instances with malicious JavaScript code injected into the login page: https://t.co/AiG1RAOTAP (URL shortener because… https://t.co/EjfpsleMPe",
     "tweettime": "2023-10-10, 10:15:19",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1711686844490936568",
