@@ -42,10 +42,10 @@
         "https://github.blog/author/kevinbackhouse/",
         "https://github.com/github/securitylab/tree/0a8ede65e0ac860d195868b093d3ddcbd00e6997/SecurityExploits/libcue/track_set_index_CVE-2023-43641"
     ],
-    "tweetfavorites": 106,
+    "tweetfavorites": 118,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 31,
+    "tweetretweets": 36,
     "tweettext": "How to exploit CVE-2023-43641 (a memory corruption vulnerability in libcue) to create a reliable 1-click RCE on Ubuntu 23.04 and Fedora 38 --&gt; very good one ! thank you @kevin_backhouse \nhttps://t.co/A9em8BD150\n\nCVE-2023-43641 PoC :\nhttps://t.co/Bo24mIysl1",
     "tweettime": "2023-12-09, 13:03:34",
     "tweeturl": "https://twitter.com/kmkz_security/status/1733472456063553543",
@@ -121,10 +121,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html"
     ],
-    "tweetfavorites": 367,
+    "tweetfavorites": 372,
     "tweetquotes": 8,
     "tweetreplies": 6,
-    "tweetretweets": 195,
+    "tweetretweets": 197,
     "tweettext": "⚠️ Urgent Security Warning -\n\nA new critical Bluetooth #vulnerability (CVE-2023-45866) could enable attackers to take control of Android, #Linux, macOS, and #iOS devices.\n\nLearn how it works: https://t.co/NnebS6yx4O\n\n#cybersecurity #hacking",
     "tweettime": "2023-12-07, 11:46:27",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1732728274013376944",
@@ -134,7 +134,7 @@
     "expanded_url": [
         "https://blog.securelayer7.net/analysis-of-cve-2023-38831-zero-day-vulnerability-in-winrar/"
     ],
-    "tweetfavorites": 128,
+    "tweetfavorites": 129,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 47,
@@ -195,7 +195,7 @@
         "http://Netlas.io",
         "https://nt.ls/Siajm"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 32,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 7,
