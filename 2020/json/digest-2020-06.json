@@ -235,7 +235,865 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 627,
+    "tweetfavorites": 626,
+    "tweetquotes": 6,
+    "tweetreplies": 7,
+    "tweetretweets": 266,
+    "tweettext": "Demo of #EvilPrinter (CVE-2020-1300). Remote SYSTEM shell with just one connection attempt.\nAlso LPE and Sandbox Escape from Edge renderer on all modern Windows versions. https://t.co/VToEqCAAtb",
+    "tweettime": "2020-06-12, 16:54:03",
+    "tweeturl": "https://twitter.com/R3dF09/status/1271485928989528064",
+    "username": "R3dF09"
+}
+{
+    "expanded_url": [
+        "https://know.bishopfox.com/advisories/oob-to-rce-exploitation-of-the-hobbes-functional-interpreter"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "OOB to RCE: Exploitation of the Hobbes Functional Interpreter (CVE-2020-13656) https://t.co/lsJiTZeQi5",
+    "tweettime": "2020-06-12, 15:13:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1271460525738622978",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://labs.redyops.com/index.php/2020/04/27/symantec-endpoint-protection-sep-14-2-eop-via-arbitrary-write/"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "In case you missed it, the exploit code and Write-up for Symantec Endpoint Protection (SEP) 14.2 RU2 EoP (CVE-2020-5837) is here:\n\nhttps://t.co/Y3AFuqXl1E\n\n#Symantec #0day #exploit #vulnerability #EoP #RedyOpsLabs #cybersecurity #infosec #bugbounty #redteam #SEP #SEPM",
+    "tweettime": "2020-06-11, 18:25:06",
+    "tweeturl": "https://twitter.com/gweeperx/status/1271146453881274368",
+    "username": "gweeperx"
+}
+{
+    "expanded_url": [
+        "https://support.citrix.com/article/CTX275460"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 18,
+    "tweettext": "Citrix vulnerability for Workspace App for Windows Only with bad file permissions that can allow malicious DLLs or EXEs to be executed. No RCE but definitely something you want to patch. https://t.co/6m9flhe4da\nCVE-2020-13884\nCVE-2020-13885",
+    "tweettime": "2020-06-11, 11:40:43",
+    "tweeturl": "https://twitter.com/VDIHacker/status/1271044690264145920",
+    "username": "VDIHacker"
+}
+{
+    "expanded_url": [
+        "https://blog.zecops.com/vulnerabilities/smbleedingghost-writeup-chaining-smbleed-cve-2020-1206-with-smbghost/",
+        "https://airbus-cyber-security.com/diving-into-the-smblost-vulnerability-cve-2020-1301/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Technical write-up for SMBleedingGhost (CVE-2020-1206), a pre-auth info disclosure in SMBv3: https://t.co/3gwcYOFGmw\n\nTechnical write-up for SMBLost (CVE-2020-1206), a post-auth RCE in SMBv1: https://t.co/ftKjcGFyX9 https://t.co/FqYZYp23yQ",
+    "tweettime": "2020-06-09, 22:29:00",
+    "tweeturl": "https://twitter.com/campuscodi/status/1270483058496585728",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://github.com/ZecOps/CVE-2020-0796-RCE-POC/"
+    ],
+    "tweetfavorites": 123,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "GitHub - ZecOps/CVE-2020-0796-RCE-POC: CVE-2020-0796 Remote Code Execution POC - https://t.co/5Gmtv1Zpv0",
+    "tweettime": "2020-06-09, 22:05:08",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1270477054954188802",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1301"
+    ],
+    "tweetfavorites": 678,
+    "tweetquotes": 23,
+    "tweetreplies": 11,
+    "tweetretweets": 372,
+    "tweettext": "CVE-2020-1301 | Windows SMB Remote Code Execution Vulnerability\n\n- all Windows versions affected\n\nhttps://t.co/dNZfQrSgPv https://t.co/0hWG6m8EqU",
+    "tweettime": "2020-06-09, 21:03:36",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1270461568900358144",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/06/SMBleed-smb-vulnerability.html"
+    ],
+    "tweetfavorites": 548,
+    "tweetquotes": 26,
+    "tweetreplies": 6,
+    "tweetretweets": 355,
+    "tweettext": "SMBleed — A new security vulnerability (CVE-2020-1206) affects Windows SMBv3 protocol.\n\nDetails + PoC: https://t.co/DcF5pumvvM\n\nAn unauthenticated attacker (client/server) can also combine it with the \"wormable\" SMBGhost flaw to achieve RCE attacks.\n\n#infosec #cybersecurity https://t.co/lTOx5uP7l6",
+    "tweettime": "2020-06-09, 20:36:11",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1270454668095782919",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://airbus-cyber-security.com/diving-into-the-smblost-vulnerability-cve-2020-1301/"
+    ],
+    "tweetfavorites": 432,
+    "tweetquotes": 10,
+    "tweetreplies": 2,
+    "tweetretweets": 249,
+    "tweettext": "[New Post] Here is my detailed write-up on a new #SMBv1 vulnerability named #SMBLost (CVE-2020-1301). \n#RCE conceivable. Find out why #SMBLost is less harmful than #SMBGhost or #EternalBlue.\n#PoC causing a remote #DoS available. Stay secure! 🙂\n\n➡️https://t.co/Hlk9ngsNcf https://t.co/VN28aqTrhM",
+    "tweettime": "2020-06-09, 19:16:45",
+    "tweeturl": "https://twitter.com/_Homeostasie_/status/1270434679980777478",
+    "username": "_Homeostasie_"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xwBec"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 13,
+    "tweetreplies": 5,
+    "tweetretweets": 179,
+    "tweettext": "Protect your networks from malicious cyber actors. Update Microsoft SMB ASAP to patch RCE vulnerability, CVE-2020-0796, being exploited in the wild. [https://t.co/N89NWqFgIH] #Cyber #Cybersecurity #InfoSec #RCE",
+    "tweettime": "2020-06-05, 20:07:27",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1268997885225578496",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 668,
+    "tweetquotes": 5,
+    "tweetreplies": 3,
+    "tweetretweets": 340,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) – write-up and exploit\n\nhttps://t.co/lmFgh6v6Gu",
+    "tweettime": "2020-06-03, 21:01:08",
+    "tweeturl": "https://twitter.com/FlatL1ne/status/1268286621377576960",
+    "username": "FlatL1ne"
+}
+{
+    "expanded_url": [
+        "https://github.com/chompie1337/SMBGhost_RCE_PoC"
+    ],
+    "tweetfavorites": 251,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 120,
+    "tweettext": "SMBGhost - RCE PoC for CVE-2020-0796 \"SMBGhost\" https://t.co/LlLmOrwA6r",
+    "tweettime": "2020-06-02, 11:29:46",
+    "tweeturl": "https://twitter.com/netbiosX/status/1267780444084469760",
+    "username": "netbiosX"
+}
+{
+    "expanded_url": [
+        "https://github.com/offensive-security/exploitdb-bin-sploits/raw/master/bin-sploits/48537.zip"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 14,
+    "tweettext": "CVE-2020-0796 | Windows SMBv3 Client/Server Remote Code Execution Vulnerability\n\nPOC\nhttps://t.co/A1KkMmCzf0 https://t.co/al3Ar5J20x",
+    "tweettime": "2020-06-02, 10:36:41",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1267767083888259072",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/chompie1337/SMBGhost_RCE_PoC"
+    ],
+    "tweetfavorites": 318,
+    "tweetquotes": 5,
+    "tweetreplies": 11,
+    "tweetretweets": 142,
+    "tweettext": "It seems that ALOT of people are interested in the #SMBGhost CVE-2020-0796 RCE PoC source. Since \n@ZecOps will be releasing theirs in the coming days, and the bug has been patched for months, I think its OK to release for educational purposes. Find it here:https://t.co/6rA7yPCkeA",
+    "tweettime": "2020-06-02, 02:54:29",
+    "tweeturl": "https://twitter.com/chompie1337/status/1267650767286153221",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://b.ou.is/articles/2020-05/CVE-2020-13693"
+    ],
+    "tweetfavorites": 155,
+    "tweetquotes": 8,
+    "tweetreplies": 1,
+    "tweetretweets": 94,
+    "tweettext": "Analysis of CVE-2020-13693, an unauthenticated privilege-escalation flaw in the BBPress forum plugin for #WordPress that has over 1.5 million downloads.\n\nhttps://t.co/JUZGkNSHtX https://t.co/Np56UCzUna",
+    "tweettime": "2020-06-01, 10:57:03",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1267409820694597634",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/05/stable-channel-update-for-desktop_19.html"
+    ],
+    "tweetfavorites": 121,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 15,
+    "tweettext": "i forgot about my bug :D i reported android sbx in April. i will soon post writeup about Exploitation using it. https://t.co/YH4STKbHQw\n[$20000][1073015] High CVE-2020-6465: Use after free in reader mode. Reported by Woojin Oh(@pwn_expoit) of STEALIEN on 2020-04-21",
+    "tweettime": "2020-06-30, 07:08:47",
+    "tweeturl": "https://twitter.com/pwn_expoit/status/1277861624963952641",
+    "username": "pwn_expoit"
+}
+{
+    "expanded_url": [
+        "http://ow.ly/7HJl50AkykS"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "#Metasploit module for CVE-2020-8515 (UNAUTHENTICATED RCE IN #DRAYTEK VIGOR 2960, 3900 &amp; 300) developed by our @skull_army 👉 https://t.co/4EWbHKxNSF https://t.co/ixbGj66Mo0",
+    "tweettime": "2020-06-29, 13:22:52",
+    "tweeturl": "https://twitter.com/DreamlabGlobal/status/1277593377962446850",
+    "username": "DreamlabGlobal"
+}
+{
+    "expanded_url": [
+        "https://github.com/spaceraccoon/CVE-2020-10665"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2020-10665 Docker Desktop Local Privilege Escalation  https://t.co/x2tFjum5dB  #Pentesting #Windows #ReverseShell #CyberSecurity #Infosec https://t.co/xRGneYxkC2",
+    "tweettime": "2020-06-27, 17:15:43",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1276927201645125639",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 43,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) \n\nhttps://t.co/jvURLAvdVQ",
+    "tweettime": "2020-06-26, 13:13:12",
+    "tweeturl": "https://twitter.com/i_bo0om/status/1276503780687777792",
+    "username": "i_bo0om"
+}
+{
+    "expanded_url": [
+        "https://movaxbx.ru/2020/06/26/microsoft-windows-lnk-remote-code-execution-vulnerability-cve-2020-1299/"
+    ],
+    "tweetfavorites": 413,
+    "tweetquotes": 7,
+    "tweetreplies": 8,
+    "tweetretweets": 237,
+    "tweettext": "Microsoft Windows LNK Remote Code Execution Vulnerability – CVE-2020-1299 https://t.co/QQ6OtWE04U",
+    "tweettime": "2020-06-26, 10:25:30",
+    "tweeturl": "https://twitter.com/movaxbx2/status/1276461577395335170",
+    "username": "movaxbx2"
+}
+{
+    "expanded_url": [
+        "https://github.com/spaceraccoon/CVE-2020-10665"
+    ],
+    "tweetfavorites": 549,
+    "tweetquotes": 1,
+    "tweetreplies": 7,
+    "tweetretweets": 164,
+    "tweettext": "Wrote the first public exploit of CVE-2020-10665 Docker Desktop Local Privilege Escalation! It was challenging picking up C++ as well as multiple exploit stages (hard link spraying, DLL overwrite, printer API call) but learned a lot :) https://t.co/zMcO3keyfc https://t.co/nqSUTbQT5k",
+    "tweettime": "2020-06-25, 12:02:51",
+    "tweeturl": "https://twitter.com/spaceraccoonsec/status/1276123691156254720",
+    "username": "spaceraccoonsec"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/magnitude-exploit-kit-evolution/97436/"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "In his latest blog, @oct0xor confirms our attribution of Magniber's LPE exploit (probably CVE-2018-8641) to Volodya.\n\nThis is just 1 of 11(!) LPE exploits by this actor that we've analyzed. More details in the upcoming VB2020 talk by @megabeets_ and I.\n\nhttps://t.co/Cs8o0WDn9J",
+    "tweettime": "2020-06-24, 16:58:01",
+    "tweeturl": "https://twitter.com/EyalItkin/status/1275835583198347265",
+    "username": "EyalItkin"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2020-0015.html"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "Advisory for the two vulnerabilities found by @OnlyTheDuck and @BrunoPujos is now public! CVE-2020-3962 and CVE-2020-3969 impact the SVGA 3D component of VMware hypervisors and were reported to @thezdi during #Pwn2Own 2020. Stay tuned for more details!\n\nhttps://t.co/xPh2nDGxmz",
+    "tweettime": "2020-06-24, 13:27:46",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1275782673026482178",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://labs.sentinelone.com/click-from-the-backyard-cve-2020-9332/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "A Click from the Backyard | Analysis of CVE-2020-9332, a Vulnerable USB Redirection Software -&gt; UAC Bypass 😎\n\n- great research by @SentinelOne thanks for sharing \n\nPost &amp; PoC\nhttps://t.co/9YURglq5ae\n\n#infosec #pentest #exploitDev",
+    "tweettime": "2020-06-20, 06:58:28",
+    "tweeturl": "https://twitter.com/CyberWarship/status/1274235147861331968",
+    "username": "CyberWarship"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2020/6/16/cve-2020-1181-sharepoint-remote-code-execution-through-web-parts"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "CVE-2020-1181: SharePoint Remote Code Execution Through Web Parts - includes step-by-step Proof of Concept\nhttps://t.co/1ydBxQN93W",
+    "tweettime": "2020-06-18, 09:00:10",
+    "tweeturl": "https://twitter.com/Dinosn/status/1273541000120631297",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://insinuator.net/2020/04/cve-2020-0022-an-android-8-0-9-0-bluetooth-zero-click-rce-bluefrag/"
+    ],
+    "tweetfavorites": 268,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 122,
+    "tweettext": "Pwn BlueFrag: CVE-2020-0022 RCE Exploit For Android 8.0-9.0, many thanks to https://t.co/oqKLq9X265. Debugging all details step by step with GDB is so much fun.",
+    "tweettime": "2020-06-18, 00:33:07",
+    "tweeturl": "https://twitter.com/K3vinLuSec/status/1273413397371969536",
+    "username": "K3vinLuSec"
+}
+{
+    "expanded_url": [
+        "https://github.com/osamahamad/CVE-2020-5410-POC/"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2020-5410 Spring Cloud Config directory traversal vulnerability\nhttps://t.co/zWnbrIoBex https://t.co/ocDwZJgvTy",
+    "tweettime": "2020-06-17, 20:04:10",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1273345716036030464",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/37CAHwp"
+    ],
+    "tweetfavorites": 223,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 104,
+    "tweettext": "A deep look at CVE-2020-1181: RCE in #SharePoint through Web Parts. An anonymous researcher sent this to us and #Microsoft patched it last week. Includes step-by-step PoC. https://t.co/YmVUFmMG1y",
+    "tweettime": "2020-06-17, 15:25:30",
+    "tweeturl": "https://twitter.com/thezdi/status/1273275586216157185",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://labs.redyops.com/index.php/2020/04/27/dos-via-arbitrary-folder-creation/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
+    "tweettext": "Exploit code and write-up for Windows Denial of Service Vulnerability (CVE-2020-1283)\n\nDon't ask me about MS' description :-)\n\nhttps://t.co/yw7ctlAGVy\n-------\n#bug #Microsoft #Windows #0day #exploit #vulnerability #DOS #BSoD #RedyOpsLabs #redteam #pentest #infosec #CVE #bugbounty",
+    "tweettime": "2020-06-17, 09:36:41",
+    "tweeturl": "https://twitter.com/gweeperx/status/1273187803707432961",
+    "username": "gweeperx"
+}
+{
+    "expanded_url": [
+        "https://www.qualys.com/2020/05/19/cve-2005-1513/remote-code-execution-qmail.tar.gz"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 26,
+    "tweettext": "Qualys Security Advisory: Release of the exploit for CVE-2005-1513 (qmail LPE and RCE).  https://t.co/ABUa9t2AJ9",
+    "tweettime": "2020-06-16, 19:51:34",
+    "tweeturl": "https://twitter.com/pozdnychev/status/1272980153518432259",
+    "username": "pozdnychev"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/privilege-escalation/pulse-secure-client-for-windows-9-1-6-toctou-privilege-escalation-cve-2020-13162/"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 44,
+    "tweettext": "Researchers release details for a new TOCTOU Privilege Escalation (CVE-2020-13162) vulnerability affecting Pulse Secure Client for Windows (versions &lt;9.1.6)\n\nDetails: https://t.co/voRLZbj2bw\n\n#infosec #cybersecurity https://t.co/hCvMIUPJFl",
+    "tweettime": "2020-06-16, 18:15:28",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1272955972651114497",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1045",
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1027"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 30,
+    "tweettext": "Two of my MS Office reported vulns patched in June:\n\nCVE-2020-1225 - Microsoft Office Excel HTML and XML Table UAF\nhttps://t.co/pb9k89p3Q3\n\nCVE-2020-1226 Microsoft Office Excel PivotField UAF \nhttps://t.co/4zRFDstNHM",
+    "tweettime": "2020-06-15, 09:43:41",
+    "tweeturl": "https://twitter.com/_Icewall/status/1272464789311311872",
+    "username": "_Icewall"
+}
+{
+    "expanded_url": [
+        "https://tanzu.vmware.com/security/cve-2020-5410",
+        "https://xz.aliyun.com/t/7877"
+    ],
+    "tweetfavorites": 297,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 108,
+    "tweettext": "CVE-2020-5410 Directory Traversal with spring-cloud-config-server\n\nadvisory: https://t.co/vigsgQkicN\nanalysis: https://t.co/ohAAFHPXKx https://t.co/Oi6xlwGFlZ",
+    "tweettime": "2020-06-15, 05:07:23",
+    "tweeturl": "https://twitter.com/chybeta/status/1272395253396328449",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 626,
+    "tweetquotes": 6,
+    "tweetreplies": 7,
+    "tweetretweets": 266,
+    "tweettext": "Demo of #EvilPrinter (CVE-2020-1300). Remote SYSTEM shell with just one connection attempt.\nAlso LPE and Sandbox Escape from Edge renderer on all modern Windows versions. https://t.co/VToEqCAAtb",
+    "tweettime": "2020-06-12, 16:54:03",
+    "tweeturl": "https://twitter.com/R3dF09/status/1271485928989528064",
+    "username": "R3dF09"
+}
+{
+    "expanded_url": [
+        "https://know.bishopfox.com/advisories/oob-to-rce-exploitation-of-the-hobbes-functional-interpreter"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "OOB to RCE: Exploitation of the Hobbes Functional Interpreter (CVE-2020-13656) https://t.co/lsJiTZeQi5",
+    "tweettime": "2020-06-12, 15:13:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1271460525738622978",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://labs.redyops.com/index.php/2020/04/27/symantec-endpoint-protection-sep-14-2-eop-via-arbitrary-write/"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "In case you missed it, the exploit code and Write-up for Symantec Endpoint Protection (SEP) 14.2 RU2 EoP (CVE-2020-5837) is here:\n\nhttps://t.co/Y3AFuqXl1E\n\n#Symantec #0day #exploit #vulnerability #EoP #RedyOpsLabs #cybersecurity #infosec #bugbounty #redteam #SEP #SEPM",
+    "tweettime": "2020-06-11, 18:25:06",
+    "tweeturl": "https://twitter.com/gweeperx/status/1271146453881274368",
+    "username": "gweeperx"
+}
+{
+    "expanded_url": [
+        "https://support.citrix.com/article/CTX275460"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 18,
+    "tweettext": "Citrix vulnerability for Workspace App for Windows Only with bad file permissions that can allow malicious DLLs or EXEs to be executed. No RCE but definitely something you want to patch. https://t.co/6m9flhe4da\nCVE-2020-13884\nCVE-2020-13885",
+    "tweettime": "2020-06-11, 11:40:43",
+    "tweeturl": "https://twitter.com/VDIHacker/status/1271044690264145920",
+    "username": "VDIHacker"
+}
+{
+    "expanded_url": [
+        "https://blog.zecops.com/vulnerabilities/smbleedingghost-writeup-chaining-smbleed-cve-2020-1206-with-smbghost/",
+        "https://airbus-cyber-security.com/diving-into-the-smblost-vulnerability-cve-2020-1301/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Technical write-up for SMBleedingGhost (CVE-2020-1206), a pre-auth info disclosure in SMBv3: https://t.co/3gwcYOFGmw\n\nTechnical write-up for SMBLost (CVE-2020-1206), a post-auth RCE in SMBv1: https://t.co/ftKjcGFyX9 https://t.co/FqYZYp23yQ",
+    "tweettime": "2020-06-09, 22:29:00",
+    "tweeturl": "https://twitter.com/campuscodi/status/1270483058496585728",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://github.com/ZecOps/CVE-2020-0796-RCE-POC/"
+    ],
+    "tweetfavorites": 123,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "GitHub - ZecOps/CVE-2020-0796-RCE-POC: CVE-2020-0796 Remote Code Execution POC - https://t.co/5Gmtv1Zpv0",
+    "tweettime": "2020-06-09, 22:05:08",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1270477054954188802",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1301"
+    ],
+    "tweetfavorites": 678,
+    "tweetquotes": 23,
+    "tweetreplies": 11,
+    "tweetretweets": 372,
+    "tweettext": "CVE-2020-1301 | Windows SMB Remote Code Execution Vulnerability\n\n- all Windows versions affected\n\nhttps://t.co/dNZfQrSgPv https://t.co/0hWG6m8EqU",
+    "tweettime": "2020-06-09, 21:03:36",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1270461568900358144",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/06/SMBleed-smb-vulnerability.html"
+    ],
+    "tweetfavorites": 548,
+    "tweetquotes": 26,
+    "tweetreplies": 6,
+    "tweetretweets": 355,
+    "tweettext": "SMBleed — A new security vulnerability (CVE-2020-1206) affects Windows SMBv3 protocol.\n\nDetails + PoC: https://t.co/DcF5pumvvM\n\nAn unauthenticated attacker (client/server) can also combine it with the \"wormable\" SMBGhost flaw to achieve RCE attacks.\n\n#infosec #cybersecurity https://t.co/lTOx5uP7l6",
+    "tweettime": "2020-06-09, 20:36:11",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1270454668095782919",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://airbus-cyber-security.com/diving-into-the-smblost-vulnerability-cve-2020-1301/"
+    ],
+    "tweetfavorites": 432,
+    "tweetquotes": 10,
+    "tweetreplies": 2,
+    "tweetretweets": 249,
+    "tweettext": "[New Post] Here is my detailed write-up on a new #SMBv1 vulnerability named #SMBLost (CVE-2020-1301). \n#RCE conceivable. Find out why #SMBLost is less harmful than #SMBGhost or #EternalBlue.\n#PoC causing a remote #DoS available. Stay secure! 🙂\n\n➡️https://t.co/Hlk9ngsNcf https://t.co/VN28aqTrhM",
+    "tweettime": "2020-06-09, 19:16:45",
+    "tweeturl": "https://twitter.com/_Homeostasie_/status/1270434679980777478",
+    "username": "_Homeostasie_"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xwBec"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 13,
+    "tweetreplies": 5,
+    "tweetretweets": 179,
+    "tweettext": "Protect your networks from malicious cyber actors. Update Microsoft SMB ASAP to patch RCE vulnerability, CVE-2020-0796, being exploited in the wild. [https://t.co/N89NWqFgIH] #Cyber #Cybersecurity #InfoSec #RCE",
+    "tweettime": "2020-06-05, 20:07:27",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1268997885225578496",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 668,
+    "tweetquotes": 5,
+    "tweetreplies": 3,
+    "tweetretweets": 340,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) – write-up and exploit\n\nhttps://t.co/lmFgh6v6Gu",
+    "tweettime": "2020-06-03, 21:01:08",
+    "tweeturl": "https://twitter.com/FlatL1ne/status/1268286621377576960",
+    "username": "FlatL1ne"
+}
+{
+    "expanded_url": [
+        "https://github.com/chompie1337/SMBGhost_RCE_PoC"
+    ],
+    "tweetfavorites": 251,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 120,
+    "tweettext": "SMBGhost - RCE PoC for CVE-2020-0796 \"SMBGhost\" https://t.co/LlLmOrwA6r",
+    "tweettime": "2020-06-02, 11:29:46",
+    "tweeturl": "https://twitter.com/netbiosX/status/1267780444084469760",
+    "username": "netbiosX"
+}
+{
+    "expanded_url": [
+        "https://github.com/offensive-security/exploitdb-bin-sploits/raw/master/bin-sploits/48537.zip"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 14,
+    "tweettext": "CVE-2020-0796 | Windows SMBv3 Client/Server Remote Code Execution Vulnerability\n\nPOC\nhttps://t.co/A1KkMmCzf0 https://t.co/al3Ar5J20x",
+    "tweettime": "2020-06-02, 10:36:41",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1267767083888259072",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/chompie1337/SMBGhost_RCE_PoC"
+    ],
+    "tweetfavorites": 318,
+    "tweetquotes": 5,
+    "tweetreplies": 11,
+    "tweetretweets": 142,
+    "tweettext": "It seems that ALOT of people are interested in the #SMBGhost CVE-2020-0796 RCE PoC source. Since \n@ZecOps will be releasing theirs in the coming days, and the bug has been patched for months, I think its OK to release for educational purposes. Find it here:https://t.co/6rA7yPCkeA",
+    "tweettime": "2020-06-02, 02:54:29",
+    "tweeturl": "https://twitter.com/chompie1337/status/1267650767286153221",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://b.ou.is/articles/2020-05/CVE-2020-13693"
+    ],
+    "tweetfavorites": 155,
+    "tweetquotes": 8,
+    "tweetreplies": 1,
+    "tweetretweets": 94,
+    "tweettext": "Analysis of CVE-2020-13693, an unauthenticated privilege-escalation flaw in the BBPress forum plugin for #WordPress that has over 1.5 million downloads.\n\nhttps://t.co/JUZGkNSHtX https://t.co/Np56UCzUna",
+    "tweettime": "2020-06-01, 10:57:03",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1267409820694597634",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/05/stable-channel-update-for-desktop_19.html"
+    ],
+    "tweetfavorites": 121,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 15,
+    "tweettext": "i forgot about my bug :D i reported android sbx in April. i will soon post writeup about Exploitation using it. https://t.co/YH4STKbHQw\n[$20000][1073015] High CVE-2020-6465: Use after free in reader mode. Reported by Woojin Oh(@pwn_expoit) of STEALIEN on 2020-04-21",
+    "tweettime": "2020-06-30, 07:08:47",
+    "tweeturl": "https://twitter.com/pwn_expoit/status/1277861624963952641",
+    "username": "pwn_expoit"
+}
+{
+    "expanded_url": [
+        "http://ow.ly/7HJl50AkykS"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "#Metasploit module for CVE-2020-8515 (UNAUTHENTICATED RCE IN #DRAYTEK VIGOR 2960, 3900 &amp; 300) developed by our @skull_army 👉 https://t.co/4EWbHKxNSF https://t.co/ixbGj66Mo0",
+    "tweettime": "2020-06-29, 13:22:52",
+    "tweeturl": "https://twitter.com/DreamlabGlobal/status/1277593377962446850",
+    "username": "DreamlabGlobal"
+}
+{
+    "expanded_url": [
+        "https://github.com/spaceraccoon/CVE-2020-10665"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2020-10665 Docker Desktop Local Privilege Escalation  https://t.co/x2tFjum5dB  #Pentesting #Windows #ReverseShell #CyberSecurity #Infosec https://t.co/xRGneYxkC2",
+    "tweettime": "2020-06-27, 17:15:43",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1276927201645125639",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 43,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) \n\nhttps://t.co/jvURLAvdVQ",
+    "tweettime": "2020-06-26, 13:13:12",
+    "tweeturl": "https://twitter.com/i_bo0om/status/1276503780687777792",
+    "username": "i_bo0om"
+}
+{
+    "expanded_url": [
+        "https://movaxbx.ru/2020/06/26/microsoft-windows-lnk-remote-code-execution-vulnerability-cve-2020-1299/"
+    ],
+    "tweetfavorites": 413,
+    "tweetquotes": 7,
+    "tweetreplies": 8,
+    "tweetretweets": 237,
+    "tweettext": "Microsoft Windows LNK Remote Code Execution Vulnerability – CVE-2020-1299 https://t.co/QQ6OtWE04U",
+    "tweettime": "2020-06-26, 10:25:30",
+    "tweeturl": "https://twitter.com/movaxbx2/status/1276461577395335170",
+    "username": "movaxbx2"
+}
+{
+    "expanded_url": [
+        "https://github.com/spaceraccoon/CVE-2020-10665"
+    ],
+    "tweetfavorites": 549,
+    "tweetquotes": 1,
+    "tweetreplies": 7,
+    "tweetretweets": 164,
+    "tweettext": "Wrote the first public exploit of CVE-2020-10665 Docker Desktop Local Privilege Escalation! It was challenging picking up C++ as well as multiple exploit stages (hard link spraying, DLL overwrite, printer API call) but learned a lot :) https://t.co/zMcO3keyfc https://t.co/nqSUTbQT5k",
+    "tweettime": "2020-06-25, 12:02:51",
+    "tweeturl": "https://twitter.com/spaceraccoonsec/status/1276123691156254720",
+    "username": "spaceraccoonsec"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/magnitude-exploit-kit-evolution/97436/"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "In his latest blog, @oct0xor confirms our attribution of Magniber's LPE exploit (probably CVE-2018-8641) to Volodya.\n\nThis is just 1 of 11(!) LPE exploits by this actor that we've analyzed. More details in the upcoming VB2020 talk by @megabeets_ and I.\n\nhttps://t.co/Cs8o0WDn9J",
+    "tweettime": "2020-06-24, 16:58:01",
+    "tweeturl": "https://twitter.com/EyalItkin/status/1275835583198347265",
+    "username": "EyalItkin"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2020-0015.html"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "Advisory for the two vulnerabilities found by @OnlyTheDuck and @BrunoPujos is now public! CVE-2020-3962 and CVE-2020-3969 impact the SVGA 3D component of VMware hypervisors and were reported to @thezdi during #Pwn2Own 2020. Stay tuned for more details!\n\nhttps://t.co/xPh2nDGxmz",
+    "tweettime": "2020-06-24, 13:27:46",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1275782673026482178",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://labs.sentinelone.com/click-from-the-backyard-cve-2020-9332/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "A Click from the Backyard | Analysis of CVE-2020-9332, a Vulnerable USB Redirection Software -&gt; UAC Bypass 😎\n\n- great research by @SentinelOne thanks for sharing \n\nPost &amp; PoC\nhttps://t.co/9YURglq5ae\n\n#infosec #pentest #exploitDev",
+    "tweettime": "2020-06-20, 06:58:28",
+    "tweeturl": "https://twitter.com/CyberWarship/status/1274235147861331968",
+    "username": "CyberWarship"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2020/6/16/cve-2020-1181-sharepoint-remote-code-execution-through-web-parts"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "CVE-2020-1181: SharePoint Remote Code Execution Through Web Parts - includes step-by-step Proof of Concept\nhttps://t.co/1ydBxQN93W",
+    "tweettime": "2020-06-18, 09:00:10",
+    "tweeturl": "https://twitter.com/Dinosn/status/1273541000120631297",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://insinuator.net/2020/04/cve-2020-0022-an-android-8-0-9-0-bluetooth-zero-click-rce-bluefrag/"
+    ],
+    "tweetfavorites": 268,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 122,
+    "tweettext": "Pwn BlueFrag: CVE-2020-0022 RCE Exploit For Android 8.0-9.0, many thanks to https://t.co/oqKLq9X265. Debugging all details step by step with GDB is so much fun.",
+    "tweettime": "2020-06-18, 00:33:07",
+    "tweeturl": "https://twitter.com/K3vinLuSec/status/1273413397371969536",
+    "username": "K3vinLuSec"
+}
+{
+    "expanded_url": [
+        "https://github.com/osamahamad/CVE-2020-5410-POC/"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2020-5410 Spring Cloud Config directory traversal vulnerability\nhttps://t.co/zWnbrIoBex https://t.co/ocDwZJgvTy",
+    "tweettime": "2020-06-17, 20:04:10",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1273345716036030464",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/37CAHwp"
+    ],
+    "tweetfavorites": 223,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 104,
+    "tweettext": "A deep look at CVE-2020-1181: RCE in #SharePoint through Web Parts. An anonymous researcher sent this to us and #Microsoft patched it last week. Includes step-by-step PoC. https://t.co/YmVUFmMG1y",
+    "tweettime": "2020-06-17, 15:25:30",
+    "tweeturl": "https://twitter.com/thezdi/status/1273275586216157185",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://labs.redyops.com/index.php/2020/04/27/dos-via-arbitrary-folder-creation/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
+    "tweettext": "Exploit code and write-up for Windows Denial of Service Vulnerability (CVE-2020-1283)\n\nDon't ask me about MS' description :-)\n\nhttps://t.co/yw7ctlAGVy\n-------\n#bug #Microsoft #Windows #0day #exploit #vulnerability #DOS #BSoD #RedyOpsLabs #redteam #pentest #infosec #CVE #bugbounty",
+    "tweettime": "2020-06-17, 09:36:41",
+    "tweeturl": "https://twitter.com/gweeperx/status/1273187803707432961",
+    "username": "gweeperx"
+}
+{
+    "expanded_url": [
+        "https://www.qualys.com/2020/05/19/cve-2005-1513/remote-code-execution-qmail.tar.gz"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 26,
+    "tweettext": "Qualys Security Advisory: Release of the exploit for CVE-2005-1513 (qmail LPE and RCE).  https://t.co/ABUa9t2AJ9",
+    "tweettime": "2020-06-16, 19:51:34",
+    "tweeturl": "https://twitter.com/pozdnychev/status/1272980153518432259",
+    "username": "pozdnychev"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/privilege-escalation/pulse-secure-client-for-windows-9-1-6-toctou-privilege-escalation-cve-2020-13162/"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 44,
+    "tweettext": "Researchers release details for a new TOCTOU Privilege Escalation (CVE-2020-13162) vulnerability affecting Pulse Secure Client for Windows (versions &lt;9.1.6)\n\nDetails: https://t.co/voRLZbj2bw\n\n#infosec #cybersecurity https://t.co/hCvMIUPJFl",
+    "tweettime": "2020-06-16, 18:15:28",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1272955972651114497",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1045",
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1027"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 30,
+    "tweettext": "Two of my MS Office reported vulns patched in June:\n\nCVE-2020-1225 - Microsoft Office Excel HTML and XML Table UAF\nhttps://t.co/pb9k89p3Q3\n\nCVE-2020-1226 Microsoft Office Excel PivotField UAF \nhttps://t.co/4zRFDstNHM",
+    "tweettime": "2020-06-15, 09:43:41",
+    "tweeturl": "https://twitter.com/_Icewall/status/1272464789311311872",
+    "username": "_Icewall"
+}
+{
+    "expanded_url": [
+        "https://tanzu.vmware.com/security/cve-2020-5410",
+        "https://xz.aliyun.com/t/7877"
+    ],
+    "tweetfavorites": 297,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 108,
+    "tweettext": "CVE-2020-5410 Directory Traversal with spring-cloud-config-server\n\nadvisory: https://t.co/vigsgQkicN\nanalysis: https://t.co/ohAAFHPXKx https://t.co/Oi6xlwGFlZ",
+    "tweettime": "2020-06-15, 05:07:23",
+    "tweeturl": "https://twitter.com/chybeta/status/1272395253396328449",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 626,
     "tweetquotes": 6,
     "tweetreplies": 7,
     "tweetretweets": 266,

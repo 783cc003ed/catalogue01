@@ -383,3 +383,773 @@
     "tweeturl": "https://twitter.com/Nettitude_Labs/status/1333787486502305793",
     "username": "Nettitude_Labs"
 }
+{
+    "expanded_url": [
+        "https://blog.securelayer7.net/latest-joomla-exploit-cve-2020-35616-acl-security-vulnerabilities/?fbclid=IwAR1kGETSGP8wxU47p6-41RXu3MonOArPx2_2yN9XFJCbHXdzGeCeY2z_wOI",
+        "https://youtu.be/AZr6WydbUA0"
+    ],
+    "tweetfavorites": 94,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "Joomla ACL Privilege Escalation CVE-2020-35616\n\n[PoC]\nPOST administrator/index.php?option={Target Category}\n...\n...\n...\n&amp;jform[rules][core.{create|delete|edit}][AttackerID]=1\n\nhttps://t.co/wBvfnw8i20\n\n[DEMO]\nhttps://t.co/7suAvebAb8",
+    "tweettime": "2020-12-29, 07:57:22",
+    "tweeturl": "https://twitter.com/wugeej/status/1343828443272597508",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/JiU7AUf"
+    ],
+    "tweetfavorites": 194,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 89,
+    "tweettext": "CVE-2020-10148 SolarWinds Orion API RCE\n\n👇POC https://t.co/xLVuhSIE4Q https://t.co/cnXMupUjNI",
+    "tweettime": "2020-12-29, 02:58:35",
+    "tweeturl": "https://twitter.com/chybeta/status/1343753251053658113",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 309,
+    "tweettext": "RT @KLINIX5: I disclosed about 8 zero-day vulnerability, with a novel way to bypass common antiviruses self-protection and CVE-2020-16902 p…",
+    "tweettime": "2020-12-28, 15:07:03",
+    "tweeturl": "https://twitter.com/binitamshah/status/1343574186678108161",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://halove23.blogspot.com/2020/12/oh-so-you-have-antivirus-nameevery-bug.html"
+    ],
+    "tweetfavorites": 856,
+    "tweetquotes": 11,
+    "tweetreplies": 7,
+    "tweetretweets": 335,
+    "tweettext": "I disclosed about 8 zero-day vulnerability, with a novel way to bypass common antiviruses self-protection and CVE-2020-16902 patch bypass.\nhttps://t.co/j8JqgsAxbh",
+    "tweettime": "2020-12-26, 16:29:57",
+    "tweeturl": "https://twitter.com/KLINIX5/status/1342870273838739456",
+    "username": "KLINIX5"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 5,
+    "tweettext": "Looked into CVE-2020-0986 as unpatched privilege escalations in Windows are hot right now. Articles are a bit misleading, this only allows privilege escalation from low-integrity to medium integrity - useful for exploit chains but it's not SYSTEM privileges. Interesting bug tho. https://t.co/QIFN8bj5Aa",
+    "tweettime": "2020-12-24, 21:19:17",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1342218312340676609",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=2096"
+    ],
+    "tweetfavorites": 382,
+    "tweetquotes": 15,
+    "tweetreplies": 4,
+    "tweetretweets": 151,
+    "tweettext": "In May, Kaspersky (@oct0xor) discovered CVE-2020-0986 in Windows splwow64 was exploited itw as a 0day. Microsoft released a patch in June, but that patch didnt fix the vuln. After reporting that bad fix in Sept under a 90day deadline, it's still not fixed. https://t.co/WDGNs3JGka",
+    "tweettime": "2020-12-23, 16:22:46",
+    "tweeturl": "https://twitter.com/maddiestone/status/1341781305126612995",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://blog.wpsec.com/contact-form-7-vulnerability/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 33,
+    "tweettext": "CVE-2020-35489: Unrestricted File Upload Vulnerability found in Contact Form 7 plugin affects 5M+ websites\nhttps://t.co/VBNwfVJO60 https://t.co/aBlWEgoH5q",
+    "tweettime": "2020-12-23, 00:30:56",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1341541767318024192",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "(CVE-2020-35606)#Webmin 1.962-PU Escape Bypass RCE.I've stated that Im gonna continue to analyze Webmin. By keeping my word,I shared one of the vuln that I kept in my hand.Detailed analysis can be found on my pblog.I'll have another surprise for webmin in the future😉Best regards https://t.co/wOvFyDeNet",
+    "tweettime": "2020-12-22, 10:46:44",
+    "tweeturl": "https://twitter.com/ehakkus/status/1341334351154458625",
+    "username": "ehakkus"
+}
+{
+    "expanded_url": [
+        "https://github.com/testanull/ProjectSIM/",
+        "https://link.medium.com/uK3qeyfYpcb"
+    ],
+    "tweetfavorites": 140,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 65,
+    "tweettext": "I just published an analysis of CVE-2020-7200, HPE SIM AMF Deserialization lead to RCE \nPoC: https://t.co/rjF7LSlWxG\nPost: https://t.co/rCbrkHxBhn",
+    "tweettime": "2020-12-22, 07:09:36",
+    "tweeturl": "https://twitter.com/testanull/status/1341279708491599872",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://x41-dsec.de/security/advisory/exploit/research/2020/12/21/x41-microsoft-exchange-rce-dlp-bypass/"
+    ],
+    "tweetfavorites": 349,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 155,
+    "tweettext": "[ CVE-2020-16875 Protection/Filter Bypass ] MICROSOFT EXCHANGE REMOTE CODE EXECUTION\nhttps://t.co/y8bo9w9BUA https://t.co/yDDbZgmu4T",
+    "tweettime": "2020-12-21, 20:29:34",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1341118637038575616",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "http://bit.ly/2WwSNLE"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2020-7468: Turning Imprisonment to Advantage in the FreeBSD ftpd chroot Jail - a new blog from @_wmliang_  covering a now patched local privilege escalation in #FreeBSD. https://t.co/AlrO2d3Bfl",
+    "tweettime": "2020-12-21, 18:06:49",
+    "tweeturl": "https://twitter.com/thezdi/status/1341082714733236226",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://blog.longterm.io/cve-2020-0423.html"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 52,
+    "tweettext": "A detailed explanation of CVE-2020-0423, yet another privilege escalation vulnerability in #Android.\n\nhttps://t.co/zeqrX07s5B https://t.co/RL7JcEj1JO",
+    "tweettime": "2020-12-21, 14:46:53",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1341032399786807297",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://mail.ru"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 8,
+    "tweettext": "Sorry for the delay.\n\n1. Using shodan search query : org:\"https://t.co/jZRuDREwjR\"\n2. Found a Nexus dashboard\n3. exploit code injection using a (CVE-2019-7238) ExDB\n4. Run this code and boom.\n\nYou get a happy nice days. https://t.co/72jqKwlH17",
+    "tweettime": "2020-12-19, 14:50:24",
+    "tweeturl": "https://twitter.com/aulliakenz/status/1340308506973331457",
+    "username": "aulliakenz"
+}
+{
+    "expanded_url": [
+        "https://link.medium.com/c2NVlbUfjcb"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "I just published CVE-2020-29227: Unauthenticated Local File Inclusion In Car Rental Management System 1.0 https://t.co/8HcbK7wdXm",
+    "tweettime": "2020-12-18, 06:07:03",
+    "tweeturl": "https://twitter.com/loopspell/status/1339814413415550976",
+    "username": "loopspell"
+}
+{
+    "expanded_url": [
+        "https://github.com/x-stream/xstream/commit/6740c04b217aef02d44fba26402b35e0f6f493ce",
+        "https://github.com/x-stream/xstream/commit/0bcbf50126a62dfcd65f93a0da0c6d1ae92aa738"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "CVE-2020-26258 XStream SSRF\nhttps://t.co/E90icQRUPo\n\nCVE-2020-26259 XStream  Arbitrary File Deletion\nhttps://t.co/QPpzpFJD15 https://t.co/2WZ1yEbVLU",
+    "tweettime": "2020-12-14, 05:05:02",
+    "tweeturl": "https://twitter.com/chybeta/status/1338349256080420865",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://x-stream.github.io/CVE-2020-26259.html",
+        "https://x-stream.github.io/CVE-2020-26258.html"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 24,
+    "tweettext": "#CVE-2020-26259 \nXStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights.\n\n1.4.14\n\n#CVE-2020-26258 XStream SSRF\n\nPoc:\nhttps://t.co/6GHbng49Dy\nhttps://t.co/I5KB42tyz5 https://t.co/X5iGnoYHqd",
+    "tweettime": "2020-12-13, 17:51:55",
+    "tweeturl": "https://twitter.com/jas502n/status/1338179859265146881",
+    "username": "jas502n"
+}
+{
+    "tweetfavorites": 57,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "Mass scanning activity detected from 158.58.185.55 (🇮🇷) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. #threatintel https://t.co/8K061aCXxQ",
+    "tweettime": "2020-12-12, 19:32:11",
+    "tweeturl": "https://twitter.com/bad_packets/status/1337842704722481152",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/pocs/cve-2020-17143.py.txt",
+        "https://srcincite.io/pocs/cve-2020-17141.py.txt"
+    ],
+    "tweetfavorites": 371,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 153,
+    "tweettext": "I provided PoC exploits for CVE-2020-17143 and CVE-2020-17141 which demonstrate the XXE bugs against Exchange Server.\n\n- Low privileged authentication only\n- CVE-2020-17141 is interesting because its in the EWS API\n\nhttps://t.co/yYB8Frzwsl\nhttps://t.co/wmtGRPMpVB",
+    "tweettime": "2020-12-11, 15:15:13",
+    "tweeturl": "https://twitter.com/steventseeley/status/1337415647593107457",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/advisories/src-2020-0031/",
+        "https://srcincite.io/pocs/cve-2020-17141.py.txt"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 28,
+    "tweettext": "Microsoft Exchange Server EWS RouteComplaint ParseComplaintData XML External Entity Processing Information Disclosure Vulnerability\n\nCVE: CVE-2020-17141\nAdvisory: https://t.co/9LGEheqija\nTechnical Analysis &amp; PoC: https://t.co/M8gHmTsJUd",
+    "tweettime": "2020-12-11, 15:10:00",
+    "tweeturl": "https://twitter.com/sourceincite/status/1337414336030121984",
+    "username": "sourceincite"
+}
+{
+    "tweetfavorites": 302,
+    "tweetquotes": 7,
+    "tweetreplies": 3,
+    "tweetretweets": 89,
+    "tweettext": "#CVE-2020-17530 (S2-061) Struts2 OGNL Expression Remote Code Execution @pwntester nice find!👍 https://t.co/bbaO4FeItl",
+    "tweettime": "2020-12-10, 10:23:05",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1336979742814134272",
+    "username": "pyn3rd"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "1/n @OphirHarpaz and I patch-diffed the latest vmusrv.dll (Hyper-V vSMB) trying to figure out the root cause of CVE-2020-17095. We figured out that it was probably UAF - the Refcount of SRV_WORK_ITEM was miscomputed, leading to freeing objects from mem that are still reachable. https://t.co/WZ2K4cJNLk",
+    "tweettime": "2020-12-10, 08:40:22",
+    "tweeturl": "https://twitter.com/peleghd/status/1336953893918568448",
+    "username": "peleghd"
+}
+{
+    "expanded_url": [
+        "http://mail-archives.us.apache.org/mod_mbox/www-announce/202012.mbox/%3CCAMopvkO3Bba_4GQ-%3D8jngryMSxDkzo2JbrCrCApEt1aQ4fRCQw%40mail.gmail.com%3E"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "Apache releases an update to patch a potential remote code execution #vulnerability (CVE-2020-17530) affecting Apache Struts 2.0.0 - 2.5.25.\n\nRead more:  https://t.co/fQeH2h8ODX https://t.co/7q9U9DwrF8",
+    "tweettime": "2020-12-09, 15:30:25",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1336694698279194626",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/Airboi/CVE-2020-17144-EXP"
+    ],
+    "tweetfavorites": 187,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 74,
+    "tweettext": "CVE-2020-17144: Microsoft Exchange Remote Code Execution Vulnerability\n\nhttps://t.co/texmYGydMe https://t.co/W2QkEOblD2",
+    "tweettime": "2020-12-09, 14:37:56",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1336681491963781122",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/ka1n4t/CVE-2020-17530"
+    ],
+    "tweetfavorites": 267,
+    "tweetquotes": 8,
+    "tweetreplies": 4,
+    "tweetretweets": 113,
+    "tweettext": "CVE-2020-17530: Apache Struts2 Remote Code Execution Vulnerability Alert\nhttps://t.co/3mqu9Fl0Zn https://t.co/obW1Fkmt6Z",
+    "tweettime": "2020-12-09, 14:35:18",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1336680827237904384",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-17140"
+    ],
+    "tweetfavorites": 448,
+    "tweetquotes": 9,
+    "tweetreplies": 17,
+    "tweetretweets": 121,
+    "tweettext": "Microsoft patched my first use after free vulnerability in SMBv3 this patch tuesday, assigned CVE-2020-17140(https://t.co/UVm0ChehTT), it may affect over Win7 to Win10, I take a video to show my PoC works on the Windows 10 20H2 before patch :P https://t.co/v9Lg2U5APA",
+    "tweettime": "2020-12-09, 02:53:04",
+    "tweeturl": "https://twitter.com/KeyZ3r0/status/1336504104001052674",
+    "username": "KeyZ3r0"
+}
+{
+    "expanded_url": [
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1153"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "Just one this month ;) \nCVE-2020-17123 - Microsoft Office ElementType code execution vulnerability\n\nAdvisory : https://t.co/PAeqCB3gFO",
+    "tweettime": "2020-12-08, 19:43:29",
+    "tweeturl": "https://twitter.com/_Icewall/status/1336395996587298832",
+    "username": "_Icewall"
+}
+{
+    "tweetfavorites": 107,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 31,
+    "tweettext": "Just a heads up, CVE-2020-17141 - Microsoft Exchange Server RCE is triggerable from a low privileged user and does *not* require user interaction. On the flip side, *I* couldn't get RCE from it, only disclose files as SYSTEM and in some cases relay the ntlm SYSTEM account.",
+    "tweettime": "2020-12-08, 19:08:43",
+    "tweeturl": "https://twitter.com/steventseeley/status/1336387246795132931",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 45,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 26,
+    "tweettext": "Ongoing mass scanning activity detected from 156.96.117.185 (🇺🇸) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. \n\nPorts targeted:\n443\n7443\n8443\n9443\n10443\n50443\n60443",
+    "tweettime": "2020-12-07, 18:52:49",
+    "tweeturl": "https://twitter.com/bad_packets/status/1336020860709158912",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/vulnerabilities-in-mcafee-epolicy-orchestrator/"
+    ],
+    "tweetfavorites": 232,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 94,
+    "tweettext": "✨New Article: Vulnerabilities in McAfee ePolicy Orchestrator\n\n🐞Unauth RCE chain via CSRF + SSRF + MSSQL MiTM server\n🐞Post-auth RCE via ZipSlip with Windows Defender bypass\n🐞Reflected XSS\n\nCVE-2020-7318 assigned, research by Mikhail Klyuchnikov\n\nhttps://t.co/PSDun0mrIh https://t.co/958AWlwPrb",
+    "tweettime": "2020-12-07, 13:54:24",
+    "tweeturl": "https://twitter.com/ptswarm/status/1335945761574563841",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/publications/ios-1-day-hunting-uncovering-and-exploiting-cve-2020-27950-kernel-memory-leak.html"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "IOS 1-DAY HUNTING: Uncovering and exploiting CVE-2020-27950 kernel memory leak.\nhttps://t.co/vS4WJhznyd  #Pentesting #Kernel #Exploit #CyberSecurity #Infosec https://t.co/zy0WIolmkP",
+    "tweettime": "2020-12-03, 06:03:59",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1334377823755231232",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2020-14418-madcodehook-library-local-privilege-escalation/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2020-14418: A vulnerability in the madCodeHook library caused many security products (by e.g. Cisco, Morphisec, etc) to contain a local privilege escalation vulnerability. Discovery and analysis by @kyREcon. \n\nhttps://t.co/jhZLJ1JNvX",
+    "tweettime": "2020-12-01, 14:58:12",
+    "tweeturl": "https://twitter.com/Nettitude_Labs/status/1333787486502305793",
+    "username": "Nettitude_Labs"
+}
+{
+    "expanded_url": [
+        "https://blog.securelayer7.net/latest-joomla-exploit-cve-2020-35616-acl-security-vulnerabilities/?fbclid=IwAR1kGETSGP8wxU47p6-41RXu3MonOArPx2_2yN9XFJCbHXdzGeCeY2z_wOI",
+        "https://youtu.be/AZr6WydbUA0"
+    ],
+    "tweetfavorites": 94,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "Joomla ACL Privilege Escalation CVE-2020-35616\n\n[PoC]\nPOST administrator/index.php?option={Target Category}\n...\n...\n...\n&amp;jform[rules][core.{create|delete|edit}][AttackerID]=1\n\nhttps://t.co/wBvfnw8i20\n\n[DEMO]\nhttps://t.co/7suAvebAb8",
+    "tweettime": "2020-12-29, 07:57:22",
+    "tweeturl": "https://twitter.com/wugeej/status/1343828443272597508",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/JiU7AUf"
+    ],
+    "tweetfavorites": 194,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 89,
+    "tweettext": "CVE-2020-10148 SolarWinds Orion API RCE\n\n👇POC https://t.co/xLVuhSIE4Q https://t.co/cnXMupUjNI",
+    "tweettime": "2020-12-29, 02:58:35",
+    "tweeturl": "https://twitter.com/chybeta/status/1343753251053658113",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 309,
+    "tweettext": "RT @KLINIX5: I disclosed about 8 zero-day vulnerability, with a novel way to bypass common antiviruses self-protection and CVE-2020-16902 p…",
+    "tweettime": "2020-12-28, 15:07:03",
+    "tweeturl": "https://twitter.com/binitamshah/status/1343574186678108161",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://halove23.blogspot.com/2020/12/oh-so-you-have-antivirus-nameevery-bug.html"
+    ],
+    "tweetfavorites": 856,
+    "tweetquotes": 11,
+    "tweetreplies": 7,
+    "tweetretweets": 335,
+    "tweettext": "I disclosed about 8 zero-day vulnerability, with a novel way to bypass common antiviruses self-protection and CVE-2020-16902 patch bypass.\nhttps://t.co/j8JqgsAxbh",
+    "tweettime": "2020-12-26, 16:29:57",
+    "tweeturl": "https://twitter.com/KLINIX5/status/1342870273838739456",
+    "username": "KLINIX5"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 5,
+    "tweettext": "Looked into CVE-2020-0986 as unpatched privilege escalations in Windows are hot right now. Articles are a bit misleading, this only allows privilege escalation from low-integrity to medium integrity - useful for exploit chains but it's not SYSTEM privileges. Interesting bug tho. https://t.co/QIFN8bj5Aa",
+    "tweettime": "2020-12-24, 21:19:17",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1342218312340676609",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=2096"
+    ],
+    "tweetfavorites": 382,
+    "tweetquotes": 15,
+    "tweetreplies": 4,
+    "tweetretweets": 151,
+    "tweettext": "In May, Kaspersky (@oct0xor) discovered CVE-2020-0986 in Windows splwow64 was exploited itw as a 0day. Microsoft released a patch in June, but that patch didnt fix the vuln. After reporting that bad fix in Sept under a 90day deadline, it's still not fixed. https://t.co/WDGNs3JGka",
+    "tweettime": "2020-12-23, 16:22:46",
+    "tweeturl": "https://twitter.com/maddiestone/status/1341781305126612995",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://blog.wpsec.com/contact-form-7-vulnerability/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 33,
+    "tweettext": "CVE-2020-35489: Unrestricted File Upload Vulnerability found in Contact Form 7 plugin affects 5M+ websites\nhttps://t.co/VBNwfVJO60 https://t.co/aBlWEgoH5q",
+    "tweettime": "2020-12-23, 00:30:56",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1341541767318024192",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "(CVE-2020-35606)#Webmin 1.962-PU Escape Bypass RCE.I've stated that Im gonna continue to analyze Webmin. By keeping my word,I shared one of the vuln that I kept in my hand.Detailed analysis can be found on my pblog.I'll have another surprise for webmin in the future😉Best regards https://t.co/wOvFyDeNet",
+    "tweettime": "2020-12-22, 10:46:44",
+    "tweeturl": "https://twitter.com/ehakkus/status/1341334351154458625",
+    "username": "ehakkus"
+}
+{
+    "expanded_url": [
+        "https://github.com/testanull/ProjectSIM/",
+        "https://link.medium.com/uK3qeyfYpcb"
+    ],
+    "tweetfavorites": 140,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 65,
+    "tweettext": "I just published an analysis of CVE-2020-7200, HPE SIM AMF Deserialization lead to RCE \nPoC: https://t.co/rjF7LSlWxG\nPost: https://t.co/rCbrkHxBhn",
+    "tweettime": "2020-12-22, 07:09:36",
+    "tweeturl": "https://twitter.com/testanull/status/1341279708491599872",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://x41-dsec.de/security/advisory/exploit/research/2020/12/21/x41-microsoft-exchange-rce-dlp-bypass/"
+    ],
+    "tweetfavorites": 349,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 155,
+    "tweettext": "[ CVE-2020-16875 Protection/Filter Bypass ] MICROSOFT EXCHANGE REMOTE CODE EXECUTION\nhttps://t.co/y8bo9w9BUA https://t.co/yDDbZgmu4T",
+    "tweettime": "2020-12-21, 20:29:34",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1341118637038575616",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "http://bit.ly/2WwSNLE"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2020-7468: Turning Imprisonment to Advantage in the FreeBSD ftpd chroot Jail - a new blog from @_wmliang_  covering a now patched local privilege escalation in #FreeBSD. https://t.co/AlrO2d3Bfl",
+    "tweettime": "2020-12-21, 18:06:49",
+    "tweeturl": "https://twitter.com/thezdi/status/1341082714733236226",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://blog.longterm.io/cve-2020-0423.html"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 52,
+    "tweettext": "A detailed explanation of CVE-2020-0423, yet another privilege escalation vulnerability in #Android.\n\nhttps://t.co/zeqrX07s5B https://t.co/RL7JcEj1JO",
+    "tweettime": "2020-12-21, 14:46:53",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1341032399786807297",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://mail.ru"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 8,
+    "tweettext": "Sorry for the delay.\n\n1. Using shodan search query : org:\"https://t.co/jZRuDREwjR\"\n2. Found a Nexus dashboard\n3. exploit code injection using a (CVE-2019-7238) ExDB\n4. Run this code and boom.\n\nYou get a happy nice days. https://t.co/72jqKwlH17",
+    "tweettime": "2020-12-19, 14:50:24",
+    "tweeturl": "https://twitter.com/aulliakenz/status/1340308506973331457",
+    "username": "aulliakenz"
+}
+{
+    "expanded_url": [
+        "https://link.medium.com/c2NVlbUfjcb"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "I just published CVE-2020-29227: Unauthenticated Local File Inclusion In Car Rental Management System 1.0 https://t.co/8HcbK7wdXm",
+    "tweettime": "2020-12-18, 06:07:03",
+    "tweeturl": "https://twitter.com/loopspell/status/1339814413415550976",
+    "username": "loopspell"
+}
+{
+    "expanded_url": [
+        "https://github.com/x-stream/xstream/commit/6740c04b217aef02d44fba26402b35e0f6f493ce",
+        "https://github.com/x-stream/xstream/commit/0bcbf50126a62dfcd65f93a0da0c6d1ae92aa738"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "CVE-2020-26258 XStream SSRF\nhttps://t.co/E90icQRUPo\n\nCVE-2020-26259 XStream  Arbitrary File Deletion\nhttps://t.co/QPpzpFJD15 https://t.co/2WZ1yEbVLU",
+    "tweettime": "2020-12-14, 05:05:02",
+    "tweeturl": "https://twitter.com/chybeta/status/1338349256080420865",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://x-stream.github.io/CVE-2020-26259.html",
+        "https://x-stream.github.io/CVE-2020-26258.html"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 24,
+    "tweettext": "#CVE-2020-26259 \nXStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights.\n\n1.4.14\n\n#CVE-2020-26258 XStream SSRF\n\nPoc:\nhttps://t.co/6GHbng49Dy\nhttps://t.co/I5KB42tyz5 https://t.co/X5iGnoYHqd",
+    "tweettime": "2020-12-13, 17:51:55",
+    "tweeturl": "https://twitter.com/jas502n/status/1338179859265146881",
+    "username": "jas502n"
+}
+{
+    "tweetfavorites": 57,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "Mass scanning activity detected from 158.58.185.55 (🇮🇷) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. #threatintel https://t.co/8K061aCXxQ",
+    "tweettime": "2020-12-12, 19:32:11",
+    "tweeturl": "https://twitter.com/bad_packets/status/1337842704722481152",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/pocs/cve-2020-17143.py.txt",
+        "https://srcincite.io/pocs/cve-2020-17141.py.txt"
+    ],
+    "tweetfavorites": 371,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 153,
+    "tweettext": "I provided PoC exploits for CVE-2020-17143 and CVE-2020-17141 which demonstrate the XXE bugs against Exchange Server.\n\n- Low privileged authentication only\n- CVE-2020-17141 is interesting because its in the EWS API\n\nhttps://t.co/yYB8Frzwsl\nhttps://t.co/wmtGRPMpVB",
+    "tweettime": "2020-12-11, 15:15:13",
+    "tweeturl": "https://twitter.com/steventseeley/status/1337415647593107457",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/advisories/src-2020-0031/",
+        "https://srcincite.io/pocs/cve-2020-17141.py.txt"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 28,
+    "tweettext": "Microsoft Exchange Server EWS RouteComplaint ParseComplaintData XML External Entity Processing Information Disclosure Vulnerability\n\nCVE: CVE-2020-17141\nAdvisory: https://t.co/9LGEheqija\nTechnical Analysis &amp; PoC: https://t.co/M8gHmTsJUd",
+    "tweettime": "2020-12-11, 15:10:00",
+    "tweeturl": "https://twitter.com/sourceincite/status/1337414336030121984",
+    "username": "sourceincite"
+}
+{
+    "tweetfavorites": 302,
+    "tweetquotes": 7,
+    "tweetreplies": 3,
+    "tweetretweets": 89,
+    "tweettext": "#CVE-2020-17530 (S2-061) Struts2 OGNL Expression Remote Code Execution @pwntester nice find!👍 https://t.co/bbaO4FeItl",
+    "tweettime": "2020-12-10, 10:23:05",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1336979742814134272",
+    "username": "pyn3rd"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "1/n @OphirHarpaz and I patch-diffed the latest vmusrv.dll (Hyper-V vSMB) trying to figure out the root cause of CVE-2020-17095. We figured out that it was probably UAF - the Refcount of SRV_WORK_ITEM was miscomputed, leading to freeing objects from mem that are still reachable. https://t.co/WZ2K4cJNLk",
+    "tweettime": "2020-12-10, 08:40:22",
+    "tweeturl": "https://twitter.com/peleghd/status/1336953893918568448",
+    "username": "peleghd"
+}
+{
+    "expanded_url": [
+        "http://mail-archives.us.apache.org/mod_mbox/www-announce/202012.mbox/%3CCAMopvkO3Bba_4GQ-%3D8jngryMSxDkzo2JbrCrCApEt1aQ4fRCQw%40mail.gmail.com%3E"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "Apache releases an update to patch a potential remote code execution #vulnerability (CVE-2020-17530) affecting Apache Struts 2.0.0 - 2.5.25.\n\nRead more:  https://t.co/fQeH2h8ODX https://t.co/7q9U9DwrF8",
+    "tweettime": "2020-12-09, 15:30:25",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1336694698279194626",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/Airboi/CVE-2020-17144-EXP"
+    ],
+    "tweetfavorites": 187,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 74,
+    "tweettext": "CVE-2020-17144: Microsoft Exchange Remote Code Execution Vulnerability\n\nhttps://t.co/texmYGydMe https://t.co/W2QkEOblD2",
+    "tweettime": "2020-12-09, 14:37:56",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1336681491963781122",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/ka1n4t/CVE-2020-17530"
+    ],
+    "tweetfavorites": 267,
+    "tweetquotes": 8,
+    "tweetreplies": 4,
+    "tweetretweets": 113,
+    "tweettext": "CVE-2020-17530: Apache Struts2 Remote Code Execution Vulnerability Alert\nhttps://t.co/3mqu9Fl0Zn https://t.co/obW1Fkmt6Z",
+    "tweettime": "2020-12-09, 14:35:18",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1336680827237904384",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-17140"
+    ],
+    "tweetfavorites": 448,
+    "tweetquotes": 9,
+    "tweetreplies": 17,
+    "tweetretweets": 121,
+    "tweettext": "Microsoft patched my first use after free vulnerability in SMBv3 this patch tuesday, assigned CVE-2020-17140(https://t.co/UVm0ChehTT), it may affect over Win7 to Win10, I take a video to show my PoC works on the Windows 10 20H2 before patch :P https://t.co/v9Lg2U5APA",
+    "tweettime": "2020-12-09, 02:53:04",
+    "tweeturl": "https://twitter.com/KeyZ3r0/status/1336504104001052674",
+    "username": "KeyZ3r0"
+}
+{
+    "expanded_url": [
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1153"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "Just one this month ;) \nCVE-2020-17123 - Microsoft Office ElementType code execution vulnerability\n\nAdvisory : https://t.co/PAeqCB3gFO",
+    "tweettime": "2020-12-08, 19:43:29",
+    "tweeturl": "https://twitter.com/_Icewall/status/1336395996587298832",
+    "username": "_Icewall"
+}
+{
+    "tweetfavorites": 107,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 31,
+    "tweettext": "Just a heads up, CVE-2020-17141 - Microsoft Exchange Server RCE is triggerable from a low privileged user and does *not* require user interaction. On the flip side, *I* couldn't get RCE from it, only disclose files as SYSTEM and in some cases relay the ntlm SYSTEM account.",
+    "tweettime": "2020-12-08, 19:08:43",
+    "tweeturl": "https://twitter.com/steventseeley/status/1336387246795132931",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 45,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 26,
+    "tweettext": "Ongoing mass scanning activity detected from 156.96.117.185 (🇺🇸) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. \n\nPorts targeted:\n443\n7443\n8443\n9443\n10443\n50443\n60443",
+    "tweettime": "2020-12-07, 18:52:49",
+    "tweeturl": "https://twitter.com/bad_packets/status/1336020860709158912",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/vulnerabilities-in-mcafee-epolicy-orchestrator/"
+    ],
+    "tweetfavorites": 232,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 94,
+    "tweettext": "✨New Article: Vulnerabilities in McAfee ePolicy Orchestrator\n\n🐞Unauth RCE chain via CSRF + SSRF + MSSQL MiTM server\n🐞Post-auth RCE via ZipSlip with Windows Defender bypass\n🐞Reflected XSS\n\nCVE-2020-7318 assigned, research by Mikhail Klyuchnikov\n\nhttps://t.co/PSDun0mrIh https://t.co/958AWlwPrb",
+    "tweettime": "2020-12-07, 13:54:24",
+    "tweeturl": "https://twitter.com/ptswarm/status/1335945761574563841",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/publications/ios-1-day-hunting-uncovering-and-exploiting-cve-2020-27950-kernel-memory-leak.html"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "IOS 1-DAY HUNTING: Uncovering and exploiting CVE-2020-27950 kernel memory leak.\nhttps://t.co/vS4WJhznyd  #Pentesting #Kernel #Exploit #CyberSecurity #Infosec https://t.co/zy0WIolmkP",
+    "tweettime": "2020-12-03, 06:03:59",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1334377823755231232",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2020-14418-madcodehook-library-local-privilege-escalation/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2020-14418: A vulnerability in the madCodeHook library caused many security products (by e.g. Cisco, Morphisec, etc) to contain a local privilege escalation vulnerability. Discovery and analysis by @kyREcon. \n\nhttps://t.co/jhZLJ1JNvX",
+    "tweettime": "2020-12-01, 14:58:12",
+    "tweeturl": "https://twitter.com/Nettitude_Labs/status/1333787486502305793",
+    "username": "Nettitude_Labs"
+}

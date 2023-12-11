@@ -122,3 +122,251 @@
     "tweeturl": "https://twitter.com/vysecurity/status/1038120201236111360",
     "username": "vysecurity"
 }
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/09/linux-kernel-vulnerability.html"
+    ],
+    "tweetfavorites": 419,
+    "tweetquotes": 23,
+    "tweetreplies": 5,
+    "tweetretweets": 449,
+    "tweettext": "New #Linux Kernel Root Privilege-Escalation #Vulnerability (CVE-2018-14634) Affects Red Hat, #CentOS, and Debian Operating Systems\n\nhttps://t.co/QaJXB2DZq9\n\nProof-of-Concept Exploits Released. https://t.co/5nbpdNDfsl",
+    "tweettime": "2018-09-26, 12:17:34",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1044923936314675200",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2018/09/25/4"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 66,
+    "tweettext": "Qualys Security Advisory Team - Mutagen Astronomy:  Integer overflow in Linux's create_elf_tables(), CVE-2018-14634.  LPE (full root) from a suid-root binary.  RHEL, CentOS and Debian 8 are vulnerable.  Advisory, PoC and exploit at: https://t.co/mpqAXepCAQ",
+    "tweettime": "2018-09-25, 17:14:47",
+    "tweeturl": "https://twitter.com/pozdnychev/status/1044636342590873600",
+    "username": "pozdnychev"
+}
+{
+    "expanded_url": [
+        "https://github.com/bazad/blanket"
+    ],
+    "tweetfavorites": 236,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 77,
+    "tweettext": "CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.\nhttps://t.co/nEnTaaiTeB",
+    "tweettime": "2018-09-21, 09:17:38",
+    "tweeturl": "https://twitter.com/matteyeux/status/1043066711958872064",
+    "username": "matteyeux"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/10643"
+    ],
+    "tweetfavorites": 207,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 137,
+    "tweettext": "Upcoming Microsoft Windows ALPC Task Scheduler Local Privilege Elevation (CVE-2018-8440) exploit in #Metasploit !\nYes the 0day (now patched) found and disclosed by @SandboxEscaper \nThx @tychos_moose Aaron Soto @shellfail and @TheColonial for the hard work. https://t.co/M4wLWBt0hW https://t.co/GRvK4StntR",
+    "tweettime": "2018-09-20, 14:12:32",
+    "tweeturl": "https://twitter.com/ddouhine/status/1042778539593007105",
+    "username": "ddouhine"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2018-5240-symantec-management-agent-altiris-privilege-escalation/"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 122,
+    "tweettext": "CVE-2018-5240: Symantec Management Agent (Altiris) Privilege Escalation by @benpturner 😀 Full analysis and proof of concept included. https://t.co/7zSjmY9FEX",
+    "tweettime": "2018-09-12, 12:50:25",
+    "tweeturl": "https://twitter.com/Nettitude_Labs/status/1039858773903462400",
+    "username": "Nettitude_Labs"
+}
+{
+    "tweetfavorites": 233,
+    "tweetquotes": 3,
+    "tweetreplies": 8,
+    "tweetretweets": 145,
+    "tweettext": "CVE-2018-8420 Aka #Microsoft XML Core Services MSXML #RCE through web browser PoC (included in yesterday MS patches)",
+    "tweettime": "2018-09-12, 06:48:03",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1039767580163096576",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/Theropord/CVE-2018-8420/"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 46,
+    "tweettext": "GitHub - Theropord/CVE-2018-8420 https://t.co/91pxD1wyQp",
+    "tweettime": "2018-09-12, 06:09:32",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1039757886258393093",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 68,
+    "tweetquotes": 6,
+    "tweetreplies": 9,
+    "tweetretweets": 68,
+    "tweettext": "Strange. @Adobe's advisory says CVE-2018-15967 is privilege escalation (information disclosure) issue and important in severity.\n\nWhereas, @Microsoft's advisory says CVE-2018-15967 is a remote code execution bug with critical severity.",
+    "tweettime": "2018-09-11, 17:17:00",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1039563472827244544",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://medium.com/tenable-techblog/advantech-webaccess-unpatched-rce-ffe9f37f8b83"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 26,
+    "tweettext": "Hello again, CVE-2017-16720 by @steventseeley! You were patched in January but it later turned out you really weren't. And now you're a 0day* with a public POC again.\n\nhttps://t.co/z7OdkWjJhx\n\n* for some values of 0day",
+    "tweettime": "2018-09-11, 12:28:19",
+    "tweeturl": "https://twitter.com/mkolsek/status/1039490822922792960",
+    "username": "mkolsek"
+}
+{
+    "expanded_url": [
+        "https://github.com/alpha1ab/CVE-2018-8120/tree/master/CVE-2018-8120"
+    ],
+    "tweetfavorites": 189,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 107,
+    "tweettext": "CVE-2018-8120 Windows LPE PoC https://t.co/9DukP6tAVo",
+    "tweettime": "2018-09-07, 17:41:57",
+    "tweeturl": "https://twitter.com/vysecurity/status/1038120201236111360",
+    "username": "vysecurity"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/09/linux-kernel-vulnerability.html"
+    ],
+    "tweetfavorites": 419,
+    "tweetquotes": 23,
+    "tweetreplies": 5,
+    "tweetretweets": 449,
+    "tweettext": "New #Linux Kernel Root Privilege-Escalation #Vulnerability (CVE-2018-14634) Affects Red Hat, #CentOS, and Debian Operating Systems\n\nhttps://t.co/QaJXB2DZq9\n\nProof-of-Concept Exploits Released. https://t.co/5nbpdNDfsl",
+    "tweettime": "2018-09-26, 12:17:34",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1044923936314675200",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2018/09/25/4"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 66,
+    "tweettext": "Qualys Security Advisory Team - Mutagen Astronomy:  Integer overflow in Linux's create_elf_tables(), CVE-2018-14634.  LPE (full root) from a suid-root binary.  RHEL, CentOS and Debian 8 are vulnerable.  Advisory, PoC and exploit at: https://t.co/mpqAXepCAQ",
+    "tweettime": "2018-09-25, 17:14:47",
+    "tweeturl": "https://twitter.com/pozdnychev/status/1044636342590873600",
+    "username": "pozdnychev"
+}
+{
+    "expanded_url": [
+        "https://github.com/bazad/blanket"
+    ],
+    "tweetfavorites": 236,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 77,
+    "tweettext": "CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.\nhttps://t.co/nEnTaaiTeB",
+    "tweettime": "2018-09-21, 09:17:38",
+    "tweeturl": "https://twitter.com/matteyeux/status/1043066711958872064",
+    "username": "matteyeux"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/10643"
+    ],
+    "tweetfavorites": 207,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 137,
+    "tweettext": "Upcoming Microsoft Windows ALPC Task Scheduler Local Privilege Elevation (CVE-2018-8440) exploit in #Metasploit !\nYes the 0day (now patched) found and disclosed by @SandboxEscaper \nThx @tychos_moose Aaron Soto @shellfail and @TheColonial for the hard work. https://t.co/M4wLWBt0hW https://t.co/GRvK4StntR",
+    "tweettime": "2018-09-20, 14:12:32",
+    "tweeturl": "https://twitter.com/ddouhine/status/1042778539593007105",
+    "username": "ddouhine"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2018-5240-symantec-management-agent-altiris-privilege-escalation/"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 122,
+    "tweettext": "CVE-2018-5240: Symantec Management Agent (Altiris) Privilege Escalation by @benpturner 😀 Full analysis and proof of concept included. https://t.co/7zSjmY9FEX",
+    "tweettime": "2018-09-12, 12:50:25",
+    "tweeturl": "https://twitter.com/Nettitude_Labs/status/1039858773903462400",
+    "username": "Nettitude_Labs"
+}
+{
+    "tweetfavorites": 233,
+    "tweetquotes": 3,
+    "tweetreplies": 8,
+    "tweetretweets": 145,
+    "tweettext": "CVE-2018-8420 Aka #Microsoft XML Core Services MSXML #RCE through web browser PoC (included in yesterday MS patches)",
+    "tweettime": "2018-09-12, 06:48:03",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1039767580163096576",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/Theropord/CVE-2018-8420/"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 46,
+    "tweettext": "GitHub - Theropord/CVE-2018-8420 https://t.co/91pxD1wyQp",
+    "tweettime": "2018-09-12, 06:09:32",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1039757886258393093",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 68,
+    "tweetquotes": 6,
+    "tweetreplies": 9,
+    "tweetretweets": 68,
+    "tweettext": "Strange. @Adobe's advisory says CVE-2018-15967 is privilege escalation (information disclosure) issue and important in severity.\n\nWhereas, @Microsoft's advisory says CVE-2018-15967 is a remote code execution bug with critical severity.",
+    "tweettime": "2018-09-11, 17:17:00",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1039563472827244544",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://medium.com/tenable-techblog/advantech-webaccess-unpatched-rce-ffe9f37f8b83"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 26,
+    "tweettext": "Hello again, CVE-2017-16720 by @steventseeley! You were patched in January but it later turned out you really weren't. And now you're a 0day* with a public POC again.\n\nhttps://t.co/z7OdkWjJhx\n\n* for some values of 0day",
+    "tweettime": "2018-09-11, 12:28:19",
+    "tweeturl": "https://twitter.com/mkolsek/status/1039490822922792960",
+    "username": "mkolsek"
+}
+{
+    "expanded_url": [
+        "https://github.com/alpha1ab/CVE-2018-8120/tree/master/CVE-2018-8120"
+    ],
+    "tweetfavorites": 189,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 107,
+    "tweettext": "CVE-2018-8120 Windows LPE PoC https://t.co/9DukP6tAVo",
+    "tweettime": "2018-09-07, 17:41:57",
+    "tweeturl": "https://twitter.com/vysecurity/status/1038120201236111360",
+    "username": "vysecurity"
+}

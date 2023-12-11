@@ -716,3 +716,1439 @@
     "tweeturl": "https://twitter.com/Synacktiv/status/1366455599412613120",
     "username": "Synacktiv"
 }
+{
+    "tweetfavorites": 124,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 35,
+    "tweettext": "CVE-2021-21975 VMware vRealize Operations Manager API SSRF https://t.co/vRMpZSkfFV",
+    "tweettime": "2021-03-31, 16:16:27",
+    "tweeturl": "https://twitter.com/chybeta/status/1377293724879790087",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2021-0004.html"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "VMware releases security patches for newly-discovered critical server-side request forgery (CVE-2021-21975) and Arbitrary file write (CVE-2021-21983) vulnerabilities in its vRealize Operations Manager API.\n\nhttps://t.co/ihMkKbdN0L",
+    "tweettime": "2021-03-31, 13:29:08",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1377251617985110029",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://ssd-disclosure.com/ssd-advisory-dd-wrt-upnp-buffer-overflow/"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 55,
+    "tweettext": "There has been a new #vulnerability (CVE-2021-27137) reported in DD-WRT that could allow an unauthenticated attacker to overflow an internal buffer used by UPNP and trigger code execution attacks.\n\nhttps://t.co/A2znJXSFGk",
+    "tweettime": "2021-03-31, 13:27:00",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1377251079390339075",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/waleedassar/CVE-2021-1699"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 27,
+    "tweettext": "Here is POC for CVE-2021-1699.\n\nhttps://t.co/qJ4CxqmLoW",
+    "tweettime": "2021-03-31, 08:31:22",
+    "tweeturl": "https://twitter.com/waleedassar/status/1377176682826592258",
+    "username": "waleedassar"
+}
+{
+    "expanded_url": [
+        "https://sick.codes/universal-netmask-npm-package-used-by-270000-projects-vulnerable-to-octal-input-data-server-side-request-forgery-remote-file-inclusion-local-file-inclusion-and-more-cve-2021-28918/"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "Universal “netmask” npm package, used by 270,000+ projects, vulnerable to octal input data: server-side request forgery, remote file inclusion, local file inclusion, and more (CVE-2021-28918)\n\nhttps://t.co/vU5W4udWua",
+    "tweettime": "2021-03-29, 04:40:58",
+    "tweeturl": "https://twitter.com/0xdea/status/1376393924034576386",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://sick.codes/universal-netmask-npm-package-used-by-270000-projects-vulnerable-to-octal-input-data-server-side-request-forgery-remote-file-inclusion-local-file-inclusion-and-more-cve-2021-28918/"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "Universal \"netmask\" npm package, used by 270,000+ projects, vulnerable to octal input data: server-side request forgery, remote file inclusion, local file inclusion, and more (CVE-2021-28918)  https://t.co/4MayUbmGXQ",
+    "tweettime": "2021-03-29, 00:36:46",
+    "tweeturl": "https://twitter.com/kwestin/status/1376332468266000385",
+    "username": "kwestin"
+}
+{
+    "expanded_url": [
+        "https://github.com/terorie/cve-2021-3449"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 55,
+    "tweettext": "CVE-2021-3449: A flaw was found in openssl. A server crash and denial of service attack could occur if a client sends a TLSv1.2 renegotiation ClientHello\n\nPoC\nhttps://t.co/IXTVey4FL6 https://t.co/QimXSetvYN",
+    "tweettime": "2021-03-27, 19:29:39",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1375892794137571331",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/03/apple-issues-urgent-patch-update-for.html"
+    ],
+    "tweetfavorites": 325,
+    "tweetquotes": 29,
+    "tweetreplies": 4,
+    "tweetretweets": 311,
+    "tweettext": "Update your #iPhone, iPad, Apple Watch now!!!\n\nApple released a URGENT PATCH UPDATE for all its devices yesterday to fix another zero-day #vulnerability (CVE-2021-1879) that is being exploited in the wild.\n\nFind details here: https://t.co/JJQFBzgLIn\n\n#infosec #cybersecurity #tech",
+    "tweettime": "2021-03-27, 06:48:16",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1375701186976702464",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/xiaopan233/Mybb-XSS_SQL_RCE-POC"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "GitHub - xiaopan233/Mybb-XSS_SQL_RCE-POC: Mybb associate CVE-2021-27890 &amp; CVE-2021-27889 to RCE poc - https://t.co/5Ssj4cEvjW",
+    "tweettime": "2021-03-25, 11:46:49",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1375051540864528388",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 200,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 44,
+    "tweettext": "Unauthenticated Remote Command Execution Vulnerability [CVE-2021-22986]  - POC 😎🤓\n\n#RCE #Exploit #ItTakesACrowd @Bugcrowd @Hacker0x01 https://t.co/adbDsEzDUi",
+    "tweettime": "2021-03-24, 00:40:08",
+    "tweeturl": "https://twitter.com/JanmeyjaySharma/status/1374521379345768457",
+    "username": "JanmeyjaySharma"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 29,
+    "tweettext": "F5から公開されたBIG-IP製品の脆弱性 CVE-2021-22986 ですが、今朝頃にPoCが公開されました。\n未対応の方、緩和策が実施されていない方、は対応をお早めにお願いします。\n- RCE：認証されていない第三者が任意のコードを実行可能です。\n- 既に悪用の兆候はあるため、早急な対応が必要です。",
+    "tweettime": "2021-03-23, 07:32:09",
+    "tweeturl": "https://twitter.com/futurevuls/status/1374262676000440322",
+    "username": "futurevuls"
+}
+{
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2021-26069:\nAffected versions of Atlassian Jira Server and Data Center allow unauthenticated remote attackers to download temporary files and enumerate project keys via an Information Disclosure vulnerability in the /rest/api/1.0/issues/{id}/ActionsAndOperations API endpoint.",
+    "tweettime": "2021-03-22, 16:01:22",
+    "tweeturl": "https://twitter.com/coder_rc/status/1374028438214873091",
+    "username": "coder_rc"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/03/critical-rce-vulnerability-found-in.html"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 71,
+    "tweettext": "A high severity RCE #vulnerability (CVE-2021-26295) has been found in Apache OFBiz that could let unauthenticated, remote hackers seize control of the enterprise resource planning (ERP) systems.\n\nDetails: https://t.co/E9uAMAqz5y\n\nPatch released, update your software immediately.",
+    "tweettime": "2021-03-22, 08:45:09",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1373918661988159494",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-22986.yml"
+    ],
+    "tweetfavorites": 386,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 109,
+    "tweettext": "F5 BIG-IP iControl REST unauthenticated RCE — (CVE-2021-22986) nuclei templates by @iamnoooob @rootxharsh \n\nTemplate details —https://t.co/J94Jj0E3eY\n\n#hackwithautomation #appsec #pentest https://t.co/ggV2pjECN2",
+    "tweettime": "2021-03-21, 16:46:10",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1373677326077108227",
+    "username": "pdnuclei"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 550,
+    "tweettext": "RT @h4x0r_dz: RCE Exploit in BIG-IP. \nCVE-2021-22986, CVE-2021-22987\n\npython f5_rce.py -u https://ip_target\npython f5_rce.py -f ip_list.txt…",
+    "tweettime": "2021-03-21, 08:24:22",
+    "tweeturl": "https://twitter.com/jedisct1/status/1373551043787771904",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://github.com/h4x0r-dz/RCE-Exploit-in-BIG-IP"
+    ],
+    "tweetfavorites": 1320,
+    "tweetquotes": 15,
+    "tweetreplies": 8,
+    "tweetretweets": 550,
+    "tweettext": "RCE Exploit in BIG-IP. \nCVE-2021-22986, CVE-2021-22987\n\npython f5_rce.py -u https://ip_target\npython f5_rce.py -f ip_list.txt\npython f5_rce.py -c \"$commend\"\n\nPOC: https://t.co/mkjCuPVR0y\n\n#bugbountytip #BugBounty #infosec https://t.co/uHZqdzTFUi",
+    "tweettime": "2021-03-20, 20:05:25",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1373365080876810246",
+    "username": "h4x0r_dz"
+}
+{
+    "tweetfavorites": 132,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 60,
+    "tweettext": "F5 BIG-IP iControl Unauthenticated Remote Command Execution (CVE-2021-22986) POC 😎\n\n#RCE #Exploit https://t.co/87fvLVu74I",
+    "tweettime": "2021-03-20, 09:34:01",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1373206181955653632",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/3cCK1Dd",
+        "https://bit.ly/2P40CI9"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 8,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "We are now observing the Mirai variant from https://t.co/ZDTVwtdYlq attempting to exploit CVE-2021-22986, an unauthenticated RCE in F5 BIG-IP &amp; BIG-IQ products, and CVE-2020-28188. \n\nIOCs for the new activity available at:\nhttps://t.co/bc0IySEAEk https://t.co/ZsUqxq60XO",
+    "tweettime": "2021-03-19, 21:03:01",
+    "tweeturl": "https://twitter.com/Unit42_Intel/status/1373017186818781190",
+    "username": "Unit42_Intel"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "An important thing to remember is back in July, attackers were using CVE-2020-5902 to create backdoor admin accounts.\n\nIf the systems were patched, but these accounts left in place, these new attacks become all the more dangerous as you don't need SSRF to get an auth'd session.",
+    "tweettime": "2021-03-18, 18:35:47",
+    "tweeturl": "https://twitter.com/n0x08/status/1372617747633299458",
+    "username": "n0x08"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/2021/03/18/rift-detection-capabilities-for-recent-f5-big-ip-big-iq-icontrol-rest-api-vulnerabilities-cve-2021-22986/"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Full exploit chain of F5 iControl REST RCE (CVE-2021-22986) is likely to be public soon, which is why @buffaloverflow and I just published an overview of detection methods for successful SSRF + auth bypass + RCE. https://t.co/988Je0Makj",
+    "tweettime": "2021-03-18, 17:51:40",
+    "tweeturl": "https://twitter.com/0xACK/status/1372606642752266246",
+    "username": "0xACK"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-26411.html"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "Root cause analysis for CVE-2021-26411, the IE MSHTML use-after-free/double free vulnerability:\n\nhttps://t.co/lk7eN6dEh2",
+    "tweettime": "2021-03-18, 13:41:22",
+    "tweeturl": "https://twitter.com/maddiestone/status/1372543655110610946",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/J6pWeg5saG/k03009991-icontrol-rest-unauthenticated-remote-command-execution-vulnerability-cve-2021-22986"
+    ],
+    "tweetfavorites": 789,
+    "tweetquotes": 30,
+    "tweetreplies": 11,
+    "tweetretweets": 387,
+    "tweettext": "F5 BIG-IP iControl RCE (CVE-2021-22986)\n\nexecute arbitrary system commands\ncreate or delete files\ndisable services\n\nPoC #1\ncurl -su admin: -H \"Content-Type: application/json\" http://[victimIP]/mgmt/tm/util/bash -d '{\"command\":\"run\",\"utilCmdArgs\":\"-c id\"}'\n\nhttps://t.co/6i3IYFeHt5 https://t.co/yzD1k3ClTF",
+    "tweettime": "2021-03-18, 03:41:30",
+    "tweeturl": "https://twitter.com/wugeej/status/1372392693989445635",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/J6pWeg5saG/k03009991-icontrol-rest-unauthenticated-remote-command-execution-vulnerability-cve-2021-22986"
+    ],
+    "tweetfavorites": 170,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 75,
+    "tweettext": "CVE-2021-22986 (F5 iControl REST RCE).\n\nPoC\nhttps://t.co/dfaNm5rS09 https://t.co/qjgquJzPIe",
+    "tweettime": "2021-03-17, 01:07:44",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1371991607545827328",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 395,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 147,
+    "tweettext": "CVE-2021-22986 F5 BIG-IP/BIG-IQ iControl REST RCE https://t.co/SHlNTtgW84",
+    "tweettime": "2021-03-14, 03:17:41",
+    "tweeturl": "https://twitter.com/chybeta/status/1370937147939692557",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "http://f5.pm/go-62102.html"
+    ],
+    "tweetfavorites": 223,
+    "tweetquotes": 7,
+    "tweetreplies": 3,
+    "tweetretweets": 131,
+    "tweettext": "Well, I'll say that the ProxyLogon Exchange CVE-2021-26855 Exploit is completely out of the bag by now.\nhttps://t.co/ubsysTeFOj\nI'm not so sure about the \"Failed to write to shell\" error message.  But I can confirm that it did indeed drop a shell on my test Exchange 2016 box. https://t.co/ijOGx3BIif",
+    "tweettime": "2021-03-13, 18:13:26",
+    "tweeturl": "https://twitter.com/wdormann/status/1370800181143351296",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/03/another-google-chrome-0-day-bug-found.html"
+    ],
+    "tweetfavorites": 354,
+    "tweetquotes": 23,
+    "tweetreplies": 10,
+    "tweetretweets": 301,
+    "tweettext": "🔥 WARNING — A second Google #Chrome browser zero-day #vulnerability (CVE-2021-21193) has been found actively exploited in-the-wild.\n\nRead details: https://t.co/EFt5OinSKa\n\nUpdate your browser for Windows, Mac, and #Linux systems to 89.0.4389.90 or the latest available version.",
+    "tweettime": "2021-03-13, 03:24:15",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1370576411648352260",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://x-stream.github.io/security.html"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 14,
+    "tweettext": "There are 11 CVEs in xstream 1.4.16. I have reported 5 security vulnerabilities to the authorities, including DoS, SSRF, ReDoS, and RCE. The numbers are: CVE-2021-21341, CVE-2021-21347, CVE-2021-21348 , CVE-2021-21349, CVE-2021-21350\n\nhttps://t.co/yq0S5uDmDA https://t.co/qzvN4zuPgq",
+    "tweettime": "2021-03-13, 02:19:19",
+    "tweeturl": "https://twitter.com/threedr3am1/status/1370560071659253761",
+    "username": "threedr3am1"
+}
+{
+    "tweetfavorites": 132,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "XSS in Jenzabar (CVE-2021-26723)\n\nPOC:\n/ics?tool=search&amp;query=\"&gt;&lt;script&gt;alert('xss')&lt;/script&gt;\n\n#XSS https://t.co/cGM957RGCU",
+    "tweettime": "2021-03-12, 19:34:27",
+    "tweeturl": "https://twitter.com/3XS0/status/1370458184914206725",
+    "username": "3XS0"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.blogspot.com/2021/01/windows-exploitation-tricks-trapping.html"
+    ],
+    "tweetfavorites": 193,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 73,
+    "tweettext": "Fixed this month: CVE-2021-26863, a race condition/use-after-free in win32k.sys demonstrating @tiraniddo's excellent Memory Access Trapping technique in Windows (https://t.co/mJrEGGIHLy). It was a fun exercise to do some auditing in search of the specific code pattern.",
+    "tweettime": "2021-03-12, 13:23:48",
+    "tweeturl": "https://twitter.com/j00ru/status/1370364905862352901",
+    "username": "j00ru"
+}
+{
+    "expanded_url": [
+        "http://exp.py",
+        "http://exp.py"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 14,
+    "tweettext": "#CVE CVE-2021-26855 CVE-2021-27065\nMicrosoft Exchange From SSRF to RCE🤔\nhttps://t.co/v52fC2vcq1 --&gt; webshell --&gt; rce --&gt; down xx.ps1  --&gt; cobaltstrike --&gt; exit\nhttps://t.co/v52fC2vcq1 provided by @_0xf4n9x_ 👍 https://t.co/kf4c5VYmqy",
+    "tweettime": "2021-03-11, 09:42:10",
+    "tweeturl": "https://twitter.com/zhzyker/status/1369946740665675776",
+    "username": "zhzyker"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/03/critical-pre-auth-rce-flaw-found-in-f5.html"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 12,
+    "tweetreplies": 3,
+    "tweetretweets": 133,
+    "tweettext": "A critical pre-auth RCE flaw (CVE-2021-22986) has been discovered in the F5's Big-IP and BIG-IQ #software — Patch ASAP!\n\nRead details: https://t.co/dYFN1aSNOB\n\nBesides this, a few other newly reported flaws also result in a denial of service (DoS) attack.\n\n#infosec #cybersecurity",
+    "tweettime": "2021-03-11, 06:05:52",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1369892308108255233",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/2021/03/10/technical-advisory-dell-supportassist-local-privilege-escalation-cve-202-21518/"
+    ],
+    "tweetfavorites": 257,
+    "tweetquotes": 5,
+    "tweetreplies": 10,
+    "tweetretweets": 99,
+    "tweettext": "Here is the advisory for CVE-2021-21518, which is a Local Privilege Escalation vulnerability I found in Dell SupportAssist\n\n https://t.co/VqeGRB1gu0 https://t.co/45U0HWFpdz",
+    "tweettime": "2021-03-10, 16:52:15",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1369692589193039874",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/"
+    ],
+    "tweetfavorites": 207,
+    "tweetquotes": 22,
+    "tweetreplies": 3,
+    "tweetretweets": 122,
+    "tweettext": "#ESETresearch documents its findings following recent pre-auth RCE vulnerability impacting Exchange servers globally. We identified at least 10 APT groups using exploits for CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-27065. Read more: https://t.co/I2hP1HT576 1/5",
+    "tweettime": "2021-03-10, 13:01:16",
+    "tweeturl": "https://twitter.com/ESETresearch/status/1369634459025346562",
+    "username": "ESETresearch"
+}
+{
+    "expanded_url": [
+        "https://link.medium.com/uyuaffLPveb"
+    ],
+    "tweetfavorites": 215,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 80,
+    "tweettext": "Analysis of ProxyLogon\nA perfect combination of CVE-2021-26855 and  27065 \nKudo\nPerfect bugs of 2021!\nHave fun ;)\nhttps://t.co/LNymwabGT5",
+    "tweettime": "2021-03-10, 12:56:25",
+    "tweeturl": "https://twitter.com/testanull/status/1369633239845937158",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://www.praetorian.com/blog/reproducing-proxylogon-exploit/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "Microsoft Exchange Proxylogon Exploit Chain.\n\nCVE-2021-26857 : insecure deserialization vulnerability\nCVE-2021-26855 : Server-Side Request Forgery\nCVE-2021-27065 : Arbitrary File Write\nhttps://t.co/h1PnhZ3ySW https://t.co/J77rZh6R3C",
+    "tweettime": "2021-03-10, 07:09:28",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1369545928340877314",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.thezdi.com/blog/2021/3/9/the-march-2021-security-update-review"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 7,
+    "tweetreplies": 8,
+    "tweetretweets": 25,
+    "tweettext": "Microsoft patchday starring:\n* CVE-2021-26897 – Windows DNS Server Remote Code Execution Vulnerability\n* CVE-2021-26867 – Windows Hyper-V Remote Code Execution Vulnerability\n* CVE-2021-27076 – Microsoft SharePoint Server Remote Code Execution Vulnerability\nhttps://t.co/lvwBYKSyNG https://t.co/e7bsCOOz72",
+    "tweettime": "2021-03-09, 21:52:14",
+    "tweeturl": "https://twitter.com/HonkHase/status/1369405693078482947",
+    "username": "HonkHase"
+}
+{
+    "expanded_url": [
+        "https://enki.co.kr/blog/2021/02/04/ie_0day.html",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26411"
+    ],
+    "tweetfavorites": 142,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 66,
+    "tweettext": "Microsoft issues patch for the Internet Explorer MSHTML bug disclosed by Enki back in February. They had said that it had been used by NK to target security researchers. CVE-2021-26411 https://t.co/a4LgVLeVeo\n\nhttps://t.co/5n620E9cuT",
+    "tweettime": "2021-03-09, 18:09:00",
+    "tweeturl": "https://twitter.com/maddiestone/status/1369349514658676736",
+    "username": "maddiestone"
+}
+{
+    "tweetfavorites": 80,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 10,
+    "tweettext": "این باگ( CVE-2021-26855 ) که روی Exchange اومده رو جدی بگیرید. از شرکت کوچیک و هولدینگ تا خطوط هواپیمایی دارن از Microsoft Exchange Server استفاده میکنن و اکثرن آسیب پذیرن. تستش کردم و فکر کنم تا الان اگه داشتید دسترسی ازتون نگرفته باشن شانس آوردین https://t.co/NmuzJ8SGI3",
+    "tweettime": "2021-03-09, 14:44:34",
+    "tweeturl": "https://twitter.com/Mormoroth/status/1369298066600300548",
+    "username": "Mormoroth"
+}
+{
+    "expanded_url": [
+        "https://github.com/GreyOrder/CVE-2021-26855"
+    ],
+    "tweetfavorites": 498,
+    "tweetquotes": 13,
+    "tweetreplies": 14,
+    "tweetretweets": 194,
+    "tweettext": "Thousands of US companies have been hacked by Chinese hackers using This RCE.\n\nMicrosoft Exchange Server Remote Code Execution CVE-2021-26855 Exploit.\nhttps://t.co/4UNlGK3ewf\n\n#BugBounty #RCE #infosec https://t.co/YKWOCIKjXk",
+    "tweettime": "2021-03-09, 11:51:50",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1369254600612708362",
+    "username": "h4x0r_dz"
+}
+{
+    "tweetfavorites": 98,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 42,
+    "tweettext": "Atlassian Jira unauthenticated user enumeration (CVE-2020-14181)!\n Versions affected:\nJira &lt; 7.13.6\n8.0.0 ≤ Jira &lt; 8.5.7\n8.6.0 ≤ Jira &lt; 8.12.0\nusername=john ---&gt; user does not exist\nusername=admin ---&gt;  jira-robot\n#bugbounty #bugbountytip #bugbountytips #pentesting https://t.co/WaH6utohPw",
+    "tweettime": "2021-03-09, 05:45:42",
+    "tweeturl": "https://twitter.com/cycatz2/status/1369162459739693057",
+    "username": "cycatz2"
+}
+{
+    "expanded_url": [
+        "https://github.co/3sYRjI1"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 2,
+    "tweettext": "GHSL-2020-166: Use-after-free (UaF) in Chrome PaymentCredential - CVE-2020-16018 https://t.co/JeaZiVbO38",
+    "tweettime": "2021-03-08, 16:40:03",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1368964741125836804",
+    "username": "GHSecurityLab"
+}
+{
+    "tweetfavorites": 367,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 134,
+    "tweettext": "Shodan Dork For CVE-2021-26855\n\n1.title:\"Outlook Web App\"\n2.\"Set-Cookie: ClientId=\"\n\n#bugbountytips #bugbountytip #ssrf #togetherwehitharder  #hackerone #bugcrowd #CVE-2021-26855",
+    "tweettime": "2021-03-07, 19:58:11",
+    "tweeturl": "https://twitter.com/amanmahendra_/status/1368652217645867008",
+    "username": "amanmahendra_"
+}
+{
+    "tweetfavorites": 316,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 88,
+    "tweettext": "Detecting Microsoft Exchange Server SSRF — (CVE-2021-26855) using nuclei templates.\n\nThanks to @Madrobot_ for quickly sharing the template for this 🙌🙌\n\n#hackwithautomation #appsec #pentest #proxylogon https://t.co/6vseXzDReX",
+    "tweettime": "2021-03-06, 08:00:39",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1368109257879547904",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-26855.yaml"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "Nuclei now includes CVE-2021-26855 (Microsoft Exchange Server Remote Code Execution Vulnerability) https://t.co/yEOsxbcEBi",
+    "tweettime": "2021-03-06, 07:42:53",
+    "tweeturl": "https://twitter.com/Dinosn/status/1368104784314662913",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2021-0003.html"
+    ],
+    "tweetfavorites": 111,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 66,
+    "tweettext": "VMware releases security patch for a remote code execution #vulnerability (CVSSv3 8.6) (CVE-2021-21978) affecting VMware View Planner.\n\nhttps://t.co/dYev7CFQlj",
+    "tweettime": "2021-03-04, 07:03:47",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1367370169224364033",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 65,
+    "tweettext": "Anatomy of an Exploit: RCE with CVE-2020-1350 (SIGRed)\n\nPoC released: https://t.co/Zj4tugitU6\n\nvia @GraplSec https://t.co/31iwebqPSh",
+    "tweettime": "2021-03-04, 03:37:48",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1367318331032694792",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2021-0003.html"
+    ],
+    "tweetfavorites": 429,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 175,
+    "tweettext": "Unauthenticated RCE in VMware View Planner (#CVE-2021-21978) POC\n\nAdvisory: https://t.co/RY7OHGu28K https://t.co/9BXk5vfqEH",
+    "tweettime": "2021-03-03, 23:41:40",
+    "tweeturl": "https://twitter.com/osama_hroot/status/1367258907601698816",
+    "username": "osama_hroot"
+}
+{
+    "expanded_url": [
+        "https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 47,
+    "tweettext": ".@chompie1337 has published the first public, working RCE exploit for CVE-2020-1350 (Windows DNS server vuln). Tested, works great. https://t.co/eHv65yvxjV",
+    "tweettime": "2021-03-03, 22:55:28",
+    "tweeturl": "https://twitter.com/GossiTheDog/status/1367247281687248896",
+    "username": "GossiTheDog"
+}
+{
+    "expanded_url": [
+        "https://github.com/HoangKien1020/CVE-2021-23132"
+    ],
+    "tweetfavorites": 239,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 100,
+    "tweettext": "CVE-2021-23132: Joomla com_media allowed paths that are not intended for image uploads to RCE.\n\nPoC\nhttps://t.co/hGCx8aIPsB https://t.co/rSgYaycqH0",
+    "tweettime": "2021-03-03, 17:40:23",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1367167985560014853",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1172"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 4,
+    "tweettext": "CVE-2020-13558 Webkit AudioSourceProviderGStreamer use-after-free vulnerability\nAdvisory : https://t.co/IP0AS63mfl",
+    "tweettime": "2021-03-03, 16:43:50",
+    "tweeturl": "https://twitter.com/_Icewall/status/1367153757230931969",
+    "username": "_Icewall"
+}
+{
+    "expanded_url": [
+        "https://github.com/NS-Sp4ce/Inspur/tree/master/ClusterEngineV4.0%20Vul"
+    ],
+    "tweetfavorites": 224,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 75,
+    "tweettext": "ClusterEngine V4.0 RCE (CVE-2020-21224)\n\nPOC:\nPOST /login.php\n\nop=login&amp;username=;`cat /etc/passwd`&amp;password=\"\n\nRef:https://t.co/8bV9s3xT4x https://t.co/s0IXjkqAKn",
+    "tweettime": "2021-03-03, 13:50:26",
+    "tweeturl": "https://twitter.com/sec715/status/1367110116311322624",
+    "username": "sec715"
+}
+{
+    "expanded_url": [
+        "https://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack/"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 84,
+    "tweettext": "WINDOWS KERNEL ZERO-DAY EXPLOIT (CVE-2021-1732) IS USED BY BITTER APT IN TARGETED ATTACK https://t.co/gEMIg0vxoB",
+    "tweettime": "2021-03-03, 05:12:00",
+    "tweeturl": "https://twitter.com/pentest_swissky/status/1366979648907743232",
+    "username": "pentest_swissky"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2021/03/stable-channel-update-for-desktop.html"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 37,
+    "tweettext": "Chrome 89 was released today.\n\nComes with a zero-day fix (CVE-2021-21166). As always, zero details on who's exploiting it.\n\nhttps://t.co/NT2LbraHjF https://t.co/KdXvalrZpc",
+    "tweettime": "2021-03-02, 23:35:39",
+    "tweeturl": "https://twitter.com/campuscodi/status/1366895005772693510",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "I want to be the first before Google researchers to report that there's also a Chrome 0day in the wild. CVE-2021-21166\nhttps://t.co/0jGPFtJlPF",
+    "tweettime": "2021-03-02, 22:30:23",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1366878579368157188",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred"
+    ],
+    "tweetfavorites": 698,
+    "tweetquotes": 11,
+    "tweetreplies": 14,
+    "tweetretweets": 274,
+    "tweettext": "My first ever blog post: Anatomy of an Exploit: RCE CVE-2020-1350 #SIGRed. RCE PoC included, for research purposes. This was my first userland Windows heap exploit and I hope a deep dive into the process will help others. Patch or apply the workaround. https://t.co/CFRTs7Wdvs",
+    "tweettime": "2021-03-02, 17:19:16",
+    "tweeturl": "https://twitter.com/chompie1337/status/1366800284563963907",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2021-21315 Node.JS OS sanitize service Parameters Command Injection\n\nPoC\nhttps://t.co/rkyJ7LZznA https://t.co/J4AE5fh8LA",
+    "tweettime": "2021-03-02, 08:02:06",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1366660069543264258",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/GuayoyoLabs/CVE-2021-21972"
+    ],
+    "tweetfavorites": 282,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 130,
+    "tweettext": "CVE-2021-21972 vCenter Server RCE - Nmap script to check vulnerability\n\nEx)\nnmap -p443 --script cve-2021-21972.nse --script-args vulns.showall [Target IP]\n\nhttps://t.co/1jabqgbyTk https://t.co/qKsrD3tsu1",
+    "tweettime": "2021-03-02, 07:35:30",
+    "tweeturl": "https://twitter.com/wugeej/status/1366653374288961538",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/en/publications/pwn2own-tokyo-2020-defeating-the-tp-link-ac1750.html"
+    ],
+    "tweetfavorites": 154,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "#Pwn2Own Tokyo 2020. This blogpost explains the details of our CVE-2021-27246, a remote code execution on TP-Link AC1750 Smart Wifi Router.\n\nExploit, wait, and get root! \n\nhttps://t.co/KmzsSmT6Fv https://t.co/NiJfaw7quS",
+    "tweettime": "2021-03-01, 18:29:37",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1366455599412613120",
+    "username": "Synacktiv"
+}
+{
+    "tweetfavorites": 124,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 35,
+    "tweettext": "CVE-2021-21975 VMware vRealize Operations Manager API SSRF https://t.co/vRMpZSkfFV",
+    "tweettime": "2021-03-31, 16:16:27",
+    "tweeturl": "https://twitter.com/chybeta/status/1377293724879790087",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2021-0004.html"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "VMware releases security patches for newly-discovered critical server-side request forgery (CVE-2021-21975) and Arbitrary file write (CVE-2021-21983) vulnerabilities in its vRealize Operations Manager API.\n\nhttps://t.co/ihMkKbdN0L",
+    "tweettime": "2021-03-31, 13:29:08",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1377251617985110029",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://ssd-disclosure.com/ssd-advisory-dd-wrt-upnp-buffer-overflow/"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 55,
+    "tweettext": "There has been a new #vulnerability (CVE-2021-27137) reported in DD-WRT that could allow an unauthenticated attacker to overflow an internal buffer used by UPNP and trigger code execution attacks.\n\nhttps://t.co/A2znJXSFGk",
+    "tweettime": "2021-03-31, 13:27:00",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1377251079390339075",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/waleedassar/CVE-2021-1699"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 27,
+    "tweettext": "Here is POC for CVE-2021-1699.\n\nhttps://t.co/qJ4CxqmLoW",
+    "tweettime": "2021-03-31, 08:31:22",
+    "tweeturl": "https://twitter.com/waleedassar/status/1377176682826592258",
+    "username": "waleedassar"
+}
+{
+    "expanded_url": [
+        "https://sick.codes/universal-netmask-npm-package-used-by-270000-projects-vulnerable-to-octal-input-data-server-side-request-forgery-remote-file-inclusion-local-file-inclusion-and-more-cve-2021-28918/"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "Universal “netmask” npm package, used by 270,000+ projects, vulnerable to octal input data: server-side request forgery, remote file inclusion, local file inclusion, and more (CVE-2021-28918)\n\nhttps://t.co/vU5W4udWua",
+    "tweettime": "2021-03-29, 04:40:58",
+    "tweeturl": "https://twitter.com/0xdea/status/1376393924034576386",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://sick.codes/universal-netmask-npm-package-used-by-270000-projects-vulnerable-to-octal-input-data-server-side-request-forgery-remote-file-inclusion-local-file-inclusion-and-more-cve-2021-28918/"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "Universal \"netmask\" npm package, used by 270,000+ projects, vulnerable to octal input data: server-side request forgery, remote file inclusion, local file inclusion, and more (CVE-2021-28918)  https://t.co/4MayUbmGXQ",
+    "tweettime": "2021-03-29, 00:36:46",
+    "tweeturl": "https://twitter.com/kwestin/status/1376332468266000385",
+    "username": "kwestin"
+}
+{
+    "expanded_url": [
+        "https://github.com/terorie/cve-2021-3449"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 55,
+    "tweettext": "CVE-2021-3449: A flaw was found in openssl. A server crash and denial of service attack could occur if a client sends a TLSv1.2 renegotiation ClientHello\n\nPoC\nhttps://t.co/IXTVey4FL6 https://t.co/QimXSetvYN",
+    "tweettime": "2021-03-27, 19:29:39",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1375892794137571331",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/03/apple-issues-urgent-patch-update-for.html"
+    ],
+    "tweetfavorites": 325,
+    "tweetquotes": 29,
+    "tweetreplies": 4,
+    "tweetretweets": 311,
+    "tweettext": "Update your #iPhone, iPad, Apple Watch now!!!\n\nApple released a URGENT PATCH UPDATE for all its devices yesterday to fix another zero-day #vulnerability (CVE-2021-1879) that is being exploited in the wild.\n\nFind details here: https://t.co/JJQFBzgLIn\n\n#infosec #cybersecurity #tech",
+    "tweettime": "2021-03-27, 06:48:16",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1375701186976702464",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/xiaopan233/Mybb-XSS_SQL_RCE-POC"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "GitHub - xiaopan233/Mybb-XSS_SQL_RCE-POC: Mybb associate CVE-2021-27890 &amp; CVE-2021-27889 to RCE poc - https://t.co/5Ssj4cEvjW",
+    "tweettime": "2021-03-25, 11:46:49",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1375051540864528388",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 200,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 44,
+    "tweettext": "Unauthenticated Remote Command Execution Vulnerability [CVE-2021-22986]  - POC 😎🤓\n\n#RCE #Exploit #ItTakesACrowd @Bugcrowd @Hacker0x01 https://t.co/adbDsEzDUi",
+    "tweettime": "2021-03-24, 00:40:08",
+    "tweeturl": "https://twitter.com/JanmeyjaySharma/status/1374521379345768457",
+    "username": "JanmeyjaySharma"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 29,
+    "tweettext": "F5から公開されたBIG-IP製品の脆弱性 CVE-2021-22986 ですが、今朝頃にPoCが公開されました。\n未対応の方、緩和策が実施されていない方、は対応をお早めにお願いします。\n- RCE：認証されていない第三者が任意のコードを実行可能です。\n- 既に悪用の兆候はあるため、早急な対応が必要です。",
+    "tweettime": "2021-03-23, 07:32:09",
+    "tweeturl": "https://twitter.com/futurevuls/status/1374262676000440322",
+    "username": "futurevuls"
+}
+{
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2021-26069:\nAffected versions of Atlassian Jira Server and Data Center allow unauthenticated remote attackers to download temporary files and enumerate project keys via an Information Disclosure vulnerability in the /rest/api/1.0/issues/{id}/ActionsAndOperations API endpoint.",
+    "tweettime": "2021-03-22, 16:01:22",
+    "tweeturl": "https://twitter.com/coder_rc/status/1374028438214873091",
+    "username": "coder_rc"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/03/critical-rce-vulnerability-found-in.html"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 71,
+    "tweettext": "A high severity RCE #vulnerability (CVE-2021-26295) has been found in Apache OFBiz that could let unauthenticated, remote hackers seize control of the enterprise resource planning (ERP) systems.\n\nDetails: https://t.co/E9uAMAqz5y\n\nPatch released, update your software immediately.",
+    "tweettime": "2021-03-22, 08:45:09",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1373918661988159494",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-22986.yml"
+    ],
+    "tweetfavorites": 386,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 109,
+    "tweettext": "F5 BIG-IP iControl REST unauthenticated RCE — (CVE-2021-22986) nuclei templates by @iamnoooob @rootxharsh \n\nTemplate details —https://t.co/J94Jj0E3eY\n\n#hackwithautomation #appsec #pentest https://t.co/ggV2pjECN2",
+    "tweettime": "2021-03-21, 16:46:10",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1373677326077108227",
+    "username": "pdnuclei"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 550,
+    "tweettext": "RT @h4x0r_dz: RCE Exploit in BIG-IP. \nCVE-2021-22986, CVE-2021-22987\n\npython f5_rce.py -u https://ip_target\npython f5_rce.py -f ip_list.txt…",
+    "tweettime": "2021-03-21, 08:24:22",
+    "tweeturl": "https://twitter.com/jedisct1/status/1373551043787771904",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://github.com/h4x0r-dz/RCE-Exploit-in-BIG-IP"
+    ],
+    "tweetfavorites": 1320,
+    "tweetquotes": 15,
+    "tweetreplies": 8,
+    "tweetretweets": 550,
+    "tweettext": "RCE Exploit in BIG-IP. \nCVE-2021-22986, CVE-2021-22987\n\npython f5_rce.py -u https://ip_target\npython f5_rce.py -f ip_list.txt\npython f5_rce.py -c \"$commend\"\n\nPOC: https://t.co/mkjCuPVR0y\n\n#bugbountytip #BugBounty #infosec https://t.co/uHZqdzTFUi",
+    "tweettime": "2021-03-20, 20:05:25",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1373365080876810246",
+    "username": "h4x0r_dz"
+}
+{
+    "tweetfavorites": 132,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 60,
+    "tweettext": "F5 BIG-IP iControl Unauthenticated Remote Command Execution (CVE-2021-22986) POC 😎\n\n#RCE #Exploit https://t.co/87fvLVu74I",
+    "tweettime": "2021-03-20, 09:34:01",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1373206181955653632",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/3cCK1Dd",
+        "https://bit.ly/2P40CI9"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 8,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "We are now observing the Mirai variant from https://t.co/ZDTVwtdYlq attempting to exploit CVE-2021-22986, an unauthenticated RCE in F5 BIG-IP &amp; BIG-IQ products, and CVE-2020-28188. \n\nIOCs for the new activity available at:\nhttps://t.co/bc0IySEAEk https://t.co/ZsUqxq60XO",
+    "tweettime": "2021-03-19, 21:03:01",
+    "tweeturl": "https://twitter.com/Unit42_Intel/status/1373017186818781190",
+    "username": "Unit42_Intel"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "An important thing to remember is back in July, attackers were using CVE-2020-5902 to create backdoor admin accounts.\n\nIf the systems were patched, but these accounts left in place, these new attacks become all the more dangerous as you don't need SSRF to get an auth'd session.",
+    "tweettime": "2021-03-18, 18:35:47",
+    "tweeturl": "https://twitter.com/n0x08/status/1372617747633299458",
+    "username": "n0x08"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/2021/03/18/rift-detection-capabilities-for-recent-f5-big-ip-big-iq-icontrol-rest-api-vulnerabilities-cve-2021-22986/"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Full exploit chain of F5 iControl REST RCE (CVE-2021-22986) is likely to be public soon, which is why @buffaloverflow and I just published an overview of detection methods for successful SSRF + auth bypass + RCE. https://t.co/988Je0Makj",
+    "tweettime": "2021-03-18, 17:51:40",
+    "tweeturl": "https://twitter.com/0xACK/status/1372606642752266246",
+    "username": "0xACK"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-26411.html"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "Root cause analysis for CVE-2021-26411, the IE MSHTML use-after-free/double free vulnerability:\n\nhttps://t.co/lk7eN6dEh2",
+    "tweettime": "2021-03-18, 13:41:22",
+    "tweeturl": "https://twitter.com/maddiestone/status/1372543655110610946",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/J6pWeg5saG/k03009991-icontrol-rest-unauthenticated-remote-command-execution-vulnerability-cve-2021-22986"
+    ],
+    "tweetfavorites": 789,
+    "tweetquotes": 30,
+    "tweetreplies": 11,
+    "tweetretweets": 387,
+    "tweettext": "F5 BIG-IP iControl RCE (CVE-2021-22986)\n\nexecute arbitrary system commands\ncreate or delete files\ndisable services\n\nPoC #1\ncurl -su admin: -H \"Content-Type: application/json\" http://[victimIP]/mgmt/tm/util/bash -d '{\"command\":\"run\",\"utilCmdArgs\":\"-c id\"}'\n\nhttps://t.co/6i3IYFeHt5 https://t.co/yzD1k3ClTF",
+    "tweettime": "2021-03-18, 03:41:30",
+    "tweeturl": "https://twitter.com/wugeej/status/1372392693989445635",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/J6pWeg5saG/k03009991-icontrol-rest-unauthenticated-remote-command-execution-vulnerability-cve-2021-22986"
+    ],
+    "tweetfavorites": 170,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 75,
+    "tweettext": "CVE-2021-22986 (F5 iControl REST RCE).\n\nPoC\nhttps://t.co/dfaNm5rS09 https://t.co/qjgquJzPIe",
+    "tweettime": "2021-03-17, 01:07:44",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1371991607545827328",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 395,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 147,
+    "tweettext": "CVE-2021-22986 F5 BIG-IP/BIG-IQ iControl REST RCE https://t.co/SHlNTtgW84",
+    "tweettime": "2021-03-14, 03:17:41",
+    "tweeturl": "https://twitter.com/chybeta/status/1370937147939692557",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "http://f5.pm/go-62102.html"
+    ],
+    "tweetfavorites": 223,
+    "tweetquotes": 7,
+    "tweetreplies": 3,
+    "tweetretweets": 131,
+    "tweettext": "Well, I'll say that the ProxyLogon Exchange CVE-2021-26855 Exploit is completely out of the bag by now.\nhttps://t.co/ubsysTeFOj\nI'm not so sure about the \"Failed to write to shell\" error message.  But I can confirm that it did indeed drop a shell on my test Exchange 2016 box. https://t.co/ijOGx3BIif",
+    "tweettime": "2021-03-13, 18:13:26",
+    "tweeturl": "https://twitter.com/wdormann/status/1370800181143351296",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/03/another-google-chrome-0-day-bug-found.html"
+    ],
+    "tweetfavorites": 354,
+    "tweetquotes": 23,
+    "tweetreplies": 10,
+    "tweetretweets": 301,
+    "tweettext": "🔥 WARNING — A second Google #Chrome browser zero-day #vulnerability (CVE-2021-21193) has been found actively exploited in-the-wild.\n\nRead details: https://t.co/EFt5OinSKa\n\nUpdate your browser for Windows, Mac, and #Linux systems to 89.0.4389.90 or the latest available version.",
+    "tweettime": "2021-03-13, 03:24:15",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1370576411648352260",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://x-stream.github.io/security.html"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 14,
+    "tweettext": "There are 11 CVEs in xstream 1.4.16. I have reported 5 security vulnerabilities to the authorities, including DoS, SSRF, ReDoS, and RCE. The numbers are: CVE-2021-21341, CVE-2021-21347, CVE-2021-21348 , CVE-2021-21349, CVE-2021-21350\n\nhttps://t.co/yq0S5uDmDA https://t.co/qzvN4zuPgq",
+    "tweettime": "2021-03-13, 02:19:19",
+    "tweeturl": "https://twitter.com/threedr3am1/status/1370560071659253761",
+    "username": "threedr3am1"
+}
+{
+    "tweetfavorites": 132,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "XSS in Jenzabar (CVE-2021-26723)\n\nPOC:\n/ics?tool=search&amp;query=\"&gt;&lt;script&gt;alert('xss')&lt;/script&gt;\n\n#XSS https://t.co/cGM957RGCU",
+    "tweettime": "2021-03-12, 19:34:27",
+    "tweeturl": "https://twitter.com/3XS0/status/1370458184914206725",
+    "username": "3XS0"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.blogspot.com/2021/01/windows-exploitation-tricks-trapping.html"
+    ],
+    "tweetfavorites": 193,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 73,
+    "tweettext": "Fixed this month: CVE-2021-26863, a race condition/use-after-free in win32k.sys demonstrating @tiraniddo's excellent Memory Access Trapping technique in Windows (https://t.co/mJrEGGIHLy). It was a fun exercise to do some auditing in search of the specific code pattern.",
+    "tweettime": "2021-03-12, 13:23:48",
+    "tweeturl": "https://twitter.com/j00ru/status/1370364905862352901",
+    "username": "j00ru"
+}
+{
+    "expanded_url": [
+        "http://exp.py",
+        "http://exp.py"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 14,
+    "tweettext": "#CVE CVE-2021-26855 CVE-2021-27065\nMicrosoft Exchange From SSRF to RCE🤔\nhttps://t.co/v52fC2vcq1 --&gt; webshell --&gt; rce --&gt; down xx.ps1  --&gt; cobaltstrike --&gt; exit\nhttps://t.co/v52fC2vcq1 provided by @_0xf4n9x_ 👍 https://t.co/kf4c5VYmqy",
+    "tweettime": "2021-03-11, 09:42:10",
+    "tweeturl": "https://twitter.com/zhzyker/status/1369946740665675776",
+    "username": "zhzyker"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/03/critical-pre-auth-rce-flaw-found-in-f5.html"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 12,
+    "tweetreplies": 3,
+    "tweetretweets": 133,
+    "tweettext": "A critical pre-auth RCE flaw (CVE-2021-22986) has been discovered in the F5's Big-IP and BIG-IQ #software — Patch ASAP!\n\nRead details: https://t.co/dYFN1aSNOB\n\nBesides this, a few other newly reported flaws also result in a denial of service (DoS) attack.\n\n#infosec #cybersecurity",
+    "tweettime": "2021-03-11, 06:05:52",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1369892308108255233",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/2021/03/10/technical-advisory-dell-supportassist-local-privilege-escalation-cve-202-21518/"
+    ],
+    "tweetfavorites": 257,
+    "tweetquotes": 5,
+    "tweetreplies": 10,
+    "tweetretweets": 99,
+    "tweettext": "Here is the advisory for CVE-2021-21518, which is a Local Privilege Escalation vulnerability I found in Dell SupportAssist\n\n https://t.co/VqeGRB1gu0 https://t.co/45U0HWFpdz",
+    "tweettime": "2021-03-10, 16:52:15",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1369692589193039874",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/"
+    ],
+    "tweetfavorites": 207,
+    "tweetquotes": 22,
+    "tweetreplies": 3,
+    "tweetretweets": 122,
+    "tweettext": "#ESETresearch documents its findings following recent pre-auth RCE vulnerability impacting Exchange servers globally. We identified at least 10 APT groups using exploits for CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-27065. Read more: https://t.co/I2hP1HT576 1/5",
+    "tweettime": "2021-03-10, 13:01:16",
+    "tweeturl": "https://twitter.com/ESETresearch/status/1369634459025346562",
+    "username": "ESETresearch"
+}
+{
+    "expanded_url": [
+        "https://link.medium.com/uyuaffLPveb"
+    ],
+    "tweetfavorites": 215,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 80,
+    "tweettext": "Analysis of ProxyLogon\nA perfect combination of CVE-2021-26855 and  27065 \nKudo\nPerfect bugs of 2021!\nHave fun ;)\nhttps://t.co/LNymwabGT5",
+    "tweettime": "2021-03-10, 12:56:25",
+    "tweeturl": "https://twitter.com/testanull/status/1369633239845937158",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://www.praetorian.com/blog/reproducing-proxylogon-exploit/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "Microsoft Exchange Proxylogon Exploit Chain.\n\nCVE-2021-26857 : insecure deserialization vulnerability\nCVE-2021-26855 : Server-Side Request Forgery\nCVE-2021-27065 : Arbitrary File Write\nhttps://t.co/h1PnhZ3ySW https://t.co/J77rZh6R3C",
+    "tweettime": "2021-03-10, 07:09:28",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1369545928340877314",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.thezdi.com/blog/2021/3/9/the-march-2021-security-update-review"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 7,
+    "tweetreplies": 8,
+    "tweetretweets": 25,
+    "tweettext": "Microsoft patchday starring:\n* CVE-2021-26897 – Windows DNS Server Remote Code Execution Vulnerability\n* CVE-2021-26867 – Windows Hyper-V Remote Code Execution Vulnerability\n* CVE-2021-27076 – Microsoft SharePoint Server Remote Code Execution Vulnerability\nhttps://t.co/lvwBYKSyNG https://t.co/e7bsCOOz72",
+    "tweettime": "2021-03-09, 21:52:14",
+    "tweeturl": "https://twitter.com/HonkHase/status/1369405693078482947",
+    "username": "HonkHase"
+}
+{
+    "expanded_url": [
+        "https://enki.co.kr/blog/2021/02/04/ie_0day.html",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26411"
+    ],
+    "tweetfavorites": 142,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 66,
+    "tweettext": "Microsoft issues patch for the Internet Explorer MSHTML bug disclosed by Enki back in February. They had said that it had been used by NK to target security researchers. CVE-2021-26411 https://t.co/a4LgVLeVeo\n\nhttps://t.co/5n620E9cuT",
+    "tweettime": "2021-03-09, 18:09:00",
+    "tweeturl": "https://twitter.com/maddiestone/status/1369349514658676736",
+    "username": "maddiestone"
+}
+{
+    "tweetfavorites": 80,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 10,
+    "tweettext": "این باگ( CVE-2021-26855 ) که روی Exchange اومده رو جدی بگیرید. از شرکت کوچیک و هولدینگ تا خطوط هواپیمایی دارن از Microsoft Exchange Server استفاده میکنن و اکثرن آسیب پذیرن. تستش کردم و فکر کنم تا الان اگه داشتید دسترسی ازتون نگرفته باشن شانس آوردین https://t.co/NmuzJ8SGI3",
+    "tweettime": "2021-03-09, 14:44:34",
+    "tweeturl": "https://twitter.com/Mormoroth/status/1369298066600300548",
+    "username": "Mormoroth"
+}
+{
+    "expanded_url": [
+        "https://github.com/GreyOrder/CVE-2021-26855"
+    ],
+    "tweetfavorites": 498,
+    "tweetquotes": 13,
+    "tweetreplies": 14,
+    "tweetretweets": 194,
+    "tweettext": "Thousands of US companies have been hacked by Chinese hackers using This RCE.\n\nMicrosoft Exchange Server Remote Code Execution CVE-2021-26855 Exploit.\nhttps://t.co/4UNlGK3ewf\n\n#BugBounty #RCE #infosec https://t.co/YKWOCIKjXk",
+    "tweettime": "2021-03-09, 11:51:50",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1369254600612708362",
+    "username": "h4x0r_dz"
+}
+{
+    "tweetfavorites": 98,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 42,
+    "tweettext": "Atlassian Jira unauthenticated user enumeration (CVE-2020-14181)!\n Versions affected:\nJira &lt; 7.13.6\n8.0.0 ≤ Jira &lt; 8.5.7\n8.6.0 ≤ Jira &lt; 8.12.0\nusername=john ---&gt; user does not exist\nusername=admin ---&gt;  jira-robot\n#bugbounty #bugbountytip #bugbountytips #pentesting https://t.co/WaH6utohPw",
+    "tweettime": "2021-03-09, 05:45:42",
+    "tweeturl": "https://twitter.com/cycatz2/status/1369162459739693057",
+    "username": "cycatz2"
+}
+{
+    "expanded_url": [
+        "https://github.co/3sYRjI1"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 2,
+    "tweettext": "GHSL-2020-166: Use-after-free (UaF) in Chrome PaymentCredential - CVE-2020-16018 https://t.co/JeaZiVbO38",
+    "tweettime": "2021-03-08, 16:40:03",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1368964741125836804",
+    "username": "GHSecurityLab"
+}
+{
+    "tweetfavorites": 367,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 134,
+    "tweettext": "Shodan Dork For CVE-2021-26855\n\n1.title:\"Outlook Web App\"\n2.\"Set-Cookie: ClientId=\"\n\n#bugbountytips #bugbountytip #ssrf #togetherwehitharder  #hackerone #bugcrowd #CVE-2021-26855",
+    "tweettime": "2021-03-07, 19:58:11",
+    "tweeturl": "https://twitter.com/amanmahendra_/status/1368652217645867008",
+    "username": "amanmahendra_"
+}
+{
+    "tweetfavorites": 316,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 88,
+    "tweettext": "Detecting Microsoft Exchange Server SSRF — (CVE-2021-26855) using nuclei templates.\n\nThanks to @Madrobot_ for quickly sharing the template for this 🙌🙌\n\n#hackwithautomation #appsec #pentest #proxylogon https://t.co/6vseXzDReX",
+    "tweettime": "2021-03-06, 08:00:39",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1368109257879547904",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-26855.yaml"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "Nuclei now includes CVE-2021-26855 (Microsoft Exchange Server Remote Code Execution Vulnerability) https://t.co/yEOsxbcEBi",
+    "tweettime": "2021-03-06, 07:42:53",
+    "tweeturl": "https://twitter.com/Dinosn/status/1368104784314662913",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2021-0003.html"
+    ],
+    "tweetfavorites": 111,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 66,
+    "tweettext": "VMware releases security patch for a remote code execution #vulnerability (CVSSv3 8.6) (CVE-2021-21978) affecting VMware View Planner.\n\nhttps://t.co/dYev7CFQlj",
+    "tweettime": "2021-03-04, 07:03:47",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1367370169224364033",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 65,
+    "tweettext": "Anatomy of an Exploit: RCE with CVE-2020-1350 (SIGRed)\n\nPoC released: https://t.co/Zj4tugitU6\n\nvia @GraplSec https://t.co/31iwebqPSh",
+    "tweettime": "2021-03-04, 03:37:48",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1367318331032694792",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2021-0003.html"
+    ],
+    "tweetfavorites": 429,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 175,
+    "tweettext": "Unauthenticated RCE in VMware View Planner (#CVE-2021-21978) POC\n\nAdvisory: https://t.co/RY7OHGu28K https://t.co/9BXk5vfqEH",
+    "tweettime": "2021-03-03, 23:41:40",
+    "tweeturl": "https://twitter.com/osama_hroot/status/1367258907601698816",
+    "username": "osama_hroot"
+}
+{
+    "expanded_url": [
+        "https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 47,
+    "tweettext": ".@chompie1337 has published the first public, working RCE exploit for CVE-2020-1350 (Windows DNS server vuln). Tested, works great. https://t.co/eHv65yvxjV",
+    "tweettime": "2021-03-03, 22:55:28",
+    "tweeturl": "https://twitter.com/GossiTheDog/status/1367247281687248896",
+    "username": "GossiTheDog"
+}
+{
+    "expanded_url": [
+        "https://github.com/HoangKien1020/CVE-2021-23132"
+    ],
+    "tweetfavorites": 239,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 100,
+    "tweettext": "CVE-2021-23132: Joomla com_media allowed paths that are not intended for image uploads to RCE.\n\nPoC\nhttps://t.co/hGCx8aIPsB https://t.co/rSgYaycqH0",
+    "tweettime": "2021-03-03, 17:40:23",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1367167985560014853",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1172"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 4,
+    "tweettext": "CVE-2020-13558 Webkit AudioSourceProviderGStreamer use-after-free vulnerability\nAdvisory : https://t.co/IP0AS63mfl",
+    "tweettime": "2021-03-03, 16:43:50",
+    "tweeturl": "https://twitter.com/_Icewall/status/1367153757230931969",
+    "username": "_Icewall"
+}
+{
+    "expanded_url": [
+        "https://github.com/NS-Sp4ce/Inspur/tree/master/ClusterEngineV4.0%20Vul"
+    ],
+    "tweetfavorites": 224,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 75,
+    "tweettext": "ClusterEngine V4.0 RCE (CVE-2020-21224)\n\nPOC:\nPOST /login.php\n\nop=login&amp;username=;`cat /etc/passwd`&amp;password=\"\n\nRef:https://t.co/8bV9s3xT4x https://t.co/s0IXjkqAKn",
+    "tweettime": "2021-03-03, 13:50:26",
+    "tweeturl": "https://twitter.com/sec715/status/1367110116311322624",
+    "username": "sec715"
+}
+{
+    "expanded_url": [
+        "https://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack/"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 84,
+    "tweettext": "WINDOWS KERNEL ZERO-DAY EXPLOIT (CVE-2021-1732) IS USED BY BITTER APT IN TARGETED ATTACK https://t.co/gEMIg0vxoB",
+    "tweettime": "2021-03-03, 05:12:00",
+    "tweeturl": "https://twitter.com/pentest_swissky/status/1366979648907743232",
+    "username": "pentest_swissky"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2021/03/stable-channel-update-for-desktop.html"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 37,
+    "tweettext": "Chrome 89 was released today.\n\nComes with a zero-day fix (CVE-2021-21166). As always, zero details on who's exploiting it.\n\nhttps://t.co/NT2LbraHjF https://t.co/KdXvalrZpc",
+    "tweettime": "2021-03-02, 23:35:39",
+    "tweeturl": "https://twitter.com/campuscodi/status/1366895005772693510",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "I want to be the first before Google researchers to report that there's also a Chrome 0day in the wild. CVE-2021-21166\nhttps://t.co/0jGPFtJlPF",
+    "tweettime": "2021-03-02, 22:30:23",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1366878579368157188",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred"
+    ],
+    "tweetfavorites": 698,
+    "tweetquotes": 11,
+    "tweetreplies": 14,
+    "tweetretweets": 274,
+    "tweettext": "My first ever blog post: Anatomy of an Exploit: RCE CVE-2020-1350 #SIGRed. RCE PoC included, for research purposes. This was my first userland Windows heap exploit and I hope a deep dive into the process will help others. Patch or apply the workaround. https://t.co/CFRTs7Wdvs",
+    "tweettime": "2021-03-02, 17:19:16",
+    "tweeturl": "https://twitter.com/chompie1337/status/1366800284563963907",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2021-21315 Node.JS OS sanitize service Parameters Command Injection\n\nPoC\nhttps://t.co/rkyJ7LZznA https://t.co/J4AE5fh8LA",
+    "tweettime": "2021-03-02, 08:02:06",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1366660069543264258",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/GuayoyoLabs/CVE-2021-21972"
+    ],
+    "tweetfavorites": 282,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 130,
+    "tweettext": "CVE-2021-21972 vCenter Server RCE - Nmap script to check vulnerability\n\nEx)\nnmap -p443 --script cve-2021-21972.nse --script-args vulns.showall [Target IP]\n\nhttps://t.co/1jabqgbyTk https://t.co/qKsrD3tsu1",
+    "tweettime": "2021-03-02, 07:35:30",
+    "tweeturl": "https://twitter.com/wugeej/status/1366653374288961538",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/en/publications/pwn2own-tokyo-2020-defeating-the-tp-link-ac1750.html"
+    ],
+    "tweetfavorites": 154,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "#Pwn2Own Tokyo 2020. This blogpost explains the details of our CVE-2021-27246, a remote code execution on TP-Link AC1750 Smart Wifi Router.\n\nExploit, wait, and get root! \n\nhttps://t.co/KmzsSmT6Fv https://t.co/NiJfaw7quS",
+    "tweettime": "2021-03-01, 18:29:37",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1366455599412613120",
+    "username": "Synacktiv"
+}

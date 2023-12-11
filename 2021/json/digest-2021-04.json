@@ -480,3 +480,967 @@
     "tweeturl": "https://twitter.com/jedisct1/status/1378314414617677825",
     "username": "jedisct1"
 }
+{
+    "expanded_url": [
+        "https://www.mail-archive.com/announce@apache.org/msg06507.html",
+        "https://mp.weixin.qq.com/s/Dr-jwiRr4NByjErjiX_e1w",
+        "https://t.zsxq.com/zRja2v7"
+    ],
+    "tweetfavorites": 170,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "CVE-2021-30128 Apache OFBiz RCE\nhttps://t.co/NbF4vEFYNK\n\nhttps://t.co/vkKqGSwgq2\n\nhttps://t.co/6hs47T74g6 https://t.co/WLC8u3VCZW",
+    "tweettime": "2021-04-28, 09:11:30",
+    "tweeturl": "https://twitter.com/chybeta/status/1387333641638797316",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 238,
+    "tweetquotes": 7,
+    "tweetreplies": 18,
+    "tweetretweets": 26,
+    "tweettext": "Microsoft combined 6 RCE vulnerabilities into one CVE（CVE-2021-28466 ）, even though bounties for multiple vulnerabilities have been paid.😂 https://t.co/A1Woj1ndWI",
+    "tweettime": "2021-04-28, 04:45:45",
+    "tweeturl": "https://twitter.com/hackyzh/status/1387266765030256645",
+    "username": "hackyzh"
+}
+{
+    "expanded_url": [
+        "https://blog.sonarsource.com/wordpress-xxe-security-vulnerability"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 43,
+    "tweettext": "Vulnerabilidad en #WordPress 5.7 XXE\n- CVE-2021-29447 PHP8\n- Authenticated XML External Entity (XXE) injection\n- Arbitrary File Disclosure: por ejemplo wp-config.php \n- Server-Side Request Forgery (SSRF)\nhttps://t.co/vtm5MfxDtT https://t.co/IosOTKYtYr",
+    "tweettime": "2021-04-27, 20:01:00",
+    "tweeturl": "https://twitter.com/elhackernet/status/1387134706005676034",
+    "username": "elhackernet"
+}
+{
+    "tweetfavorites": 207,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 55,
+    "tweettext": "Still don't know if this is CVE-2021-28482 or CVE-2021-28483\nBut it's posibble to take down Exchange with a low privilege user https://t.co/xXOT6pP08t",
+    "tweettime": "2021-04-23, 06:32:16",
+    "tweeturl": "https://twitter.com/testanull/status/1385481630228258820",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/wdormann/bbf95c5ccebb826a1e21124cfb320106"
+    ],
+    "tweetfavorites": 193,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 59,
+    "tweettext": "I couldn't find many resources on ARM64 Windows shellcode.\nSo I decided to write my own small-batch, artisan, bespoke PoC for CVE-2021-21224.  It seemed like a good candidate because the shellcode section is both clear and also supports inline comments.\nhttps://t.co/c6nGGiD1Cg https://t.co/IcdzoiHJqg",
+    "tweettime": "2021-04-22, 21:13:42",
+    "tweeturl": "https://twitter.com/wdormann/status/1385341064513470466",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://community.openvpn.net/openvpn/changeset/f7b3bf067ffce72e7de49a4174fd17a3a83f0573/?__cf_chl_jschl_tk__=49fc8a303d49253be3b95811195fea4cf1e0a322-1619118638-0-AbanP_ZyaYcdRW49RI4_DIA4spBTfHfJNdPIQv43V_OTUcShKDq32WyIyB1pPtaOSPW3tmjNWzNH4SN0GsupSIeKsI48HEwjyuYHY6mCAGahcnRtMOaZ5Cou720H1ZhRlK6Zji2DiLG2KhSIVUUR-nRlt70Mw6J3tsXj9Y8Rfhqq8UkrOvdoe3zUlyK2_ovy-9XNsqKKLZ_5RtdSrBUwkDDh-PUTN03MPmhEFwSBdwarYWFwaxxtGOQznvkf0nzPx9StI9xrhGh18_VXeqHS7uV115D2f0wfmeAEoxeBHIQSc-uvhUabGoaUa_nUdDNL_22m5WMW3MXBHBJc2sBBtZRlK8R-WCscWC9Ck1qYe8KnpZCBkg-EoeEpEA90Dq3zD_QyzHh5UH-D-f_ASg_jRF1WPeZFxI2hb4uamAcEYKR9QObhpH33vUfW_70nE5VYMhUgOxi4yf6wnJdo4lzs62I"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 21,
+    "tweettext": "OpenVPN CVE-2020-15078 https://t.co/UvRnlA7faP (but please, stop using OpenVPN. Use Wireguard, Glorytun or DSVPN).",
+    "tweettime": "2021-04-22, 19:12:58",
+    "tweeturl": "https://twitter.com/jedisct1/status/1385310681067573253",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://github.com/Henry4E36/Solr-SSRF"
+    ],
+    "tweetfavorites": 171,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 67,
+    "tweettext": "CVE-2021-27905: Apache Solr SSRF\nPoC\nhttps://t.co/TE0cupHAmm https://t.co/Q8PKTYT8xU",
+    "tweettime": "2021-04-22, 07:55:17",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1385140135843536899",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-27059",
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-27085"
+    ],
+    "tweetfavorites": 400,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 200,
+    "tweettext": "Microsoft Office Remote Code Execution Vulnerability(CVE-2021-27059)\nInternet Explorer Remote Code Execution Vulnerability(CVE-2021-27085)\n0day(exploit) in the Wild But no one talk about it😅\nhttps://t.co/AYawN0X30A\nhttps://t.co/G2RYjq9dQ5 https://t.co/uUkGQJ147x",
+    "tweettime": "2021-04-22, 02:45:15",
+    "tweeturl": "https://twitter.com/blackorbird/status/1385062113085825027",
+    "username": "blackorbird"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 216,
+    "tweettext": "RT @a_denkiewicz: Here's a promised write-up of Windows Privilege Elevation bug that I've discovered / CVE-2021-26415\nhttps://t.co/1uQoF9wA…",
+    "tweettime": "2021-04-21, 23:42:23",
+    "tweeturl": "https://twitter.com/jedisct1/status/1385016091945078787",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://www.cloaked.pl/2021/04/cve-2021-26415/"
+    ],
+    "tweetfavorites": 452,
+    "tweetquotes": 5,
+    "tweetreplies": 7,
+    "tweetretweets": 221,
+    "tweettext": "Here's a promised write-up of Windows Privilege Elevation bug that I've discovered / CVE-2021-26415\nhttps://t.co/1uQoF9wAip\n\n#security #EOP #LPE #bugbounty https://t.co/VJzEcXw4tu",
+    "tweettime": "2021-04-21, 19:46:42",
+    "tweeturl": "https://twitter.com/a_denkiewicz/status/1384956782200725504",
+    "username": "a_denkiewicz"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 267,
+    "tweettext": "RT @JohnHultquist: Chinese cyber espionage actors (possibly including APT5) have been using a zero-day vuln (CVE-2021-22893) as well as som…",
+    "tweettime": "2021-04-20, 14:28:23",
+    "tweeturl": "https://twitter.com/cherepanov74/status/1384514284059774976",
+    "username": "cherepanov74"
+}
+{
+    "expanded_url": [
+        "https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html"
+    ],
+    "tweetfavorites": 408,
+    "tweetquotes": 25,
+    "tweetreplies": 6,
+    "tweetretweets": 267,
+    "tweettext": "Chinese cyber espionage actors (possibly including APT5) have been using a zero-day vuln (CVE-2021-22893) as well as some older, known vulns in Pulse Secure VPN to gain access to dozens of government, finance, and defense orgs in the US and Europe. https://t.co/E9gGizuDpK",
+    "tweettime": "2021-04-20, 14:11:32",
+    "tweeturl": "https://twitter.com/JohnHultquist/status/1384510043878576128",
+    "username": "JohnHultquist"
+}
+{
+    "expanded_url": [
+        "https://github.com/tenable/poc/blob/master/Solarwinds/Dameware/dwrcs_dwDrvInst_rce.py"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "if you see an instance of dwDrvInst.exe (unsigned by Solarwinds) running with cmdline like \"smartcard -install\" that could be a sign of successful RCE exploitation of CVE-2019-3980\n\nhttps://t.co/FyZvQ2IYVj https://t.co/8OIarbbqeQ",
+    "tweettime": "2021-04-18, 22:55:51",
+    "tweeturl": "https://twitter.com/SBousseaden/status/1383917216593170442",
+    "username": "SBousseaden"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2021/CVE-2021-1647.html",
+        "https://vx-underground.org/tmp/"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "January 12th, 2021 Google Project Zero released CVE-2021-1647: Windows Defender mpengine remote code execution.\n\nWe were able to get our hands on a sample. You can read about it here: https://t.co/boF2BZX7rZ\n\nYou can download it here: https://t.co/mR3lKuZziK",
+    "tweettime": "2021-04-16, 22:24:09",
+    "tweeturl": "https://twitter.com/vxunderground/status/1383184465199988739",
+    "username": "vxunderground"
+}
+{
+    "expanded_url": [
+        "https://shenaniganslabs.io/2021/04/13/Airstrike.html"
+    ],
+    "tweetfavorites": 601,
+    "tweetquotes": 17,
+    "tweetreplies": 11,
+    "tweetretweets": 318,
+    "tweettext": "Airstrike Attack (CVE-2021-28316) — BitLocker full disk encryption bypass and Privilege Escalation on domain joined Windows workstations.\n\nhttps://t.co/b80FsdYkzG https://t.co/KBes7HGZJK",
+    "tweettime": "2021-04-16, 19:15:49",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1383137068683972609",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11147"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "A critical RCE #vulnerability (CVE-2021-0254) was recently discovered in the \"Junos Network Operating System\" by Juniper Networks residing in the overlayd service.\n\nPatches and vulnerable versions can be found here: https://t.co/GidSzIPGMT https://t.co/aavrHVtVLh",
+    "tweettime": "2021-04-16, 19:12:50",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1383136319044415488",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "Mass scanning activity detected from 185.191.32.158 (🇷🇺) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. #threatintel https://t.co/Hrn5hr6V5H",
+    "tweettime": "2021-04-16, 18:58:10",
+    "tweeturl": "https://twitter.com/bad_packets/status/1383132627306127364",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://krebsonsecurity.com/2020/12/vmware-flaw-a-vector-in-solarwinds-breach/",
+        "https://www.fbi.gov/news/pressrel/press-releases/russian-foreign-intelligence-service-exploiting-five-publicly-known-vulnerabilities-to-compromise-us-and-allied-networks"
+    ],
+    "tweetfavorites": 221,
+    "tweetquotes": 2,
+    "tweetreplies": 7,
+    "tweetretweets": 103,
+    "tweettext": "A joint advisory from the FBI, CISA and NSA seems to confirm my reporting from December that a VMWare flaw (CVE-2020-4006) was used as an attack vector by the Russian SVU attackers involved in SolarWinds https://t.co/dw0fnHKY7a https://t.co/cLazD1CEch https://t.co/iMyrUddM9Q",
+    "tweettime": "2021-04-15, 18:45:58",
+    "tweeturl": "https://twitter.com/briankrebs/status/1382767168421572620",
+    "username": "briankrebs"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 250,
+    "tweettext": "RT @maddiestone: ✨Root Cause Analysis for in-the-wild 0day CVE-2021-1647✨\n\nThe Windows Defender RCE that was exploited in-the-wild and patc…",
+    "tweettime": "2021-04-14, 17:48:31",
+    "tweeturl": "https://twitter.com/AdmVonSchneider/status/1382390325373730822",
+    "username": "AdmVonSchneider"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2021/CVE-2021-1647.html"
+    ],
+    "tweetfavorites": 546,
+    "tweetquotes": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 230,
+    "tweettext": "✨Root Cause Analysis for in-the-wild 0day CVE-2021-1647✨\n\nThe Windows Defender RCE that was exploited in-the-wild and patched in January. \n\nhttps://t.co/jZBO7NQgA2",
+    "tweettime": "2021-04-14, 16:39:07",
+    "tweeturl": "https://twitter.com/maddiestone/status/1382372859780079620",
+    "username": "maddiestone"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 301,
+    "tweettext": "RT @_argp: Remote exploitation of a man-in-the-disk vulnerability in WhatsApp (CVE-2021-24027); epic logical exploitation writeup by huku:…",
+    "tweettime": "2021-04-14, 16:11:48",
+    "tweeturl": "https://twitter.com/jedisct1/status/1382365983264940036",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://census-labs.com/news/2021/04/14/whatsapp-mitd-remote-exploitation-CVE-2021-24027/"
+    ],
+    "tweetfavorites": 669,
+    "tweetquotes": 20,
+    "tweetreplies": 6,
+    "tweetretweets": 301,
+    "tweettext": "Remote exploitation of a man-in-the-disk vulnerability in WhatsApp (CVE-2021-24027); epic logical exploitation writeup by huku: https://t.co/ZAc64X1SUj",
+    "tweettime": "2021-04-14, 08:33:12",
+    "tweeturl": "https://twitter.com/_argp/status/1382250573668442112",
+    "username": "_argp"
+}
+{
+    "expanded_url": [
+        "https://kas.pr/g79y"
+    ],
+    "tweetfavorites": 569,
+    "tweetquotes": 19,
+    "tweetreplies": 3,
+    "tweetretweets": 246,
+    "tweettext": "Zero-day vulnerability in Desktop Window Manager (CVE-2021-28310) used in the wild 👉 https://t.co/58ZFF3hkSm https://t.co/Ay6MWO3gvk",
+    "tweettime": "2021-04-13, 20:38:32",
+    "tweeturl": "https://twitter.com/e_kaspersky/status/1382070720671453186",
+    "username": "e_kaspersky"
+}
+{
+    "tweetfavorites": 98,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 13,
+    "tweettext": "Got assigned 4 CVE-IDs for my findings on ObserveIT. All findings are marked as \"High\" Severity. \n\nIf you run ObserveIT, it is recommended to update.\n\nCVE-2021-27900 (Authorization Bypass)\nCVE-2021-22158 (XXE)\nCVE-2021-27899 (Imp Cert validation)\nCVE-2021-22157 (Multiple XSS)",
+    "tweettime": "2021-04-12, 16:43:02",
+    "tweeturl": "https://twitter.com/aaditya_purani/status/1381649069957767168",
+    "username": "aaditya_purani"
+}
+{
+    "expanded_url": [
+        "https://www.reddit.com/r/netsec/comments/mor7kd/exploiting_windows_rpc_to_bypass_cfg_mitigation/"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "Exploiting Windows RPC to bypass CFG mitigation: analysis of CVE-2021-26411 in-the-wild sample https://t.co/6PP56nhvgs",
+    "tweettime": "2021-04-11, 16:40:27",
+    "tweeturl": "https://twitter.com/Dinosn/status/1381286029341114371",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://iamelli0t.github.io/2021/04/10/RPC-Bypass-CFG.html"
+    ],
+    "tweetfavorites": 502,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 212,
+    "tweettext": "[New Blog] Exploiting Windows RPC to bypass CFG mitigation: analysis of CVE-2021-26411 in-the-wild sample\nhttps://t.co/mmM0B9BzN3 https://t.co/kxR7HWkueb",
+    "tweettime": "2021-04-10, 09:46:07",
+    "tweeturl": "https://twitter.com/iamelli0t/status/1380819370755072001",
+    "username": "iamelli0t"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2021/04/08/1"
+    ],
+    "tweetfavorites": 192,
+    "tweetquotes": 25,
+    "tweetreplies": 1,
+    "tweetretweets": 66,
+    "tweettext": "[CVE-2021-29154] Linux kernel incorrect computation of branch displacements in BPF JIT compiler can be abused to execute arbitrary code in Kernel mode https://t.co/fFqxuRv7f6",
+    "tweettime": "2021-04-09, 17:56:59",
+    "tweeturl": "https://twitter.com/jedisct1/status/1380580516722831360",
+    "username": "jedisct1"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 65,
+    "tweettext": "RT @TheHackersNews: Technical details and a proof of concept have been released for denial of service #vulnerability (CVE-2021-24086) affec…",
+    "tweettime": "2021-04-08, 10:36:31",
+    "tweeturl": "https://twitter.com/jedisct1/status/1380107279773671431",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://pentest.blog/unexpected-journey-7-gravcms-unauthenticated-arbitrary-yaml-write-update-leads-to-code-execution/"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 25,
+    "tweettext": "Hey folks ! Update your GravCMS asap. \n\nUnexpected Journey #7 – GravCMS Unauthenticated Arbitrary YAML Write/Update leads to Remote Code Execution (CVE-2021-21425)\n\nhttps://t.co/C5w2dEGe5t",
+    "tweettime": "2021-04-08, 09:21:14",
+    "tweeturl": "https://twitter.com/mdisec/status/1380088335977353216",
+    "username": "mdisec"
+}
+{
+    "expanded_url": [
+        "https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html"
+    ],
+    "tweetfavorites": 112,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 65,
+    "tweettext": "Technical details and a proof of concept have been released for denial of service #vulnerability (CVE-2021-24086) affecting IPv6 stacks in all supported versions of the Windows operating system.\n\nhttps://t.co/Y17nwlaYRg https://t.co/Nzhk8Uwe47",
+    "tweettime": "2021-04-08, 08:50:06",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1380080499209564160",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 174,
+    "tweettext": "RT @campuscodi: New Cring ransomware deployed via unpatched Fortinet VPNs\n\nCVE-2018-13379 -- the gift that keeps on giving!\n\nhttps://t.co/5…",
+    "tweettime": "2021-04-08, 07:05:59",
+    "tweeturl": "https://twitter.com/jedisct1/status/1380054299380682755",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html"
+    ],
+    "tweetfavorites": 334,
+    "tweetquotes": 12,
+    "tweetreplies": 5,
+    "tweetretweets": 162,
+    "tweettext": "Just published my analysis and PoC for CVE-2021-24086, an IPv6 fragmentation vulnerability on Windows: \n\nhttps://t.co/grUrwJgdZb https://t.co/97pbm2cpI9",
+    "tweettime": "2021-04-07, 16:06:28",
+    "tweeturl": "https://twitter.com/fdfalcon/status/1379827925965549570",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://therecord.media/new-cring-ransomware-deployed-via-unpatched-fortinet-vpns/"
+    ],
+    "tweetfavorites": 295,
+    "tweetquotes": 7,
+    "tweetreplies": 3,
+    "tweetretweets": 174,
+    "tweettext": "New Cring ransomware deployed via unpatched Fortinet VPNs\n\nCVE-2018-13379 -- the gift that keeps on giving!\n\nhttps://t.co/56ervYeOSk https://t.co/Gs3xopiGm9",
+    "tweettime": "2021-04-07, 15:45:42",
+    "tweeturl": "https://twitter.com/campuscodi/status/1379822702316388355",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://github.com/0vercl0k/CVE-2021-24086",
+        "http://doar-e.github.io"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 260,
+    "tweettext": "RT @0vercl0k: I've built a PoC for CVE-2021-24086: https://t.co/YKRacxk73X 🔥\n\nWill blog about the details later on https://t.co/5IU7XSFNIQ…",
+    "tweettime": "2021-04-07, 13:08:48",
+    "tweeturl": "https://twitter.com/jedisct1/status/1379783214877786118",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://github.com/0vercl0k/CVE-2021-24086",
+        "http://doar-e.github.io"
+    ],
+    "tweetfavorites": 607,
+    "tweetquotes": 14,
+    "tweetreplies": 3,
+    "tweetretweets": 260,
+    "tweettext": "I've built a PoC for CVE-2021-24086: https://t.co/YKRacxk73X 🔥\n\nWill blog about the details later on https://t.co/5IU7XSFNIQ 🍻 https://t.co/sbR7rKIr62",
+    "tweettime": "2021-04-07, 12:55:05",
+    "tweeturl": "https://twitter.com/0vercl0k/status/1379779764605620225",
+    "username": "0vercl0k"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2021-050-jellyfin/",
+        "https://t.zsxq.com/uB6qBAI"
+    ],
+    "tweetfavorites": 190,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 63,
+    "tweettext": "CVE-2021-21402  Unauthenticated abritrary file read in Jellyfin\n\nhttps://t.co/KT7uQTNXX4\n\nhttps://t.co/d2KacgYMSD https://t.co/slNaQHwRlc",
+    "tweettime": "2021-04-06, 08:01:06",
+    "tweeturl": "https://twitter.com/chybeta/status/1379343391423561729",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://app.any.run/tasks/0f8a285f-8ff1-47cd-9ccf-c9cb3397daf4"
+    ],
+    "tweetfavorites": 146,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "#PurpleFox Exploit Kit has exploited CVE-2021-26411!?\n(CC: @malware_traffic, @jeromesegura)\nhttps://t.co/UpqQrPuR42 https://t.co/p4ej4O0O9w",
+    "tweettime": "2021-04-04, 03:16:05",
+    "tweeturl": "https://twitter.com/nao_sec/status/1378546891349106692",
+    "username": "nao_sec"
+}
+{
+    "tweetfavorites": 87,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "Mass scanning activity detected from 45.155.205.165 (🇷🇺) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. #threatintel https://t.co/SIgxNEGd88",
+    "tweettime": "2021-04-03, 18:28:27",
+    "tweeturl": "https://twitter.com/bad_packets/status/1378414106777034753",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "This man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761 https://t.co/2tOuCvLqUR",
+    "tweettime": "2021-04-03, 11:52:18",
+    "tweeturl": "https://twitter.com/jedisct1/status/1378314414617677825",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://www.mail-archive.com/announce@apache.org/msg06507.html",
+        "https://mp.weixin.qq.com/s/Dr-jwiRr4NByjErjiX_e1w",
+        "https://t.zsxq.com/zRja2v7"
+    ],
+    "tweetfavorites": 170,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "CVE-2021-30128 Apache OFBiz RCE\nhttps://t.co/NbF4vEFYNK\n\nhttps://t.co/vkKqGSwgq2\n\nhttps://t.co/6hs47T74g6 https://t.co/WLC8u3VCZW",
+    "tweettime": "2021-04-28, 09:11:30",
+    "tweeturl": "https://twitter.com/chybeta/status/1387333641638797316",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 238,
+    "tweetquotes": 7,
+    "tweetreplies": 18,
+    "tweetretweets": 26,
+    "tweettext": "Microsoft combined 6 RCE vulnerabilities into one CVE（CVE-2021-28466 ）, even though bounties for multiple vulnerabilities have been paid.😂 https://t.co/A1Woj1ndWI",
+    "tweettime": "2021-04-28, 04:45:45",
+    "tweeturl": "https://twitter.com/hackyzh/status/1387266765030256645",
+    "username": "hackyzh"
+}
+{
+    "expanded_url": [
+        "https://blog.sonarsource.com/wordpress-xxe-security-vulnerability"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 43,
+    "tweettext": "Vulnerabilidad en #WordPress 5.7 XXE\n- CVE-2021-29447 PHP8\n- Authenticated XML External Entity (XXE) injection\n- Arbitrary File Disclosure: por ejemplo wp-config.php \n- Server-Side Request Forgery (SSRF)\nhttps://t.co/vtm5MfxDtT https://t.co/IosOTKYtYr",
+    "tweettime": "2021-04-27, 20:01:00",
+    "tweeturl": "https://twitter.com/elhackernet/status/1387134706005676034",
+    "username": "elhackernet"
+}
+{
+    "tweetfavorites": 207,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 55,
+    "tweettext": "Still don't know if this is CVE-2021-28482 or CVE-2021-28483\nBut it's posibble to take down Exchange with a low privilege user https://t.co/xXOT6pP08t",
+    "tweettime": "2021-04-23, 06:32:16",
+    "tweeturl": "https://twitter.com/testanull/status/1385481630228258820",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/wdormann/bbf95c5ccebb826a1e21124cfb320106"
+    ],
+    "tweetfavorites": 193,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 59,
+    "tweettext": "I couldn't find many resources on ARM64 Windows shellcode.\nSo I decided to write my own small-batch, artisan, bespoke PoC for CVE-2021-21224.  It seemed like a good candidate because the shellcode section is both clear and also supports inline comments.\nhttps://t.co/c6nGGiD1Cg https://t.co/IcdzoiHJqg",
+    "tweettime": "2021-04-22, 21:13:42",
+    "tweeturl": "https://twitter.com/wdormann/status/1385341064513470466",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://community.openvpn.net/openvpn/changeset/f7b3bf067ffce72e7de49a4174fd17a3a83f0573/?__cf_chl_jschl_tk__=49fc8a303d49253be3b95811195fea4cf1e0a322-1619118638-0-AbanP_ZyaYcdRW49RI4_DIA4spBTfHfJNdPIQv43V_OTUcShKDq32WyIyB1pPtaOSPW3tmjNWzNH4SN0GsupSIeKsI48HEwjyuYHY6mCAGahcnRtMOaZ5Cou720H1ZhRlK6Zji2DiLG2KhSIVUUR-nRlt70Mw6J3tsXj9Y8Rfhqq8UkrOvdoe3zUlyK2_ovy-9XNsqKKLZ_5RtdSrBUwkDDh-PUTN03MPmhEFwSBdwarYWFwaxxtGOQznvkf0nzPx9StI9xrhGh18_VXeqHS7uV115D2f0wfmeAEoxeBHIQSc-uvhUabGoaUa_nUdDNL_22m5WMW3MXBHBJc2sBBtZRlK8R-WCscWC9Ck1qYe8KnpZCBkg-EoeEpEA90Dq3zD_QyzHh5UH-D-f_ASg_jRF1WPeZFxI2hb4uamAcEYKR9QObhpH33vUfW_70nE5VYMhUgOxi4yf6wnJdo4lzs62I"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 21,
+    "tweettext": "OpenVPN CVE-2020-15078 https://t.co/UvRnlA7faP (but please, stop using OpenVPN. Use Wireguard, Glorytun or DSVPN).",
+    "tweettime": "2021-04-22, 19:12:58",
+    "tweeturl": "https://twitter.com/jedisct1/status/1385310681067573253",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://github.com/Henry4E36/Solr-SSRF"
+    ],
+    "tweetfavorites": 171,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 67,
+    "tweettext": "CVE-2021-27905: Apache Solr SSRF\nPoC\nhttps://t.co/TE0cupHAmm https://t.co/Q8PKTYT8xU",
+    "tweettime": "2021-04-22, 07:55:17",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1385140135843536899",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-27059",
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-27085"
+    ],
+    "tweetfavorites": 400,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 200,
+    "tweettext": "Microsoft Office Remote Code Execution Vulnerability(CVE-2021-27059)\nInternet Explorer Remote Code Execution Vulnerability(CVE-2021-27085)\n0day(exploit) in the Wild But no one talk about it😅\nhttps://t.co/AYawN0X30A\nhttps://t.co/G2RYjq9dQ5 https://t.co/uUkGQJ147x",
+    "tweettime": "2021-04-22, 02:45:15",
+    "tweeturl": "https://twitter.com/blackorbird/status/1385062113085825027",
+    "username": "blackorbird"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 216,
+    "tweettext": "RT @a_denkiewicz: Here's a promised write-up of Windows Privilege Elevation bug that I've discovered / CVE-2021-26415\nhttps://t.co/1uQoF9wA…",
+    "tweettime": "2021-04-21, 23:42:23",
+    "tweeturl": "https://twitter.com/jedisct1/status/1385016091945078787",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://www.cloaked.pl/2021/04/cve-2021-26415/"
+    ],
+    "tweetfavorites": 452,
+    "tweetquotes": 5,
+    "tweetreplies": 7,
+    "tweetretweets": 221,
+    "tweettext": "Here's a promised write-up of Windows Privilege Elevation bug that I've discovered / CVE-2021-26415\nhttps://t.co/1uQoF9wAip\n\n#security #EOP #LPE #bugbounty https://t.co/VJzEcXw4tu",
+    "tweettime": "2021-04-21, 19:46:42",
+    "tweeturl": "https://twitter.com/a_denkiewicz/status/1384956782200725504",
+    "username": "a_denkiewicz"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 267,
+    "tweettext": "RT @JohnHultquist: Chinese cyber espionage actors (possibly including APT5) have been using a zero-day vuln (CVE-2021-22893) as well as som…",
+    "tweettime": "2021-04-20, 14:28:23",
+    "tweeturl": "https://twitter.com/cherepanov74/status/1384514284059774976",
+    "username": "cherepanov74"
+}
+{
+    "expanded_url": [
+        "https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html"
+    ],
+    "tweetfavorites": 408,
+    "tweetquotes": 25,
+    "tweetreplies": 6,
+    "tweetretweets": 267,
+    "tweettext": "Chinese cyber espionage actors (possibly including APT5) have been using a zero-day vuln (CVE-2021-22893) as well as some older, known vulns in Pulse Secure VPN to gain access to dozens of government, finance, and defense orgs in the US and Europe. https://t.co/E9gGizuDpK",
+    "tweettime": "2021-04-20, 14:11:32",
+    "tweeturl": "https://twitter.com/JohnHultquist/status/1384510043878576128",
+    "username": "JohnHultquist"
+}
+{
+    "expanded_url": [
+        "https://github.com/tenable/poc/blob/master/Solarwinds/Dameware/dwrcs_dwDrvInst_rce.py"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "if you see an instance of dwDrvInst.exe (unsigned by Solarwinds) running with cmdline like \"smartcard -install\" that could be a sign of successful RCE exploitation of CVE-2019-3980\n\nhttps://t.co/FyZvQ2IYVj https://t.co/8OIarbbqeQ",
+    "tweettime": "2021-04-18, 22:55:51",
+    "tweeturl": "https://twitter.com/SBousseaden/status/1383917216593170442",
+    "username": "SBousseaden"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2021/CVE-2021-1647.html",
+        "https://vx-underground.org/tmp/"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "January 12th, 2021 Google Project Zero released CVE-2021-1647: Windows Defender mpengine remote code execution.\n\nWe were able to get our hands on a sample. You can read about it here: https://t.co/boF2BZX7rZ\n\nYou can download it here: https://t.co/mR3lKuZziK",
+    "tweettime": "2021-04-16, 22:24:09",
+    "tweeturl": "https://twitter.com/vxunderground/status/1383184465199988739",
+    "username": "vxunderground"
+}
+{
+    "expanded_url": [
+        "https://shenaniganslabs.io/2021/04/13/Airstrike.html"
+    ],
+    "tweetfavorites": 601,
+    "tweetquotes": 17,
+    "tweetreplies": 11,
+    "tweetretweets": 318,
+    "tweettext": "Airstrike Attack (CVE-2021-28316) — BitLocker full disk encryption bypass and Privilege Escalation on domain joined Windows workstations.\n\nhttps://t.co/b80FsdYkzG https://t.co/KBes7HGZJK",
+    "tweettime": "2021-04-16, 19:15:49",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1383137068683972609",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11147"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "A critical RCE #vulnerability (CVE-2021-0254) was recently discovered in the \"Junos Network Operating System\" by Juniper Networks residing in the overlayd service.\n\nPatches and vulnerable versions can be found here: https://t.co/GidSzIPGMT https://t.co/aavrHVtVLh",
+    "tweettime": "2021-04-16, 19:12:50",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1383136319044415488",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "Mass scanning activity detected from 185.191.32.158 (🇷🇺) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. #threatintel https://t.co/Hrn5hr6V5H",
+    "tweettime": "2021-04-16, 18:58:10",
+    "tweeturl": "https://twitter.com/bad_packets/status/1383132627306127364",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://krebsonsecurity.com/2020/12/vmware-flaw-a-vector-in-solarwinds-breach/",
+        "https://www.fbi.gov/news/pressrel/press-releases/russian-foreign-intelligence-service-exploiting-five-publicly-known-vulnerabilities-to-compromise-us-and-allied-networks"
+    ],
+    "tweetfavorites": 221,
+    "tweetquotes": 2,
+    "tweetreplies": 7,
+    "tweetretweets": 103,
+    "tweettext": "A joint advisory from the FBI, CISA and NSA seems to confirm my reporting from December that a VMWare flaw (CVE-2020-4006) was used as an attack vector by the Russian SVU attackers involved in SolarWinds https://t.co/dw0fnHKY7a https://t.co/cLazD1CEch https://t.co/iMyrUddM9Q",
+    "tweettime": "2021-04-15, 18:45:58",
+    "tweeturl": "https://twitter.com/briankrebs/status/1382767168421572620",
+    "username": "briankrebs"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 250,
+    "tweettext": "RT @maddiestone: ✨Root Cause Analysis for in-the-wild 0day CVE-2021-1647✨\n\nThe Windows Defender RCE that was exploited in-the-wild and patc…",
+    "tweettime": "2021-04-14, 17:48:31",
+    "tweeturl": "https://twitter.com/AdmVonSchneider/status/1382390325373730822",
+    "username": "AdmVonSchneider"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2021/CVE-2021-1647.html"
+    ],
+    "tweetfavorites": 546,
+    "tweetquotes": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 230,
+    "tweettext": "✨Root Cause Analysis for in-the-wild 0day CVE-2021-1647✨\n\nThe Windows Defender RCE that was exploited in-the-wild and patched in January. \n\nhttps://t.co/jZBO7NQgA2",
+    "tweettime": "2021-04-14, 16:39:07",
+    "tweeturl": "https://twitter.com/maddiestone/status/1382372859780079620",
+    "username": "maddiestone"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 301,
+    "tweettext": "RT @_argp: Remote exploitation of a man-in-the-disk vulnerability in WhatsApp (CVE-2021-24027); epic logical exploitation writeup by huku:…",
+    "tweettime": "2021-04-14, 16:11:48",
+    "tweeturl": "https://twitter.com/jedisct1/status/1382365983264940036",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://census-labs.com/news/2021/04/14/whatsapp-mitd-remote-exploitation-CVE-2021-24027/"
+    ],
+    "tweetfavorites": 669,
+    "tweetquotes": 20,
+    "tweetreplies": 6,
+    "tweetretweets": 301,
+    "tweettext": "Remote exploitation of a man-in-the-disk vulnerability in WhatsApp (CVE-2021-24027); epic logical exploitation writeup by huku: https://t.co/ZAc64X1SUj",
+    "tweettime": "2021-04-14, 08:33:12",
+    "tweeturl": "https://twitter.com/_argp/status/1382250573668442112",
+    "username": "_argp"
+}
+{
+    "expanded_url": [
+        "https://kas.pr/g79y"
+    ],
+    "tweetfavorites": 569,
+    "tweetquotes": 19,
+    "tweetreplies": 3,
+    "tweetretweets": 246,
+    "tweettext": "Zero-day vulnerability in Desktop Window Manager (CVE-2021-28310) used in the wild 👉 https://t.co/58ZFF3hkSm https://t.co/Ay6MWO3gvk",
+    "tweettime": "2021-04-13, 20:38:32",
+    "tweeturl": "https://twitter.com/e_kaspersky/status/1382070720671453186",
+    "username": "e_kaspersky"
+}
+{
+    "tweetfavorites": 98,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 13,
+    "tweettext": "Got assigned 4 CVE-IDs for my findings on ObserveIT. All findings are marked as \"High\" Severity. \n\nIf you run ObserveIT, it is recommended to update.\n\nCVE-2021-27900 (Authorization Bypass)\nCVE-2021-22158 (XXE)\nCVE-2021-27899 (Imp Cert validation)\nCVE-2021-22157 (Multiple XSS)",
+    "tweettime": "2021-04-12, 16:43:02",
+    "tweeturl": "https://twitter.com/aaditya_purani/status/1381649069957767168",
+    "username": "aaditya_purani"
+}
+{
+    "expanded_url": [
+        "https://www.reddit.com/r/netsec/comments/mor7kd/exploiting_windows_rpc_to_bypass_cfg_mitigation/"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "Exploiting Windows RPC to bypass CFG mitigation: analysis of CVE-2021-26411 in-the-wild sample https://t.co/6PP56nhvgs",
+    "tweettime": "2021-04-11, 16:40:27",
+    "tweeturl": "https://twitter.com/Dinosn/status/1381286029341114371",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://iamelli0t.github.io/2021/04/10/RPC-Bypass-CFG.html"
+    ],
+    "tweetfavorites": 502,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 212,
+    "tweettext": "[New Blog] Exploiting Windows RPC to bypass CFG mitigation: analysis of CVE-2021-26411 in-the-wild sample\nhttps://t.co/mmM0B9BzN3 https://t.co/kxR7HWkueb",
+    "tweettime": "2021-04-10, 09:46:07",
+    "tweeturl": "https://twitter.com/iamelli0t/status/1380819370755072001",
+    "username": "iamelli0t"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2021/04/08/1"
+    ],
+    "tweetfavorites": 192,
+    "tweetquotes": 25,
+    "tweetreplies": 1,
+    "tweetretweets": 66,
+    "tweettext": "[CVE-2021-29154] Linux kernel incorrect computation of branch displacements in BPF JIT compiler can be abused to execute arbitrary code in Kernel mode https://t.co/fFqxuRv7f6",
+    "tweettime": "2021-04-09, 17:56:59",
+    "tweeturl": "https://twitter.com/jedisct1/status/1380580516722831360",
+    "username": "jedisct1"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 65,
+    "tweettext": "RT @TheHackersNews: Technical details and a proof of concept have been released for denial of service #vulnerability (CVE-2021-24086) affec…",
+    "tweettime": "2021-04-08, 10:36:31",
+    "tweeturl": "https://twitter.com/jedisct1/status/1380107279773671431",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://pentest.blog/unexpected-journey-7-gravcms-unauthenticated-arbitrary-yaml-write-update-leads-to-code-execution/"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 25,
+    "tweettext": "Hey folks ! Update your GravCMS asap. \n\nUnexpected Journey #7 – GravCMS Unauthenticated Arbitrary YAML Write/Update leads to Remote Code Execution (CVE-2021-21425)\n\nhttps://t.co/C5w2dEGe5t",
+    "tweettime": "2021-04-08, 09:21:14",
+    "tweeturl": "https://twitter.com/mdisec/status/1380088335977353216",
+    "username": "mdisec"
+}
+{
+    "expanded_url": [
+        "https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html"
+    ],
+    "tweetfavorites": 112,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 65,
+    "tweettext": "Technical details and a proof of concept have been released for denial of service #vulnerability (CVE-2021-24086) affecting IPv6 stacks in all supported versions of the Windows operating system.\n\nhttps://t.co/Y17nwlaYRg https://t.co/Nzhk8Uwe47",
+    "tweettime": "2021-04-08, 08:50:06",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1380080499209564160",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 174,
+    "tweettext": "RT @campuscodi: New Cring ransomware deployed via unpatched Fortinet VPNs\n\nCVE-2018-13379 -- the gift that keeps on giving!\n\nhttps://t.co/5…",
+    "tweettime": "2021-04-08, 07:05:59",
+    "tweeturl": "https://twitter.com/jedisct1/status/1380054299380682755",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html"
+    ],
+    "tweetfavorites": 334,
+    "tweetquotes": 12,
+    "tweetreplies": 5,
+    "tweetretweets": 162,
+    "tweettext": "Just published my analysis and PoC for CVE-2021-24086, an IPv6 fragmentation vulnerability on Windows: \n\nhttps://t.co/grUrwJgdZb https://t.co/97pbm2cpI9",
+    "tweettime": "2021-04-07, 16:06:28",
+    "tweeturl": "https://twitter.com/fdfalcon/status/1379827925965549570",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://therecord.media/new-cring-ransomware-deployed-via-unpatched-fortinet-vpns/"
+    ],
+    "tweetfavorites": 295,
+    "tweetquotes": 7,
+    "tweetreplies": 3,
+    "tweetretweets": 174,
+    "tweettext": "New Cring ransomware deployed via unpatched Fortinet VPNs\n\nCVE-2018-13379 -- the gift that keeps on giving!\n\nhttps://t.co/56ervYeOSk https://t.co/Gs3xopiGm9",
+    "tweettime": "2021-04-07, 15:45:42",
+    "tweeturl": "https://twitter.com/campuscodi/status/1379822702316388355",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://github.com/0vercl0k/CVE-2021-24086",
+        "http://doar-e.github.io"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 260,
+    "tweettext": "RT @0vercl0k: I've built a PoC for CVE-2021-24086: https://t.co/YKRacxk73X 🔥\n\nWill blog about the details later on https://t.co/5IU7XSFNIQ…",
+    "tweettime": "2021-04-07, 13:08:48",
+    "tweeturl": "https://twitter.com/jedisct1/status/1379783214877786118",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://github.com/0vercl0k/CVE-2021-24086",
+        "http://doar-e.github.io"
+    ],
+    "tweetfavorites": 607,
+    "tweetquotes": 14,
+    "tweetreplies": 3,
+    "tweetretweets": 260,
+    "tweettext": "I've built a PoC for CVE-2021-24086: https://t.co/YKRacxk73X 🔥\n\nWill blog about the details later on https://t.co/5IU7XSFNIQ 🍻 https://t.co/sbR7rKIr62",
+    "tweettime": "2021-04-07, 12:55:05",
+    "tweeturl": "https://twitter.com/0vercl0k/status/1379779764605620225",
+    "username": "0vercl0k"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2021-050-jellyfin/",
+        "https://t.zsxq.com/uB6qBAI"
+    ],
+    "tweetfavorites": 190,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 63,
+    "tweettext": "CVE-2021-21402  Unauthenticated abritrary file read in Jellyfin\n\nhttps://t.co/KT7uQTNXX4\n\nhttps://t.co/d2KacgYMSD https://t.co/slNaQHwRlc",
+    "tweettime": "2021-04-06, 08:01:06",
+    "tweeturl": "https://twitter.com/chybeta/status/1379343391423561729",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://app.any.run/tasks/0f8a285f-8ff1-47cd-9ccf-c9cb3397daf4"
+    ],
+    "tweetfavorites": 146,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "#PurpleFox Exploit Kit has exploited CVE-2021-26411!?\n(CC: @malware_traffic, @jeromesegura)\nhttps://t.co/UpqQrPuR42 https://t.co/p4ej4O0O9w",
+    "tweettime": "2021-04-04, 03:16:05",
+    "tweeturl": "https://twitter.com/nao_sec/status/1378546891349106692",
+    "username": "nao_sec"
+}
+{
+    "tweetfavorites": 87,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "Mass scanning activity detected from 45.155.205.165 (🇷🇺) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. #threatintel https://t.co/SIgxNEGd88",
+    "tweettime": "2021-04-03, 18:28:27",
+    "tweeturl": "https://twitter.com/bad_packets/status/1378414106777034753",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "This man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761 https://t.co/2tOuCvLqUR",
+    "tweettime": "2021-04-03, 11:52:18",
+    "tweeturl": "https://twitter.com/jedisct1/status/1378314414617677825",
+    "username": "jedisct1"
+}

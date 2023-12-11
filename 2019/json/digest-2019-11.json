@@ -239,3 +239,485 @@
     "tweeturl": "https://twitter.com/scarybeasts/status/1190158374987427840",
     "username": "scarybeasts"
 }
+{
+    "expanded_url": [
+        "https://github.com/TheCyberGeek/CVE-2019-19268",
+        "https://shells.systems/rconfig-v3-9-2-authenticated-and-unauthenticated-rce-cve-2019-16663-and-cve-2019-16662/"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 44,
+    "tweettext": "CVE-2019-19268 rConfig 3.9.2 Local Privilege Escalation:  https://t.co/tkoWcHxsju \n\nCVE-2019-19268  + CVE-2019-16663 / CVE-2019-16662 = Full ROOT ACCESS\n\nabout CVE-2019-16663 / CVE-2019-16662  https://t.co/PA47wNC5HR https://t.co/3OQy1PRzk2",
+    "tweettime": "2019-11-26, 02:20:26",
+    "tweeturl": "https://twitter.com/chybeta/status/1199150892290732033",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://0x00sec.org/t/anti-virus-exploitation-local-privilege-escalation-in-k7-security-cve-2019-16897/17655"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "Anti-virus Exploitation: Local Privilege Escalation in K7 Security (CVE-2019-16897) - Exploit Development - 0x00sec\nhttps://t.co/puhdpwsE1X",
+    "tweettime": "2019-11-25, 16:52:18",
+    "tweeturl": "https://twitter.com/Dinosn/status/1199007917804052480",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.phpmyadmin.net/security/PMASA-2019-5/"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 72,
+    "tweettext": "CVE-2019-18622  SQLI in phpMyAdmin:  A vulnerability was reported where a specially crafted database name can be used to trigger an SQL injection attack through the designer feature.\nhttps://t.co/CDON9zOuY8",
+    "tweettime": "2019-11-24, 08:14:44",
+    "tweeturl": "https://twitter.com/chybeta/status/1198515278746800128",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://lucene.apache.org/solr/news.html",
+        "http://mjet.py",
+        "https://mogwailabs.de/blog/2019/04/attacking-rmi-based-jmx-services/"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "CVE-2019-12409: Apache Solr RCE vulnerability due to bad config default (JMX )  https://t.co/xQCOw10eD0\n\njython https://t.co/vkuiUeaCT2 xxx 18983 command super_secret \"ls -la\"\n\nhttps://t.co/WkAdM31DMz https://t.co/3uYrsOanEQ",
+    "tweettime": "2019-11-19, 03:55:59",
+    "tweeturl": "https://twitter.com/chybeta/status/1196638224422014976",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://m.facebook.com/security/advisories/cve-2019-11931"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "New critical security issue for WhatsApp ⚠️🚨 - a maliciously crafted MP4 file could lead to DoS or RCE. Both Android and iOS versions are affected\n#MobileSecurity  (CVE-2019-11931)\nhttps://t.co/OrEcZYguQW",
+    "tweettime": "2019-11-16, 13:03:59",
+    "tweeturl": "https://twitter.com/mobilesecurity_/status/1195688967913562112",
+    "username": "mobilesecurity_"
+}
+{
+    "expanded_url": [
+        "https://m.facebook.com/security/advisories/cve-2019-11931"
+    ],
+    "tweetfavorites": 155,
+    "tweetquotes": 8,
+    "tweetreplies": 1,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2019-11931\n\nA stack-based buffer overflow could be triggered in WhatsApp by sending a specially crafted MP4 file to a WhatsApp user. The issue was present in parsing the elementary stream metadata of an MP4 file and could result in a DoS or RCE. https://t.co/c6XscizBPH",
+    "tweettime": "2019-11-15, 01:37:01",
+    "tweeturl": "https://twitter.com/andersonc0d3/status/1195153699070451712",
+    "username": "andersonc0d3"
+}
+{
+    "expanded_url": [
+        "https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 55,
+    "tweettext": "More from the @ember_sec blog... #CVE-2019-1378: Exploiting an Access Control Privilege Escalation #Vulnerability in #Windows10 Update Assistant (WUA).\n^^ discovered by @ember_sec's own @bohops.\n\nLink- https://t.co/2sw0M6lgap https://t.co/oSfbGnYWHf",
+    "tweettime": "2019-11-14, 22:17:44",
+    "tweeturl": "https://twitter.com/ember_sec/status/1195103549484494848",
+    "username": "ember_sec"
+}
+{
+    "tweetfavorites": 129,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 68,
+    "tweettext": "Windows privilege escalation exploit for CVE-2019-1322 + CVE-2019-1405 With Sourcecode, binary and howto Video. Tested and works! Expect this to be used in future malware. #Hacking #DFIR",
+    "tweettime": "2019-11-14, 16:07:54",
+    "tweeturl": "https://twitter.com/r3c0nst/status/1195010476486381569",
+    "username": "r3c0nst"
+}
+{
+    "expanded_url": [
+        "https://github.com/apt69/COMahawk",
+        "https://vimeo.com/373051209"
+    ],
+    "tweetfavorites": 265,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 147,
+    "tweettext": "Thanks to @NCCGroupInfosec  for releasing their write up on CVE-2019-1405 and CVE-2019-1322. I  figured it is time for me to learn some COM stuff so I whip up a PoC.\nSource: https://t.co/Ucpa7SykiS . \nVideo: https://t.co/h45WJKhMMO \nThanks to @leoloobeek and @TomahawkApt69",
+    "tweettime": "2019-11-14, 12:42:16",
+    "tweeturl": "https://twitter.com/SpecialHoang/status/1194958728065376258",
+    "username": "SpecialHoang"
+}
+{
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 12,
+    "tweettext": "So tonight Microsoft fixed 3 vulnerabilities I reported in Windows Font processing affecting Kernel in Windows before 10:\nCVE-2019-1419: RCE in Windows 10 and below.\nCVE-2019-1456: RCE in Windows 10 and below.\nCVE-2019-1412: Windows Kernel information disclosure.",
+    "tweettime": "2019-11-12, 21:16:19",
+    "tweeturl": "https://twitter.com/hosselot/status/1194363315344084992",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00241.html"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "Intel discloses remote 'privileges escalation' vulnerability in CSME for non-vPro systems (not having AMT module). That's a precedent breaking well recognized assumptions about remote attacks on CSME (CVE-2019-0169): https://t.co/ADPHCzUpcZ",
+    "tweettime": "2019-11-12, 20:27:41",
+    "tweeturl": "https://twitter.com/_markel___/status/1194351078202101761",
+    "username": "_markel___"
+}
+{
+    "expanded_url": [
+        "https://blog.usejournal.com/cors-to-csrf-attack-c33a595d441",
+        "https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105",
+        "https://medium.com/@navne3t/csv-injection-at-comment-section-d5009ddd176"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "CORS To CSRF Attack\nhttps://t.co/bPmNibNnDG\n\nHow I Hacked the Microsoft Outlook Android App and Found CVE-2019-1105\nhttps://t.co/VbEeFibAlV\n\nCSV injection at Comment Section.\nhttps://t.co/gDEA5u84hd\n\n#bugbounty,#bugbountytips,#cybersecurity,#hacking,#infosec",
+    "tweettime": "2019-11-12, 01:48:08",
+    "tweeturl": "https://twitter.com/Unknownuser1806/status/1194069332851953664",
+    "username": "Unknownuser1806"
+}
+{
+    "expanded_url": [
+        "https://www.microsoft.com/security/blog/2019/11/07/the-new-cve-2019-0708-rdp-exploit-attacks-explained/"
+    ],
+    "tweetfavorites": 719,
+    "tweetquotes": 36,
+    "tweetreplies": 2,
+    "tweetretweets": 445,
+    "tweettext": "While we currently see only coin miners being dropped, we agree w/ the research community that CVE-2019-0708 (BlueKeep) exploitation can be big. Locate and patch exposed RDP services now. Read our latest blog w/ assist from @GossiTheDog &amp; @MalwareTechBlog https://t.co/y1NgN5WVu8",
+    "tweettime": "2019-11-07, 21:07:59",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1192549278507388929",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://www.sudokaikan.com/2019/11/cve-2019-16662-cve-2019-16663.html"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "CVE-2019-16662 &amp; CVE-2019-16663 - Unauthenticated remote code execution vulnerabilities in rConfig (All versions) https://t.co/Pb9GNjsd7j",
+    "tweettime": "2019-11-03, 09:13:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1190919820662861824",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/chrome-0-day-exploit-cve-2019-13720-used-in-operation-wizardopium/94866/"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "cve-2019-13720 chrome 0day exploit and payload details https://t.co/EMhym0Qf09",
+    "tweettime": "2019-11-01, 16:37:02",
+    "tweeturl": "https://twitter.com/k_sec/status/1190306767588036608",
+    "username": "k_sec"
+}
+{
+    "tweetfavorites": 47,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 28,
+    "tweettext": "With the release of Chrome 78.0.3904.87 yesterday, Google has patched 2 high severity use-after-free vulnerabilities in Chrome web browser:\n\n➤ CVE-2019-13720\n➤ CVE-2019-13721",
+    "tweettime": "2019-11-01, 09:41:06",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1190202094084489217",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2019/11/chrome-zero-day-update.html"
+    ],
+    "tweetfavorites": 735,
+    "tweetquotes": 93,
+    "tweetreplies": 21,
+    "tweetretweets": 1022,
+    "tweettext": "🎃 0-Day Alert!\n\n#Google is warning Windows, Mac, #Linux users to update their #Chrome browser (to 78.0.3904.87) immediately due to a security vulnerability (CVE-2019-13720) that attackers are actively exploiting in the wild to hijack computers.\n\nhttps://t.co/tw7Msba4kb\n\n#infosec https://t.co/QJj7ojqEDU",
+    "tweettime": "2019-11-01, 09:38:21",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1190201400279453697",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/halloween-scare-google-discloses-chrome-zero-day-exploited-in-the-wild/"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 46,
+    "tweettext": "On late Halloween evening, Google discloses Chrome zero-day exploited in the wild\n\n&gt; CVE-2019-13720\n&gt; Use-after-free in Chrome's audio component\n&gt; Update to Chrome 78.0.3904.87\n&gt; No details about attacks (cybercrime/APT-related)\n&gt; Discovered by Kaspersky\n\nhttps://t.co/6imlN8TA17 https://t.co/MhKSrs77m4",
+    "tweettime": "2019-11-01, 08:28:36",
+    "tweeturl": "https://twitter.com/campuscodi/status/1190183847859834881",
+    "username": "campuscodi"
+}
+{
+    "tweetfavorites": 241,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 81,
+    "tweettext": "Your other Halloween scare, looks like a Chrome 0-day: \"CVE-2019-13720: Use-after-free in audio. Reported by Anton Ivanov and Alexey Kulaev at Kaspersky Labs on 2019-10-29\n\nGoogle is aware of reports that an exploit for CVE-2019-13720 exists in the wild.\"",
+    "tweettime": "2019-11-01, 06:47:23",
+    "tweeturl": "https://twitter.com/scarybeasts/status/1190158374987427840",
+    "username": "scarybeasts"
+}
+{
+    "expanded_url": [
+        "https://github.com/TheCyberGeek/CVE-2019-19268",
+        "https://shells.systems/rconfig-v3-9-2-authenticated-and-unauthenticated-rce-cve-2019-16663-and-cve-2019-16662/"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 44,
+    "tweettext": "CVE-2019-19268 rConfig 3.9.2 Local Privilege Escalation:  https://t.co/tkoWcHxsju \n\nCVE-2019-19268  + CVE-2019-16663 / CVE-2019-16662 = Full ROOT ACCESS\n\nabout CVE-2019-16663 / CVE-2019-16662  https://t.co/PA47wNC5HR https://t.co/3OQy1PRzk2",
+    "tweettime": "2019-11-26, 02:20:26",
+    "tweeturl": "https://twitter.com/chybeta/status/1199150892290732033",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://0x00sec.org/t/anti-virus-exploitation-local-privilege-escalation-in-k7-security-cve-2019-16897/17655"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "Anti-virus Exploitation: Local Privilege Escalation in K7 Security (CVE-2019-16897) - Exploit Development - 0x00sec\nhttps://t.co/puhdpwsE1X",
+    "tweettime": "2019-11-25, 16:52:18",
+    "tweeturl": "https://twitter.com/Dinosn/status/1199007917804052480",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.phpmyadmin.net/security/PMASA-2019-5/"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 72,
+    "tweettext": "CVE-2019-18622  SQLI in phpMyAdmin:  A vulnerability was reported where a specially crafted database name can be used to trigger an SQL injection attack through the designer feature.\nhttps://t.co/CDON9zOuY8",
+    "tweettime": "2019-11-24, 08:14:44",
+    "tweeturl": "https://twitter.com/chybeta/status/1198515278746800128",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://lucene.apache.org/solr/news.html",
+        "http://mjet.py",
+        "https://mogwailabs.de/blog/2019/04/attacking-rmi-based-jmx-services/"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "CVE-2019-12409: Apache Solr RCE vulnerability due to bad config default (JMX )  https://t.co/xQCOw10eD0\n\njython https://t.co/vkuiUeaCT2 xxx 18983 command super_secret \"ls -la\"\n\nhttps://t.co/WkAdM31DMz https://t.co/3uYrsOanEQ",
+    "tweettime": "2019-11-19, 03:55:59",
+    "tweeturl": "https://twitter.com/chybeta/status/1196638224422014976",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://m.facebook.com/security/advisories/cve-2019-11931"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "New critical security issue for WhatsApp ⚠️🚨 - a maliciously crafted MP4 file could lead to DoS or RCE. Both Android and iOS versions are affected\n#MobileSecurity  (CVE-2019-11931)\nhttps://t.co/OrEcZYguQW",
+    "tweettime": "2019-11-16, 13:03:59",
+    "tweeturl": "https://twitter.com/mobilesecurity_/status/1195688967913562112",
+    "username": "mobilesecurity_"
+}
+{
+    "expanded_url": [
+        "https://m.facebook.com/security/advisories/cve-2019-11931"
+    ],
+    "tweetfavorites": 155,
+    "tweetquotes": 8,
+    "tweetreplies": 1,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2019-11931\n\nA stack-based buffer overflow could be triggered in WhatsApp by sending a specially crafted MP4 file to a WhatsApp user. The issue was present in parsing the elementary stream metadata of an MP4 file and could result in a DoS or RCE. https://t.co/c6XscizBPH",
+    "tweettime": "2019-11-15, 01:37:01",
+    "tweeturl": "https://twitter.com/andersonc0d3/status/1195153699070451712",
+    "username": "andersonc0d3"
+}
+{
+    "expanded_url": [
+        "https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 55,
+    "tweettext": "More from the @ember_sec blog... #CVE-2019-1378: Exploiting an Access Control Privilege Escalation #Vulnerability in #Windows10 Update Assistant (WUA).\n^^ discovered by @ember_sec's own @bohops.\n\nLink- https://t.co/2sw0M6lgap https://t.co/oSfbGnYWHf",
+    "tweettime": "2019-11-14, 22:17:44",
+    "tweeturl": "https://twitter.com/ember_sec/status/1195103549484494848",
+    "username": "ember_sec"
+}
+{
+    "tweetfavorites": 129,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 68,
+    "tweettext": "Windows privilege escalation exploit for CVE-2019-1322 + CVE-2019-1405 With Sourcecode, binary and howto Video. Tested and works! Expect this to be used in future malware. #Hacking #DFIR",
+    "tweettime": "2019-11-14, 16:07:54",
+    "tweeturl": "https://twitter.com/r3c0nst/status/1195010476486381569",
+    "username": "r3c0nst"
+}
+{
+    "expanded_url": [
+        "https://github.com/apt69/COMahawk",
+        "https://vimeo.com/373051209"
+    ],
+    "tweetfavorites": 265,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 147,
+    "tweettext": "Thanks to @NCCGroupInfosec  for releasing their write up on CVE-2019-1405 and CVE-2019-1322. I  figured it is time for me to learn some COM stuff so I whip up a PoC.\nSource: https://t.co/Ucpa7SykiS . \nVideo: https://t.co/h45WJKhMMO \nThanks to @leoloobeek and @TomahawkApt69",
+    "tweettime": "2019-11-14, 12:42:16",
+    "tweeturl": "https://twitter.com/SpecialHoang/status/1194958728065376258",
+    "username": "SpecialHoang"
+}
+{
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 12,
+    "tweettext": "So tonight Microsoft fixed 3 vulnerabilities I reported in Windows Font processing affecting Kernel in Windows before 10:\nCVE-2019-1419: RCE in Windows 10 and below.\nCVE-2019-1456: RCE in Windows 10 and below.\nCVE-2019-1412: Windows Kernel information disclosure.",
+    "tweettime": "2019-11-12, 21:16:19",
+    "tweeturl": "https://twitter.com/hosselot/status/1194363315344084992",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00241.html"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "Intel discloses remote 'privileges escalation' vulnerability in CSME for non-vPro systems (not having AMT module). That's a precedent breaking well recognized assumptions about remote attacks on CSME (CVE-2019-0169): https://t.co/ADPHCzUpcZ",
+    "tweettime": "2019-11-12, 20:27:41",
+    "tweeturl": "https://twitter.com/_markel___/status/1194351078202101761",
+    "username": "_markel___"
+}
+{
+    "expanded_url": [
+        "https://blog.usejournal.com/cors-to-csrf-attack-c33a595d441",
+        "https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105",
+        "https://medium.com/@navne3t/csv-injection-at-comment-section-d5009ddd176"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "CORS To CSRF Attack\nhttps://t.co/bPmNibNnDG\n\nHow I Hacked the Microsoft Outlook Android App and Found CVE-2019-1105\nhttps://t.co/VbEeFibAlV\n\nCSV injection at Comment Section.\nhttps://t.co/gDEA5u84hd\n\n#bugbounty,#bugbountytips,#cybersecurity,#hacking,#infosec",
+    "tweettime": "2019-11-12, 01:48:08",
+    "tweeturl": "https://twitter.com/Unknownuser1806/status/1194069332851953664",
+    "username": "Unknownuser1806"
+}
+{
+    "expanded_url": [
+        "https://www.microsoft.com/security/blog/2019/11/07/the-new-cve-2019-0708-rdp-exploit-attacks-explained/"
+    ],
+    "tweetfavorites": 719,
+    "tweetquotes": 36,
+    "tweetreplies": 2,
+    "tweetretweets": 445,
+    "tweettext": "While we currently see only coin miners being dropped, we agree w/ the research community that CVE-2019-0708 (BlueKeep) exploitation can be big. Locate and patch exposed RDP services now. Read our latest blog w/ assist from @GossiTheDog &amp; @MalwareTechBlog https://t.co/y1NgN5WVu8",
+    "tweettime": "2019-11-07, 21:07:59",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1192549278507388929",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://www.sudokaikan.com/2019/11/cve-2019-16662-cve-2019-16663.html"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "CVE-2019-16662 &amp; CVE-2019-16663 - Unauthenticated remote code execution vulnerabilities in rConfig (All versions) https://t.co/Pb9GNjsd7j",
+    "tweettime": "2019-11-03, 09:13:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1190919820662861824",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/chrome-0-day-exploit-cve-2019-13720-used-in-operation-wizardopium/94866/"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "cve-2019-13720 chrome 0day exploit and payload details https://t.co/EMhym0Qf09",
+    "tweettime": "2019-11-01, 16:37:02",
+    "tweeturl": "https://twitter.com/k_sec/status/1190306767588036608",
+    "username": "k_sec"
+}
+{
+    "tweetfavorites": 47,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 28,
+    "tweettext": "With the release of Chrome 78.0.3904.87 yesterday, Google has patched 2 high severity use-after-free vulnerabilities in Chrome web browser:\n\n➤ CVE-2019-13720\n➤ CVE-2019-13721",
+    "tweettime": "2019-11-01, 09:41:06",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1190202094084489217",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2019/11/chrome-zero-day-update.html"
+    ],
+    "tweetfavorites": 735,
+    "tweetquotes": 93,
+    "tweetreplies": 21,
+    "tweetretweets": 1022,
+    "tweettext": "🎃 0-Day Alert!\n\n#Google is warning Windows, Mac, #Linux users to update their #Chrome browser (to 78.0.3904.87) immediately due to a security vulnerability (CVE-2019-13720) that attackers are actively exploiting in the wild to hijack computers.\n\nhttps://t.co/tw7Msba4kb\n\n#infosec https://t.co/QJj7ojqEDU",
+    "tweettime": "2019-11-01, 09:38:21",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1190201400279453697",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/halloween-scare-google-discloses-chrome-zero-day-exploited-in-the-wild/"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 46,
+    "tweettext": "On late Halloween evening, Google discloses Chrome zero-day exploited in the wild\n\n&gt; CVE-2019-13720\n&gt; Use-after-free in Chrome's audio component\n&gt; Update to Chrome 78.0.3904.87\n&gt; No details about attacks (cybercrime/APT-related)\n&gt; Discovered by Kaspersky\n\nhttps://t.co/6imlN8TA17 https://t.co/MhKSrs77m4",
+    "tweettime": "2019-11-01, 08:28:36",
+    "tweeturl": "https://twitter.com/campuscodi/status/1190183847859834881",
+    "username": "campuscodi"
+}
+{
+    "tweetfavorites": 241,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 81,
+    "tweettext": "Your other Halloween scare, looks like a Chrome 0-day: \"CVE-2019-13720: Use-after-free in audio. Reported by Anton Ivanov and Alexey Kulaev at Kaspersky Labs on 2019-10-29\n\nGoogle is aware of reports that an exploit for CVE-2019-13720 exists in the wild.\"",
+    "tweettime": "2019-11-01, 06:47:23",
+    "tweeturl": "https://twitter.com/scarybeasts/status/1190158374987427840",
+    "username": "scarybeasts"
+}
