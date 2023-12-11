@@ -1,12 +1,25 @@
 {
     "expanded_url": [
+        "https://github.com/kh4sh3i/ProxyShell"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "Proxyshell-Scanner:-\nnuclei scanner for Proxyshell RCE (CVE-2021-34423,CVE-2021-34473,CVE-2021-31207) \n\nhttps://t.co/loZtvHpsic\n\nFind Vulnerable url:-\nnuclei -l urls -c 200 -t proxyshell.yaml\n\nExploit:-\npython3 ProxyShell .py -u url\n\nAnd you will get a shell on the server.",
+    "tweettime": "2023-12-10, 03:44:02",
+    "tweeturl": "https://twitter.com/Alra3ees/status/1733694032637735268",
+    "username": "Alra3ees"
+}
+{
+    "expanded_url": [
         "https://github.blog/author/kevinbackhouse/",
         "https://github.com/github/securitylab/tree/0a8ede65e0ac860d195868b093d3ddcbd00e6997/SecurityExploits/libcue/track_set_index_CVE-2023-43641"
     ],
-    "tweetfavorites": 74,
+    "tweetfavorites": 106,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 23,
+    "tweetreplies": 3,
+    "tweetretweets": 31,
     "tweettext": "How to exploit CVE-2023-43641 (a memory corruption vulnerability in libcue) to create a reliable 1-click RCE on Ubuntu 23.04 and Fedora 38 --&gt; very good one ! thank you @kevin_backhouse \nhttps://t.co/A9em8BD150\n\nCVE-2023-43641 PoC :\nhttps://t.co/Bo24mIysl1",
     "tweettime": "2023-12-09, 13:03:34",
     "tweeturl": "https://twitter.com/kmkz_security/status/1733472456063553543",
@@ -21,7 +34,7 @@
     "tweetfavorites": 43,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 12,
     "tweettext": "#exploit\n1. CVE-2023-1326:\nPrivilege escalation in apport-cli 2.26.0\nhttps://t.co/zoqCjnGCQb\n\n2. CVE-2023-45866:\nUnauthenticated Bluetooth keystroke-injection in Android, Linux, macOS and iOS\nhttps://t.co/tG7vumiWnS\n\n3. CVE-2023-24893:\nVSCode RCE\nhttps://t.co/eMUS68C1yb",
     "tweettime": "2023-12-09, 04:17:05",
     "tweeturl": "https://twitter.com/akaclandestine/status/1733339962735554628",
@@ -128,10 +141,10 @@
     "username": "0xor0ne"
 }
 {
-    "tweetfavorites": 122,
+    "tweetfavorites": 133,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 36,
+    "tweetretweets": 37,
     "tweettext": "My blog post about how to exploit CVE-2023-43641 (1-click RCE in GNOME) is out.",
     "tweettime": "2023-12-06, 18:00:20",
     "tweeturl": "https://twitter.com/kevin_backhouse/status/1732459975014821904",
@@ -222,10 +235,10 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/advisories/ZDI-23-1512/"
     ],
-    "tweetfavorites": 174,
+    "tweetfavorites": 176,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 40,
+    "tweetretweets": 41,
     "tweettext": "Here's a POC for CVE-2023-44414 (A pre-auth RCE): https://t.co/hJ7DDSONRW https://t.co/ADpXdVGZZo",
     "tweettime": "2023-12-04, 23:18:05",
     "tweeturl": "https://twitter.com/steventseeley/status/1731815163613806924",
