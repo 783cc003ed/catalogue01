@@ -26,6 +26,20 @@
 }
 {
     "expanded_url": [
+        "https://github.com/skysafe/reblog/tree/main/cve-2023-45866",
+        "https://infosec.exchange/@raptor/111558327842695800"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2023-45866: Unauthenticated #Bluetooth keystroke-injection in #Android, #Linux, #macOS and #iOS\n\nhttps://t.co/SWEMqsDCkL\n\nhttps://t.co/EUGkFCpUE8",
+    "tweettime": "2023-12-10, 21:50:09",
+    "tweeturl": "https://twitter.com/0xdea/status/1733967361177264292",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
         "https://github.com/kh4sh3i/ProxyShell"
     ],
     "tweetfavorites": 43,
@@ -70,10 +84,10 @@
     "expanded_url": [
         "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
     ],
-    "tweetfavorites": 43,
+    "tweetfavorites": 47,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 19,
     "tweettext": "CVE-2023-45866: Unauthenticated Bluetooth keystroke-injection in Android, Linux, macOS and iOS https://t.co/kZNLWai2Qc",
     "tweettime": "2023-12-08, 19:28:05",
     "tweeturl": "https://twitter.com/_r_netsec/status/1733206836093075815",
@@ -84,10 +98,10 @@
         "https://hunter.how/list?searchValue=product.name%3D%22Apache%20Struts%22",
         "https://securityonline.info/cve-2023-50164-apache-struts-remote-code-execution-vulnerability/"
     ],
-    "tweetfavorites": 51,
+    "tweetfavorites": 52,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetretweets": 15,
     "tweettext": "🚨Alert🚨CVE-2023-50164\nApache Struts Remote Code Execution Vulnerability\n\n🔗Hunter:https://t.co/iVneFHpQMi\n\nDorks 👇👇👇\nFOFA    app=\"Struts2\"\n📰Refer to  https://t.co/z1mKDFRpyX\n#infosec #infosecurity #Infosys https://t.co/rGcvdi3EvV",
     "tweettime": "2023-12-08, 06:23:03",
     "tweeturl": "https://twitter.com/HunterMapping/status/1733009272802554233",
