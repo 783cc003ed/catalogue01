@@ -56,7 +56,7 @@
         "https://github.blog/author/kevinbackhouse/",
         "https://github.com/github/securitylab/tree/0a8ede65e0ac860d195868b093d3ddcbd00e6997/SecurityExploits/libcue/track_set_index_CVE-2023-43641"
     ],
-    "tweetfavorites": 118,
+    "tweetfavorites": 120,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 36,
@@ -79,6 +79,16 @@
     "tweettime": "2023-12-09, 04:17:05",
     "tweeturl": "https://twitter.com/akaclandestine/status/1733339962735554628",
     "username": "akaclandestine"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "RT @TecR0c: Uncovered a EoP flaw with @sickcodes at #Hardpwn in Android Google Chromecast's KeyChain, tagged CVE-2023-48417. This allows an…",
+    "tweettime": "2023-12-08, 21:24:10",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1733236046194749566",
+    "username": "kmkz_security"
 }
 {
     "expanded_url": [
