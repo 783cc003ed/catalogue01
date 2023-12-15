@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html"
     ],
-    "tweetfavorites": 71,
-    "tweetquotes": 4,
-    "tweetreplies": 1,
-    "tweetretweets": 48,
+    "tweetfavorites": 118,
+    "tweetquotes": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 78,
     "tweettext": "⚠️ Warning: Russian SVR-linked APT29 targets unpatched JetBrains TeamCity servers using CVE-2023-42793, a #vulnerability enabling remote code execution by unauthenticated attackers.\n\nDetails 👉 https://t.co/RQLTxE6xzy\n\n#cybersecurity #hacking #infosec",
     "tweettime": "2023-12-14, 10:32:23",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1735246347983262045",
@@ -114,7 +114,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 67,
+    "tweetretweets": 68,
     "tweettext": "RT @steventseeley: I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePY…",
     "tweettime": "2023-12-12, 10:54:58",
     "tweeturl": "https://twitter.com/kmkz_security/status/1734527256494514176",
