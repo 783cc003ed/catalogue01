@@ -13,6 +13,33 @@
 }
 {
     "expanded_url": [
+        "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "CVE-2023-50164: Apache Struts path traversal to RCE vulnerability PoC https://t.co/jnMWat5gTW",
+    "tweettime": "2023-12-14, 08:10:00",
+    "tweeturl": "https://twitter.com/Dinosn/status/1735210517302497354",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://cwiki.apache.org/confluence/display/WW/S2-066",
+        "https://nvd.nist.gov/vuln/detail/CVE-2023-50164"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 21,
+    "tweettext": "We have started to see attempts to use PoC exploit code published for Apache Struts CVE-2023-50164 CVSS 9.8 RCE in our sensors (a few src IPs). Make sure to update your Struts installs ... \n\nApache Security Bulletin: https://t.co/iVAinVdl7M\n\nNVD entry: https://t.co/oHoHGlcyu7",
+    "tweettime": "2023-12-13, 12:52:46",
+    "tweeturl": "https://twitter.com/Shadowserver/status/1734919288257974380",
+    "username": "Shadowserver"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/researcher-to-release-poc-0day-cve-2023-36036-vulnerability/"
     ],
     "tweetfavorites": 41,
@@ -41,7 +68,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 36,
+    "tweetretweets": 35,
     "tweettext": "RT @melihkaanyldz: We continue with Confluence. Another OGNL injection preauth RCE,  CVE-2022-26134 \n\nhttps://t.co/dA0qpl1CWf",
     "tweettime": "2023-12-12, 20:59:17",
     "tweeturl": "https://twitter.com/kmkz_security/status/1734679336731783580",
@@ -87,7 +114,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 65,
+    "tweetretweets": 67,
     "tweettext": "RT @steventseeley: I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePY…",
     "tweettime": "2023-12-12, 10:54:58",
     "tweeturl": "https://twitter.com/kmkz_security/status/1734527256494514176",
@@ -203,10 +230,10 @@
         "https://github.blog/author/kevinbackhouse/",
         "https://github.com/github/securitylab/tree/0a8ede65e0ac860d195868b093d3ddcbd00e6997/SecurityExploits/libcue/track_set_index_CVE-2023-43641"
     ],
-    "tweetfavorites": 123,
+    "tweetfavorites": 125,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 39,
+    "tweetretweets": 40,
     "tweettext": "How to exploit CVE-2023-43641 (a memory corruption vulnerability in libcue) to create a reliable 1-click RCE on Ubuntu 23.04 and Fedora 38 --&gt; very good one ! thank you @kevin_backhouse \nhttps://t.co/A9em8BD150\n\nCVE-2023-43641 PoC :\nhttps://t.co/Bo24mIysl1",
     "tweettime": "2023-12-09, 13:03:34",
     "tweeturl": "https://twitter.com/kmkz_security/status/1733472456063553543",
@@ -338,7 +365,7 @@
     "username": "0xor0ne"
 }
 {
-    "tweetfavorites": 133,
+    "tweetfavorites": 137,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 37,
