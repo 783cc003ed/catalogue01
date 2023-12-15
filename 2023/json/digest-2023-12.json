@@ -1,5 +1,31 @@
 {
     "expanded_url": [
+        "https://github.com/ron-imperva/CVE-2023-22524"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "GitHub - ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept - https://t.co/nAaeIhetaQ",
+    "tweettime": "2023-12-15, 04:42:20",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1735520642152194501",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "CVE-2023-50164 Apache Struts Remote Code Execution Vulnerability POC released. \nCredit to jakabakos\n📰https://t.co/WxeDfeq971",
+    "tweettime": "2023-12-15, 03:15:27",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1735498778545918460",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html"
     ],
     "tweetfavorites": 117,
@@ -15,10 +41,10 @@
     "expanded_url": [
         "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE"
     ],
-    "tweetfavorites": 75,
+    "tweetfavorites": 82,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 28,
+    "tweetretweets": 33,
     "tweettext": "CVE-2023-50164: Apache Struts path traversal to RCE vulnerability PoC https://t.co/jnMWat5gTW",
     "tweettime": "2023-12-14, 08:10:00",
     "tweeturl": "https://twitter.com/Dinosn/status/1735210517302497354",
@@ -99,6 +125,19 @@
     "tweettime": "2023-12-12, 19:30:09",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1734656908131213752",
     "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://www.sonarsource.com/blog/pfsense-vulnerabilities-sonarcloud/"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "Excellent analysis of vulnerable code in pfSense by @Sonar_Research \n\n- Reflected XSS - CVE-2023-42325 leading to RCE if victim is admin\n- Command injection - CVE-2023-42326)\n\nhttps://t.co/OWodF6zGth\n\n#cybersecurity #infosec #appsec #hacking https://t.co/HyS4u6jVGi",
+    "tweettime": "2023-12-12, 15:35:40",
+    "tweeturl": "https://twitter.com/payloadartist/status/1734597895603794126",
+    "username": "payloadartist"
 }
 {
     "expanded_url": [
