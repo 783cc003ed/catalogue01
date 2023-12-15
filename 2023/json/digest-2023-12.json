@@ -76,6 +76,19 @@
 }
 {
     "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2023-36004"
+    ],
+    "tweetfavorites": 266,
+    "tweetquotes": 4,
+    "tweetreplies": 20,
+    "tweetretweets": 36,
+    "tweettext": "Got my first Microsoft CVE 🔥\n\nCVE-2023-36004: Windows DPAPI (Data Protection Application Programming Interface) Spoofing Vulnerability\n\nhttps://t.co/nWuuldqKnp",
+    "tweettime": "2023-12-12, 19:55:09",
+    "tweeturl": "https://twitter.com/AndrewOliveau/status/1734663199511785613",
+    "username": "AndrewOliveau"
+}
+{
+    "expanded_url": [
         "https://morph3.blog/posts/Studying-old-CVEs-Part-2-CVE-2022-26134/"
     ],
     "tweetfavorites": 34,
@@ -104,7 +117,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 67,
+    "tweetretweets": 69,
     "tweettext": "RT @steventseeley: I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePY…",
     "tweettime": "2023-12-12, 10:58:47",
     "tweeturl": "https://twitter.com/testanull/status/1734528218429079937",
@@ -332,10 +345,10 @@
     "expanded_url": [
         "https://blog.securelayer7.net/analysis-of-cve-2023-38831-zero-day-vulnerability-in-winrar/"
     ],
-    "tweetfavorites": 129,
+    "tweetfavorites": 130,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 47,
+    "tweetretweets": 48,
     "tweettext": "\"Analysis of CVE-2023-38831 Zero-Day vulnerability in WinRAR\" \n\n#infosec #pentest #redteam \nhttps://t.co/Utfw8dfQrm https://t.co/H9m3B882X6",
     "tweettime": "2023-12-07, 08:22:01",
     "tweeturl": "https://twitter.com/CyberWarship/status/1732676824511988072",
