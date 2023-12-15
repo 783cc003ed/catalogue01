@@ -2,7 +2,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 91,
+    "tweetretweets": 92,
     "tweettext": "RT @maddiestone: 💥New ITW 0-days discovered by @_clem1 and @benoitsevens . CVE-2023-6345 in Chrome (Skia) and CVE-2023-42916 and CVE-2023-4…",
     "tweettime": "2023-11-30, 23:44:31",
     "tweeturl": "https://twitter.com/AdmVonSchneider/status/1730372264854696359",
@@ -337,7 +337,7 @@
     "expanded_url": [
         "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation"
     ],
-    "tweetfavorites": 76,
+    "tweetfavorites": 77,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 30,
@@ -533,7 +533,7 @@
     "expanded_url": [
         "https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/"
     ],
-    "tweetfavorites": 201,
+    "tweetfavorites": 200,
     "tweetquotes": 3,
     "tweetreplies": 4,
     "tweetretweets": 71,
@@ -686,10 +686,10 @@
         "https://github.com/projectdiscovery/nuclei-templates/pull/8625",
         "https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification"
     ],
-    "tweetfavorites": 157,
+    "tweetfavorites": 159,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 39,
+    "tweetretweets": 40,
     "tweettext": "Scan for latest CVE-2023-47246 (SysAid Server - Remote Code Execution) using nuclei templates\n\nTemplate: https://t.co/fS9ACW7xTt\n\nAdvisory: https://t.co/8AZNjyQF1O\n\n#hackwithautomation #appsec #bugbounty #cybersecurity https://t.co/Klcq5KiUsK",
     "tweettime": "2023-11-14, 14:03:26",
     "tweeturl": "https://twitter.com/pdnuclei/status/1724427823174017141",
@@ -838,7 +838,7 @@
     "expanded_url": [
         "https://zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
     ],
-    "tweetfavorites": 228,
+    "tweetfavorites": 227,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 68,

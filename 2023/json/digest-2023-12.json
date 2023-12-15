@@ -1,5 +1,139 @@
 {
     "expanded_url": [
+        "https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 48,
+    "tweettext": "⚠️ Warning: Russian SVR-linked APT29 targets unpatched JetBrains TeamCity servers using CVE-2023-42793, a #vulnerability enabling remote code execution by unauthenticated attackers.\n\nDetails 👉 https://t.co/RQLTxE6xzy\n\n#cybersecurity #hacking #infosec",
+    "tweettime": "2023-12-14, 10:32:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1735246347983262045",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/researcher-to-release-poc-0day-cve-2023-36036-vulnerability/"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "Researcher to Release PoC for 0-day Windows CVE-2023-36036 Flaw https://t.co/Rxp0H2LSjM  #pentesting #Windows  #cybersecurity #Infosec",
+    "tweettime": "2023-12-13, 08:00:17",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1734845683331383694",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 67,
+    "tweettext": "RT @steventseeley: I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePY…",
+    "tweettime": "2023-12-12, 22:33:31",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1734703050453844138",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://morph3.blog/posts/Studying-old-CVEs-Part-2-CVE-2022-26134/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "RT @melihkaanyldz: We continue with Confluence. Another OGNL injection preauth RCE,  CVE-2022-26134 \n\nhttps://t.co/dA0qpl1CWf",
+    "tweettime": "2023-12-12, 20:59:17",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1734679336731783580",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://morph3.blog/posts/Studying-old-CVEs-Part-2-CVE-2022-26134/"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "Studying old CVEs: Part 2 - CVE-2022-26134 https://t.co/PzNN8Pgx8y   #Pentesting #CVE #cybersecurity #infosec https://t.co/cAO1OT9vAK",
+    "tweettime": "2023-12-12, 19:30:09",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1734656908131213752",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/wy876/POC/blob/8ceccb96e4ba5bbcc4227d6769bc713f08c46a3f/Apache%20Struts2%20CVE-2023-50164.md"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 30,
+    "tweettext": "CVE-2023-50164 Vulnerability details\nThe conditions of utilization are limited\nhttps://t.co/F1B2yG2JR9",
+    "tweettime": "2023-12-12, 12:59:46",
+    "tweeturl": "https://twitter.com/momika233/status/1734558663430607089",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 67,
+    "tweettext": "RT @steventseeley: I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePY…",
+    "tweettime": "2023-12-12, 10:58:47",
+    "tweeturl": "https://twitter.com/testanull/status/1734528218429079937",
+    "username": "testanull"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 65,
+    "tweettext": "RT @steventseeley: I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePY…",
+    "tweettime": "2023-12-12, 10:54:58",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1734527256494514176",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/rvizx/CVE-2023-30547"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2023-30547\n\nPoC Exploit for VM2 Sandbox Escape Vulnerability\n\nhttps://t.co/TD63bRhWX5\n\n#cve #cybersecurity #infosec https://t.co/FqTvk4MUUR",
+    "tweettime": "2023-12-12, 08:54:12",
+    "tweeturl": "https://twitter.com/PentestingN/status/1734496865683460489",
+    "username": "PentestingN"
+}
+{
+    "expanded_url": [
+        "http://xz.aliyun.com/t/13172"
+    ],
+    "tweetfavorites": 254,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 65,
+    "tweettext": "I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePYUKDf well done! 👏🏻",
+    "tweettime": "2023-12-12, 08:17:14",
+    "tweeturl": "https://twitter.com/steventseeley/status/1734487560473477153",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/12/new-critical-rce-vulnerability.html"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 81,
+    "tweettext": "⚠️ Urgent Update: Apache warns of a critical RCE flaw in Struts 2 web app framework (CVE-2023-50164) that could lead to remote code execution.\n\nFind details here: https://t.co/U8OGZ9CW2h\n\nUpgrade to patched versions now to prevent potential breaches.",
+    "tweettime": "2023-12-12, 05:28:25",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1734445077676597563",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/cve-2023-50428-bitcoin-core-client-vulnerability/"
     ],
     "tweetfavorites": 42,
@@ -26,13 +160,26 @@
 }
 {
     "expanded_url": [
+        "https://securityonline.info/poc-exploit-for-windows-ntlm-privilege-escalation-flaw-cve-2023-21746-published/?expand_article=1"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 63,
+    "tweettext": "RT @7h3h4ckv157: PoC Exploit for Windows NTLM Privilege Escalation Flaw - 🚨CVE-2023-21746 ‼️ \n\nhttps://t.co/bkFUKMfw0o\n\n#cybersecurity #Pen…",
+    "tweettime": "2023-12-11, 07:26:43",
+    "tweeturl": "https://twitter.com/momika233/status/1734112461933207689",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
         "https://github.com/skysafe/reblog/tree/main/cve-2023-45866",
         "https://infosec.exchange/@raptor/111558327842695800"
     ],
-    "tweetfavorites": 45,
+    "tweetfavorites": 48,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 13,
     "tweettext": "CVE-2023-45866: Unauthenticated #Bluetooth keystroke-injection in #Android, #Linux, #macOS and #iOS\n\nhttps://t.co/SWEMqsDCkL\n\nhttps://t.co/EUGkFCpUE8",
     "tweettime": "2023-12-10, 21:50:09",
     "tweeturl": "https://twitter.com/0xdea/status/1733967361177264292",
@@ -42,10 +189,10 @@
     "expanded_url": [
         "https://github.com/kh4sh3i/ProxyShell"
     ],
-    "tweetfavorites": 43,
+    "tweetfavorites": 55,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 8,
+    "tweetretweets": 10,
     "tweettext": "Proxyshell-Scanner:-\nnuclei scanner for Proxyshell RCE (CVE-2021-34423,CVE-2021-34473,CVE-2021-31207) \n\nhttps://t.co/loZtvHpsic\n\nFind Vulnerable url:-\nnuclei -l urls -c 200 -t proxyshell.yaml\n\nExploit:-\npython3 ProxyShell .py -u url\n\nAnd you will get a shell on the server.",
     "tweettime": "2023-12-10, 03:44:02",
     "tweeturl": "https://twitter.com/Alra3ees/status/1733694032637735268",
@@ -56,10 +203,10 @@
         "https://github.blog/author/kevinbackhouse/",
         "https://github.com/github/securitylab/tree/0a8ede65e0ac860d195868b093d3ddcbd00e6997/SecurityExploits/libcue/track_set_index_CVE-2023-43641"
     ],
-    "tweetfavorites": 120,
+    "tweetfavorites": 123,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 36,
+    "tweetretweets": 39,
     "tweettext": "How to exploit CVE-2023-43641 (a memory corruption vulnerability in libcue) to create a reliable 1-click RCE on Ubuntu 23.04 and Fedora 38 --&gt; very good one ! thank you @kevin_backhouse \nhttps://t.co/A9em8BD150\n\nCVE-2023-43641 PoC :\nhttps://t.co/Bo24mIysl1",
     "tweettime": "2023-12-09, 13:03:34",
     "tweeturl": "https://twitter.com/kmkz_security/status/1733472456063553543",
@@ -71,7 +218,7 @@
         "https://ift.tt/BHxK2mO",
         "https://blog.solidsnail.com/posts/vscode-shell-integ-rce"
     ],
-    "tweetfavorites": 43,
+    "tweetfavorites": 42,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 12,
@@ -108,10 +255,10 @@
         "https://hunter.how/list?searchValue=product.name%3D%22Apache%20Struts%22",
         "https://securityonline.info/cve-2023-50164-apache-struts-remote-code-execution-vulnerability/"
     ],
-    "tweetfavorites": 52,
+    "tweetfavorites": 53,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 15,
+    "tweetretweets": 16,
     "tweettext": "🚨Alert🚨CVE-2023-50164\nApache Struts Remote Code Execution Vulnerability\n\n🔗Hunter:https://t.co/iVneFHpQMi\n\nDorks 👇👇👇\nFOFA    app=\"Struts2\"\n📰Refer to  https://t.co/z1mKDFRpyX\n#infosec #infosecurity #Infosys https://t.co/rGcvdi3EvV",
     "tweettime": "2023-12-08, 06:23:03",
     "tweeturl": "https://twitter.com/HunterMapping/status/1733009272802554233",
@@ -122,20 +269,20 @@
         "https://github.com/apache/struts/commit/162e29fee9136f4bfd9b2376da2cbf590f9ea163",
         "https://github.com/apache/struts/commit/d8c69691ef1d15e76a5f4fcf33039316da2340b6"
     ],
-    "tweetfavorites": 165,
-    "tweetquotes": 1,
+    "tweetfavorites": 174,
+    "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 38,
+    "tweetretweets": 40,
     "tweettext": "CVE-2023-50164\nApache Struts vulnerable to path traversal\n#apache #struts2\nhttps://t.co/aTa7TGgkpu\nhttps://t.co/ECLblQ2cFV",
     "tweettime": "2023-12-08, 05:54:08",
     "tweeturl": "https://twitter.com/momika233/status/1733001995966095650",
     "username": "momika233"
 }
 {
-    "tweetfavorites": 72,
+    "tweetfavorites": 80,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 29,
+    "tweetretweets": 33,
     "tweettext": "🚨🍯 CVE-2023-1389: Unauthenticated Command Injection on TP-Link Archer AX21 leads to #MooBot (Mirai DDoS variant).\n\nAttacker: 172.104.228.72 🇩🇪\nPath: POST /cgi-bin/luci/;stok=/locale?form=country\nPayload: hxxp://91.92.249.96/condi/bot.x86_64\nC2: 91.92.249.96\n\n[+]… https://t.co/wUlS1R8OVs",
     "tweettime": "2023-12-07, 14:59:58",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1732776974483910966",
@@ -285,7 +432,7 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/advisories/ZDI-23-1512/"
     ],
-    "tweetfavorites": 176,
+    "tweetfavorites": 177,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 41,
@@ -338,7 +485,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 91,
+    "tweetretweets": 92,
     "tweettext": "RT @maddiestone: 💥New ITW 0-days discovered by @_clem1 and @benoitsevens . CVE-2023-6345 in Chrome (Skia) and CVE-2023-42916 and CVE-2023-4…",
     "tweettime": "2023-12-02, 08:50:42",
     "tweeturl": "https://twitter.com/0vercl0k/status/1730872103803519360",

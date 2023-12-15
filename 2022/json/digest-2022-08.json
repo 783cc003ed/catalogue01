@@ -342,7 +342,7 @@
     "expanded_url": [
         "https://labs.nettitude.com/blog/cve-2022-30211-windows-l2tp-vpn-memory-leak-and-use-after-free-vulnerability/"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 49,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 15,
@@ -355,10 +355,10 @@
     "expanded_url": [
         "https://access.redhat.com/security/cve/CVE-2022-2414"
     ],
-    "tweetfavorites": 142,
+    "tweetfavorites": 146,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 51,
+    "tweetretweets": 53,
     "tweettext": "🐳 Red Hat fixed an Unauth XXE (CVE-2022-2414) in FreeIPA found by our researcher @elk0kc.\n\nIn some cases, it allows attackers to read the Directory Manager password from the config of FreeIPA and take full control of the infrastructure.\n\nAdvisory: https://t.co/kDh7uEdO9j https://t.co/Y1L13kq8HO",
     "tweettime": "2022-08-17, 13:20:58",
     "tweeturl": "https://twitter.com/ptswarm/status/1559893047327997954",
@@ -745,7 +745,7 @@
     "expanded_url": [
         "https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free"
     ],
-    "tweetfavorites": 111,
+    "tweetfavorites": 110,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 35,

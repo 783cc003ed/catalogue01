@@ -68,7 +68,7 @@
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/",
         "https://my.f5.com/manage/s/article/K000137353"
     ],
-    "tweetfavorites": 526,
+    "tweetfavorites": 528,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 174,
@@ -101,7 +101,7 @@
     "expanded_url": [
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/"
     ],
-    "tweetfavorites": 182,
+    "tweetfavorites": 183,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 78,
@@ -210,7 +210,7 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
     ],
-    "tweetfavorites": 250,
+    "tweetfavorites": 249,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 66,
@@ -344,7 +344,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 35,
+    "tweetretweets": 36,
     "tweettext": "RT @thezdi: CVE-2023-38600: @hosselot tells the story of an innocent #Apple #Safari copyWithin gone (way) outside. Read all of the details…",
     "tweettime": "2023-10-18, 17:00:10",
     "tweeturl": "https://twitter.com/hosselot/status/1714687829065035845",
@@ -382,7 +382,7 @@
         "https://blog.talosintelligence.com/active-exploitation-of-cisco-ios-xe-software/",
         "https://vulncheck.com/blog/cisco-implants"
     ],
-    "tweetfavorites": 119,
+    "tweetfavorites": 120,
     "tweetquotes": 1,
     "tweetreplies": 5,
     "tweetretweets": 41,
@@ -516,10 +516,10 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 633,
+    "tweetfavorites": 632,
     "tweetquotes": 6,
     "tweetreplies": 8,
-    "tweetretweets": 175,
+    "tweetretweets": 174,
     "tweettext": "⚠️ We have reproduced CVE-2023-22515 in Atlassian Confluence.\n\nBroken access control allows unauthenticated users to gain administrative access to the web application! \n\nUpdate your software ASAP! https://t.co/MlE4ygyf3E",
     "tweettime": "2023-10-10, 11:05:51",
     "tweeturl": "https://twitter.com/ptswarm/status/1711699559359865200",
@@ -529,10 +529,10 @@
     "expanded_url": [
         "https://shorturl.at/qQVX4"
     ],
-    "tweetfavorites": 610,
+    "tweetfavorites": 617,
     "tweetquotes": 10,
     "tweetreplies": 13,
-    "tweetretweets": 247,
+    "tweetretweets": 248,
     "tweettext": "🚨 Hundreds of Citrix VPN instances exploited via CVE-2023-3519 are harvesting corporate credentials in cleartext.\n\nAt this time, Shodan shows 406 compromised instances with malicious JavaScript code injected into the login page: https://t.co/AiG1RAOTAP (URL shortener because… https://t.co/EjfpsleMPe",
     "tweettime": "2023-10-10, 10:15:19",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1711686844490936568",
