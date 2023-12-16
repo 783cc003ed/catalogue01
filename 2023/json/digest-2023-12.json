@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=1479274"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 20,
+    "tweettext": "Chrome ITW WebP vulnerability bug entry (CVE-2023-4863 [1479274]) is now open with a PoC:\nhttps://t.co/mo7LoHXATJ",
+    "tweettime": "2023-12-15, 19:26:02",
+    "tweeturl": "https://twitter.com/hosselot/status/1735743032828334291",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
         "https://github.com/ron-imperva/CVE-2023-22524"
     ],
     "tweetfavorites": 0,
@@ -28,10 +41,10 @@
     "expanded_url": [
         "https://github.com/ron-imperva/CVE-2023-22524"
     ],
-    "tweetfavorites": 71,
+    "tweetfavorites": 92,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 29,
+    "tweetretweets": 38,
     "tweettext": "GitHub - ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept - https://t.co/nAaeIhetaQ",
     "tweettime": "2023-12-15, 04:42:20",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1735520642152194501",

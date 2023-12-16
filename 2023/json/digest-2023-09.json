@@ -88,7 +88,7 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 57,
+    "tweetfavorites": 58,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 6,
@@ -189,7 +189,7 @@
     "expanded_url": [
         "https://blog.isosceles.com/the-webp-0day/"
     ],
-    "tweetfavorites": 854,
+    "tweetfavorites": 855,
     "tweetquotes": 31,
     "tweetreplies": 16,
     "tweetretweets": 345,
@@ -274,10 +274,10 @@
     "expanded_url": [
         "https://chromium.googlesource.com/webm/libwebp.git/+/2af26267cdfcb63a88e5c74a85927a12d6ca1d76"
     ],
-    "tweetfavorites": 99,
-    "tweetquotes": 0,
+    "tweetfavorites": 102,
+    "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 23,
+    "tweetretweets": 24,
     "tweettext": "The new In-The-Wild Google Chrome Heap buffer overflow in WebP (CVE-2023-4863) is due to an out-of-bounds write vulnerability within the \"BuildHuffmanTable\" function:\nhttps://t.co/74LEkbLeCO",
     "tweettime": "2023-09-11, 21:48:02",
     "tweeturl": "https://twitter.com/hosselot/status/1701351922953748881",
