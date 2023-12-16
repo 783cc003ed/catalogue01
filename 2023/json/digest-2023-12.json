@@ -2,6 +2,19 @@
     "expanded_url": [
         "https://github.com/ron-imperva/CVE-2023-22524"
     ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @piedpiper1616: GitHub - ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept - https://t.co/nAaeIhetaQ",
+    "tweettime": "2023-12-15, 06:43:28",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1735551129025458522",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/ron-imperva/CVE-2023-22524"
+    ],
     "tweetfavorites": 71,
     "tweetquotes": 0,
     "tweetreplies": 1,
@@ -166,7 +179,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 68,
+    "tweetretweets": 69,
     "tweettext": "RT @steventseeley: I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePY…",
     "tweettime": "2023-12-12, 10:54:58",
     "tweeturl": "https://twitter.com/kmkz_security/status/1734527256494514176",
