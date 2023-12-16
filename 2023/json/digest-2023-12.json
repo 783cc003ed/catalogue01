@@ -81,10 +81,10 @@
         "https://cwiki.apache.org/confluence/display/WW/S2-066",
         "https://nvd.nist.gov/vuln/detail/CVE-2023-50164"
     ],
-    "tweetfavorites": 32,
-    "tweetquotes": 4,
+    "tweetfavorites": 34,
+    "tweetquotes": 6,
     "tweetreplies": 2,
-    "tweetretweets": 21,
+    "tweetretweets": 22,
     "tweettext": "We have started to see attempts to use PoC exploit code published for Apache Struts CVE-2023-50164 CVSS 9.8 RCE in our sensors (a few src IPs). Make sure to update your Struts installs ... \n\nApache Security Bulletin: https://t.co/iVAinVdl7M\n\nNVD entry: https://t.co/oHoHGlcyu7",
     "tweettime": "2023-12-13, 12:52:46",
     "tweeturl": "https://twitter.com/Shadowserver/status/1734919288257974380",
