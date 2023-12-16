@@ -5,7 +5,7 @@
     "tweetfavorites": 610,
     "tweetquotes": 11,
     "tweetreplies": 16,
-    "tweetretweets": 462,
+    "tweetretweets": 461,
     "tweettext": "Found another off-by-one remote code execution vulnerability (CVE-2018-6789) in Exim mail server! It was challenging but interesting and we finally achieve RCE and bypass mitigations (ASLR, NX …) successfully. Details here:\nhttps://t.co/41B0sprlyV",
     "tweettime": "2018-03-06, 15:47:50",
     "tweeturl": "https://twitter.com/mehqq_/status/971049724705882114",
