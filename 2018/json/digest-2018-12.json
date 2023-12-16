@@ -37,7 +37,7 @@
     ],
     "tweetfavorites": 149,
     "tweetquotes": 2,
-    "tweetreplies": 2,
+    "tweetreplies": 1,
     "tweetretweets": 82,
     "tweettext": "Laravel Remote Code Execution when APP_KEY is leaked PoC (CVE-2018-15133)\n\nhttps://t.co/T4q3zS1KJx",
     "tweettime": "2018-12-11, 14:08:24",

@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://github.com/ron-imperva/CVE-2023-22524"
     ],
-    "tweetfavorites": 59,
+    "tweetfavorites": 71,
     "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 26,
+    "tweetreplies": 1,
+    "tweetretweets": 29,
     "tweettext": "GitHub - ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept - https://t.co/nAaeIhetaQ",
     "tweettime": "2023-12-15, 04:42:20",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1735520642152194501",
@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html"
     ],
-    "tweetfavorites": 117,
+    "tweetfavorites": 119,
     "tweetquotes": 6,
     "tweetreplies": 5,
-    "tweetretweets": 79,
+    "tweetretweets": 82,
     "tweettext": "⚠️ Warning: Russian SVR-linked APT29 targets unpatched JetBrains TeamCity servers using CVE-2023-42793, a #vulnerability enabling remote code execution by unauthenticated attackers.\n\nDetails 👉 https://t.co/RQLTxE6xzy\n\n#cybersecurity #hacking #infosec",
     "tweettime": "2023-12-14, 10:32:23",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1735246347983262045",
@@ -81,7 +81,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 68,
+    "tweetretweets": 69,
     "tweettext": "RT @steventseeley: I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePY…",
     "tweettime": "2023-12-12, 22:33:31",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1734703050453844138",
