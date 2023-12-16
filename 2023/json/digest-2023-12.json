@@ -5,6 +5,19 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "RT @piedpiper1616: GitHub - ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept - https://t.co/nAaeIhetaQ",
+    "tweettime": "2023-12-15, 09:13:45",
+    "tweeturl": "https://twitter.com/momika233/status/1735588947760398729",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/ron-imperva/CVE-2023-22524"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 35,
     "tweettext": "RT @piedpiper1616: GitHub - ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept - https://t.co/nAaeIhetaQ",
     "tweettime": "2023-12-15, 06:43:28",
@@ -202,7 +215,7 @@
     "expanded_url": [
         "http://xz.aliyun.com/t/13172"
     ],
-    "tweetfavorites": 267,
+    "tweetfavorites": 269,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 69,
