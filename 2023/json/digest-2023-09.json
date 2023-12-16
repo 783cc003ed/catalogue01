@@ -104,7 +104,7 @@
     "tweetfavorites": 270,
     "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 104,
+    "tweetretweets": 105,
     "tweettext": "My friend @Chocapikk_ was able to replicate #CVE-2023-29357. It's an #authentication #bypass in @Microsoft #SharePoint API.\n\nThe #PoC can be found here:\nhttps://t.co/hZlJauYFET\n\nThis can be extended to #RCE! Please #patch now!",
     "tweettime": "2023-09-26, 20:14:33",
     "tweeturl": "https://twitter.com/Gi7w0rm/status/1706764212704591953",
