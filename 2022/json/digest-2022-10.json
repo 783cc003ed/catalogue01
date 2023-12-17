@@ -118,7 +118,7 @@
     "tweetfavorites": 37,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 18,
+    "tweetretweets": 17,
     "tweettext": "⚠️ CVE-2022-40684 event detected ⚠️\n\nSource IP:\n91.211.16.202 (🇷🇺)\n\nTarget:\nMultiple Fortinet products (FortiOS, FortiProxy, and FortiSwitchManager) vulnerable to authentication bypass (https://t.co/7a0u0A87xM).\n#threatintel",
     "tweettime": "2022-10-26, 19:50:01",
     "tweeturl": "https://twitter.com/bad_packets/status/1585358104979439624",

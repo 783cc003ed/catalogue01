@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 41,
+    "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955) https://t.co/RbbX7CQkyA",
+    "tweettime": "2023-12-16, 19:23:16",
+    "tweeturl": "https://twitter.com/Dinosn/status/1736104726855389628",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://github.com/ron-imperva/CVE-2023-22524"
     ],
     "tweetfavorites": 66,
@@ -15,10 +28,10 @@
     "expanded_url": [
         "https://gist.github.com/testanull/dac6029d306147e6cc8dce9424d09868"
     ],
-    "tweetfavorites": 35,
+    "tweetfavorites": 56,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 9,
+    "tweetretweets": 19,
     "tweettext": "SharePoint \n\nPre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955 PoC\n\nhttps://t.co/7fTwwsltUr\n\n#cve #cybersecurity #infosec https://t.co/2GlF50UCy0",
     "tweettime": "2023-12-16, 09:44:00",
     "tweeturl": "https://twitter.com/hack_git/status/1735958947126013986",
@@ -28,10 +41,10 @@
     "expanded_url": [
         "https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 80,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 10,
+    "tweetretweets": 22,
     "tweettext": "CVE-2023-49070\n\nThis is a pre-auth RCE POC For CVE-2023-49070 which affected Apache ofbiz applications &lt; 18.12.10 due to xml-rpc java deserialzation bug.\n\nhttps://t.co/PsLh5zWzJ6\n\n#cve #cybersecurity #infosec https://t.co/TZl24ryu8Q",
     "tweettime": "2023-12-16, 08:33:46",
     "tweeturl": "https://twitter.com/hack_git/status/1735941274593550383",
@@ -41,10 +54,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 333,
+    "tweetfavorites": 347,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 104,
+    "tweetretweets": 106,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauthenticated remote code execution\nhttps://t.co/uRjXzpnW54 https://t.co/UtMv4LZBLt",
     "tweettime": "2023-12-16, 07:49:06",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1735930032152023288",
@@ -67,10 +80,10 @@
     "expanded_url": [
         "https://github.com/Chocapikk/CVE-2023-6553"
     ],
-    "tweetfavorites": 46,
+    "tweetfavorites": 51,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 14,
     "tweettext": "PoC CVE-2023-6553 RCE Unauth Backup Migration plugin &lt; 1.3.7, via /includes/backup-heart.php.  According to official Wordpress statistics, 50k sites running WordPress still use the vulnerable version. \n\n https://t.co/5jwcQb6BI6 \n\n#bugbounty #bugbountytip #bugbountytips #hacking",
     "tweettime": "2023-12-15, 15:06:06",
     "tweeturl": "https://twitter.com/adrielsec/status/1735677621214580906",
@@ -119,10 +132,10 @@
     "expanded_url": [
         "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE"
     ],
-    "tweetfavorites": 57,
+    "tweetfavorites": 59,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 18,
+    "tweetretweets": 19,
     "tweettext": "CVE-2023-50164 Apache Struts Remote Code Execution Vulnerability POC released. \nCredit to jakabakos\n📰https://t.co/WxeDfeq971",
     "tweettime": "2023-12-15, 03:15:27",
     "tweeturl": "https://twitter.com/HunterMapping/status/1735498778545918460",
@@ -161,8 +174,8 @@
     ],
     "tweetfavorites": 34,
     "tweetquotes": 6,
-    "tweetreplies": 2,
-    "tweetretweets": 22,
+    "tweetreplies": 3,
+    "tweetretweets": 23,
     "tweettext": "We have started to see attempts to use PoC exploit code published for Apache Struts CVE-2023-50164 CVSS 9.8 RCE in our sensors (a few src IPs). Make sure to update your Struts installs ... \n\nApache Security Bulletin: https://t.co/iVAinVdl7M\n\nNVD entry: https://t.co/oHoHGlcyu7",
     "tweettime": "2023-12-13, 12:52:46",
     "tweeturl": "https://twitter.com/Shadowserver/status/1734919288257974380",
