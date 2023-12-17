@@ -35,6 +35,33 @@
     "username": "momika233"
 }
 {
+    "expanded_url": [
+        "https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/",
+        "https://blog.assetnote.io/2023/07/22/advisory-metabase-rce/"
+    ],
+    "tweetfavorites": 104,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 36,
+    "tweettext": "Our security research team were the original reporters of the Metabase Pre-Auth RCE vulnerability (CVE-2023-38646). \n\nYou can read our blog post here: \nhttps://t.co/G9icsBuCYB\n\nAnd our advisory here: https://t.co/MXqJ254S6w https://t.co/p4zgvPukdO",
+    "tweettime": "2023-07-28, 00:33:50",
+    "tweeturl": "https://twitter.com/assetnote/status/1684723806370504704",
+    "username": "assetnote"
+}
+{
+    "expanded_url": [
+        "https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/"
+    ],
+    "tweetfavorites": 399,
+    "tweetquotes": 6,
+    "tweetreplies": 9,
+    "tweetretweets": 114,
+    "tweettext": "The security research team at @assetnote found and reported a critical pre-auth RCE vulnerability to Metabase earlier this month CVE-2023-38646:\n\nhttps://t.co/ivf1PwweNj\n\nThis one was an incredibly fun discovery as there are many roads to RCE through JDBC. We've published details… https://t.co/05OIVQKE84",
+    "tweettime": "2023-07-28, 00:32:28",
+    "tweeturl": "https://twitter.com/infosec_au/status/1684723462919933952",
+    "username": "infosec_au"
+}
+{
     "tweetfavorites": 352,
     "tweetquotes": 3,
     "tweetreplies": 7,
@@ -215,6 +242,29 @@
     "tweettime": "2023-07-11, 18:02:56",
     "tweeturl": "https://twitter.com/Gi7w0rm/status/1678827226781872162",
     "username": "Gi7w0rm"
+}
+{
+    "expanded_url": [
+        "https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/"
+    ],
+    "tweetfavorites": 811,
+    "tweetquotes": 7,
+    "tweetreplies": 12,
+    "tweetretweets": 294,
+    "tweettext": "The security research team at @assetnote discovered a pre-authentication RCE vulnerability through a cryptographic flaw in Citrix ShareFile. It's been assigned CVE-2023-24489. You can read the technical blog post here: https://t.co/02EcdlJKNi https://t.co/XCg7S8OrJl",
+    "tweettime": "2023-07-11, 01:35:42",
+    "tweeturl": "https://twitter.com/infosec_au/status/1678578779571236865",
+    "username": "infosec_au"
+}
+{
+    "tweetfavorites": 150,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 36,
+    "tweettext": "Given the recent high profile breaches of file transfer software, our security research team focused on Citrix ShareFile and discovered a critical pre-authentication RCE vulnerability. This has been assigned CVE-2023-24489. \n\nOur blog post can be found here:… https://t.co/v5UGyxWZww",
+    "tweettime": "2023-07-11, 01:34:45",
+    "tweeturl": "https://twitter.com/assetnote/status/1678578541439627266",
+    "username": "assetnote"
 }
 {
     "tweetfavorites": 114,

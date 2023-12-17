@@ -12,6 +12,16 @@
     "username": "win3zz"
 }
 {
+    "tweetfavorites": 109,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 14,
+    "tweettext": "After two days, I finally reproduced the CVE-2023-39476 Inductive Automation Ignition JavaSerializationCodec Deserialization RCE vulnerability submitted to ZDI by @steventseeley https://t.co/gEeWYoGaW1",
+    "tweettime": "2023-08-29, 09:08:07",
+    "tweeturl": "https://twitter.com/Y4er_ChaBug/status/1696449641976643811",
+    "username": "Y4er_ChaBug"
+}
+{
     "expanded_url": [
         "https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc"
     ],

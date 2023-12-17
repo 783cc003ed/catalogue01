@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/ron-imperva/CVE-2023-22524"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2023-22524\n\nRCE Vulnerability in Atlassian Companion for #macOS\n\nhttps://t.co/QgsITCOQoZ\n\n#cve #cybersecurity #infosec https://t.co/4gIbt4vPDH",
+    "tweettime": "2023-12-16, 10:54:00",
+    "tweeturl": "https://twitter.com/hack_git/status/1735976563152388498",
+    "username": "hack_git"
+}
+{
+    "expanded_url": [
         "https://gist.github.com/testanull/dac6029d306147e6cc8dce9424d09868"
     ],
     "tweetfavorites": 35,
@@ -132,7 +145,7 @@
     "expanded_url": [
         "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE"
     ],
-    "tweetfavorites": 83,
+    "tweetfavorites": 84,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 36,

@@ -584,3 +584,17 @@
     "tweeturl": "https://twitter.com/pentest_swissky/status/1711123550466122106",
     "username": "pentest_swissky"
 }
+{
+    "expanded_url": [
+        "https://www.assetnote.io/resources/research/rce-in-progress-ws-ftp-ad-hoc-via-iis-http-modules-cve-2023-40044",
+        "https://www.assetnote.io/resources/research/advisory-progress-ws-ftp-rce-cve-2023-40044"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "Our security research team discovered a pre-auth RCE vulnerability in Progress WS_FTP (CVE-2023-40044). Due to the exploit being released on Twitter, we've also published - \nBlog: https://t.co/pOGLRrJPDo\nAdvisory: https://t.co/ae5N3nQXEP https://t.co/dVJOUyLDjd",
+    "tweettime": "2023-10-01, 00:06:36",
+    "tweeturl": "https://twitter.com/assetnote/status/1708272163772682602",
+    "username": "assetnote"
+}
