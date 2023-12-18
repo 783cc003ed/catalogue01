@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://github.com/dwisiswant0/cve-2023-50164-poc"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "GitHub - dwisiswant0/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\") https://t.co/cwYxKW2IW1",
+    "tweettime": "2023-12-17, 16:13:05",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1736419254281576686",
+    "username": "_r_netsec"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -64,10 +77,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 419,
+    "tweetfavorites": 435,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 134,
+    "tweetretweets": 142,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauthenticated remote code execution\nhttps://t.co/uRjXzpnW54 https://t.co/UtMv4LZBLt",
     "tweettime": "2023-12-16, 07:49:06",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1735930032152023288",
