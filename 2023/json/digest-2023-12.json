@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 9,
+    "tweettext": "SharePointにおける、認証前状態からの遠隔コード実行のチェーン（攻撃コードを連鎖させる手法）に関するPoC（概念実証コード）が公開された。CVE-2023-29357とCVE-2023-24955を用いるもの。ハッキングコンテストPwn2Own Vancouver 2023て使用されたもの。 https://t.co/3b5IbYUfmp",
+    "tweettime": "2023-12-18, 03:47:10",
+    "tweeturl": "https://twitter.com/__kokumoto/status/1736593922888220829",
+    "username": "__kokumoto"
+}
+{
+    "expanded_url": [
         "https://github.com/dwisiswant0/cve-2023-50164-poc"
     ],
     "tweetfavorites": 61,
@@ -25,10 +38,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 176,
+    "tweetfavorites": 184,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 57,
+    "tweetretweets": 59,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955) https://t.co/RbbX7CQkyA",
     "tweettime": "2023-12-16, 19:23:16",
     "tweeturl": "https://twitter.com/Dinosn/status/1736104726855389628",
@@ -64,7 +77,7 @@
     "expanded_url": [
         "https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC"
     ],
-    "tweetfavorites": 80,
+    "tweetfavorites": 87,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 22,
@@ -77,10 +90,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 435,
-    "tweetquotes": 2,
+    "tweetfavorites": 458,
+    "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 142,
+    "tweetretweets": 152,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauthenticated remote code execution\nhttps://t.co/uRjXzpnW54 https://t.co/UtMv4LZBLt",
     "tweettime": "2023-12-16, 07:49:06",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1735930032152023288",
@@ -103,7 +116,7 @@
     "expanded_url": [
         "https://github.com/Chocapikk/CVE-2023-6553"
     ],
-    "tweetfavorites": 51,
+    "tweetfavorites": 54,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 14,
