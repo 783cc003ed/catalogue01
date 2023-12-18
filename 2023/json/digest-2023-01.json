@@ -240,7 +240,7 @@
     "tweetfavorites": 1066,
     "tweetquotes": 10,
     "tweetreplies": 14,
-    "tweetretweets": 317,
+    "tweetretweets": 316,
     "tweettext": "My new blog post! Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”. Reverse engineering CVE-2022-34718 + write a remote Denial of Service exploit. Covers IPsec and IPv6 fragmentation in the Windows kernel, bin-diffing, and making weird packets https://t.co/XR8qhoq1ub",
     "tweettime": "2023-01-20, 18:51:41",
     "tweeturl": "https://twitter.com/chompie1337/status/1616508780061298689",
