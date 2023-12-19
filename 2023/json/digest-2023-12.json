@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://thehackernews.com/2023/12/8220-gang-exploiting-oracle-weblogic.html"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "🚨 Threat Alert: The notorious 8220 Gang is exploiting a high-severity flaw (CVE-2020-14883) in #Oracle WebLogic Server to spread malware.\n\nFind details here: https://t.co/msIchXPsrq\n\n#cybersecurity #hacking",
+    "tweettime": "2023-12-19, 06:58:36",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1737004487682760719",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://github.com/Chocapikk/CVE-2023-6553/tree/main"
     ],
     "tweetfavorites": 193,
@@ -113,7 +126,7 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 472,
+    "tweetfavorites": 473,
     "tweetquotes": 3,
     "tweetreplies": 3,
     "tweetretweets": 159,
