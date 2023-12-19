@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 97,
-    "tweetquotes": 1,
-    "tweetreplies": 1,
-    "tweetretweets": 39,
+    "tweetfavorites": 207,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 64,
     "tweettext": "Happy to finally publish my research of finding a 0-click RCE vulnerability chain against Outlook client.\nFirst blogpost goes into details of bypassing Outlook's CVE-2023-23397 mitigation using Windows paths tricks.\nThe second one goes into audio codec decoding.",
     "tweettime": "2023-12-18, 16:21:59",
     "tweeturl": "https://twitter.com/nachoskrnl/status/1736783878700892253",
@@ -61,10 +61,10 @@
     "expanded_url": [
         "https://github.com/ron-imperva/CVE-2023-22524"
     ],
-    "tweetfavorites": 66,
+    "tweetfavorites": 84,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 14,
     "tweettext": "CVE-2023-22524\n\nRCE Vulnerability in Atlassian Companion for #macOS\n\nhttps://t.co/QgsITCOQoZ\n\n#cve #cybersecurity #infosec https://t.co/4gIbt4vPDH",
     "tweettime": "2023-12-16, 10:54:00",
     "tweeturl": "https://twitter.com/hack_git/status/1735976563152388498",
@@ -204,7 +204,7 @@
     "expanded_url": [
         "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE"
     ],
-    "tweetfavorites": 84,
+    "tweetfavorites": 85,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 36,
