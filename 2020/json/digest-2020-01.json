@@ -409,10 +409,10 @@
         "https://github.com/projectzeroindia/CVE-2019-19781",
         "https://support.citrix.com/article/CTX267679"
     ],
-    "tweetfavorites": 41,
-    "tweetquotes": 3,
+    "tweetfavorites": 42,
+    "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 31,
+    "tweetretweets": 30,
     "tweettext": "Remote code execution proof-of-concept for Citrix ADC/Gateway vulnerability CVE-2019-19781 has been posted on GitHub: https://t.co/YsDS0EI4M1\n\nAffected organizations are advised to apply the mitigation provided by Citrix ASAP as no patch exists yet. https://t.co/c9f22TfP2K",
     "tweettime": "2020-01-11, 00:03:12",
     "tweeturl": "https://twitter.com/bad_packets/status/1215786199383597056",
