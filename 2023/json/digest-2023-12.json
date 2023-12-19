@@ -1,11 +1,21 @@
 {
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 9,
+    "tweettext": "Yeah, so this works just fine!\nUnauthenticated RCE on SharePoint as the SharePoint Admin user.\nBut just to be clear, CVE-2023-24955 and CVE-2023-29357 patches were released in May and June of this year, respectively.\nIf you don't have those patches installed by now, well... https://t.co/Ll3qaL16Gu",
+    "tweettime": "2023-12-19, 16:21:30",
+    "tweeturl": "https://twitter.com/wdormann/status/1737146147414688103",
+    "username": "wdormann"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2023/12/8220-gang-exploiting-oracle-weblogic.html"
     ],
-    "tweetfavorites": 54,
+    "tweetfavorites": 58,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 27,
+    "tweetretweets": 29,
     "tweettext": "🚨 Threat Alert: The notorious 8220 Gang is exploiting a high-severity flaw (CVE-2020-14883) in #Oracle WebLogic Server to spread malware.\n\nFind details here: https://t.co/msIchXPsrq\n\n#cybersecurity #hacking",
     "tweettime": "2023-12-19, 06:58:36",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1737004487682760719",
@@ -25,10 +35,10 @@
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 273,
+    "tweetfavorites": 311,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 84,
+    "tweetretweets": 95,
     "tweettext": "Happy to finally publish my research of finding a 0-click RCE vulnerability chain against Outlook client.\nFirst blogpost goes into details of bypassing Outlook's CVE-2023-23397 mitigation using Windows paths tricks.\nThe second one goes into audio codec decoding.",
     "tweettime": "2023-12-18, 16:21:59",
     "tweeturl": "https://twitter.com/nachoskrnl/status/1736783878700892253",
