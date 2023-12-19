@@ -2,20 +2,20 @@
     "expanded_url": [
         "https://github.com/Chocapikk/CVE-2023-6553/tree/main"
     ],
-    "tweetfavorites": 162,
+    "tweetfavorites": 193,
     "tweetquotes": 1,
     "tweetreplies": 9,
-    "tweetretweets": 15,
+    "tweetretweets": 22,
     "tweettext": "CVE-2023-6553 is a Critical Unauthenticated Remote Code Execution in Backup Migration Plugin.\n\nand guess what, ChatGPT-4 was able to find the bug by reading the PHP source code.\ninsane! \n#bugbountytip #bugbounty #ChatGPT \npoc here : https://t.co/DJLY0dz2vo https://t.co/XGnLzLMIeN",
     "tweettime": "2023-12-18, 19:11:16",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1736826483044159796",
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 207,
+    "tweetfavorites": 273,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 64,
+    "tweetretweets": 84,
     "tweettext": "Happy to finally publish my research of finding a 0-click RCE vulnerability chain against Outlook client.\nFirst blogpost goes into details of bypassing Outlook's CVE-2023-23397 mitigation using Windows paths tricks.\nThe second one goes into audio codec decoding.",
     "tweettime": "2023-12-18, 16:21:59",
     "tweeturl": "https://twitter.com/nachoskrnl/status/1736783878700892253",
@@ -38,10 +38,10 @@
     "expanded_url": [
         "https://github.com/dwisiswant0/cve-2023-50164-poc"
     ],
-    "tweetfavorites": 72,
+    "tweetfavorites": 75,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 28,
+    "tweetretweets": 29,
     "tweettext": "GitHub - dwisiswant0/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\") https://t.co/cwYxKW2IW1",
     "tweettime": "2023-12-17, 16:13:05",
     "tweeturl": "https://twitter.com/_r_netsec/status/1736419254281576686",
@@ -113,10 +113,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 469,
+    "tweetfavorites": 472,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 158,
+    "tweetretweets": 159,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauthenticated remote code execution\nhttps://t.co/uRjXzpnW54 https://t.co/UtMv4LZBLt",
     "tweettime": "2023-12-16, 07:49:06",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1735930032152023288",
