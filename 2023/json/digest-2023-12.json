@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://github.com/Chocapikk/CVE-2023-6553/tree/main"
+    ],
+    "tweetfavorites": 162,
+    "tweetquotes": 1,
+    "tweetreplies": 9,
+    "tweetretweets": 15,
+    "tweettext": "CVE-2023-6553 is a Critical Unauthenticated Remote Code Execution in Backup Migration Plugin.\n\nand guess what, ChatGPT-4 was able to find the bug by reading the PHP source code.\ninsane! \n#bugbountytip #bugbounty #ChatGPT \npoc here : https://t.co/DJLY0dz2vo https://t.co/XGnLzLMIeN",
+    "tweettime": "2023-12-18, 19:11:16",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1736826483044159796",
+    "username": "h4x0r_dz"
+}
+{
     "tweetfavorites": 207,
     "tweetquotes": 2,
     "tweetreplies": 2,
@@ -100,10 +113,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 458,
+    "tweetfavorites": 469,
     "tweetquotes": 3,
-    "tweetreplies": 2,
-    "tweetretweets": 152,
+    "tweetreplies": 3,
+    "tweetretweets": 158,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauthenticated remote code execution\nhttps://t.co/uRjXzpnW54 https://t.co/UtMv4LZBLt",
     "tweettime": "2023-12-16, 07:49:06",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1735930032152023288",
@@ -113,10 +126,10 @@
     "expanded_url": [
         "https://bugs.chromium.org/p/chromium/issues/detail?id=1479274"
     ],
-    "tweetfavorites": 89,
+    "tweetfavorites": 90,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 22,
+    "tweetretweets": 23,
     "tweettext": "Chrome ITW WebP vulnerability bug entry (CVE-2023-4863 [1479274]) is now open with a PoC:\nhttps://t.co/mo7LoHXATJ",
     "tweettime": "2023-12-15, 19:26:02",
     "tweeturl": "https://twitter.com/hosselot/status/1735743032828334291",
