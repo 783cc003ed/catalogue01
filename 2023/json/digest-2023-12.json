@@ -38,7 +38,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 129,
+    "tweetretweets": 158,
     "tweettext": "RT @the_yellow_fall: PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauth…",
     "tweettime": "2023-12-16, 22:14:50",
     "tweeturl": "https://twitter.com/kmkz_security/status/1736147899921174568",
@@ -511,7 +511,7 @@
         "https://github.com/apache/struts/commit/162e29fee9136f4bfd9b2376da2cbf590f9ea163",
         "https://github.com/apache/struts/commit/d8c69691ef1d15e76a5f4fcf33039316da2340b6"
     ],
-    "tweetfavorites": 177,
+    "tweetfavorites": 176,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 40,
