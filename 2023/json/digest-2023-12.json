@@ -38,10 +38,10 @@
     "expanded_url": [
         "https://github.com/Chocapikk/CVE-2023-6553/tree/main"
     ],
-    "tweetfavorites": 193,
+    "tweetfavorites": 237,
     "tweetquotes": 1,
     "tweetreplies": 9,
-    "tweetretweets": 22,
+    "tweetretweets": 30,
     "tweettext": "CVE-2023-6553 is a Critical Unauthenticated Remote Code Execution in Backup Migration Plugin.\n\nand guess what, ChatGPT-4 was able to find the bug by reading the PHP source code.\ninsane! \n#bugbountytip #bugbounty #ChatGPT \npoc here : https://t.co/DJLY0dz2vo https://t.co/XGnLzLMIeN",
     "tweettime": "2023-12-18, 19:11:16",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1736826483044159796",
@@ -74,10 +74,10 @@
     "expanded_url": [
         "https://github.com/dwisiswant0/cve-2023-50164-poc"
     ],
-    "tweetfavorites": 77,
+    "tweetfavorites": 78,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 29,
+    "tweetretweets": 30,
     "tweettext": "GitHub - dwisiswant0/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\") https://t.co/cwYxKW2IW1",
     "tweettime": "2023-12-17, 16:13:05",
     "tweeturl": "https://twitter.com/_r_netsec/status/1736419254281576686",
@@ -149,10 +149,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 475,
+    "tweetfavorites": 477,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 161,
+    "tweetretweets": 163,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauthenticated remote code execution\nhttps://t.co/uRjXzpnW54 https://t.co/UtMv4LZBLt",
     "tweettime": "2023-12-16, 07:49:06",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1735930032152023288",
@@ -240,7 +240,7 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html"
     ],
-    "tweetfavorites": 123,
+    "tweetfavorites": 122,
     "tweetquotes": 6,
     "tweetreplies": 5,
     "tweetretweets": 84,
@@ -401,7 +401,7 @@
     "expanded_url": [
         "http://xz.aliyun.com/t/13172"
     ],
-    "tweetfavorites": 270,
+    "tweetfavorites": 271,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 69,
