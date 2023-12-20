@@ -35,10 +35,10 @@
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 311,
+    "tweetfavorites": 327,
     "tweetquotes": 2,
-    "tweetreplies": 2,
-    "tweetretweets": 95,
+    "tweetreplies": 3,
+    "tweetretweets": 100,
     "tweettext": "Happy to finally publish my research of finding a 0-click RCE vulnerability chain against Outlook client.\nFirst blogpost goes into details of bypassing Outlook's CVE-2023-23397 mitigation using Windows paths tricks.\nThe second one goes into audio codec decoding.",
     "tweettime": "2023-12-18, 16:21:59",
     "tweeturl": "https://twitter.com/nachoskrnl/status/1736783878700892253",
