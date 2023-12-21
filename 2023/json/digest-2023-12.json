@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop_20.html"
     ],
-    "tweetfavorites": 136,
+    "tweetfavorites": 192,
     "tweetquotes": 2,
-    "tweetreplies": 5,
-    "tweetretweets": 29,
+    "tweetreplies": 6,
+    "tweetretweets": 44,
     "tweettext": "💪🏼 Yesterday @_clem1 and @vladhiewsha discovered and reported a new ITW 0-day to the Chrome team. TODAY, 1 day later, Chrome has a fix out to protect users!!! Thank you, Chrome! CVE-2023-7024\n\nhttps://t.co/2tkx0Zc9pf",
     "tweettime": "2023-12-20, 20:41:01",
     "tweeturl": "https://twitter.com/maddiestone/status/1737573842649043270",
@@ -51,14 +51,29 @@
     "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2023/CVE-2023-36033.html"
     ],
-    "tweetfavorites": 114,
-    "tweetquotes": 0,
-    "tweetreplies": 4,
-    "tweetretweets": 39,
+    "tweetfavorites": 189,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 62,
     "tweettext": "🎁 New RCA up from @binjo of Mandiant FLARE on CVE-2023-36033, an EoP in Windows DWM Core Library that was patched in November! \n\nhttps://t.co/LUQUGh7fzU https://t.co/XJc9pOt3Ug",
     "tweettime": "2023-12-20, 20:14:49",
     "tweeturl": "https://twitter.com/maddiestone/status/1737567252071973027",
     "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22",
+        "https://twitter.com/nachoskrnl/status/1736783878700892253",
+        "https://www.akamai.com/blog/security-research/2023/dec/chaining-vulnerabilities-to-achieve-rce-part-one"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "🚨Alert🚨CVE-2023-35384&amp;CVE-2023-36710: \n0-click RCE against Outlook\n\n🔗Hunter:https://t.co/D4e39xFXWj\n\nDorks 👇👇👇\nFOFA  app=\"Microsoft-Outlook\"\nSHODAN  http.component:\"Outlook Web App\"\n\n📰A deep-dive from @nachoskrnl https://t.co/cbjmcyuCpG\n📰Refer to https://t.co/VVNCOz1adJ https://t.co/AC2lSio3GI",
+    "tweettime": "2023-12-20, 08:46:29",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1737394026259877982",
+    "username": "HunterMapping"
 }
 {
     "expanded_url": [
@@ -355,7 +370,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 69,
+    "tweetretweets": 70,
     "tweettext": "RT @steventseeley: I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePY…",
     "tweettime": "2023-12-12, 22:33:31",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1734703050453844138",
@@ -430,7 +445,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 69,
+    "tweetretweets": 70,
     "tweettext": "RT @steventseeley: I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePY…",
     "tweettime": "2023-12-12, 10:58:47",
     "tweeturl": "https://twitter.com/testanull/status/1734528218429079937",
