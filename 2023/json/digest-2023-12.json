@@ -12,6 +12,16 @@
     "username": "maddiestone"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "RT @maddiestone: 🎁 New RCA up from @binjo of Mandiant FLARE on CVE-2023-36033, an EoP in Windows DWM Core Library that was patched in Novem…",
+    "tweettime": "2023-12-20, 20:27:46",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1737570510269985242",
+    "username": "kmkz_security"
+}
+{
     "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2023/CVE-2023-36033.html"
     ],
@@ -38,10 +48,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 96,
+    "tweetfavorites": 99,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 33,
+    "tweetretweets": 34,
     "tweettext": "Yeah, so this works just fine!\nUnauthenticated RCE on SharePoint as the SharePoint Admin user.\nBut just to be clear, CVE-2023-24955 and CVE-2023-29357 patches were released in May and June of this year, respectively.\nIf you don't have those patches installed by now, well... https://t.co/Ll3qaL16Gu",
     "tweettime": "2023-12-19, 16:21:30",
     "tweeturl": "https://twitter.com/wdormann/status/1737146147414688103",
@@ -64,10 +74,10 @@
     "expanded_url": [
         "https://github.com/Chocapikk/CVE-2023-6553/tree/main"
     ],
-    "tweetfavorites": 238,
+    "tweetfavorites": 239,
     "tweetquotes": 1,
     "tweetreplies": 9,
-    "tweetretweets": 30,
+    "tweetretweets": 31,
     "tweettext": "CVE-2023-6553 is a Critical Unauthenticated Remote Code Execution in Backup Migration Plugin.\n\nand guess what, ChatGPT-4 was able to find the bug by reading the PHP source code.\ninsane! \n#bugbountytip #bugbounty #ChatGPT \npoc here : https://t.co/DJLY0dz2vo https://t.co/XGnLzLMIeN",
     "tweettime": "2023-12-18, 19:11:16",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1736826483044159796",
@@ -266,7 +276,7 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html"
     ],
-    "tweetfavorites": 122,
+    "tweetfavorites": 121,
     "tweetquotes": 6,
     "tweetreplies": 5,
     "tweetretweets": 84,
