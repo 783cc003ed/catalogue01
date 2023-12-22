@@ -29,10 +29,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html"
     ],
-    "tweetfavorites": 88,
+    "tweetfavorites": 105,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 55,
+    "tweetretweets": 65,
     "tweettext": "🚨 💻 Beware of phishing emails with invoice-themed attachments! Attackers are using an old Office #vulnerability (CVE-2017-11882) to spread the Agent Tesla #malware and steal sensitive information.\n\nLearn more: https://t.co/pBdCAqNpUl\n\n#cybersecurity #hacking",
     "tweettime": "2023-12-21, 07:22:48",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1737735354214670418",
@@ -42,10 +42,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html"
     ],
-    "tweetfavorites": 217,
+    "tweetfavorites": 223,
     "tweetquotes": 8,
     "tweetreplies": 4,
-    "tweetretweets": 149,
+    "tweetretweets": 154,
     "tweettext": "Attention Chrome users!\n\nUrgent security updates released for #Chrome due to a zero-day flaw (CVE-2023-7024) in WebRTC.\n\nThis #vulnerability:\n- Actively exploited\n- May cause crashes or code execution\n\nDetails: https://t.co/WsdhXVP4bS\n\nUpdate your browser now!",
     "tweettime": "2023-12-21, 03:41:56",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1737679769343250566",
@@ -78,7 +78,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 46,
+    "tweetretweets": 66,
     "tweettext": "RT @maddiestone: 🎁 New RCA up from @binjo of Mandiant FLARE on CVE-2023-36033, an EoP in Windows DWM Core Library that was patched in Novem…",
     "tweettime": "2023-12-20, 20:27:46",
     "tweeturl": "https://twitter.com/kmkz_security/status/1737570510269985242",
@@ -331,7 +331,7 @@
     "tweetfavorites": 100,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 42,
+    "tweetretweets": 41,
     "tweettext": "GitHub - ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept - https://t.co/nAaeIhetaQ",
     "tweettime": "2023-12-15, 04:42:20",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1735520642152194501",
