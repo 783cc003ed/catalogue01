@@ -1,5 +1,19 @@
 {
     "expanded_url": [
+        "http://ld.so",
+        "https://flex0geek.blogspot.com/2023/11/exploit-debug-looney-tunables-cve-2023.html"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "\"Exploit &amp; Debug Looney Tunables CVE-2023-4911 Local Privilege Escalation in the glibc's https://t.co/ekQ24oYJ6a\"\n\n#infosec #pentest #redteam \nhttps://t.co/9ISAD12O8O https://t.co/q7qgdQCIGS",
+    "tweettime": "2023-12-21, 10:29:01",
+    "tweeturl": "https://twitter.com/CyberWarship/status/1737782217907015919",
+    "username": "CyberWarship"
+}
+{
+    "expanded_url": [
         "https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC"
     ],
     "tweetfavorites": 48,
@@ -51,10 +65,10 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop_20.html"
     ],
-    "tweetfavorites": 192,
-    "tweetquotes": 2,
+    "tweetfavorites": 216,
+    "tweetquotes": 3,
     "tweetreplies": 6,
-    "tweetretweets": 44,
+    "tweetretweets": 52,
     "tweettext": "💪🏼 Yesterday @_clem1 and @vladhiewsha discovered and reported a new ITW 0-day to the Chrome team. TODAY, 1 day later, Chrome has a fix out to protect users!!! Thank you, Chrome! CVE-2023-7024\n\nhttps://t.co/2tkx0Zc9pf",
     "tweettime": "2023-12-20, 20:41:01",
     "tweeturl": "https://twitter.com/maddiestone/status/1737573842649043270",
@@ -74,10 +88,10 @@
     "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2023/CVE-2023-36033.html"
     ],
-    "tweetfavorites": 189,
+    "tweetfavorites": 207,
     "tweetquotes": 2,
-    "tweetreplies": 3,
-    "tweetretweets": 62,
+    "tweetreplies": 4,
+    "tweetretweets": 66,
     "tweettext": "🎁 New RCA up from @binjo of Mandiant FLARE on CVE-2023-36033, an EoP in Windows DWM Core Library that was patched in November! \n\nhttps://t.co/LUQUGh7fzU https://t.co/XJc9pOt3Ug",
     "tweettime": "2023-12-20, 20:14:49",
     "tweeturl": "https://twitter.com/maddiestone/status/1737567252071973027",
