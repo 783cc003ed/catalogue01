@@ -54,10 +54,10 @@
     "expanded_url": [
         "https://github.com/maxpl0it/CVE-2019-17026-Exploit/"
     ],
-    "tweetfavorites": 316,
+    "tweetfavorites": 317,
     "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 132,
+    "tweetretweets": 130,
     "tweettext": "Published my exploit for CVE-2019-17026 (Firefox JIT bug):\n\nhttps://t.co/YeFsnSVYDv\n\nNo sandbox escape included but if anybody wants a challenge, chain it with CVE-2020-0674 for a neat sandbox escape on Windows!",
     "tweettime": "2020-08-27, 19:35:33",
     "tweeturl": "https://twitter.com/maxpl0it/status/1299068051044921347",

@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "ofbiz-CVE-2023-49070-RCE-POC\nThis is a pre-auth RCE POC For CVE-2023-49070 which affected Apache ofbiz applications &lt; 18.12.10 due to xml-rpc java deserialzation bug. \n\nRepo: https://t.co/3ajtHTEpPx https://t.co/hl3B7GkXdw",
+    "tweettime": "2023-12-21, 10:10:24",
+    "tweeturl": "https://twitter.com/TheMsterDoctor1/status/1737777531925745729",
+    "username": "TheMsterDoctor1"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html"
     ],
     "tweetfavorites": 60,
@@ -15,17 +28,17 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html"
     ],
-    "tweetfavorites": 197,
+    "tweetfavorites": 208,
     "tweetquotes": 6,
-    "tweetreplies": 3,
-    "tweetretweets": 134,
+    "tweetreplies": 4,
+    "tweetretweets": 141,
     "tweettext": "Attention Chrome users!\n\nUrgent security updates released for #Chrome due to a zero-day flaw (CVE-2023-7024) in WebRTC.\n\nThis #vulnerability:\n- Actively exploited\n- May cause crashes or code execution\n\nDetails: https://t.co/WsdhXVP4bS\n\nUpdate your browser now!",
     "tweettime": "2023-12-21, 03:41:56",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1737679769343250566",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 239,
+    "tweetfavorites": 242,
     "tweetquotes": 18,
     "tweetreplies": 9,
     "tweetretweets": 132,
@@ -184,7 +197,7 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 189,
+    "tweetfavorites": 188,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 61,
@@ -236,7 +249,7 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 478,
+    "tweetfavorites": 480,
     "tweetquotes": 3,
     "tweetreplies": 3,
     "tweetretweets": 164,
