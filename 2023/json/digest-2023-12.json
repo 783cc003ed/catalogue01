@@ -1,5 +1,19 @@
 {
     "expanded_url": [
+        "https://www.akamai.com/blog/security-research/chaining-vulnerabilities-to-achieve-rce-part-two",
+        "https://www.securityweek.com/outlook-plays-attacker-tunes-vulnerability-chain-leading-to-zero-click-rce/"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 48,
+    "tweettext": "Cadena de vulnerabilidades lleva a un RCE 0-click en Microsoft Outlook\nhttps://t.co/HwswtTWSOM\n🔊Atacante enviando un recordatorio por e-mail con una notificación sonora especificada como ruta, provoca el envío del hash Net-NTLMv2\n\n⏩CVE-2023-36710\nhttps://t.co/sp8Zof9cCp https://t.co/fElAaZAkwd",
+    "tweettime": "2023-12-21, 16:06:00",
+    "tweeturl": "https://twitter.com/elhackernet/status/1737867019922657606",
+    "username": "elhackernet"
+}
+{
+    "expanded_url": [
         "http://ld.so",
         "https://flex0geek.blogspot.com/2023/11/exploit-debug-looney-tunables-cve-2023.html"
     ],
@@ -63,6 +77,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/chromium/chromium/commit/340b7e300d380460a039a07b90f62d1febae9da5"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "Google Chrome In-The-Wild Heap buffer overflow in WebRTC (CVE-2023-7024 [1513170]) happens due to \"WebRtcAudioSink()\" function allowing invalid configuration during setting format:\nhttps://t.co/rOgJJH500p",
+    "tweettime": "2023-12-20, 20:55:49",
+    "tweeturl": "https://twitter.com/hosselot/status/1737577567547199579",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
         "https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop_20.html"
     ],
     "tweetfavorites": 216,
@@ -103,10 +130,10 @@
         "https://twitter.com/nachoskrnl/status/1736783878700892253",
         "https://www.akamai.com/blog/security-research/2023/dec/chaining-vulnerabilities-to-achieve-rce-part-one"
     ],
-    "tweetfavorites": 53,
+    "tweetfavorites": 58,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetretweets": 22,
     "tweettext": "🚨Alert🚨CVE-2023-35384&amp;CVE-2023-36710: \n0-click RCE against Outlook\n\n🔗Hunter:https://t.co/D4e39xFXWj\n\nDorks 👇👇👇\nFOFA  app=\"Microsoft-Outlook\"\nSHODAN  http.component:\"Outlook Web App\"\n\n📰A deep-dive from @nachoskrnl https://t.co/cbjmcyuCpG\n📰Refer to https://t.co/VVNCOz1adJ https://t.co/AC2lSio3GI",
     "tweettime": "2023-12-20, 08:46:29",
     "tweeturl": "https://twitter.com/HunterMapping/status/1737394026259877982",
@@ -276,7 +303,7 @@
     "expanded_url": [
         "https://bugs.chromium.org/p/chromium/issues/detail?id=1479274"
     ],
-    "tweetfavorites": 91,
+    "tweetfavorites": 92,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 23,
@@ -824,7 +851,7 @@
     "expanded_url": [
         "https://github.com/WebKit/WebKit/commit/00352dd86bfa102b6e4b792120e3ef3498a27d1e"
     ],
-    "tweetfavorites": 75,
+    "tweetfavorites": 74,
     "tweetquotes": 3,
     "tweetreplies": 3,
     "tweetretweets": 13,
