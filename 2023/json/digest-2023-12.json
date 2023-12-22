@@ -28,19 +28,19 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html"
     ],
-    "tweetfavorites": 208,
-    "tweetquotes": 6,
+    "tweetfavorites": 217,
+    "tweetquotes": 8,
     "tweetreplies": 4,
-    "tweetretweets": 142,
+    "tweetretweets": 149,
     "tweettext": "Attention Chrome users!\n\nUrgent security updates released for #Chrome due to a zero-day flaw (CVE-2023-7024) in WebRTC.\n\nThis #vulnerability:\n- Actively exploited\n- May cause crashes or code execution\n\nDetails: https://t.co/WsdhXVP4bS\n\nUpdate your browser now!",
     "tweettime": "2023-12-21, 03:41:56",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1737679769343250566",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 242,
+    "tweetfavorites": 245,
     "tweetquotes": 18,
-    "tweetreplies": 9,
+    "tweetreplies": 10,
     "tweetretweets": 132,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2023-7024\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this zero-day vulnerability.\n\nShare &amp; stay safe! 🫡 https://t.co/yyN6kjFSFM",
     "tweettime": "2023-12-21, 01:44:23",
@@ -148,7 +148,7 @@
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 349,
+    "tweetfavorites": 350,
     "tweetquotes": 4,
     "tweetreplies": 3,
     "tweetretweets": 110,
@@ -291,7 +291,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 42,
+    "tweetretweets": 41,
     "tweettext": "RT @piedpiper1616: GitHub - ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept - https://t.co/nAaeIhetaQ",
     "tweettime": "2023-12-15, 09:13:45",
     "tweeturl": "https://twitter.com/momika233/status/1735588947760398729",
