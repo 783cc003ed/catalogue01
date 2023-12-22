@@ -17,10 +17,10 @@
         "http://ld.so",
         "https://flex0geek.blogspot.com/2023/11/exploit-debug-looney-tunables-cve-2023.html"
     ],
-    "tweetfavorites": 35,
+    "tweetfavorites": 54,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 24,
+    "tweetretweets": 31,
     "tweettext": "\"Exploit &amp; Debug Looney Tunables CVE-2023-4911 Local Privilege Escalation in the glibc's https://t.co/ekQ24oYJ6a\"\n\n#infosec #pentest #redteam \nhttps://t.co/9ISAD12O8O https://t.co/q7qgdQCIGS",
     "tweettime": "2023-12-21, 10:29:01",
     "tweeturl": "https://twitter.com/CyberWarship/status/1737782217907015919",
@@ -30,10 +30,10 @@
     "expanded_url": [
         "https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 64,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 7,
+    "tweetretweets": 8,
     "tweettext": "ofbiz-CVE-2023-49070-RCE-POC\nThis is a pre-auth RCE POC For CVE-2023-49070 which affected Apache ofbiz applications &lt; 18.12.10 due to xml-rpc java deserialzation bug. \n\nRepo: https://t.co/3ajtHTEpPx https://t.co/hl3B7GkXdw",
     "tweettime": "2023-12-21, 10:10:24",
     "tweeturl": "https://twitter.com/TheMsterDoctor1/status/1737777531925745729",
@@ -264,7 +264,7 @@
     "expanded_url": [
         "https://gist.github.com/testanull/dac6029d306147e6cc8dce9424d09868"
     ],
-    "tweetfavorites": 60,
+    "tweetfavorites": 61,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 22,
@@ -277,7 +277,7 @@
     "expanded_url": [
         "https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC"
     ],
-    "tweetfavorites": 89,
+    "tweetfavorites": 90,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 24,
@@ -293,7 +293,7 @@
     "tweetfavorites": 480,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 164,
+    "tweetretweets": 165,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauthenticated remote code execution\nhttps://t.co/uRjXzpnW54 https://t.co/UtMv4LZBLt",
     "tweettime": "2023-12-16, 07:49:06",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1735930032152023288",
@@ -303,7 +303,7 @@
     "expanded_url": [
         "https://bugs.chromium.org/p/chromium/issues/detail?id=1479274"
     ],
-    "tweetfavorites": 92,
+    "tweetfavorites": 91,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 23,

@@ -436,7 +436,7 @@
     "tweetfavorites": 98,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 40,
+    "tweetretweets": 41,
     "tweettext": "#CVE-2022-39197 Cobalt Strike RCE =&lt; 4.7\n\nuse codeql to search exploit chain from the database compiled by openjdk and cobaltstrike4.5 db\n\norg.apache.batik.swing.JSVGCanvas#setURI\norg.apache.batik.bridge.BaseScriptingEnvironment#loadScript https://t.co/iNWnl9yPo2",
     "tweettime": "2022-10-18, 02:10:10",
     "tweeturl": "https://twitter.com/jas502n/status/1582192282547392512",
