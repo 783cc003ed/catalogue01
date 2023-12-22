@@ -653,10 +653,10 @@
     "username": "campuscodi"
 }
 {
-    "tweetfavorites": 416,
+    "tweetfavorites": 417,
     "tweetquotes": 9,
     "tweetreplies": 10,
-    "tweetretweets": 129,
+    "tweetretweets": 128,
     "tweettext": "\"An unauthenticated attacker could call a method on the LSARPC interface and coerce the domain controller to authenticate to the attacker using NTLM...\"\n\nFresh Windows 0day (CVE-2022-26925) https://t.co/XrevYvpj4H",
     "tweettime": "2022-05-10, 17:20:01",
     "tweeturl": "https://twitter.com/ryanaraine/status/1524076806940233728",
