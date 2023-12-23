@@ -1,4 +1,24 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "RT @the_yellow_fall: CVE-2023-51385: OpenSSH OS command injection vulnerability\nThe vulnerability is tracked under the CVE identifier CVE-2…",
+    "tweettime": "2023-12-23, 16:37:17",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1738599670002094243",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 71,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 9,
+    "tweettext": "=Mass exploitation of Sitecore remote code execution vulnerability (CVE-2023-35813).\n\n1-Shodan Dork : title:\"Sitecore\"\nCLI Command: shodan download --limit -1 sitecore 'title:\"Sitecore\"'\n\n#bugbounty #bugbountytip #bugbountytips https://t.co/AeuXpNtE6a",
+    "tweettime": "2023-12-23, 06:46:47",
+    "tweeturl": "https://twitter.com/e11i0t_4lders0n/status/1738451066281398490",
+    "username": "e11i0t_4lders0n"
+}
+{
     "expanded_url": [
         "https://securityonline.info/cve-2023-42465-sudo-affected-by-stack-register-flaw-openssh-openssl-and-mysql-are-vulnerable/"
     ],
@@ -215,7 +235,7 @@
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 352,
+    "tweetfavorites": 351,
     "tweetquotes": 4,
     "tweetreplies": 3,
     "tweetretweets": 111,
@@ -223,6 +243,20 @@
     "tweettime": "2023-12-18, 16:21:59",
     "tweeturl": "https://twitter.com/nachoskrnl/status/1736783878700892253",
     "username": "nachoskrnl"
+}
+{
+    "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/Zq8XN"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "CVE-2023-42325,-42326,-42327: XSS and RCE in pfSense Security, 5.4 - 8.8 rating 🔥\n\nBy combining vulns, an attacker can force a user to activate XSS payload and achieve RCE.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/LKxjIGdJNe\n\n#cybersecurity #vulnerability_map https://t.co/WbqZBflEUC",
+    "tweettime": "2023-12-18, 14:53:48",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1736761688542630314",
+    "username": "Netlas_io"
 }
 {
     "expanded_url": [
