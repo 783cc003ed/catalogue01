@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://securityonline.info/cve-2023-42465-sudo-affected-by-stack-register-flaw-openssh-openssl-and-mysql-are-vulnerable/"
+    ],
+    "tweetfavorites": 184,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 73,
+    "tweettext": "CVE-2023-42465: SUDO Affected by Stack/Register Flaw, OpenSSH, OpenSSL, and MySQL are Vulnerable https://t.co/QTLK7q6jUY",
+    "tweettime": "2023-12-22, 09:16:29",
+    "tweeturl": "https://twitter.com/Dinosn/status/1738126352203550857",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://www.akamai.com/blog/security-research/chaining-vulnerabilities-to-achieve-rce-part-two",
         "https://www.securityweek.com/outlook-plays-attacker-tunes-vulnerability-chain-leading-to-zero-click-rce/"
     ],
