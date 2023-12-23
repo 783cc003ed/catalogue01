@@ -27,6 +27,19 @@
 }
 {
     "expanded_url": [
+        "http://ld.so"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "RT @CyberWarship: \"Exploit &amp; Debug Looney Tunables CVE-2023-4911 Local Privilege Escalation in the glibc's https://t.co/ekQ24oYJ6a\"\n\n#infos…",
+    "tweettime": "2023-12-21, 11:00:29",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1737790135125651911",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
         "http://ld.so",
         "https://flex0geek.blogspot.com/2023/11/exploit-debug-looney-tunables-cve-2023.html"
     ],
@@ -118,7 +131,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 66,
+    "tweetretweets": 68,
     "tweettext": "RT @maddiestone: 🎁 New RCA up from @binjo of Mandiant FLARE on CVE-2023-36033, an EoP in Windows DWM Core Library that was patched in Novem…",
     "tweettime": "2023-12-20, 20:27:46",
     "tweeturl": "https://twitter.com/kmkz_security/status/1737570510269985242",
