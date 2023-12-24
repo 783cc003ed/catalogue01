@@ -2,6 +2,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 71,
+    "tweettext": "RT @S0ufi4n3: Potentiel shitstorm ahead:\n\nCVE-2023-51385: OpenSSH OS command injection vulnerability.\n\nMerry Christmas! \n\nhttps://t.co/RY6s…",
+    "tweettime": "2023-12-24, 05:15:52",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1738790572431974482",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 99,
     "tweettext": "RT @LiveOverflow: \"A Vulnerability to Hack The World\" - CVE-2023-4863\n\nThe start of a mini series digging into the recent WebP vulnerabilit…",
     "tweettime": "2023-12-23, 19:45:11",
@@ -42,10 +52,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 71,
+    "tweetfavorites": 79,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 9,
+    "tweetretweets": 12,
     "tweettext": "=Mass exploitation of Sitecore remote code execution vulnerability (CVE-2023-35813).\n\n1-Shodan Dork : title:\"Sitecore\"\nCLI Command: shodan download --limit -1 sitecore 'title:\"Sitecore\"'\n\n#bugbounty #bugbountytip #bugbountytips https://t.co/AeuXpNtE6a",
     "tweettime": "2023-12-23, 06:46:47",
     "tweeturl": "https://twitter.com/e11i0t_4lders0n/status/1738451066281398490",
@@ -135,10 +145,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html"
     ],
-    "tweetfavorites": 235,
+    "tweetfavorites": 233,
     "tweetquotes": 8,
     "tweetreplies": 4,
-    "tweetretweets": 159,
+    "tweetretweets": 158,
     "tweettext": "Attention Chrome users!\n\nUrgent security updates released for #Chrome due to a zero-day flaw (CVE-2023-7024) in WebRTC.\n\nThis #vulnerability:\n- Actively exploited\n- May cause crashes or code execution\n\nDetails: https://t.co/WsdhXVP4bS\n\nUpdate your browser now!",
     "tweettime": "2023-12-21, 03:41:56",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1737679769343250566",
@@ -383,10 +393,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 482,
+    "tweetfavorites": 483,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 165,
+    "tweetretweets": 166,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauthenticated remote code execution\nhttps://t.co/uRjXzpnW54 https://t.co/UtMv4LZBLt",
     "tweettime": "2023-12-16, 07:49:06",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1735930032152023288",
@@ -804,7 +814,7 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 80,
+    "tweetfavorites": 82,
     "tweetquotes": 4,
     "tweetreplies": 3,
     "tweetretweets": 33,
