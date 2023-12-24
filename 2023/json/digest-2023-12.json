@@ -2,7 +2,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 84,
+    "tweetretweets": 99,
     "tweettext": "RT @LiveOverflow: \"A Vulnerability to Hack The World\" - CVE-2023-4863\n\nThe start of a mini series digging into the recent WebP vulnerabilit…",
     "tweettime": "2023-12-23, 19:45:11",
     "tweeturl": "https://twitter.com/Dinosn/status/1738646955759206699",
@@ -12,7 +12,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 137,
+    "tweetretweets": 138,
     "tweettext": "RT @wugeej: RCE in Sophos Firewall (CVE-2022-1040) \nCc @Dinosn @ExWareLabs \n\ncurl -sk -H \"X-Requested-With: XMLHttpRequest\" -X POST 'hxxps:…",
     "tweettime": "2023-12-23, 19:42:49",
     "tweeturl": "https://twitter.com/Dinosn/status/1738646358821675019",
@@ -27,6 +27,19 @@
     "tweettime": "2023-12-23, 16:37:17",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1738599670002094243",
     "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2023-50254-deepin-reader-flaw-a-shortcut-to-remote-command-execution/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2023-50254 – Deepin-Reader Flaw: A Shortcut to Remote Command Execution https://t.co/FT5ogqhIT6",
+    "tweettime": "2023-12-23, 12:27:06",
+    "tweeturl": "https://twitter.com/Dinosn/status/1738536707002155283",
+    "username": "Dinosn"
 }
 {
     "tweetfavorites": 71,
@@ -56,10 +69,10 @@
         "https://www.akamai.com/blog/security-research/chaining-vulnerabilities-to-achieve-rce-part-two",
         "https://www.securityweek.com/outlook-plays-attacker-tunes-vulnerability-chain-leading-to-zero-click-rce/"
     ],
-    "tweetfavorites": 86,
+    "tweetfavorites": 100,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 48,
+    "tweetretweets": 52,
     "tweettext": "Cadena de vulnerabilidades lleva a un RCE 0-click en Microsoft Outlook\nhttps://t.co/HwswtTWSOM\n🔊Atacante enviando un recordatorio por e-mail con una notificación sonora especificada como ruta, provoca el envío del hash Net-NTLMv2\n\n⏩CVE-2023-36710\nhttps://t.co/sp8Zof9cCp https://t.co/fElAaZAkwd",
     "tweettime": "2023-12-21, 16:06:00",
     "tweeturl": "https://twitter.com/elhackernet/status/1737867019922657606",
@@ -171,7 +184,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 68,
+    "tweetretweets": 69,
     "tweettext": "RT @maddiestone: 🎁 New RCA up from @binjo of Mandiant FLARE on CVE-2023-36033, an EoP in Windows DWM Core Library that was patched in Novem…",
     "tweettime": "2023-12-20, 20:27:46",
     "tweeturl": "https://twitter.com/kmkz_security/status/1737570510269985242",
@@ -196,7 +209,7 @@
         "https://twitter.com/nachoskrnl/status/1736783878700892253",
         "https://www.akamai.com/blog/security-research/2023/dec/chaining-vulnerabilities-to-achieve-rce-part-one"
     ],
-    "tweetfavorites": 58,
+    "tweetfavorites": 60,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 22,
