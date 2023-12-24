@@ -76,10 +76,10 @@
     "expanded_url": [
         "https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC"
     ],
-    "tweetfavorites": 64,
+    "tweetfavorites": 67,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 8,
+    "tweetretweets": 9,
     "tweettext": "ofbiz-CVE-2023-49070-RCE-POC\nThis is a pre-auth RCE POC For CVE-2023-49070 which affected Apache ofbiz applications &lt; 18.12.10 due to xml-rpc java deserialzation bug. \n\nRepo: https://t.co/3ajtHTEpPx https://t.co/hl3B7GkXdw",
     "tweettime": "2023-12-21, 10:10:24",
     "tweeturl": "https://twitter.com/TheMsterDoctor1/status/1737777531925745729",
@@ -125,7 +125,7 @@
     "expanded_url": [
         "https://github.com/chromium/chromium/commit/340b7e300d380460a039a07b90f62d1febae9da5"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 49,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 7,
@@ -138,10 +138,10 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop_20.html"
     ],
-    "tweetfavorites": 221,
+    "tweetfavorites": 229,
     "tweetquotes": 4,
     "tweetreplies": 6,
-    "tweetretweets": 54,
+    "tweetretweets": 55,
     "tweettext": "💪🏼 Yesterday @_clem1 and @vladhiewsha discovered and reported a new ITW 0-day to the Chrome team. TODAY, 1 day later, Chrome has a fix out to protect users!!! Thank you, Chrome! CVE-2023-7024\n\nhttps://t.co/2tkx0Zc9pf",
     "tweettime": "2023-12-20, 20:41:01",
     "tweeturl": "https://twitter.com/maddiestone/status/1737573842649043270",
@@ -161,10 +161,10 @@
     "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2023/CVE-2023-36033.html"
     ],
-    "tweetfavorites": 210,
+    "tweetfavorites": 218,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 66,
+    "tweetretweets": 69,
     "tweettext": "🎁 New RCA up from @binjo of Mandiant FLARE on CVE-2023-36033, an EoP in Windows DWM Core Library that was patched in November! \n\nhttps://t.co/LUQUGh7fzU https://t.co/XJc9pOt3Ug",
     "tweettime": "2023-12-20, 20:14:49",
     "tweeturl": "https://twitter.com/maddiestone/status/1737567252071973027",
@@ -262,10 +262,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 40,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 9,
+    "tweetretweets": 10,
     "tweettext": "SharePointにおける、認証前状態からの遠隔コード実行のチェーン（攻撃コードを連鎖させる手法）に関するPoC（概念実証コード）が公開された。CVE-2023-29357とCVE-2023-24955を用いるもの。ハッキングコンテストPwn2Own Vancouver 2023て使用されたもの。 https://t.co/3b5IbYUfmp",
     "tweettime": "2023-12-18, 03:47:10",
     "tweeturl": "https://twitter.com/__kokumoto/status/1736593922888220829",
@@ -324,7 +324,7 @@
     "expanded_url": [
         "https://gist.github.com/testanull/dac6029d306147e6cc8dce9424d09868"
     ],
-    "tweetfavorites": 61,
+    "tweetfavorites": 60,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 22,
@@ -337,7 +337,7 @@
     "expanded_url": [
         "https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC"
     ],
-    "tweetfavorites": 90,
+    "tweetfavorites": 89,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 24,
@@ -363,7 +363,7 @@
     "expanded_url": [
         "https://bugs.chromium.org/p/chromium/issues/detail?id=1479274"
     ],
-    "tweetfavorites": 91,
+    "tweetfavorites": 92,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 23,
@@ -911,7 +911,7 @@
     "expanded_url": [
         "https://github.com/WebKit/WebKit/commit/00352dd86bfa102b6e4b792120e3ef3498a27d1e"
     ],
-    "tweetfavorites": 74,
+    "tweetfavorites": 75,
     "tweetquotes": 3,
     "tweetreplies": 3,
     "tweetretweets": 13,
