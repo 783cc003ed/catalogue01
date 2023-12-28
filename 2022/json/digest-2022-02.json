@@ -28,7 +28,7 @@
     "tweetfavorites": 89,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 32,
+    "tweetretweets": 33,
     "tweettext": "PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\" https://t.co/QtJ7xXtoKH #Pentesting #CVE #RCE #Windows #Vulnerability #Infosec https://t.co/uQhbym6v8j",
     "tweettime": "2022-02-27, 16:45:33",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1497976208692334595",
@@ -84,7 +84,7 @@
     "expanded_url": [
         "https://ruia-ruia.github.io/NFC-UAF/"
     ],
-    "tweetfavorites": 174,
+    "tweetfavorites": 173,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 61,

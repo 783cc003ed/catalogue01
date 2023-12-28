@@ -556,6 +556,21 @@
     "username": "wdormann"
 }
 {
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36439",
+        "https://www.shadowserver.org/what-we-do/network-reporting/vulnerable-exchange-server-report/",
+        "https://dashboard.shadowserver.org/statistics/combined/time-series/?date_range=7&source=exchange&source=exchange6&tag=cve-2023-36439%2B&style=stacked"
+    ],
+    "tweetfavorites": 166,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 64,
+    "tweettext": "We are reporting Microsoft Exchange Server CVE-2023-36439 vulnerable IPs (post-auth RCE). Over 63K vulnerable worldwide. Patch released Nov 14th - https://t.co/pBGFiK2uSD \n\nIP data for your constituency in https://t.co/ApcM9HwiOK\n\nDashboard tracker - https://t.co/MIDRauQ7SQ https://t.co/uNB6oNS7s1",
+    "tweettime": "2023-11-16, 11:45:29",
+    "tweeturl": "https://twitter.com/Shadowserver/status/1725117883246674086",
+    "username": "Shadowserver"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -927,7 +942,7 @@
     "tweetfavorites": 333,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 90,
+    "tweetretweets": 89,
     "tweettext": "CVE-2023-46747-RCE\n\nF5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability.\n\nhttps://t.co/xaCLWFXMa3\n\n#cve #cybersecurity #infosec https://t.co/rFDen7Tjbw",
     "tweettime": "2023-11-02, 10:21:05",
     "tweeturl": "https://twitter.com/hack_git/status/1720023214175195232",

