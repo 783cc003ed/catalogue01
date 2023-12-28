@@ -2,7 +2,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 71,
+    "tweetretweets": 88,
     "tweettext": "RT @S0ufi4n3: Potentiel shitstorm ahead:\n\nCVE-2023-51385: OpenSSH OS command injection vulnerability.\n\nMerry Christmas! \n\nhttps://t.co/RY6s…",
     "tweettime": "2023-12-24, 05:15:52",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1738790572431974482",
@@ -27,6 +27,19 @@
     "tweettime": "2023-12-23, 19:42:49",
     "tweeturl": "https://twitter.com/Dinosn/status/1738646358821675019",
     "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html"
+    ],
+    "tweetfavorites": 337,
+    "tweetquotes": 7,
+    "tweetreplies": 5,
+    "tweetretweets": 88,
+    "tweettext": "Potentiel shitstorm ahead:\n\nCVE-2023-51385: OpenSSH OS command injection vulnerability.\n\nMerry Christmas! \n\nhttps://t.co/RY6sEJf7dG",
+    "tweettime": "2023-12-23, 17:34:57",
+    "tweeturl": "https://twitter.com/S0ufi4n3/status/1738614180033265808",
+    "username": "S0ufi4n3"
 }
 {
     "tweetfavorites": 0,
@@ -354,7 +367,7 @@
     "expanded_url": [
         "https://github.com/ron-imperva/CVE-2023-22524"
     ],
-    "tweetfavorites": 86,
+    "tweetfavorites": 85,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 14,
