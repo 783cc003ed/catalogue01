@@ -25,10 +25,10 @@
     "expanded_url": [
         "https://github.com/UltimateSec/ultimaste-nuclei-templates/blob/main/ecology-oa%2Fecology-oa-filedownloadforoutdoc-sqli.yaml"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 54,
     "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 12,
     "tweettext": "CVE-2023-3793 - Weaver E-Cology SQL Injection.  Nuclei Template \n#BugBounty #SQLInjection\nhttps://t.co/vkij3yneeL https://t.co/HbFTmEpbV6",
     "tweettime": "2023-12-25, 18:58:54",
     "tweeturl": "https://twitter.com/zapstiko/status/1739360082536911220",
@@ -38,10 +38,10 @@
     "expanded_url": [
         "https://github.com/UltimateSec/ultimaste-nuclei-templates/blob/main/ecology-oa/ecology-oa-filedownloadforoutdoc-sqli.yaml"
     ],
-    "tweetfavorites": 154,
+    "tweetfavorites": 253,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 26,
+    "tweetreplies": 3,
+    "tweetretweets": 55,
     "tweettext": "A less known CVE-2023-3793 - Weaver E-Cology SQL Injection.  Nuclei Template Link Link: https://t.co/jhLMknvhcz \n\n#BugBounty #SQLInjection https://t.co/LuMIi3CLcE",
     "tweettime": "2023-12-25, 18:50:24",
     "tweeturl": "https://twitter.com/nav1n0x/status/1739357946574745661",
@@ -228,10 +228,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 98,
+    "tweetfavorites": 107,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 15,
+    "tweetretweets": 19,
     "tweettext": "=Mass exploitation of Sitecore remote code execution vulnerability (CVE-2023-35813).\n\n1-Shodan Dork : title:\"Sitecore\"\nCLI Command: shodan download --limit -1 sitecore 'title:\"Sitecore\"'\n\n#bugbounty #bugbountytip #bugbountytips https://t.co/AeuXpNtE6a",
     "tweettime": "2023-12-23, 06:46:47",
     "tweeturl": "https://twitter.com/e11i0t_4lders0n/status/1738451066281398490",
