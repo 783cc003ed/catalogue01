@@ -101,10 +101,10 @@
     "expanded_url": [
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/"
     ],
-    "tweetfavorites": 184,
+    "tweetfavorites": 183,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 77,
+    "tweetretweets": 78,
     "tweettext": "CVE-2023-46747: Compromising F5 BIG-IP With Request Smuggling. bypass configuration utility authentication, allowing an attacker with network access to the BIG-IP .... to execute arbitrary system commands. \n\nPoC\nhttps://t.co/hJ50WrUqv8 https://t.co/lKyjxF5OOD",
     "tweettime": "2023-10-27, 10:51:38",
     "tweeturl": "https://twitter.com/cyber_advising/status/1717856574293606621",
@@ -177,7 +177,7 @@
     "tweetfavorites": 243,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 78,
+    "tweetretweets": 79,
     "tweettext": "CVE-2023-36745:  Microsoft Exchange Server Remote Code Execution Vulnerability.\n\nPoC\nhttps://t.co/t7kkChV08Z https://t.co/UFUmuYBOy7",
     "tweettime": "2023-10-25, 07:12:11",
     "tweeturl": "https://twitter.com/cyber_advising/status/1717076572539117655",

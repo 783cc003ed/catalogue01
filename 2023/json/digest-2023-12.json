@@ -38,10 +38,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html"
     ],
-    "tweetfavorites": 165,
+    "tweetfavorites": 164,
     "tweetquotes": 7,
     "tweetreplies": 1,
-    "tweetretweets": 117,
+    "tweetretweets": 119,
     "tweettext": "⚠️ALERT: Chinese threat actors exploited a new zero-day #vulnerability (CVE-2023-7102) in Barracuda's Email Security Gateway (ESG) appliances.\n\nLearn how they deployed a backdoor on select devices.\n\nRead details: https://t.co/KyFWfDZhyd\n\n#cybersecurity #hacking",
     "tweettime": "2023-12-27, 12:35:38",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1739988409463308499",
@@ -162,10 +162,10 @@
     "expanded_url": [
         "https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html"
     ],
-    "tweetfavorites": 289,
+    "tweetfavorites": 325,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 118,
+    "tweetretweets": 134,
     "tweettext": "CVE-2023-51385: OpenSSH before 9.6, OS command injection might occur if a user name or host name has shell metacharacters, ...\nhttps://t.co/yeBGsdMD0X https://t.co/SCrciIStz5",
     "tweettime": "2023-12-24, 01:23:51",
     "tweeturl": "https://twitter.com/cyber_advising/status/1738732185371259158",
@@ -357,7 +357,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 271,
+    "tweetfavorites": 269,
     "tweetquotes": 20,
     "tweetreplies": 12,
     "tweetretweets": 140,
