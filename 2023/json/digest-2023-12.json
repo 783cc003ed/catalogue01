@@ -1,12 +1,90 @@
 {
+    "expanded_url": [
+        "https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html"
+    ],
+    "tweetfavorites": 99,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "⚠️ALERT: Chinese threat actors exploited a new zero-day #vulnerability (CVE-2023-7102) in Barracuda's Email Security Gateway (ESG) appliances.\n\nLearn how they deployed a backdoor on select devices.\n\nRead details: https://t.co/KyFWfDZhyd\n\n#cybersecurity #hacking",
+    "tweettime": "2023-12-27, 12:35:38",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1739988409463308499",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/UltimateSec/ultimaste-nuclei-templates/blob/main/ecology-oa%2Fecology-oa-filedownloadforoutdoc-sqli.yaml"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 3,
+    "tweettext": "CVE-2023-3793 - Weaver E-Cology SQL Injection.  Nuclei Template \n#BugBounty #SQLInjection\nhttps://t.co/vkij3yneeL https://t.co/HbFTmEpbV6",
+    "tweettime": "2023-12-25, 18:58:54",
+    "tweeturl": "https://twitter.com/zapstiko/status/1739360082536911220",
+    "username": "zapstiko"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2023-42465-sudo-affected-by-stack-register-flaw-openssh-openssl-and-mysql-are-vulnerable/"
+    ],
+    "tweetfavorites": 96,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 28,
+    "tweettext": "CVE-2023-42465: SUDO Affected by Stack/Register Flaw, OpenSSH, OpenSSL, and MySQL are Vulnerable https://t.co/jMoNpbApXM #pentesting #Vulnerability #cybersecurity #Infosec https://t.co/4WsDBkiLuG",
+    "tweettime": "2023-12-25, 01:00:13",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1739088626808463424",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 238,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 110,
+    "tweettext": "⚠️Una vulnerabilidad cŕítica en Outlook (CVE-2023-35628) de ejecución remota de código (RCE) afecta a la plataforma Microsoft Windows MSHTML, con una puntuación de gravedad de (CVSS) de 8,1 sobre 10.\n\nEsta vulnerabilidad es particularmente preocupante porque puede explotarse sin… https://t.co/IY58eqmlp7",
+    "tweettime": "2023-12-24, 12:33:06",
+    "tweeturl": "https://twitter.com/MarcVlp/status/1738900605463081039",
+    "username": "MarcVlp"
+}
+{
+    "expanded_url": [
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html",
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part2.html",
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html",
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part4.html"
+    ],
+    "tweetfavorites": 317,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 66,
+    "tweettext": "A few years old but sill a great series for learning Linux kernel exploitation\nCVE-2017-11176 (UaF in mq_notify function)\nCredits @LexfoSecurite\n\nhttps://t.co/9dvQOGgpeG\nhttps://t.co/JsvFkbr9iQ\nhttps://t.co/PANcb1P6In\nhttps://t.co/2qEPjbier7\n\n#Linux #kernel #infosec https://t.co/L0nsDvJPdM",
+    "tweettime": "2023-12-24, 08:30:11",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1738839474119852081",
+    "username": "0xor0ne"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 88,
+    "tweetretweets": 109,
     "tweettext": "RT @S0ufi4n3: Potentiel shitstorm ahead:\n\nCVE-2023-51385: OpenSSH OS command injection vulnerability.\n\nMerry Christmas! \n\nhttps://t.co/RY6s…",
     "tweettime": "2023-12-24, 05:15:52",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1738790572431974482",
     "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 34,
+    "tweettext": "Someone has posted a PoC for CVE-2023-51385 (client-side ssh RCE when using ProxyCommand) https://t.co/YKdeCexOlC",
+    "tweettime": "2023-12-23, 22:30:37",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1738688588609380786",
+    "username": "hackerfantastic"
 }
 {
     "tweetfavorites": 0,
@@ -145,7 +223,7 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html"
     ],
-    "tweetfavorites": 111,
+    "tweetfavorites": 110,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 68,
@@ -158,7 +236,7 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html"
     ],
-    "tweetfavorites": 234,
+    "tweetfavorites": 236,
     "tweetquotes": 8,
     "tweetreplies": 4,
     "tweetretweets": 158,
@@ -168,10 +246,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 264,
+    "tweetfavorites": 267,
     "tweetquotes": 18,
     "tweetreplies": 10,
-    "tweetretweets": 140,
+    "tweetretweets": 139,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2023-7024\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this zero-day vulnerability.\n\nShare &amp; stay safe! 🫡 https://t.co/yyN6kjFSFM",
     "tweettime": "2023-12-21, 01:44:23",
     "tweeturl": "https://twitter.com/wallet_guard/status/1737650186644607284",
@@ -194,7 +272,7 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop_20.html"
     ],
-    "tweetfavorites": 229,
+    "tweetfavorites": 230,
     "tweetquotes": 4,
     "tweetreplies": 6,
     "tweetretweets": 55,
@@ -255,7 +333,7 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 101,
+    "tweetfavorites": 100,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 35,
@@ -291,10 +369,10 @@
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 351,
+    "tweetfavorites": 355,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 111,
+    "tweetretweets": 115,
     "tweettext": "Happy to finally publish my research of finding a 0-click RCE vulnerability chain against Outlook client.\nFirst blogpost goes into details of bypassing Outlook's CVE-2023-23397 mitigation using Windows paths tricks.\nThe second one goes into audio codec decoding.",
     "tweettime": "2023-12-18, 16:21:59",
     "tweeturl": "https://twitter.com/nachoskrnl/status/1736783878700892253",
@@ -817,7 +895,7 @@
         "https://github.com/apache/struts/commit/162e29fee9136f4bfd9b2376da2cbf590f9ea163",
         "https://github.com/apache/struts/commit/d8c69691ef1d15e76a5f4fcf33039316da2340b6"
     ],
-    "tweetfavorites": 177,
+    "tweetfavorites": 176,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 40,
@@ -827,7 +905,7 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 82,
+    "tweetfavorites": 81,
     "tweetquotes": 4,
     "tweetreplies": 3,
     "tweetretweets": 33,
@@ -1020,7 +1098,7 @@
     "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2021/CVE-2021-4102.html"
     ],
-    "tweetfavorites": 133,
+    "tweetfavorites": 134,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 46,
@@ -1033,7 +1111,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 93,
+    "tweetretweets": 92,
     "tweettext": "RT @maddiestone: 💥New ITW 0-days discovered by @_clem1 and @benoitsevens . CVE-2023-6345 in Chrome (Skia) and CVE-2023-42916 and CVE-2023-4…",
     "tweettime": "2023-12-02, 08:50:42",
     "tweeturl": "https://twitter.com/0vercl0k/status/1730872103803519360",

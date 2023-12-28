@@ -68,7 +68,7 @@
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/",
         "https://my.f5.com/manage/s/article/K000137353"
     ],
-    "tweetfavorites": 529,
+    "tweetfavorites": 530,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 174,
@@ -78,7 +78,7 @@
     "username": "pdnuclei"
 }
 {
-    "tweetfavorites": 310,
+    "tweetfavorites": 309,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 57,
@@ -101,10 +101,10 @@
     "expanded_url": [
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/"
     ],
-    "tweetfavorites": 183,
+    "tweetfavorites": 184,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 78,
+    "tweetretweets": 77,
     "tweettext": "CVE-2023-46747: Compromising F5 BIG-IP With Request Smuggling. bypass configuration utility authentication, allowing an attacker with network access to the BIG-IP .... to execute arbitrary system commands. \n\nPoC\nhttps://t.co/hJ50WrUqv8 https://t.co/lKyjxF5OOD",
     "tweettime": "2023-10-27, 10:51:38",
     "tweeturl": "https://twitter.com/cyber_advising/status/1717856574293606621",
@@ -138,7 +138,7 @@
     "expanded_url": [
         "https://thehackernews.com/2023/10/f5-issues-warning-big-ip-vulnerability.html"
     ],
-    "tweetfavorites": 184,
+    "tweetfavorites": 182,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 95,
@@ -210,7 +210,7 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
     ],
-    "tweetfavorites": 251,
+    "tweetfavorites": 250,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 66,
@@ -434,7 +434,7 @@
     "expanded_url": [
         "https://big5-sec.github.io/posts/CVE-2023-29360-analysis/"
     ],
-    "tweetfavorites": 162,
+    "tweetfavorites": 161,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 46,
