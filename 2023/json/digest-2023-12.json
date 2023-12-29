@@ -1,11 +1,21 @@
 {
+    "tweetfavorites": 111,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 38,
+    "tweettext": "Microsoft (December 2021): Hey everybody, we've fixed CVE-2021-43890!\nMicrosoft (December 2023): Hey everybody, CVE-2021-43890 is being exploited in the wild!\nThe unspoken part (as far as I can tell): Whoops, we accidentally unfixed CVE-2021-43890 in April 2023.\n🤦‍♂️ https://t.co/TP7ZRcCBVF",
+    "tweettime": "2023-12-28, 22:16:00",
+    "tweeturl": "https://twitter.com/wdormann/status/1740496848635437248",
+    "username": "wdormann"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html"
     ],
-    "tweetfavorites": 77,
+    "tweetfavorites": 94,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 37,
+    "tweetretweets": 48,
     "tweettext": "Google Cloud said it observed the exploitation of CVE-2023-7102 targeting high-tech, information technology providers, and government entities, chiefly located in the U.S. and Asia-Pacific regions, no earlier than November 30, 2023.\n\nMore: https://t.co/KyFWfDZhyd",
     "tweettime": "2023-12-28, 11:10:12",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1740329294918984166",
@@ -15,10 +25,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html"
     ],
-    "tweetfavorites": 94,
+    "tweetfavorites": 98,
     "tweetquotes": 2,
     "tweetreplies": 5,
-    "tweetretweets": 62,
+    "tweetretweets": 64,
     "tweettext": "🚨 A new zero-day security flaw discovered in Apache OfBiz ERP system could allow unauthorized access.\n\nCVE-2023-51467 exposes incomplete patch for CVE-2023-49070 with a high CVSS score of 9.8.\n\nDetails: https://t.co/o5McGAS3rc\n\nUpdate now to protect your system!",
     "tweettime": "2023-12-27, 15:40:56",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1740035041860911146",
@@ -38,10 +48,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html"
     ],
-    "tweetfavorites": 164,
+    "tweetfavorites": 167,
     "tweetquotes": 7,
     "tweetreplies": 1,
-    "tweetretweets": 119,
+    "tweetretweets": 121,
     "tweettext": "⚠️ALERT: Chinese threat actors exploited a new zero-day #vulnerability (CVE-2023-7102) in Barracuda's Email Security Gateway (ESG) appliances.\n\nLearn how they deployed a backdoor on select devices.\n\nRead details: https://t.co/KyFWfDZhyd\n\n#cybersecurity #hacking",
     "tweettime": "2023-12-27, 12:35:38",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1739988409463308499",
@@ -113,10 +123,10 @@
     "expanded_url": [
         "https://bohops.com/2023/11/27/abusing-net-core-clr-diagnostic-features-cve-2023-33127/"
     ],
-    "tweetfavorites": 44,
+    "tweetfavorites": 60,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetretweets": 16,
     "tweettext": "\"Abusing .NET Core CLR Diagnostic Features (+ CVE-2023-33127)\"\n\n#infosec #pentest #redteam \nhttps://t.co/slxKLGIM0U https://t.co/MFd6R4vUWC",
     "tweettime": "2023-12-24, 14:28:01",
     "tweeturl": "https://twitter.com/CyberWarship/status/1738929525424087496",
