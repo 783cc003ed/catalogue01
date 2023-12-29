@@ -23,9 +23,22 @@
 }
 {
     "expanded_url": [
+        "https://blog.projectdiscovery.io/crushftp-rce/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CrushFTP - CVE-2023-43177 Unauthenticated Remote Code Execution https://t.co/l18DBBUj9r  #pentesting #cybersecurity #Infosec https://t.co/tWpYUPl6oS",
+    "tweettime": "2023-12-27, 22:00:08",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1740130468966682635",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html"
     ],
-    "tweetfavorites": 98,
+    "tweetfavorites": 99,
     "tweetquotes": 2,
     "tweetreplies": 5,
     "tweetretweets": 64,
@@ -51,7 +64,7 @@
     "tweetfavorites": 167,
     "tweetquotes": 7,
     "tweetreplies": 1,
-    "tweetretweets": 121,
+    "tweetretweets": 122,
     "tweettext": "⚠️ALERT: Chinese threat actors exploited a new zero-day #vulnerability (CVE-2023-7102) in Barracuda's Email Security Gateway (ESG) appliances.\n\nLearn how they deployed a backdoor on select devices.\n\nRead details: https://t.co/KyFWfDZhyd\n\n#cybersecurity #hacking",
     "tweettime": "2023-12-27, 12:35:38",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1739988409463308499",
@@ -605,7 +618,7 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 483,
+    "tweetfavorites": 482,
     "tweetquotes": 3,
     "tweetreplies": 3,
     "tweetretweets": 166,
@@ -824,7 +837,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 70,
+    "tweetretweets": 71,
     "tweettext": "RT @steventseeley: I can confirm that this is the correct analysis of the Apache struts bug I reported (CVE-2023-50164) https://t.co/xjpePY…",
     "tweettime": "2023-12-12, 10:58:47",
     "tweeturl": "https://twitter.com/testanull/status/1734528218429079937",
