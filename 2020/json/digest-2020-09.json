@@ -479,7 +479,7 @@
     "tweetfavorites": 36,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 10,
     "tweettext": "CVE-2019-17026 (Firefox JIT bug) \n\nNo sandbox escape included\n\nProof of Concept\nhttps://t.co/nmV6FS1tJD https://t.co/RCIS4SYHTh",
     "tweettime": "2020-09-02, 02:07:42",
     "tweeturl": "https://twitter.com/wugeej/status/1300978679518867457",

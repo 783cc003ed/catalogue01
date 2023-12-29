@@ -10,6 +10,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/WebKit/WebKit/commit/50c7aaec2f53ab3b960f1b299aad5009df6f1967"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "Apple Safari vulnerability exploited in 2nd stage of \"Operation Triangulation\" (CVE-2023-32435 [251890]) is a memory corruption issue within WASM due to allowing moving of not fitting offsets into instruction:\nhttps://t.co/psTxHOkcxp",
+    "tweettime": "2023-12-28, 14:18:33",
+    "tweeturl": "https://twitter.com/hosselot/status/1740376696480743692",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html"
     ],
     "tweetfavorites": 94,
@@ -393,7 +406,7 @@
     "expanded_url": [
         "https://github.com/chromium/chromium/commit/340b7e300d380460a039a07b90f62d1febae9da5"
     ],
-    "tweetfavorites": 49,
+    "tweetfavorites": 51,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 7,
