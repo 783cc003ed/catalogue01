@@ -45,10 +45,10 @@
     "expanded_url": [
         "https://github.com/WebKit/WebKit/commit/50c7aaec2f53ab3b960f1b299aad5009df6f1967"
     ],
-    "tweetfavorites": 72,
+    "tweetfavorites": 92,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 19,
+    "tweetretweets": 23,
     "tweettext": "Apple Safari vulnerability exploited in 2nd stage of \"Operation Triangulation\" (CVE-2023-32435 [251890]) is a memory corruption issue within WASM due to allowing moving of not fitting offsets into instruction:\nhttps://t.co/psTxHOkcxp",
     "tweettime": "2023-12-28, 14:18:33",
     "tweeturl": "https://twitter.com/hosselot/status/1740376696480743692",

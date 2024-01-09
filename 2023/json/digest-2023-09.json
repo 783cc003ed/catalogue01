@@ -15,8 +15,8 @@
     "expanded_url": [
         "https://chromium.googlesource.com/webm/libvpx/+/3fbd1dca6a4d2dad332a2110d646e4ffef36d590"
     ],
-    "tweetfavorites": 57,
-    "tweetquotes": 0,
+    "tweetfavorites": 60,
+    "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 11,
     "tweettext": "New Google Chrome In-The-Wild vulnerability used by a commercial surveillance vendor is a buffer overflow in vp8 encoding in libvpx (CVE-2023-5217 [1486441]) and happens due to allowing thread count change after encoder creation:\nhttps://t.co/CrswteBsh3",
