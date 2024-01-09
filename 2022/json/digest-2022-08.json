@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://www.openwall.com/lists/oss-security/2022/08/29/5"
     ],
-    "tweetfavorites": 741,
+    "tweetfavorites": 739,
     "tweetquotes": 11,
     "tweetreplies": 9,
-    "tweetretweets": 194,
+    "tweetretweets": 193,
     "tweettext": "I developed an N-day exploit for CVE-2022-2586: Linux kernel nft_object Use-After-Free (UAF). I sent my exploit and writeup to the oss-security mailing list: https://t.co/E6YZiBG8xW https://t.co/4B2RHa0T6M",
     "tweettime": "2022-08-29, 20:03:52",
     "tweeturl": "https://twitter.com/lockedbyte/status/1564343093633208321",
@@ -254,7 +254,7 @@
     "expanded_url": [
         "https://securitylab.github.com/advisories/GHSL-2022-043_Chromium/"
     ],
-    "tweetfavorites": 182,
+    "tweetfavorites": 184,
     "tweetquotes": 4,
     "tweetreplies": 2,
     "tweetretweets": 71,

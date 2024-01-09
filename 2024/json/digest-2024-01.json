@@ -35,6 +35,19 @@
     "username": "hackerfantastic"
 }
 {
+    "expanded_url": [
+        "https://thehackernews.com/2024/01/alert-ivanti-releases-patch-for.html"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 45,
+    "tweettext": "🚨 Alert: Ivanti releases updates for a critical #security vulnerability (CVE-2023-39336 / CVSS 9.6) in Endpoint Manager, which poses a risk of remote code execution on vulnerable servers.\n\nLearn more: https://t.co/PSs44OErG8\n\n#cybersecurity #informationsecurity",
+    "tweettime": "2024-01-05, 07:44:16",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1743176571903492492",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
