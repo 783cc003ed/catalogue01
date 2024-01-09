@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "RT @_0xf4n9x_: #CVE-2023-51467 Apache OFBiz auth bypass Groovy #RCE Vulnerability\n\nThe vuln stems from an incomplete patch fix for the CVE-…",
+    "tweettime": "2023-12-29, 23:07:18",
+    "tweeturl": "https://twitter.com/steventseeley/status/1740872148443639842",
+    "username": "steventseeley"
+}
+{
     "tweetfavorites": 111,
     "tweetquotes": 6,
     "tweetreplies": 3,
@@ -393,7 +403,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 269,
+    "tweetfavorites": 270,
     "tweetquotes": 20,
     "tweetreplies": 12,
     "tweetretweets": 140,
@@ -480,7 +490,7 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 100,
+    "tweetfavorites": 101,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 35,

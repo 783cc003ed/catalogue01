@@ -1,0 +1,20 @@
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "RT @TecR0c: Two major insecure deserialisation flaws in Inductive Automation’s Ignition (CVE-2023-39475 &amp; CVE-2023-39476) resulting in pre-…",
+    "tweettime": "2024-01-04, 08:25:41",
+    "tweeturl": "https://twitter.com/steventseeley/status/1742824609630871724",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 68,
+    "tweettext": "RT @R00tkitSMM: Seems someone has published an exploit for CVE-2023-32434, XNU kernel int overflow, one of CVEs in Operation Triangulation,…",
+    "tweettime": "2024-01-02, 22:29:50",
+    "tweeturl": "https://twitter.com/ddouhine/status/1742312271978639626",
+    "username": "ddouhine"
+}
