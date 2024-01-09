@@ -9,6 +9,29 @@
     "username": "steventseeley"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "RT @_0xf4n9x_: #CVE-2023-51467 Apache OFBiz auth bypass Groovy #RCE Vulnerability\n\nThe vuln stems from an incomplete patch fix for the CVE-…",
+    "tweettime": "2023-12-29, 22:27:24",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1740862105748992104",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://github.com/blackorbird/APT_REPORT/blob/master/group123/20231229_threat_inteligence_report_market.pdf"
+    ],
+    "tweetfavorites": 134,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "APT37/Group123 + LNK、HWP、HWPX、XLSX、DOCX\nCVE-2022-41128\nhttps://t.co/lDs3e3HpQv https://t.co/PCAJQfR8uD",
+    "tweettime": "2023-12-29, 03:54:20",
+    "tweeturl": "https://twitter.com/blackorbird/status/1740581993757417697",
+    "username": "blackorbird"
+}
+{
     "tweetfavorites": 111,
     "tweetquotes": 6,
     "tweetreplies": 3,
@@ -429,10 +452,10 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop_20.html"
     ],
-    "tweetfavorites": 230,
+    "tweetfavorites": 236,
     "tweetquotes": 4,
     "tweetreplies": 6,
-    "tweetretweets": 55,
+    "tweetretweets": 56,
     "tweettext": "💪🏼 Yesterday @_clem1 and @vladhiewsha discovered and reported a new ITW 0-day to the Chrome team. TODAY, 1 day later, Chrome has a fix out to protect users!!! Thank you, Chrome! CVE-2023-7024\n\nhttps://t.co/2tkx0Zc9pf",
     "tweettime": "2023-12-20, 20:41:01",
     "tweeturl": "https://twitter.com/maddiestone/status/1737573842649043270",
@@ -452,10 +475,10 @@
     "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2023/CVE-2023-36033.html"
     ],
-    "tweetfavorites": 219,
+    "tweetfavorites": 225,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 69,
+    "tweetretweets": 74,
     "tweettext": "🎁 New RCA up from @binjo of Mandiant FLARE on CVE-2023-36033, an EoP in Windows DWM Core Library that was patched in November! \n\nhttps://t.co/LUQUGh7fzU https://t.co/XJc9pOt3Ug",
     "tweettime": "2023-12-20, 20:14:49",
     "tweeturl": "https://twitter.com/maddiestone/status/1737567252071973027",
@@ -1258,7 +1281,7 @@
     "tweetfavorites": 134,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 46,
+    "tweetretweets": 45,
     "tweettext": "🪲 New RCA up for CVE-2021-4102 by @btiszka! It's a wild one in Chrome's Turbofan #itw0days\n\nhttps://t.co/Vr5Wj6aLSu",
     "tweettime": "2023-12-04, 19:13:37",
     "tweeturl": "https://twitter.com/maddiestone/status/1731753641667854625",

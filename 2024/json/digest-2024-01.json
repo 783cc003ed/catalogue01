@@ -22,6 +22,29 @@
     "username": "hetmehtaa"
 }
 {
+    "expanded_url": [
+        "https://securityonline.info/poc-released-for-microsoft-wordpad-cve-2023-36563-flaw-exploited-in-attacks/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "RT @reverseame: PoC released for Microsoft WordPad CVE-2023-36563 flaw exploited in attacks https://t.co/hleaRzs5wM",
+    "tweettime": "2024-01-05, 11:08:49",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1743228048839704933",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "RT @TecR0c: Two major insecure deserialisation flaws in Inductive Automation’s Ignition (CVE-2023-39475 &amp; CVE-2023-39476) resulting in pre-…",
+    "tweettime": "2024-01-04, 20:56:21",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1743013519480475898",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -35,11 +58,41 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @iagox86: Before the break, I started looking at CVE-2022-1471 in Confluence et al, which led me learn about SnakeYAML deserialization.…",
+    "tweettime": "2024-01-03, 21:45:55",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1742663607924719832",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 68,
+    "tweettext": "RT @R00tkitSMM: Seems someone has published an exploit for CVE-2023-32434, XNU kernel int overflow, one of CVEs in Operation Triangulation,…",
+    "tweettime": "2024-01-03, 10:44:27",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1742497142718022101",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 68,
     "tweettext": "RT @R00tkitSMM: Seems someone has published an exploit for CVE-2023-32434, XNU kernel int overflow, one of CVEs in Operation Triangulation,…",
     "tweettime": "2024-01-02, 22:29:50",
     "tweeturl": "https://twitter.com/ddouhine/status/1742312271978639626",
     "username": "ddouhine"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 209,
+    "tweettext": "RT @steventseeley: CVE-2023-51572. Beautiful bug, so simple. https://t.co/Xfxf7xQUt7",
+    "tweettime": "2024-01-02, 18:09:03",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1742246640100970928",
+    "username": "wvuuuuuuuuuuuuu"
 }
 {
     "tweetfavorites": 0,
