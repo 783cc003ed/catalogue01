@@ -1,4 +1,27 @@
 {
+    "expanded_url": [
+        "https://github.com/W01fh4cker/CVE-2023-46747-RCE"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 72,
+    "tweettext": "RT @Dinosn: Exploit for F5-big-ip RCE cve-2023-46747\n\nhttps://t.co/dzYEjc4mG5",
+    "tweettime": "2024-01-08, 22:08:25",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1744481209009176904",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 288,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 94,
+    "tweettext": "Top 10 Vulnerabilities of 2023:\n\n1. CVE-2023-34362: MOVEit Vulnerability\n\n2. CVE-2023-23397: MS Outlook PE\n\n3. CVE-2023-43641: 1-Click RCE on GNOME\n\n4. CVE-2023-28252: Windows CLFS PE\n\n5. CVE-2023-2868: Barracuda ESG CI\n\n6. CVE-2023-26360: Adobe ColdFusion\n\n7. CVE-2023-4966:…",
+    "tweettime": "2024-01-06, 15:16:44",
+    "tweeturl": "https://twitter.com/hetmehtaa/status/1743652830379143231",
+    "username": "hetmehtaa"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -17,4 +40,27 @@
     "tweettime": "2024-01-02, 22:29:50",
     "tweeturl": "https://twitter.com/ddouhine/status/1742312271978639626",
     "username": "ddouhine"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 259,
+    "tweettext": "RT @MrTuxracer: As promised: Here's the first $10,000 @Intel bug (aka CVE-2022-33942) that allows to bypass the authentication of Intel's D…",
+    "tweettime": "2024-01-02, 12:07:25",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1742155633472708830",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://qriousec.github.io/post/vbox-pwn2own-2023/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 128,
+    "tweettext": "RT @0xor0ne: VirtualBox internals and exploitation (CVE-2023-21987 and CVE-2023-21991) by @qriousec\n\nhttps://t.co/E3vPy2raRR\n\n#cybersecurit…",
+    "tweettime": "2024-01-01, 21:12:09",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1741930330767114433",
+    "username": "kmkz_security"
 }
