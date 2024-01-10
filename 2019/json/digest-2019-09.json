@@ -25,10 +25,10 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 48,
+    "tweetfavorites": 47,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 29,
+    "tweetretweets": 28,
     "tweettext": "مايكرسوفت  تصدر ترقيع لثغرتين حرجة إحداهم في المتصفح والأخرى في برنامج الحماية من مايكرسوفت CVE-2019-1367 — a critical IE zero-day under active attack.\nCVE-2019-1255 — DoS flaw in Microsoft Defender.\nالحل قم بتحديث الأمني في اسرع وقت https://t.co/TYUCBvRsq2",
     "tweettime": "2019-09-24, 16:03:31",
     "tweeturl": "https://twitter.com/MAlajab/status/1176527593304182784",
@@ -38,7 +38,7 @@
     "expanded_url": [
         "https://thehackernews.com/2019/09/windows-update-zero-day.html"
     ],
-    "tweetfavorites": 195,
+    "tweetfavorites": 196,
     "tweetquotes": 9,
     "tweetreplies": 2,
     "tweetretweets": 203,

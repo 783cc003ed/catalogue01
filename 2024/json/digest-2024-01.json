@@ -12,10 +12,10 @@
     "username": "kmkz_security"
 }
 {
-    "tweetfavorites": 288,
+    "tweetfavorites": 290,
     "tweetquotes": 0,
-    "tweetreplies": 3,
-    "tweetretweets": 94,
+    "tweetreplies": 4,
+    "tweetretweets": 95,
     "tweettext": "Top 10 Vulnerabilities of 2023:\n\n1. CVE-2023-34362: MOVEit Vulnerability\n\n2. CVE-2023-23397: MS Outlook PE\n\n3. CVE-2023-43641: 1-Click RCE on GNOME\n\n4. CVE-2023-28252: Windows CLFS PE\n\n5. CVE-2023-2868: Barracuda ESG CI\n\n6. CVE-2023-26360: Adobe ColdFusion\n\n7. CVE-2023-4966:…",
     "tweettime": "2024-01-06, 15:16:44",
     "tweeturl": "https://twitter.com/hetmehtaa/status/1743652830379143231",
