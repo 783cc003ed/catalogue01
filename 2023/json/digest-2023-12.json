@@ -56,6 +56,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/Cacti/cacti/security"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "🌵 Cacti fixed 2 high severity vulnerabilities found by our researcher Aleksey Solovev.\n\n💥 CVE-2023-49084 – RCE via managing links;\n💥 CVE-2023-49085 – SQLi via managing poller devices.\n\nRead the technical advisories here ↓ \nhttps://t.co/4JA0R4GTwc",
+    "tweettime": "2023-12-28, 12:37:28",
+    "tweeturl": "https://twitter.com/ptswarm/status/1740351256542019740",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html"
     ],
     "tweetfavorites": 94,

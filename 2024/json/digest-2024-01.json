@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 32,
+    "tweettext": "⚠️ Attention Kyocera &amp; QNAP users:\n\nKyocera addresses dangerous CVE-2023-50916 flaw, preventing unauthorized access. QNAP tackles CVE-2023-39296, safeguarding against crashes.\n\nRead details here: https://t.co/y3kjBuXbxH\n\n#cybersecurity #informationsecurity",
+    "tweettime": "2024-01-09, 13:32:57",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1744713874618655176",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://github.com/W01fh4cker/CVE-2023-46747-RCE"
     ],
     "tweetfavorites": 0,
