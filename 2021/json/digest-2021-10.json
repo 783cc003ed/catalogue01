@@ -864,7 +864,7 @@
     "tweetfavorites": 276,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 98,
+    "tweetretweets": 97,
     "tweettext": "Finally my disclosure request has been approved and here's a write-up of CVE-2021-26084, Confluence RCE. Though not much to add than what's already known of the CVE and it's exploits, i'm simply outlining my approach that led to this CVE .\n\nhttps://t.co/as1qLqNqMD",
     "tweettime": "2021-10-05, 16:07:58",
     "tweeturl": "https://twitter.com/bennyyjacob/status/1445420510590824451",
