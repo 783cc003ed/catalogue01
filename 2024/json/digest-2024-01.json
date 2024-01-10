@@ -1,4 +1,27 @@
 {
+    "tweetfavorites": 34,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 5,
+    "tweettext": "Akamai researcher Ben Barnea found a remote code execution vulnerability in the MSHTML platform (CVE-2023-35628) that can be targeted at Microsoft Outlook. We will share more technical details about this vulnerability in the upcoming weeks, so stay tuned.",
+    "tweettime": "2024-01-09, 22:35:10",
+    "tweeturl": "https://twitter.com/akamai_research/status/1744850325977075828",
+    "username": "akamai_research"
+}
+{
+    "expanded_url": [
+        "https://github.com/0x33c0unt/CVE-2024-21633"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "MobSF Remote code execution (via CVE-2024-21633) https://t.co/2k0UBlDvpX",
+    "tweettime": "2024-01-09, 15:03:13",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1744736591661400567",
+    "username": "_r_netsec"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html"
     ],
@@ -18,7 +41,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 72,
+    "tweetretweets": 83,
     "tweettext": "RT @Dinosn: Exploit for F5-big-ip RCE cve-2023-46747\n\nhttps://t.co/dzYEjc4mG5",
     "tweettime": "2024-01-08, 22:08:25",
     "tweeturl": "https://twitter.com/kmkz_security/status/1744481209009176904",
@@ -127,7 +150,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 209,
+    "tweetretweets": 210,
     "tweettext": "RT @steventseeley: CVE-2023-51572. Beautiful bug, so simple. https://t.co/Xfxf7xQUt7",
     "tweettime": "2024-01-02, 18:09:03",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1742246640100970928",
