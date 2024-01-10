@@ -1,4 +1,37 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
+    "tweettime": "2024-01-10, 20:10:21",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1745176269505912839",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2024/01/10/active-exploitation-of-two-zero-day-vulnerabilities-in-ivanti-connect-secure-vpn"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 61,
+    "tweettext": ".@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/CVE-2024-21887, to achieve RCE, modifying components of the software to backdoor the device.\n\nhttps://t.co/RibC5G0aOp\n\n#dfir #threatintel #memoryforensics",
+    "tweettime": "2024-01-10, 19:00:44",
+    "tweeturl": "https://twitter.com/Volexity/status/1745158750472728666",
+    "username": "Volexity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
+    "tweettime": "2024-01-10, 13:45:21",
+    "tweeturl": "https://twitter.com/wdormann/status/1745079381783982409",
+    "username": "wdormann"
+}
+{
     "expanded_url": [
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html",
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part2.html",
