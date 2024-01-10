@@ -299,7 +299,7 @@
     "tweetfavorites": 211,
     "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 71,
+    "tweetretweets": 72,
     "tweettext": "We found an approach to exploit Windows zero-day vuln #CVE-2021-40449 which has been used in #MysterySnail #APT activity. It is a use-after-free EoP vulnerability in Win32k and was patched on October 12, 2021.\n\nhttps://t.co/tXE7xMdvFv\nhttps://t.co/RYuEcDKLBO https://t.co/O9qwpEx5H4",
     "tweettime": "2021-10-20, 08:39:15",
     "tweeturl": "https://twitter.com/RedDrip7/status/1450743401641431048",
