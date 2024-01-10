@@ -1,4 +1,20 @@
 {
+    "expanded_url": [
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html",
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part2.html",
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html",
+        "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part4.html"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "Great tutorial by Nicolas Fabretti on Linux kernel exploitation using CVE-2017-11176 as example\n\nPart 1: https://t.co/h3p4DVcwGu\nPart 2: https://t.co/iiuRKsR26B\nPart 3: https://t.co/TtSVOwWAr4\nPart 4: https://t.co/4TNrDVqiBB\n\n#Linux #kernel #exploit https://t.co/asSYquWGFE",
+    "tweettime": "2024-01-10, 02:45:04",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1744913217762005411",
+    "username": "ptracesecurity"
+}
+{
     "tweetfavorites": 34,
     "tweetquotes": 2,
     "tweetreplies": 1,
@@ -121,6 +137,16 @@
     "tweettime": "2024-01-05, 07:44:16",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1743176571903492492",
     "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "RT @TecR0c: Two major insecure deserialisation flaws in Inductive Automation’s Ignition (CVE-2023-39475 &amp; CVE-2023-39476) resulting in pre-…",
+    "tweettime": "2024-01-04, 23:40:45",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1743054893802500415",
+    "username": "piedpiper1616"
 }
 {
     "tweetfavorites": 0,
