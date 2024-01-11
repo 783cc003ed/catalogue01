@@ -156,7 +156,7 @@
         "https://www.rcesecurity.com/2022/11/from-zero-to-hero-part-1-bypassing-intel-dcms-authentication-cve-2022-33942/",
         "https://www.rcesecurity.com/2022/12/from-zero-to-hero-part-2-intel-dcm-sql-injection-to-rce-cve-2022-21225/"
     ],
-    "tweetfavorites": 100,
+    "tweetfavorites": 101,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 43,
@@ -182,7 +182,7 @@
     "expanded_url": [
         "https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/"
     ],
-    "tweetfavorites": 375,
+    "tweetfavorites": 374,
     "tweetquotes": 7,
     "tweetreplies": 2,
     "tweetretweets": 136,
@@ -688,10 +688,10 @@
         "https://gist.github.com/testanull/518871a2e2057caa2bc9c6ae6634103e",
         "https://youtu.be/i4JcvwVuCSU"
     ],
-    "tweetfavorites": 312,
+    "tweetfavorites": 311,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 95,
+    "tweetretweets": 96,
     "tweettext": "Exchange TabShell RCE PoC (CVE-2022-41076) \n(Just copy paste the poc from @vcslab's blog post)\nStill wondering why this vulnerability is so underrated xD\nPoC script (for copy paste purpose): https://t.co/4jLfIxXkC3\nhttps://t.co/nHrJvpxqVn",
     "tweettime": "2023-01-09, 03:42:51",
     "tweeturl": "https://twitter.com/testanull/status/1612293798004162560",

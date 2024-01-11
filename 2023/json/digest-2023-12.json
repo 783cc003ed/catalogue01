@@ -185,7 +185,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 31,
+    "tweetretweets": 32,
     "tweettext": "RT @DhiyaneshDK: #KEV 🔥 CVE @pdnuclei  Template \n\n• CVE-2023-41265 - Qlik Sense Enterprise - HTTP Request Smuggling [critical] 🚨\n• CVE-2023…",
     "tweettime": "2023-12-24, 20:45:32",
     "tweeturl": "https://twitter.com/pdnuclei/status/1739024531355001267",
@@ -526,10 +526,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 101,
+    "tweetfavorites": 102,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 35,
+    "tweetretweets": 36,
     "tweettext": "Yeah, so this works just fine!\nUnauthenticated RCE on SharePoint as the SharePoint Admin user.\nBut just to be clear, CVE-2023-24955 and CVE-2023-29357 patches were released in May and June of this year, respectively.\nIf you don't have those patches installed by now, well... https://t.co/Ll3qaL16Gu",
     "tweettime": "2023-12-19, 16:21:30",
     "tweeturl": "https://twitter.com/wdormann/status/1737146147414688103",
@@ -1251,7 +1251,7 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/advisories/ZDI-23-1512/"
     ],
-    "tweetfavorites": 178,
+    "tweetfavorites": 177,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 41,

