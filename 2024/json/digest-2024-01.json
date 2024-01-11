@@ -2,7 +2,17 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 70,
+    "tweetretweets": 104,
+    "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
+    "tweettime": "2024-01-10, 20:57:26",
+    "tweeturl": "https://twitter.com/x0rz/status/1745188118490202221",
+    "username": "x0rz"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 105,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:10:21",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1745176269505912839",
@@ -81,10 +91,10 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 188,
+    "tweetfavorites": 195,
     "tweetquotes": 6,
     "tweetreplies": 1,
-    "tweetretweets": 68,
+    "tweetretweets": 69,
     "tweettext": "Akamai researcher Ben Barnea found a remote code execution vulnerability in the MSHTML platform (CVE-2023-35628) that can be targeted at Microsoft Outlook. We will share more technical details about this vulnerability in the upcoming weeks, so stay tuned.",
     "tweettime": "2024-01-09, 22:35:10",
     "tweeturl": "https://twitter.com/akamai_research/status/1744850325977075828",
@@ -259,6 +269,19 @@
     "tweettime": "2024-01-04, 08:25:41",
     "tweeturl": "https://twitter.com/steventseeley/status/1742824609630871724",
     "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://github.com/TecR0c/DoubleTrouble"
+    ],
+    "tweetfavorites": 135,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 39,
+    "tweettext": "Two major insecure deserialisation flaws in Inductive Automation’s Ignition (CVE-2023-39475 &amp; CVE-2023-39476) resulting in pre-auth remote code execution. For an in-depth root cause analysis and details on exploitation, see our full write-up below👇\n\nhttps://t.co/pE8R9eNWl5",
+    "tweettime": "2024-01-04, 08:24:56",
+    "tweeturl": "https://twitter.com/TecR0c/status/1742824420031545434",
+    "username": "TecR0c"
 }
 {
     "tweetfavorites": 0,

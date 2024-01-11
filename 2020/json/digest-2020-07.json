@@ -522,10 +522,10 @@
     "expanded_url": [
         "https://us-cert.cisa.gov/ncas/current-activity/2020/07/14/microsoft-addresses-wormable-rce-vulnerability-windows-dns-server#Cyber"
     ],
-    "tweetfavorites": 563,
+    "tweetfavorites": 567,
     "tweetquotes": 29,
     "tweetreplies": 23,
-    "tweetretweets": 421,
+    "tweetretweets": 422,
     "tweettext": "Microsoft has released an update addressing a “wormable” RCE vulnerability, CVE-2020-1350, in Windows DNS Server. Update asap! https://t.co/yjvpIgZbA3 #Cybersecurity #InfoSec",
     "tweettime": "2020-07-14, 18:32:33",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1283107131596722176",
