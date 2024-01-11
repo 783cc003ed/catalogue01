@@ -57,3 +57,121 @@
     "tweeturl": "https://twitter.com/TheHackersNews/status/939024972248256512",
     "username": "TheHackersNews"
 }
+{
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 9,
+    "tweettext": "The videos will assume you already have a basic knowledge of programming, assembly language and exploitation. Part 1 will cover CVE-2016-4655 - the kernel information leak vulnerability. Part 2 will cover CVE-2016-4656 - the kernel UAF",
+    "tweettime": "2017-12-26, 15:50:23",
+    "tweeturl": "https://twitter.com/bellis1000/status/945683217880842242",
+    "username": "bellis1000"
+}
+{
+    "tweetfavorites": 274,
+    "tweetquotes": 2,
+    "tweetreplies": 10,
+    "tweetretweets": 44,
+    "tweettext": "Progress! Successfully exploited CVE-2016-4655 to leak data from the kernel stack &amp; calculate the KASLR slide :) time to look at the CVE-2016-4656 UAF next https://t.co/qGwkdBW6AD",
+    "tweettime": "2017-12-22, 18:09:54",
+    "tweeturl": "https://twitter.com/bellis1000/status/944268776261988352",
+    "username": "bellis1000"
+}
+{
+    "expanded_url": [
+        "https://securite.intrinsec.com/2017/12/22/cve-2017-7344-fortinet-forticlient-windows-privilege-escalation-at-logon/"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 104,
+    "tweettext": "Vulnerability disclosure: #CVE-2017-7344\nGet SYSTEM privileges from the Windows logon screen by abusing the @Fortinet VPN client: #FortiClient (privilege escalation #privesc)\n➡️https://t.co/hsHeLWfx5u (#exploit steps included 💣)",
+    "tweettime": "2017-12-22, 14:04:49",
+    "tweeturl": "https://twitter.com/Intrinsec/status/944207098853904384",
+    "username": "Intrinsec"
+}
+{
+    "expanded_url": [
+        "https://devco.re/blog/2017/12/11/Exim-RCE-advisory-CVE-2017-16943-en/"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 175,
+    "tweettext": "We found RCE and DoS vulnerabilities (CVE-2017-16943, CVE-2017-16944) in the most popular mail server Exim last month. The advisory and technical details are now released!\n\nhttps://t.co/4krIAb6mzE",
+    "tweettime": "2017-12-11, 15:17:05",
+    "tweeturl": "https://twitter.com/mehqq_/status/940239020017123334",
+    "username": "mehqq_"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2017/12/windows-update-malware-protection.html"
+    ],
+    "tweetfavorites": 202,
+    "tweetquotes": 17,
+    "tweetreplies": 3,
+    "tweetretweets": 353,
+    "tweettext": "Microsoft Issues Emergency Windows Security Update For A Critical RCE Vulnerability (CVE-2017-11937) In Its Malware Protection Engine—Patch Now.\n\nhttps://t.co/x5BjpPOJEA\n\nFlaw Allows Attackers to Take Full Control of Your PC Remotely. https://t.co/cDvgFWIe2r",
+    "tweettime": "2017-12-08, 06:52:54",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/939024972248256512",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 9,
+    "tweettext": "The videos will assume you already have a basic knowledge of programming, assembly language and exploitation. Part 1 will cover CVE-2016-4655 - the kernel information leak vulnerability. Part 2 will cover CVE-2016-4656 - the kernel UAF",
+    "tweettime": "2017-12-26, 15:50:23",
+    "tweeturl": "https://twitter.com/bellis1000/status/945683217880842242",
+    "username": "bellis1000"
+}
+{
+    "tweetfavorites": 274,
+    "tweetquotes": 2,
+    "tweetreplies": 10,
+    "tweetretweets": 44,
+    "tweettext": "Progress! Successfully exploited CVE-2016-4655 to leak data from the kernel stack &amp; calculate the KASLR slide :) time to look at the CVE-2016-4656 UAF next https://t.co/qGwkdBW6AD",
+    "tweettime": "2017-12-22, 18:09:54",
+    "tweeturl": "https://twitter.com/bellis1000/status/944268776261988352",
+    "username": "bellis1000"
+}
+{
+    "expanded_url": [
+        "https://securite.intrinsec.com/2017/12/22/cve-2017-7344-fortinet-forticlient-windows-privilege-escalation-at-logon/"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 104,
+    "tweettext": "Vulnerability disclosure: #CVE-2017-7344\nGet SYSTEM privileges from the Windows logon screen by abusing the @Fortinet VPN client: #FortiClient (privilege escalation #privesc)\n➡️https://t.co/hsHeLWfx5u (#exploit steps included 💣)",
+    "tweettime": "2017-12-22, 14:04:49",
+    "tweeturl": "https://twitter.com/Intrinsec/status/944207098853904384",
+    "username": "Intrinsec"
+}
+{
+    "expanded_url": [
+        "https://devco.re/blog/2017/12/11/Exim-RCE-advisory-CVE-2017-16943-en/"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 175,
+    "tweettext": "We found RCE and DoS vulnerabilities (CVE-2017-16943, CVE-2017-16944) in the most popular mail server Exim last month. The advisory and technical details are now released!\n\nhttps://t.co/4krIAb6mzE",
+    "tweettime": "2017-12-11, 15:17:05",
+    "tweeturl": "https://twitter.com/mehqq_/status/940239020017123334",
+    "username": "mehqq_"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2017/12/windows-update-malware-protection.html"
+    ],
+    "tweetfavorites": 202,
+    "tweetquotes": 17,
+    "tweetreplies": 3,
+    "tweetretweets": 353,
+    "tweettext": "Microsoft Issues Emergency Windows Security Update For A Critical RCE Vulnerability (CVE-2017-11937) In Its Malware Protection Engine—Patch Now.\n\nhttps://t.co/x5BjpPOJEA\n\nFlaw Allows Attackers to Take Full Control of Your PC Remotely. https://t.co/cDvgFWIe2r",
+    "tweettime": "2017-12-08, 06:52:54",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/939024972248256512",
+    "username": "TheHackersNews"
+}

@@ -92,3 +92,191 @@
     "tweeturl": "https://twitter.com/steventseeley/status/1091329594026852352",
     "username": "steventseeley"
 }
+{
+    "expanded_url": [
+        "https://www.ambionics.io/blog/drupal8-rce",
+        "https://gist.github.com/leonjza/d0ab053be9b06fa020b66f00358e3d88"
+    ],
+    "tweetfavorites": 104,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "PoC for CVE-2019-6340, the #drupal 8 REST unauthenticated RCE based on https://t.co/5loZJxaiKs. Caching heavily messes with this one it seems, so the PoC tries to find usable nodes that are not cached. Tested with the drupal:8.6.9 docker container.\n\nhttps://t.co/8eNJ2hYjfu https://t.co/WFJJO6kTLm",
+    "tweettime": "2019-02-24, 17:30:48",
+    "tweeturl": "https://twitter.com/leonjza/status/1099723330746232832",
+    "username": "leonjza"
+}
+{
+    "expanded_url": [
+        "https://mp.weixin.qq.com/s/OissE9gAVkKmAXuiIUeOLA"
+    ],
+    "tweetfavorites": 240,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 169,
+    "tweettext": "[PoC] Windows DHCP Server Remote Code Execution Vulnerability Analysis (CVE-2019-0626)\n\nhttps://t.co/qc1ZClWiTd https://t.co/cPdN0RIgFO",
+    "tweettime": "2019-02-20, 23:08:16",
+    "tweeturl": "https://twitter.com/wugeej/status/1098358704536150016",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "http://bit.ly/2XdzMNm",
+        "http://bit.ly/2EkFPIs"
+    ],
+    "tweetfavorites": 238,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 128,
+    "tweettext": "Microsoft Edge RCE PoC (CVE-2018-8495). Nice payload by @kmkz_security \nhttps://t.co/JBz1wmms6W\n\nInitial  writeup: https://t.co/Jd5BrMN2zv",
+    "tweettime": "2019-02-20, 08:23:03",
+    "tweeturl": "https://twitter.com/XssPayloads/status/1098135934665719808",
+    "username": "XssPayloads"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/en/resources.html#publications"
+    ],
+    "tweetfavorites": 147,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 116,
+    "tweettext": "Slides for @elvanderb presentation \"macOS: how to gain root with CVE-2018-4193 in &lt; 10s\" @offensive_con are available! https://t.co/WGCDGBKJ1T",
+    "tweettime": "2019-02-19, 13:36:40",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1097852470645145600",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1760",
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1759"
+    ],
+    "tweetfavorites": 269,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 156,
+    "tweettext": "CVE-2019-7221 is a pretty nice guest-triggerable use-after-free in KVM (https://t.co/NhHXDsbWVV) and CVE-2019-7222 is an info leak to help with exploitation (https://t.co/tLV45JUKSv).",
+    "tweettime": "2019-02-15, 17:26:11",
+    "tweeturl": "https://twitter.com/_fel1x/status/1096460676678201344",
+    "username": "_fel1x"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=889459"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "Google reveals details about CVE-2018-18354, a remote code execution in Chrome, patched in December (Chrome 71)\n\nhttps://t.co/4pLAMCuZDs https://t.co/GINXF8wInO",
+    "tweettime": "2019-02-09, 12:33:39",
+    "tweeturl": "https://twitter.com/campuscodi/status/1094212733871030272",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/blog/2019/02/01/activex-exploitation-in-2018-instantiation-is-not-scripting.html"
+    ],
+    "tweetfavorites": 383,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 209,
+    "tweettext": "Heres my writeup for the discovery and exploitation of CVE-2018-19418 with the CVE-2018-19447 analysis thrown in!\n\nActiveX Exploitation in 2019 :: Instantiation is not Scripting https://t.co/NQBRdKKaSS",
+    "tweettime": "2019-02-01, 13:37:05",
+    "tweeturl": "https://twitter.com/steventseeley/status/1091329594026852352",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://www.ambionics.io/blog/drupal8-rce",
+        "https://gist.github.com/leonjza/d0ab053be9b06fa020b66f00358e3d88"
+    ],
+    "tweetfavorites": 104,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "PoC for CVE-2019-6340, the #drupal 8 REST unauthenticated RCE based on https://t.co/5loZJxaiKs. Caching heavily messes with this one it seems, so the PoC tries to find usable nodes that are not cached. Tested with the drupal:8.6.9 docker container.\n\nhttps://t.co/8eNJ2hYjfu https://t.co/WFJJO6kTLm",
+    "tweettime": "2019-02-24, 17:30:48",
+    "tweeturl": "https://twitter.com/leonjza/status/1099723330746232832",
+    "username": "leonjza"
+}
+{
+    "expanded_url": [
+        "https://mp.weixin.qq.com/s/OissE9gAVkKmAXuiIUeOLA"
+    ],
+    "tweetfavorites": 240,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 169,
+    "tweettext": "[PoC] Windows DHCP Server Remote Code Execution Vulnerability Analysis (CVE-2019-0626)\n\nhttps://t.co/qc1ZClWiTd https://t.co/cPdN0RIgFO",
+    "tweettime": "2019-02-20, 23:08:16",
+    "tweeturl": "https://twitter.com/wugeej/status/1098358704536150016",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "http://bit.ly/2XdzMNm",
+        "http://bit.ly/2EkFPIs"
+    ],
+    "tweetfavorites": 238,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 128,
+    "tweettext": "Microsoft Edge RCE PoC (CVE-2018-8495). Nice payload by @kmkz_security \nhttps://t.co/JBz1wmms6W\n\nInitial  writeup: https://t.co/Jd5BrMN2zv",
+    "tweettime": "2019-02-20, 08:23:03",
+    "tweeturl": "https://twitter.com/XssPayloads/status/1098135934665719808",
+    "username": "XssPayloads"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/en/resources.html#publications"
+    ],
+    "tweetfavorites": 147,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 116,
+    "tweettext": "Slides for @elvanderb presentation \"macOS: how to gain root with CVE-2018-4193 in &lt; 10s\" @offensive_con are available! https://t.co/WGCDGBKJ1T",
+    "tweettime": "2019-02-19, 13:36:40",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1097852470645145600",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1760",
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1759"
+    ],
+    "tweetfavorites": 269,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 156,
+    "tweettext": "CVE-2019-7221 is a pretty nice guest-triggerable use-after-free in KVM (https://t.co/NhHXDsbWVV) and CVE-2019-7222 is an info leak to help with exploitation (https://t.co/tLV45JUKSv).",
+    "tweettime": "2019-02-15, 17:26:11",
+    "tweeturl": "https://twitter.com/_fel1x/status/1096460676678201344",
+    "username": "_fel1x"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=889459"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "Google reveals details about CVE-2018-18354, a remote code execution in Chrome, patched in December (Chrome 71)\n\nhttps://t.co/4pLAMCuZDs https://t.co/GINXF8wInO",
+    "tweettime": "2019-02-09, 12:33:39",
+    "tweeturl": "https://twitter.com/campuscodi/status/1094212733871030272",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/blog/2019/02/01/activex-exploitation-in-2018-instantiation-is-not-scripting.html"
+    ],
+    "tweetfavorites": 383,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 209,
+    "tweettext": "Heres my writeup for the discovery and exploitation of CVE-2018-19418 with the CVE-2018-19447 analysis thrown in!\n\nActiveX Exploitation in 2019 :: Instantiation is not Scripting https://t.co/NQBRdKKaSS",
+    "tweettime": "2019-02-01, 13:37:05",
+    "tweeturl": "https://twitter.com/steventseeley/status/1091329594026852352",
+    "username": "steventseeley"
+}
