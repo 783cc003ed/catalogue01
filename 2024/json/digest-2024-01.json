@@ -206,10 +206,10 @@
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html",
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part4.html"
     ],
-    "tweetfavorites": 34,
+    "tweetfavorites": 74,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 21,
     "tweettext": "Great tutorial by Nicolas Fabretti on Linux kernel exploitation using CVE-2017-11176 as example\n\nPart 1: https://t.co/h3p4DVcwGu\nPart 2: https://t.co/iiuRKsR26B\nPart 3: https://t.co/TtSVOwWAr4\nPart 4: https://t.co/4TNrDVqiBB\n\n#Linux #kernel #exploit https://t.co/asSYquWGFE",
     "tweettime": "2024-01-10, 02:45:04",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1744913217762005411",
@@ -255,10 +255,10 @@
     "expanded_url": [
         "https://github.com/W01fh4cker/CVE-2023-46747-RCE"
     ],
-    "tweetfavorites": 33,
+    "tweetfavorites": 40,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 10,
+    "tweetretweets": 12,
     "tweettext": "Exploit for F5 BIG-IP RCE CVE-2023-46747\n🔗https://t.co/J5SpgBCMKy",
     "tweettime": "2024-01-09, 06:13:24",
     "tweeturl": "https://twitter.com/HunterMapping/status/1744603258537324886",
@@ -281,10 +281,10 @@
     "expanded_url": [
         "https://github.com/W01fh4cker/CVE-2023-46747-RCE"
     ],
-    "tweetfavorites": 252,
+    "tweetfavorites": 256,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 84,
+    "tweetretweets": 87,
     "tweettext": "Exploit for F5-big-ip RCE cve-2023-46747\n\nhttps://t.co/dzYEjc4mG5",
     "tweettime": "2024-01-08, 11:22:54",
     "tweeturl": "https://twitter.com/Dinosn/status/1744318756984172648",
