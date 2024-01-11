@@ -2,7 +2,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 104,
+    "tweetretweets": 122,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:57:26",
     "tweeturl": "https://twitter.com/x0rz/status/1745188118490202221",
@@ -76,6 +76,29 @@
 }
 {
     "expanded_url": [
+        "https://securityonline.info/cve-2023-41056-redis-remote-code-execution-vulnerability/"
+    ],
+    "tweetfavorites": 195,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 58,
+    "tweettext": "CVE-2023-41056: Redis Remote Code Execution Vulnerability https://t.co/rFBi9pqhEH",
+    "tweettime": "2024-01-10, 10:39:28",
+    "tweeturl": "https://twitter.com/Dinosn/status/1745032601822187848",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 83,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "🚨Alert🚨CVE-2023-41056: Redis Remote Code Execution Vulnerability\nRedis may incorrectly handle resizing of memory buffers which can result in incorrect accounting of buffer sizes and lead to heap overflow and potential remote code execution.\n\n📊 1.4M+ services are found on the… https://t.co/CDwt2l9GMh",
+    "tweettime": "2024-01-10, 09:36:30",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1745016756392108477",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html",
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part2.html",
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html",
@@ -91,10 +114,10 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 195,
+    "tweetfavorites": 199,
     "tweetquotes": 6,
     "tweetreplies": 1,
-    "tweetretweets": 69,
+    "tweetretweets": 70,
     "tweettext": "Akamai researcher Ben Barnea found a remote code execution vulnerability in the MSHTML platform (CVE-2023-35628) that can be targeted at Microsoft Outlook. We will share more technical details about this vulnerability in the upcoming weeks, so stay tuned.",
     "tweettime": "2024-01-09, 22:35:10",
     "tweeturl": "https://twitter.com/akamai_research/status/1744850325977075828",
