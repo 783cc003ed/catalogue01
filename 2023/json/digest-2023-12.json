@@ -844,10 +844,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2023-36004"
     ],
-    "tweetfavorites": 267,
+    "tweetfavorites": 264,
     "tweetquotes": 4,
     "tweetreplies": 20,
-    "tweetretweets": 36,
+    "tweetretweets": 35,
     "tweettext": "Got my first Microsoft CVE 🔥\n\nCVE-2023-36004: Windows DPAPI (Data Protection Application Programming Interface) Spoofing Vulnerability\n\nhttps://t.co/nWuuldqKnp",
     "tweettime": "2023-12-12, 19:55:09",
     "tweeturl": "https://twitter.com/AndrewOliveau/status/1734663199511785613",

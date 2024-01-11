@@ -25,11 +25,44 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 65,
+    "tweettext": "RT @akamai_research: Akamai researcher Ben Barnea found a remote code execution vulnerability in the MSHTML platform (CVE-2023-35628) that…",
+    "tweettime": "2024-01-10, 16:07:07",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1745115058345062492",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 63,
+    "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
+    "tweettime": "2024-01-10, 16:04:18",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1745114351902625871",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 62,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 13:45:21",
     "tweeturl": "https://twitter.com/wdormann/status/1745079381783982409",
     "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "Unauthenticated RCE in Adobe Coldfusion – CVE-2023-26360 https://t.co/k770Dfxv7Q",
+    "tweettime": "2024-01-10, 12:43:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1745063716788527325",
+    "username": "_r_netsec"
 }
 {
     "expanded_url": [
@@ -48,10 +81,10 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 34,
-    "tweetquotes": 2,
+    "tweetfavorites": 188,
+    "tweetquotes": 6,
     "tweetreplies": 1,
-    "tweetretweets": 5,
+    "tweetretweets": 68,
     "tweettext": "Akamai researcher Ben Barnea found a remote code execution vulnerability in the MSHTML platform (CVE-2023-35628) that can be targeted at Microsoft Outlook. We will share more technical details about this vulnerability in the upcoming weeks, so stay tuned.",
     "tweettime": "2024-01-09, 22:35:10",
     "tweeturl": "https://twitter.com/akamai_research/status/1744850325977075828",
@@ -136,14 +169,27 @@
     "username": "TodayCyberNews"
 }
 {
-    "tweetfavorites": 290,
+    "tweetfavorites": 292,
     "tweetquotes": 0,
     "tweetreplies": 4,
-    "tweetretweets": 95,
+    "tweetretweets": 96,
     "tweettext": "Top 10 Vulnerabilities of 2023:\n\n1. CVE-2023-34362: MOVEit Vulnerability\n\n2. CVE-2023-23397: MS Outlook PE\n\n3. CVE-2023-43641: 1-Click RCE on GNOME\n\n4. CVE-2023-28252: Windows CLFS PE\n\n5. CVE-2023-2868: Barracuda ESG CI\n\n6. CVE-2023-26360: Adobe ColdFusion\n\n7. CVE-2023-4966:…",
     "tweettime": "2024-01-06, 15:16:44",
     "tweeturl": "https://twitter.com/hetmehtaa/status/1743652830379143231",
     "username": "hetmehtaa"
+}
+{
+    "expanded_url": [
+        "https://blog.silentsignal.eu/2023/07/03/ibm-i-dde-vulnerability-cve-2023-30990/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 9,
+    "tweettext": "Technical Details of CVE-2023-30990 - Unauthenticated RCE in IBM i DDM Service https://t.co/ekowXbObbL #pentesting #RCE #CVE #cybersecurity #Infosec https://t.co/EGvnNs4uuU",
+    "tweettime": "2024-01-05, 23:00:12",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1743407075101696109",
+    "username": "ptracesecurity"
 }
 {
     "expanded_url": [
@@ -190,6 +236,19 @@
     "tweettime": "2024-01-04, 20:56:21",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1743013519480475898",
     "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://blog.silentsignal.eu/2023/07/03/ibm-i-dde-vulnerability-cve-2023-30990/"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 26,
+    "tweettext": "Technical Details of CVE-2023-30990 - Unauthenticated RCE in IBM i DDM Service\nhttps://t.co/vUKIlJRWzs",
+    "tweettime": "2024-01-04, 15:46:00",
+    "tweeturl": "https://twitter.com/pentest_swissky/status/1742935416876019871",
+    "username": "pentest_swissky"
 }
 {
     "tweetfavorites": 0,
