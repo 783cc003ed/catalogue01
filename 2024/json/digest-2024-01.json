@@ -32,6 +32,19 @@
     "username": "Volexity"
 }
 {
+    "expanded_url": [
+        "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "Unauthenticated RCE in Adobe Coldfusion – CVE-2023-26360 https://t.co/s6NqXVyEKl",
+    "tweettime": "2024-01-10, 18:10:31",
+    "tweeturl": "https://twitter.com/Dinosn/status/1745146115274498159",
+    "username": "Dinosn"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -55,6 +68,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 88,
+    "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
+    "tweettime": "2024-01-10, 14:00:08",
+    "tweeturl": "https://twitter.com/testanull/status/1745083104161648746",
+    "username": "testanull"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 62,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 13:45:21",
@@ -65,10 +88,10 @@
     "expanded_url": [
         "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 38,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetretweets": 16,
     "tweettext": "Unauthenticated RCE in Adobe Coldfusion – CVE-2023-26360 https://t.co/k770Dfxv7Q",
     "tweettime": "2024-01-10, 12:43:06",
     "tweeturl": "https://twitter.com/_r_netsec/status/1745063716788527325",
@@ -287,7 +310,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 38,
+    "tweetretweets": 39,
     "tweettext": "RT @TecR0c: Two major insecure deserialisation flaws in Inductive Automation’s Ignition (CVE-2023-39475 &amp; CVE-2023-39476) resulting in pre-…",
     "tweettime": "2024-01-04, 08:25:41",
     "tweeturl": "https://twitter.com/steventseeley/status/1742824609630871724",
