@@ -285,7 +285,7 @@
     "tweetfavorites": 63,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 36,
+    "tweetretweets": 35,
     "tweettext": "CVE-2023-34051: VMware Aria Operations for Logs contains an authentication bypass vulnerability. An unauthenticated, malicious actor can inject files into the operating system of an impacted appliance which can result in remote code execution.\n\nPoC\nhttps://t.co/Usl4Nx8Zvv https://t.co/9QZwLddFSl",
     "tweettime": "2023-10-21, 17:44:02",
     "tweeturl": "https://twitter.com/cyber_advising/status/1715786031587303601",
