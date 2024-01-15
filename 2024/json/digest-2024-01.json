@@ -68,10 +68,23 @@
     "username": "TheHackersNews"
 }
 {
+    "expanded_url": [
+        "https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE_2023_4069"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 7,
+    "tweettext": "Chrome's V8 type confusion CVE-2023-4069\nhttps://t.co/5hCBtAh1Fb",
+    "tweettime": "2024-01-13, 09:04:16",
+    "tweeturl": "https://twitter.com/momika233/status/1746095807517114660",
+    "username": "momika233"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 37,
+    "tweetretweets": 39,
     "tweettext": "RT @Gi7w0rm: One has to admire @circl_lu for truthfully sharing their opinion regarding #Ivanti 's handling of the 2 #0day s\n#CVE-2023-4680…",
     "tweettime": "2024-01-13, 07:21:29",
     "tweeturl": "https://twitter.com/x0rz/status/1746069943781646826",
@@ -97,7 +110,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 70,
+    "tweetretweets": 115,
     "tweettext": "RT @MDSecLabs: Exploiting CVE-2024-20656, a Local Privilege Escalation in the VSStandardCollectorService150 Service https://t.co/zCj3o31RPn…",
     "tweettime": "2024-01-13, 01:39:04",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1745983773009965559",
@@ -172,7 +185,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 110,
+    "tweetretweets": 149,
     "tweettext": "RT @rwincey: GitLab CVE-2023-7028 POC\n\nuser[email][]=valid@email.com&amp;user[email][]=attacker@email.com \n\n- PWNED",
     "tweettime": "2024-01-12, 12:00:12",
     "tweeturl": "https://twitter.com/momika233/status/1745777697069150454",
@@ -192,10 +205,10 @@
     "expanded_url": [
         "https://github.com/m417z/CVE-2023-36003-POC"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 33,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 12,
     "tweettext": "GitHub - m417z/CVE-2023-36003-POC: Privilege escalation using the XAML diagnostics API (CVE-2023-36003) - https://t.co/xl3v685NG1",
     "tweettime": "2024-01-12, 04:00:14",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1745656907652817193",
@@ -241,10 +254,10 @@
     "expanded_url": [
         "https://www.synacktiv.com/advisories/remote-code-execution-on-cisco-access-point-wap371-firmware-1307"
     ],
-    "tweetfavorites": 153,
+    "tweetfavorites": 176,
     "tweetquotes": 1,
-    "tweetreplies": 4,
-    "tweetretweets": 31,
+    "tweetreplies": 7,
+    "tweetretweets": 37,
     "tweettext": "Our ninja @_Worty identified a remote code execution from a privileged user in Cisco Access Point WAP371. This vulnerability referenced as CVE-2024-20287 will not be patched, apply network restrictions to protect your appliances.\nhttps://t.co/lDFkEqkvXP",
     "tweettime": "2024-01-11, 07:45:45",
     "tweeturl": "https://twitter.com/Synacktiv/status/1745351273514221591",
@@ -280,7 +293,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 117,
+    "tweetretweets": 118,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 23:20:38",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1745224159087788540",
@@ -290,7 +303,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 163,
+    "tweetretweets": 164,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:57:26",
     "tweeturl": "https://twitter.com/x0rz/status/1745188118490202221",
