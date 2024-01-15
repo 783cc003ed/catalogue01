@@ -9,6 +9,16 @@
     "username": "jedisct1"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @watchtowrcyber: 🚀 We have reproduced both in-the-wild exploited Ivanti zero-days (CVE-2023-46805 &amp; CVE-2024-21887) 🥷\n\nWe've released so…",
+    "tweettime": "2024-01-14, 00:41:45",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1746331733023146247",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "expanded_url": [
         "https://labs.watchtowr.com/welcome-to-2024-the-sslvpn-chaos-continues-ivanti-cve-2023-46805-cve-2024-21887/"
     ],
@@ -82,6 +92,19 @@
     "tweettime": "2024-01-13, 01:39:04",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1745983773009965559",
     "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://qriousec.github.io/post/vbox-pwn2own-2023/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "RT @reverseame: Analysis of VirtualBox CVE-2023-21987 and CVE-2023-21991 https://t.co/KXagYQVM5a",
+    "tweettime": "2024-01-12, 18:37:39",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1745877718011392069",
+    "username": "kmkz_security"
 }
 {
     "expanded_url": [
@@ -241,7 +264,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 156,
+    "tweetretweets": 164,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:52:25",
     "tweeturl": "https://twitter.com/kmkz_security/status/1745186858378604919",
@@ -271,7 +294,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 161,
+    "tweetretweets": 164,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 19:20:49",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1745163805481369772",
@@ -281,7 +304,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 117,
+    "tweetretweets": 118,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 19:20:35",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1745163746119430554",
@@ -419,7 +442,7 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 220,
+    "tweetfavorites": 221,
     "tweetquotes": 6,
     "tweetreplies": 1,
     "tweetretweets": 77,
@@ -474,7 +497,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 87,
+    "tweetretweets": 88,
     "tweettext": "RT @Dinosn: Exploit for F5-big-ip RCE cve-2023-46747\n\nhttps://t.co/dzYEjc4mG5",
     "tweettime": "2024-01-08, 22:08:25",
     "tweeturl": "https://twitter.com/kmkz_security/status/1744481209009176904",

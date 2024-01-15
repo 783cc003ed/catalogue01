@@ -105,10 +105,10 @@
     "expanded_url": [
         "https://big5-sec.github.io/posts/CVE-2023-29360-analysis/"
     ],
-    "tweetfavorites": 202,
+    "tweetfavorites": 198,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 109,
+    "tweetretweets": 105,
     "tweettext": "Here is a little analysis of @masthoon's CVE-2023-29360, a beautiful LPE he used during last Pwn2own: https://t.co/m4P72rsXCr https://t.co/RLGnYzpBw3",
     "tweettime": "2023-08-18, 22:11:42",
     "tweeturl": "https://twitter.com/Big5_sec/status/1692660567272489229",
@@ -151,7 +151,7 @@
     "expanded_url": [
         "https://blog.assetnote.io/2023/08/09/exploiting-citrix-netscaler-cve-2023-3519/"
     ],
-    "tweetfavorites": 203,
+    "tweetfavorites": 204,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 52,

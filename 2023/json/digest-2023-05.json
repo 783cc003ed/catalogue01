@@ -51,7 +51,7 @@
     "tweetfavorites": 71,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 21,
+    "tweetretweets": 20,
     "tweettext": "🎯 GitLab CE/EE Path Traversal Vulnerability (CVE-2023-2825)\n\nOn May 23, 2023, GitLab released version 16.0.1, which addressed a critical vulnerability,\n\nShodan Dork: \napplication-77ee44de16d2f31b4ddfd214b60b6327fe48b92df7054b1fb928fd6d4439fc7e.css\n\n#gitlab #BugBounty  #poc #cve https://t.co/l6b3jLip6j",
     "tweettime": "2023-05-26, 14:28:35",
     "tweeturl": "https://twitter.com/TodayCyberNews/status/1662103439936200710",
