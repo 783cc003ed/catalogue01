@@ -2,7 +2,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 62,
+    "tweetretweets": 69,
     "tweettext": "RT @JusticeRage: RCE in Redis &lt; 7.2.4 (CVE-2023-41056)\nI haven't seen a lot of noise about this one. Redis is everywhere (NextCloud, Mastod…",
     "tweettime": "2024-01-14, 11:12:47",
     "tweeturl": "https://twitter.com/jedisct1/status/1746490540684632551",
@@ -46,6 +46,16 @@
     "tweettime": "2024-01-13, 10:46:38",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1746121570571960764",
     "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @Gi7w0rm: One has to admire @circl_lu for truthfully sharing their opinion regarding #Ivanti 's handling of the 2 #0day s\n#CVE-2023-4680…",
+    "tweettime": "2024-01-13, 07:21:29",
+    "tweeturl": "https://twitter.com/x0rz/status/1746069943781646826",
+    "username": "x0rz"
 }
 {
     "expanded_url": [
@@ -221,7 +231,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 161,
+    "tweetretweets": 163,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:57:26",
     "tweeturl": "https://twitter.com/x0rz/status/1745188118490202221",
