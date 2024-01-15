@@ -482,3 +482,16 @@
     "tweeturl": "https://twitter.com/maddiestone/status/1653777081157971968",
     "username": "maddiestone"
 }
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2023/5/1/cve-2023-28231-rce-in-the-microsoft-windows-dhcpv6-service"
+    ],
+    "tweetfavorites": 117,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 54,
+    "tweettext": "CVE-2023-28231: The Trend Micro Research Team takes a in depth look at this recently patched RCE bug in the #Microsoft #Windows DHCPv6 service. Their write-up includes root cause analysis and detection guidance: Read the details at https://t.co/2Pm6bMoc1b",
+    "tweettime": "2023-05-02, 16:14:26",
+    "tweeturl": "https://twitter.com/thezdi/status/1653432769391869952",
+    "username": "thezdi"
+}
