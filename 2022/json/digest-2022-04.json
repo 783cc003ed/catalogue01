@@ -268,7 +268,7 @@
     "tweetfavorites": 782,
     "tweetquotes": 16,
     "tweetreplies": 8,
-    "tweetretweets": 323,
+    "tweetretweets": 322,
     "tweettext": "Everyone's talking about the 9.8 RCE bug in Windows RPC runtime (CVE-2022-26809). @nachoskrnl bin-diffed rpcrt4.dll and located the integer overflow that was patched. Read about it here - https://t.co/jIakqMaDHh\nPatch now, and ffs don't expose TCP 445 to the internet. https://t.co/Adj8tvctlA",
     "tweettime": "2022-04-13, 21:41:03",
     "tweeturl": "https://twitter.com/OphirHarpaz/status/1514358026668552197",
@@ -381,7 +381,7 @@
     "expanded_url": [
         "https://www.rapid7.com/blog/post/2022/04/12/cve-2022-24527-microsoft-connected-cache-local-privilege-escalation-fixed/"
     ],
-    "tweetfavorites": 149,
+    "tweetfavorites": 148,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 46,

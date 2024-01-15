@@ -1,11 +1,181 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "RT @JusticeRage: RCE in Redis &lt; 7.2.4 (CVE-2023-41056)\nI haven't seen a lot of noise about this one. Redis is everywhere (NextCloud, Mastod…",
+    "tweettime": "2024-01-14, 11:12:47",
+    "tweeturl": "https://twitter.com/jedisct1/status/1746490540684632551",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://labs.watchtowr.com/welcome-to-2024-the-sslvpn-chaos-continues-ivanti-cve-2023-46805-cve-2024-21887/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "Welcome To 2024, The SSLVPN Chaos Continues - Ivanti CVE-2023-46805 &amp; CVE-2024-21887 https://t.co/TXz5OwpcVK",
+    "tweettime": "2024-01-13, 15:21:27",
+    "tweeturl": "https://twitter.com/Dinosn/status/1746190732375847147",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.mdsec.co.uk/2024/01/cve-2024-20656-local-privilege-escalation-in-vsstandardcollectorservice150-service/"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2024-20656 – Local Privilege Escalation in the VSStandardCollectorService150 Service https://t.co/x4VrWu0rIX #pentesting #cybersecurity #Infosec https://t.co/kXTe6ktZ14",
+    "tweettime": "2024-01-13, 12:30:08",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1746147618189709581",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "🚨 Critical Update! Juniper Networks addresses a major 9.8-rated RCE #vulnerability in SRX Series firewalls &amp; EX Series switches.\n\nCVE-2024-21591 details here: https://t.co/JGccZ8wLOf\n\n#hacking",
+    "tweettime": "2024-01-13, 10:46:38",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1746121570571960764",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/Wh04m1001/CVE-2024-20656"
+    ],
+    "tweetfavorites": 104,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "CVE-2024-20656 \n\nWindows LPE in the VSStandardCollectorService150 service\n\nhttps://t.co/YCTRscoqFN\n\n#cve #cybersecurity #infosec https://t.co/7zYvFVdq2R",
+    "tweettime": "2024-01-13, 06:52:50",
+    "tweeturl": "https://twitter.com/hack_git/status/1746062732103737543",
+    "username": "hack_git"
+}
+{
+    "expanded_url": [
+        "https://www.mdsec.co.uk/2024/01/cve-2024-20656-local-privilege-escalation-in-vsstandardcollectorservice150-service/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "RT @MDSecLabs: Exploiting CVE-2024-20656, a Local Privilege Escalation in the VSStandardCollectorService150 Service https://t.co/zCj3o31RPn…",
+    "tweettime": "2024-01-13, 01:39:04",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1745983773009965559",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://www.mdsec.co.uk/2024/01/cve-2024-20656-local-privilege-escalation-in-vsstandardcollectorservice150-service/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 86,
+    "tweettext": "RT @MDSecLabs: Exploiting CVE-2024-20656, a Local Privilege Escalation in the VSStandardCollectorService150 Service https://t.co/zCj3o31RPn…",
+    "tweettime": "2024-01-12, 18:12:05",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1745871283735212123",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/01/urgent-gitlab-releases-patch-for.html"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "#GitLab users, beware! Security updates released to address critical vulnerabilities (CVE-2023-7028 and CVE-2023-5356).\n\nOne of these could allow account takeover without user interaction.\n\nFind details here: https://t.co/xgyuMfbj6Y\n\n#cybersecurity #hacking #infosec",
+    "tweettime": "2024-01-12, 13:07:08",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1745794541041373399",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 110,
+    "tweettext": "RT @rwincey: GitLab CVE-2023-7028 POC\n\nuser[email][]=valid@email.com&amp;user[email][]=attacker@email.com \n\n- PWNED",
+    "tweettime": "2024-01-12, 12:00:12",
+    "tweeturl": "https://twitter.com/momika233/status/1745777697069150454",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 161,
+    "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
+    "tweettime": "2024-01-12, 09:35:43",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1745741334923637002",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://github.com/m417z/CVE-2023-36003-POC"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "GitHub - m417z/CVE-2023-36003-POC: Privilege escalation using the XAML diagnostics API (CVE-2023-36003) - https://t.co/xl3v685NG1",
+    "tweettime": "2024-01-12, 04:00:14",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1745656907652817193",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 70,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "A threat actor claims to have a target, a company with $22 billion in revenue, vulnerable to CVE-2019-11510\n\nCVE-2019-11510 - In Pulse Connect Secure an unauthenticated remote attacker can send a specially crafted URI to perform an arbitrary file reading vulnerability.\n\n#DarkWeb https://t.co/cjK6RBg60P",
+    "tweettime": "2024-01-11, 19:00:01",
+    "tweeturl": "https://twitter.com/DailyDarkWeb/status/1745520957484044476",
+    "username": "DailyDarkWeb"
+}
+{
+    "expanded_url": [
+        "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "Unauthenticated RCE in Adobe Coldfusion – CVE-2023-26360\n\n#Infosec #RCE #BugBounty https://t.co/iHlXwNUyIc",
+    "tweettime": "2024-01-11, 18:57:03",
+    "tweeturl": "https://twitter.com/hetmehtaa/status/1745520211032465820",
+    "username": "hetmehtaa"
+}
+{
+    "expanded_url": [
+        "https://github.com/DebugPrivilege/InsightEngineering/tree/main/Debugging%20Case%20Studies/Debug%20Case%20Study%3A%20SharePoint%20Pre-Auth%20Code%20Injection%20RCE%20chain%20CVE-2023-29357%20%26%20CVE-2023-24955"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "Debug Case Study: SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955\n\nInteresting memory dump analysis by @DebugPrivilege \n\nhttps://t.co/TbED9DJvCU\n\n#infosec #cybersecurity #hacking https://t.co/PU0mp1tsZC",
+    "tweettime": "2024-01-11, 17:37:30",
+    "tweeturl": "https://twitter.com/payloadartist/status/1745500192139546688",
+    "username": "payloadartist"
+}
+{
     "expanded_url": [
         "https://www.synacktiv.com/advisories/remote-code-execution-on-cisco-access-point-wap371-firmware-1307"
     ],
-    "tweetfavorites": 100,
-    "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 20,
+    "tweetfavorites": 153,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 31,
     "tweettext": "Our ninja @_Worty identified a remote code execution from a privileged user in Cisco Access Point WAP371. This vulnerability referenced as CVE-2024-20287 will not be patched, apply network restrictions to protect your appliances.\nhttps://t.co/lDFkEqkvXP",
     "tweettime": "2024-01-11, 07:45:45",
     "tweeturl": "https://twitter.com/Synacktiv/status/1745351273514221591",
@@ -15,20 +185,33 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/chinese-hackers-exploit-zero-day-flaws.html"
     ],
-    "tweetfavorites": 88,
+    "tweetfavorites": 156,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 47,
+    "tweetretweets": 95,
     "tweettext": "⚠️ Urgent Alert: Chinese hackers exploiting two NEW ZERO-DAY vulnerabilities (CVE-2023-46805 &amp; CVE-2024-21887) in Ivanti Connect Secure and Policy Secure. \n\nRead more: https://t.co/ViOGfKOORp\n\nPatches incoming, but immediate action (temporary workarounds) is needed.",
     "tweettime": "2024-01-11, 05:50:08",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1745322177736409140",
     "username": "TheHackersNews"
 }
 {
+    "expanded_url": [
+        "https://thehackernews.com/2024/01/cisco-fixes-high-risk-vulnerability.html"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 47,
+    "tweettext": "🚨 Cisco patches a serious flaw in Unity Connection (CVE-2024-20272, CVSS 7.3).\n\nDon't let attackers compromise your system. Check if your version is affected and update now.\n\nFull details here 👉 https://t.co/NXyRCVCMZ7\n\n#cybersecurity #informationsecurity",
+    "tweettime": "2024-01-11, 04:58:08",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1745309090874626333",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 108,
+    "tweetretweets": 117,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 23:20:38",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1745224159087788540",
@@ -38,7 +221,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 150,
+    "tweetretweets": 161,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:57:26",
     "tweeturl": "https://twitter.com/x0rz/status/1745188118490202221",
@@ -48,7 +231,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 135,
+    "tweetretweets": 156,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:52:25",
     "tweeturl": "https://twitter.com/kmkz_security/status/1745186858378604919",
@@ -68,7 +251,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 153,
+    "tweetretweets": 161,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:02:42",
     "tweeturl": "https://twitter.com/buffaloverflow/status/1745174347126346166",
@@ -78,7 +261,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 150,
+    "tweetretweets": 161,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 19:20:49",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1745163805481369772",
@@ -88,7 +271,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 108,
+    "tweetretweets": 117,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 19:20:35",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1745163746119430554",
@@ -98,10 +281,10 @@
     "expanded_url": [
         "https://www.volexity.com/blog/2024/01/10/active-exploitation-of-two-zero-day-vulnerabilities-in-ivanti-connect-secure-vpn"
     ],
-    "tweetfavorites": 80,
-    "tweetquotes": 7,
-    "tweetreplies": 1,
-    "tweetretweets": 61,
+    "tweetfavorites": 289,
+    "tweetquotes": 21,
+    "tweetreplies": 5,
+    "tweetretweets": 159,
     "tweettext": ".@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/CVE-2024-21887, to achieve RCE, modifying components of the software to backdoor the device.\n\nhttps://t.co/RibC5G0aOp\n\n#dfir #threatintel #memoryforensics",
     "tweettime": "2024-01-10, 19:00:44",
     "tweeturl": "https://twitter.com/Volexity/status/1745158750472728666",
@@ -111,10 +294,10 @@
     "expanded_url": [
         "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"
     ],
-    "tweetfavorites": 40,
+    "tweetfavorites": 81,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 24,
     "tweettext": "Unauthenticated RCE in Adobe Coldfusion – CVE-2023-26360 https://t.co/s6NqXVyEKl",
     "tweettime": "2024-01-10, 18:10:31",
     "tweeturl": "https://twitter.com/Dinosn/status/1745146115274498159",
@@ -144,7 +327,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 88,
+    "tweetretweets": 113,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 14:00:08",
     "tweeturl": "https://twitter.com/testanull/status/1745083104161648746",
@@ -154,7 +337,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 105,
+    "tweetretweets": 116,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 13:45:21",
     "tweeturl": "https://twitter.com/wdormann/status/1745079381783982409",
@@ -164,10 +347,10 @@
     "expanded_url": [
         "https://github.com/DebugPrivilege/InsightEngineering/tree/main/Debugging%20Case%20Studies/Debug%20Case%20Study%3A%20SharePoint%20Pre-Auth%20Code%20Injection%20RCE%20chain%20CVE-2023-29357%20%26%20CVE-2023-24955"
     ],
-    "tweetfavorites": 253,
+    "tweetfavorites": 294,
     "tweetquotes": 1,
-    "tweetreplies": 4,
-    "tweetretweets": 92,
+    "tweetreplies": 5,
+    "tweetretweets": 115,
     "tweettext": "Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a memory dump of the w3wp.exe process. I cover different debugging techniques that can be applied to other w3wp.exe dumps as well. https://t.co/9EYBfr4opF https://t.co/X2NMluwQsL",
     "tweettime": "2024-01-10, 13:30:52",
     "tweeturl": "https://twitter.com/DebugPrivilege/status/1745075738783453604",
@@ -177,7 +360,7 @@
     "expanded_url": [
         "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 50,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 20,
@@ -190,20 +373,20 @@
     "expanded_url": [
         "https://securityonline.info/cve-2023-41056-redis-remote-code-execution-vulnerability/"
     ],
-    "tweetfavorites": 195,
-    "tweetquotes": 1,
+    "tweetfavorites": 281,
+    "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 58,
+    "tweetretweets": 84,
     "tweettext": "CVE-2023-41056: Redis Remote Code Execution Vulnerability https://t.co/rFBi9pqhEH",
     "tweettime": "2024-01-10, 10:39:28",
     "tweeturl": "https://twitter.com/Dinosn/status/1745032601822187848",
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 83,
+    "tweetfavorites": 122,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 27,
+    "tweetretweets": 41,
     "tweettext": "🚨Alert🚨CVE-2023-41056: Redis Remote Code Execution Vulnerability\nRedis may incorrectly handle resizing of memory buffers which can result in incorrect accounting of buffer sizes and lead to heap overflow and potential remote code execution.\n\n📊 1.4M+ services are found on the… https://t.co/CDwt2l9GMh",
     "tweettime": "2024-01-10, 09:36:30",
     "tweeturl": "https://twitter.com/HunterMapping/status/1745016756392108477",
@@ -226,10 +409,10 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 213,
+    "tweetfavorites": 220,
     "tweetquotes": 6,
     "tweetreplies": 1,
-    "tweetretweets": 75,
+    "tweetretweets": 77,
     "tweettext": "Akamai researcher Ben Barnea found a remote code execution vulnerability in the MSHTML platform (CVE-2023-35628) that can be targeted at Microsoft Outlook. We will share more technical details about this vulnerability in the upcoming weeks, so stay tuned.",
     "tweettime": "2024-01-09, 22:35:10",
     "tweeturl": "https://twitter.com/akamai_research/status/1744850325977075828",
@@ -265,10 +448,10 @@
     "expanded_url": [
         "https://github.com/W01fh4cker/CVE-2023-46747-RCE"
     ],
-    "tweetfavorites": 40,
+    "tweetfavorites": 42,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 13,
     "tweettext": "Exploit for F5 BIG-IP RCE CVE-2023-46747\n🔗https://t.co/J5SpgBCMKy",
     "tweettime": "2024-01-09, 06:13:24",
     "tweeturl": "https://twitter.com/HunterMapping/status/1744603258537324886",
@@ -291,10 +474,10 @@
     "expanded_url": [
         "https://github.com/W01fh4cker/CVE-2023-46747-RCE"
     ],
-    "tweetfavorites": 256,
+    "tweetfavorites": 259,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 87,
+    "tweetretweets": 88,
     "tweettext": "Exploit for F5-big-ip RCE cve-2023-46747\n\nhttps://t.co/dzYEjc4mG5",
     "tweettime": "2024-01-08, 11:22:54",
     "tweeturl": "https://twitter.com/Dinosn/status/1744318756984172648",
@@ -470,6 +653,19 @@
     "tweettime": "2024-01-02, 18:09:03",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1742246640100970928",
     "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2023-32434-exploited-poc-unlocks-full-command-of-ios-devices/"
+    ],
+    "tweetfavorites": 94,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "CVE-2023-32434 Exploited: PoC Unlocks Full Command of iOS Devices\nProof-of-concept (PoC) code has been released for a zero-day iOS vulnerability (CVE-2023-32434) that can be chained to take full control of a mobile device\nhttps://t.co/zNPOWz17tE https://t.co/GkynlvAo78",
+    "tweettime": "2024-01-02, 15:01:20",
+    "tweeturl": "https://twitter.com/the_yellow_fall/status/1742199402851106870",
+    "username": "the_yellow_fall"
 }
 {
     "tweetfavorites": 0,

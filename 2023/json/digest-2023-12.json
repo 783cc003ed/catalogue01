@@ -439,10 +439,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 271,
+    "tweetfavorites": 273,
     "tweetquotes": 20,
     "tweetreplies": 12,
-    "tweetretweets": 137,
+    "tweetretweets": 139,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2023-7024\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this zero-day vulnerability.\n\nShare &amp; stay safe! 🫡 https://t.co/yyN6kjFSFM",
     "tweettime": "2023-12-21, 01:44:23",
     "tweeturl": "https://twitter.com/wallet_guard/status/1737650186644607284",
@@ -465,7 +465,7 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop_20.html"
     ],
-    "tweetfavorites": 236,
+    "tweetfavorites": 235,
     "tweetquotes": 4,
     "tweetreplies": 6,
     "tweetretweets": 56,
@@ -488,7 +488,7 @@
     "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2023/CVE-2023-36033.html"
     ],
-    "tweetfavorites": 225,
+    "tweetfavorites": 224,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 74,
@@ -677,7 +677,7 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 482,
+    "tweetfavorites": 481,
     "tweetquotes": 3,
     "tweetreplies": 3,
     "tweetretweets": 166,
@@ -844,7 +844,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2023-36004"
     ],
-    "tweetfavorites": 264,
+    "tweetfavorites": 265,
     "tweetquotes": 4,
     "tweetreplies": 20,
     "tweetretweets": 35,

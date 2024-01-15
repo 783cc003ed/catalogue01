@@ -68,17 +68,17 @@
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/",
         "https://my.f5.com/manage/s/article/K000137353"
     ],
-    "tweetfavorites": 530,
+    "tweetfavorites": 529,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 174,
+    "tweetretweets": 177,
     "tweettext": "Scan for F5 BIG-IP - Unauthenticated RCE via AJP Smuggling (CVE-2023-46747) using nuclei templates shared by  @iamnoooob @rootxharsh \n\nTemplate - https://t.co/rRWXJTXS55\n\nAnalysis - https://t.co/F9Z7VKdL7j by @praetorianlabs\n\nAdvisory - https://t.co/5Rqei12XBR… https://t.co/fKE1dxU8ps",
     "tweettime": "2023-10-29, 19:11:08",
     "tweeturl": "https://twitter.com/pdnuclei/status/1718707055308005468",
     "username": "pdnuclei"
 }
 {
-    "tweetfavorites": 309,
+    "tweetfavorites": 310,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 57,
@@ -96,6 +96,16 @@
     "tweettime": "2023-10-27, 14:37:59",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1717913537031356661",
     "username": "DailyDarkWeb"
+}
+{
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 3,
+    "tweettext": ".@Apple has fixed an 'Address Bar Spoofing' vulnerability that I reported alongside @Haalim1337. It has been designated as CVE-2023-42438. The fix is shipped with \"macOS Sanoma\", the bug is a variant of a regression bug, I discovered many years ago. #apple #CyberSecurity https://t.co/TC8JHv5fnv",
+    "tweettime": "2023-10-27, 11:25:37",
+    "tweeturl": "https://twitter.com/rafaybaloch/status/1717865128484327774",
+    "username": "rafaybaloch"
 }
 {
     "expanded_url": [
@@ -177,7 +187,7 @@
     "tweetfavorites": 243,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 79,
+    "tweetretweets": 78,
     "tweettext": "CVE-2023-36745:  Microsoft Exchange Server Remote Code Execution Vulnerability.\n\nPoC\nhttps://t.co/t7kkChV08Z https://t.co/UFUmuYBOy7",
     "tweettime": "2023-10-25, 07:12:11",
     "tweeturl": "https://twitter.com/cyber_advising/status/1717076572539117655",
@@ -213,7 +223,7 @@
     "tweetfavorites": 249,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 66,
+    "tweetretweets": 65,
     "tweettext": "Linux kernel exploitation writeup by @ExodusIntel\nCVE-2022-32250 : use-after-free targeting Linux kernel 5.18.1 \n\nhttps://t.co/W6U8j5bZtq\n\n#Linux #kernel #exploit #cve #infosec #cybersecurity https://t.co/b1osYO4V6O",
     "tweettime": "2023-10-24, 16:30:15",
     "tweeturl": "https://twitter.com/0xor0ne/status/1716854626899702179",
@@ -282,10 +292,10 @@
     "expanded_url": [
         "https://github.com/horizon3ai/CVE-2023-34051"
     ],
-    "tweetfavorites": 63,
+    "tweetfavorites": 62,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 35,
+    "tweetretweets": 36,
     "tweettext": "CVE-2023-34051: VMware Aria Operations for Logs contains an authentication bypass vulnerability. An unauthenticated, malicious actor can inject files into the operating system of an impacted appliance which can result in remote code execution.\n\nPoC\nhttps://t.co/Usl4Nx8Zvv https://t.co/9QZwLddFSl",
     "tweettime": "2023-10-21, 17:44:02",
     "tweeturl": "https://twitter.com/cyber_advising/status/1715786031587303601",
@@ -516,7 +526,7 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 629,
+    "tweetfavorites": 630,
     "tweetquotes": 6,
     "tweetreplies": 8,
     "tweetretweets": 174,

@@ -48,7 +48,7 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 128,
+    "tweetfavorites": 127,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 32,
@@ -58,10 +58,10 @@
     "username": "thecybertix"
 }
 {
-    "tweetfavorites": 229,
+    "tweetfavorites": 224,
     "tweetquotes": 10,
     "tweetreplies": 9,
-    "tweetretweets": 107,
+    "tweetretweets": 108,
     "tweettext": "⚠️ CRITICAL ALERT\n🚨 ZERO-DAY on Chrome\n\nGoogle has patched the fifth Chrome zero-day vulnerability exploited in attacks since the start of the year in emergency security updates released today.\n\nUPDATE YOUR DEVICES NOW &amp; PLEASE SHARE!\n\nCVE-2023-5217 https://t.co/ErkYnLWleG",
     "tweettime": "2023-09-27, 22:38:56",
     "tweeturl": "https://twitter.com/wallet_guard/status/1707162938669142435",
@@ -114,7 +114,7 @@
     "expanded_url": [
         "https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/"
     ],
-    "tweetfavorites": 241,
+    "tweetfavorites": 240,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 90,
@@ -163,7 +163,7 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
     ],
-    "tweetfavorites": 253,
+    "tweetfavorites": 252,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 76,
@@ -189,7 +189,7 @@
     "expanded_url": [
         "https://blog.isosceles.com/the-webp-0day/"
     ],
-    "tweetfavorites": 854,
+    "tweetfavorites": 855,
     "tweetquotes": 32,
     "tweetreplies": 16,
     "tweetretweets": 344,
@@ -261,7 +261,7 @@
     "expanded_url": [
         "https://thehackernews.com/2023/09/google-rushes-to-patch-critical-chrome.html"
     ],
-    "tweetfavorites": 475,
+    "tweetfavorites": 476,
     "tweetquotes": 14,
     "tweetreplies": 10,
     "tweetretweets": 299,
@@ -290,7 +290,7 @@
     "tweetfavorites": 277,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 98,
+    "tweetretweets": 97,
     "tweettext": "CVE-2022-34718: Patch analysis, bug identification and exploit development (Windows TCP/IP Remote Code Execution Vulnerability)\nExcellent blog post by @chompie1337 \n\nhttps://t.co/ZDEOVqM765 \n\n#cybersecurity #cve #exploit https://t.co/7WfuQUqbeG",
     "tweettime": "2023-09-11, 16:30:13",
     "tweeturl": "https://twitter.com/0xor0ne/status/1701271939149389927",
@@ -326,7 +326,7 @@
     "expanded_url": [
         "https://github.com/dhmosfunk/CVE-2023-25690-POC"
     ],
-    "tweetfavorites": 323,
+    "tweetfavorites": 322,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 121,
@@ -399,10 +399,10 @@
     "expanded_url": [
         "https://github.com/sinsinology/CVE-2023-34039"
     ],
-    "tweetfavorites": 114,
+    "tweetfavorites": 111,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 38,
+    "tweetretweets": 37,
     "tweettext": "CVE-2023-34039\n\nPOC for CVE-2023-34039 VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE\n\nhttps://t.co/ZIBwnUGnFy\n\n#cve #cybersecurity #infosec #pentesting #redteam https://t.co/sG6l7gYHsX",
     "tweettime": "2023-09-02, 11:50:51",
     "tweeturl": "https://twitter.com/hack_git/status/1697940146253902274",

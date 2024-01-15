@@ -668,10 +668,10 @@
     "expanded_url": [
         "https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred"
     ],
-    "tweetfavorites": 694,
+    "tweetfavorites": 693,
     "tweetquotes": 11,
     "tweetreplies": 14,
-    "tweetretweets": 274,
+    "tweetretweets": 273,
     "tweettext": "My first ever blog post: Anatomy of an Exploit: RCE CVE-2020-1350 #SIGRed. RCE PoC included, for research purposes. This was my first userland Windows heap exploit and I hope a deep dive into the process will help others. Patch or apply the workaround. https://t.co/CFRTs7Wdvs",
     "tweettime": "2021-03-02, 17:19:16",
     "tweeturl": "https://twitter.com/chompie1337/status/1366800284563963907",
