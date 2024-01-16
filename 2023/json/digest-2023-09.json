@@ -277,7 +277,7 @@
     "tweetfavorites": 105,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 26,
+    "tweetretweets": 25,
     "tweettext": "The new In-The-Wild Google Chrome Heap buffer overflow in WebP (CVE-2023-4863) is due to an out-of-bounds write vulnerability within the \"BuildHuffmanTable\" function:\nhttps://t.co/74LEkbLeCO",
     "tweettime": "2023-09-11, 21:48:02",
     "tweeturl": "https://twitter.com/hosselot/status/1701351922953748881",
