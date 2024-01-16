@@ -12,6 +12,55 @@
     "username": "TheHackersNews"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 97,
+    "tweettext": "RT @Volexity: .@Volexity provides an update on its Ivanti Connect Secure VPN report concerning chained exploitation of CVE-2024-21887/CVE-2…",
+    "tweettime": "2024-01-16, 00:06:12",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1747047562211651691",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2023-26360: Unauthenticated RCE in Adobe Coldfusion.\n\nPoC\nhttps://t.co/UhWmip3uLb https://t.co/atdxo3H4F6",
+    "tweettime": "2024-01-15, 17:56:56",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1746954633589785078",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/m417z/CVE-2023-36003-POC"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "CVE-2023-36003: Privilege escalation using the XAML diagnostics API.\n\nPoC\nhttps://t.co/lP1FxclNhX",
+    "tweettime": "2024-01-15, 17:55:19",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1746954228621246977",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://labs.watchtowr.com/welcome-to-2024-the-sslvpn-chaos-continues-ivanti-cve-2023-46805-cve-2024-21887/"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "Ivanti Secure Access VPN - SSL VPN: CVE-2023-46805 &amp; CVE-2024-21887\n\nPoC\nhttps://t.co/KW6eRlNfSe https://t.co/tmOaJIYt7C",
+    "tweettime": "2024-01-15, 17:51:58",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1746953384077226352",
+    "username": "cyber_advising"
+}
+{
     "tweetfavorites": 37,
     "tweetquotes": 1,
     "tweetreplies": 2,
@@ -258,10 +307,10 @@
     "username": "chompie1337"
 }
 {
-    "tweetfavorites": 70,
+    "tweetfavorites": 71,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 18,
     "tweettext": "A threat actor claims to have a target, a company with $22 billion in revenue, vulnerable to CVE-2019-11510\n\nCVE-2019-11510 - In Pulse Connect Secure an unauthenticated remote attacker can send a specially crafted URI to perform an arbitrary file reading vulnerability.\n\n#DarkWeb https://t.co/cjK6RBg60P",
     "tweettime": "2024-01-11, 19:00:01",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1745520957484044476",
