@@ -23,6 +23,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "A Proof of Concept for chaining the CVEs [CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, CVE-2023-36847] developed by watchTowr to achieve Remote Code Execution in Juniper JunOS within SRX and EX Series products.\n\n https://t.co/TnhrXIeucq",
+    "tweettime": "2023-08-26, 18:00:47",
+    "tweeturl": "https://twitter.com/S0ufi4n3/status/1695496527874060793",
+    "username": "S0ufi4n3"
+}
+{
+    "expanded_url": [
         "https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc"
     ],
     "tweetfavorites": 115,

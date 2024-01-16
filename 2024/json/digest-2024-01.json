@@ -12,7 +12,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 112,
+    "tweetfavorites": 117,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 20,
@@ -25,7 +25,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 71,
+    "tweetretweets": 72,
     "tweettext": "RT @JusticeRage: RCE in Redis &lt; 7.2.4 (CVE-2023-41056)\nI haven't seen a lot of noise about this one. Redis is everywhere (NextCloud, Mastod…",
     "tweettime": "2024-01-14, 11:12:47",
     "tweeturl": "https://twitter.com/jedisct1/status/1746490540684632551",
@@ -58,7 +58,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 34,
+    "tweetretweets": 35,
     "tweettext": "RT @watchtowrcyber: 🚀 We have reproduced both in-the-wild exploited Ivanti zero-days (CVE-2023-46805 &amp; CVE-2024-21887) 🥷\n\nWe've released so…",
     "tweettime": "2024-01-13, 14:46:52",
     "tweeturl": "https://twitter.com/wdormann/status/1746182026246402548",
