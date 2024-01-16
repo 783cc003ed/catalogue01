@@ -1,4 +1,24 @@
 {
+    "tweetfavorites": 62,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 6,
+    "tweettext": "I discovered the CVE-2023-22527 vulnerability leading to unauthenticated RCE on Confluence. Unfortunately, it couldn't be exploited on the latest versions. Nevertheless, Atlassian still awarded me a bounty as an encouragement. So nice 🩷 https://t.co/9NKWzS6QIE",
+    "tweettime": "2024-01-16, 16:34:11",
+    "tweeturl": "https://twitter.com/VietPetrus/status/1747296196505530780",
+    "username": "VietPetrus"
+}
+{
+    "tweetfavorites": 83,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "🚨Alert🚨Atlassian Confluence CVE-2023-22527\nRCE Vulnerability In Confluence Data Center and Confluence Server  CVSS score：9.0 \n📊461k+ Services are found\nAffected version: Atlassian Confluence Data Center and Server 8.0.x/ 8.1.x/8.2.x/8.3.x/8.4.x/8.5.0-8.5.3\n🔗Hunter… https://t.co/7uMmUXSHyC",
+    "tweettime": "2024-01-16, 07:24:05",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1747157760142459156",
+    "username": "HunterMapping"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html"
     ],
@@ -300,7 +320,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 32,
+    "tweetretweets": 33,
     "tweettext": "RT @m417z: Privilege escalation using the XAML diagnostics API (CVE-2023-36003) - a write-up of a vulnerability that I discovered in Window…",
     "tweettime": "2024-01-11, 22:28:12",
     "tweeturl": "https://twitter.com/chompie1337/status/1745573348765995099",
@@ -425,7 +445,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 161,
+    "tweetretweets": 163,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:02:42",
     "tweeturl": "https://twitter.com/buffaloverflow/status/1745174347126346166",
