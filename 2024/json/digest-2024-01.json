@@ -12,6 +12,16 @@
     "username": "TheHackersNews"
 }
 {
+    "tweetfavorites": 37,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "SonicWall next-gen firewall (NGFW) series 6 and 7 devices are affected by 2 DoS #vulnerabilities that can lead to remote code execution (RCE): #CVE-2022-22274 and CVE-2023-0656. Bishop Fox research revealed that these issues are fundamentally the same, but exploitable at… https://t.co/vgHquSp3Dc",
+    "tweettime": "2024-01-15, 17:09:36",
+    "tweeturl": "https://twitter.com/bishopfox/status/1746942721762443694",
+    "username": "bishopfox"
+}
+{
     "tweetfavorites": 117,
     "tweetquotes": 1,
     "tweetreplies": 1,
