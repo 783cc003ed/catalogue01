@@ -1,4 +1,27 @@
 {
+    "expanded_url": [
+        "https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 44,
+    "tweettext": "⚠️ Windows users, beware!\n\nCybercriminals are weaponizing the CVE-2023-36025 Windows #vulnerability to deploy \"Phemedrone Stealer,\" an open-source data stealer, that targets browsers, crypto wallets, and chat apps.\n\nLearn more: https://t.co/bCC1IxAV22\n\n#cybersecurity",
+    "tweettime": "2024-01-16, 07:14:27",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1747155337499537776",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 112,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "First bug for 2024 and first (public) targeted exploitation of CVE-2023-50164/S2-066 Apache Struts File Upload RCE! Thats 10 years of VR with public disclosure!",
+    "tweettime": "2024-01-15, 05:09:50",
+    "tweeturl": "https://twitter.com/steventseeley/status/1746761587942453494",
+    "username": "steventseeley"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -58,14 +81,27 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html"
     ],
-    "tweetfavorites": 76,
-    "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 43,
+    "tweetfavorites": 96,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 52,
     "tweettext": "🚨 Critical Update! Juniper Networks addresses a major 9.8-rated RCE #vulnerability in SRX Series firewalls &amp; EX Series switches.\n\nCVE-2024-21591 details here: https://t.co/JGccZ8wLOf\n\n#hacking",
     "tweettime": "2024-01-13, 10:46:38",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1746121570571960764",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.trackplus.com/en/service/release-notes-reader/7-5-1-release-notes-2.html"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 7,
+    "tweettext": "It appears that @AllegraSoftware forgot to mention that they were vulnerable to CVE-2023-50164 struts pre-auth RCE late last year. I think it might be time to drop a full exploit? https://t.co/piXOrXBVy8",
+    "tweettime": "2024-01-13, 09:17:14",
+    "tweeturl": "https://twitter.com/steventseeley/status/1746099074473050386",
+    "username": "steventseeley"
 }
 {
     "expanded_url": [
@@ -159,10 +195,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/urgent-gitlab-releases-patch-for.html"
     ],
-    "tweetfavorites": 31,
-    "tweetquotes": 1,
-    "tweetreplies": 0,
-    "tweetretweets": 22,
+    "tweetfavorites": 108,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 53,
     "tweettext": "#GitLab users, beware! Security updates released to address critical vulnerabilities (CVE-2023-7028 and CVE-2023-5356).\n\nOne of these could allow account takeover without user interaction.\n\nFind details here: https://t.co/xgyuMfbj6Y\n\n#cybersecurity #hacking #infosec",
     "tweettime": "2024-01-12, 13:07:08",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1745794541041373399",
