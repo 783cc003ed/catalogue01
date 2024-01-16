@@ -238,6 +238,16 @@
     "username": "piedpiper1616"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "RT @m417z: Privilege escalation using the XAML diagnostics API (CVE-2023-36003) - a write-up of a vulnerability that I discovered in Window…",
+    "tweettime": "2024-01-11, 22:28:12",
+    "tweeturl": "https://twitter.com/chompie1337/status/1745573348765995099",
+    "username": "chompie1337"
+}
+{
     "tweetfavorites": 70,
     "tweetquotes": 0,
     "tweetreplies": 0,
