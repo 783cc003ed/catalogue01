@@ -19,13 +19,23 @@
     "username": "wallet_guard"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 118,
+    "tweettext": "RT @TheHackersNews: PATCH Now — More than 178,000 SonicWall firewalls remain exposed to the potentially devastating CVE-2022-22274 and CVE-…",
+    "tweettime": "2024-01-17, 02:38:23",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1747448250687246806",
+    "username": "hackerfantastic"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"
     ],
-    "tweetfavorites": 286,
+    "tweetfavorites": 295,
     "tweetquotes": 11,
     "tweetreplies": 3,
-    "tweetretweets": 179,
+    "tweetretweets": 181,
     "tweettext": "🔥 Chrome Zero-Day Alert!\n\nUpdate your browser NOW to patch a new critical flaw exploited by hackers. This memory leak bug lets attackers steal your secrets.\n\nLearn more about CVE-2024-0519: https://t.co/tlplEnSeYD\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-17, 02:25:02",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747444890425024787",
@@ -53,6 +63,16 @@
     "tweettime": "2024-01-16, 21:51:21",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1747376015247081626",
     "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "RT @buffaloverflow: I reproduced the full chain of Ivanti Connect Secure CVE-2023-46805 (auth bypass) + CVE-2024-21887 (RCE) 🥳\n\nWhile it is…",
+    "tweettime": "2024-01-16, 18:38:35",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1747327505990623404",
+    "username": "hackerfantastic"
 }
 {
     "tweetfavorites": 206,
@@ -135,7 +155,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 105,
+    "tweetretweets": 109,
     "tweettext": "RT @Volexity: .@Volexity provides an update on its Ivanti Connect Secure VPN report concerning chained exploitation of CVE-2024-21887/CVE-2…",
     "tweettime": "2024-01-16, 07:18:45",
     "tweeturl": "https://twitter.com/x0rz/status/1747156419030172058",
@@ -168,10 +188,10 @@
     "expanded_url": [
         "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"
     ],
-    "tweetfavorites": 89,
+    "tweetfavorites": 93,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 26,
+    "tweetretweets": 28,
     "tweettext": "CVE-2023-26360: Unauthenticated RCE in Adobe Coldfusion.\n\nPoC\nhttps://t.co/UhWmip3uLb https://t.co/atdxo3H4F6",
     "tweettime": "2024-01-15, 17:56:56",
     "tweeturl": "https://twitter.com/cyber_advising/status/1746954633589785078",
@@ -194,10 +214,10 @@
     "expanded_url": [
         "https://labs.watchtowr.com/welcome-to-2024-the-sslvpn-chaos-continues-ivanti-cve-2023-46805-cve-2024-21887/"
     ],
-    "tweetfavorites": 41,
+    "tweetfavorites": 44,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 13,
+    "tweetretweets": 14,
     "tweettext": "Ivanti Secure Access VPN - SSL VPN: CVE-2023-46805 &amp; CVE-2024-21887\n\nPoC\nhttps://t.co/KW6eRlNfSe https://t.co/tmOaJIYt7C",
     "tweettime": "2024-01-15, 17:51:58",
     "tweeturl": "https://twitter.com/cyber_advising/status/1746953384077226352",
@@ -348,7 +368,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 115,
+    "tweetretweets": 117,
     "tweettext": "RT @MDSecLabs: Exploiting CVE-2024-20656, a Local Privilege Escalation in the VSStandardCollectorService150 Service https://t.co/zCj3o31RPn…",
     "tweettime": "2024-01-13, 01:39:04",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1745983773009965559",
