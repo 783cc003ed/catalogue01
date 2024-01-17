@@ -1,12 +1,45 @@
 {
-    "tweetfavorites": 62,
+    "tweetfavorites": 76,
     "tweetquotes": 0,
-    "tweetreplies": 3,
-    "tweetretweets": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 8,
     "tweettext": "I discovered the CVE-2023-22527 vulnerability leading to unauthenticated RCE on Confluence. Unfortunately, it couldn't be exploited on the latest versions. Nevertheless, Atlassian still awarded me a bounty as an encouragement. So nice 🩷 https://t.co/9NKWzS6QIE",
     "tweettime": "2024-01-16, 16:34:11",
     "tweeturl": "https://twitter.com/VietPetrus/status/1747296196505530780",
     "username": "VietPetrus"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 103,
+    "tweettext": "RT @Volexity: .@Volexity provides an update on its Ivanti Connect Secure VPN report concerning chained exploitation of CVE-2024-21887/CVE-2…",
+    "tweettime": "2024-01-16, 14:08:17",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1747259479564128687",
+    "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "RT @buffaloverflow: I reproduced the full chain of Ivanti Connect Secure CVE-2023-46805 (auth bypass) + CVE-2024-21887 (RCE) 🥳\n\nWhile it is…",
+    "tweettime": "2024-01-16, 13:30:13",
+    "tweeturl": "https://twitter.com/Dinosn/status/1747249900515971279",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2023-34063-cvss-9-9-a-critical-flaw-in-vmware-aria-automation/"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "CVE-2023-34063 (CVSS 9.9): A Critical Flaw in VMware Aria Automation https://t.co/GDrNg5Q2tZ",
+    "tweettime": "2024-01-16, 10:09:28",
+    "tweeturl": "https://twitter.com/Dinosn/status/1747199382166929685",
+    "username": "Dinosn"
 }
 {
     "tweetfavorites": 83,
@@ -45,10 +78,10 @@
     "expanded_url": [
         "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"
     ],
-    "tweetfavorites": 87,
+    "tweetfavorites": 89,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 25,
+    "tweetretweets": 26,
     "tweettext": "CVE-2023-26360: Unauthenticated RCE in Adobe Coldfusion.\n\nPoC\nhttps://t.co/UhWmip3uLb https://t.co/atdxo3H4F6",
     "tweettime": "2024-01-15, 17:56:56",
     "tweeturl": "https://twitter.com/cyber_advising/status/1746954633589785078",
@@ -58,10 +91,10 @@
     "expanded_url": [
         "https://github.com/m417z/CVE-2023-36003-POC"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 33,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 7,
+    "tweetretweets": 8,
     "tweettext": "CVE-2023-36003: Privilege escalation using the XAML diagnostics API.\n\nPoC\nhttps://t.co/lP1FxclNhX",
     "tweettime": "2024-01-15, 17:55:19",
     "tweeturl": "https://twitter.com/cyber_advising/status/1746954228621246977",
@@ -74,7 +107,7 @@
     "tweetfavorites": 41,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 13,
     "tweettext": "Ivanti Secure Access VPN - SSL VPN: CVE-2023-46805 &amp; CVE-2024-21887\n\nPoC\nhttps://t.co/KW6eRlNfSe https://t.co/tmOaJIYt7C",
     "tweettime": "2024-01-15, 17:51:58",
     "tweeturl": "https://twitter.com/cyber_advising/status/1746953384077226352",
@@ -251,7 +284,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 114,
+    "tweetretweets": 117,
     "tweettext": "RT @MDSecLabs: Exploiting CVE-2024-20656, a Local Privilege Escalation in the VSStandardCollectorService150 Service https://t.co/zCj3o31RPn…",
     "tweettime": "2024-01-12, 18:12:05",
     "tweeturl": "https://twitter.com/cyb3rops/status/1745871283735212123",
@@ -297,7 +330,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 164,
+    "tweetretweets": 163,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-12, 09:35:43",
     "tweeturl": "https://twitter.com/cyb3rops/status/1745741334923637002",
