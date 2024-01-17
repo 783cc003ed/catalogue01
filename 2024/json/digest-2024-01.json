@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 20,
+    "tweettext": "Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
+    "tweettime": "2024-01-17, 01:35:53",
+    "tweeturl": "https://twitter.com/standa_t/status/1747432523444191347",
+    "username": "standa_t"
+}
+{
     "tweetfavorites": 76,
     "tweetquotes": 0,
     "tweetreplies": 4,
@@ -50,6 +63,16 @@
     "tweettime": "2024-01-16, 07:24:05",
     "tweeturl": "https://twitter.com/HunterMapping/status/1747157760142459156",
     "username": "HunterMapping"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 105,
+    "tweettext": "RT @Volexity: .@Volexity provides an update on its Ivanti Connect Secure VPN report concerning chained exploitation of CVE-2024-21887/CVE-2…",
+    "tweettime": "2024-01-16, 07:18:45",
+    "tweeturl": "https://twitter.com/x0rz/status/1747156419030172058",
+    "username": "x0rz"
 }
 {
     "expanded_url": [
@@ -137,7 +160,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 72,
+    "tweetretweets": 73,
     "tweettext": "RT @JusticeRage: RCE in Redis &lt; 7.2.4 (CVE-2023-41056)\nI haven't seen a lot of noise about this one. Redis is everywhere (NextCloud, Mastod…",
     "tweettime": "2024-01-14, 11:12:47",
     "tweeturl": "https://twitter.com/jedisct1/status/1746490540684632551",
@@ -448,7 +471,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 164,
+    "tweetretweets": 163,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:57:26",
     "tweeturl": "https://twitter.com/x0rz/status/1745188118490202221",
