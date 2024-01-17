@@ -9,10 +9,10 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 206,
-    "tweetquotes": 16,
-    "tweetreplies": 16,
-    "tweetretweets": 105,
+    "tweetfavorites": 273,
+    "tweetquotes": 21,
+    "tweetreplies": 20,
+    "tweetretweets": 137,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",
@@ -22,10 +22,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"
     ],
-    "tweetfavorites": 214,
-    "tweetquotes": 8,
+    "tweetfavorites": 286,
+    "tweetquotes": 11,
     "tweetreplies": 3,
-    "tweetretweets": 139,
+    "tweetretweets": 179,
     "tweettext": "🔥 Chrome Zero-Day Alert!\n\nUpdate your browser NOW to patch a new critical flaw exploited by hackers. This memory leak bug lets attackers steal your secrets.\n\nLearn more about CVE-2024-0519: https://t.co/tlplEnSeYD\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-17, 02:25:02",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747444890425024787",
@@ -55,10 +55,10 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 76,
+    "tweetfavorites": 206,
     "tweetquotes": 0,
-    "tweetreplies": 4,
-    "tweetretweets": 8,
+    "tweetreplies": 7,
+    "tweetretweets": 23,
     "tweettext": "I discovered the CVE-2023-22527 vulnerability leading to unauthenticated RCE on Confluence. Unfortunately, it couldn't be exploited on the latest versions. Nevertheless, Atlassian still awarded me a bounty as an encouragement. So nice 🩷 https://t.co/9NKWzS6QIE",
     "tweettime": "2024-01-16, 16:34:11",
     "tweeturl": "https://twitter.com/VietPetrus/status/1747296196505530780",
@@ -86,6 +86,20 @@
 }
 {
     "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/NEbd7"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "CVE-2023-46805, CVE-2024-21887: 0-days in Ivanti Connect Secure, 8.2 &amp; 9.1 rating 🔥\n\nVulns allow to access restricted resources and execute arbitrary commands.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉🏻 Link: https://t.co/FXtTtgcuks\n\n#cybersecurity #vulnerability_map #0day https://t.co/EAUxhAXux3",
+    "tweettime": "2024-01-16, 11:00:00",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1747212096880721953",
+    "username": "Netlas_io"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/cve-2023-34063-cvss-9-9-a-critical-flaw-in-vmware-aria-automation/"
     ],
     "tweetfavorites": 46,
@@ -108,10 +122,10 @@
     "username": "kmkz_security"
 }
 {
-    "tweetfavorites": 83,
+    "tweetfavorites": 130,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 23,
+    "tweetretweets": 44,
     "tweettext": "🚨Alert🚨Atlassian Confluence CVE-2023-22527\nRCE Vulnerability In Confluence Data Center and Confluence Server  CVSS score：9.0 \n📊461k+ Services are found\nAffected version: Atlassian Confluence Data Center and Server 8.0.x/ 8.1.x/8.2.x/8.3.x/8.4.x/8.5.0-8.5.3\n🔗Hunter… https://t.co/7uMmUXSHyC",
     "tweettime": "2024-01-16, 07:24:05",
     "tweeturl": "https://twitter.com/HunterMapping/status/1747157760142459156",
@@ -269,7 +283,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html"
     ],
-    "tweetfavorites": 96,
+    "tweetfavorites": 98,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 52,
@@ -462,9 +476,9 @@
     "expanded_url": [
         "https://github.com/DebugPrivilege/InsightEngineering/tree/main/Debugging%20Case%20Studies/Debug%20Case%20Study%3A%20SharePoint%20Pre-Auth%20Code%20Injection%20RCE%20chain%20CVE-2023-29357%20%26%20CVE-2023-24955"
     ],
-    "tweetfavorites": 76,
+    "tweetfavorites": 77,
     "tweetquotes": 0,
-    "tweetreplies": 0,
+    "tweetreplies": 1,
     "tweetretweets": 27,
     "tweettext": "Debug Case Study: SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955\n\nInteresting memory dump analysis by @DebugPrivilege \n\nhttps://t.co/TbED9DJvCU\n\n#infosec #cybersecurity #hacking https://t.co/PU0mp1tsZC",
     "tweettime": "2024-01-11, 17:37:30",
@@ -475,7 +489,7 @@
     "expanded_url": [
         "https://www.synacktiv.com/advisories/remote-code-execution-on-cisco-access-point-wap371-firmware-1307"
     ],
-    "tweetfavorites": 176,
+    "tweetfavorites": 177,
     "tweetquotes": 1,
     "tweetreplies": 7,
     "tweetretweets": 37,
