@@ -701,10 +701,10 @@
         "https://github.com/projectdiscovery/nuclei-templates/pull/8625",
         "https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification"
     ],
-    "tweetfavorites": 161,
+    "tweetfavorites": 162,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 40,
+    "tweetretweets": 41,
     "tweettext": "Scan for latest CVE-2023-47246 (SysAid Server - Remote Code Execution) using nuclei templates\n\nTemplate: https://t.co/fS9ACW7xTt\n\nAdvisory: https://t.co/8AZNjyQF1O\n\n#hackwithautomation #appsec #bugbounty #cybersecurity https://t.co/Klcq5KiUsK",
     "tweettime": "2023-11-14, 14:03:26",
     "tweeturl": "https://twitter.com/pdnuclei/status/1724427823174017141",
