@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 65,
+    "tweettext": "RT @TheHackersNews: More Zero-Days !!!\n\n✅ Citrix fixes critical RCE flaws (CVE-2023-6548, CVE-2023-6549) exploited in wild.\n\n✅ VMware Aria…",
+    "tweettime": "2024-01-17, 04:30:10",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1747476381028737397",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "tweetfavorites": 206,
     "tweetquotes": 16,
     "tweetreplies": 16,
@@ -33,6 +43,16 @@
     "tweettime": "2024-01-17, 01:35:53",
     "tweeturl": "https://twitter.com/standa_t/status/1747432523444191347",
     "username": "standa_t"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "RT @wdormann: This is great stuff.\nIvanti Connect Secure CVE-2023-46805: You can access resources by prefixing with any number of no-auth r…",
+    "tweettime": "2024-01-16, 21:51:21",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1747376015247081626",
+    "username": "wvuuuuuuuuuuuuu"
 }
 {
     "tweetfavorites": 76,
