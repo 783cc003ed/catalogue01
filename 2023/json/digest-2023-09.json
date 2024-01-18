@@ -137,10 +137,10 @@
     "expanded_url": [
         "https://chromium.googlesource.com/v8/v8.git/+/ae7dc61652805bc8e2b060d53b2b6da7cf846b6f"
     ],
-    "tweetfavorites": 91,
+    "tweetfavorites": 92,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetretweets": 21,
     "tweettext": "Chrome In-The-Wild type confusion vulnerability used in the Android Exploit Chain to install Predator on Android devices in Egypt (CVE-2023-4762 [1473247]) happens during handling of growing a non-JSArray packed elements kind within turbofan:\nhttps://t.co/qQ99LkwaMI",
     "tweettime": "2023-09-24, 15:31:42",
     "tweeturl": "https://twitter.com/hosselot/status/1705968257205670082",
