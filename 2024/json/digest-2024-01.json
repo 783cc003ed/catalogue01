@@ -15,7 +15,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 65,
+    "tweetretweets": 106,
     "tweettext": "RT @TheHackersNews: More Zero-Days !!!\n\n✅ Citrix fixes critical RCE flaws (CVE-2023-6548, CVE-2023-6549) exploited in wild.\n\n✅ VMware Aria…",
     "tweettime": "2024-01-17, 04:30:10",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1747476381028737397",
@@ -48,7 +48,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 118,
+    "tweetretweets": 119,
     "tweettext": "RT @TheHackersNews: PATCH Now — More than 178,000 SonicWall firewalls remain exposed to the potentially devastating CVE-2022-22274 and CVE-…",
     "tweettime": "2024-01-17, 02:38:23",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1747448250687246806",
@@ -58,10 +58,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"
     ],
-    "tweetfavorites": 313,
+    "tweetfavorites": 317,
     "tweetquotes": 12,
     "tweetreplies": 3,
-    "tweetretweets": 190,
+    "tweetretweets": 191,
     "tweettext": "🔥 Chrome Zero-Day Alert!\n\nUpdate your browser NOW to patch a new critical flaw exploited by hackers. This memory leak bug lets attackers steal your secrets.\n\nLearn more about CVE-2024-0519: https://t.co/tlplEnSeYD\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-17, 02:25:02",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747444890425024787",
@@ -71,20 +71,33 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 39,
-    "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 20,
+    "tweetfavorites": 224,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 104,
     "tweettext": "Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 01:35:53",
     "tweeturl": "https://twitter.com/standa_t/status/1747432523444191347",
     "username": "standa_t"
 }
 {
+    "expanded_url": [
+        "https://github.com/Nassim-Asrir/ZDI-24-020/"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 47,
+    "tweettext": "I'm excited to announce that the technical analysis and the exploit of my CVE-2023-6546 (ZDI-24-020) \nLinux Kernel GSM Multiplexing Race Condition LPE is now available on : https://t.co/bk4yjCMtdl \n\nHappy Reading\n\n#Cybersecurity #Vulnerability #CVE #InfoSec #exploit #Security",
+    "tweettime": "2024-01-16, 22:25:01",
+    "tweeturl": "https://twitter.com/p1k4l4/status/1747384486524866972",
+    "username": "p1k4l4"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 44,
+    "tweetretweets": 57,
     "tweettext": "RT @wdormann: This is great stuff.\nIvanti Connect Secure CVE-2023-46805: You can access resources by prefixing with any number of no-auth r…",
     "tweettime": "2024-01-16, 21:51:21",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1747376015247081626",
@@ -94,7 +107,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 60,
+    "tweetretweets": 65,
     "tweettext": "RT @buffaloverflow: I reproduced the full chain of Ivanti Connect Secure CVE-2023-46805 (auth bypass) + CVE-2024-21887 (RCE) 🥳\n\nWhile it is…",
     "tweettime": "2024-01-16, 18:38:35",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1747327505990623404",
@@ -127,7 +140,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 103,
+    "tweetretweets": 109,
     "tweettext": "RT @Volexity: .@Volexity provides an update on its Ivanti Connect Secure VPN report concerning chained exploitation of CVE-2024-21887/CVE-2…",
     "tweettime": "2024-01-16, 14:08:17",
     "tweeturl": "https://twitter.com/cyb3rops/status/1747259479564128687",
@@ -273,10 +286,10 @@
     "username": "bishopfox"
 }
 {
-    "tweetfavorites": 117,
+    "tweetfavorites": 129,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 20,
+    "tweetretweets": 21,
     "tweettext": "First bug for 2024 and first (public) targeted exploitation of CVE-2023-50164/S2-066 Apache Struts File Upload RCE! Thats 10 years of VR with public disclosure!",
     "tweettime": "2024-01-15, 05:09:50",
     "tweeturl": "https://twitter.com/steventseeley/status/1746761587942453494",
@@ -391,10 +404,10 @@
     "expanded_url": [
         "https://github.com/Wh04m1001/CVE-2024-20656"
     ],
-    "tweetfavorites": 105,
+    "tweetfavorites": 107,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 29,
+    "tweetretweets": 30,
     "tweettext": "CVE-2024-20656 \n\nWindows LPE in the VSStandardCollectorService150 service\n\nhttps://t.co/YCTRscoqFN\n\n#cve #cybersecurity #infosec https://t.co/7zYvFVdq2R",
     "tweettime": "2024-01-13, 06:52:50",
     "tweeturl": "https://twitter.com/hack_git/status/1746062732103737543",
