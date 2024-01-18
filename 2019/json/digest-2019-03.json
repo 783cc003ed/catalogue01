@@ -198,10 +198,10 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop.html"
     ],
-    "tweetfavorites": 222,
+    "tweetfavorites": 219,
     "tweetquotes": 7,
     "tweetreplies": 7,
-    "tweetretweets": 149,
+    "tweetretweets": 144,
     "tweettext": "Google discovered a Chrome RCE #0day in the wild (CVE-2019-5786). Reportedly, a full chain with a sandbox escape: https://t.co/Nxfrvr5wIh \n\nIn 2019, I expect epic 0days to be found in the wild: Android, iOS, Windows, Office, virtualization, and more. Stay safe and enjoy the show.",
     "tweettime": "2019-03-06, 03:40:07",
     "tweeturl": "https://twitter.com/cBekrar/status/1103138159133569024",

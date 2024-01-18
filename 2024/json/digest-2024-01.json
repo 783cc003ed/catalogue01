@@ -10,6 +10,19 @@
 }
 {
     "expanded_url": [
+        "https://chromium.googlesource.com/v8/v8.git/+/389ea9be7d68bb189e16da79f6414edbd4f7594f"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "Google Chrome In-The-Wild \"out of bounds memory access in V8\" (CVE-2024-0519 [1517354]) is related to fast last-property deletion and fixed by removing \"DeleteObjectPropertyFast\" function (reachable via \"DeleteObjectProperty\" runtime):\nhttps://t.co/u3huVHn0MO",
+    "tweettime": "2024-01-17, 15:50:31",
+    "tweeturl": "https://twitter.com/hosselot/status/1747647598536593787",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
     "tweetfavorites": 0,
@@ -91,10 +104,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"
     ],
-    "tweetfavorites": 335,
+    "tweetfavorites": 348,
     "tweetquotes": 15,
     "tweetreplies": 3,
-    "tweetretweets": 200,
+    "tweetretweets": 210,
     "tweettext": "🔥 Chrome Zero-Day Alert!\n\nUpdate your browser NOW to patch a new critical flaw exploited by hackers. This memory leak bug lets attackers steal your secrets.\n\nLearn more about CVE-2024-0519: https://t.co/tlplEnSeYD\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-17, 02:25:02",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747444890425024787",
