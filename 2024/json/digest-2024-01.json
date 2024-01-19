@@ -417,7 +417,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 35,
+    "tweetretweets": 36,
     "tweettext": "RT @watchtowrcyber: 🚀 We have reproduced both in-the-wild exploited Ivanti zero-days (CVE-2023-46805 &amp; CVE-2024-21887) 🥷\n\nWe've released so…",
     "tweettime": "2024-01-13, 14:46:52",
     "tweeturl": "https://twitter.com/wdormann/status/1746182026246402548",
@@ -821,7 +821,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 118,
+    "tweetretweets": 119,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 13:45:21",
     "tweeturl": "https://twitter.com/wdormann/status/1745079381783982409",
@@ -893,7 +893,7 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 221,
+    "tweetfavorites": 222,
     "tweetquotes": 6,
     "tweetreplies": 1,
     "tweetretweets": 77,
