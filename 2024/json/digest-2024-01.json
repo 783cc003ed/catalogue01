@@ -1,4 +1,40 @@
 {
+    "expanded_url": [
+        "https://securityonline.info/new-outlook-exploit-unveiled-cve-2023-35636-leads-to-ntlm-v2-password-breach/"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "New Outlook Exploit Unveiled: CVE-2023-35636 Leads to NTLM v2 Password Breach https://t.co/CbIUiYgY2e",
+    "tweettime": "2024-01-19, 04:16:55",
+    "tweeturl": "https://twitter.com/Dinosn/status/1748197821021331656",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2023-50643-evernote-remote-code-execution-flaw-poc-published/"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "CVE-2023-50643: Evernote Remote Code Execution Flaw, PoC Published https://t.co/2Ek39Vho1N",
+    "tweettime": "2024-01-19, 03:42:53",
+    "tweeturl": "https://twitter.com/Dinosn/status/1748189257154416989",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "RT @GreyNoiseIO: We're seeing more than just scanning for the recent pair of Ivanti Connect Secure vulnerabilities (CVE-2023-46805 and CVE-…",
+    "tweettime": "2024-01-17, 20:06:32",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1747712024425976020",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "tweetfavorites": 126,
     "tweetquotes": 7,
     "tweetreplies": 3,
@@ -74,7 +110,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 106,
+    "tweetretweets": 120,
     "tweettext": "RT @TheHackersNews: More Zero-Days !!!\n\n✅ Citrix fixes critical RCE flaws (CVE-2023-6548, CVE-2023-6549) exploited in wild.\n\n✅ VMware Aria…",
     "tweettime": "2024-01-17, 04:30:10",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1747476381028737397",
@@ -94,7 +130,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 304,
+    "tweetfavorites": 307,
     "tweetquotes": 23,
     "tweetreplies": 23,
     "tweetretweets": 154,
@@ -117,7 +153,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"
     ],
-    "tweetfavorites": 354,
+    "tweetfavorites": 355,
     "tweetquotes": 15,
     "tweetreplies": 3,
     "tweetretweets": 214,
@@ -325,7 +361,7 @@
     "expanded_url": [
         "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"
     ],
-    "tweetfavorites": 94,
+    "tweetfavorites": 95,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 28,
