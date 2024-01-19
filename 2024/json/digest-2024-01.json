@@ -38,7 +38,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 51,
+    "tweetretweets": 57,
     "tweettext": "RT @p1k4l4: I'm excited to announce that the technical analysis and the exploit of my CVE-2023-6546 (ZDI-24-020) \nLinux Kernel GSM Multiple…",
     "tweettime": "2024-01-17, 10:43:16",
     "tweeturl": "https://twitter.com/kmkz_security/status/1747570273161777373",
@@ -56,6 +56,19 @@
     "tweettime": "2024-01-17, 07:42:57",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747524898434740446",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 111,
+    "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
+    "tweettime": "2024-01-17, 05:05:47",
+    "tweeturl": "https://twitter.com/chompie1337/status/1747485342716883125",
+    "username": "chompie1337"
 }
 {
     "tweetfavorites": 0,
@@ -104,10 +117,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"
     ],
-    "tweetfavorites": 348,
+    "tweetfavorites": 353,
     "tweetquotes": 15,
     "tweetreplies": 3,
-    "tweetretweets": 210,
+    "tweetretweets": 214,
     "tweettext": "🔥 Chrome Zero-Day Alert!\n\nUpdate your browser NOW to patch a new critical flaw exploited by hackers. This memory leak bug lets attackers steal your secrets.\n\nLearn more about CVE-2024-0519: https://t.co/tlplEnSeYD\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-17, 02:25:02",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747444890425024787",
@@ -259,7 +272,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 110,
+    "tweetretweets": 111,
     "tweettext": "RT @Volexity: .@Volexity provides an update on its Ivanti Connect Secure VPN report concerning chained exploitation of CVE-2024-21887/CVE-2…",
     "tweettime": "2024-01-16, 10:04:12",
     "tweeturl": "https://twitter.com/kmkz_security/status/1747198054619291764",
@@ -554,7 +567,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 148,
+    "tweetretweets": 149,
     "tweettext": "RT @rwincey: GitLab CVE-2023-7028 POC\n\nuser[email][]=valid@email.com&amp;user[email][]=attacker@email.com \n\n- PWNED",
     "tweettime": "2024-01-12, 12:00:12",
     "tweeturl": "https://twitter.com/momika233/status/1745777697069150454",
@@ -672,7 +685,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 118,
+    "tweetretweets": 119,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 23:20:38",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1745224159087788540",
@@ -798,7 +811,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 118,
+    "tweetretweets": 119,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 14:00:08",
     "tweeturl": "https://twitter.com/testanull/status/1745083104161648746",
@@ -1063,7 +1076,7 @@
     "expanded_url": [
         "https://github.com/TecR0c/DoubleTrouble"
     ],
-    "tweetfavorites": 135,
+    "tweetfavorites": 136,
     "tweetquotes": 2,
     "tweetreplies": 3,
     "tweetretweets": 39,
