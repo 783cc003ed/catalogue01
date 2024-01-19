@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://thehackernews.com/2024/01/us-cybersecurity-agency-warns-of.html"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "🆘 Patch your Ivanti ASAP! CISA urges action, especially for government agencies.\n\nA critical flaw (CVE-2023-35082) in Ivanti EPMM is being exploited in the wild, giving attackers access to your data.\n\nDon't wait, read more: https://t.co/Ico82JNaw8\n\n#hacking #cybersecurity",
+    "tweettime": "2024-01-19, 04:56:13",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1748207713245646951",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/new-outlook-exploit-unveiled-cve-2023-35636-leads-to-ntlm-v2-password-breach/"
     ],
     "tweetfavorites": 73,
@@ -120,7 +133,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html"
     ],
-    "tweetfavorites": 224,
+    "tweetfavorites": 226,
     "tweetquotes": 5,
     "tweetreplies": 2,
     "tweetretweets": 120,
@@ -156,7 +169,7 @@
     "tweetfavorites": 356,
     "tweetquotes": 15,
     "tweetreplies": 3,
-    "tweetretweets": 214,
+    "tweetretweets": 215,
     "tweettext": "🔥 Chrome Zero-Day Alert!\n\nUpdate your browser NOW to patch a new critical flaw exploited by hackers. This memory leak bug lets attackers steal your secrets.\n\nLearn more about CVE-2024-0519: https://t.co/tlplEnSeYD\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-17, 02:25:02",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747444890425024787",
@@ -166,10 +179,10 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 245,
+    "tweetfavorites": 257,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 111,
+    "tweetretweets": 115,
     "tweettext": "Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 01:35:53",
     "tweeturl": "https://twitter.com/standa_t/status/1747432523444191347",
@@ -209,7 +222,7 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 230,
+    "tweetfavorites": 233,
     "tweetquotes": 0,
     "tweetreplies": 7,
     "tweetretweets": 26,
@@ -235,7 +248,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html"
     ],
-    "tweetfavorites": 201,
+    "tweetfavorites": 202,
     "tweetquotes": 5,
     "tweetreplies": 3,
     "tweetretweets": 125,
@@ -315,10 +328,10 @@
     "username": "kmkz_security"
 }
 {
-    "tweetfavorites": 130,
+    "tweetfavorites": 139,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 44,
+    "tweetretweets": 47,
     "tweettext": "🚨Alert🚨Atlassian Confluence CVE-2023-22527\nRCE Vulnerability In Confluence Data Center and Confluence Server  CVSS score：9.0 \n📊461k+ Services are found\nAffected version: Atlassian Confluence Data Center and Server 8.0.x/ 8.1.x/8.2.x/8.3.x/8.4.x/8.5.0-8.5.3\n🔗Hunter… https://t.co/7uMmUXSHyC",
     "tweettime": "2024-01-16, 07:24:05",
     "tweeturl": "https://twitter.com/HunterMapping/status/1747157760142459156",
@@ -476,9 +489,9 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html"
     ],
-    "tweetfavorites": 98,
+    "tweetfavorites": 100,
     "tweetquotes": 2,
-    "tweetreplies": 1,
+    "tweetreplies": 2,
     "tweetretweets": 52,
     "tweettext": "🚨 Critical Update! Juniper Networks addresses a major 9.8-rated RCE #vulnerability in SRX Series firewalls &amp; EX Series switches.\n\nCVE-2024-21591 details here: https://t.co/JGccZ8wLOf\n\n#hacking",
     "tweettime": "2024-01-13, 10:46:38",
