@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 85,
-    "tweetquotes": 5,
+    "tweetfavorites": 126,
+    "tweetquotes": 7,
     "tweetreplies": 3,
-    "tweetretweets": 30,
+    "tweetretweets": 46,
     "tweettext": "We're seeing more than just scanning for the recent pair of Ivanti Connect Secure vulnerabilities (CVE-2023-46805 and CVE-2024-21887) - we're seeing real exploitation attempts - this one installs a Bitcoin miner! Patch your hosts ASAP! https://t.co/wfyQq9MgCO",
     "tweettime": "2024-01-17, 20:06:11",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1747711939466453301",
@@ -94,10 +94,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 295,
-    "tweetquotes": 22,
-    "tweetreplies": 21,
-    "tweetretweets": 150,
+    "tweetfavorites": 304,
+    "tweetquotes": 23,
+    "tweetreplies": 23,
+    "tweetretweets": 155,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",
@@ -117,7 +117,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"
     ],
-    "tweetfavorites": 353,
+    "tweetfavorites": 354,
     "tweetquotes": 15,
     "tweetreplies": 3,
     "tweetretweets": 214,
@@ -130,10 +130,10 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 224,
+    "tweetfavorites": 245,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 104,
+    "tweetretweets": 111,
     "tweettext": "Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 01:35:53",
     "tweeturl": "https://twitter.com/standa_t/status/1747432523444191347",
