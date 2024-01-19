@@ -12,10 +12,10 @@
     "expanded_url": [
         "https://chromium.googlesource.com/v8/v8.git/+/389ea9be7d68bb189e16da79f6414edbd4f7594f"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 36,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 6,
+    "tweetretweets": 8,
     "tweettext": "Google Chrome In-The-Wild \"out of bounds memory access in V8\" (CVE-2024-0519 [1517354]) is related to fast last-property deletion and fixed by removing \"DeleteObjectPropertyFast\" function (reachable via \"DeleteObjectProperty\" runtime):\nhttps://t.co/u3huVHn0MO",
     "tweettime": "2024-01-17, 15:50:31",
     "tweeturl": "https://twitter.com/hosselot/status/1747647598536593787",
@@ -38,7 +38,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 57,
+    "tweetretweets": 58,
     "tweettext": "RT @p1k4l4: I'm excited to announce that the technical analysis and the exploit of my CVE-2023-6546 (ZDI-24-020) \nLinux Kernel GSM Multiple…",
     "tweettime": "2024-01-17, 10:43:16",
     "tweeturl": "https://twitter.com/kmkz_security/status/1747570273161777373",
@@ -186,10 +186,10 @@
     "expanded_url": [
         "https://malwaretech.com/2019/09/bluekeep-a-journey-from-dos-to-rce-cve-2019-0708.html"
     ],
-    "tweetfavorites": 59,
+    "tweetfavorites": 63,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetretweets": 17,
     "tweettext": "BlueKeep: A Journey from DoS to RCE (CVE-2019-0708) https://t.co/C3bdwPt52P",
     "tweettime": "2024-01-16, 15:57:01",
     "tweeturl": "https://twitter.com/reverseame/status/1747286846965497909",
@@ -361,10 +361,10 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 48,
+    "tweetfavorites": 52,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 18,
+    "tweetretweets": 19,
     "tweettext": "SonicWall next-gen firewall (NGFW) series 6 and 7 devices are affected by 2 DoS #vulnerabilities that can lead to remote code execution (RCE): #CVE-2022-22274 and CVE-2023-0656. Bishop Fox research revealed that these issues are fundamentally the same, but exploitable at… https://t.co/vgHquSp3Dc",
     "tweettime": "2024-01-15, 17:09:36",
     "tweeturl": "https://twitter.com/bishopfox/status/1746942721762443694",
