@@ -48,10 +48,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html"
     ],
-    "tweetfavorites": 109,
+    "tweetfavorites": 133,
     "tweetquotes": 2,
-    "tweetreplies": 0,
-    "tweetretweets": 62,
+    "tweetreplies": 1,
+    "tweetretweets": 71,
     "tweettext": "🚨 GitHub fixes high-severity bug (CVE-2024-0200) that could've exposed your credentials in production containers.\n\nYour keys have been rotated — Import new ones for commit signing, Actions, Codespaces, or Dependabot.\n\nDetails here: https://t.co/X89g2ybSCB\n\n#cybersecurity #tech",
     "tweettime": "2024-01-17, 07:42:57",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747524898434740446",
@@ -84,10 +84,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html"
     ],
-    "tweetfavorites": 207,
+    "tweetfavorites": 224,
     "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 108,
+    "tweetretweets": 120,
     "tweettext": "More Zero-Days !!!\n\n✅ Citrix fixes critical RCE flaws (CVE-2023-6548, CVE-2023-6549) exploited in wild.\n\n✅ VMware Aria Automation bug (CVE-2023-34063) allows attacker control.\n\n✅ Atlassian issues fixes for 24+ flaws, including RCE.\n\nPatch, Update ASAP: https://t.co/HGZgFgb7xL",
     "tweettime": "2024-01-17, 04:22:55",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747474556095455588",
@@ -97,7 +97,7 @@
     "tweetfavorites": 304,
     "tweetquotes": 23,
     "tweetreplies": 23,
-    "tweetretweets": 155,
+    "tweetretweets": 154,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",
@@ -107,7 +107,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 119,
+    "tweetretweets": 125,
     "tweettext": "RT @TheHackersNews: PATCH Now — More than 178,000 SonicWall firewalls remain exposed to the potentially devastating CVE-2022-22274 and CVE-…",
     "tweettime": "2024-01-17, 02:38:23",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1747448250687246806",
@@ -199,10 +199,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html"
     ],
-    "tweetfavorites": 192,
+    "tweetfavorites": 201,
     "tweetquotes": 5,
-    "tweetreplies": 1,
-    "tweetretweets": 120,
+    "tweetreplies": 3,
+    "tweetretweets": 125,
     "tweettext": "PATCH Now — More than 178,000 SonicWall firewalls remain exposed to the potentially devastating CVE-2022-22274 and CVE-2023-0656 security flaws.\n\nThese  vulnerabilities open the door to DoS and RCE attacks.\n\nLearn more: https://t.co/QOJRv5ibOo\n\n#cybersecurity #hacking",
     "tweettime": "2024-01-16, 15:28:00",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747279541389918501",
@@ -302,10 +302,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html"
     ],
-    "tweetfavorites": 218,
-    "tweetquotes": 4,
+    "tweetfavorites": 223,
+    "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 136,
+    "tweetretweets": 138,
     "tweettext": "⚠️ Windows users, beware!\n\nCybercriminals are weaponizing the CVE-2023-36025 Windows #vulnerability to deploy \"Phemedrone Stealer,\" an open-source data stealer, that targets browsers, crypto wallets, and chat apps.\n\nLearn more: https://t.co/bCC1IxAV22\n\n#cybersecurity",
     "tweettime": "2024-01-16, 07:14:27",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747155337499537776",
