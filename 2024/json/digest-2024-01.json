@@ -160,10 +160,10 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 206,
+    "tweetfavorites": 230,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 23,
+    "tweetretweets": 26,
     "tweettext": "I discovered the CVE-2023-22527 vulnerability leading to unauthenticated RCE on Confluence. Unfortunately, it couldn't be exploited on the latest versions. Nevertheless, Atlassian still awarded me a bounty as an encouragement. So nice 🩷 https://t.co/9NKWzS6QIE",
     "tweettime": "2024-01-16, 16:34:11",
     "tweeturl": "https://twitter.com/VietPetrus/status/1747296196505530780",
@@ -199,7 +199,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 109,
+    "tweetretweets": 111,
     "tweettext": "RT @Volexity: .@Volexity provides an update on its Ivanti Connect Secure VPN report concerning chained exploitation of CVE-2024-21887/CVE-2…",
     "tweettime": "2024-01-16, 14:08:17",
     "tweeturl": "https://twitter.com/cyb3rops/status/1747259479564128687",
@@ -279,7 +279,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 109,
+    "tweetretweets": 111,
     "tweettext": "RT @Volexity: .@Volexity provides an update on its Ivanti Connect Secure VPN report concerning chained exploitation of CVE-2024-21887/CVE-2…",
     "tweettime": "2024-01-16, 07:18:45",
     "tweeturl": "https://twitter.com/x0rz/status/1747156419030172058",
