@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 114,
+    "tweettext": "RT @BleepinComputer: A Chinese hacking group has been exploiting a critical VMware vCenter Server vulnerability (CVE-2023-34048) as a zero-…",
+    "tweettime": "2024-01-19, 18:34:29",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1748413634257039863",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
     ],
@@ -46,6 +56,35 @@
     "tweettime": "2024-01-19, 04:16:55",
     "tweeturl": "https://twitter.com/Dinosn/status/1748197821021331656",
     "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/d1gg0r/CVE-2023-26602",
+        "https://github.com/forsaken0128/CVE-2024-0193-Kernel-Root-Bypass",
+        "https://github.com/forsaken0128/CVE-2024-0252-RCE"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 28,
+    "tweettext": "#exploit\n1. CVE-2023-26602:\nAsus ASMB8 iKVM RCE and SSH Root Access\nhttps://t.co/718WXDqst7\n\n2. CVE-2024-0193:\nLinux Kernel Root Bypass\nhttps://t.co/QHo8pRwOH0\n\n3. CVE-2024-0252:\nZoho ManageEngine ADSelfService Plus RCE\nhttps://t.co/8MMRz8CMmN",
+    "tweettime": "2024-01-19, 03:54:13",
+    "tweeturl": "https://twitter.com/akaclandestine/status/1748192108240928903",
+    "username": "akaclandestine"
+}
+{
+    "expanded_url": [
+        "https://github.com/Elizarfish/CVE-2023-21823",
+        "https://github.com/UlyssesSaicha/CVE-2023-6875"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "#exploit\n1. CVE-2023-21823:\nWindows Graphics Component RCE\nhttps://t.co/B8YyPWJvMG\n\n2. CVE-2023-6875:\nWordPress POST SMTP Mailer 2.8.7 Authorization Bypass / Cross Site Scripting\nhttps://t.co/dEZ3gHbt2f",
+    "tweettime": "2024-01-19, 03:50:56",
+    "tweeturl": "https://twitter.com/akaclandestine/status/1748191282155921753",
+    "username": "akaclandestine"
 }
 {
     "expanded_url": [
