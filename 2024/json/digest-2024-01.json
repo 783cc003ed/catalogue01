@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
+    ],
+    "tweetfavorites": 187,
+    "tweetquotes": 11,
+    "tweetreplies": 0,
+    "tweetretweets": 90,
+    "tweettext": "A Chinese hacking group has been exploiting a critical VMware vCenter Server vulnerability (CVE-2023-34048) as a zero-day since at least late 2021 - @serghei\nhttps://t.co/fYPOCW0UPx",
+    "tweettime": "2024-01-19, 16:32:56",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1748383046808563916",
+    "username": "BleepinComputer"
+}
+{
     "tweetfavorites": 215,
     "tweetquotes": 0,
     "tweetreplies": 4,
@@ -12,10 +25,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/us-cybersecurity-agency-warns-of.html"
     ],
-    "tweetfavorites": 51,
+    "tweetfavorites": 56,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 21,
+    "tweetretweets": 22,
     "tweettext": "🆘 Patch your Ivanti ASAP! CISA urges action, especially for government agencies.\n\nA critical flaw (CVE-2023-35082) in Ivanti EPMM is being exploited in the wild, giving attackers access to your data.\n\nDon't wait, read more: https://t.co/Ico82JNaw8\n\n#hacking #cybersecurity",
     "tweettime": "2024-01-19, 04:56:13",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1748207713245646951",
@@ -107,7 +120,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html"
     ],
-    "tweetfavorites": 133,
+    "tweetfavorites": 134,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 71,
@@ -153,10 +166,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 305,
+    "tweetfavorites": 306,
     "tweetquotes": 23,
     "tweetreplies": 23,
-    "tweetretweets": 154,
+    "tweetretweets": 155,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",
@@ -176,7 +189,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"
     ],
-    "tweetfavorites": 356,
+    "tweetfavorites": 357,
     "tweetquotes": 15,
     "tweetreplies": 3,
     "tweetretweets": 214,
@@ -258,7 +271,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html"
     ],
-    "tweetfavorites": 202,
+    "tweetfavorites": 203,
     "tweetquotes": 5,
     "tweetreplies": 3,
     "tweetretweets": 125,
@@ -271,7 +284,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 111,
+    "tweetretweets": 110,
     "tweettext": "RT @Volexity: .@Volexity provides an update on its Ivanti Connect Secure VPN report concerning chained exploitation of CVE-2024-21887/CVE-2…",
     "tweettime": "2024-01-16, 14:08:17",
     "tweeturl": "https://twitter.com/cyb3rops/status/1747259479564128687",
@@ -291,10 +304,10 @@
     "expanded_url": [
         "https://attackerkb.com/topics/AdUh6by52K/cve-2023-46805/rapid7-analysis"
     ],
-    "tweetfavorites": 144,
+    "tweetfavorites": 156,
     "tweetquotes": 5,
     "tweetreplies": 5,
-    "tweetretweets": 59,
+    "tweetretweets": 62,
     "tweettext": "We have posted our AttackerKB @rapid7 Analysis of the recent 0day exploit chain affecting Ivanti Connect Secure (CVE-2023-46805 and CVE-2024-21887). Full details of the auth bypass and command injection vulns. Read all the details here: https://t.co/qvnnV4d4y8",
     "tweettime": "2024-01-16, 13:25:44",
     "tweeturl": "https://twitter.com/stephenfewer/status/1747248773481308229",
