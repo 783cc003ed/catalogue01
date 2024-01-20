@@ -9,13 +9,33 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 172,
+    "tweettext": "RT @TheHackersNews: 🔒 Alert: Researchers have discovered a new SSH protocol #vulnerability, \"Terrapin\" (CVE-2023-48795), enabling attackers…",
+    "tweettime": "2024-01-19, 17:39:11",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1748399718319731073",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "RT @alisaesage: Quick test of Safari JavaScript WASM RCE bug from Operation Triangulation (CVE-2023-32435) https://t.co/UPEvTLab41",
+    "tweettime": "2024-01-19, 17:38:40",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1748399588610859068",
+    "username": "hackerfantastic"
+}
+{
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
     ],
-    "tweetfavorites": 276,
+    "tweetfavorites": 316,
     "tweetquotes": 13,
     "tweetreplies": 1,
-    "tweetretweets": 119,
+    "tweetretweets": 137,
     "tweettext": "A Chinese hacking group has been exploiting a critical VMware vCenter Server vulnerability (CVE-2023-34048) as a zero-day since at least late 2021 - @serghei\nhttps://t.co/fYPOCW0UPx",
     "tweettime": "2024-01-19, 16:32:56",
     "tweeturl": "https://twitter.com/BleepinComputer/status/1748383046808563916",
@@ -241,10 +261,10 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 257,
+    "tweetfavorites": 265,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 115,
+    "tweetretweets": 117,
     "tweettext": "Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 01:35:53",
     "tweeturl": "https://twitter.com/standa_t/status/1747432523444191347",
@@ -254,10 +274,10 @@
     "expanded_url": [
         "https://github.com/Nassim-Asrir/ZDI-24-020/"
     ],
-    "tweetfavorites": 161,
-    "tweetquotes": 1,
+    "tweetfavorites": 169,
+    "tweetquotes": 2,
     "tweetreplies": 5,
-    "tweetretweets": 56,
+    "tweetretweets": 59,
     "tweettext": "I'm excited to announce that the technical analysis and the exploit of my CVE-2023-6546 (ZDI-24-020) \nLinux Kernel GSM Multiplexing Race Condition LPE is now available on : https://t.co/bk4yjCMtdl \n\nHappy Reading\n\n#Cybersecurity #Vulnerability #CVE #InfoSec #exploit #Security",
     "tweettime": "2024-01-16, 22:25:01",
     "tweeturl": "https://twitter.com/p1k4l4/status/1747384486524866972",
