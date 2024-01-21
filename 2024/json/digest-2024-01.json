@@ -12,7 +12,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 82,
+    "tweetretweets": 83,
     "tweettext": "RT @ptswarm: 💥 We have reproduced CVE-2023-22527 in Atlassian Confluence.\n\nA template injection vulnerability allows an unauthenticated att…",
     "tweettime": "2024-01-19, 22:05:18",
     "tweeturl": "https://twitter.com/kmkz_security/status/1748466688889139204",
@@ -190,7 +190,7 @@
     "expanded_url": [
         "https://chromium.googlesource.com/v8/v8.git/+/389ea9be7d68bb189e16da79f6414edbd4f7594f"
     ],
-    "tweetfavorites": 36,
+    "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 8,
@@ -351,10 +351,10 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 233,
-    "tweetquotes": 0,
+    "tweetfavorites": 235,
+    "tweetquotes": 1,
     "tweetreplies": 7,
-    "tweetretweets": 26,
+    "tweetretweets": 27,
     "tweettext": "I discovered the CVE-2023-22527 vulnerability leading to unauthenticated RCE on Confluence. Unfortunately, it couldn't be exploited on the latest versions. Nevertheless, Atlassian still awarded me a bounty as an encouragement. So nice 🩷 https://t.co/9NKWzS6QIE",
     "tweettime": "2024-01-16, 16:34:11",
     "tweeturl": "https://twitter.com/VietPetrus/status/1747296196505530780",
@@ -506,7 +506,7 @@
     "tweetfavorites": 95,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 28,
+    "tweetretweets": 27,
     "tweettext": "CVE-2023-26360: Unauthenticated RCE in Adobe Coldfusion.\n\nPoC\nhttps://t.co/UhWmip3uLb https://t.co/atdxo3H4F6",
     "tweettime": "2024-01-15, 17:56:56",
     "tweeturl": "https://twitter.com/cyber_advising/status/1746954633589785078",
@@ -539,7 +539,7 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 52,
+    "tweetfavorites": 53,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 19,
@@ -903,7 +903,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 163,
+    "tweetretweets": 164,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:02:42",
     "tweeturl": "https://twitter.com/buffaloverflow/status/1745174347126346166",
