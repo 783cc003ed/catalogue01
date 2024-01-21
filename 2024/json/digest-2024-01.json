@@ -2,14 +2,14 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 140,
+    "tweetretweets": 147,
     "tweettext": "RT @BleepinComputer: A Chinese hacking group has been exploiting a critical VMware vCenter Server vulnerability (CVE-2023-34048) as a zero-…",
     "tweettime": "2024-01-20, 15:19:37",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1748726982815125880",
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 33,
+    "tweetfavorites": 35,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 9,
@@ -17,6 +17,32 @@
     "tweettime": "2024-01-20, 14:53:01",
     "tweeturl": "https://twitter.com/LetsDefendIO/status/1748720289024802894",
     "username": "LetsDefendIO"
+}
+{
+    "expanded_url": [
+        "https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/"
+    ],
+    "tweetfavorites": 205,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 61,
+    "tweettext": "CVE-2024-0517: Google Chrome V8 Out-of-Bounds Write Code Execution\n\nPoC\nhttps://t.co/hEpegMkuay https://t.co/3NHjadUVog",
+    "tweettime": "2024-01-20, 11:28:07",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1748668725887144410",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html"
+    ],
+    "tweetfavorites": 228,
+    "tweetquotes": 7,
+    "tweetreplies": 5,
+    "tweetretweets": 119,
+    "tweettext": "A China-linked cyber espionage group called UNC3886 has been exploiting a zero-day #vulnerability in #VMware vCenter Server (CVE-2023-34048) since late 2021.\n\nLearn more: https://t.co/oKqtCCgPyo\n\n#Cybersecurity #Hacking",
+    "tweettime": "2024-01-20, 10:27:07",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1748653375300972629",
+    "username": "TheHackersNews"
 }
 {
     "tweetfavorites": 0,
@@ -27,6 +53,19 @@
     "tweettime": "2024-01-19, 22:05:18",
     "tweeturl": "https://twitter.com/kmkz_security/status/1748466688889139204",
     "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/#google_vignette"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "🇨🇳 cyber espionage group UNC3886 has been exploiting a critical vulnerability (CVE-2023-34048) in VMware vCenter Server as a zero-day since at least late 2021.\n\nThe flaw wasn’t patched until Oct 2023.\n\n￼\nhttps://t.co/ifL1Fj3LNU https://t.co/E368DI0tOS",
+    "tweettime": "2024-01-19, 20:04:05",
+    "tweeturl": "https://twitter.com/Byron_Wan/status/1748436186497220872",
+    "username": "Byron_Wan"
 }
 {
     "tweetfavorites": 0,
@@ -62,10 +101,10 @@
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
     ],
-    "tweetfavorites": 316,
+    "tweetfavorites": 335,
     "tweetquotes": 13,
-    "tweetreplies": 1,
-    "tweetretweets": 137,
+    "tweetreplies": 2,
+    "tweetretweets": 146,
     "tweettext": "A Chinese hacking group has been exploiting a critical VMware vCenter Server vulnerability (CVE-2023-34048) as a zero-day since at least late 2021 - @serghei\nhttps://t.co/fYPOCW0UPx",
     "tweettime": "2024-01-19, 16:32:56",
     "tweeturl": "https://twitter.com/BleepinComputer/status/1748383046808563916",
@@ -513,7 +552,7 @@
     "expanded_url": [
         "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"
     ],
-    "tweetfavorites": 95,
+    "tweetfavorites": 96,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 27,
