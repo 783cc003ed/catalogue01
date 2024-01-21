@@ -400,10 +400,10 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 235,
+    "tweetfavorites": 237,
     "tweetquotes": 1,
     "tweetreplies": 7,
-    "tweetretweets": 27,
+    "tweetretweets": 28,
     "tweettext": "I discovered the CVE-2023-22527 vulnerability leading to unauthenticated RCE on Confluence. Unfortunately, it couldn't be exploited on the latest versions. Nevertheless, Atlassian still awarded me a bounty as an encouragement. So nice 🩷 https://t.co/9NKWzS6QIE",
     "tweettime": "2024-01-16, 16:34:11",
     "tweeturl": "https://twitter.com/VietPetrus/status/1747296196505530780",
