@@ -9,6 +9,16 @@
     "username": "hackerfantastic"
 }
 {
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 9,
+    "tweettext": "⚠️ NEW SOC Alert: Apache OFBiz Auth Bypass and Code Injection 0-Day \n\nSonicWall researchers observed widespread exploitation attempts targeting CVE-2023-51467, identified as a zero-day vulnerability, on December 26, 2023. \n\nSo, you can investigate this on LetsDefend! https://t.co/2Z5goPTQ81",
+    "tweettime": "2024-01-20, 14:53:01",
+    "tweeturl": "https://twitter.com/LetsDefendIO/status/1748720289024802894",
+    "username": "LetsDefendIO"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -242,7 +252,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 115,
+    "tweetretweets": 118,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 05:05:47",
     "tweeturl": "https://twitter.com/chompie1337/status/1747485342716883125",
@@ -272,10 +282,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 306,
+    "tweetfavorites": 301,
     "tweetquotes": 23,
     "tweetreplies": 23,
-    "tweetretweets": 155,
+    "tweetretweets": 154,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",
@@ -298,7 +308,7 @@
     "tweetfavorites": 357,
     "tweetquotes": 15,
     "tweetreplies": 3,
-    "tweetretweets": 214,
+    "tweetretweets": 215,
     "tweettext": "🔥 Chrome Zero-Day Alert!\n\nUpdate your browser NOW to patch a new critical flaw exploited by hackers. This memory leak bug lets attackers steal your secrets.\n\nLearn more about CVE-2024-0519: https://t.co/tlplEnSeYD\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-17, 02:25:02",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747444890425024787",
