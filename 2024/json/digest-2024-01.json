@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 152,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2023-22527 Confluence SSTI RCE https://t.co/S2OIwfoFti",
+    "tweettime": "2024-01-22, 03:45:37",
+    "tweeturl": "https://twitter.com/chybeta/status/1749277108952871311",
+    "username": "chybeta"
+}
+{
     "expanded_url": [
         "https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/"
     ],
@@ -61,7 +71,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 83,
+    "tweetretweets": 86,
     "tweettext": "RT @ptswarm: 💥 We have reproduced CVE-2023-22527 in Atlassian Confluence.\n\nA template injection vulnerability allows an unauthenticated att…",
     "tweettime": "2024-01-19, 22:05:18",
     "tweeturl": "https://twitter.com/kmkz_security/status/1748466688889139204",
@@ -114,7 +124,7 @@
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
     ],
-    "tweetfavorites": 345,
+    "tweetfavorites": 348,
     "tweetquotes": 13,
     "tweetreplies": 2,
     "tweetretweets": 151,
@@ -124,7 +134,7 @@
     "username": "BleepinComputer"
 }
 {
-    "tweetfavorites": 298,
+    "tweetfavorites": 301,
     "tweetquotes": 1,
     "tweetreplies": 5,
     "tweetretweets": 86,
@@ -278,7 +288,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 59,
+    "tweetretweets": 60,
     "tweettext": "RT @p1k4l4: I'm excited to announce that the technical analysis and the exploit of my CVE-2023-6546 (ZDI-24-020) \nLinux Kernel GSM Multiple…",
     "tweettime": "2024-01-17, 10:43:16",
     "tweeturl": "https://twitter.com/kmkz_security/status/1747570273161777373",
@@ -334,10 +344,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 303,
+    "tweetfavorites": 305,
     "tweetquotes": 23,
     "tweetreplies": 23,
-    "tweetretweets": 155,
+    "tweetretweets": 156,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",
