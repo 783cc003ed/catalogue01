@@ -101,10 +101,10 @@
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
     ],
-    "tweetfavorites": 335,
+    "tweetfavorites": 344,
     "tweetquotes": 13,
     "tweetreplies": 2,
-    "tweetretweets": 146,
+    "tweetretweets": 150,
     "tweettext": "A Chinese hacking group has been exploiting a critical VMware vCenter Server vulnerability (CVE-2023-34048) as a zero-day since at least late 2021 - @serghei\nhttps://t.co/fYPOCW0UPx",
     "tweettime": "2024-01-19, 16:32:56",
     "tweeturl": "https://twitter.com/BleepinComputer/status/1748383046808563916",
@@ -400,7 +400,7 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 237,
+    "tweetfavorites": 238,
     "tweetquotes": 1,
     "tweetreplies": 7,
     "tweetretweets": 28,
@@ -459,10 +459,10 @@
     "expanded_url": [
         "https://attackerkb.com/topics/AdUh6by52K/cve-2023-46805/rapid7-analysis"
     ],
-    "tweetfavorites": 156,
+    "tweetfavorites": 158,
     "tweetquotes": 5,
     "tweetreplies": 5,
-    "tweetretweets": 62,
+    "tweetretweets": 63,
     "tweettext": "We have posted our AttackerKB @rapid7 Analysis of the recent 0day exploit chain affecting Ivanti Connect Secure (CVE-2023-46805 and CVE-2024-21887). Full details of the auth bypass and command injection vulns. Read all the details here: https://t.co/qvnnV4d4y8",
     "tweettime": "2024-01-16, 13:25:44",
     "tweeturl": "https://twitter.com/stephenfewer/status/1747248773481308229",
@@ -1303,7 +1303,7 @@
     "expanded_url": [
         "https://github.com/TecR0c/DoubleTrouble"
     ],
-    "tweetfavorites": 136,
+    "tweetfavorites": 137,
     "tweetquotes": 2,
     "tweetreplies": 3,
     "tweetretweets": 39,
