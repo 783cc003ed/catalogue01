@@ -5,7 +5,7 @@
     "tweetfavorites": 45,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 37,
+    "tweetretweets": 36,
     "tweettext": "DoS to DeAnonymization —  @PaulosYibelo find a flaw (CVE-2018-10308) in SaferVPN's chrome extension that leaks users' real IP address.\n\nIf a site tries to resolve non-existent domains continually, SaferVPN extension kills itself, leaving user uncovered.\n\nhttps://t.co/SUhQ2LKkip",
     "tweettime": "2018-04-27, 17:46:39",
     "tweeturl": "https://twitter.com/TheHackersNews/status/989923796252585984",
