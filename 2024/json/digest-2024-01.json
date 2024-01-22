@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "🚀 Just released our in-depth analysis of CVE-2023-22527, a critical RCE vulnerability in Atlassian Confluence Data Center &amp; Server. 🛡️ Don't miss out on our findings and learn how to detect and protect your systems! 🔍 https://t.co/jp6lHRHe5f \n\n#cybersecurity #CVE #RCE…",
+    "tweettime": "2024-01-22, 09:37:37",
+    "tweeturl": "https://twitter.com/pdiscoveryio/status/1749365694100349165",
+    "username": "pdiscoveryio"
+}
+{
     "tweetfavorites": 152,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -32,7 +45,7 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 38,
+    "tweetfavorites": 39,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 9,
@@ -1392,7 +1405,7 @@
     "expanded_url": [
         "https://securityonline.info/cve-2023-32434-exploited-poc-unlocks-full-command-of-ios-devices/"
     ],
-    "tweetfavorites": 93,
+    "tweetfavorites": 94,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 40,

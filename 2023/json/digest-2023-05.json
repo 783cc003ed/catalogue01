@@ -25,7 +25,7 @@
     "username": "MsftSecIntel"
 }
 {
-    "tweetfavorites": 125,
+    "tweetfavorites": 124,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 24,
@@ -352,10 +352,10 @@
     "expanded_url": [
         "https://github.com/j00sean/SecBugs/tree/main/CVEs/CVE-2023-27363"
     ],
-    "tweetfavorites": 196,
+    "tweetfavorites": 193,
     "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 58,
+    "tweetretweets": 57,
     "tweettext": "My POC for CVE-2023-27363 is public right now. Nice Foxit PDF Reader RCE vulnerability, discovered by @rgod777 🫡, which was easier to build thanks to a previous research made by @bitshifter123 🫡 around XFA forms.\n\nhttps://t.co/agbBxHszRY",
     "tweettime": "2023-05-12, 10:46:06",
     "tweeturl": "https://twitter.com/j00sean/status/1656974023279120385",
