@@ -105,7 +105,7 @@
     "tweetfavorites": 116,
     "tweetquotes": 7,
     "tweetreplies": 1,
-    "tweetretweets": 138,
+    "tweetretweets": 136,
     "tweettext": "Three Vulnerabilities Discovered in Spring Development Framework — Upgrade Immediately to Protect Your Applications\n\nhttps://t.co/ytHgTw59LU\n\nCritical — RCE Attack (CVE-2018-1270)\nHigh — Directory Traversal Attack (CVE-2018-1271)\nLow — Multipart Content Pollution (CVE-2018-1272) https://t.co/3UQj3iD3qO",
     "tweettime": "2018-04-06, 08:05:04",
     "tweeturl": "https://twitter.com/TheHackersNews/status/982167289398099968",
