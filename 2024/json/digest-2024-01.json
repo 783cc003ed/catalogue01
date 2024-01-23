@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://viz.greynoise.io/tag/atlassian-confluence-template-injection-rce-attempt-cve-2023-22527?days=1"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "We are detecting activity for CVE-2023-22527, which relates to a critical Atlassian Confluence Template Injection RCE vulnerability. So far, commands are focused on `id` `whoami` and `cat /etc/shadow` - Patch before it's too late!\n\nhttps://t.co/emEWll0PFk",
+    "tweettime": "2024-01-22, 19:53:32",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1749520693862060355",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/cve-2024-22233-a-high-severity-spring-framework-vulnerability/"
     ],
     "tweetfavorites": 66,
@@ -314,7 +327,7 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 130,
+    "tweetfavorites": 131,
     "tweetquotes": 7,
     "tweetreplies": 3,
     "tweetretweets": 46,
