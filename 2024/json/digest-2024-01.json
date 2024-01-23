@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 114,
+    "tweettext": "RT @TheDFIRReport: 🚨Active Exploitation🚨\n\n➡️CVE-2023-22527 - Confluence template injection\n➡️Executed whoami\n➡️Source IP: 45.61.137[.]90\n➡️…",
+    "tweettime": "2024-01-22, 21:05:00",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1749538677296976141",
+    "username": "kmkz_security"
+}
+{
     "expanded_url": [
         "https://viz.greynoise.io/tag/atlassian-confluence-template-injection-rce-attempt-cve-2023-22527?days=1"
     ],
@@ -10,6 +20,19 @@
     "tweettime": "2024-01-22, 19:53:32",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1749520693862060355",
     "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "Atlassian Confluence - Remote Code Execution (CVE-2023-22527) https://t.co/jsi3aOTgcj #pentesting #cybersecurity #Infosec https://t.co/tF9TYnj6bc",
+    "tweettime": "2024-01-22, 16:45:09",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1749473283823509788",
+    "username": "ptracesecurity"
 }
 {
     "expanded_url": [
@@ -64,10 +87,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 152,
+    "tweetfavorites": 216,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 19,
+    "tweetretweets": 27,
     "tweettext": "CVE-2023-22527 Confluence SSTI RCE https://t.co/S2OIwfoFti",
     "tweettime": "2024-01-22, 03:45:37",
     "tweeturl": "https://twitter.com/chybeta/status/1749277108952871311",
@@ -90,10 +113,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 34,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 9,
+    "tweetretweets": 10,
     "tweettext": "Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution https://t.co/RKyWLwyIEz  #pentesting #cybersecurity #Infosec https://t.co/TAHH3ETRTw",
     "tweettime": "2024-01-21, 04:55:03",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1748932193869586915",
@@ -149,7 +172,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 86,
+    "tweetretweets": 87,
     "tweettext": "RT @ptswarm: 💥 We have reproduced CVE-2023-22527 in Atlassian Confluence.\n\nA template injection vulnerability allows an unauthenticated att…",
     "tweettime": "2024-01-19, 22:05:18",
     "tweeturl": "https://twitter.com/kmkz_security/status/1748466688889139204",
@@ -228,7 +251,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 118,
+    "tweetretweets": 119,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-19, 08:26:08",
     "tweeturl": "https://twitter.com/kmkz_security/status/1748260540760162622",
@@ -366,7 +389,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 61,
+    "tweetretweets": 68,
     "tweettext": "RT @p1k4l4: I'm excited to announce that the technical analysis and the exploit of my CVE-2023-6546 (ZDI-24-020) \nLinux Kernel GSM Multiple…",
     "tweettime": "2024-01-17, 10:43:16",
     "tweeturl": "https://twitter.com/kmkz_security/status/1747570273161777373",
@@ -458,10 +481,10 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 276,
+    "tweetfavorites": 278,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 118,
+    "tweetretweets": 119,
     "tweettext": "Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 01:35:53",
     "tweeturl": "https://twitter.com/standa_t/status/1747432523444191347",
@@ -600,7 +623,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 110,
+    "tweetretweets": 109,
     "tweettext": "RT @Volexity: .@Volexity provides an update on its Ivanti Connect Secure VPN report concerning chained exploitation of CVE-2024-21887/CVE-2…",
     "tweettime": "2024-01-16, 10:04:12",
     "tweeturl": "https://twitter.com/kmkz_security/status/1747198054619291764",
