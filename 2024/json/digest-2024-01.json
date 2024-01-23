@@ -61,6 +61,16 @@
     "username": "piedpiper1616"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "RT @pdiscoveryio: 🚀 Just released our in-depth analysis of CVE-2023-22527, a critical RCE vulnerability in Atlassian Confluence Data Center…",
+    "tweettime": "2024-01-22, 09:41:47",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1749366741187367179",
+    "username": "pdnuclei"
+}
+{
     "expanded_url": [
         "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/"
     ],
@@ -77,10 +87,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/apache-activemq-flaw-exploited-in-new.html"
     ],
-    "tweetfavorites": 150,
-    "tweetquotes": 2,
-    "tweetreplies": 3,
-    "tweetretweets": 74,
+    "tweetfavorites": 197,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 90,
     "tweettext": "Hackers Feast on Unpatched ActiveMQ!  CVE-2023-46604, a critical remote code execution flaw, is back in the spotlight.\n\nLearn more: https://t.co/YN34Y44boN\n\nUpdate your Apache ASAP or risk ransomware, rootkits, and botnets.\n\n#cybersecurity #hacking",
     "tweettime": "2024-01-22, 03:45:56",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1749277187151450229",
@@ -159,9 +169,9 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html"
     ],
-    "tweetfavorites": 284,
+    "tweetfavorites": 287,
     "tweetquotes": 8,
-    "tweetreplies": 5,
+    "tweetreplies": 6,
     "tweetretweets": 138,
     "tweettext": "A China-linked cyber espionage group called UNC3886 has been exploiting a zero-day #vulnerability in #VMware vCenter Server (CVE-2023-34048) since late 2021.\n\nLearn more: https://t.co/oKqtCCgPyo\n\n#Cybersecurity #Hacking",
     "tweettime": "2024-01-20, 10:27:07",
@@ -468,7 +478,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"
     ],
-    "tweetfavorites": 358,
+    "tweetfavorites": 359,
     "tweetquotes": 15,
     "tweetreplies": 3,
     "tweetretweets": 216,
