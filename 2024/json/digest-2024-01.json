@@ -74,10 +74,10 @@
     "expanded_url": [
         "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/"
     ],
-    "tweetfavorites": 100,
-    "tweetquotes": 1,
-    "tweetreplies": 1,
-    "tweetretweets": 33,
+    "tweetfavorites": 173,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 62,
     "tweettext": "🚀 Just released our in-depth analysis of CVE-2023-22527, a critical RCE vulnerability in Atlassian Confluence Data Center &amp; Server. 🛡️ Don't miss out on our findings and learn how to detect and protect your systems! 🔍 https://t.co/jp6lHRHe5f \n\n#cybersecurity #CVE #RCE…",
     "tweettime": "2024-01-22, 09:37:37",
     "tweeturl": "https://twitter.com/pdiscoveryio/status/1749365694100349165",
@@ -504,10 +504,10 @@
     "expanded_url": [
         "https://github.com/Nassim-Asrir/ZDI-24-020/"
     ],
-    "tweetfavorites": 181,
-    "tweetquotes": 2,
+    "tweetfavorites": 235,
+    "tweetquotes": 3,
     "tweetreplies": 6,
-    "tweetretweets": 61,
+    "tweetretweets": 70,
     "tweettext": "I'm excited to announce that the technical analysis and the exploit of my CVE-2023-6546 (ZDI-24-020) \nLinux Kernel GSM Multiplexing Race Condition LPE is now available on : https://t.co/bk4yjCMtdl \n\nHappy Reading\n\n#Cybersecurity #Vulnerability #CVE #InfoSec #exploit #Security",
     "tweettime": "2024-01-16, 22:25:01",
     "tweeturl": "https://twitter.com/p1k4l4/status/1747384486524866972",
@@ -1007,7 +1007,7 @@
     "expanded_url": [
         "https://www.synacktiv.com/advisories/remote-code-execution-on-cisco-access-point-wap371-firmware-1307"
     ],
-    "tweetfavorites": 177,
+    "tweetfavorites": 178,
     "tweetquotes": 1,
     "tweetreplies": 7,
     "tweetretweets": 37,
