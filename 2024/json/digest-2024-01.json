@@ -156,10 +156,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/"
     ],
-    "tweetfavorites": 205,
+    "tweetfavorites": 300,
     "tweetquotes": 2,
     "tweetreplies": 5,
-    "tweetretweets": 61,
+    "tweetretweets": 92,
     "tweettext": "CVE-2024-0517: Google Chrome V8 Out-of-Bounds Write Code Execution\n\nPoC\nhttps://t.co/hEpegMkuay https://t.co/3NHjadUVog",
     "tweettime": "2024-01-20, 11:28:07",
     "tweeturl": "https://twitter.com/cyber_advising/status/1748668725887144410",
@@ -235,7 +235,7 @@
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
     ],
-    "tweetfavorites": 348,
+    "tweetfavorites": 352,
     "tweetquotes": 13,
     "tweetreplies": 2,
     "tweetretweets": 151,
@@ -425,7 +425,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 118,
+    "tweetretweets": 119,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 05:05:47",
     "tweeturl": "https://twitter.com/chompie1337/status/1747485342716883125",
@@ -455,7 +455,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 305,
+    "tweetfavorites": 304,
     "tweetquotes": 23,
     "tweetreplies": 23,
     "tweetretweets": 156,
@@ -702,7 +702,7 @@
     "tweetfavorites": 33,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 8,
+    "tweetretweets": 9,
     "tweettext": "CVE-2023-36003: Privilege escalation using the XAML diagnostics API.\n\nPoC\nhttps://t.co/lP1FxclNhX",
     "tweettime": "2024-01-15, 17:55:19",
     "tweeturl": "https://twitter.com/cyber_advising/status/1746954228621246977",
@@ -715,7 +715,7 @@
     "tweetfavorites": 44,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetretweets": 17,
     "tweettext": "Ivanti Secure Access VPN - SSL VPN: CVE-2023-46805 &amp; CVE-2024-21887\n\nPoC\nhttps://t.co/KW6eRlNfSe https://t.co/tmOaJIYt7C",
     "tweettime": "2024-01-15, 17:51:58",
     "tweeturl": "https://twitter.com/cyber_advising/status/1746953384077226352",
