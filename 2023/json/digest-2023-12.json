@@ -465,7 +465,7 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop_20.html"
     ],
-    "tweetfavorites": 234,
+    "tweetfavorites": 233,
     "tweetquotes": 4,
     "tweetreplies": 6,
     "tweetretweets": 55,
@@ -680,7 +680,7 @@
     "tweetfavorites": 481,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 166,
+    "tweetretweets": 165,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauthenticated remote code execution\nhttps://t.co/uRjXzpnW54 https://t.co/UtMv4LZBLt",
     "tweettime": "2023-12-16, 07:49:06",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1735930032152023288",
@@ -1254,7 +1254,7 @@
     "tweetfavorites": 176,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 40,
+    "tweetretweets": 39,
     "tweettext": "Here's a POC for CVE-2023-44414 (A pre-auth RCE): https://t.co/hJ7DDSONRW https://t.co/ADpXdVGZZo",
     "tweettime": "2023-12-04, 23:18:05",
     "tweeturl": "https://twitter.com/steventseeley/status/1731815163613806924",

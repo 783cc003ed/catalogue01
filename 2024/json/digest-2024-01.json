@@ -22,7 +22,7 @@
     "expanded_url": [
         "https://github.com/VNCERT-CC/CVE-2023-22527-confluence"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 35,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 6,
@@ -53,6 +53,16 @@
     "tweettime": "2024-01-23, 20:50:52",
     "tweeturl": "https://twitter.com/steventseeley/status/1749897509651320896",
     "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 78,
+    "tweettext": "RT @Horizon3Attack: CVE-2024-0204, announced today but silently patched in December, details an authentication bypass in #Fortra #GoAnywher…",
+    "tweettime": "2024-01-23, 20:48:01",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1749896793905619391",
+    "username": "kmkz_security"
 }
 {
     "tweetfavorites": 0,
@@ -94,7 +104,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 114,
+    "tweetretweets": 118,
     "tweettext": "RT @TheDFIRReport: 🚨Active Exploitation🚨\n\n➡️CVE-2023-22527 - Confluence template injection\n➡️Executed whoami\n➡️Source IP: 45.61.137[.]90\n➡️…",
     "tweettime": "2024-01-22, 21:05:00",
     "tweeturl": "https://twitter.com/kmkz_security/status/1749538677296976141",
@@ -379,7 +389,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 119,
+    "tweetretweets": 120,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-19, 08:26:08",
     "tweeturl": "https://twitter.com/kmkz_security/status/1748260540760162622",
@@ -517,7 +527,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 68,
+    "tweetretweets": 82,
     "tweettext": "RT @p1k4l4: I'm excited to announce that the technical analysis and the exploit of my CVE-2023-6546 (ZDI-24-020) \nLinux Kernel GSM Multiple…",
     "tweettime": "2024-01-17, 10:43:16",
     "tweeturl": "https://twitter.com/kmkz_security/status/1747570273161777373",
