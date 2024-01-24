@@ -22,6 +22,19 @@
     "username": "Cloudflare"
 }
 {
+    "expanded_url": [
+        "https://www.mobile-hacker.com/2024/01/23/exploiting-0-click-android-bluetooth-vulnerability-to-inject-keystrokes-without-pairing/"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "Exploiting 0-click Android Bluetooth vulnerability to inject keystrokes without pairing (CVE-2023-45866) https://t.co/5Nbz5d5HRT",
+    "tweettime": "2024-01-23, 09:58:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1749733234265727201",
+    "username": "_r_netsec"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -56,6 +69,19 @@
     "tweettime": "2024-01-22, 16:45:09",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1749473283823509788",
     "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/writeup-for-cve-2023-39143-papercut-webdav-vulnerability/"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 26,
+    "tweettext": "Writeup for CVE-2023-39143: PaperCut WebDAV Vulnerability\nhttps://t.co/hDrO5nwM7W",
+    "tweettime": "2024-01-22, 15:16:52",
+    "tweeturl": "https://twitter.com/momika233/status/1749451067417645186",
+    "username": "momika233"
 }
 {
     "expanded_url": [
@@ -133,7 +159,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 216,
+    "tweetfavorites": 225,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 27,
@@ -146,10 +172,10 @@
     "expanded_url": [
         "https://www.horizon3.ai/writeup-for-cve-2023-39143-papercut-webdav-vulnerability/"
     ],
-    "tweetfavorites": 49,
+    "tweetfavorites": 50,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 9,
+    "tweetretweets": 10,
     "tweettext": "CVE-2023-39143: PaperCut WebDAV RCE Deep-Dive https://t.co/MzPHhgiUpD",
     "tweettime": "2024-01-21, 17:43:06",
     "tweeturl": "https://twitter.com/_r_netsec/status/1749125479322587588",
@@ -964,7 +990,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 150,
+    "tweetretweets": 152,
     "tweettext": "RT @rwincey: GitLab CVE-2023-7028 POC\n\nuser[email][]=valid@email.com&amp;user[email][]=attacker@email.com \n\n- PWNED",
     "tweettime": "2024-01-12, 12:00:12",
     "tweeturl": "https://twitter.com/momika233/status/1745777697069150454",
