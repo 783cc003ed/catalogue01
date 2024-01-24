@@ -2,6 +2,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "RT @mistymntncop: Exploit for CVE-2022-4262. Fukin finally! Shoutout to @_clem1 for finding the ITW exploit. And shoutout to @5aelo, @bjrjk…",
+    "tweettime": "2024-01-24, 14:42:46",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1750167260780548597",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 96,
     "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-3420, an incorrect side effect modelling bug in the JIT compiler that I reported to Chrome, to…",
     "tweettime": "2024-01-24, 09:25:18",
@@ -122,6 +132,19 @@
     "tweettime": "2024-01-22, 19:53:32",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1749520693862060355",
     "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://github.com/Nassim-Asrir/ZDI-24-020/"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
+    "tweettext": "Linux Kernel GSM Multiplexing Race Condition Local Privilege Escalation Vulnerability (CVE-2023-6546)\n\nAn article by @p1k4l4 about exploiting a race condition that leads to a kmalloc-1k use-after-free in the n_gsm TTY line discipline module.\n\nhttps://t.co/8GeGa9n6hT",
+    "tweettime": "2024-01-22, 18:56:26",
+    "tweeturl": "https://twitter.com/linkersec/status/1749506321731199339",
+    "username": "linkersec"
 }
 {
     "expanded_url": [
