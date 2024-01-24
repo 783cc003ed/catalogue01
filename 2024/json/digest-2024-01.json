@@ -2,6 +2,49 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 96,
+    "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-3420, an incorrect side effect modelling bug in the JIT compiler that I reported to Chrome, to…",
+    "tweettime": "2024-01-24, 09:25:18",
+    "tweeturl": "https://twitter.com/steventseeley/status/1750087367371964505",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 99,
+    "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-4069, a type confusion bug in the Maglev JIT compiler of Chrome that I reported in July, to gai…",
+    "tweettime": "2024-01-24, 09:24:28",
+    "tweeturl": "https://twitter.com/steventseeley/status/1750087159116337575",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/01/patch-your-goanywhere-mft-immediately.html"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "🔒 GoAnywhere users, listen up! Critical bug lets anyone become admin.\n\nRemember Cl0p #ransomware? They hit 130 victims using a Fortra's GoAnywhere flaw last year. Now, CVE-2024-0204 is even worse. Update to 7.4.1 immediately.\n\nLearn more: https://t.co/oo1tcnCWeL\n\n#cybersecurity",
+    "tweettime": "2024-01-24, 05:34:48",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1750029363914097024",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "RT @Horizon3Attack: CVE-2024-0204, announced today but silently patched in December, details an authentication bypass in #Fortra #GoAnywher…",
+    "tweettime": "2024-01-23, 20:50:52",
+    "tweeturl": "https://twitter.com/steventseeley/status/1749897509651320896",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 37,
     "tweettext": "RT @Horizon3Attack: CVE-2024-0204, announced today but silently patched in December, details an authentication bypass in #Fortra #GoAnywher…",
     "tweettime": "2024-01-23, 20:47:15",
@@ -136,10 +179,10 @@
     "expanded_url": [
         "https://securityonline.info/experts-reveal-details-and-poc-on-chrome-cve-2024-0517-rce-flaw/"
     ],
-    "tweetfavorites": 136,
+    "tweetfavorites": 141,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 45,
+    "tweetretweets": 46,
     "tweettext": "Experts Reveal Details and PoC on Chrome CVE-2024-0517 RCE Flaw https://t.co/M5UWxHlpum",
     "tweettime": "2024-01-22, 06:35:28",
     "tweeturl": "https://twitter.com/Dinosn/status/1749319854904021392",
@@ -149,10 +192,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/apache-activemq-flaw-exploited-in-new.html"
     ],
-    "tweetfavorites": 197,
-    "tweetquotes": 3,
+    "tweetfavorites": 200,
+    "tweetquotes": 4,
     "tweetreplies": 4,
-    "tweetretweets": 90,
+    "tweetretweets": 92,
     "tweettext": "Hackers Feast on Unpatched ActiveMQ!  CVE-2023-46604, a critical remote code execution flaw, is back in the spotlight.\n\nLearn more: https://t.co/YN34Y44boN\n\nUpdate your Apache ASAP or risk ransomware, rootkits, and botnets.\n\n#cybersecurity #hacking",
     "tweettime": "2024-01-22, 03:45:56",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1749277187151450229",
