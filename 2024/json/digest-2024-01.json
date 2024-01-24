@@ -64,7 +64,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 60,
+    "tweetretweets": 62,
     "tweettext": "RT @pdiscoveryio: 🚀 Just released our in-depth analysis of CVE-2023-22527, a critical RCE vulnerability in Atlassian Confluence Data Center…",
     "tweettime": "2024-01-22, 09:41:47",
     "tweeturl": "https://twitter.com/pdnuclei/status/1749366741187367179",
@@ -82,6 +82,19 @@
     "tweettime": "2024-01-22, 09:37:37",
     "tweeturl": "https://twitter.com/pdiscoveryio/status/1749365694100349165",
     "username": "pdiscoveryio"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/experts-reveal-details-and-poc-on-chrome-cve-2024-0517-rce-flaw/"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "Experts Reveal Details and PoC on Chrome CVE-2024-0517 RCE Flaw https://t.co/M5UWxHlpum",
+    "tweettime": "2024-01-22, 06:35:28",
+    "tweeturl": "https://twitter.com/Dinosn/status/1749319854904021392",
+    "username": "Dinosn"
 }
 {
     "expanded_url": [
@@ -455,7 +468,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 304,
+    "tweetfavorites": 305,
     "tweetquotes": 23,
     "tweetreplies": 23,
     "tweetretweets": 156,
@@ -478,7 +491,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"
     ],
-    "tweetfavorites": 359,
+    "tweetfavorites": 360,
     "tweetquotes": 15,
     "tweetreplies": 3,
     "tweetretweets": 216,

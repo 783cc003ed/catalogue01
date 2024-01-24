@@ -157,7 +157,7 @@
     "tweetfavorites": 202,
     "tweetquotes": 5,
     "tweetreplies": 3,
-    "tweetretweets": 89,
+    "tweetretweets": 90,
     "tweettext": "The recent #Veeam vuln, CVE-2023-27532, enables an unauth attacker to interact with an API to obtain creds as well as RCE as SYSTEM.\n\nOur blog detailing the research and process of adapting the exploit to be cross-platform as well as the POC to dump creds:\nhttps://t.co/yhYhUMNDUq",
     "tweettime": "2023-03-23, 12:22:58",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1638879006056411136",
