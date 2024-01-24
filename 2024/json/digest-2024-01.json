@@ -55,6 +55,19 @@
     "username": "TheHackersNews"
 }
 {
+    "expanded_url": [
+        "https://github.com/WebKit/WebKit/commit/61d47f64edd9a39dc2c14fcb6f6dd944a359eb79"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 13,
+    "tweettext": "Apple Safari In-The-Wild type confusion vulnerability (CVE-2024-23222 [267134]) happens because DFG constant property load does not check the validity at the main thread:\nhttps://t.co/WBMvhbfIYv",
+    "tweettime": "2024-01-24, 00:20:31",
+    "tweeturl": "https://twitter.com/hosselot/status/1749950271487447354",
+    "username": "hosselot"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -124,10 +137,10 @@
     "expanded_url": [
         "https://viz.greynoise.io/tag/atlassian-confluence-template-injection-rce-attempt-cve-2023-22527?days=1"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 18,
     "tweettext": "We are detecting activity for CVE-2023-22527, which relates to a critical Atlassian Confluence Template Injection RCE vulnerability. So far, commands are focused on `id` `whoami` and `cat /etc/shadow` - Patch before it's too late!\n\nhttps://t.co/emEWll0PFk",
     "tweettime": "2024-01-22, 19:53:32",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1749520693862060355",
@@ -248,7 +261,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 225,
+    "tweetfavorites": 226,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 27,
@@ -804,7 +817,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 109,
+    "tweetretweets": 110,
     "tweettext": "RT @Volexity: .@Volexity provides an update on its Ivanti Connect Secure VPN report concerning chained exploitation of CVE-2024-21887/CVE-2…",
     "tweettime": "2024-01-16, 07:18:45",
     "tweeturl": "https://twitter.com/x0rz/status/1747156419030172058",
@@ -1207,7 +1220,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 163,
+    "tweetretweets": 164,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:57:26",
     "tweeturl": "https://twitter.com/x0rz/status/1745188118490202221",
