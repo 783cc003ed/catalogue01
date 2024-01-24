@@ -2,6 +2,29 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @Horizon3Attack: CVE-2024-0204, announced today but silently patched in December, details an authentication bypass in #Fortra #GoAnywher…",
+    "tweettime": "2024-01-23, 20:47:15",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1749896598757236963",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://cfl.re/48KBxWv"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 4,
+    "tweetretweets": 9,
+    "tweettext": "In response to recent critical vulnerabilities (CVE-2023-46805 and CVE-2024-21887), Cloudflare's AI-powered WAF, along with WAF Emergency Rules deployed on January 17, 2024, ensured immediate customer protection. Read the blog post for all the details. https://t.co/xPazniGfz2",
+    "tweettime": "2024-01-23, 14:01:00",
+    "tweeturl": "https://twitter.com/Cloudflare/status/1749794365189341408",
+    "username": "Cloudflare"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 114,
     "tweettext": "RT @TheDFIRReport: 🚨Active Exploitation🚨\n\n➡️CVE-2023-22527 - Confluence template injection\n➡️Executed whoami\n➡️Source IP: 45.61.137[.]90\n➡️…",
     "tweettime": "2024-01-22, 21:05:00",
@@ -25,10 +48,10 @@
     "expanded_url": [
         "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/"
     ],
-    "tweetfavorites": 69,
+    "tweetfavorites": 77,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 22,
+    "tweetretweets": 25,
     "tweettext": "Atlassian Confluence - Remote Code Execution (CVE-2023-22527) https://t.co/jsi3aOTgcj #pentesting #cybersecurity #Infosec https://t.co/tF9TYnj6bc",
     "tweettime": "2024-01-22, 16:45:09",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1749473283823509788",
@@ -156,7 +179,7 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 39,
+    "tweetfavorites": 41,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 9,
@@ -182,10 +205,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html"
     ],
-    "tweetfavorites": 287,
+    "tweetfavorites": 285,
     "tweetquotes": 8,
     "tweetreplies": 6,
-    "tweetretweets": 138,
+    "tweetretweets": 137,
     "tweettext": "A China-linked cyber espionage group called UNC3886 has been exploiting a zero-day #vulnerability in #VMware vCenter Server (CVE-2023-34048) since late 2021.\n\nLearn more: https://t.co/oKqtCCgPyo\n\n#Cybersecurity #Hacking",
     "tweettime": "2024-01-20, 10:27:07",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1748653375300972629",
@@ -205,7 +228,7 @@
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/#google_vignette"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 41,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 17,
@@ -248,7 +271,7 @@
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
     ],
-    "tweetfavorites": 352,
+    "tweetfavorites": 353,
     "tweetquotes": 13,
     "tweetreplies": 2,
     "tweetretweets": 151,
@@ -261,7 +284,7 @@
     "tweetfavorites": 301,
     "tweetquotes": 1,
     "tweetreplies": 5,
-    "tweetretweets": 86,
+    "tweetretweets": 87,
     "tweettext": "💥 We have reproduced CVE-2023-22527 in Atlassian Confluence.\n\nA template injection vulnerability allows an unauthenticated attacker to achieve RCE on an affected instance.\n\nUpdate your software ASAP! https://t.co/O0VsYui97B",
     "tweettime": "2024-01-19, 13:07:39",
     "tweeturl": "https://twitter.com/ptswarm/status/1748331385968795882",
@@ -1185,7 +1208,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 119,
+    "tweetretweets": 120,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 14:00:08",
     "tweeturl": "https://twitter.com/testanull/status/1745083104161648746",
