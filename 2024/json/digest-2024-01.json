@@ -20,6 +20,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/VNCERT-CC/CVE-2023-22527-confluence"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "[Confluence] CVE-2023-22527 realworld poc https://t.co/daKqJu1uC9    #pentesting #cybersecurity #Infosec https://t.co/qDrdnQA7fh",
+    "tweettime": "2024-01-24, 08:00:08",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1750065937225490924",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2024/01/patch-your-goanywhere-mft-immediately.html"
     ],
     "tweetfavorites": 41,
@@ -45,7 +58,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 37,
+    "tweetretweets": 76,
     "tweettext": "RT @Horizon3Attack: CVE-2024-0204, announced today but silently patched in December, details an authentication bypass in #Fortra #GoAnywher…",
     "tweettime": "2024-01-23, 20:47:15",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1749896598757236963",
@@ -55,10 +68,10 @@
     "expanded_url": [
         "https://cfl.re/48KBxWv"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 48,
     "tweetquotes": 0,
-    "tweetreplies": 4,
-    "tweetretweets": 9,
+    "tweetreplies": 6,
+    "tweetretweets": 13,
     "tweettext": "In response to recent critical vulnerabilities (CVE-2023-46805 and CVE-2024-21887), Cloudflare's AI-powered WAF, along with WAF Emergency Rules deployed on January 17, 2024, ensured immediate customer protection. Read the blog post for all the details. https://t.co/xPazniGfz2",
     "tweettime": "2024-01-23, 14:01:00",
     "tweeturl": "https://twitter.com/Cloudflare/status/1749794365189341408",
@@ -117,7 +130,7 @@
     "expanded_url": [
         "https://www.horizon3.ai/writeup-for-cve-2023-39143-papercut-webdav-vulnerability/"
     ],
-    "tweetfavorites": 72,
+    "tweetfavorites": 73,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 26,
@@ -274,10 +287,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html"
     ],
-    "tweetfavorites": 285,
+    "tweetfavorites": 288,
     "tweetquotes": 8,
-    "tweetreplies": 6,
-    "tweetretweets": 137,
+    "tweetreplies": 5,
+    "tweetretweets": 138,
     "tweettext": "A China-linked cyber espionage group called UNC3886 has been exploiting a zero-day #vulnerability in #VMware vCenter Server (CVE-2023-34048) since late 2021.\n\nLearn more: https://t.co/oKqtCCgPyo\n\n#Cybersecurity #Hacking",
     "tweettime": "2024-01-20, 10:27:07",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1748653375300972629",
@@ -300,7 +313,7 @@
     "tweetfavorites": 41,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 17,
+    "tweetretweets": 18,
     "tweettext": "🇨🇳 cyber espionage group UNC3886 has been exploiting a critical vulnerability (CVE-2023-34048) in VMware vCenter Server as a zero-day since at least late 2021.\n\nThe flaw wasn’t patched until Oct 2023.\n\n￼\nhttps://t.co/ifL1Fj3LNU https://t.co/E368DI0tOS",
     "tweettime": "2024-01-19, 20:04:05",
     "tweeturl": "https://twitter.com/Byron_Wan/status/1748436186497220872",
@@ -340,7 +353,7 @@
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
     ],
-    "tweetfavorites": 353,
+    "tweetfavorites": 355,
     "tweetquotes": 13,
     "tweetreplies": 2,
     "tweetretweets": 151,
@@ -560,7 +573,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 305,
+    "tweetfavorites": 304,
     "tweetquotes": 23,
     "tweetreplies": 23,
     "tweetretweets": 156,
@@ -1191,7 +1204,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 163,
+    "tweetretweets": 164,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:02:42",
     "tweeturl": "https://twitter.com/buffaloverflow/status/1745174347126346166",
