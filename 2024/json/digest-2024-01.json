@@ -1,4 +1,40 @@
 {
+    "expanded_url": [
+        "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"
+    ],
+    "tweetfavorites": 179,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 99,
+    "tweettext": "🚨 Urgent: Critical Jenkins RCE #vulnerability (CVE-2024-23897) discovered.\n\nHackers can remotely control your CI/CD pipelines. Patch immediately to prevent malicious code in builds.\n\nDetails here: https://t.co/AdrFH8Yl5P\n\n#cybersecurity #informationsecurity",
+    "tweettime": "2024-01-25, 11:58:01",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1750488188349510118",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 99,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "🚨Alert🚨CVE-2024-23897 (CVSS 9.8): Critical Jenkins Security Vulnerability, RCE Possible\n⚠A critical vulnerability within Jenkins’ built-in command line interface (CLI),  opens the door to arbitrary file reads through the CLI, potentially culminating in remote code execution… https://t.co/smsW1QSyiH",
+    "tweettime": "2024-01-25, 08:41:34",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1750438751380341091",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-23897-cvss-9-8-critical-jenkins-security-vulnerability-rce-possible/"
+    ],
+    "tweetfavorites": 349,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 113,
+    "tweettext": "CVE-2024-23897 (CVSS 9.8): Critical Jenkins Security Vulnerability, RCE Possible https://t.co/zmnyPcKAQw",
+    "tweettime": "2024-01-25, 04:44:32",
+    "tweeturl": "https://twitter.com/Dinosn/status/1750379099468480970",
+    "username": "Dinosn"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -278,7 +314,7 @@
     "expanded_url": [
         "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/"
     ],
-    "tweetfavorites": 172,
+    "tweetfavorites": 171,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 62,
@@ -1273,7 +1309,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 164,
+    "tweetretweets": 165,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:57:26",
     "tweeturl": "https://twitter.com/x0rz/status/1745188118490202221",
@@ -1471,7 +1507,7 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 222,
+    "tweetfavorites": 220,
     "tweetquotes": 6,
     "tweetreplies": 1,
     "tweetretweets": 77,
