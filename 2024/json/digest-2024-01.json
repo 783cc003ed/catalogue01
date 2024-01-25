@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"
     ],
-    "tweetfavorites": 179,
-    "tweetquotes": 7,
+    "tweetfavorites": 223,
+    "tweetquotes": 10,
     "tweetreplies": 1,
-    "tweetretweets": 99,
+    "tweetretweets": 120,
     "tweettext": "🚨 Urgent: Critical Jenkins RCE #vulnerability (CVE-2024-23897) discovered.\n\nHackers can remotely control your CI/CD pipelines. Patch immediately to prevent malicious code in builds.\n\nDetails here: https://t.co/AdrFH8Yl5P\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-25, 11:58:01",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1750488188349510118",
@@ -121,10 +121,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/patch-your-goanywhere-mft-immediately.html"
     ],
-    "tweetfavorites": 41,
+    "tweetfavorites": 60,
     "tweetquotes": 5,
-    "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
     "tweettext": "🔒 GoAnywhere users, listen up! Critical bug lets anyone become admin.\n\nRemember Cl0p #ransomware? They hit 130 victims using a Fortra's GoAnywhere flaw last year. Now, CVE-2024-0204 is even worse. Update to 7.4.1 immediately.\n\nLearn more: https://t.co/oo1tcnCWeL\n\n#cybersecurity",
     "tweettime": "2024-01-24, 05:34:48",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1750029363914097024",
