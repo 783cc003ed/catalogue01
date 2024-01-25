@@ -9,6 +9,16 @@
     "username": "kmkz_security"
 }
 {
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "A threat actor claims to be selling CVE-2023-20198 &amp; CVE-2023-20273 RCE exploit\n\nThese vulnerabilities affect the web UI feature of Cisco IOS XE and the exploit can be used without any authentication.\n\nPrice: $5000\n\n#DarkWeb https://t.co/S91tqlHe3k",
+    "tweettime": "2024-01-24, 17:00:00",
+    "tweeturl": "https://twitter.com/DailyDarkWeb/status/1750201797405220907",
+    "username": "DailyDarkWeb"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -665,10 +675,10 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 278,
+    "tweetfavorites": 280,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 119,
+    "tweetretweets": 120,
     "tweettext": "Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 01:35:53",
     "tweeturl": "https://twitter.com/standa_t/status/1747432523444191347",
