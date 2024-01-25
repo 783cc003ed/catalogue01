@@ -78,14 +78,27 @@
     "expanded_url": [
         "https://github.com/WebKit/WebKit/commit/61d47f64edd9a39dc2c14fcb6f6dd944a359eb79"
     ],
-    "tweetfavorites": 39,
+    "tweetfavorites": 45,
     "tweetquotes": 1,
-    "tweetreplies": 5,
-    "tweetretweets": 13,
+    "tweetreplies": 6,
+    "tweetretweets": 20,
     "tweettext": "Apple Safari In-The-Wild type confusion vulnerability (CVE-2024-23222 [267134]) happens because DFG constant property load does not check the validity at the main thread:\nhttps://t.co/WBMvhbfIYv",
     "tweettime": "2024-01-24, 00:20:31",
     "tweeturl": "https://twitter.com/hosselot/status/1749950271487447354",
     "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://github.com/RomanRybachek/CVE-2024-20698"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "GitHub - RomanRybachek/CVE-2024-20698: Analysis of the vulnerability - https://t.co/weF2YvUqIn",
+    "tweettime": "2024-01-23, 23:51:18",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1749942915751915599",
+    "username": "piedpiper1616"
 }
 {
     "tweetfavorites": 0,
@@ -134,10 +147,10 @@
     "expanded_url": [
         "https://www.mobile-hacker.com/2024/01/23/exploiting-0-click-android-bluetooth-vulnerability-to-inject-keystrokes-without-pairing/"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 35,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetretweets": 15,
     "tweettext": "Exploiting 0-click Android Bluetooth vulnerability to inject keystrokes without pairing (CVE-2023-45866) https://t.co/5Nbz5d5HRT",
     "tweettime": "2024-01-23, 09:58:06",
     "tweeturl": "https://twitter.com/_r_netsec/status/1749733234265727201",
@@ -225,7 +238,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 73,
+    "tweetretweets": 74,
     "tweettext": "RT @_0xf4n9x_: #CVE-2023-22527 Confluence SSTI #RCE\nhttps://t.co/H6ynoQI6K5 https://t.co/IKR2FzNcbK",
     "tweettime": "2024-01-22, 13:44:04",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1749427714191466744",
@@ -514,7 +527,7 @@
     "tweetfavorites": 85,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 23,
+    "tweetretweets": 24,
     "tweettext": "#exploit\n1. CVE-2023-21823:\nWindows Graphics Component RCE\nhttps://t.co/B8YyPWJvMG\n\n2. CVE-2023-6875:\nWordPress POST SMTP Mailer 2.8.7 Authorization Bypass / Cross Site Scripting\nhttps://t.co/dEZ3gHbt2f",
     "tweettime": "2024-01-19, 03:50:56",
     "tweeturl": "https://twitter.com/akaclandestine/status/1748191282155921753",
@@ -573,7 +586,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 119,
+    "tweetretweets": 120,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 15:37:16",
     "tweeturl": "https://twitter.com/0vercl0k/status/1747644263196934634",
