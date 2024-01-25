@@ -2,6 +2,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "RT @mistymntncop: Exploit for CVE-2022-4262. Fukin finally! Shoutout to @_clem1 for finding the ITW exploit. And shoutout to @5aelo, @bjrjk…",
+    "tweettime": "2024-01-24, 17:23:55",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1750207818827722946",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 38,
     "tweettext": "RT @mistymntncop: Exploit for CVE-2022-4262. Fukin finally! Shoutout to @_clem1 for finding the ITW exploit. And shoutout to @5aelo, @bjrjk…",
     "tweettime": "2024-01-24, 14:42:46",
@@ -81,7 +91,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 78,
+    "tweetretweets": 82,
     "tweettext": "RT @Horizon3Attack: CVE-2024-0204, announced today but silently patched in December, details an authentication bypass in #Fortra #GoAnywher…",
     "tweettime": "2024-01-23, 20:48:01",
     "tweeturl": "https://twitter.com/kmkz_security/status/1749896793905619391",
@@ -176,10 +186,10 @@
     "expanded_url": [
         "https://www.horizon3.ai/writeup-for-cve-2023-39143-papercut-webdav-vulnerability/"
     ],
-    "tweetfavorites": 73,
+    "tweetfavorites": 75,
     "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 26,
+    "tweetreplies": 1,
+    "tweetretweets": 28,
     "tweettext": "Writeup for CVE-2023-39143: PaperCut WebDAV Vulnerability\nhttps://t.co/hDrO5nwM7W",
     "tweettime": "2024-01-22, 15:16:52",
     "tweeturl": "https://twitter.com/momika233/status/1749451067417645186",
@@ -225,9 +235,9 @@
     "expanded_url": [
         "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/"
     ],
-    "tweetfavorites": 173,
+    "tweetfavorites": 172,
     "tweetquotes": 2,
-    "tweetreplies": 3,
+    "tweetreplies": 4,
     "tweetretweets": 62,
     "tweettext": "🚀 Just released our in-depth analysis of CVE-2023-22527, a critical RCE vulnerability in Atlassian Confluence Data Center &amp; Server. 🛡️ Don't miss out on our findings and learn how to detect and protect your systems! 🔍 https://t.co/jp6lHRHe5f \n\n#cybersecurity #CVE #RCE…",
     "tweettime": "2024-01-22, 09:37:37",
@@ -409,7 +419,7 @@
     "username": "BleepinComputer"
 }
 {
-    "tweetfavorites": 301,
+    "tweetfavorites": 303,
     "tweetquotes": 1,
     "tweetreplies": 5,
     "tweetretweets": 87,
@@ -563,7 +573,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 82,
+    "tweetretweets": 86,
     "tweettext": "RT @p1k4l4: I'm excited to announce that the technical analysis and the exploit of my CVE-2023-6546 (ZDI-24-020) \nLinux Kernel GSM Multiple…",
     "tweettime": "2024-01-17, 10:43:16",
     "tweeturl": "https://twitter.com/kmkz_security/status/1747570273161777373",
@@ -668,10 +678,10 @@
     "expanded_url": [
         "https://github.com/Nassim-Asrir/ZDI-24-020/"
     ],
-    "tweetfavorites": 235,
+    "tweetfavorites": 282,
     "tweetquotes": 3,
     "tweetreplies": 6,
-    "tweetretweets": 70,
+    "tweetretweets": 85,
     "tweettext": "I'm excited to announce that the technical analysis and the exploit of my CVE-2023-6546 (ZDI-24-020) \nLinux Kernel GSM Multiplexing Race Condition LPE is now available on : https://t.co/bk4yjCMtdl \n\nHappy Reading\n\n#Cybersecurity #Vulnerability #CVE #InfoSec #exploit #Security",
     "tweettime": "2024-01-16, 22:25:01",
     "tweeturl": "https://twitter.com/p1k4l4/status/1747384486524866972",
