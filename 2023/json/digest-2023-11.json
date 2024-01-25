@@ -801,10 +801,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 416,
+    "tweetfavorites": 418,
     "tweetquotes": 8,
     "tweetreplies": 7,
-    "tweetretweets": 89,
+    "tweetretweets": 88,
     "tweettext": "We've recreated a proof-of-concept for the SysAid CVE-2023-47246 remote code execution and compromise -- blog post coming ASAP😜\n\nBig thanks to @gleeda @HuskyHacksMK @DaveKleinatland @calebjstewart and the whole @HuntressLabs crew helping dig into this one! https://t.co/zma48YUrCq",
     "tweettime": "2023-11-09, 17:24:18",
     "tweeturl": "https://twitter.com/_JohnHammond/status/1722666437112922300",
