@@ -2,11 +2,31 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 94,
+    "tweettext": "RT @p1k4l4: I'm excited to announce that the technical analysis and the exploit of my CVE-2023-6546 (ZDI-24-020) \nLinux Kernel GSM Multiple…",
+    "tweettime": "2024-01-24, 23:47:02",
+    "tweeturl": "https://twitter.com/steventseeley/status/1750304231905710319",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 41,
     "tweettext": "RT @mistymntncop: Exploit for CVE-2022-4262. Fukin finally! Shoutout to @_clem1 for finding the ITW exploit. And shoutout to @5aelo, @bjrjk…",
     "tweettime": "2024-01-24, 17:23:55",
     "tweeturl": "https://twitter.com/kmkz_security/status/1750207818827722946",
     "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @HackingLZ: Imagine working an IR where someone exploits Fortas GoAnywhere MFT via CVE-2024-0204 then deploys Fortas CobaltStrike and mo…",
+    "tweettime": "2024-01-24, 17:09:24",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1750204163886104695",
+    "username": "cyb3rops"
 }
 {
     "tweetfavorites": 33,
@@ -32,7 +52,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 96,
+    "tweetretweets": 104,
     "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-3420, an incorrect side effect modelling bug in the JIT compiler that I reported to Chrome, to…",
     "tweettime": "2024-01-24, 09:25:18",
     "tweeturl": "https://twitter.com/steventseeley/status/1750087367371964505",
@@ -104,7 +124,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 69,
+    "tweetretweets": 87,
     "tweettext": "RT @Horizon3Attack: CVE-2024-0204, announced today but silently patched in December, details an authentication bypass in #Fortra #GoAnywher…",
     "tweettime": "2024-01-23, 20:50:52",
     "tweeturl": "https://twitter.com/steventseeley/status/1749897509651320896",
@@ -432,10 +452,10 @@
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
     ],
-    "tweetfavorites": 355,
+    "tweetfavorites": 356,
     "tweetquotes": 13,
     "tweetreplies": 2,
-    "tweetretweets": 151,
+    "tweetretweets": 152,
     "tweettext": "A Chinese hacking group has been exploiting a critical VMware vCenter Server vulnerability (CVE-2023-34048) as a zero-day since at least late 2021 - @serghei\nhttps://t.co/fYPOCW0UPx",
     "tweettime": "2024-01-19, 16:32:56",
     "tweeturl": "https://twitter.com/BleepinComputer/status/1748383046808563916",
