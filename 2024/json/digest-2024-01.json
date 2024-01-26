@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://www.shodan.io/search?query=http.favicon.hash%3A81586312+-%222.442%22+-%222.426.3%22"
+    ],
+    "tweetfavorites": 94,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "🚨 CVE-2024-23897: Unauthenticated Arbitrary File Read vulnerability could lead to RCE on Jenkins servers.\n\n▪ Exploits are already available.\n\nhttps://t.co/xreXZ88kIZ",
+    "tweettime": "2024-01-26, 13:25:00",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1750872468535812354",
+    "username": "1ZRR4H"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -22,10 +35,10 @@
     "expanded_url": [
         "https://www.sonarsource.com/blog/excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins/?utm_medium=social&utm_source=twitter&utm_campaign=research&utm_content=blog-excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins-240125-p1&utm_term=ww_en_all_x"
     ],
-    "tweetfavorites": 51,
+    "tweetfavorites": 62,
     "tweetquotes": 4,
     "tweetreplies": 0,
-    "tweetretweets": 19,
+    "tweetretweets": 21,
     "tweettext": "🔍Uncovering critical vulnerabilities in Jenkins, which could lead to RCE (CVE-2024-23898, CVE-2024-23897):\n\nCheck out our latest blog post for the technical details on how attackers could potentially gain unauthenticated RCE on #Jenkins\n\nhttps://t.co/U7FS1oO5UB\n\n#vulnerability",
     "tweettime": "2024-01-25, 13:55:30",
     "tweeturl": "https://twitter.com/ripstech/status/1750517756100006183",
@@ -216,7 +229,7 @@
     "expanded_url": [
         "https://github.com/RomanRybachek/CVE-2024-20698"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 35,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 14,
@@ -363,7 +376,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 74,
+    "tweetretweets": 76,
     "tweettext": "RT @_0xf4n9x_: #CVE-2023-22527 Confluence SSTI #RCE\nhttps://t.co/H6ynoQI6K5 https://t.co/IKR2FzNcbK",
     "tweettime": "2024-01-22, 13:44:04",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1749427714191466744",
@@ -777,10 +790,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 304,
+    "tweetfavorites": 303,
     "tweetquotes": 23,
     "tweetreplies": 23,
-    "tweetretweets": 156,
+    "tweetretweets": 155,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",
