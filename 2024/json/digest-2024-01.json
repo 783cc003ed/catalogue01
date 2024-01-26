@@ -682,10 +682,10 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 131,
+    "tweetfavorites": 130,
     "tweetquotes": 7,
     "tweetreplies": 3,
-    "tweetretweets": 46,
+    "tweetretweets": 47,
     "tweettext": "We're seeing more than just scanning for the recent pair of Ivanti Connect Secure vulnerabilities (CVE-2023-46805 and CVE-2024-21887) - we're seeing real exploitation attempts - this one installs a Bitcoin miner! Patch your hosts ASAP! https://t.co/wfyQq9MgCO",
     "tweettime": "2024-01-17, 20:06:11",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1747711939466453301",
@@ -813,10 +813,10 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 280,
+    "tweetfavorites": 283,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 120,
+    "tweetretweets": 121,
     "tweettext": "Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 01:35:53",
     "tweeturl": "https://twitter.com/standa_t/status/1747432523444191347",
@@ -1576,7 +1576,7 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 220,
+    "tweetfavorites": 221,
     "tweetquotes": 6,
     "tweetreplies": 1,
     "tweetretweets": 77,
