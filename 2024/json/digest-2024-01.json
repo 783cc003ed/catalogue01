@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/RomanRybachek/CVE-2024-20698"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "CVE-2024-20698:  Windows Kernel Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/CzMtWKoyRu https://t.co/Y9lB57bqOF",
+    "tweettime": "2024-01-25, 13:30:54",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1750511565457986024",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"
     ],
     "tweetfavorites": 223,
@@ -108,10 +121,10 @@
     "expanded_url": [
         "https://github.com/VNCERT-CC/CVE-2023-22527-confluence"
     ],
-    "tweetfavorites": 35,
+    "tweetfavorites": 55,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 6,
+    "tweetretweets": 16,
     "tweettext": "[Confluence] CVE-2023-22527 realworld poc https://t.co/daKqJu1uC9    #pentesting #cybersecurity #Infosec https://t.co/qDrdnQA7fh",
     "tweettime": "2024-01-24, 08:00:08",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1750065937225490924",
