@@ -58,7 +58,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 144,
+    "tweetfavorites": 146,
     "tweetquotes": 3,
     "tweetreplies": 0,
     "tweetretweets": 46,
@@ -102,6 +102,16 @@
     "tweettime": "2024-01-24, 23:47:02",
     "tweeturl": "https://twitter.com/steventseeley/status/1750304231905710319",
     "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @HackingLZ: Imagine working an IR where someone exploits Fortas GoAnywhere MFT via CVE-2024-0204 then deploys Fortas CobaltStrike and mo…",
+    "tweettime": "2024-01-24, 18:33:18",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1750225276196323532",
+    "username": "1ZRR4H"
 }
 {
     "tweetfavorites": 0,
@@ -239,7 +249,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 76,
+    "tweetretweets": 88,
     "tweettext": "RT @Horizon3Attack: CVE-2024-0204, announced today but silently patched in December, details an authentication bypass in #Fortra #GoAnywher…",
     "tweettime": "2024-01-23, 20:47:15",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1749896598757236963",
@@ -376,7 +386,7 @@
     "tweetfavorites": 171,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 62,
+    "tweetretweets": 61,
     "tweettext": "🚀 Just released our in-depth analysis of CVE-2023-22527, a critical RCE vulnerability in Atlassian Confluence Data Center &amp; Server. 🛡️ Don't miss out on our findings and learn how to detect and protect your systems! 🔍 https://t.co/jp6lHRHe5f \n\n#cybersecurity #CVE #RCE…",
     "tweettime": "2024-01-22, 09:37:37",
     "tweeturl": "https://twitter.com/pdiscoveryio/status/1749365694100349165",
