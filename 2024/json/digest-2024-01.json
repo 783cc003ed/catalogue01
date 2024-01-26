@@ -1,4 +1,24 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 150,
+    "tweettext": "RT @TheHackersNews: 🚨 Urgent: Critical Jenkins RCE #vulnerability (CVE-2024-23897) discovered.\n\nHackers can remotely control your CI/CD pip…",
+    "tweettime": "2024-01-26, 02:32:53",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1750708355318866357",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 264,
+    "tweetquotes": 1,
+    "tweetreplies": 9,
+    "tweetretweets": 38,
+    "tweettext": "Jenkins CVE-2024-23897 Arbitrary file read vulnerability through the CLI can lead to RCE \n\nPOC \n\n#BugBounty  #vulnerabilities #rce https://t.co/Lxf8TI5Oug",
+    "tweettime": "2024-01-25, 19:04:57",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1750595628797989287",
+    "username": "h4x0r_dz"
+}
+{
     "expanded_url": [
         "https://github.com/RomanRybachek/CVE-2024-20698"
     ],
@@ -78,10 +98,10 @@
     "username": "cyb3rops"
 }
 {
-    "tweetfavorites": 33,
+    "tweetfavorites": 41,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 15,
+    "tweetretweets": 22,
     "tweettext": "A threat actor claims to be selling CVE-2023-20198 &amp; CVE-2023-20273 RCE exploit\n\nThese vulnerabilities affect the web UI feature of Cisco IOS XE and the exploit can be used without any authentication.\n\nPrice: $5000\n\n#DarkWeb https://t.co/S91tqlHe3k",
     "tweettime": "2024-01-24, 17:00:00",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1750201797405220907",
@@ -363,7 +383,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 226,
+    "tweetfavorites": 225,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 27,
@@ -582,7 +602,7 @@
     "tweetfavorites": 89,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 31,
+    "tweetretweets": 32,
     "tweettext": "#exploit\n1. CVE-2023-26602:\nAsus ASMB8 iKVM RCE and SSH Root Access\nhttps://t.co/718WXDqst7\n\n2. CVE-2024-0193:\nLinux Kernel Root Bypass\nhttps://t.co/QHo8pRwOH0\n\n3. CVE-2024-0252:\nZoho ManageEngine ADSelfService Plus RCE\nhttps://t.co/8MMRz8CMmN",
     "tweettime": "2024-01-19, 03:54:13",
     "tweeturl": "https://twitter.com/akaclandestine/status/1748192108240928903",
@@ -691,7 +711,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 119,
+    "tweetretweets": 120,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 05:05:47",
     "tweeturl": "https://twitter.com/chompie1337/status/1747485342716883125",
@@ -1352,7 +1372,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 164,
+    "tweetretweets": 165,
     "tweettext": "RT @Volexity: .@Volexity detected an incident where it discovered a threat actor chained 2 #0days in Ivanti Connect Secure, CVE-2023-46805/…",
     "tweettime": "2024-01-10, 20:02:42",
     "tweeturl": "https://twitter.com/buffaloverflow/status/1745174347126346166",
