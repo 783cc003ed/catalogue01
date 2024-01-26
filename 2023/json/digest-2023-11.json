@@ -561,10 +561,10 @@
         "https://www.shadowserver.org/what-we-do/network-reporting/vulnerable-exchange-server-report/",
         "https://dashboard.shadowserver.org/statistics/combined/time-series/?date_range=7&source=exchange&source=exchange6&tag=cve-2023-36439%2B&style=stacked"
     ],
-    "tweetfavorites": 166,
+    "tweetfavorites": 165,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 64,
+    "tweetretweets": 63,
     "tweettext": "We are reporting Microsoft Exchange Server CVE-2023-36439 vulnerable IPs (post-auth RCE). Over 63K vulnerable worldwide. Patch released Nov 14th - https://t.co/pBGFiK2uSD \n\nIP data for your constituency in https://t.co/ApcM9HwiOK\n\nDashboard tracker - https://t.co/MIDRauQ7SQ https://t.co/uNB6oNS7s1",
     "tweettime": "2023-11-16, 11:45:29",
     "tweeturl": "https://twitter.com/Shadowserver/status/1725117883246674086",
