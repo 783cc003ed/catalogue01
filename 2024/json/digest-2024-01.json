@@ -12,6 +12,16 @@
     "username": "1ZRR4H"
 }
 {
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 8,
+    "tweettext": "Arbitrary file read vulnerability through the #Jenkins CLI can lead to RCE CVE-2024-23897 https://t.co/CU6zhLwwS4",
+    "tweettime": "2024-01-26, 08:51:11",
+    "tweeturl": "https://twitter.com/momika233/status/1750803560445735317",
+    "username": "momika233"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -272,7 +282,7 @@
     "expanded_url": [
         "https://cfl.re/48KBxWv"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 51,
     "tweetquotes": 0,
     "tweetreplies": 6,
     "tweetretweets": 13,
@@ -504,8 +514,8 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html"
     ],
-    "tweetfavorites": 288,
-    "tweetquotes": 8,
+    "tweetfavorites": 289,
+    "tweetquotes": 9,
     "tweetreplies": 5,
     "tweetretweets": 138,
     "tweettext": "A China-linked cyber espionage group called UNC3886 has been exploiting a zero-day #vulnerability in #VMware vCenter Server (CVE-2023-34048) since late 2021.\n\nLearn more: https://t.co/oKqtCCgPyo\n\n#Cybersecurity #Hacking",
@@ -570,10 +580,10 @@
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
     ],
-    "tweetfavorites": 356,
+    "tweetfavorites": 358,
     "tweetquotes": 13,
     "tweetreplies": 2,
-    "tweetretweets": 152,
+    "tweetretweets": 153,
     "tweettext": "A Chinese hacking group has been exploiting a critical VMware vCenter Server vulnerability (CVE-2023-34048) as a zero-day since at least late 2021 - @serghei\nhttps://t.co/fYPOCW0UPx",
     "tweettime": "2024-01-19, 16:32:56",
     "tweeturl": "https://twitter.com/BleepinComputer/status/1748383046808563916",
@@ -1772,7 +1782,7 @@
     "expanded_url": [
         "https://github.com/TecR0c/DoubleTrouble"
     ],
-    "tweetfavorites": 137,
+    "tweetfavorites": 138,
     "tweetquotes": 2,
     "tweetreplies": 3,
     "tweetretweets": 39,
