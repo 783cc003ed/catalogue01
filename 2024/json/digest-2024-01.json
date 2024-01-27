@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://github.com/duck-sec/CVE-2023-28252-Compiled-exe"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 70,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 25,
     "tweettext": "A modification of Fortra's excellent CVE-2023-2852 Privesc Exploit. Works on Windows 11 21H2 clfs.sys version 10.0.22000.1574 - also works on Windows 10 21H2, Windows 10 22H2, Windows 11 22H2 and Windows server 2022. https://t.co/Vk4FYFnLiS",
     "tweettime": "2024-01-26, 19:52:52",
     "tweeturl": "https://twitter.com/Dinosn/status/1750970075840938083",
@@ -28,14 +28,27 @@
     "expanded_url": [
         "https://www.shodan.io/search?query=http.favicon.hash%3A81586312+-%222.442%22+-%222.426.3%22"
     ],
-    "tweetfavorites": 94,
-    "tweetquotes": 1,
+    "tweetfavorites": 163,
+    "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 41,
+    "tweetretweets": 62,
     "tweettext": "🚨 CVE-2024-23897: Unauthenticated Arbitrary File Read vulnerability could lead to RCE on Jenkins servers.\n\n▪ Exploits are already available.\n\nhttps://t.co/xreXZ88kIZ",
     "tweettime": "2024-01-26, 13:25:00",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1750872468535812354",
     "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "http://Hunter.how"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "🚨Alert🚨CVE-2024-20253 (CVSS 9.9): Cisco Unified Communications Products RCE Vulnerability\n\n📊2k+ Services are found on the https://t.co/WrjZaG0jRH\n\n⚠This flaw opens the door for unauthenticated, remote attackers to craft and dispatch malicious messages to a listening port on… https://t.co/MmXHyNNlie",
+    "tweettime": "2024-01-26, 09:36:22",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1750814929891008527",
+    "username": "HunterMapping"
 }
 {
     "expanded_url": [
@@ -97,7 +110,7 @@
     "expanded_url": [
         "https://www.sonarsource.com/blog/excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins/?utm_medium=social&utm_source=twitter&utm_campaign=research&utm_content=blog-excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins-240125-p1&utm_term=ww_en_all_x"
     ],
-    "tweetfavorites": 62,
+    "tweetfavorites": 63,
     "tweetquotes": 4,
     "tweetreplies": 0,
     "tweetretweets": 21,
