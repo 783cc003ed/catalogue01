@@ -13,6 +13,19 @@
 }
 {
     "expanded_url": [
+        "https://www.sonarsource.com/blog/excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins/"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "Unauthenticated data leak (CVE-2024-23897), and CSWSH vulnerability in Jenkins that can allow an attacker to execute arbitrary CLI commands with user interaction (CVE-2024-23898)\n\nhttps://t.co/GRRSPkj7iZ\n\nBy @SonarSource \n\n#infosec #cybersecurity #bugbounty https://t.co/GFQKrmlroL",
+    "tweettime": "2024-01-26, 14:30:00",
+    "tweeturl": "https://twitter.com/payloadartist/status/1750888823943512141",
+    "username": "payloadartist"
+}
+{
+    "expanded_url": [
         "https://www.shodan.io/search?query=http.favicon.hash%3A81586312+-%222.442%22+-%222.426.3%22"
     ],
     "tweetfavorites": 94,
@@ -23,6 +36,19 @@
     "tweettime": "2024-01-26, 13:25:00",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1750872468535812354",
     "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://github.com/binganao/CVE-2024-23897"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 39,
+    "tweettext": "🚨CVE-2024-23879🚨 Jenkins RCE\nPOC Released\nCredit to binganao\n🔗https://t.co/glxDUSvjhE\n#vulnerability #infosecurity",
+    "tweettime": "2024-01-26, 08:58:50",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1750805486059073834",
+    "username": "HunterMapping"
 }
 {
     "tweetfavorites": 42,
@@ -58,10 +84,10 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 318,
+    "tweetfavorites": 475,
     "tweetquotes": 1,
-    "tweetreplies": 8,
-    "tweetretweets": 43,
+    "tweetreplies": 10,
+    "tweetretweets": 70,
     "tweettext": "Jenkins CVE-2024-23897 Arbitrary file read vulnerability through the CLI can lead to RCE \n\nPOC \n\n#BugBounty  #vulnerabilities #rce https://t.co/Lxf8TI5Oug",
     "tweettime": "2024-01-25, 19:04:57",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1750595628797989287",
@@ -84,10 +110,10 @@
     "expanded_url": [
         "https://github.com/RomanRybachek/CVE-2024-20698"
     ],
-    "tweetfavorites": 153,
+    "tweetfavorites": 157,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 46,
+    "tweetretweets": 50,
     "tweettext": "CVE-2024-20698:  Windows Kernel Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/CzMtWKoyRu https://t.co/Y9lB57bqOF",
     "tweettime": "2024-01-25, 13:30:54",
     "tweeturl": "https://twitter.com/cyber_advising/status/1750511565457986024",
@@ -183,7 +209,7 @@
     "username": "cyb3rops"
 }
 {
-    "tweetfavorites": 41,
+    "tweetfavorites": 42,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 22,
