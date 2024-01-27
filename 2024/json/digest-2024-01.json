@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://www.shodan.io/search?query=http.favicon.hash%3A81586312+-%222.442%22+-%222.426.3%22"
     ],
-    "tweetfavorites": 163,
-    "tweetquotes": 2,
+    "tweetfavorites": 166,
+    "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 62,
+    "tweetretweets": 64,
     "tweettext": "🚨 CVE-2024-23897: Unauthenticated Arbitrary File Read vulnerability could lead to RCE on Jenkins servers.\n\n▪ Exploits are already available.\n\nhttps://t.co/xreXZ88kIZ",
     "tweettime": "2024-01-26, 13:25:00",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1750872468535812354",
@@ -54,7 +54,7 @@
     "expanded_url": [
         "https://github.com/binganao/CVE-2024-23897"
     ],
-    "tweetfavorites": 133,
+    "tweetfavorites": 137,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 39,
@@ -64,10 +64,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 42,
-    "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 8,
+    "tweetfavorites": 71,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 15,
     "tweettext": "Arbitrary file read vulnerability through the #Jenkins CLI can lead to RCE CVE-2024-23897 https://t.co/CU6zhLwwS4",
     "tweettime": "2024-01-26, 08:51:11",
     "tweeturl": "https://twitter.com/momika233/status/1750803560445735317",
@@ -97,10 +97,10 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 475,
+    "tweetfavorites": 488,
     "tweetquotes": 1,
     "tweetreplies": 10,
-    "tweetretweets": 70,
+    "tweetretweets": 72,
     "tweettext": "Jenkins CVE-2024-23897 Arbitrary file read vulnerability through the CLI can lead to RCE \n\nPOC \n\n#BugBounty  #vulnerabilities #rce https://t.co/Lxf8TI5Oug",
     "tweettime": "2024-01-25, 19:04:57",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1750595628797989287",
@@ -136,20 +136,20 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"
     ],
-    "tweetfavorites": 341,
+    "tweetfavorites": 343,
     "tweetquotes": 12,
     "tweetreplies": 3,
-    "tweetretweets": 177,
+    "tweetretweets": 179,
     "tweettext": "🚨 Urgent: Critical Jenkins RCE #vulnerability (CVE-2024-23897) discovered.\n\nHackers can remotely control your CI/CD pipelines. Patch immediately to prevent malicious code in builds.\n\nDetails here: https://t.co/AdrFH8Yl5P\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-25, 11:58:01",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1750488188349510118",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 146,
+    "tweetfavorites": 168,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 46,
+    "tweetretweets": 50,
     "tweettext": "🚨Alert🚨CVE-2024-23897 (CVSS 9.8): Critical Jenkins Security Vulnerability, RCE Possible\n⚠A critical vulnerability within Jenkins’ built-in command line interface (CLI),  opens the door to arbitrary file reads through the CLI, potentially culminating in remote code execution… https://t.co/smsW1QSyiH",
     "tweettime": "2024-01-25, 08:41:34",
     "tweeturl": "https://twitter.com/HunterMapping/status/1750438751380341091",
@@ -159,10 +159,10 @@
     "expanded_url": [
         "https://securityonline.info/cve-2024-23897-cvss-9-8-critical-jenkins-security-vulnerability-rce-possible/"
     ],
-    "tweetfavorites": 475,
+    "tweetfavorites": 507,
     "tweetquotes": 6,
     "tweetreplies": 4,
-    "tweetretweets": 163,
+    "tweetretweets": 175,
     "tweettext": "CVE-2024-23897 (CVSS 9.8): Critical Jenkins Security Vulnerability, RCE Possible https://t.co/zmnyPcKAQw",
     "tweettime": "2024-01-25, 04:44:32",
     "tweeturl": "https://twitter.com/Dinosn/status/1750379099468480970",
