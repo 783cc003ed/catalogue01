@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://github.com/duck-sec/CVE-2023-28252-Compiled-exe"
     ],
-    "tweetfavorites": 70,
+    "tweetfavorites": 93,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 25,
+    "tweetretweets": 32,
     "tweettext": "A modification of Fortra's excellent CVE-2023-2852 Privesc Exploit. Works on Windows 11 21H2 clfs.sys version 10.0.22000.1574 - also works on Windows 10 21H2, Windows 10 22H2, Windows 11 22H2 and Windows server 2022. https://t.co/Vk4FYFnLiS",
     "tweettime": "2024-01-26, 19:52:52",
     "tweeturl": "https://twitter.com/Dinosn/status/1750970075840938083",
@@ -911,7 +911,7 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 283,
+    "tweetfavorites": 284,
     "tweetquotes": 3,
     "tweetreplies": 4,
     "tweetretweets": 121,
