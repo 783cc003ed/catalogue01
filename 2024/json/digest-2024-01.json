@@ -64,10 +64,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html"
     ],
-    "tweetfavorites": 67,
+    "tweetfavorites": 71,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 53,
+    "tweetretweets": 58,
     "tweettext": "🚨 Cisco's Unified &amp; Contact Center solutions have a CRITICAL flaw (CVE-2024-20253) allowing remote attackers to take control.\n\nPatch NOW! Don't let attackers eavesdrop on your business secrets.\n\nGet the details: https://t.co/j6aIpX5yuV\n\n#cybersecurity #hacking",
     "tweettime": "2024-01-26, 05:14:02",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1750748911554183294",
@@ -123,10 +123,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"
     ],
-    "tweetfavorites": 337,
+    "tweetfavorites": 341,
     "tweetquotes": 12,
     "tweetreplies": 3,
-    "tweetretweets": 174,
+    "tweetretweets": 177,
     "tweettext": "🚨 Urgent: Critical Jenkins RCE #vulnerability (CVE-2024-23897) discovered.\n\nHackers can remotely control your CI/CD pipelines. Patch immediately to prevent malicious code in builds.\n\nDetails here: https://t.co/AdrFH8Yl5P\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-25, 11:58:01",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1750488188349510118",
@@ -202,7 +202,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 34,
+    "tweetretweets": 35,
     "tweettext": "RT @HackingLZ: Imagine working an IR where someone exploits Fortas GoAnywhere MFT via CVE-2024-0204 then deploys Fortas CobaltStrike and mo…",
     "tweettime": "2024-01-24, 17:09:24",
     "tweeturl": "https://twitter.com/cyb3rops/status/1750204163886104695",
@@ -278,7 +278,7 @@
     "expanded_url": [
         "https://github.com/WebKit/WebKit/commit/61d47f64edd9a39dc2c14fcb6f6dd944a359eb79"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 49,
     "tweetquotes": 1,
     "tweetreplies": 6,
     "tweetretweets": 20,
@@ -642,7 +642,7 @@
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/"
     ],
-    "tweetfavorites": 358,
+    "tweetfavorites": 359,
     "tweetquotes": 13,
     "tweetreplies": 2,
     "tweetretweets": 153,
@@ -652,7 +652,7 @@
     "username": "BleepinComputer"
 }
 {
-    "tweetfavorites": 302,
+    "tweetfavorites": 301,
     "tweetquotes": 1,
     "tweetreplies": 5,
     "tweetretweets": 87,
@@ -770,7 +770,7 @@
     "tweetfavorites": 130,
     "tweetquotes": 7,
     "tweetreplies": 3,
-    "tweetretweets": 47,
+    "tweetretweets": 49,
     "tweettext": "We're seeing more than just scanning for the recent pair of Ivanti Connect Secure vulnerabilities (CVE-2023-46805 and CVE-2024-21887) - we're seeing real exploitation attempts - this one installs a Bitcoin miner! Patch your hosts ASAP! https://t.co/wfyQq9MgCO",
     "tweettime": "2024-01-17, 20:06:11",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1747711939466453301",
@@ -832,7 +832,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 120,
+    "tweetretweets": 121,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 05:05:47",
     "tweeturl": "https://twitter.com/chompie1337/status/1747485342716883125",
@@ -862,7 +862,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 304,
+    "tweetfavorites": 303,
     "tweetquotes": 23,
     "tweetreplies": 23,
     "tweetretweets": 154,
