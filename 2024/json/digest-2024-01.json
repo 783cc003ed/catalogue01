@@ -166,7 +166,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 60,
+    "tweetretweets": 61,
     "tweettext": "RT @mistymntncop: Exploit for CVE-2022-4262. Fukin finally! Shoutout to @_clem1 for finding the ITW exploit. And shoutout to @5aelo, @bjrjk…",
     "tweettime": "2024-01-24, 17:23:55",
     "tweeturl": "https://twitter.com/kmkz_security/status/1750207818827722946",
@@ -836,10 +836,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 303,
+    "tweetfavorites": 304,
     "tweetquotes": 23,
     "tweetreplies": 23,
-    "tweetretweets": 155,
+    "tweetretweets": 154,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",
