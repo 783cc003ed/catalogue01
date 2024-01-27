@@ -58,10 +58,10 @@
     "expanded_url": [
         "https://github.com/RomanRybachek/CVE-2024-20698"
     ],
-    "tweetfavorites": 54,
+    "tweetfavorites": 153,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 16,
+    "tweetretweets": 46,
     "tweettext": "CVE-2024-20698:  Windows Kernel Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/CzMtWKoyRu https://t.co/Y9lB57bqOF",
     "tweettime": "2024-01-25, 13:30:54",
     "tweeturl": "https://twitter.com/cyber_advising/status/1750511565457986024",
@@ -140,7 +140,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 41,
+    "tweetretweets": 60,
     "tweettext": "RT @mistymntncop: Exploit for CVE-2022-4262. Fukin finally! Shoutout to @_clem1 for finding the ITW exploit. And shoutout to @5aelo, @bjrjk…",
     "tweettime": "2024-01-24, 17:23:55",
     "tweeturl": "https://twitter.com/kmkz_security/status/1750207818827722946",
@@ -252,6 +252,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @HackingLZ: Imagine working an IR where someone exploits Fortas GoAnywhere MFT via CVE-2024-0204 then deploys Fortas CobaltStrike and mo…",
+    "tweettime": "2024-01-23, 22:04:34",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1749916058926866642",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 88,
     "tweettext": "RT @Horizon3Attack: CVE-2024-0204, announced today but silently patched in December, details an authentication bypass in #Fortra #GoAnywher…",
     "tweettime": "2024-01-23, 20:50:52",
@@ -262,7 +272,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 82,
+    "tweetretweets": 88,
     "tweettext": "RT @Horizon3Attack: CVE-2024-0204, announced today but silently patched in December, details an authentication bypass in #Fortra #GoAnywher…",
     "tweettime": "2024-01-23, 20:48:01",
     "tweeturl": "https://twitter.com/kmkz_security/status/1749896793905619391",
@@ -308,7 +318,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 118,
+    "tweetretweets": 120,
     "tweettext": "RT @TheDFIRReport: 🚨Active Exploitation🚨\n\n➡️CVE-2023-22527 - Confluence template injection\n➡️Executed whoami\n➡️Source IP: 45.61.137[.]90\n➡️…",
     "tweettime": "2024-01-22, 21:05:00",
     "tweeturl": "https://twitter.com/kmkz_security/status/1749538677296976141",
@@ -501,7 +511,7 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/"
     ],
-    "tweetfavorites": 311,
+    "tweetfavorites": 313,
     "tweetquotes": 2,
     "tweetreplies": 5,
     "tweetretweets": 98,
@@ -590,7 +600,7 @@
     "username": "BleepinComputer"
 }
 {
-    "tweetfavorites": 303,
+    "tweetfavorites": 302,
     "tweetquotes": 1,
     "tweetreplies": 5,
     "tweetretweets": 87,
@@ -606,7 +616,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 120,
+    "tweetretweets": 121,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-19, 08:26:08",
     "tweeturl": "https://twitter.com/kmkz_security/status/1748260540760162622",
@@ -734,7 +744,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 120,
+    "tweetretweets": 121,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 15:37:16",
     "tweeturl": "https://twitter.com/0vercl0k/status/1747644263196934634",
