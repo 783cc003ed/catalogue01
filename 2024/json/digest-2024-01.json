@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://www.sonarsource.com/blog/excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins/"
     ],
-    "tweetfavorites": 41,
+    "tweetfavorites": 47,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 7,
+    "tweetretweets": 9,
     "tweettext": "Unauthenticated data leak (CVE-2024-23897), and CSWSH vulnerability in Jenkins that can allow an attacker to execute arbitrary CLI commands with user interaction (CVE-2024-23898)\n\nhttps://t.co/GRRSPkj7iZ\n\nBy @SonarSource \n\n#infosec #cybersecurity #bugbounty https://t.co/GFQKrmlroL",
     "tweettime": "2024-01-26, 14:30:00",
     "tweeturl": "https://twitter.com/payloadartist/status/1750888823943512141",
@@ -77,7 +77,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 72,
+    "tweetfavorites": 73,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 16,
@@ -90,7 +90,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html"
     ],
-    "tweetfavorites": 71,
+    "tweetfavorites": 76,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 58,
@@ -149,7 +149,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"
     ],
-    "tweetfavorites": 343,
+    "tweetfavorites": 344,
     "tweetquotes": 12,
     "tweetreplies": 3,
     "tweetretweets": 179,
