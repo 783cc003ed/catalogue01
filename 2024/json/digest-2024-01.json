@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://blog.slonser.info/posts/cve-2023-5480/"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "CVE-2023-5480: Chrome new XSS Vector (Bounty: $16k)\n\nhttps://t.co/51iK2OXQWJ\n\nby @slonser_\n\n#bugbountytips #cybersecurity #infosec https://t.co/DogI2nbFC8",
+    "tweettime": "2024-01-27, 14:30:00",
+    "tweeturl": "https://twitter.com/payloadartist/status/1751251212307960146",
+    "username": "payloadartist"
+}
+{
+    "expanded_url": [
         "https://github.com/h4x0r-dz/CVE-2024-23897"
     ],
     "tweetfavorites": 45,
@@ -370,7 +383,7 @@
     "expanded_url": [
         "https://cfl.re/48KBxWv"
     ],
-    "tweetfavorites": 51,
+    "tweetfavorites": 52,
     "tweetquotes": 0,
     "tweetreplies": 6,
     "tweetretweets": 13,
@@ -602,10 +615,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html"
     ],
-    "tweetfavorites": 289,
+    "tweetfavorites": 288,
     "tweetquotes": 9,
     "tweetreplies": 5,
-    "tweetretweets": 138,
+    "tweetretweets": 139,
     "tweettext": "A China-linked cyber espionage group called UNC3886 has been exploiting a zero-day #vulnerability in #VMware vCenter Server (CVE-2023-34048) since late 2021.\n\nLearn more: https://t.co/oKqtCCgPyo\n\n#Cybersecurity #Hacking",
     "tweettime": "2024-01-20, 10:27:07",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1748653375300972629",
