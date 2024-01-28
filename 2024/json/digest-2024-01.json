@@ -54,10 +54,10 @@
     "expanded_url": [
         "https://www.shodan.io/search?query=http.favicon.hash%3A81586312+-%222.442%22+-%222.426.3%22"
     ],
-    "tweetfavorites": 166,
+    "tweetfavorites": 184,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 64,
+    "tweetretweets": 69,
     "tweettext": "🚨 CVE-2024-23897: Unauthenticated Arbitrary File Read vulnerability could lead to RCE on Jenkins servers.\n\n▪ Exploits are already available.\n\nhttps://t.co/xreXZ88kIZ",
     "tweettime": "2024-01-26, 13:25:00",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1750872468535812354",
@@ -67,10 +67,10 @@
     "expanded_url": [
         "http://Hunter.how"
     ],
-    "tweetfavorites": 33,
+    "tweetfavorites": 34,
     "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
     "tweettext": "🚨Alert🚨CVE-2024-20253 (CVSS 9.9): Cisco Unified Communications Products RCE Vulnerability\n\n📊2k+ Services are found on the https://t.co/WrjZaG0jRH\n\n⚠This flaw opens the door for unauthenticated, remote attackers to craft and dispatch malicious messages to a listening port on… https://t.co/MmXHyNNlie",
     "tweettime": "2024-01-26, 09:36:22",
     "tweeturl": "https://twitter.com/HunterMapping/status/1750814929891008527",
@@ -106,7 +106,7 @@
     "tweetfavorites": 76,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 58,
+    "tweetretweets": 59,
     "tweettext": "🚨 Cisco's Unified &amp; Contact Center solutions have a CRITICAL flaw (CVE-2024-20253) allowing remote attackers to take control.\n\nPatch NOW! Don't let attackers eavesdrop on your business secrets.\n\nGet the details: https://t.co/j6aIpX5yuV\n\n#cybersecurity #hacking",
     "tweettime": "2024-01-26, 05:14:02",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1750748911554183294",
@@ -162,8 +162,8 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"
     ],
-    "tweetfavorites": 344,
-    "tweetquotes": 12,
+    "tweetfavorites": 345,
+    "tweetquotes": 13,
     "tweetreplies": 3,
     "tweetretweets": 179,
     "tweettext": "🚨 Urgent: Critical Jenkins RCE #vulnerability (CVE-2024-23897) discovered.\n\nHackers can remotely control your CI/CD pipelines. Patch immediately to prevent malicious code in builds.\n\nDetails here: https://t.co/AdrFH8Yl5P\n\n#cybersecurity #informationsecurity",
@@ -835,7 +835,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 121,
+    "tweetretweets": 122,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 15:37:16",
     "tweeturl": "https://twitter.com/0vercl0k/status/1747644263196934634",
@@ -901,10 +901,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 303,
+    "tweetfavorites": 305,
     "tweetquotes": 23,
     "tweetreplies": 23,
-    "tweetretweets": 154,
+    "tweetretweets": 155,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",
