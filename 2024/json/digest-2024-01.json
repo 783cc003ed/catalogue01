@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://github.com/h4x0r-dz/CVE-2024-23897"
     ],
-    "tweetfavorites": 45,
+    "tweetfavorites": 46,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 18,
+    "tweetretweets": 19,
     "tweettext": "CVE-2024-23897: Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an '@' character ... allowing unauthenticated attackers to read arbitrary files\n\nPoC\nhttps://t.co/pAk3Cw7xQx https://t.co/EVAOj8omt2",
     "tweettime": "2024-01-26, 23:41:48",
     "tweeturl": "https://twitter.com/cyber_advising/status/1751027690595872986",
@@ -93,7 +93,7 @@
     "tweetfavorites": 73,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 16,
+    "tweetretweets": 17,
     "tweettext": "Arbitrary file read vulnerability through the #Jenkins CLI can lead to RCE CVE-2024-23897 https://t.co/CU6zhLwwS4",
     "tweettime": "2024-01-26, 08:51:11",
     "tweeturl": "https://twitter.com/momika233/status/1750803560445735317",
@@ -149,10 +149,10 @@
     "expanded_url": [
         "https://github.com/RomanRybachek/CVE-2024-20698"
     ],
-    "tweetfavorites": 162,
+    "tweetfavorites": 163,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 53,
+    "tweetretweets": 54,
     "tweettext": "CVE-2024-20698:  Windows Kernel Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/CzMtWKoyRu https://t.co/Y9lB57bqOF",
     "tweettime": "2024-01-25, 13:30:54",
     "tweeturl": "https://twitter.com/cyber_advising/status/1750511565457986024",
@@ -602,7 +602,7 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/"
     ],
-    "tweetfavorites": 314,
+    "tweetfavorites": 315,
     "tweetquotes": 2,
     "tweetreplies": 5,
     "tweetretweets": 99,
