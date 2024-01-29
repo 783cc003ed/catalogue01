@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/exploits-released-for-critical-jenkins-rce-flaw-patch-now/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "Jenkinsの重大な脆弱性CVE-2024-23897に対応する攻撃コードのPoC（概念実証コード）複数が公開された。既にハニーポットには攻撃が来ているとの報告も。 https://t.co/gGqWa78UyH",
+    "tweettime": "2024-01-28, 22:03:16",
+    "tweeturl": "https://twitter.com/__kokumoto/status/1751727668859752603",
+    "username": "__kokumoto"
+}
+{
+    "expanded_url": [
         "https://blog.slonser.info/posts/cve-2023-5480/"
     ],
     "tweetfavorites": 109,
@@ -103,7 +116,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html"
     ],
-    "tweetfavorites": 76,
+    "tweetfavorites": 75,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 59,
@@ -123,7 +136,7 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 505,
+    "tweetfavorites": 506,
     "tweetquotes": 1,
     "tweetreplies": 12,
     "tweetretweets": 77,
@@ -162,8 +175,8 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"
     ],
-    "tweetfavorites": 346,
-    "tweetquotes": 13,
+    "tweetfavorites": 347,
+    "tweetquotes": 14,
     "tweetreplies": 3,
     "tweetretweets": 180,
     "tweettext": "🚨 Urgent: Critical Jenkins RCE #vulnerability (CVE-2024-23897) discovered.\n\nHackers can remotely control your CI/CD pipelines. Patch immediately to prevent malicious code in builds.\n\nDetails here: https://t.co/AdrFH8Yl5P\n\n#cybersecurity #informationsecurity",
