@@ -231,7 +231,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 61,
+    "tweetretweets": 62,
     "tweettext": "RT @mistymntncop: Exploit for CVE-2022-4262. Fukin finally! Shoutout to @_clem1 for finding the ITW exploit. And shoutout to @5aelo, @bjrjk…",
     "tweettime": "2024-01-24, 17:23:55",
     "tweeturl": "https://twitter.com/kmkz_security/status/1750207818827722946",
@@ -807,9 +807,9 @@
 }
 {
     "tweetfavorites": 130,
-    "tweetquotes": 7,
+    "tweetquotes": 6,
     "tweetreplies": 3,
-    "tweetretweets": 49,
+    "tweetretweets": 48,
     "tweettext": "We're seeing more than just scanning for the recent pair of Ivanti Connect Secure vulnerabilities (CVE-2023-46805 and CVE-2024-21887) - we're seeing real exploitation attempts - this one installs a Bitcoin miner! Patch your hosts ASAP! https://t.co/wfyQq9MgCO",
     "tweettime": "2024-01-17, 20:06:11",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1747711939466453301",
