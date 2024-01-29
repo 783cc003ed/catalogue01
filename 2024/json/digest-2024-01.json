@@ -80,10 +80,10 @@
     "expanded_url": [
         "https://github.com/binganao/CVE-2024-23897"
     ],
-    "tweetfavorites": 137,
+    "tweetfavorites": 146,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 39,
+    "tweetreplies": 2,
+    "tweetretweets": 42,
     "tweettext": "🚨CVE-2024-23879🚨 Jenkins RCE\nPOC Released\nCredit to binganao\n🔗https://t.co/glxDUSvjhE\n#vulnerability #infosecurity",
     "tweettime": "2024-01-26, 08:58:50",
     "tweeturl": "https://twitter.com/HunterMapping/status/1750805486059073834",
@@ -123,10 +123,10 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 488,
+    "tweetfavorites": 505,
     "tweetquotes": 1,
-    "tweetreplies": 10,
-    "tweetretweets": 72,
+    "tweetreplies": 12,
+    "tweetretweets": 77,
     "tweettext": "Jenkins CVE-2024-23897 Arbitrary file read vulnerability through the CLI can lead to RCE \n\nPOC \n\n#BugBounty  #vulnerabilities #rce https://t.co/Lxf8TI5Oug",
     "tweettime": "2024-01-25, 19:04:57",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1750595628797989287",
@@ -162,20 +162,20 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"
     ],
-    "tweetfavorites": 345,
+    "tweetfavorites": 346,
     "tweetquotes": 13,
     "tweetreplies": 3,
-    "tweetretweets": 179,
+    "tweetretweets": 180,
     "tweettext": "🚨 Urgent: Critical Jenkins RCE #vulnerability (CVE-2024-23897) discovered.\n\nHackers can remotely control your CI/CD pipelines. Patch immediately to prevent malicious code in builds.\n\nDetails here: https://t.co/AdrFH8Yl5P\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-25, 11:58:01",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1750488188349510118",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 169,
+    "tweetfavorites": 171,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 52,
+    "tweetretweets": 53,
     "tweettext": "🚨Alert🚨CVE-2024-23897 (CVSS 9.8): Critical Jenkins Security Vulnerability, RCE Possible\n⚠A critical vulnerability within Jenkins’ built-in command line interface (CLI),  opens the door to arbitrary file reads through the CLI, potentially culminating in remote code execution… https://t.co/smsW1QSyiH",
     "tweettime": "2024-01-25, 08:41:34",
     "tweeturl": "https://twitter.com/HunterMapping/status/1750438751380341091",
@@ -185,7 +185,7 @@
     "expanded_url": [
         "https://securityonline.info/cve-2024-23897-cvss-9-8-critical-jenkins-security-vulnerability-rce-possible/"
     ],
-    "tweetfavorites": 507,
+    "tweetfavorites": 509,
     "tweetquotes": 6,
     "tweetreplies": 4,
     "tweetretweets": 175,
