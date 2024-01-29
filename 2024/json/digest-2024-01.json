@@ -13,6 +13,21 @@
 }
 {
     "expanded_url": [
+        "https://www.jenkins.io/security/advisory/2024-01-24/#SECURITY-3314",
+        "https://www.sonarsource.com/blog/excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins/",
+        "https://cloud.projectdiscovery.io/@sandeep/nqTESMRNHscR4wv9LABGua"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "Scan for Jenkins &lt; 2.441 - Arbitrary File Read (CVE-2024-23897) using nuclei templates.\n\nVulnerability Advisory -https://t.co/7ERMZdsyAo\n\nVulnerability Analysis - https://t.co/hUopMxRzE1 by @Sonar_Research\n\nNuclei Template - https://t.co/vfC0ZkJJeo\n\n#hackwithautomation #bugbounty…",
+    "tweettime": "2024-01-28, 21:07:40",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1751713675831083085",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
         "https://starlabs.sg/blog/2023/09-nftables-adventures-bug-hunting-and-n-day-exploitation/"
     ],
     "tweetfavorites": 48,
