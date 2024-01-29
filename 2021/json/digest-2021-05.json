@@ -491,7 +491,7 @@
     "tweetfavorites": 80,
     "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 33,
+    "tweetretweets": 32,
     "tweettext": "I share the samples and the yara rule of vulnerability CVE-2021-1647 (RCE Windows Defender)\nYara : \nhttps://t.co/22psynjLvW\nSamples :\nhttps://t.co/UxY2YWTGUA\nNote : interesting Indonesian domain that continue to drop the tool for the RCE https://t.co/D3s2H17Swe",
     "tweettime": "2021-05-05, 02:30:16",
     "tweeturl": "https://twitter.com/Arkbird_SOLG/status/1389769385527611400",
