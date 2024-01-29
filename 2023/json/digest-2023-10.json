@@ -114,7 +114,7 @@
     "tweetfavorites": 183,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 77,
+    "tweetretweets": 78,
     "tweettext": "CVE-2023-46747: Compromising F5 BIG-IP With Request Smuggling. bypass configuration utility authentication, allowing an attacker with network access to the BIG-IP .... to execute arbitrary system commands. \n\nPoC\nhttps://t.co/hJ50WrUqv8 https://t.co/lKyjxF5OOD",
     "tweettime": "2023-10-27, 10:51:38",
     "tweeturl": "https://twitter.com/cyber_advising/status/1717856574293606621",
