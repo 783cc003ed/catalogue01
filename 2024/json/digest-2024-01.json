@@ -67,7 +67,7 @@
     "expanded_url": [
         "https://www.sonarsource.com/blog/excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins/"
     ],
-    "tweetfavorites": 47,
+    "tweetfavorites": 48,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 9,
@@ -628,7 +628,7 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/"
     ],
-    "tweetfavorites": 315,
+    "tweetfavorites": 314,
     "tweetquotes": 2,
     "tweetreplies": 5,
     "tweetretweets": 99,
@@ -720,7 +720,7 @@
     "tweetfavorites": 302,
     "tweetquotes": 1,
     "tweetreplies": 5,
-    "tweetretweets": 87,
+    "tweetretweets": 88,
     "tweettext": "💥 We have reproduced CVE-2023-22527 in Atlassian Confluence.\n\nA template injection vulnerability allows an unauthenticated attacker to achieve RCE on an affected instance.\n\nUpdate your software ASAP! https://t.co/O0VsYui97B",
     "tweettime": "2024-01-19, 13:07:39",
     "tweeturl": "https://twitter.com/ptswarm/status/1748331385968795882",
@@ -1312,7 +1312,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 40,
+    "tweetretweets": 41,
     "tweettext": "RT @Gi7w0rm: One has to admire @circl_lu for truthfully sharing their opinion regarding #Ivanti 's handling of the 2 #0day s\n#CVE-2023-4680…",
     "tweettime": "2024-01-13, 07:21:29",
     "tweeturl": "https://twitter.com/x0rz/status/1746069943781646826",
