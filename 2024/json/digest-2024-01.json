@@ -12,6 +12,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "RT @stephenfewer: We now have an RCE exploit module in the @metasploit pull queue for CVE-2024-0204 in Fortra GoAnywhere MFT: https://t.co/…",
+    "tweettime": "2024-01-29, 20:10:11",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1752061596770390312",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 35,
     "tweettext": "RT @stephenfewer: We now have an RCE exploit module in the @metasploit pull queue for CVE-2024-0204 in Fortra GoAnywhere MFT: https://t.co/…",
     "tweettime": "2024-01-29, 19:15:04",
