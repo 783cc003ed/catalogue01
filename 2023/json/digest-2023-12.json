@@ -247,7 +247,7 @@
     "tweetfavorites": 335,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 134,
+    "tweetretweets": 133,
     "tweettext": "CVE-2023-51385: OpenSSH before 9.6, OS command injection might occur if a user name or host name has shell metacharacters, ...\nhttps://t.co/yeBGsdMD0X https://t.co/SCrciIStz5",
     "tweettime": "2023-12-24, 01:23:51",
     "tweeturl": "https://twitter.com/cyber_advising/status/1738732185371259158",
