@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 50,
+    "tweettext": "RT @TheHackersNews: 🚨 Patch now! High-severity Junos OS vulnerabilities exposed (CVE-2024-21619, CVE-2024-21620). These flaws could let att…",
+    "tweettime": "2024-01-30, 17:27:07",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1752382950971478423",
+    "username": "hackerfantastic"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html"
     ],
@@ -28,7 +38,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 40,
+    "tweetretweets": 46,
     "tweettext": "RT @pdnuclei: Scan for Jenkins &lt; 2.441 - Arbitrary File Read (CVE-2024-23897) using nuclei templates.\n\nVulnerability Advisory -https://t.co…",
     "tweettime": "2024-01-29, 21:27:05",
     "tweeturl": "https://twitter.com/kmkz_security/status/1752080951000093136",
@@ -38,7 +48,17 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 36,
+    "tweetretweets": 44,
+    "tweettext": "RT @stephenfewer: We now have an RCE exploit module in the @metasploit pull queue for CVE-2024-0204 in Fortra GoAnywhere MFT: https://t.co/…",
+    "tweettime": "2024-01-29, 21:13:10",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1752077447460196611",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
     "tweettext": "RT @stephenfewer: We now have an RCE exploit module in the @metasploit pull queue for CVE-2024-0204 in Fortra GoAnywhere MFT: https://t.co/…",
     "tweettime": "2024-01-29, 20:10:11",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1752061596770390312",
@@ -69,12 +89,25 @@
 }
 {
     "expanded_url": [
+        "https://h0meb0dy.me/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 50,
+    "tweettext": "RT @h0meb0dysj: Writeup(Korean, no exploit) for CVE-2024-0517(Out of bounds write in V8)\nhttps://t.co/EJ6EuTMHaX",
+    "tweettime": "2024-01-29, 12:34:47",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1751946993981657211",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/exploits-released-for-critical-jenkins-rce-flaw-patch-now/"
     ],
-    "tweetfavorites": 37,
-    "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 13,
+    "tweetfavorites": 54,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 22,
     "tweettext": "Jenkinsの重大な脆弱性CVE-2024-23897に対応する攻撃コードのPoC（概念実証コード）複数が公開された。既にハニーポットには攻撃が来ているとの報告も。 https://t.co/gGqWa78UyH",
     "tweettime": "2024-01-28, 22:03:16",
     "tweeturl": "https://twitter.com/__kokumoto/status/1751727668859752603",
@@ -190,7 +223,7 @@
     "expanded_url": [
         "https://github.com/binganao/CVE-2024-23897"
     ],
-    "tweetfavorites": 146,
+    "tweetfavorites": 149,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 42,
@@ -233,7 +266,7 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 506,
+    "tweetfavorites": 508,
     "tweetquotes": 1,
     "tweetreplies": 12,
     "tweetretweets": 77,
@@ -282,10 +315,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 171,
+    "tweetfavorites": 172,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 53,
+    "tweetretweets": 55,
     "tweettext": "🚨Alert🚨CVE-2024-23897 (CVSS 9.8): Critical Jenkins Security Vulnerability, RCE Possible\n⚠A critical vulnerability within Jenkins’ built-in command line interface (CLI),  opens the door to arbitrary file reads through the CLI, potentially culminating in remote code execution… https://t.co/smsW1QSyiH",
     "tweettime": "2024-01-25, 08:41:34",
     "tweeturl": "https://twitter.com/HunterMapping/status/1750438751380341091",
@@ -341,7 +374,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 62,
+    "tweetretweets": 61,
     "tweettext": "RT @mistymntncop: Exploit for CVE-2022-4262. Fukin finally! Shoutout to @_clem1 for finding the ITW exploit. And shoutout to @5aelo, @bjrjk…",
     "tweettime": "2024-01-24, 17:23:55",
     "tweeturl": "https://twitter.com/kmkz_security/status/1750207818827722946",
@@ -427,7 +460,7 @@
     "expanded_url": [
         "https://github.com/WebKit/WebKit/commit/61d47f64edd9a39dc2c14fcb6f6dd944a359eb79"
     ],
-    "tweetfavorites": 49,
+    "tweetfavorites": 48,
     "tweetquotes": 1,
     "tweetreplies": 6,
     "tweetretweets": 20,
@@ -929,7 +962,7 @@
     "expanded_url": [
         "https://chromium.googlesource.com/v8/v8.git/+/389ea9be7d68bb189e16da79f6414edbd4f7594f"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 37,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 8,
