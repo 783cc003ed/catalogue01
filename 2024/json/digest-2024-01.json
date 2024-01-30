@@ -22,7 +22,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 35,
+    "tweetretweets": 40,
     "tweettext": "RT @stephenfewer: We now have an RCE exploit module in the @metasploit pull queue for CVE-2024-0204 in Fortra GoAnywhere MFT: https://t.co/…",
     "tweettime": "2024-01-29, 19:15:04",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1752047726966013972",
@@ -414,7 +414,7 @@
     "expanded_url": [
         "https://github.com/RomanRybachek/CVE-2024-20698"
     ],
-    "tweetfavorites": 35,
+    "tweetfavorites": 34,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 14,
@@ -437,7 +437,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 88,
+    "tweetretweets": 90,
     "tweettext": "RT @Horizon3Attack: CVE-2024-0204, announced today but silently patched in December, details an authentication bypass in #Fortra #GoAnywher…",
     "tweettime": "2024-01-23, 20:50:52",
     "tweeturl": "https://twitter.com/steventseeley/status/1749897509651320896",
@@ -591,7 +591,7 @@
     "expanded_url": [
         "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/"
     ],
-    "tweetfavorites": 171,
+    "tweetfavorites": 172,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 61,
@@ -1967,7 +1967,7 @@
     "expanded_url": [
         "https://github.com/TecR0c/DoubleTrouble"
     ],
-    "tweetfavorites": 138,
+    "tweetfavorites": 137,
     "tweetquotes": 2,
     "tweetreplies": 3,
     "tweetretweets": 39,
