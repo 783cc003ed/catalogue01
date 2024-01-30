@@ -12,10 +12,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html"
     ],
-    "tweetfavorites": 53,
-    "tweetquotes": 2,
-    "tweetreplies": 2,
-    "tweetretweets": 34,
+    "tweetfavorites": 122,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 63,
     "tweettext": "Hackers could write ANY file on your #GitLab server while creating a workspace. This critical flaw (CVE-2024-0402) affects all versions before 16.5.8!\n\nPatch NOW. Details here → https://t.co/PrlKTUKunZ\n\n#Cybersecurity #DevSecOps",
     "tweettime": "2024-01-30, 16:20:00",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1752366058185310602",
@@ -25,10 +25,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/juniper-networks-releases-urgent-junos.html"
     ],
-    "tweetfavorites": 77,
+    "tweetfavorites": 82,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 48,
+    "tweetretweets": 51,
     "tweettext": "🚨 Patch now! High-severity Junos OS vulnerabilities exposed (CVE-2024-21619, CVE-2024-21620). These flaws could let attackers steal sensitive data or even take control of your devices.\n\nDetails here: https://t.co/EUOMld7c7k\n\nDon't wait - update your Junos OS now!",
     "tweettime": "2024-01-30, 05:03:32",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1752195820743442860",
@@ -1080,7 +1080,7 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 283,
+    "tweetfavorites": 285,
     "tweetquotes": 3,
     "tweetreplies": 4,
     "tweetretweets": 122,
