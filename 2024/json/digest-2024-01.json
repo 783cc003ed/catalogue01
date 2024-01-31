@@ -55,6 +55,19 @@
     "username": "TheHackersNews"
 }
 {
+    "expanded_url": [
+        "https://github.com/duy-31/CVE-2023-35636"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "GitHub - duy-31/CVE-2023-35636: Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC - https://t.co/o9u6k1l3Sp",
+    "tweettime": "2024-01-30, 01:35:24",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1752143441621127654",
+    "username": "piedpiper1616"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -507,7 +520,7 @@
     "expanded_url": [
         "https://github.com/RomanRybachek/CVE-2024-20698"
     ],
-    "tweetfavorites": 34,
+    "tweetfavorites": 35,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 14,
@@ -664,7 +677,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 77,
+    "tweetretweets": 78,
     "tweettext": "RT @_0xf4n9x_: #CVE-2023-22527 Confluence SSTI #RCE\nhttps://t.co/H6ynoQI6K5 https://t.co/IKR2FzNcbK",
     "tweettime": "2024-01-22, 13:44:04",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1749427714191466744",
