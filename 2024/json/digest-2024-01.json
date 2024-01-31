@@ -12,6 +12,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 76,
+    "tweettext": "RT @TheHackersNews: 🚨 A new glibc flaw (CVE-2023-6246) gives attackers root access on #Linux.\n\nThis high-severity #vulnerability impacts ma…",
+    "tweettime": "2024-01-31, 06:42:33",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1752583126671405310",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 50,
     "tweettext": "RT @TheHackersNews: 🚨 Patch now! High-severity Junos OS vulnerabilities exposed (CVE-2024-21619, CVE-2024-21620). These flaws could let att…",
     "tweettime": "2024-01-30, 17:27:07",
@@ -143,7 +153,7 @@
         "https://www.sonarsource.com/blog/excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins/",
         "https://cloud.projectdiscovery.io/@sandeep/nqTESMRNHscR4wv9LABGua"
     ],
-    "tweetfavorites": 156,
+    "tweetfavorites": 158,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 47,
