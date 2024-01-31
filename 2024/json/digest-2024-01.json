@@ -79,6 +79,19 @@
 }
 {
     "expanded_url": [
+        "https://www.truesec.com/hub/blog/akira-ransomware-and-exploitation-of-cisco-anyconnect-vulnerability-cve-2020-3259"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "RT @Cyber_O51NT: Akira Ransomware and exploitation of Cisco Anyconnect vulnerability CVE-2020-3259 https://t.co/ieyu75ZxuP",
+    "tweettime": "2024-01-30, 07:59:56",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1752240212678197335",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2024/01/juniper-networks-releases-urgent-junos.html"
     ],
     "tweetfavorites": 82,
@@ -228,10 +241,10 @@
     "expanded_url": [
         "https://blog.slonser.info/posts/cve-2023-5480/"
     ],
-    "tweetfavorites": 109,
+    "tweetfavorites": 139,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetretweets": 21,
     "tweettext": "CVE-2023-5480: Chrome new XSS Vector (Bounty: $16k)\n\nhttps://t.co/51iK2OXQWJ\n\nby @slonser_\n\n#bugbountytips #cybersecurity #infosec https://t.co/DogI2nbFC8",
     "tweettime": "2024-01-27, 14:30:00",
     "tweeturl": "https://twitter.com/payloadartist/status/1751251212307960146",
