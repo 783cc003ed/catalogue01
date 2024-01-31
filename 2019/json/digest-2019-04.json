@@ -5,7 +5,7 @@
     "tweetfavorites": 133,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 81,
+    "tweetretweets": 80,
     "tweettext": "CVE-2019-0726/ZDI-19-272: @HexKitchen details a vuln in the #Windows DHCP Client reported by Trend's own Saran Neti. Bug could lead to RCE. Blog provides root cause analysis &amp; steps to reproduce. https://t.co/NlFISGNqZt",
     "tweettime": "2019-04-25, 15:10:51",
     "tweeturl": "https://twitter.com/thezdi/status/1121431383870771200",
