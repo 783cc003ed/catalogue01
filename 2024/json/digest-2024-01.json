@@ -89,6 +89,20 @@
 }
 {
     "expanded_url": [
+        "https://www.jenkins.io/security/advisory/2024-01-24/#SECURITY-3314",
+        "https://dashboard.shadowserver.org/statistics/combined/map/?map_type=std&day=2024-01-28&source=http_vulnerable&source=http_vulnerable6&tag=cve-2024-23897%2B&geo=all&data_set=count&scale=log"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 38,
+    "tweettext": "Around 45K exposed Jenkins instances vulnerable to CVE-2024-23897 (Arbitrary file read vulnerability through the CLI can lead to RCE). If you run Jenkins &amp; receive an alert from us make sure to read Jenkins advisory: https://t.co/aPPOHT1WXx\n\nWorld map: https://t.co/GNVwKGM1R9 https://t.co/Zb9Do5BOi8",
+    "tweettime": "2024-01-29, 13:44:23",
+    "tweeturl": "https://twitter.com/Shadowserver/status/1751964510955372855",
+    "username": "Shadowserver"
+}
+{
+    "expanded_url": [
         "https://h0meb0dy.me/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8"
     ],
     "tweetfavorites": 0,
@@ -210,7 +224,7 @@
     "expanded_url": [
         "http://Hunter.how"
     ],
-    "tweetfavorites": 35,
+    "tweetfavorites": 36,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 16,
@@ -223,7 +237,7 @@
     "expanded_url": [
         "https://github.com/binganao/CVE-2024-23897"
     ],
-    "tweetfavorites": 149,
+    "tweetfavorites": 150,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 42,
@@ -308,7 +322,7 @@
     "tweetfavorites": 347,
     "tweetquotes": 14,
     "tweetreplies": 3,
-    "tweetretweets": 180,
+    "tweetretweets": 181,
     "tweettext": "🚨 Urgent: Critical Jenkins RCE #vulnerability (CVE-2024-23897) discovered.\n\nHackers can remotely control your CI/CD pipelines. Patch immediately to prevent malicious code in builds.\n\nDetails here: https://t.co/AdrFH8Yl5P\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-25, 11:58:01",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1750488188349510118",

@@ -2,7 +2,7 @@
     "tweetfavorites": 53,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 4,
+    "tweetretweets": 3,
     "tweettext": "Since we love spread knowledge - beside the UAF discussed here (CVE-2018-0965), in the same function (vpcivsp!VirtualBusChannelProcessPacket) there was an info disclosure: uninitialized local structure on the stack sent to the guest via VirtualBusPacketComplete (CVE-2018-0964)",
     "tweettime": "2019-01-31, 10:09:03",
     "tweeturl": "https://twitter.com/AmarSaar/status/1090914852275740672",
