@@ -31,7 +31,7 @@
     "tweetfavorites": 235,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 77,
+    "tweetretweets": 76,
     "tweettext": "CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.\nhttps://t.co/nEnTaaiTeB",
     "tweettime": "2018-09-21, 09:17:38",
     "tweeturl": "https://twitter.com/matteyeux/status/1043066711958872064",
