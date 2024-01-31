@@ -2,6 +2,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "RT @nachoskrnl: Another MapUrlToZone vuln (CVE-2024-20652) that can be used to bypass Outlook's CVE-2023-23397 mitigation. James foresaw ;)…",
+    "tweettime": "2024-01-31, 07:11:01",
+    "tweeturl": "https://twitter.com/Dinosn/status/1752590289313636794",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 50,
     "tweettext": "RT @TheHackersNews: 🚨 Patch now! High-severity Junos OS vulnerabilities exposed (CVE-2024-21619, CVE-2024-21620). These flaws could let att…",
     "tweettime": "2024-01-30, 17:27:07",
@@ -198,7 +208,7 @@
     "expanded_url": [
         "https://www.sonarsource.com/blog/excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins/"
     ],
-    "tweetfavorites": 47,
+    "tweetfavorites": 48,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 9,
@@ -247,7 +257,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 73,
+    "tweetfavorites": 74,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 17,
@@ -280,7 +290,7 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 508,
+    "tweetfavorites": 510,
     "tweetquotes": 1,
     "tweetreplies": 12,
     "tweetretweets": 77,
@@ -615,7 +625,7 @@
     "expanded_url": [
         "https://www.horizon3.ai/writeup-for-cve-2023-39143-papercut-webdav-vulnerability/"
     ],
-    "tweetfavorites": 75,
+    "tweetfavorites": 76,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 28,
@@ -1094,7 +1104,7 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 285,
+    "tweetfavorites": 287,
     "tweetquotes": 3,
     "tweetreplies": 4,
     "tweetretweets": 122,
