@@ -341,7 +341,7 @@
     "expanded_url": [
         "https://www.rapid7.com/blog/post/2023/10/19/metasploit-weekly-wrap-up-32/"
     ],
-    "tweetfavorites": 224,
+    "tweetfavorites": 223,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 87,
@@ -359,6 +359,19 @@
     "tweettime": "2023-10-18, 17:00:10",
     "tweeturl": "https://twitter.com/hosselot/status/1714687829065035845",
     "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://msft.it/60109adfp"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 8,
+    "tweetreplies": 1,
+    "tweetretweets": 103,
+    "tweettext": "Since early October 2023, Microsoft has observed North Korean nation-state threat actors Diamond Sleet and Onyx Sleet exploiting the TeamCity CVE-2023-42793 RCE vulnerability, posing a particularly high risk to affected orgs. Get TTPs &amp; protection info: https://t.co/s8SRIDQfWT",
+    "tweettime": "2023-10-18, 16:35:01",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1714681498115440898",
+    "username": "MsftSecIntel"
 }
 {
     "expanded_url": [
@@ -464,7 +477,7 @@
     "username": "win3zz"
 }
 {
-    "tweetfavorites": 185,
+    "tweetfavorites": 186,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 56,

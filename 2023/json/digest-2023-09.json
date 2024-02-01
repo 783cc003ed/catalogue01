@@ -166,7 +166,7 @@
     "tweetfavorites": 253,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 75,
+    "tweetretweets": 76,
     "tweettext": "Interesting reading on Windows privilege escalation through Use-After-Free (UAF) in win32kfull (CVE-2023-21822)\nCredits Marcin Wiązowski (@thezdi)\n\nhttps://t.co/H842SjZa71\n\n#exploit #Windows #infosec https://t.co/c5H0IwuJt2",
     "tweettime": "2023-09-24, 07:30:02",
     "tweeturl": "https://twitter.com/0xor0ne/status/1705847042843492538",
