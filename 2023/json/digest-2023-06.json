@@ -25,7 +25,7 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 190,
+    "tweetfavorites": 189,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 43,
@@ -323,7 +323,7 @@
     "tweetfavorites": 181,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 72,
+    "tweetretweets": 73,
     "tweettext": "CVE-2023-20887\n\nPOC for CVE-2023-20887 VMWare Aria Operations for Networks (vRealize Network Insight) unauthenticated RCE\nhttps://t.co/wafSz8olxc\nhttps://t.co/AEuxL9Z1Ok #cybersecurity #infosec",
     "tweettime": "2023-06-18, 22:10:14",
     "tweeturl": "https://twitter.com/s0urc3c0d3err0r/status/1670554539681013760",
@@ -448,7 +448,7 @@
     "expanded_url": [
         "https://github.com/sinsinology/CVE-2023-20887"
     ],
-    "tweetfavorites": 142,
+    "tweetfavorites": 141,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 38,

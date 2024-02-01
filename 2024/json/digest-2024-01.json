@@ -9,6 +9,16 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 52,
+    "tweettext": "RT @stephenfewer: We now have an RCE exploit module in the @metasploit pull queue for CVE-2024-0204 in Fortra GoAnywhere MFT: https://t.co/…",
+    "tweettime": "2024-01-31, 16:35:40",
+    "tweeturl": "https://twitter.com/momika233/status/1752732390886416749",
+    "username": "momika233"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html"
     ],
@@ -25,10 +35,10 @@
     "expanded_url": [
         "https://forums.ivanti.com/s/article/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways"
     ],
-    "tweetfavorites": 57,
-    "tweetquotes": 5,
-    "tweetreplies": 3,
-    "tweetretweets": 22,
+    "tweetfavorites": 102,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 41,
     "tweettext": "Hey everybody there are unfixed vulnerabilities in Ivanti Connect Secure!\nNo, not those (which are STILL unfixed).\nThe new ones: CVE-2024-21888 (privesc to admin) and CVE-2024-21893 (SSRF to access \"restricted resources\")\nmitigation.release.20240126.5.xml\nhttps://t.co/hYaMum0uR7 https://t.co/W88DB9LKpM",
     "tweettime": "2024-01-31, 13:00:06",
     "tweeturl": "https://twitter.com/wdormann/status/1752678139447103515",
@@ -1179,7 +1189,7 @@
     "tweetfavorites": 304,
     "tweetquotes": 23,
     "tweetreplies": 23,
-    "tweetretweets": 155,
+    "tweetretweets": 154,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",
@@ -1649,7 +1659,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 152,
+    "tweetretweets": 151,
     "tweettext": "RT @rwincey: GitLab CVE-2023-7028 POC\n\nuser[email][]=valid@email.com&amp;user[email][]=attacker@email.com \n\n- PWNED",
     "tweettime": "2024-01-12, 12:00:12",
     "tweeturl": "https://twitter.com/momika233/status/1745777697069150454",
@@ -1978,7 +1988,7 @@
     "tweetfavorites": 221,
     "tweetquotes": 6,
     "tweetreplies": 1,
-    "tweetretweets": 77,
+    "tweetretweets": 76,
     "tweettext": "Akamai researcher Ben Barnea found a remote code execution vulnerability in the MSHTML platform (CVE-2023-35628) that can be targeted at Microsoft Outlook. We will share more technical details about this vulnerability in the upcoming weeks, so stay tuned.",
     "tweettime": "2024-01-09, 22:35:10",
     "tweeturl": "https://twitter.com/akamai_research/status/1744850325977075828",

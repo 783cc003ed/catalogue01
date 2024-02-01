@@ -341,7 +341,7 @@
     "expanded_url": [
         "https://www.rapid7.com/blog/post/2023/10/19/metasploit-weekly-wrap-up-32/"
     ],
-    "tweetfavorites": 223,
+    "tweetfavorites": 224,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 87,
@@ -606,6 +606,19 @@
     "tweettime": "2023-10-08, 20:57:00",
     "tweeturl": "https://twitter.com/pentest_swissky/status/1711123550466122106",
     "username": "pentest_swissky"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2023/10/06/metasploit-weekly-wrap-up-30/"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 43,
+    "tweettext": "The weeks @metasploit release includes our exploit for CVE-2023-40044, an unauthenticated RCE in the Ad Hoc Transfer module of WS_FTP Server, due to unsafe .NET deserialization. Get all the details here: https://t.co/5VPn5OqtId https://t.co/VXV1os351P",
+    "tweettime": "2023-10-06, 18:47:35",
+    "tweeturl": "https://twitter.com/stephenfewer/status/1710366208392937703",
+    "username": "stephenfewer"
 }
 {
     "expanded_url": [
