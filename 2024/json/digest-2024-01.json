@@ -12,10 +12,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html"
     ],
-    "tweetfavorites": 84,
+    "tweetfavorites": 88,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 60,
+    "tweetretweets": 62,
     "tweettext": "⚡ ALERT: Two high-severity flaws found in #Ivanti's Connect Secure, Policy Secure and Neurons for ZTA.\n\nCVE-2024-21893 is actively exploited, granting access to restricted resources. CVE-2024-21888 enables escalation to admin.\n\nDetails → https://t.co/rFcXy2gVnT\n\n#cybersecurity",
     "tweettime": "2024-01-31, 13:39:16",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1752687997688881450",
@@ -58,10 +58,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html"
     ],
-    "tweetfavorites": 219,
+    "tweetfavorites": 221,
     "tweetquotes": 3,
     "tweetreplies": 6,
-    "tweetretweets": 130,
+    "tweetretweets": 131,
     "tweettext": "🚨 A new glibc flaw (CVE-2023-6246) gives attackers root access on #Linux.\n\nThis high-severity #vulnerability impacts major distros like Debian, Ubuntu, and Fedora. Don't wait, update your systems!\n\nFind details here → https://t.co/GDpfhY1EFw\n\n#cybersecurity #hacking",
     "tweettime": "2024-01-31, 05:45:28",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1752568762941747220",
@@ -81,7 +81,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html"
     ],
-    "tweetfavorites": 228,
+    "tweetfavorites": 229,
     "tweetquotes": 5,
     "tweetreplies": 4,
     "tweetretweets": 126,
@@ -130,7 +130,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/juniper-networks-releases-urgent-junos.html"
     ],
-    "tweetfavorites": 103,
+    "tweetfavorites": 104,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 59,
