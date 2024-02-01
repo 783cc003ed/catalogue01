@@ -104,10 +104,10 @@
     "expanded_url": [
         "https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/"
     ],
-    "tweetfavorites": 248,
+    "tweetfavorites": 249,
     "tweetquotes": 1,
     "tweetreplies": 9,
-    "tweetretweets": 89,
+    "tweetretweets": 90,
     "tweettext": "This time I'll look at CVE-2022-46395, an Arm Mali GPU driver UAF I found by analysing Jann Horn's CVE-2022-36449. I'll also use a technique of Jann Horn to win a very tight race to gain arbitrary kernel code execution and root from untrusted Android app. https://t.co/S0lbE2Zmrc",
     "tweettime": "2023-05-25, 16:18:51",
     "tweeturl": "https://twitter.com/mmolgtm/status/1661768801057112064",
