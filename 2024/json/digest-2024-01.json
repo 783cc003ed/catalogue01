@@ -79,6 +79,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/duy-31/CVE-2023-35636"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "CVE-2023-35636: Microsoft Outlook Information Disclosure Vulnerability (leak password hash).\n\nPoC\nhttps://t.co/ckQNHpSYgS https://t.co/3gqjw2Ac7P",
+    "tweettime": "2024-01-30, 13:30:41",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1752323451111502297",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://www.truesec.com/hub/blog/akira-ransomware-and-exploitation-of-cisco-anyconnect-vulnerability-cve-2020-3259"
     ],
     "tweetfavorites": 0,
@@ -215,10 +228,10 @@
         "https://www.sonarsource.com/blog/excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins/",
         "https://cloud.projectdiscovery.io/@sandeep/nqTESMRNHscR4wv9LABGua"
     ],
-    "tweetfavorites": 158,
+    "tweetfavorites": 160,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 47,
+    "tweetretweets": 48,
     "tweettext": "Scan for Jenkins &lt; 2.441 - Arbitrary File Read (CVE-2024-23897) using nuclei templates.\n\nVulnerability Advisory -https://t.co/7ERMZdsyAo\n\nVulnerability Analysis - https://t.co/hUopMxRzE1 by @Sonar_Research\n\nNuclei Template - https://t.co/vfC0ZkJJeo\n\n#hackwithautomation #bugbounty…",
     "tweettime": "2024-01-28, 21:07:40",
     "tweeturl": "https://twitter.com/pdnuclei/status/1751713675831083085",
@@ -388,7 +401,7 @@
     "expanded_url": [
         "https://github.com/RomanRybachek/CVE-2024-20698"
     ],
-    "tweetfavorites": 163,
+    "tweetfavorites": 165,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 54,
@@ -1176,7 +1189,7 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 287,
+    "tweetfavorites": 288,
     "tweetquotes": 3,
     "tweetreplies": 4,
     "tweetretweets": 122,
