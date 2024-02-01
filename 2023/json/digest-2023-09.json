@@ -78,7 +78,7 @@
     "username": "0vercl0k"
 }
 {
-    "tweetfavorites": 139,
+    "tweetfavorites": 140,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 25,
@@ -192,14 +192,14 @@
     "tweetfavorites": 851,
     "tweetquotes": 32,
     "tweetreplies": 16,
-    "tweetretweets": 343,
+    "tweetretweets": 344,
     "tweettext": "\"The WebP 0day\" -- a full technical analysis the recently patched vulnerability in the WebP image library that was exploited in the wild (CVE-2023-4863). https://t.co/6yUcE9sOZa",
     "tweettime": "2023-09-21, 17:20:30",
     "tweeturl": "https://twitter.com/benhawkes/status/1704908471815356506",
     "username": "benhawkes"
 }
 {
-    "tweetfavorites": 345,
+    "tweetfavorites": 346,
     "tweetquotes": 3,
     "tweetreplies": 4,
     "tweetretweets": 60,
@@ -287,7 +287,7 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
     ],
-    "tweetfavorites": 276,
+    "tweetfavorites": 277,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 97,
