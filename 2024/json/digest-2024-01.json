@@ -569,9 +569,9 @@
     "expanded_url": [
         "https://github.com/WebKit/WebKit/commit/61d47f64edd9a39dc2c14fcb6f6dd944a359eb79"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 51,
     "tweetquotes": 1,
-    "tweetreplies": 6,
+    "tweetreplies": 7,
     "tweetretweets": 20,
     "tweettext": "Apple Safari In-The-Wild type confusion vulnerability (CVE-2024-23222 [267134]) happens because DFG constant property load does not check the validity at the main thread:\nhttps://t.co/WBMvhbfIYv",
     "tweettime": "2024-01-24, 00:20:31",
@@ -1071,7 +1071,7 @@
     "expanded_url": [
         "https://chromium.googlesource.com/v8/v8.git/+/389ea9be7d68bb189e16da79f6414edbd4f7594f"
     ],
-    "tweetfavorites": 37,
+    "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 8,
