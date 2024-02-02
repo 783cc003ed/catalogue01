@@ -22,6 +22,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "RT @lobuhisec: Kubernetes PoC for CVE-2024-21626:\n\napiVersion: v1\nkind: Pod\nmetadata:\n  name: cve202421626\nspec:\n  containers:\n  - name: ub…",
+    "tweettime": "2024-02-02, 10:56:09",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1753371723762954673",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 35,
     "tweettext": "RT @CISACyber: 🚨 New Ivanti software updates address previously noted #CVE-2023-46805 &amp; CVE-2024-21887 as well as two newly identified vuln…",
     "tweettime": "2024-02-01, 21:47:52",
