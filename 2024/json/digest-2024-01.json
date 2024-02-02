@@ -22,10 +22,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html"
     ],
-    "tweetfavorites": 88,
+    "tweetfavorites": 94,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 62,
+    "tweetretweets": 66,
     "tweettext": "⚡ ALERT: Two high-severity flaws found in #Ivanti's Connect Secure, Policy Secure and Neurons for ZTA.\n\nCVE-2024-21893 is actively exploited, granting access to restricted resources. CVE-2024-21888 enables escalation to admin.\n\nDetails → https://t.co/rFcXy2gVnT\n\n#cybersecurity",
     "tweettime": "2024-01-31, 13:39:16",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1752687997688881450",
@@ -68,10 +68,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html"
     ],
-    "tweetfavorites": 221,
+    "tweetfavorites": 233,
     "tweetquotes": 3,
     "tweetreplies": 6,
-    "tweetretweets": 131,
+    "tweetretweets": 140,
     "tweettext": "🚨 A new glibc flaw (CVE-2023-6246) gives attackers root access on #Linux.\n\nThis high-severity #vulnerability impacts major distros like Debian, Ubuntu, and Fedora. Don't wait, update your systems!\n\nFind details here → https://t.co/GDpfhY1EFw\n\n#cybersecurity #hacking",
     "tweettime": "2024-01-31, 05:45:28",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1752568762941747220",
@@ -91,10 +91,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html"
     ],
-    "tweetfavorites": 229,
+    "tweetfavorites": 231,
     "tweetquotes": 5,
     "tweetreplies": 4,
-    "tweetretweets": 126,
+    "tweetretweets": 127,
     "tweettext": "Hackers could write ANY file on your #GitLab server while creating a workspace. This critical flaw (CVE-2024-0402) affects all versions before 16.5.8!\n\nPatch NOW. Details here → https://t.co/PrlKTUKunZ\n\n#Cybersecurity #DevSecOps",
     "tweettime": "2024-01-30, 16:20:00",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1752366058185310602",
@@ -1738,7 +1738,7 @@
     "expanded_url": [
         "https://www.synacktiv.com/advisories/remote-code-execution-on-cisco-access-point-wap371-firmware-1307"
     ],
-    "tweetfavorites": 179,
+    "tweetfavorites": 180,
     "tweetquotes": 1,
     "tweetreplies": 7,
     "tweetretweets": 37,
@@ -1777,7 +1777,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 119,
+    "tweetretweets": 120,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 23:20:38",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1745224159087788540",

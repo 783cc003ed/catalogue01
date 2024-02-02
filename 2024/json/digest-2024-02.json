@@ -11,3 +11,17 @@
     "tweeturl": "https://twitter.com/Dinosn/status/1753001666033467766",
     "username": "Dinosn"
 }
+{
+    "expanded_url": [
+        "http://insecure.org",
+        "https://www.qualys.com/2024/01/30/cve-2023-6246/syslog.txt"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 9,
+    "tweettext": "CVE-2023-6246: Heap-based buffer #overflow in the #glibc's syslog()\n\n* another awesome vuln/xdev by @qualys \n\n* love the reference to @solardiz’s exploit from 1997 at https://t.co/kT1u2KyDsR \n\n* snprintf() return value behavior is a common source of bugs\n\nhttps://t.co/hxf0bJIK89",
+    "tweettime": "2024-02-01, 06:25:52",
+    "tweeturl": "https://twitter.com/0xdea/status/1752941316055486899",
+    "username": "0xdea"
+}
