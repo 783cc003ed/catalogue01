@@ -206,10 +206,10 @@
     "expanded_url": [
         "https://github.com/rapid7/metasploit-framework/pull/18762"
     ],
-    "tweetfavorites": 127,
+    "tweetfavorites": 132,
     "tweetquotes": 1,
-    "tweetreplies": 1,
-    "tweetretweets": 51,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
     "tweettext": "We now have an RCE exploit module in the @metasploit pull queue for CVE-2024-0204 in Fortra GoAnywhere MFT: https://t.co/ktMvdn9weB https://t.co/9rvtrqML6N",
     "tweettime": "2024-01-29, 19:11:19",
     "tweeturl": "https://twitter.com/stephenfewer/status/1752046784241676734",
@@ -533,10 +533,10 @@
     "username": "cyb3rops"
 }
 {
-    "tweetfavorites": 42,
+    "tweetfavorites": 43,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 22,
+    "tweetretweets": 23,
     "tweettext": "A threat actor claims to be selling CVE-2023-20198 &amp; CVE-2023-20273 RCE exploit\n\nThese vulnerabilities affect the web UI feature of Cisco IOS XE and the exploit can be used without any authentication.\n\nPrice: $5000\n\n#DarkWeb https://t.co/S91tqlHe3k",
     "tweettime": "2024-01-24, 17:00:00",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1750201797405220907",
