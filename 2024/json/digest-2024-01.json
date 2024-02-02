@@ -437,7 +437,7 @@
     "tweetfavorites": 166,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 53,
+    "tweetretweets": 54,
     "tweettext": "CVE-2024-20698:  Windows Kernel Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/CzMtWKoyRu https://t.co/Y9lB57bqOF",
     "tweettime": "2024-01-25, 13:30:54",
     "tweeturl": "https://twitter.com/cyber_advising/status/1750511565457986024",
@@ -1222,7 +1222,7 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 288,
+    "tweetfavorites": 289,
     "tweetquotes": 3,
     "tweetreplies": 4,
     "tweetretweets": 122,
