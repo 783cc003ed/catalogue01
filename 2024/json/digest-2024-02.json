@@ -2,6 +2,26 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 152,
+    "tweettext": "RT @TheHackersNews: 🚨 A new glibc flaw (CVE-2023-6246) gives attackers root access on #Linux.\n\nThis high-severity #vulnerability impacts ma…",
+    "tweettime": "2024-02-02, 15:55:29",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1753447051361484906",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 140,
+    "tweettext": "RT @TheHackersNews: Hackers could write ANY file on your #GitLab server while creating a workspace. This critical flaw (CVE-2024-0402) affe…",
+    "tweettime": "2024-02-02, 15:55:24",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1753447031929241959",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 35,
     "tweettext": "RT @CISACyber: 🚨 New Ivanti software updates address previously noted #CVE-2023-46805 &amp; CVE-2024-21887 as well as two newly identified vuln…",
     "tweettime": "2024-02-01, 21:47:52",
