@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @CISACyber: 🚨 New Ivanti software updates address previously noted #CVE-2023-46805 &amp; CVE-2024-21887 as well as two newly identified vuln…",
+    "tweettime": "2024-02-01, 21:47:52",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1753173344134857135",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "expanded_url": [
         "https://securityonline.info/millions-of-routers-at-risk-cve-2024-21833-threatens-tp-link-devices/"
     ],
@@ -16,10 +26,10 @@
         "http://insecure.org",
         "https://www.qualys.com/2024/01/30/cve-2023-6246/syslog.txt"
     ],
-    "tweetfavorites": 36,
+    "tweetfavorites": 39,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 9,
+    "tweetretweets": 10,
     "tweettext": "CVE-2023-6246: Heap-based buffer #overflow in the #glibc's syslog()\n\n* another awesome vuln/xdev by @qualys \n\n* love the reference to @solardiz’s exploit from 1997 at https://t.co/kT1u2KyDsR \n\n* snprintf() return value behavior is a common source of bugs\n\nhttps://t.co/hxf0bJIK89",
     "tweettime": "2024-02-01, 06:25:52",
     "tweeturl": "https://twitter.com/0xdea/status/1752941316055486899",
