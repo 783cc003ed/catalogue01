@@ -81,6 +81,16 @@
     "username": "TheHackersNews"
 }
 {
+    "tweetfavorites": 153,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 33,
+    "tweettext": "#CVE-2023-51467 Apache OFBiz auth bypass Groovy #RCE Vulnerability\n\nThe vuln stems from an incomplete patch fix for the CVE-2023-49070, and a post-auth Groovy RCE. https://t.co/uDIQl4D8ac",
+    "tweettime": "2023-12-28, 02:46:06",
+    "tweeturl": "https://twitter.com/_0xf4n9x_/status/1740202435367543183",
+    "username": "_0xf4n9x_"
+}
+{
     "expanded_url": [
         "https://blog.projectdiscovery.io/crushftp-rce/"
     ],
@@ -439,10 +449,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 266,
+    "tweetfavorites": 267,
     "tweetquotes": 20,
     "tweetreplies": 12,
-    "tweetretweets": 139,
+    "tweetretweets": 141,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2023-7024\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this zero-day vulnerability.\n\nShare &amp; stay safe! 🫡 https://t.co/yyN6kjFSFM",
     "tweettime": "2023-12-21, 01:44:23",
     "tweeturl": "https://twitter.com/wallet_guard/status/1737650186644607284",
@@ -562,10 +572,10 @@
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 355,
+    "tweetfavorites": 362,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 115,
+    "tweetretweets": 116,
     "tweettext": "Happy to finally publish my research of finding a 0-click RCE vulnerability chain against Outlook client.\nFirst blogpost goes into details of bypassing Outlook's CVE-2023-23397 mitigation using Windows paths tricks.\nThe second one goes into audio codec decoding.",
     "tweettime": "2023-12-18, 16:21:59",
     "tweeturl": "https://twitter.com/nachoskrnl/status/1736783878700892253",

@@ -368,7 +368,7 @@
     "tweetfavorites": 150,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 43,
+    "tweetretweets": 42,
     "tweettext": "🚨CVE-2024-23879🚨 Jenkins RCE\nPOC Released\nCredit to binganao\n🔗https://t.co/glxDUSvjhE\n#vulnerability #infosecurity",
     "tweettime": "2024-01-26, 08:58:50",
     "tweeturl": "https://twitter.com/HunterMapping/status/1750805486059073834",
@@ -408,10 +408,10 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 511,
+    "tweetfavorites": 514,
     "tweetquotes": 1,
     "tweetreplies": 12,
-    "tweetretweets": 77,
+    "tweetretweets": 78,
     "tweettext": "Jenkins CVE-2024-23897 Arbitrary file read vulnerability through the CLI can lead to RCE \n\nPOC \n\n#BugBounty  #vulnerabilities #rce https://t.co/Lxf8TI5Oug",
     "tweettime": "2024-01-25, 19:04:57",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1750595628797989287",
@@ -1156,7 +1156,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 122,
+    "tweetretweets": 123,
     "tweettext": "RT @standa_t: Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 05:05:47",
     "tweeturl": "https://twitter.com/chompie1337/status/1747485342716883125",
@@ -1186,7 +1186,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 304,
+    "tweetfavorites": 307,
     "tweetquotes": 23,
     "tweetreplies": 23,
     "tweetretweets": 154,
