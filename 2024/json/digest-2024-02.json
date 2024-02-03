@@ -2,6 +2,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 141,
+    "tweettext": "RT @TheHackersNews: Hackers could write ANY file on your #GitLab server while creating a workspace. This critical flaw (CVE-2024-0402) affe…",
+    "tweettime": "2024-02-02, 15:57:59",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1753447680578331049",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 152,
     "tweettext": "RT @TheHackersNews: 🚨 A new glibc flaw (CVE-2023-6246) gives attackers root access on #Linux.\n\nThis high-severity #vulnerability impacts ma…",
     "tweettime": "2024-02-02, 15:55:29",
@@ -19,10 +29,23 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 46,
+    "expanded_url": [
+        "https://github.com/GlassyAmadeus/CVE-2024-20931"
+    ],
+    "tweetfavorites": 97,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 10,
+    "tweetretweets": 36,
+    "tweettext": "CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\\IIOP protocol\nhttps://t.co/JhrEZpYniM",
+    "tweettime": "2024-02-02, 15:20:32",
+    "tweeturl": "https://twitter.com/momika233/status/1753438255545192474",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
     "tweettext": "CVE-2024-21626 runc container escape can be exploited on docker build if you can control the Docker file. https://t.co/7PYxzOVGCu",
     "tweettime": "2024-02-02, 11:40:43",
     "tweeturl": "https://twitter.com/phithon_xg/status/1753382939587760271",
