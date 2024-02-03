@@ -22,7 +22,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html"
     ],
-    "tweetfavorites": 100,
+    "tweetfavorites": 101,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 66,
@@ -1988,7 +1988,7 @@
     "tweetfavorites": 221,
     "tweetquotes": 6,
     "tweetreplies": 1,
-    "tweetretweets": 76,
+    "tweetretweets": 77,
     "tweettext": "Akamai researcher Ben Barnea found a remote code execution vulnerability in the MSHTML platform (CVE-2023-35628) that can be targeted at Microsoft Outlook. We will share more technical details about this vulnerability in the upcoming weeks, so stay tuned.",
     "tweettime": "2024-01-09, 22:35:10",
     "tweeturl": "https://twitter.com/akamai_research/status/1744850325977075828",

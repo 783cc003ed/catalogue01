@@ -1,4 +1,27 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 63,
+    "tweettext": "RT @infosec_au: The SSRF/auth bypass affecting Ivanti Pulse Connect Secure (CVE-2024-21893), is a great example of what can be achieved wit…",
+    "tweettime": "2024-02-03, 15:50:59",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1753808306668195911",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2023-31505-schlix-cms-flaw-exposes-websites-to-rce-no-patch-available/"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "CVE-2023-31505: Schlix CMS Flaw Exposes Websites to RCE, No Patch Available https://t.co/VHNFaVvtCC",
+    "tweettime": "2024-02-03, 10:32:16",
+    "tweeturl": "https://twitter.com/Dinosn/status/1753728099873693886",
+    "username": "Dinosn"
+}
+{
     "expanded_url": [
         "https://github.com/projectdiscovery/nuclei-templates/blob/main/http/cves/2024/CVE-2024-21893.yaml"
     ],
@@ -45,6 +68,16 @@
     "username": "hackerfantastic"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 63,
+    "tweettext": "RT @infosec_au: The SSRF/auth bypass affecting Ivanti Pulse Connect Secure (CVE-2024-21893), is a great example of what can be achieved wit…",
+    "tweettime": "2024-02-03, 07:12:36",
+    "tweeturl": "https://twitter.com/Dinosn/status/1753677852807987514",
+    "username": "Dinosn"
+}
+{
     "expanded_url": [
         "https://www.assetnote.io/resources/research/ivantis-pulse-connect-secure-auth-bypass-round-two"
     ],
@@ -71,6 +104,16 @@
     "tweettime": "2024-02-02, 23:23:57",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1753559912779546954",
     "username": "h4x0r_dz"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 50,
+    "tweettext": "RT @stephenfewer: We have published our AttackerKB @rapid7 analysis for CVE-2024-21893, an SSRF vulnerability in the SAML component of Ivan…",
+    "tweettime": "2024-02-02, 20:35:05",
+    "tweeturl": "https://twitter.com/Dinosn/status/1753517415839719573",
+    "username": "Dinosn"
 }
 {
     "tweetfavorites": 0,
@@ -165,7 +208,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 37,
+    "tweetretweets": 40,
     "tweettext": "RT @lobuhisec: Kubernetes PoC for CVE-2024-21626:\n\napiVersion: v1\nkind: Pod\nmetadata:\n  name: cve202421626\nspec:\n  containers:\n  - name: ub…",
     "tweettime": "2024-02-02, 10:56:09",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1753371723762954673",
