@@ -35,10 +35,10 @@
     "expanded_url": [
         "https://forums.ivanti.com/s/article/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways"
     ],
-    "tweetfavorites": 102,
+    "tweetfavorites": 109,
     "tweetquotes": 8,
     "tweetreplies": 5,
-    "tweetretweets": 41,
+    "tweetretweets": 45,
     "tweettext": "Hey everybody there are unfixed vulnerabilities in Ivanti Connect Secure!\nNo, not those (which are STILL unfixed).\nThe new ones: CVE-2024-21888 (privesc to admin) and CVE-2024-21893 (SSRF to access \"restricted resources\")\nmitigation.release.20240126.5.xml\nhttps://t.co/hYaMum0uR7 https://t.co/W88DB9LKpM",
     "tweettime": "2024-01-31, 13:00:06",
     "tweeturl": "https://twitter.com/wdormann/status/1752678139447103515",
@@ -220,10 +220,10 @@
         "https://www.jenkins.io/security/advisory/2024-01-24/#SECURITY-3314",
         "https://dashboard.shadowserver.org/statistics/combined/map/?map_type=std&day=2024-01-28&source=http_vulnerable&source=http_vulnerable6&tag=cve-2024-23897%2B&geo=all&data_set=count&scale=log"
     ],
-    "tweetfavorites": 65,
-    "tweetquotes": 2,
+    "tweetfavorites": 69,
+    "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 40,
+    "tweetretweets": 41,
     "tweettext": "Around 45K exposed Jenkins instances vulnerable to CVE-2024-23897 (Arbitrary file read vulnerability through the CLI can lead to RCE). If you run Jenkins &amp; receive an alert from us make sure to read Jenkins advisory: https://t.co/aPPOHT1WXx\n\nWorld map: https://t.co/GNVwKGM1R9 https://t.co/Zb9Do5BOi8",
     "tweettime": "2024-01-29, 13:44:23",
     "tweeturl": "https://twitter.com/Shadowserver/status/1751964510955372855",
@@ -365,10 +365,10 @@
     "expanded_url": [
         "https://github.com/binganao/CVE-2024-23897"
     ],
-    "tweetfavorites": 150,
+    "tweetfavorites": 151,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 42,
+    "tweetretweets": 43,
     "tweettext": "🚨CVE-2024-23879🚨 Jenkins RCE\nPOC Released\nCredit to binganao\n🔗https://t.co/glxDUSvjhE\n#vulnerability #infosecurity",
     "tweettime": "2024-01-26, 08:58:50",
     "tweeturl": "https://twitter.com/HunterMapping/status/1750805486059073834",
