@@ -38,10 +38,10 @@
     "expanded_url": [
         "https://thehackernews.com/2017/11/exim-internet-mailer-flaws.html"
     ],
-    "tweetfavorites": 137,
+    "tweetfavorites": 138,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 198,
+    "tweetretweets": 199,
     "tweettext": "Critical Vulnerabilities Found in 'Exim' Mail Transfer Agent (MTA) Application:\n\n■ Remote Code Execution (CVE-2017-16943) — PoC Released\n■ Denial Of Service (CVE-2017-16944)  — PoC Released\n\nPatch Update — Exim version 4.90 RC2\n\nhttps://t.co/Cv6FVvRJIL https://t.co/5Ary4wLtCQ",
     "tweettime": "2017-11-27, 10:04:43",
     "tweeturl": "https://twitter.com/TheHackersNews/status/935086979028541440",
