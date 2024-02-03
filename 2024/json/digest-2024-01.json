@@ -114,8 +114,8 @@
     "expanded_url": [
         "https://github.com/duy-31/CVE-2023-35636"
     ],
-    "tweetfavorites": 61,
-    "tweetquotes": 0,
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 15,
     "tweettext": "CVE-2023-35636: Microsoft Outlook Information Disclosure Vulnerability (leak password hash).\n\nPoC\nhttps://t.co/ckQNHpSYgS https://t.co/3gqjw2Ac7P",
@@ -828,7 +828,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 226,
+    "tweetfavorites": 225,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 27,
@@ -887,7 +887,7 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/"
     ],
-    "tweetfavorites": 314,
+    "tweetfavorites": 318,
     "tweetquotes": 2,
     "tweetreplies": 5,
     "tweetretweets": 99,
@@ -1430,7 +1430,7 @@
     "expanded_url": [
         "https://github.com/m417z/CVE-2023-36003-POC"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 33,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 9,

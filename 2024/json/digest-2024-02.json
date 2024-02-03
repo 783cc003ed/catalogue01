@@ -2,7 +2,17 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 141,
+    "tweetretweets": 60,
+    "tweettext": "RT @TheHackersNews: ⚡ #Mastodon users, beware!\n\nA critical security flaw (CVE-2024-23832) affecting the decentralized social network could…",
+    "tweettime": "2024-02-03, 08:18:01",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1753694315220554187",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 142,
     "tweettext": "RT @TheHackersNews: Hackers could write ANY file on your #GitLab server while creating a workspace. This critical flaw (CVE-2024-0402) affe…",
     "tweettime": "2024-02-02, 15:57:59",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1753447680578331049",
@@ -42,6 +52,19 @@
     "username": "momika233"
 }
 {
+    "expanded_url": [
+        "https://glassyamadeus.github.io/2024/01/31/CVE_2024_20931/"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "CVE-2024-20931: A new attack surface for JNDI injection.\n\nref\nhttps://t.co/BvXEisMnfZ https://t.co/QbRKPCd8bE",
+    "tweettime": "2024-02-02, 14:57:33",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1753432473051001251",
+    "username": "cyber_advising"
+}
+{
     "tweetfavorites": 52,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -60,6 +83,16 @@
     "tweettime": "2024-02-02, 10:56:09",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1753371723762954673",
     "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "CVE-2024-21733: Generation of Error Message Containing Sensitive Information vulnerability in Apache Tomcat.This issue affects Apache Tomcat: from 8.5.7 through 8.5.63, from 9.0.0-M11 through 9.0.43. Users https://t.co/OZIziCU8LS",
+    "tweettime": "2024-02-01, 23:41:37",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1753201969206825131",
+    "username": "cyber_advising"
 }
 {
     "tweetfavorites": 0,
