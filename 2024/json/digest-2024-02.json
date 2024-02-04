@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://github.com/hrtowii/CVE-2024-23208-test"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 13,
+    "tweettext": "Got a working POC for CVE-2024-23208 UaF in one app. It uses the keyboard extension for the receiver.\nInstructions to crash your phone:\nPress go\nOpen the keyboard\nClear the app\nGithub: https://t.co/LXA6yW5Ul5",
+    "tweettime": "2024-02-04, 16:59:27",
+    "tweeturl": "https://twitter.com/htrowii/status/1754187925968032134",
+    "username": "htrowii"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
