@@ -344,7 +344,7 @@
     "tweetfavorites": 224,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 86,
+    "tweetretweets": 87,
     "tweettext": "This weeks @metasploit release has our unauthenticated RCE exploit module for CVE-2023-22515, affecting Atlassian Confluence. Get all the release details here: https://t.co/APJ35inKNi https://t.co/xmjqDuJlDC",
     "tweettime": "2023-10-19, 20:44:15",
     "tweeturl": "https://twitter.com/stephenfewer/status/1715106608785604840",
