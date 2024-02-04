@@ -870,7 +870,7 @@
     "tweetfavorites": 464,
     "tweetquotes": 9,
     "tweetreplies": 5,
-    "tweetretweets": 177,
+    "tweetretweets": 176,
     "tweettext": "🚨 Massive zero-day exploitation for MOVEit Transfer (now formally CVE-2023-34362).\n\nAt this moment, at least 57 instances potentially compromised with the human2.aspx backdoor, 39 in the US.\n\nAfter the respective analysis, the validation process I use is as follows:\n1.- I verify… https://t.co/f6Z2lcog8g",
     "tweettime": "2023-06-02, 22:42:08",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1664764361515192322",

@@ -94,14 +94,24 @@
     "expanded_url": [
         "https://qriousec.github.io/post/vbox-pwn2own-2023/"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 33,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 8,
+    "tweetretweets": 9,
     "tweettext": "Analysis of VirtualBox CVE-2023-21987 and CVE-2023-21991 https://t.co/iR0dIHO0WL #pentesting  #VirtualBox  #cybersecurity #Infosec https://t.co/3iTpVsxMOE",
     "tweettime": "2024-02-03, 03:00:05",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1753614303347810658",
     "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 52,
+    "tweettext": "RT @stephenfewer: We have published our AttackerKB @rapid7 analysis for CVE-2024-21893, an SSRF vulnerability in the SAML component of Ivan…",
+    "tweettime": "2024-02-02, 23:35:31",
+    "tweeturl": "https://twitter.com/wdormann/status/1753562825958567981",
+    "username": "wdormann"
 }
 {
     "expanded_url": [
