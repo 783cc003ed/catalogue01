@@ -1923,10 +1923,10 @@
     "expanded_url": [
         "https://github.com/DebugPrivilege/InsightEngineering/tree/main/Debugging%20Case%20Studies/Debug%20Case%20Study%3A%20SharePoint%20Pre-Auth%20Code%20Injection%20RCE%20chain%20CVE-2023-29357%20%26%20CVE-2023-24955"
     ],
-    "tweetfavorites": 303,
+    "tweetfavorites": 308,
     "tweetquotes": 1,
     "tweetreplies": 5,
-    "tweetretweets": 118,
+    "tweetretweets": 120,
     "tweettext": "Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a memory dump of the w3wp.exe process. I cover different debugging techniques that can be applied to other w3wp.exe dumps as well. https://t.co/9EYBfr4opF https://t.co/X2NMluwQsL",
     "tweettime": "2024-01-10, 13:30:52",
     "tweeturl": "https://twitter.com/DebugPrivilege/status/1745075738783453604",
