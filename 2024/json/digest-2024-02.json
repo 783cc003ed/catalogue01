@@ -22,7 +22,7 @@
     "expanded_url": [
         "https://securityonline.info/cve-2023-31505-schlix-cms-flaw-exposes-websites-to-rce-no-patch-available/"
     ],
-    "tweetfavorites": 88,
+    "tweetfavorites": 89,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 28,
@@ -91,10 +91,10 @@
     "expanded_url": [
         "https://www.assetnote.io/resources/research/ivantis-pulse-connect-secure-auth-bypass-round-two"
     ],
-    "tweetfavorites": 228,
-    "tweetquotes": 1,
-    "tweetreplies": 3,
-    "tweetretweets": 46,
+    "tweetfavorites": 348,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 85,
     "tweettext": "The SSRF/auth bypass affecting Ivanti Pulse Connect Secure (CVE-2024-21893), is a great example of what can be achieved with a fully blind SSRF vulnerability (RCE).\n \nRead the @assetnote blog here which includes a  reliable payload and generation steps: https://t.co/cOYpmbWHrS",
     "tweettime": "2024-02-03, 06:25:53",
     "tweeturl": "https://twitter.com/infosec_au/status/1753666094546780326",
@@ -175,7 +175,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 146,
+    "tweetretweets": 145,
     "tweettext": "RT @TheHackersNews: Hackers could write ANY file on your #GitLab server while creating a workspace. This critical flaw (CVE-2024-0402) affe…",
     "tweettime": "2024-02-02, 15:57:59",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1753447680578331049",
