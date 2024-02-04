@@ -185,10 +185,10 @@
     "expanded_url": [
         "https://github.com/GlassyAmadeus/CVE-2024-20931"
     ],
-    "tweetfavorites": 133,
+    "tweetfavorites": 145,
     "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 47,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
     "tweettext": "CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\\IIOP protocol\nhttps://t.co/JhrEZpYniM",
     "tweettime": "2024-02-02, 15:20:32",
     "tweeturl": "https://twitter.com/momika233/status/1753438255545192474",
@@ -198,10 +198,10 @@
     "expanded_url": [
         "https://glassyamadeus.github.io/2024/01/31/CVE_2024_20931/"
     ],
-    "tweetfavorites": 78,
+    "tweetfavorites": 100,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 15,
+    "tweetretweets": 20,
     "tweettext": "CVE-2024-20931: A new attack surface for JNDI injection.\n\nref\nhttps://t.co/BvXEisMnfZ https://t.co/QbRKPCd8bE",
     "tweettime": "2024-02-02, 14:57:33",
     "tweeturl": "https://twitter.com/cyber_advising/status/1753432473051001251",
@@ -228,10 +228,10 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 48,
+    "tweetfavorites": 49,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 17,
+    "tweetretweets": 19,
     "tweettext": "CVE-2024-21733: Generation of Error Message Containing Sensitive Information vulnerability in Apache Tomcat.This issue affects Apache Tomcat: from 8.5.7 through 8.5.63, from 9.0.0-M11 through 9.0.43. Users https://t.co/OZIziCU8LS",
     "tweettime": "2024-02-01, 23:41:37",
     "tweeturl": "https://twitter.com/cyber_advising/status/1753201969206825131",
@@ -268,7 +268,7 @@
     "tweetfavorites": 43,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 12,
     "tweettext": "CVE-2023-6246: Heap-based buffer #overflow in the #glibc's syslog()\n\n* another awesome vuln/xdev by @qualys \n\n* love the reference to @solardiz’s exploit from 1997 at https://t.co/kT1u2KyDsR \n\n* snprintf() return value behavior is a common source of bugs\n\nhttps://t.co/hxf0bJIK89",
     "tweettime": "2024-02-01, 06:25:52",
     "tweeturl": "https://twitter.com/0xdea/status/1752941316055486899",
