@@ -254,10 +254,10 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 118,
+    "tweetfavorites": 126,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 25,
+    "tweetretweets": 31,
     "tweettext": "CVE-2024-21626 runc container escape can be exploited on docker build if you can control the Docker file. https://t.co/7PYxzOVGCu",
     "tweettime": "2024-02-02, 11:40:43",
     "tweeturl": "https://twitter.com/phithon_xg/status/1753382939587760271",
