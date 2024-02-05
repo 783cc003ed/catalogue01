@@ -93,7 +93,7 @@
     "tweetfavorites": 400,
     "tweetquotes": 8,
     "tweetreplies": 3,
-    "tweetretweets": 200,
+    "tweetretweets": 201,
     "tweettext": "Microsoft Office Remote Code Execution Vulnerability(CVE-2021-27059)\nInternet Explorer Remote Code Execution Vulnerability(CVE-2021-27085)\n0day(exploit) in the Wild But no one talk about it😅\nhttps://t.co/AYawN0X30A\nhttps://t.co/G2RYjq9dQ5 https://t.co/uUkGQJ147x",
     "tweettime": "2021-04-22, 02:45:15",
     "tweeturl": "https://twitter.com/blackorbird/status/1385062113085825027",
@@ -236,7 +236,7 @@
     "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2021/CVE-2021-1647.html"
     ],
-    "tweetfavorites": 544,
+    "tweetfavorites": 545,
     "tweetquotes": 6,
     "tweetreplies": 5,
     "tweetretweets": 230,
