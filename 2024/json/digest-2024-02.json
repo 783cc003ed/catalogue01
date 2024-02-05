@@ -254,10 +254,10 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 126,
+    "tweetfavorites": 125,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 31,
+    "tweetretweets": 30,
     "tweettext": "CVE-2024-21626 runc container escape can be exploited on docker build if you can control the Docker file. https://t.co/7PYxzOVGCu",
     "tweettime": "2024-02-02, 11:40:43",
     "tweeturl": "https://twitter.com/phithon_xg/status/1753382939587760271",
@@ -267,7 +267,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 40,
+    "tweetretweets": 41,
     "tweettext": "RT @lobuhisec: Kubernetes PoC for CVE-2024-21626:\n\napiVersion: v1\nkind: Pod\nmetadata:\n  name: cve202421626\nspec:\n  containers:\n  - name: ub…",
     "tweettime": "2024-02-02, 10:56:09",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1753371723762954673",
