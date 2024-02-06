@@ -1,5 +1,19 @@
 {
     "expanded_url": [
+        "http://Hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22WebLogic%20Server%22"
+    ],
+    "tweetfavorites": 107,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "🚨Alert🚨CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\\IIOP protocol \nPOC Released\n📊10.9K+ Services are found on the https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/Md98R2woCN\nDorks 👇👇👇\nHunter:/product.name=\"WebLogic Server\"\nFOFA: protocol=\"WebLogic\"\nShodan:… https://t.co/Mhv5b17kiP",
+    "tweettime": "2024-02-06, 07:04:07",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1754762881122603290",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/escaping-the-sandbox-cve-2024-21399-microsoft-edge-rce-vulnerability/"
     ],
     "tweetfavorites": 104,
