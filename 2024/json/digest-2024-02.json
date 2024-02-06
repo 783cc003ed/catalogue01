@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 52,
+    "tweettext": "RT @TheHackersNews: A recently disclosed SSRF #vulnerability (CVE-2024-21893) in Ivanti Connect Secure and Policy Secure products is now un…",
+    "tweettime": "2024-02-06, 07:52:05",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1754774953742729486",
+    "username": "hackerfantastic"
+}
+{
     "expanded_url": [
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22WebLogic%20Server%22"
