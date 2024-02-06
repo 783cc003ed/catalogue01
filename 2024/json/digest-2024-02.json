@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://securityonline.info/escaping-the-sandbox-cve-2024-21399-microsoft-edge-rce-vulnerability/"
     ],
-    "tweetfavorites": 95,
+    "tweetfavorites": 104,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 42,
+    "tweetretweets": 48,
     "tweettext": "Escaping the Sandbox: CVE-2024-21399 Microsoft Edge RCE Vulnerability https://t.co/KAxwU9XRfK",
     "tweettime": "2024-02-05, 04:50:39",
     "tweeturl": "https://twitter.com/Dinosn/status/1754366907019387156",
@@ -130,10 +130,10 @@
     "expanded_url": [
         "https://www.assetnote.io/resources/research/ivantis-pulse-connect-secure-auth-bypass-round-two"
     ],
-    "tweetfavorites": 348,
+    "tweetfavorites": 365,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 85,
+    "tweetretweets": 88,
     "tweettext": "The SSRF/auth bypass affecting Ivanti Pulse Connect Secure (CVE-2024-21893), is a great example of what can be achieved with a fully blind SSRF vulnerability (RCE).\n \nRead the @assetnote blog here which includes a  reliable payload and generation steps: https://t.co/cOYpmbWHrS",
     "tweettime": "2024-02-03, 06:25:53",
     "tweeturl": "https://twitter.com/infosec_au/status/1753666094546780326",
@@ -156,7 +156,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 60,
+    "tweetretweets": 62,
     "tweettext": "RT @stephenfewer: We have published our AttackerKB @rapid7 analysis for CVE-2024-21893, an SSRF vulnerability in the SAML component of Ivan…",
     "tweettime": "2024-02-02, 23:35:31",
     "tweeturl": "https://twitter.com/wdormann/status/1753562825958567981",
@@ -244,7 +244,7 @@
     "expanded_url": [
         "https://github.com/GlassyAmadeus/CVE-2024-20931"
     ],
-    "tweetfavorites": 163,
+    "tweetfavorites": 164,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 58,
