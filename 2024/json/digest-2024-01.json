@@ -976,10 +976,10 @@
     "username": "BleepinComputer"
 }
 {
-    "tweetfavorites": 305,
+    "tweetfavorites": 314,
     "tweetquotes": 1,
     "tweetreplies": 5,
-    "tweetretweets": 88,
+    "tweetretweets": 89,
     "tweettext": "💥 We have reproduced CVE-2023-22527 in Atlassian Confluence.\n\nA template injection vulnerability allows an unauthenticated attacker to achieve RCE on an affected instance.\n\nUpdate your software ASAP! https://t.co/O0VsYui97B",
     "tweettime": "2024-01-19, 13:07:39",
     "tweeturl": "https://twitter.com/ptswarm/status/1748331385968795882",
