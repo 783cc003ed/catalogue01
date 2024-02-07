@@ -190,7 +190,7 @@
     "tweetfavorites": 81,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 46,
+    "tweetretweets": 47,
     "tweettext": "Proof of Concept: CVE-2022-21907 HTTP Protocol Stack Remote Code Execution Vulnerability https://t.co/azsz7P8b3n #Pentesting #CVE #RCE #Vulnerability #CyberSecurity #Infosec https://t.co/1vwbKzxTpN",
     "tweettime": "2022-04-15, 23:00:33",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1515102808961429507",
@@ -265,7 +265,7 @@
     "expanded_url": [
         "https://www.akamai.com/blog/security/critical-remote-code-execution-vulnerabilities-windows-rpc-runtime"
     ],
-    "tweetfavorites": 782,
+    "tweetfavorites": 783,
     "tweetquotes": 16,
     "tweetreplies": 8,
     "tweetretweets": 322,

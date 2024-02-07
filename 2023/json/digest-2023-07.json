@@ -258,6 +258,19 @@
 }
 {
     "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-35365"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 18,
+    "tweettext": "Another 9.8 score\n\nCVE-2023-35365 - Security Update Guide - Microsoft - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability https://t.co/QsNzmvsHH3",
+    "tweettime": "2023-07-11, 17:46:36",
+    "tweeturl": "https://twitter.com/samilaiho/status/1678823115470635008",
+    "username": "samilaiho"
+}
+{
+    "expanded_url": [
         "https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/"
     ],
     "tweetfavorites": 811,
