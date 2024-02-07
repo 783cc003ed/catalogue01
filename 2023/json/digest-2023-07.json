@@ -224,10 +224,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36884"
     ],
-    "tweetfavorites": 392,
+    "tweetfavorites": 395,
     "tweetquotes": 4,
     "tweetreplies": 4,
-    "tweetretweets": 178,
+    "tweetretweets": 177,
     "tweettext": "If you missed it yesterday, Microsoft released an advisory concerning the CVE-2023-36884: https://t.co/TmGL6SX5DU. This RCE is currently used by a TA and there is no patch. You should apply the mitigation described in the advisory. \n1/4 https://t.co/z0sTvoiViH",
     "tweettime": "2023-07-12, 08:16:39",
     "tweeturl": "https://twitter.com/r00tbsd/status/1679042069229191173",
