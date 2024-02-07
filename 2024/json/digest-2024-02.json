@@ -24,6 +24,19 @@
 }
 {
     "expanded_url": [
+        "https://securityonline.info/cve-2024-0031-critical-android-code-execution-vulnerability/"
+    ],
+    "tweetfavorites": 138,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "CVE-2024-0031: Critical Android Remote Code Execution Vulnerability https://t.co/G9wFjhWTOH",
+    "tweettime": "2024-02-06, 05:17:35",
+    "tweeturl": "https://twitter.com/Dinosn/status/1754736070510452944",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/escaping-the-sandbox-cve-2024-21399-microsoft-edge-rce-vulnerability/"
     ],
     "tweetfavorites": 104,
@@ -180,7 +193,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 62,
+    "tweetretweets": 63,
     "tweettext": "RT @stephenfewer: We have published our AttackerKB @rapid7 analysis for CVE-2024-21893, an SSRF vulnerability in the SAML component of Ivan…",
     "tweettime": "2024-02-02, 23:35:31",
     "tweeturl": "https://twitter.com/wdormann/status/1753562825958567981",
