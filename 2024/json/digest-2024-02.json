@@ -1,4 +1,30 @@
 {
+    "expanded_url": [
+        "https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html"
+    ],
+    "tweetfavorites": 158,
+    "tweetquotes": 6,
+    "tweetreplies": 1,
+    "tweetretweets": 81,
+    "tweettext": "🔥 A critical #vulnerability has been found in the shim bootloader, leaving millions of #Linux systems vulnerable to attack.\n\nLearn more about CVE-2023-40547: https://t.co/fjKdsw6BGV\n\nUpdate your device immediately if it uses shim and Secure Boot.",
+    "tweettime": "2024-02-07, 13:33:25",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1755223237875700027",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "⚠️ Patch Alert → Critical #vulnerability in #JetBrains' TeamCity On-Premises (CVE-2024-23917) allows unauthenticated remote attackers to gain administrative control and take over servers.\n\nLearn more: https://t.co/k0qzQCCWwR\n\n#cybersecurity #informationsecurity",
+    "tweettime": "2024-02-07, 05:10:14",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1755096609753358352",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -21,6 +47,19 @@
     "tweettime": "2024-02-06, 07:04:07",
     "tweeturl": "https://twitter.com/HunterMapping/status/1754762881122603290",
     "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "A recently disclosed SSRF #vulnerability (CVE-2024-21893) in Ivanti Connect Secure and Policy Secure products is now under mass exploitation.\n\nLearn more: https://t.co/7s4pkWvdDx\n\nPatch now to protect your organization from system takeover.",
+    "tweettime": "2024-02-06, 07:00:12",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1754761896345862326",
+    "username": "TheHackersNews"
 }
 {
     "expanded_url": [
