@@ -42,10 +42,10 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/blog/2024/2/5/cve-2023-46263-ivanti-avalanche-arbitrary-file-upload-vulnerability"
     ],
-    "tweetfavorites": 63,
+    "tweetfavorites": 64,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 16,
+    "tweetretweets": 19,
     "tweettext": "CVE-2023-46263: The Trend Research Team takes a look at a recently patched #Ivanti Avalanche bug that allows an authenticated attacker to execute code in the context of SYSTEM. They include source code analysis and detection guidance. Check the details at https://t.co/7tnMOMSCYz",
     "tweettime": "2024-02-06, 17:11:10",
     "tweeturl": "https://twitter.com/thezdi/status/1754915649225212318",
