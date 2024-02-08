@@ -13,6 +13,20 @@
 }
 {
     "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/sdatT"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2024-20931: Vuln in Oracle WebLogic, 7.5 rating❗️\n\nSimple vulnerability allows an unauth attacker to gain access to data on the server or perform RCE. PoC is now available!\n\nSearch at https://t.co/hv7QKSqxTR:\n👉🏻 Link: https://t.co/mmbAlp7IS6\n\n#cybersecurity #vulnerability_map https://t.co/ONbFpmXYrv",
+    "tweettime": "2024-02-07, 09:00:02",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1755154439441174688",
+    "username": "Netlas_io"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html"
     ],
     "tweetfavorites": 63,
@@ -23,6 +37,19 @@
     "tweettime": "2024-02-07, 05:10:14",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1755096609753358352",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/2/5/cve-2023-46263-ivanti-avalanche-arbitrary-file-upload-vulnerability"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "CVE-2023-46263: The Trend Research Team takes a look at a recently patched #Ivanti Avalanche bug that allows an authenticated attacker to execute code in the context of SYSTEM. They include source code analysis and detection guidance. Check the details at https://t.co/7tnMOMSCYz",
+    "tweettime": "2024-02-06, 17:11:10",
+    "tweeturl": "https://twitter.com/thezdi/status/1754915649225212318",
+    "username": "thezdi"
 }
 {
     "tweetfavorites": 0,
@@ -206,10 +233,10 @@
     "expanded_url": [
         "https://www.assetnote.io/resources/research/ivantis-pulse-connect-secure-auth-bypass-round-two"
     ],
-    "tweetfavorites": 365,
+    "tweetfavorites": 364,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 88,
+    "tweetretweets": 89,
     "tweettext": "The SSRF/auth bypass affecting Ivanti Pulse Connect Secure (CVE-2024-21893), is a great example of what can be achieved with a fully blind SSRF vulnerability (RCE).\n \nRead the @assetnote blog here which includes a  reliable payload and generation steps: https://t.co/cOYpmbWHrS",
     "tweettime": "2024-02-03, 06:25:53",
     "tweeturl": "https://twitter.com/infosec_au/status/1753666094546780326",
