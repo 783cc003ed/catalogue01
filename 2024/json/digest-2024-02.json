@@ -1,11 +1,47 @@
 {
     "expanded_url": [
+        "https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 43,
+    "tweettext": "🛑 Urgent: Patch it now - Hackers are exploiting it!\n\nFortinet has unveiled a critical security flaw in its SSL VPN, CVE-2024-21762, allowing hackers to execute arbitrary code.\n\nLearn more: https://t.co/n0hVxPbOkv\n\n#cybersecurity #hacking #informationsecurity",
+    "tweettime": "2024-02-09, 05:36:40",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1755828037499699313",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "🚨 Deja Vu for #Ivanti users!\n\nAnother authentication bypass security #vulnerability (CVE-2024-22024) has been found in #Ivanti products, affecting Connect Secure, Policy Secure, and ZTA gateways.\n\nDetails: https://t.co/6xenKORskr\n\nDon't wait, patch ASAP to secure your devices!",
+    "tweettime": "2024-02-09, 03:38:53",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1755798397926121758",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "RT @TheHackersNews: ⚠️ Patch Alert → Critical #vulnerability in #JetBrains' TeamCity On-Premises (CVE-2024-23917) allows unauthenticated re…",
+    "tweettime": "2024-02-07, 22:44:53",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1755362022856822901",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html"
     ],
-    "tweetfavorites": 176,
-    "tweetquotes": 7,
-    "tweetreplies": 1,
-    "tweetretweets": 88,
+    "tweetfavorites": 234,
+    "tweetquotes": 9,
+    "tweetreplies": 2,
+    "tweetretweets": 120,
     "tweettext": "🔥 A critical #vulnerability has been found in the shim bootloader, leaving millions of #Linux systems vulnerable to attack.\n\nLearn more about CVE-2023-40547: https://t.co/fjKdsw6BGV\n\nUpdate your device immediately if it uses shim and Secure Boot.",
     "tweettime": "2024-02-07, 13:33:25",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1755223237875700027",
@@ -39,7 +75,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html"
     ],
-    "tweetfavorites": 71,
+    "tweetfavorites": 75,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 53,
@@ -360,7 +396,7 @@
     "tweetfavorites": 165,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 58,
+    "tweetretweets": 60,
     "tweettext": "CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\\IIOP protocol\nhttps://t.co/JhrEZpYniM",
     "tweettime": "2024-02-02, 15:20:32",
     "tweeturl": "https://twitter.com/momika233/status/1753438255545192474",
@@ -371,9 +407,9 @@
         "https://glassyamadeus.github.io/2024/01/31/CVE_2024_20931/"
     ],
     "tweetfavorites": 106,
-    "tweetquotes": 0,
+    "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 22,
+    "tweetretweets": 23,
     "tweettext": "CVE-2024-20931: A new attack surface for JNDI injection.\n\nref\nhttps://t.co/BvXEisMnfZ https://t.co/QbRKPCd8bE",
     "tweettime": "2024-02-02, 14:57:33",
     "tweeturl": "https://twitter.com/cyber_advising/status/1753432473051001251",
@@ -400,7 +436,7 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 49,
+    "tweetfavorites": 50,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 19,
