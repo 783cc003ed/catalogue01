@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "RT @watchtowrcyber: 🚀Ivanti Connect Secure CVE-2024-22024 \n\nwe've released our watchTowr Labs blog post, containing a little bit of comment…",
+    "tweettime": "2024-02-09, 14:03:13",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1755955514091979207",
+    "username": "cyb3rops"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html"
     ],
@@ -62,7 +72,7 @@
         "http://Netlas.io",
         "https://nt.ls/sdatT"
     ],
-    "tweetfavorites": 82,
+    "tweetfavorites": 83,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 25,
@@ -112,10 +122,10 @@
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22WebLogic%20Server%22"
     ],
-    "tweetfavorites": 107,
-    "tweetquotes": 1,
-    "tweetreplies": 0,
-    "tweetretweets": 39,
+    "tweetfavorites": 230,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 86,
     "tweettext": "🚨Alert🚨CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\\IIOP protocol \nPOC Released\n📊10.9K+ Services are found on the https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/Md98R2woCN\nDorks 👇👇👇\nHunter:/product.name=\"WebLogic Server\"\nFOFA: protocol=\"WebLogic\"\nShodan:… https://t.co/Mhv5b17kiP",
     "tweettime": "2024-02-06, 07:04:07",
     "tweeturl": "https://twitter.com/HunterMapping/status/1754762881122603290",
