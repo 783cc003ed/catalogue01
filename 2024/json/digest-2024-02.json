@@ -12,6 +12,16 @@
     "username": "TheHackersNews"
 }
 {
+    "tweetfavorites": 311,
+    "tweetquotes": 0,
+    "tweetreplies": 17,
+    "tweetretweets": 24,
+    "tweettext": "Got my first CVE-2424-21887 - Ivanti code-injection report triaged, got 4 duplicates so far. #BugBounty https://t.co/OlKj8UfM1y",
+    "tweettime": "2024-02-07, 12:57:41",
+    "tweeturl": "https://twitter.com/nav1n0x/status/1755214246084780315",
+    "username": "nav1n0x"
+}
+{
     "expanded_url": [
         "http://Netlas.io",
         "https://nt.ls/sdatT"
