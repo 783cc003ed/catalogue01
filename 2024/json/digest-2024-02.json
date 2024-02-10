@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 81,
+    "tweettext": "RT @Mandiant: Mandiant and VMware Product Security found that UNC3886 has been exploiting CVE-2023-20867 since 2021.\n\nMandiant recommends V…",
+    "tweettime": "2024-02-10, 02:34:13",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1756144512202662312",
+    "username": "hackerfantastic"
+}
+{
     "expanded_url": [
         "https://securityonline.info/no-click-required-poc-available-for-clamav-command-injection-bug-cve-2024-20328/"
     ],
