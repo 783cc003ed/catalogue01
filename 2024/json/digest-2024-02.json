@@ -9,6 +9,26 @@
     "username": "hackerfantastic"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 55,
+    "tweettext": "RT @watchtowrcyber: 🚀Ivanti Connect Secure CVE-2024-22024 \n\nwe've released our watchTowr Labs blog post, containing a little bit of comment…",
+    "tweettime": "2024-02-09, 20:13:17",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1756048645885948028",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "RT @GossiTheDog: Regarding the latest Ivanti Pulse Secure vulnerability disclosure - they claimed they found CVE-2024-22024 internally and…",
+    "tweettime": "2024-02-09, 20:10:45",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1756048009043861595",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "expanded_url": [
         "https://securityonline.info/no-click-required-poc-available-for-clamav-command-injection-bug-cve-2024-20328/"
     ],
@@ -25,7 +45,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 46,
+    "tweetretweets": 55,
     "tweettext": "RT @watchtowrcyber: 🚀Ivanti Connect Secure CVE-2024-22024 \n\nwe've released our watchTowr Labs blog post, containing a little bit of comment…",
     "tweettime": "2024-02-09, 14:03:13",
     "tweeturl": "https://twitter.com/cyb3rops/status/1755955514091979207",
