@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://securityonline.info/no-click-required-poc-available-for-clamav-command-injection-bug-cve-2024-20328/"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "No Click Required: PoC Available for ClamAV Command Injection Bug (CVE-2024-20328) https://t.co/V5N7qBCCmK",
+    "tweettime": "2024-02-09, 16:15:40",
+    "tweeturl": "https://twitter.com/Dinosn/status/1755988845642833929",
+    "username": "Dinosn"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -210,7 +223,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 89,
+    "tweetretweets": 90,
     "tweettext": "RT @infosec_au: The SSRF/auth bypass affecting Ivanti Pulse Connect Secure (CVE-2024-21893), is a great example of what can be achieved wit…",
     "tweettime": "2024-02-03, 15:50:59",
     "tweeturl": "https://twitter.com/kmkz_security/status/1753808306668195911",
