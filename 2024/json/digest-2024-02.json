@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 53,
+    "tweettext": "⚠️ Attention FCEB agencies: CISA confirms active exploitation of CVE-2024-21762, the latest critical security flaw in FortiOS SSL VPN.\n\nLearn more: https://t.co/n0hVxPbOkv\n\nApply fixes by February 16, 2024, to mitigate threats and secure networks.",
+    "tweettime": "2024-02-10, 06:58:45",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1756211082404692004",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -68,10 +81,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html"
     ],
-    "tweetfavorites": 61,
-    "tweetquotes": 2,
+    "tweetfavorites": 241,
+    "tweetquotes": 12,
     "tweetreplies": 1,
-    "tweetretweets": 43,
+    "tweetretweets": 156,
     "tweettext": "🛑 Urgent: Patch it now - Hackers are exploiting it!\n\nFortinet has unveiled a critical security flaw in its SSL VPN, CVE-2024-21762, allowing hackers to execute arbitrary code.\n\nLearn more: https://t.co/n0hVxPbOkv\n\n#cybersecurity #hacking #informationsecurity",
     "tweettime": "2024-02-09, 05:36:40",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1755828037499699313",
@@ -81,10 +94,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html"
     ],
-    "tweetfavorites": 41,
-    "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 39,
+    "tweetfavorites": 126,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 95,
     "tweettext": "🚨 Deja Vu for #Ivanti users!\n\nAnother authentication bypass security #vulnerability (CVE-2024-22024) has been found in #Ivanti products, affecting Connect Secure, Policy Secure, and ZTA gateways.\n\nDetails: https://t.co/6xenKORskr\n\nDon't wait, patch ASAP to secure your devices!",
     "tweettime": "2024-02-09, 03:38:53",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1755798397926121758",
