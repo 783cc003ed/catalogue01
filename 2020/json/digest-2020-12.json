@@ -302,10 +302,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-17140"
     ],
-    "tweetfavorites": 447,
+    "tweetfavorites": 446,
     "tweetquotes": 9,
     "tweetreplies": 17,
-    "tweetretweets": 121,
+    "tweetretweets": 120,
     "tweettext": "Microsoft patched my first use after free vulnerability in SMBv3 this patch tuesday, assigned CVE-2020-17140(https://t.co/UVm0ChehTT), it may affect over Win7 to Win10, I take a video to show my PoC works on the Windows 10 20H2 before patch :P https://t.co/v9Lg2U5APA",
     "tweettime": "2020-12-09, 02:53:04",
     "tweeturl": "https://twitter.com/KeyZ3r0/status/1336504104001052674",

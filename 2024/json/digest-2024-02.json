@@ -10,6 +10,19 @@
 }
 {
     "expanded_url": [
+        "https://labs.watchtowr.com/are-we-now-part-of-ivanti/"
+    ],
+    "tweetfavorites": 144,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 56,
+    "tweettext": "Regarding the latest Ivanti Pulse Secure vulnerability disclosure - they claimed they found CVE-2024-22024 internally and it's not under active exploitation.  Both are false.\n\n@watchtowrcyber reported it, and it's under active exploitation. https://t.co/nLVHeozzat https://t.co/Z97lqaiag2",
+    "tweettime": "2024-02-09, 13:40:20",
+    "tweeturl": "https://twitter.com/GossiTheDog/status/1755949758160523570",
+    "username": "GossiTheDog"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html"
     ],
     "tweetfavorites": 61,
@@ -98,7 +111,7 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/blog/2024/2/5/cve-2023-46263-ivanti-avalanche-arbitrary-file-upload-vulnerability"
     ],
-    "tweetfavorites": 64,
+    "tweetfavorites": 65,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 19,
@@ -426,7 +439,7 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 125,
+    "tweetfavorites": 126,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 29,
