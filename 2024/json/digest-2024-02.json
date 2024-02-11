@@ -43,6 +43,19 @@
 }
 {
     "expanded_url": [
+        "http://cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios-and-forticlientems-0"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 29,
+    "tweettext": "🚩#Fortinet security updates address vulnerabilities in #FortiOS &amp; #FortiClientEMS, including 1 critical #RCE vulnerability (#CVE-2024-21762) being exploited in the wild. @CISAgov encourages users &amp; admin to apply updates. More 👉 https://t.co/cf9s0WnJ6N #Cybersecurity #InfoSec",
+    "tweettime": "2024-02-09, 18:50:12",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1756027736353562925",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/no-click-required-poc-available-for-clamav-command-injection-bug-cve-2024-20328/"
     ],
     "tweetfavorites": 80,
@@ -89,6 +102,19 @@
     "tweettime": "2024-02-09, 05:36:40",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1755828037499699313",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/critical-vulnerability-fortios"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 1,
+    "tweetreplies": 7,
+    "tweetretweets": 31,
+    "tweettext": "❗ ALERT ❗ There is a critical vulnerability in Fortinet FortiOS devices (CVE-2024-21762), allowing Unauthenticated RCE via a specifically crafted HTTP request.\n\nOrganisations and government entities should patch affected devices and disable SSL VPN. 👉https://t.co/0QqE6irngS https://t.co/hpfjw9t5hD",
+    "tweettime": "2024-02-09, 05:03:56",
+    "tweeturl": "https://twitter.com/CyberGovAU/status/1755819801761419528",
+    "username": "CyberGovAU"
 }
 {
     "expanded_url": [
