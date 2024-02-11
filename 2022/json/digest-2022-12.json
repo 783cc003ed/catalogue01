@@ -52,10 +52,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 210,
+    "tweetfavorites": 213,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 23,
+    "tweetretweets": 24,
     "tweettext": "Merry Christmas to me! 🎅🎄 I finally developed a working RCE exploit for CVE-2018-17463! 🥳 I'll be sharing details on how this was achieved in the 3rd and final part of my browser exploitation series on Chrome. Keep an eye out for the update! https://t.co/3zuulNher4",
     "tweettime": "2022-12-25, 00:13:34",
     "tweeturl": "https://twitter.com/jack_halon/status/1606805314132639744",
