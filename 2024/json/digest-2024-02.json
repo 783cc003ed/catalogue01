@@ -91,6 +91,16 @@
     "username": "GossiTheDog"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "RT @watchtowrcyber: 🚀Ivanti Connect Secure CVE-2024-22024 \n\nwe've released our watchTowr Labs blog post, containing a little bit of comment…",
+    "tweettime": "2024-02-09, 10:29:10",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1755901649103859929",
+    "username": "piedpiper1616"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html"
     ],
