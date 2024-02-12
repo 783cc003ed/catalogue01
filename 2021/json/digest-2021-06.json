@@ -51,7 +51,7 @@
     "tweetfavorites": 941,
     "tweetquotes": 37,
     "tweetreplies": 23,
-    "tweetretweets": 430,
+    "tweetretweets": 431,
     "tweettext": "Fully patched Windows 2019 domain controller, popped with 0day exploit (CVE-2021-1675) from a regular Domain User's account giving full SYSTEM privileges. Disable \"Print Spooler\" service on servers that do not require it. https://t.co/6SUVQYy5Tl",
     "tweettime": "2021-06-30, 04:58:27",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1410100394492112898",

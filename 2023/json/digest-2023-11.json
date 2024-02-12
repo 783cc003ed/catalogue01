@@ -97,10 +97,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 187,
+    "tweetfavorites": 188,
     "tweetquotes": 10,
     "tweetreplies": 19,
-    "tweetretweets": 83,
+    "tweetretweets": 82,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2023-6345\n\nUpdate your chrome browsers now! Google is aware that this zero-day is being exploited in the wild. https://t.co/3X8VAqExcR",
     "tweettime": "2023-11-28, 22:43:58",
     "tweeturl": "https://twitter.com/wallet_guard/status/1729632251623698759",
@@ -728,8 +728,8 @@
     "expanded_url": [
         "https://github.com/chromium/chromium/commit/4997f2ba263ff7e1dbc7987dd3665459be14dffe"
     ],
-    "tweetfavorites": 74,
-    "tweetquotes": 0,
+    "tweetfavorites": 76,
+    "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 15,
     "tweettext": "\"Tianfu Cup 2023\" Chrome use-after-free vulnerability in WebAudio (CVE-2023-5996 [1497859]) is fixed by ignoring channel count update after the context is closed:\nhttps://t.co/9wZdcSA3FB",
