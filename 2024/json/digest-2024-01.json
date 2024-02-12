@@ -2234,10 +2234,10 @@
     "expanded_url": [
         "https://securityonline.info/cve-2023-32434-exploited-poc-unlocks-full-command-of-ios-devices/"
     ],
-    "tweetfavorites": 94,
+    "tweetfavorites": 96,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 40,
+    "tweetretweets": 42,
     "tweettext": "CVE-2023-32434 Exploited: PoC Unlocks Full Command of iOS Devices\nProof-of-concept (PoC) code has been released for a zero-day iOS vulnerability (CVE-2023-32434) that can be chained to take full control of a mobile device\nhttps://t.co/zNPOWz17tE https://t.co/GkynlvAo78",
     "tweettime": "2024-01-02, 15:01:20",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1742199402851106870",
