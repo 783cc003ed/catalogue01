@@ -4,6 +4,16 @@
     "tweetreplies": 0,
     "tweetretweets": 40,
     "tweettext": "RT @bjrjk: Full chain analysis for CVE-2022-4262 to commemorate my time spent on this non-trivial type confusion! Shoutout to @mistymntncop…",
+    "tweettime": "2024-02-11, 08:32:52",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1756597155689619699",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "RT @bjrjk: Full chain analysis for CVE-2022-4262 to commemorate my time spent on this non-trivial type confusion! Shoutout to @mistymntncop…",
     "tweettime": "2024-02-11, 07:17:16",
     "tweeturl": "https://twitter.com/Dinosn/status/1756578130637029724",
     "username": "Dinosn"
@@ -20,6 +30,19 @@
     "tweettime": "2024-02-10, 06:58:45",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1756211082404692004",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-24806-critical-ssrf-flaw-found-in-libuv-a-multi-platform-c-library/"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "CVE-2024-24806: Critical SSRF Flaw Found in libuv – a Multi-Platform C Library https://t.co/EQL5scHyTw",
+    "tweettime": "2024-02-10, 06:49:37",
+    "tweeturl": "https://twitter.com/Dinosn/status/1756208784114958399",
+    "username": "Dinosn"
 }
 {
     "tweetfavorites": 0,
@@ -378,10 +401,10 @@
     "username": "DhiyaneshDK"
 }
 {
-    "tweetfavorites": 225,
+    "tweetfavorites": 231,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 49,
+    "tweetretweets": 51,
     "tweettext": "💀 SSRF leading to RCE in Ivanti Connect Secure. (CVE-2024-21893)\n\nDork for Shodan:\n http.favicon.hash:-1439222863 html:\"welcome.cgi?p=logo\"\n\n#web #cve #ssrf #rce #dork #bug https://t.co/rYEjcH9AFA",
     "tweettime": "2024-02-03, 08:52:41",
     "tweeturl": "https://twitter.com/TodayCyberNews/status/1753703040597770241",
@@ -424,10 +447,10 @@
     "expanded_url": [
         "https://www.assetnote.io/resources/research/ivantis-pulse-connect-secure-auth-bypass-round-two"
     ],
-    "tweetfavorites": 364,
+    "tweetfavorites": 367,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 89,
+    "tweetretweets": 90,
     "tweettext": "The SSRF/auth bypass affecting Ivanti Pulse Connect Secure (CVE-2024-21893), is a great example of what can be achieved with a fully blind SSRF vulnerability (RCE).\n \nRead the @assetnote blog here which includes a  reliable payload and generation steps: https://t.co/cOYpmbWHrS",
     "tweettime": "2024-02-03, 06:25:53",
     "tweeturl": "https://twitter.com/infosec_au/status/1753666094546780326",
