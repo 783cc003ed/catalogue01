@@ -58,6 +58,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "RT @DhiyaneshDK: Scan for Ivanti Connect Secure - XXE\n(CVE-2024-22024) using nuclei templates. 🚨 @pdnuclei\n\nVulnerability Analysis  : https…",
+    "tweettime": "2024-02-09, 22:03:54",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1756076481602806042",
+    "username": "pdnuclei"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 88,
     "tweettext": "RT @GossiTheDog: Regarding the latest Ivanti Pulse Secure vulnerability disclosure - they claimed they found CVE-2024-22024 internally and…",
     "tweettime": "2024-02-09, 20:17:16",
