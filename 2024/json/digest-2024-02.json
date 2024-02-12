@@ -2,7 +2,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 40,
+    "tweetretweets": 42,
     "tweettext": "RT @bjrjk: Full chain analysis for CVE-2022-4262 to commemorate my time spent on this non-trivial type confusion! Shoutout to @mistymntncop…",
     "tweettime": "2024-02-11, 08:32:52",
     "tweeturl": "https://twitter.com/kmkz_security/status/1756597155689619699",
@@ -142,6 +142,16 @@
     "tweettime": "2024-02-09, 13:40:20",
     "tweeturl": "https://twitter.com/GossiTheDog/status/1755949758160523570",
     "username": "GossiTheDog"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "RT @watchtowrcyber: 🚀Ivanti Connect Secure CVE-2024-22024 \n\nwe've released our watchTowr Labs blog post, containing a little bit of comment…",
+    "tweettime": "2024-02-09, 12:25:18",
+    "tweeturl": "https://twitter.com/wdormann/status/1755930874086867113",
+    "username": "wdormann"
 }
 {
     "tweetfavorites": 0,
@@ -473,7 +483,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 63,
+    "tweetretweets": 62,
     "tweettext": "RT @stephenfewer: We have published our AttackerKB @rapid7 analysis for CVE-2024-21893, an SSRF vulnerability in the SAML component of Ivan…",
     "tweettime": "2024-02-02, 23:35:31",
     "tweeturl": "https://twitter.com/wdormann/status/1753562825958567981",
