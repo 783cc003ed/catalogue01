@@ -1,5 +1,28 @@
 {
     "expanded_url": [
+        "https://youtube.com/johnhammond010"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 0,
+    "tweetreplies": 4,
+    "tweetretweets": 8,
+    "tweettext": "Showcasing CVE-2023-43208: the NextGen Mirth Connect Pre-Authentication Remote Code Execution exploit! Stepping through Horizon3's writeup, converting their PoC to run against a Windows target, and writing a very simple Sigma rule to detect exploitation! https://t.co/iiIN52HB9y https://t.co/oXllUPQSyY",
+    "tweettime": "2024-02-13, 14:04:11",
+    "tweeturl": "https://twitter.com/_JohnHammond/status/1757405309532881379",
+    "username": "_JohnHammond"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "RT @hosselot: \"Tianfu Cup 2023\" Chrome use-after-free vulnerability in WebAudio bug entry (CVE-2023-5996 [1497859]) is now open with a PoC:…",
+    "tweettime": "2024-02-12, 21:15:58",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1757151585417806261",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
         "https://issues.chromium.org/issues/40075943"
     ],
     "tweetfavorites": 98,
@@ -28,7 +51,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 42,
+    "tweetretweets": 47,
     "tweettext": "RT @bjrjk: Full chain analysis for CVE-2022-4262 to commemorate my time spent on this non-trivial type confusion! Shoutout to @mistymntncop…",
     "tweettime": "2024-02-11, 08:32:52",
     "tweeturl": "https://twitter.com/kmkz_security/status/1756597155689619699",
@@ -117,7 +140,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 88,
+    "tweetretweets": 90,
     "tweettext": "RT @GossiTheDog: Regarding the latest Ivanti Pulse Secure vulnerability disclosure - they claimed they found CVE-2024-22024 internally and…",
     "tweettime": "2024-02-09, 20:17:16",
     "tweeturl": "https://twitter.com/steventseeley/status/1756049646269641022",
