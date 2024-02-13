@@ -406,10 +406,10 @@
     "expanded_url": [
         "https://msft.it/6019ZENIW"
     ],
-    "tweetfavorites": 826,
+    "tweetfavorites": 824,
     "tweetquotes": 29,
     "tweetreplies": 9,
-    "tweetretweets": 458,
+    "tweetretweets": 457,
     "tweettext": "Microsoft is tracking threats taking advantage of the CVE-2021-44228 remote code execution (RCE) vulnerability in Apache Log4j 2 (\"Log4Shell\"). Get technical info and guidance for preventing, detecting, and hunting for related attacks: https://t.co/vOB7R1LXlj",
     "tweettime": "2021-12-12, 05:38:05",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1469904367281229824",
