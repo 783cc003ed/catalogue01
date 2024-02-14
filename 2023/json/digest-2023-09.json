@@ -58,6 +58,19 @@
     "username": "thecybertix"
 }
 {
+    "expanded_url": [
+        "https://thehackernews.com/2023/09/update-chrome-now-google-releases-patch.html"
+    ],
+    "tweetfavorites": 343,
+    "tweetquotes": 14,
+    "tweetreplies": 6,
+    "tweetretweets": 238,
+    "tweettext": "🚨 Urgent Update: #Google has released a Chrome update to patch a new high-severity zero-day #vulnerability (CVE-2023-5217) that is being exploited in the wild.\n\nRead: https://t.co/LJNdD2BJHi\n\n#infosec #cybersecurity #informationsecurity",
+    "tweettime": "2023-09-28, 03:14:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1707232255364448394",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 222,
     "tweetquotes": 9,
     "tweetreplies": 9,
@@ -261,10 +274,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/09/google-rushes-to-patch-critical-chrome.html"
     ],
-    "tweetfavorites": 476,
+    "tweetfavorites": 473,
     "tweetquotes": 13,
     "tweetreplies": 10,
-    "tweetretweets": 299,
+    "tweetretweets": 298,
     "tweettext": "Urgent: Google releases patch for a new Chrome zero-day #vulnerability (CVE-2023-4863) that's being exploited in the wild.\n\nRead: https://t.co/41SANY0lKi\n\nDon't wait—update your browser now to protect against potential cyber threats.\n\n#cybersecurity #informationsecurity",
     "tweettime": "2023-09-12, 05:17:51",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1701465123095785662",

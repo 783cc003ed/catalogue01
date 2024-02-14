@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://pastebin.com/E1WxLsEv"
+    ],
+    "tweetfavorites": 166,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "Juniper RCE CVE-2023-36845 PoC  #BugBounty \n\nhttps://t.co/FNl1AnZmmS",
+    "tweettime": "2024-02-13, 20:21:13",
+    "tweeturl": "https://twitter.com/nav1n0x/status/1757500195032465835",
+    "username": "nav1n0x"
+}
+{
+    "expanded_url": [
         "https://bit.ly/3P5rhkb",
         "https://bit.ly/3HYNqfR"
     ],
@@ -73,6 +86,19 @@
     "tweettime": "2024-02-12, 03:53:33",
     "tweeturl": "https://twitter.com/Dinosn/status/1756889250245607833",
     "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.youtube.com/watch?v=toPJhfy-wvw"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 10,
+    "tweettext": "Played with the new File Read / RCE vulnerability in Jenkins (CVE-2024-23897). Go over the advisory, comparing using the CLI to a Python POC, figuring out which commands read the most data, and a really weird Bash behavior that I can't explain.\n\nhttps://t.co/pio3YRm9gP",
+    "tweettime": "2024-02-11, 11:40:31",
+    "tweeturl": "https://twitter.com/0xdf_/status/1756644379656118319",
+    "username": "0xdf_"
 }
 {
     "tweetfavorites": 0,
@@ -243,10 +269,10 @@
     "expanded_url": [
         "https://labs.watchtowr.com/are-we-now-part-of-ivanti/"
     ],
-    "tweetfavorites": 220,
+    "tweetfavorites": 223,
     "tweetquotes": 2,
     "tweetreplies": 6,
-    "tweetretweets": 88,
+    "tweetretweets": 90,
     "tweettext": "Regarding the latest Ivanti Pulse Secure vulnerability disclosure - they claimed they found CVE-2024-22024 internally and it's not under active exploitation.  Both are false.\n\n@watchtowrcyber reported it, and it's under active exploitation. https://t.co/nLVHeozzat https://t.co/Z97lqaiag2",
     "tweettime": "2024-02-09, 13:40:20",
     "tweeturl": "https://twitter.com/GossiTheDog/status/1755949758160523570",
@@ -359,7 +385,7 @@
         "http://Netlas.io",
         "https://nt.ls/sdatT"
     ],
-    "tweetfavorites": 83,
+    "tweetfavorites": 84,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 25,
@@ -409,7 +435,7 @@
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22WebLogic%20Server%22"
     ],
-    "tweetfavorites": 232,
+    "tweetfavorites": 233,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 86,
