@@ -1,11 +1,38 @@
 {
     "expanded_url": [
+        "https://bit.ly/3P5rhkb",
+        "https://bit.ly/3HYNqfR"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-21412 is an active zero-day vulnerability that was disclosed by Trend Micro's @thezdi to Microsoft &amp; published today. Trend customers are protected; organizations should take immediate action. Video below &amp; more info: https://t.co/yyQ7uRoDDL https://t.co/RBNKbLUSwU",
+    "tweettime": "2024-02-13, 19:23:14",
+    "tweeturl": "https://twitter.com/TrendMicro/status/1757485603195654385",
+    "username": "TrendMicro"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2023-50358-a-zero-day-vulnerability-affecting-qnap-nas-devices/"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "CVE-2023-50358: A zero-day vulnerability affecting QNAP NAS devices https://t.co/5Hidm3fgAf",
+    "tweettime": "2024-02-13, 15:11:40",
+    "tweeturl": "https://twitter.com/Dinosn/status/1757422290663362789",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://youtube.com/johnhammond010"
     ],
-    "tweetfavorites": 69,
+    "tweetfavorites": 90,
     "tweetquotes": 0,
     "tweetreplies": 4,
-    "tweetretweets": 10,
+    "tweetretweets": 11,
     "tweettext": "Showcasing CVE-2023-43208: the NextGen Mirth Connect Pre-Authentication Remote Code Execution exploit! Stepping through Horizon3's writeup, converting their PoC to run against a Windows target, and writing a very simple Sigma rule to detect exploitation! https://t.co/iiIN52HB9y https://t.co/oXllUPQSyY",
     "tweettime": "2024-02-13, 14:04:11",
     "tweeturl": "https://twitter.com/_JohnHammond/status/1757405309532881379",
