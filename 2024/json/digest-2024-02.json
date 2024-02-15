@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://www.zoom.com/en/trust/security-bulletin/ZSB-24008/"
+    ],
+    "tweetfavorites": 349,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 111,
+    "tweettext": "Doesn’t sound very good 😐 #zoom CVE-2024-24691\nhttps://t.co/6hv1j03brw https://t.co/VxsoU4gnTw",
+    "tweettime": "2024-02-15, 08:46:46",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1758050204631130393",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2024/02/critical-exchange-server-flaw-cve-2024.html"
     ],
     "tweetfavorites": 115,
@@ -49,6 +62,16 @@
     "tweettime": "2024-02-14, 20:24:59",
     "tweeturl": "https://twitter.com/ryanaraine/status/1757863527677886769",
     "username": "ryanaraine"
+}
+{
+    "tweetfavorites": 103,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2024-21412: Internet Shortcut Files Security Feature Bypass Vulnerability\nAn unauthenticated attacker could send the targeted user a specially crafted file that is designed to bypass displayed security checks. https://t.co/yvWq5rcGzW",
+    "tweettime": "2024-02-14, 18:45:45",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1757838555869487603",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [
@@ -331,7 +354,7 @@
     "expanded_url": [
         "https://labs.watchtowr.com/are-we-now-part-of-ivanti/"
     ],
-    "tweetfavorites": 223,
+    "tweetfavorites": 224,
     "tweetquotes": 2,
     "tweetreplies": 6,
     "tweetretweets": 90,
@@ -344,7 +367,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 57,
+    "tweetretweets": 56,
     "tweettext": "RT @watchtowrcyber: 🚀Ivanti Connect Secure CVE-2024-22024 \n\nwe've released our watchTowr Labs blog post, containing a little bit of comment…",
     "tweettime": "2024-02-09, 12:25:18",
     "tweeturl": "https://twitter.com/wdormann/status/1755930874086867113",

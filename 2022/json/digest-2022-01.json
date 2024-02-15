@@ -355,6 +355,19 @@
 }
 {
     "expanded_url": [
+        "https://attackerkb.com/topics/9szJhq46lw/cve-2021-20039/rapid7-analysis?referrer=twitter"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 18,
+    "tweettext": "Today, @rapid7 disclosed five zero-day vulnerabilities in SonicWall SMA 100 series devices. Technical analysis for CVE-2021-20038 (unauth stack-based buffer overflow) and CVE-2021-20039 (auth command injection) now in AttackerKB via @Junior_Baines. https://t.co/fEtmHEW94z",
+    "tweettime": "2022-01-11, 14:04:08",
+    "tweeturl": "https://twitter.com/AttackerKb/status/1480903355996250112",
+    "username": "AttackerKb"
+}
+{
+    "expanded_url": [
         "https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/"
     ],
     "tweetfavorites": 681,

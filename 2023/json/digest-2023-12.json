@@ -254,10 +254,10 @@
     "expanded_url": [
         "https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html"
     ],
-    "tweetfavorites": 329,
+    "tweetfavorites": 328,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 133,
+    "tweetretweets": 132,
     "tweettext": "CVE-2023-51385: OpenSSH before 9.6, OS command injection might occur if a user name or host name has shell metacharacters, ...\nhttps://t.co/yeBGsdMD0X https://t.co/SCrciIStz5",
     "tweettime": "2023-12-24, 01:23:51",
     "tweeturl": "https://twitter.com/cyber_advising/status/1738732185371259158",
@@ -854,7 +854,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2023-36004"
     ],
-    "tweetfavorites": 264,
+    "tweetfavorites": 265,
     "tweetquotes": 4,
     "tweetreplies": 20,
     "tweetretweets": 35,

@@ -285,10 +285,10 @@
     "expanded_url": [
         "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation"
     ],
-    "tweetfavorites": 115,
+    "tweetfavorites": 114,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 40,
+    "tweetretweets": 39,
     "tweettext": "CVE-2023-4357: Insufficient validation of untrusted input in XML in Google Chrome prior to 116.0.5845.96 allowed a remote attacker to bypass file access restrictions via a crafted HTML page. (Chromium security severity: Medium)\n\nPoC\nhttps://t.co/m7cUPxK8rd https://t.co/D3CC7fBf5M",
     "tweettime": "2023-11-20, 16:28:57",
     "tweeturl": "https://twitter.com/cyber_advising/status/1726638772165722507",
@@ -363,10 +363,10 @@
     "expanded_url": [
         "https://blog.hrncirik.net/cve-2023-46214-analysis"
     ],
-    "tweetfavorites": 36,
+    "tweetfavorites": 35,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 17,
+    "tweetretweets": 16,
     "tweettext": "CVE-2023-46214: In Splunk Enterprise versions below 9.0.7 and 9.1.2, Splunk Enterprise does not safely sanitize extensible stylesheet language transformations (XSLT) .. ... remote code execution on the Splunk \n\nhttps://t.co/I4gIrBUvMG https://t.co/sh4pC1RUB5",
     "tweettime": "2023-11-19, 23:55:33",
     "tweeturl": "https://twitter.com/cyber_advising/status/1726388775981404438",
@@ -866,7 +866,7 @@
     "expanded_url": [
         "https://blog.securelayer7.net/analysis-of-cve-2023-38831-zero-day-vulnerability-in-winrar/"
     ],
-    "tweetfavorites": 75,
+    "tweetfavorites": 77,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 23,
