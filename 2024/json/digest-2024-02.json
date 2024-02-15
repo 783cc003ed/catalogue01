@@ -52,6 +52,19 @@
 }
 {
     "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/new-critical-microsoft-outlook-rce-bug-is-trivial-to-exploit/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "Outlookの新規任意コード実行脆弱性\"Moniker Link\" (CVE-2024-21413)は攻撃に使用するのが容易。Check Point社報告。file://プロトコルで始まり、!に続く任意の文字列で終わる、攻撃者のサーバへの悪意あるリンクがOutlookのセキュリティ制限を迂回できるもの。 https://t.co/3VeBeUu2eR",
+    "tweettime": "2024-02-14, 23:22:28",
+    "tweeturl": "https://twitter.com/__kokumoto/status/1757908196193443995",
+    "username": "__kokumoto"
+}
+{
+    "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21413"
     ],
     "tweetfavorites": 45,
@@ -456,10 +469,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 325,
+    "tweetfavorites": 328,
     "tweetquotes": 0,
-    "tweetreplies": 16,
-    "tweetretweets": 24,
+    "tweetreplies": 17,
+    "tweetretweets": 25,
     "tweettext": "Got my first CVE-2424-21887 - Ivanti code-injection report triaged, got 4 duplicates so far. #BugBounty https://t.co/OlKj8UfM1y",
     "tweettime": "2024-02-07, 12:57:41",
     "tweeturl": "https://twitter.com/nav1n0x/status/1755214246084780315",
