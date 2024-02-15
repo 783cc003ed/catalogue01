@@ -220,10 +220,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
     ],
-    "tweetfavorites": 247,
+    "tweetfavorites": 246,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 66,
+    "tweetretweets": 65,
     "tweettext": "Linux kernel exploitation writeup by @ExodusIntel\nCVE-2022-32250 : use-after-free targeting Linux kernel 5.18.1 \n\nhttps://t.co/W6U8j5bZtq\n\n#Linux #kernel #exploit #cve #infosec #cybersecurity https://t.co/b1osYO4V6O",
     "tweettime": "2023-10-24, 16:30:15",
     "tweeturl": "https://twitter.com/0xor0ne/status/1716854626899702179",
@@ -552,10 +552,10 @@
     "expanded_url": [
         "https://shorturl.at/qQVX4"
     ],
-    "tweetfavorites": 637,
+    "tweetfavorites": 633,
     "tweetquotes": 10,
     "tweetreplies": 13,
-    "tweetretweets": 259,
+    "tweetretweets": 258,
     "tweettext": "🚨 Hundreds of Citrix VPN instances exploited via CVE-2023-3519 are harvesting corporate credentials in cleartext.\n\nAt this time, Shodan shows 406 compromised instances with malicious JavaScript code injected into the login page: https://t.co/AiG1RAOTAP (URL shortener because… https://t.co/EjfpsleMPe",
     "tweettime": "2023-10-10, 10:15:19",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1711686844490936568",

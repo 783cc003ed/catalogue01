@@ -2,9 +2,9 @@
     "expanded_url": [
         "https://shells.systems/centreon-v19-04-remote-code-execution-cve-2019-13024/"
     ],
-    "tweetfavorites": 294,
+    "tweetfavorites": 292,
     "tweetquotes": 2,
-    "tweetreplies": 9,
+    "tweetreplies": 8,
     "tweetretweets": 111,
     "tweettext": "Just wrote an article about how I found another Remote Command Execution 0day (CVE-2019-13024), this time in Centreon Infrastructure monitoring software.\n\nI performed a static code analysis in order to find the bug and then wrote the exploit using python.\n\nhttps://t.co/ElYKvEZ43I",
     "tweettime": "2019-06-30, 15:40:48",
@@ -176,7 +176,7 @@
     "username": "pozdnychev"
 }
 {
-    "tweetfavorites": 1038,
+    "tweetfavorites": 1039,
     "tweetquotes": 17,
     "tweetreplies": 15,
     "tweetretweets": 365,

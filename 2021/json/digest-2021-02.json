@@ -553,10 +553,10 @@
     "username": "mubix"
 }
 {
-    "tweetfavorites": 962,
+    "tweetfavorites": 963,
     "tweetquotes": 5,
     "tweetreplies": 19,
-    "tweetretweets": 221,
+    "tweetretweets": 222,
     "tweettext": "learned a ton about userland heap exploitation in Windows + DNS protocol writing an RCE exploit for #SigRed CVE-2020-1350. detailed technical writeup + PoC coming soon (sans rickroll 😇) https://t.co/BetRkRiUfj",
     "tweettime": "2021-02-05, 18:08:44",
     "tweeturl": "https://twitter.com/chompie1337/status/1357753038451183620",

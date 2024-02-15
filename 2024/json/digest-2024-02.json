@@ -1,5 +1,57 @@
 {
     "expanded_url": [
+        "https://thehackernews.com/2024/02/critical-exchange-server-flaw-cve-2024.html"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 74,
+    "tweettext": "⚠️ Attention, Sysadmins! A newly discovered critical #vulnerability (CVE-2024-21410) in #Microsoft Exchange Server is currently being actively exploited.\n\nDetails here → https://t.co/5M0IxD6eTX\n\nAttackers can hijack user accounts &amp; gain admin-level control. Update ASAP!",
+    "tweettime": "2024-02-15, 05:20:29",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1757998290308633051",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-21410-cvss-9-8-microsoft-exchange-server-flaw-is-actively-exploited/"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-21410 (CVSS 9.8): Microsoft Exchange Server Flaw is Actively Exploited https://t.co/MkXU9AX0QJ",
+    "tweettime": "2024-02-15, 04:47:58",
+    "tweeturl": "https://twitter.com/Dinosn/status/1757990110656704968",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/nginx-releases-urgent-patch-for-http-3-vulnerabilities-cve-2024-24989-cve-2024-24990/"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
+    "tweettext": "NGINX Releases Urgent Patch for HTTP/3 Vulnerabilities (CVE-2024-24989, CVE-2024-24990) https://t.co/Xs3cVZmrAU",
+    "tweettime": "2024-02-15, 04:47:48",
+    "tweeturl": "https://twitter.com/Dinosn/status/1757990065819513342",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21413"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "From Patch Tuesday to Exploit Wednesday 😱\n\nMicrosoft is now marking CVE-2024-21413  as exploited 0day (MS Office remote code execution -- CVSS 9.8)\n\nhttps://t.co/qx8jiK5MNK https://t.co/7HmsbuHJwj",
+    "tweettime": "2024-02-14, 20:24:59",
+    "tweeturl": "https://twitter.com/ryanaraine/status/1757863527677886769",
+    "username": "ryanaraine"
+}
+{
+    "expanded_url": [
         "https://pastebin.com/E1WxLsEv"
     ],
     "tweetfavorites": 166,
@@ -42,7 +94,7 @@
     "expanded_url": [
         "https://youtube.com/johnhammond010"
     ],
-    "tweetfavorites": 90,
+    "tweetfavorites": 94,
     "tweetquotes": 0,
     "tweetreplies": 4,
     "tweetretweets": 11,

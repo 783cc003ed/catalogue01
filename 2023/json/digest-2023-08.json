@@ -227,10 +227,10 @@
     "expanded_url": [
         "https://starlabs.sg/blog/2023/06-breaking-the-code-exploiting-and-examining-cve-2023-1829-in-cls_tcindex-classifier-vulnerability/"
     ],
-    "tweetfavorites": 154,
+    "tweetfavorites": 152,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 49,
+    "tweetretweets": 48,
     "tweettext": "Excellent analysis and exploitation of a use-after-free vulnerability in Traffic Control cls_tcindex (CVE-2023-1829).\nCredits @lanleft_ (@starlabs_sg)\n\nhttps://t.co/tb91t583gl\n\n#cybersecurity #exploit #Linux https://t.co/HGA5PTOfS2",
     "tweettime": "2023-08-05, 18:30:05",
     "tweeturl": "https://twitter.com/0xor0ne/status/1687893754483515393",
