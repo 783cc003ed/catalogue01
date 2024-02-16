@@ -91,10 +91,10 @@
     "username": "ryanaraine"
 }
 {
-    "tweetfavorites": 133,
+    "tweetfavorites": 141,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 50,
+    "tweetretweets": 51,
     "tweettext": "CVE-2024-21412: Internet Shortcut Files Security Feature Bypass Vulnerability\nAn unauthenticated attacker could send the targeted user a specially crafted file that is designed to bypass displayed security checks. https://t.co/yvWq5rcGzW",
     "tweettime": "2024-02-14, 18:45:45",
     "tweeturl": "https://twitter.com/cyber_advising/status/1757838555869487603",
