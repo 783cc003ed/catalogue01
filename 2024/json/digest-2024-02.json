@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://securityonline.info/poc-exploit-released-for-microsoft-outlook-rce-flaw-cve-2024-21413/"
+    ],
+    "tweetfavorites": 174,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 54,
+    "tweettext": "PoC Exploit Released for Microsoft Outlook RCE Flaw – CVE-2024-21413 https://t.co/VRVSMp0vLH",
+    "tweettime": "2024-02-16, 11:55:46",
+    "tweeturl": "https://twitter.com/Dinosn/status/1758460154503115203",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://www.zoom.com/en/trust/security-bulletin/ZSB-24008/"
     ],
     "tweetfavorites": 349,
@@ -10,6 +23,16 @@
     "tweettime": "2024-02-15, 08:46:46",
     "tweeturl": "https://twitter.com/cyb3rops/status/1758050204631130393",
     "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 177,
+    "tweettext": "RT @TheHackersNews: ⚠️ Attention, Sysadmins! A newly discovered critical #vulnerability (CVE-2024-21410) in #Microsoft Exchange Server is c…",
+    "tweettime": "2024-02-15, 05:42:06",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1758003732036415501",
+    "username": "hackerfantastic"
 }
 {
     "expanded_url": [
@@ -54,7 +77,7 @@
     "expanded_url": [
         "https://www.bleepingcomputer.com/news/security/new-critical-microsoft-outlook-rce-bug-is-trivial-to-exploit/"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 35,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 16,
@@ -68,10 +91,10 @@
         "https://github.com/bjrjk/CVE-2022-4262/blob/main/FA/FA.md",
         "https://github.com/bjrjk/CVE-2022-4262/"
     ],
-    "tweetfavorites": 84,
+    "tweetfavorites": 100,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 25,
+    "tweetretweets": 30,
     "tweettext": "Google Chrome 0-Day PoC Code Released : https://t.co/AbEzlS7qup \n\nFull Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8 : https://t.co/9Bjlsvdcmd  credits @bjrjk",
     "tweettime": "2024-02-14, 21:50:24",
     "tweeturl": "https://twitter.com/binitamshah/status/1757885026853670978",
@@ -84,7 +107,7 @@
     "tweetfavorites": 81,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 36,
+    "tweetretweets": 37,
     "tweettext": "From Patch Tuesday to Exploit Wednesday 😱\n\nMicrosoft is now marking CVE-2024-21413  as exploited 0day (MS Office remote code execution -- CVSS 9.8)\n\nhttps://t.co/qx8jiK5MNK https://t.co/7HmsbuHJwj",
     "tweettime": "2024-02-14, 20:24:59",
     "tweeturl": "https://twitter.com/ryanaraine/status/1757863527677886769",
