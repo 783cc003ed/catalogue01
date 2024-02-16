@@ -65,6 +65,20 @@
 }
 {
     "expanded_url": [
+        "https://github.com/bjrjk/CVE-2022-4262/blob/main/FA/FA.md",
+        "https://github.com/bjrjk/CVE-2022-4262/"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 25,
+    "tweettext": "Google Chrome 0-Day PoC Code Released : https://t.co/AbEzlS7qup \n\nFull Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8 : https://t.co/9Bjlsvdcmd  credits @bjrjk",
+    "tweettime": "2024-02-14, 21:50:24",
+    "tweeturl": "https://twitter.com/binitamshah/status/1757885026853670978",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21413"
     ],
     "tweetfavorites": 45,
@@ -77,10 +91,10 @@
     "username": "ryanaraine"
 }
 {
-    "tweetfavorites": 103,
+    "tweetfavorites": 133,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 43,
+    "tweetretweets": 50,
     "tweettext": "CVE-2024-21412: Internet Shortcut Files Security Feature Bypass Vulnerability\nAn unauthenticated attacker could send the targeted user a specially crafted file that is designed to bypass displayed security checks. https://t.co/yvWq5rcGzW",
     "tweettime": "2024-02-14, 18:45:45",
     "tweeturl": "https://twitter.com/cyber_advising/status/1757838555869487603",
