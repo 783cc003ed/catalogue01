@@ -153,10 +153,10 @@
     "expanded_url": [
         "https://github.com/duy-31/CVE-2023-35636"
     ],
-    "tweetfavorites": 40,
+    "tweetfavorites": 39,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 13,
+    "tweetretweets": 12,
     "tweettext": "GitHub - duy-31/CVE-2023-35636: Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC - https://t.co/o9u6k1l3Sp",
     "tweettime": "2024-01-30, 01:35:24",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1752143441621127654",
@@ -615,10 +615,10 @@
     "expanded_url": [
         "https://github.com/RomanRybachek/CVE-2024-20698"
     ],
-    "tweetfavorites": 35,
+    "tweetfavorites": 34,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetretweets": 13,
     "tweettext": "GitHub - RomanRybachek/CVE-2024-20698: Analysis of the vulnerability - https://t.co/weF2YvUqIn",
     "tweettime": "2024-01-23, 23:51:18",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1749942915751915599",
@@ -828,7 +828,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 227,
+    "tweetfavorites": 225,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 27,
@@ -1597,7 +1597,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 119,
+    "tweetretweets": 120,
     "tweettext": "RT @MDSecLabs: Exploiting CVE-2024-20656, a Local Privilege Escalation in the VSStandardCollectorService150 Service https://t.co/zCj3o31RPn…",
     "tweettime": "2024-01-13, 01:39:04",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1745983773009965559",

