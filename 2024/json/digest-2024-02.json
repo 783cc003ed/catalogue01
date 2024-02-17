@@ -13,6 +13,19 @@
 }
 {
     "expanded_url": [
+        "https://securityonline.info/poc-exploit-for-windows-ntlm-privilege-escalation-flaw-cve-2023-21746-published/"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published https://t.co/TC5pDRZhOo    #Pentesting #CyberSecurity #Infosec https://t.co/yQgXNc2QRr",
+    "tweettime": "2024-02-16, 10:00:16",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1758431091302494446",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
         "https://www.zoom.com/en/trust/security-bulletin/ZSB-24008/"
     ],
     "tweetfavorites": 349,
@@ -135,6 +148,16 @@
     "tweettime": "2024-02-13, 20:21:13",
     "tweeturl": "https://twitter.com/nav1n0x/status/1757500195032465835",
     "username": "nav1n0x"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "RT @TrendMicro: CVE-2024-21412 is an active zero-day vulnerability that was disclosed by Trend Micro's @thezdi to Microsoft &amp; published tod…",
+    "tweettime": "2024-02-13, 19:30:17",
+    "tweeturl": "https://twitter.com/thezdi/status/1757487375544955053",
+    "username": "thezdi"
 }
 {
     "expanded_url": [
@@ -876,8 +899,8 @@
 {
     "tweetfavorites": 136,
     "tweetquotes": 0,
-    "tweetreplies": 3,
-    "tweetretweets": 31,
+    "tweetreplies": 5,
+    "tweetretweets": 30,
     "tweettext": "CVE-2024-21626 runc container escape can be exploited on docker build if you can control the Docker file. https://t.co/7PYxzOVGCu",
     "tweettime": "2024-02-02, 11:40:43",
     "tweeturl": "https://twitter.com/phithon_xg/status/1753382939587760271",
@@ -931,7 +954,7 @@
         "http://insecure.org",
         "https://www.qualys.com/2024/01/30/cve-2023-6246/syslog.txt"
     ],
-    "tweetfavorites": 47,
+    "tweetfavorites": 48,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 13,
