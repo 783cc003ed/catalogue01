@@ -1,11 +1,47 @@
 {
     "expanded_url": [
+        "https://github.com/Neo23x0/signature-base/blob/master/yara/expl_outlook_cve_2024_21413.yar"
+    ],
+    "tweetfavorites": 213,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 54,
+    "tweettext": "I wrote a YARA rule designed to identify emails attempting to exploit CVE-2024-21413, a vulnerability in Microsoft Outlook that permits the unauthorized acquisition of NTLM credentials\n\n#100daysofYARA #YARA\nhttps://t.co/RhIcyltkKV https://t.co/rSATinTuhk",
+    "tweettime": "2024-02-17, 09:57:52",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1758792873254744344",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 233,
+    "tweettext": "RT @xaitax: CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC\n\nhttps://t.co/sJPbySQBa3\n\nHappy weekend.",
+    "tweettime": "2024-02-16, 21:11:43",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1758600064979673426",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 147,
+    "tweettext": "RT @_JohnHammond: CVE-2024-21413 sure does do the needful https://t.co/837yWaYOw4",
+    "tweettime": "2024-02-16, 19:52:09",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1758580043570176421",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/poc-exploit-released-for-microsoft-outlook-rce-flaw-cve-2024-21413/"
     ],
-    "tweetfavorites": 174,
+    "tweetfavorites": 328,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 54,
+    "tweetretweets": 103,
     "tweettext": "PoC Exploit Released for Microsoft Outlook RCE Flaw – CVE-2024-21413 https://t.co/VRVSMp0vLH",
     "tweettime": "2024-02-16, 11:55:46",
     "tweeturl": "https://twitter.com/Dinosn/status/1758460154503115203",
@@ -26,12 +62,25 @@
 }
 {
     "expanded_url": [
+        "https://blog.hrncirik.net/cve-2023-46214-analysis"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "RT @reverseame: Analysis of CVE-2023-46214 + PoC https://t.co/YDe8yWVUMv",
+    "tweettime": "2024-02-15, 21:37:56",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1758244274892677453",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
         "https://www.zoom.com/en/trust/security-bulletin/ZSB-24008/"
     ],
-    "tweetfavorites": 349,
-    "tweetquotes": 5,
-    "tweetreplies": 2,
-    "tweetretweets": 111,
+    "tweetfavorites": 813,
+    "tweetquotes": 13,
+    "tweetreplies": 11,
+    "tweetretweets": 282,
     "tweettext": "Doesn’t sound very good 😐 #zoom CVE-2024-24691\nhttps://t.co/6hv1j03brw https://t.co/VxsoU4gnTw",
     "tweettime": "2024-02-15, 08:46:46",
     "tweeturl": "https://twitter.com/cyb3rops/status/1758050204631130393",
@@ -104,7 +153,7 @@
         "https://github.com/bjrjk/CVE-2022-4262/blob/main/FA/FA.md",
         "https://github.com/bjrjk/CVE-2022-4262/"
     ],
-    "tweetfavorites": 101,
+    "tweetfavorites": 102,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 31,
@@ -174,10 +223,10 @@
     "username": "TrendMicro"
 }
 {
-    "tweetfavorites": 73,
+    "tweetfavorites": 78,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 20,
+    "tweetretweets": 22,
     "tweettext": "APT GROUP WATER HYDRA EXPLOITS CVE-2024-21412 VULNERABILITY IN ZERO-DAY ATTACK\n\nEarlier today, Microsoft released a patch for CVE-2024-21412, a previously unknown vulnerability in Microsoft’s Windows Defender SmartScreen that allowed threat actors to bypass its security features… https://t.co/2T14kk61DL",
     "tweettime": "2024-02-13, 19:15:01",
     "tweeturl": "https://twitter.com/TrendMicroRSRCH/status/1757483531494719725",
