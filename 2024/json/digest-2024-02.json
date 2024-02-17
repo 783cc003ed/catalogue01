@@ -174,6 +174,16 @@
     "username": "TrendMicro"
 }
 {
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "APT GROUP WATER HYDRA EXPLOITS CVE-2024-21412 VULNERABILITY IN ZERO-DAY ATTACK\n\nEarlier today, Microsoft released a patch for CVE-2024-21412, a previously unknown vulnerability in Microsoft’s Windows Defender SmartScreen that allowed threat actors to bypass its security features… https://t.co/2T14kk61DL",
+    "tweettime": "2024-02-13, 19:15:01",
+    "tweeturl": "https://twitter.com/TrendMicroRSRCH/status/1757483531494719725",
+    "username": "TrendMicroRSRCH"
+}
+{
     "expanded_url": [
         "https://securityonline.info/cve-2023-50358-a-zero-day-vulnerability-affecting-qnap-nas-devices/"
     ],
