@@ -12,7 +12,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 52,
+    "tweetretweets": 51,
     "tweettext": "RT @stephenfewer: We now have an RCE exploit module in the @metasploit pull queue for CVE-2024-0204 in Fortra GoAnywhere MFT: https://t.co/…",
     "tweettime": "2024-01-31, 16:35:40",
     "tweeturl": "https://twitter.com/momika233/status/1752732390886416749",
@@ -743,10 +743,10 @@
     "expanded_url": [
         "https://www.horizon3.ai/writeup-for-cve-2023-39143-papercut-webdav-vulnerability/"
     ],
-    "tweetfavorites": 77,
+    "tweetfavorites": 76,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 28,
+    "tweetretweets": 27,
     "tweettext": "Writeup for CVE-2023-39143: PaperCut WebDAV Vulnerability\nhttps://t.co/hDrO5nwM7W",
     "tweettime": "2024-01-22, 15:16:52",
     "tweeturl": "https://twitter.com/momika233/status/1749451067417645186",
@@ -1186,7 +1186,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 306,
+    "tweetfavorites": 309,
     "tweetquotes": 23,
     "tweetreplies": 23,
     "tweetretweets": 154,
@@ -1209,7 +1209,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"
     ],
-    "tweetfavorites": 362,
+    "tweetfavorites": 358,
     "tweetquotes": 15,
     "tweetreplies": 3,
     "tweetretweets": 214,
@@ -1659,7 +1659,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 151,
+    "tweetretweets": 152,
     "tweettext": "RT @rwincey: GitLab CVE-2023-7028 POC\n\nuser[email][]=valid@email.com&amp;user[email][]=attacker@email.com \n\n- PWNED",
     "tweettime": "2024-01-12, 12:00:12",
     "tweeturl": "https://twitter.com/momika233/status/1745777697069150454",

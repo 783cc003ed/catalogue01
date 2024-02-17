@@ -104,10 +104,10 @@
         "https://github.com/bjrjk/CVE-2022-4262/blob/main/FA/FA.md",
         "https://github.com/bjrjk/CVE-2022-4262/"
     ],
-    "tweetfavorites": 100,
+    "tweetfavorites": 101,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 30,
+    "tweetretweets": 31,
     "tweettext": "Google Chrome 0-Day PoC Code Released : https://t.co/AbEzlS7qup \n\nFull Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8 : https://t.co/9Bjlsvdcmd  credits @bjrjk",
     "tweettime": "2024-02-14, 21:50:24",
     "tweeturl": "https://twitter.com/binitamshah/status/1757885026853670978",
@@ -884,10 +884,10 @@
     "expanded_url": [
         "https://github.com/GlassyAmadeus/CVE-2024-20931"
     ],
-    "tweetfavorites": 165,
+    "tweetfavorites": 164,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 60,
+    "tweetretweets": 59,
     "tweettext": "CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\\IIOP protocol\nhttps://t.co/JhrEZpYniM",
     "tweettime": "2024-02-02, 15:20:32",
     "tweeturl": "https://twitter.com/momika233/status/1753438255545192474",
