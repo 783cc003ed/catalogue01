@@ -374,7 +374,7 @@
     "tweetfavorites": 147,
     "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 46,
+    "tweetretweets": 47,
     "tweettext": "#CVE-2022-26134 Atlassian Confluence RCE \n\nboolean authenticate(String username, String password) https://t.co/rXZbj7pk70",
     "tweettime": "2022-06-07, 13:47:09",
     "tweeturl": "https://twitter.com/jas502n/status/1534170095932821504",

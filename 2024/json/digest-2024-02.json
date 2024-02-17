@@ -25,6 +25,19 @@
     "username": "hackerfantastic"
 }
 {
+    "expanded_url": [
+        "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 4,
+    "tweettext": "PoC Exploit Released for Microsoft Outlook RCE Flaw – CVE-2024-21413 https://t.co/SMN2Em1qsi",
+    "tweettime": "2024-02-16, 20:11:39",
+    "tweeturl": "https://twitter.com/hetmehtaa/status/1758584949324812508",
+    "username": "hetmehtaa"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -38,10 +51,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/02/cisa-warning-akira-ransomware.html"
     ],
-    "tweetfavorites": 200,
+    "tweetfavorites": 202,
     "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 99,
+    "tweetretweets": 102,
     "tweettext": "⚠️ CISA warns of hackers exploiting a security flaw (CVE-2020-3259) in #Cisco Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) software in Akira #ransomware attacks.\n\nLearn more: https://t.co/l8tqH34IrZ\n\n#cybersecurity #hacking #malware",
     "tweettime": "2024-02-16, 15:46:35",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1758518243227037773",
@@ -51,10 +64,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-released-for-microsoft-outlook-rce-flaw-cve-2024-21413/"
     ],
-    "tweetfavorites": 328,
+    "tweetfavorites": 349,
     "tweetquotes": 1,
-    "tweetreplies": 0,
-    "tweetretweets": 103,
+    "tweetreplies": 1,
+    "tweetretweets": 113,
     "tweettext": "PoC Exploit Released for Microsoft Outlook RCE Flaw – CVE-2024-21413 https://t.co/VRVSMp0vLH",
     "tweettime": "2024-02-16, 11:55:46",
     "tweeturl": "https://twitter.com/Dinosn/status/1758460154503115203",
@@ -189,10 +202,10 @@
     "username": "ryanaraine"
 }
 {
-    "tweetfavorites": 141,
+    "tweetfavorites": 146,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 51,
+    "tweetretweets": 53,
     "tweettext": "CVE-2024-21412: Internet Shortcut Files Security Feature Bypass Vulnerability\nAn unauthenticated attacker could send the targeted user a specially crafted file that is designed to bypass displayed security checks. https://t.co/yvWq5rcGzW",
     "tweettime": "2024-02-14, 18:45:45",
     "tweeturl": "https://twitter.com/cyber_advising/status/1757838555869487603",
@@ -202,10 +215,10 @@
     "expanded_url": [
         "https://pastebin.com/E1WxLsEv"
     ],
-    "tweetfavorites": 166,
+    "tweetfavorites": 201,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 38,
+    "tweetretweets": 52,
     "tweettext": "Juniper RCE CVE-2023-36845 PoC  #BugBounty \n\nhttps://t.co/FNl1AnZmmS",
     "tweettime": "2024-02-13, 20:21:13",
     "tweeturl": "https://twitter.com/nav1n0x/status/1757500195032465835",
