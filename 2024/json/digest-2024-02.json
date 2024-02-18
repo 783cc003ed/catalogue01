@@ -1,5 +1,20 @@
 {
     "expanded_url": [
+        "http://Hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22",
+        "http://product.name"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
+    "tweettext": "🚨Alert🚨CVE-2024-21413 Microsoft Outlook RCE Flaw \nPOC Released\n📊219.8K+ Services are found on the https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/D4e39xFXWj\nDorks 👇👇👇\nHunter:https://t.co/q9rtuGgxk7=\"Outlook Web App\"\nFOFA: app=\"Microsoft-Outlook\"\nShodan:http.component:\"outlook… https://t.co/16ogWe26WZ",
+    "tweettime": "2024-02-18, 05:49:46",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1759092823708876814",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
         "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability"
     ],
     "tweetfavorites": 66,
@@ -77,10 +92,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-released-for-microsoft-outlook-rce-flaw-cve-2024-21413/"
     ],
-    "tweetfavorites": 362,
+    "tweetfavorites": 367,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 121,
+    "tweetretweets": 124,
     "tweettext": "PoC Exploit Released for Microsoft Outlook RCE Flaw – CVE-2024-21413 https://t.co/VRVSMp0vLH",
     "tweettime": "2024-02-16, 11:55:46",
     "tweeturl": "https://twitter.com/Dinosn/status/1758460154503115203",
@@ -90,10 +105,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-for-windows-ntlm-privilege-escalation-flaw-cve-2023-21746-published/"
     ],
-    "tweetfavorites": 141,
+    "tweetfavorites": 149,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 39,
+    "tweetretweets": 40,
     "tweettext": "PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published https://t.co/TC5pDRZhOo    #Pentesting #CyberSecurity #Infosec https://t.co/yQgXNc2QRr",
     "tweettime": "2024-02-16, 10:00:16",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1758431091302494446",
