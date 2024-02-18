@@ -205,7 +205,7 @@
         "https://github.com/bjrjk/CVE-2022-4262/blob/main/FA/FA.md",
         "https://github.com/bjrjk/CVE-2022-4262/"
     ],
-    "tweetfavorites": 102,
+    "tweetfavorites": 103,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 31,
@@ -228,10 +228,10 @@
     "username": "ryanaraine"
 }
 {
-    "tweetfavorites": 146,
+    "tweetfavorites": 147,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 53,
+    "tweetretweets": 54,
     "tweettext": "CVE-2024-21412: Internet Shortcut Files Security Feature Bypass Vulnerability\nAn unauthenticated attacker could send the targeted user a specially crafted file that is designed to bypass displayed security checks. https://t.co/yvWq5rcGzW",
     "tweettime": "2024-02-14, 18:45:45",
     "tweeturl": "https://twitter.com/cyber_advising/status/1757838555869487603",
