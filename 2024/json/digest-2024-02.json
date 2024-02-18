@@ -41,7 +41,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 147,
+    "tweetretweets": 170,
     "tweettext": "RT @_JohnHammond: CVE-2024-21413 sure does do the needful https://t.co/837yWaYOw4",
     "tweettime": "2024-02-16, 19:52:09",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1758580043570176421",
@@ -262,10 +262,10 @@
     "username": "TrendMicro"
 }
 {
-    "tweetfavorites": 99,
-    "tweetquotes": 1,
+    "tweetfavorites": 108,
+    "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 25,
+    "tweetretweets": 26,
     "tweettext": "APT GROUP WATER HYDRA EXPLOITS CVE-2024-21412 VULNERABILITY IN ZERO-DAY ATTACK\n\nEarlier today, Microsoft released a patch for CVE-2024-21412, a previously unknown vulnerability in Microsoft’s Windows Defender SmartScreen that allowed threat actors to bypass its security features… https://t.co/2T14kk61DL",
     "tweettime": "2024-02-13, 19:15:01",
     "tweeturl": "https://twitter.com/TrendMicroRSRCH/status/1757483531494719725",
