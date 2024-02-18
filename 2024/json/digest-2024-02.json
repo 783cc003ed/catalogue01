@@ -77,10 +77,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-for-windows-ntlm-privilege-escalation-flaw-cve-2023-21746-published/"
     ],
-    "tweetfavorites": 86,
+    "tweetfavorites": 141,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 28,
+    "tweetretweets": 39,
     "tweettext": "PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published https://t.co/TC5pDRZhOo    #Pentesting #CyberSecurity #Infosec https://t.co/yQgXNc2QRr",
     "tweettime": "2024-02-16, 10:00:16",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1758431091302494446",
@@ -121,6 +121,19 @@
     "tweettime": "2024-02-15, 05:42:06",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1758003732036415501",
     "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://github.com/h4x0r-dz/CVE-2024-21893.py"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure\n\nShodan Dork : title:\"Ivanti Connect\" hostname:\"target.*\"\n\nExploit: https://t.co/a2ZrL7aI8j\n\n#bugbounty #bugbountytips https://t.co/7ycEXg9oc7",
+    "tweettime": "2024-02-15, 05:33:08",
+    "tweeturl": "https://twitter.com/e11i0t_4lders0n/status/1758001474951626780",
+    "username": "e11i0t_4lders0n"
 }
 {
     "expanded_url": [
@@ -239,19 +252,19 @@
         "https://bit.ly/3P5rhkb",
         "https://bit.ly/3HYNqfR"
     ],
-    "tweetfavorites": 95,
+    "tweetfavorites": 99,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 32,
+    "tweetretweets": 34,
     "tweettext": "CVE-2024-21412 is an active zero-day vulnerability that was disclosed by Trend Micro's @thezdi to Microsoft &amp; published today. Trend customers are protected; organizations should take immediate action. Video below &amp; more info: https://t.co/yyQ7uRoDDL https://t.co/RBNKbLUSwU",
     "tweettime": "2024-02-13, 19:23:14",
     "tweeturl": "https://twitter.com/TrendMicro/status/1757485603195654385",
     "username": "TrendMicro"
 }
 {
-    "tweetfavorites": 93,
+    "tweetfavorites": 99,
     "tweetquotes": 1,
-    "tweetreplies": 1,
+    "tweetreplies": 2,
     "tweetretweets": 25,
     "tweettext": "APT GROUP WATER HYDRA EXPLOITS CVE-2024-21412 VULNERABILITY IN ZERO-DAY ATTACK\n\nEarlier today, Microsoft released a patch for CVE-2024-21412, a previously unknown vulnerability in Microsoft’s Windows Defender SmartScreen that allowed threat actors to bypass its security features… https://t.co/2T14kk61DL",
     "tweettime": "2024-02-13, 19:15:01",
@@ -262,10 +275,10 @@
     "expanded_url": [
         "https://securityonline.info/cve-2023-50358-a-zero-day-vulnerability-affecting-qnap-nas-devices/"
     ],
-    "tweetfavorites": 118,
+    "tweetfavorites": 123,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 45,
+    "tweetretweets": 48,
     "tweettext": "CVE-2023-50358: A zero-day vulnerability affecting QNAP NAS devices https://t.co/5Hidm3fgAf",
     "tweettime": "2024-02-13, 15:11:40",
     "tweeturl": "https://twitter.com/Dinosn/status/1757422290663362789",
