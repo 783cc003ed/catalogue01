@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 9,
+    "tweettext": "🚨 CVE-2024-21413: Microsoft Office Outlook Remote Code Execution Vulnerability ‼️\n\nThis vulnerability affects: \n\n- Microsoft Office 2016\n- Microsoft Office LTSC 2021\n- Microsoft 365 Apps for Enterprise\n- Microsoft Office 2019 \n\n#infosec #Hacking #Pentesting\n#CybersecurityNews",
+    "tweettime": "2024-02-18, 07:10:23",
+    "tweeturl": "https://twitter.com/7h3h4ckv157/status/1759113114476544429",
+    "username": "7h3h4ckv157"
+}
+{
     "expanded_url": [
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22",
@@ -12,6 +22,19 @@
     "tweettime": "2024-02-18, 05:49:46",
     "tweeturl": "https://twitter.com/HunterMapping/status/1759092823708876814",
     "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/microsoft-office-outlook-remote-code-execution-vulnerability"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 56,
+    "tweettext": "❗ ALERT ❗ Remote code execution vulnerability found in Microsoft Office Outlook (CVE-2024-21413), which enables malicious code execution.\n\nAll Microsoft Office Outlook users are strongly advised to follow Microsoft's mitigation advice.\n\nRead more 👉 https://t.co/HU99VgYWnZ https://t.co/1Ezmw1ZrQA",
+    "tweettime": "2024-02-18, 03:02:28",
+    "tweeturl": "https://twitter.com/CyberGovAU/status/1759050721624834369",
+    "username": "CyberGovAU"
 }
 {
     "expanded_url": [
@@ -56,10 +79,10 @@
     "expanded_url": [
         "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability"
     ],
-    "tweetfavorites": 34,
+    "tweetfavorites": 35,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 6,
+    "tweetretweets": 7,
     "tweettext": "PoC Exploit Released for Microsoft Outlook RCE Flaw – CVE-2024-21413 https://t.co/SMN2Em1qsi",
     "tweettime": "2024-02-16, 20:11:39",
     "tweeturl": "https://twitter.com/hetmehtaa/status/1758584949324812508",
@@ -108,7 +131,7 @@
     "tweetfavorites": 149,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 40,
+    "tweetretweets": 41,
     "tweettext": "PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published https://t.co/TC5pDRZhOo    #Pentesting #CyberSecurity #Infosec https://t.co/yQgXNc2QRr",
     "tweettime": "2024-02-16, 10:00:16",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1758431091302494446",
@@ -233,10 +256,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21413"
     ],
-    "tweetfavorites": 81,
+    "tweetfavorites": 91,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 37,
+    "tweetretweets": 41,
     "tweettext": "From Patch Tuesday to Exploit Wednesday 😱\n\nMicrosoft is now marking CVE-2024-21413  as exploited 0day (MS Office remote code execution -- CVSS 9.8)\n\nhttps://t.co/qx8jiK5MNK https://t.co/7HmsbuHJwj",
     "tweettime": "2024-02-14, 20:24:59",
     "tweeturl": "https://twitter.com/ryanaraine/status/1757863527677886769",
