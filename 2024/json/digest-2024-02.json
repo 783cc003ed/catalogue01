@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC\nhttps://t.co/Sg9uRdeD4v",
+    "tweettime": "2024-02-18, 01:14:27",
+    "tweeturl": "https://twitter.com/momika233/status/1759023540014379277",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
         "https://github.com/Neo23x0/signature-base/blob/master/yara/expl_outlook_cve_2024_21413.yar"
     ],
     "tweetfavorites": 213,
@@ -972,7 +985,7 @@
     "expanded_url": [
         "https://github.com/GlassyAmadeus/CVE-2024-20931"
     ],
-    "tweetfavorites": 164,
+    "tweetfavorites": 165,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 59,
