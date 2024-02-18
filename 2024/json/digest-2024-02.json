@@ -31,7 +31,7 @@
     "tweetfavorites": 32,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 4,
+    "tweetretweets": 5,
     "tweettext": "PoC Exploit Released for Microsoft Outlook RCE Flaw – CVE-2024-21413 https://t.co/SMN2Em1qsi",
     "tweettime": "2024-02-16, 20:11:39",
     "tweeturl": "https://twitter.com/hetmehtaa/status/1758584949324812508",
@@ -64,10 +64,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-released-for-microsoft-outlook-rce-flaw-cve-2024-21413/"
     ],
-    "tweetfavorites": 349,
+    "tweetfavorites": 362,
     "tweetquotes": 1,
-    "tweetreplies": 1,
-    "tweetretweets": 113,
+    "tweetreplies": 3,
+    "tweetretweets": 121,
     "tweettext": "PoC Exploit Released for Microsoft Outlook RCE Flaw – CVE-2024-21413 https://t.co/VRVSMp0vLH",
     "tweettime": "2024-02-16, 11:55:46",
     "tweeturl": "https://twitter.com/Dinosn/status/1758460154503115203",
@@ -262,10 +262,10 @@
     "username": "TrendMicro"
 }
 {
-    "tweetfavorites": 108,
+    "tweetfavorites": 117,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 26,
+    "tweetretweets": 28,
     "tweettext": "APT GROUP WATER HYDRA EXPLOITS CVE-2024-21412 VULNERABILITY IN ZERO-DAY ATTACK\n\nEarlier today, Microsoft released a patch for CVE-2024-21412, a previously unknown vulnerability in Microsoft’s Windows Defender SmartScreen that allowed threat actors to bypass its security features… https://t.co/2T14kk61DL",
     "tweettime": "2024-02-13, 19:15:01",
     "tweeturl": "https://twitter.com/TrendMicroRSRCH/status/1757483531494719725",
