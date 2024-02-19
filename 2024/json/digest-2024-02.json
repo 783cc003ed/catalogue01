@@ -1,4 +1,24 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 185,
+    "tweettext": "RT @xaitax: ⚠️ Update for CVE-2024-21413 💣\nManaged &amp; confirmed Microsoft Outlook Remote Code Execution (RCE) but won't publish details (yet…",
+    "tweettime": "2024-02-19, 14:45:26",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1759590018996170895",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 184,
+    "tweettext": "RT @xaitax: ⚠️ Update for CVE-2024-21413 💣\nManaged &amp; confirmed Microsoft Outlook Remote Code Execution (RCE) but won't publish details (yet…",
+    "tweettime": "2024-02-19, 00:17:00",
+    "tweeturl": "https://twitter.com/steventseeley/status/1759371467542978806",
+    "username": "steventseeley"
+}
+{
     "tweetfavorites": 77,
     "tweetquotes": 1,
     "tweetreplies": 2,
@@ -66,10 +86,10 @@
     "expanded_url": [
         "https://github.com/Neo23x0/signature-base/blob/master/yara/expl_outlook_cve_2024_21413.yar"
     ],
-    "tweetfavorites": 213,
-    "tweetquotes": 0,
-    "tweetreplies": 3,
-    "tweetretweets": 54,
+    "tweetfavorites": 540,
+    "tweetquotes": 2,
+    "tweetreplies": 9,
+    "tweetretweets": 172,
     "tweettext": "I wrote a YARA rule designed to identify emails attempting to exploit CVE-2024-21413, a vulnerability in Microsoft Outlook that permits the unauthorized acquisition of NTLM credentials\n\n#100daysofYARA #YARA\nhttps://t.co/RhIcyltkKV https://t.co/rSATinTuhk",
     "tweettime": "2024-02-17, 09:57:52",
     "tweeturl": "https://twitter.com/cyb3rops/status/1758792873254744344",
@@ -82,7 +102,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 233,
+    "tweetretweets": 322,
     "tweettext": "RT @xaitax: CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC\n\nhttps://t.co/sJPbySQBa3\n\nHappy weekend.",
     "tweettime": "2024-02-16, 21:11:43",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1758600064979673426",
@@ -115,10 +135,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/02/cisa-warning-akira-ransomware.html"
     ],
-    "tweetfavorites": 207,
-    "tweetquotes": 5,
-    "tweetreplies": 2,
-    "tweetretweets": 105,
+    "tweetfavorites": 218,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 108,
     "tweettext": "⚠️ CISA warns of hackers exploiting a security flaw (CVE-2020-3259) in #Cisco Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) software in Akira #ransomware attacks.\n\nLearn more: https://t.co/l8tqH34IrZ\n\n#cybersecurity #hacking #malware",
     "tweettime": "2024-02-16, 15:46:35",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1758518243227037773",
@@ -279,7 +299,7 @@
     "username": "ryanaraine"
 }
 {
-    "tweetfavorites": 147,
+    "tweetfavorites": 150,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 54,
@@ -316,20 +336,20 @@
         "https://bit.ly/3P5rhkb",
         "https://bit.ly/3HYNqfR"
     ],
-    "tweetfavorites": 99,
+    "tweetfavorites": 114,
     "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 34,
+    "tweetreplies": 3,
+    "tweetretweets": 39,
     "tweettext": "CVE-2024-21412 is an active zero-day vulnerability that was disclosed by Trend Micro's @thezdi to Microsoft &amp; published today. Trend customers are protected; organizations should take immediate action. Video below &amp; more info: https://t.co/yyQ7uRoDDL https://t.co/RBNKbLUSwU",
     "tweettime": "2024-02-13, 19:23:14",
     "tweeturl": "https://twitter.com/TrendMicro/status/1757485603195654385",
     "username": "TrendMicro"
 }
 {
-    "tweetfavorites": 117,
+    "tweetfavorites": 171,
     "tweetquotes": 2,
-    "tweetreplies": 2,
-    "tweetretweets": 28,
+    "tweetreplies": 4,
+    "tweetretweets": 40,
     "tweettext": "APT GROUP WATER HYDRA EXPLOITS CVE-2024-21412 VULNERABILITY IN ZERO-DAY ATTACK\n\nEarlier today, Microsoft released a patch for CVE-2024-21412, a previously unknown vulnerability in Microsoft’s Windows Defender SmartScreen that allowed threat actors to bypass its security features… https://t.co/2T14kk61DL",
     "tweettime": "2024-02-13, 19:15:01",
     "tweeturl": "https://twitter.com/TrendMicroRSRCH/status/1757483531494719725",
@@ -352,7 +372,7 @@
     "expanded_url": [
         "https://youtube.com/johnhammond010"
     ],
-    "tweetfavorites": 96,
+    "tweetfavorites": 95,
     "tweetquotes": 0,
     "tweetreplies": 4,
     "tweetretweets": 11,
@@ -589,7 +609,7 @@
     "expanded_url": [
         "https://labs.watchtowr.com/are-we-now-part-of-ivanti/"
     ],
-    "tweetfavorites": 224,
+    "tweetfavorites": 223,
     "tweetquotes": 2,
     "tweetreplies": 6,
     "tweetretweets": 90,
