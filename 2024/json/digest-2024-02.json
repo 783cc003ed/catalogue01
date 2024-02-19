@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 45,
+    "tweetfavorites": 77,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 9,
+    "tweetretweets": 14,
     "tweettext": "🚨 CVE-2024-21413: Microsoft Office Outlook Remote Code Execution Vulnerability ‼️\n\nThis vulnerability affects: \n\n- Microsoft Office 2016\n- Microsoft Office LTSC 2021\n- Microsoft 365 Apps for Enterprise\n- Microsoft Office 2019 \n\n#infosec #Hacking #Pentesting\n#CybersecurityNews",
     "tweettime": "2024-02-18, 07:10:23",
     "tweeturl": "https://twitter.com/7h3h4ckv157/status/1759113114476544429",
@@ -40,10 +40,10 @@
     "expanded_url": [
         "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/microsoft-office-outlook-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 69,
+    "tweetfavorites": 96,
     "tweetquotes": 1,
-    "tweetreplies": 1,
-    "tweetretweets": 56,
+    "tweetreplies": 4,
+    "tweetretweets": 74,
     "tweettext": "❗ ALERT ❗ Remote code execution vulnerability found in Microsoft Office Outlook (CVE-2024-21413), which enables malicious code execution.\n\nAll Microsoft Office Outlook users are strongly advised to follow Microsoft's mitigation advice.\n\nRead more 👉 https://t.co/HU99VgYWnZ https://t.co/1Ezmw1ZrQA",
     "tweettime": "2024-02-18, 03:02:28",
     "tweeturl": "https://twitter.com/CyberGovAU/status/1759050721624834369",
