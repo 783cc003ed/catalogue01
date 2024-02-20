@@ -19,10 +19,10 @@
     "username": "steventseeley"
 }
 {
-    "tweetfavorites": 77,
+    "tweetfavorites": 90,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 14,
+    "tweetretweets": 16,
     "tweettext": "🚨 CVE-2024-21413: Microsoft Office Outlook Remote Code Execution Vulnerability ‼️\n\nThis vulnerability affects: \n\n- Microsoft Office 2016\n- Microsoft Office LTSC 2021\n- Microsoft 365 Apps for Enterprise\n- Microsoft Office 2019 \n\n#infosec #Hacking #Pentesting\n#CybersecurityNews",
     "tweettime": "2024-02-18, 07:10:23",
     "tweeturl": "https://twitter.com/7h3h4ckv157/status/1759113114476544429",
@@ -60,10 +60,10 @@
     "expanded_url": [
         "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/microsoft-office-outlook-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 96,
-    "tweetquotes": 1,
-    "tweetreplies": 4,
-    "tweetretweets": 74,
+    "tweetfavorites": 101,
+    "tweetquotes": 2,
+    "tweetreplies": 12,
+    "tweetretweets": 78,
     "tweettext": "❗ ALERT ❗ Remote code execution vulnerability found in Microsoft Office Outlook (CVE-2024-21413), which enables malicious code execution.\n\nAll Microsoft Office Outlook users are strongly advised to follow Microsoft's mitigation advice.\n\nRead more 👉 https://t.co/HU99VgYWnZ https://t.co/1Ezmw1ZrQA",
     "tweettime": "2024-02-18, 03:02:28",
     "tweeturl": "https://twitter.com/CyberGovAU/status/1759050721624834369",
@@ -169,6 +169,20 @@
     "tweettime": "2024-02-16, 10:00:16",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1758431091302494446",
     "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/YwRUO"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "CVE-2024-21410: 0day in MS Exchange, 9.8 rating 🔥\n\nThe vulnerability allows unauthenticated attackers to perform privilege escalation in NTLM relay attacks.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉🏻 Link: https://t.co/DUP1HGQHKo\n\n#cybersecurity #vulnerability_map https://t.co/gl7ioiKGAN",
+    "tweettime": "2024-02-16, 09:00:01",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1758415925244477656",
+    "username": "Netlas_io"
 }
 {
     "expanded_url": [
@@ -528,6 +542,16 @@
     "tweettime": "2024-02-09, 20:41:53",
     "tweeturl": "https://twitter.com/M_haggis/status/1756055841143480723",
     "username": "M_haggis"
+}
+{
+    "tweetfavorites": 81,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 32,
+    "tweettext": "We believe the public PoC for for CVE-2020-3580 XSS affecting Cisco ASA and FTD may be being utilized to curate a list of IP's that are likely to be vulnerable to CVE-2020-3259, an unauthenticated memory disclosure vulnerability, recently attributed to Akira ransomware. https://t.co/QeGRd2lmCj",
+    "tweettime": "2024-02-09, 20:31:13",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1756053159980712165",
+    "username": "GreyNoiseIO"
 }
 {
     "tweetfavorites": 0,
