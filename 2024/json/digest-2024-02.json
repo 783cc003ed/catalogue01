@@ -2,6 +2,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 160,
+    "tweettext": "RT @vxunderground: Lockbit ransomware group administration claims that law enforcement agencies compromised them by exploiting CVE-2023-382…",
+    "tweettime": "2024-02-20, 10:46:55",
+    "tweeturl": "https://twitter.com/Dinosn/status/1759892380746932604",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 213,
     "tweettext": "RT @xaitax: ⚠️ Update for CVE-2024-21413 💣\nManaged &amp; confirmed Microsoft Outlook Remote Code Execution (RCE) but won't publish details (yet…",
     "tweettime": "2024-02-19, 14:45:26",
@@ -17,6 +27,26 @@
     "tweettime": "2024-02-19, 00:17:00",
     "tweeturl": "https://twitter.com/steventseeley/status/1759371467542978806",
     "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "RT @RootMoksha: CVE-2024-22024,  XXE on Ivanti Connect Secure\n\npayload encoded base64:\n\n&lt;?xml version=\"1.0\" ?&gt;&lt;!DOCTYPE root [&lt;!ENTITY % xx…",
+    "tweettime": "2024-02-18, 09:20:21",
+    "tweeturl": "https://twitter.com/momika233/status/1759145820816044494",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 113,
+    "tweettext": "RT @HunterMapping: 🚨Alert🚨CVE-2024-21413 Microsoft Outlook RCE Flaw \nPOC Released\n📊219.8K+ Services are found on the https://t.co/WrjZaG0jR…",
+    "tweettime": "2024-02-18, 09:15:37",
+    "tweeturl": "https://twitter.com/momika233/status/1759144629478502756",
+    "username": "momika233"
 }
 {
     "tweetfavorites": 90,
@@ -48,10 +78,10 @@
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22",
         "http://product.name"
     ],
-    "tweetfavorites": 114,
-    "tweetquotes": 0,
+    "tweetfavorites": 337,
+    "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 36,
+    "tweetretweets": 113,
     "tweettext": "🚨Alert🚨CVE-2024-21413 Microsoft Outlook RCE Flaw \nPOC Released\n📊219.8K+ Services are found on the https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/D4e39xFXWj\nDorks 👇👇👇\nHunter:https://t.co/q9rtuGgxk7=\"Outlook Web App\"\nFOFA: app=\"Microsoft-Outlook\"\nShodan:http.component:\"outlook… https://t.co/16ogWe26WZ",
     "tweettime": "2024-02-18, 05:49:46",
     "tweeturl": "https://twitter.com/HunterMapping/status/1759092823708876814",
@@ -87,10 +117,10 @@
     "expanded_url": [
         "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability"
     ],
-    "tweetfavorites": 66,
+    "tweetfavorites": 285,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 25,
+    "tweetreplies": 2,
+    "tweetretweets": 91,
     "tweettext": "CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC\nhttps://t.co/Sg9uRdeD4v",
     "tweettime": "2024-02-18, 01:14:27",
     "tweeturl": "https://twitter.com/momika233/status/1759023540014379277",
@@ -343,7 +373,7 @@
     "tweetfavorites": 201,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 52,
+    "tweetretweets": 51,
     "tweettext": "Juniper RCE CVE-2023-36845 PoC  #BugBounty \n\nhttps://t.co/FNl1AnZmmS",
     "tweettime": "2024-02-13, 20:21:13",
     "tweeturl": "https://twitter.com/nav1n0x/status/1757500195032465835",
@@ -1094,7 +1124,7 @@
     "expanded_url": [
         "https://github.com/GlassyAmadeus/CVE-2024-20931"
     ],
-    "tweetfavorites": 165,
+    "tweetfavorites": 166,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 59,
