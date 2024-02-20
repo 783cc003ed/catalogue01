@@ -238,10 +238,10 @@
     "expanded_url": [
         "https://github.com/h4x0r-dz/CVE-2024-21893.py"
     ],
-    "tweetfavorites": 72,
+    "tweetfavorites": 73,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 22,
+    "tweetretweets": 23,
     "tweettext": "CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure\n\nShodan Dork : title:\"Ivanti Connect\" hostname:\"target.*\"\n\nExploit: https://t.co/a2ZrL7aI8j\n\n#bugbounty #bugbountytips https://t.co/7ycEXg9oc7",
     "tweettime": "2024-02-15, 05:33:08",
     "tweeturl": "https://twitter.com/e11i0t_4lders0n/status/1758001474951626780",
@@ -374,7 +374,7 @@
     "username": "TrendMicro"
 }
 {
-    "tweetfavorites": 194,
+    "tweetfavorites": 198,
     "tweetquotes": 2,
     "tweetreplies": 5,
     "tweetretweets": 47,
