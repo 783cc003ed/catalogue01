@@ -2,6 +2,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "RT @bl4sty: I created a hyper realistic and handwavey re-enactment of the lockbit CVE-2023-3824 attack after some insights from PHP interna…",
+    "tweettime": "2024-02-21, 00:38:55",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1760101762306826301",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 114,
     "tweettext": "RT @TheHackersNews: ⚠️ CISA warns of hackers exploiting a security flaw (CVE-2020-3259) in #Cisco Adaptive Security Appliance (ASA) and Fir…",
     "tweettime": "2024-02-20, 17:55:22",
@@ -601,7 +611,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 33,
+    "tweetretweets": 34,
     "tweettext": "RT @DhiyaneshDK: Scan for Ivanti Connect Secure - XXE\n(CVE-2024-22024) using nuclei templates. 🚨 @pdnuclei\n\nVulnerability Analysis  : https…",
     "tweettime": "2024-02-09, 22:03:54",
     "tweeturl": "https://twitter.com/pdnuclei/status/1756076481602806042",
