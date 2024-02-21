@@ -55,6 +55,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 227,
+    "tweettext": "RT @xaitax: ⚠️ Update for CVE-2024-21413 💣\nManaged &amp; confirmed Microsoft Outlook Remote Code Execution (RCE) but won't publish details (yet…",
+    "tweettime": "2024-02-18, 22:47:36",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1759348970348830872",
+    "username": "HaifeiLi"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 46,
     "tweettext": "RT @RootMoksha: CVE-2024-22024,  XXE on Ivanti Connect Secure\n\npayload encoded base64:\n\n&lt;?xml version=\"1.0\" ?&gt;&lt;!DOCTYPE root [&lt;!ENTITY % xx…",
     "tweettime": "2024-02-18, 09:20:21",
