@@ -1,4 +1,18 @@
 {
+    "expanded_url": [
+        "https://snicco.io/vulnerability-disclosure/bricks/unauthenticated-rce-in-bricks-1-9-6",
+        "https://github.com/Chocapikk/CVE-2024-25600"
+    ],
+    "tweetfavorites": 248,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 62,
+    "tweettext": "CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25,000+ active installations.\n\nSeverity: Critical (CVSS 9.8)\nRoot cause analysis: https://t.co/E5K0sIZQn9\nPoC: https://t.co/8DflZk7QIW\nMitigation: Upgrade https://t.co/gQWw2Ov81h",
+    "tweettime": "2024-02-21, 15:40:32",
+    "tweeturl": "https://twitter.com/win3zz/status/1760328659208974363",
+    "username": "win3zz"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -27,6 +41,32 @@
     "tweettime": "2024-02-20, 17:55:22",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1760000202336023035",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/duy-31/CVE-2024-21413"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Vulnerabilidad Microsoft Outlook MonikerLink  \n\nFuga de credenciales y ejecución remota de código cuando se encadena con CVE-2023-21716 (a través del panel de vista previa) \n\n PoC disponibleCVE-2024-21413) un RCE de Microsoft Outlook\nhttps://t.co/ceghAWQqZx https://t.co/GLd0nM78M8",
+    "tweettime": "2024-02-20, 17:43:00",
+    "tweeturl": "https://twitter.com/elhackernet/status/1759997090594468146",
+    "username": "elhackernet"
+}
+{
+    "expanded_url": [
+        "https://www.sonarsource.com/blog/joomla-multiple-xss-vulnerabilities/?utm_medium=social&utm_source=twitter&utm_campaign=research&utm_content=blog-joomla-multiple-xss-vulnerabilities-240220-&utm_term="
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "⚠️ Multiple XSS vulnerabilities in popular CMS Joomla! (CVE-2024-21726) ⚠️\n\nAttackers could trick administrators into clicking on a malicious link and gain RCE:\n\nhttps://t.co/9JVMjj6dDH\n\n#appsec #security #vulnerability #joomla",
+    "tweettime": "2024-02-20, 16:55:36",
+    "tweeturl": "https://twitter.com/ripstech/status/1759985164149764339",
+    "username": "ripstech"
 }
 {
     "expanded_url": [
@@ -109,7 +149,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 113,
+    "tweetretweets": 114,
     "tweettext": "RT @HunterMapping: 🚨Alert🚨CVE-2024-21413 Microsoft Outlook RCE Flaw \nPOC Released\n📊219.8K+ Services are found on the https://t.co/WrjZaG0jR…",
     "tweettime": "2024-02-18, 09:15:37",
     "tweeturl": "https://twitter.com/momika233/status/1759144629478502756",
@@ -145,10 +185,10 @@
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22",
         "http://product.name"
     ],
-    "tweetfavorites": 336,
+    "tweetfavorites": 337,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 113,
+    "tweetretweets": 114,
     "tweettext": "🚨Alert🚨CVE-2024-21413 Microsoft Outlook RCE Flaw \nPOC Released\n📊219.8K+ Services are found on the https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/D4e39xFXWj\nDorks 👇👇👇\nHunter:https://t.co/q9rtuGgxk7=\"Outlook Web App\"\nFOFA: app=\"Microsoft-Outlook\"\nShodan:http.component:\"outlook… https://t.co/16ogWe26WZ",
     "tweettime": "2024-02-18, 05:49:46",
     "tweeturl": "https://twitter.com/HunterMapping/status/1759092823708876814",
@@ -450,7 +490,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 41,
+    "tweetretweets": 42,
     "tweettext": "RT @TrendMicro: CVE-2024-21412 is an active zero-day vulnerability that was disclosed by Trend Micro's @thezdi to Microsoft &amp; published tod…",
     "tweettime": "2024-02-13, 19:30:17",
     "tweeturl": "https://twitter.com/thezdi/status/1757487375544955053",
@@ -530,7 +570,7 @@
     "expanded_url": [
         "https://issues.chromium.org/issues/40075943"
     ],
-    "tweetfavorites": 120,
+    "tweetfavorites": 121,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 36,
@@ -1214,7 +1254,7 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 136,
+    "tweetfavorites": 138,
     "tweetquotes": 0,
     "tweetreplies": 5,
     "tweetretweets": 30,
