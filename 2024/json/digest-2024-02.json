@@ -2,11 +2,34 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 114,
+    "tweettext": "RT @TheHackersNews: ⚠️ CISA warns of hackers exploiting a security flaw (CVE-2020-3259) in #Cisco Adaptive Security Appliance (ASA) and Fir…",
+    "tweettime": "2024-02-20, 17:55:22",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1760000202336023035",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 160,
     "tweettext": "RT @vxunderground: Lockbit ransomware group administration claims that law enforcement agencies compromised them by exploiting CVE-2023-382…",
     "tweettime": "2024-02-20, 10:46:55",
     "tweeturl": "https://twitter.com/Dinosn/status/1759892380746932604",
     "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/02/wordpress-bricks-theme-under-active.html"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 106,
+    "tweettext": "⚠️ Critical security flaw (CVE-2024-25600) in Bricks theme for #WordPress (used by 25,000+ sites) is being exploited by attackers to run malicious PHP code on vulnerable installations.\n\nLearn more: https://t.co/qtZc6lbuAj\n\n#cybersecurity #hacking",
+    "tweettime": "2024-02-20, 09:15:50",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1759869460855595172",
+    "username": "TheHackersNews"
 }
 {
     "tweetfavorites": 0,
@@ -347,7 +370,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21413"
     ],
-    "tweetfavorites": 94,
+    "tweetfavorites": 95,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 43,
