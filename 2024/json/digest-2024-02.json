@@ -12,11 +12,35 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 106,
+    "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
+    "tweettime": "2024-02-20, 19:39:26",
+    "tweeturl": "https://twitter.com/fdfalcon/status/1760026393306698034",
+    "username": "fdfalcon"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 114,
     "tweettext": "RT @TheHackersNews: ⚠️ CISA warns of hackers exploiting a security flaw (CVE-2020-3259) in #Cisco Adaptive Security Appliance (ASA) and Fir…",
     "tweettime": "2024-02-20, 17:55:22",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1760000202336023035",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+        "https://research.checkpoint.com/2024/the-risks-of-the-monikerlink-bug-in-microsoft-outlook-and-the-big-picture/"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 10,
+    "tweettext": "Microsoft Outlook Remote Code Execution Vulnerability PoC (CVE-2024-21413 ) : https://t.co/ny6MsWToOu credits @xaitax \n\nRef : https://t.co/EBgHGMQGmN",
+    "tweettime": "2024-02-20, 14:53:46",
+    "tweeturl": "https://twitter.com/binitamshah/status/1759954503783075875",
+    "username": "binitamshah"
 }
 {
     "tweetfavorites": 0,
@@ -75,7 +99,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 46,
+    "tweetretweets": 47,
     "tweettext": "RT @RootMoksha: CVE-2024-22024,  XXE on Ivanti Connect Secure\n\npayload encoded base64:\n\n&lt;?xml version=\"1.0\" ?&gt;&lt;!DOCTYPE root [&lt;!ENTITY % xx…",
     "tweettime": "2024-02-18, 09:20:21",
     "tweeturl": "https://twitter.com/momika233/status/1759145820816044494",
@@ -92,9 +116,9 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 90,
+    "tweetfavorites": 92,
     "tweetquotes": 1,
-    "tweetreplies": 2,
+    "tweetreplies": 3,
     "tweetretweets": 16,
     "tweettext": "🚨 CVE-2024-21413: Microsoft Office Outlook Remote Code Execution Vulnerability ‼️\n\nThis vulnerability affects: \n\n- Microsoft Office 2016\n- Microsoft Office LTSC 2021\n- Microsoft 365 Apps for Enterprise\n- Microsoft Office 2019 \n\n#infosec #Hacking #Pentesting\n#CybersecurityNews",
     "tweettime": "2024-02-18, 07:10:23",
@@ -121,7 +145,7 @@
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22",
         "http://product.name"
     ],
-    "tweetfavorites": 337,
+    "tweetfavorites": 336,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 113,
@@ -147,10 +171,10 @@
     "expanded_url": [
         "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/microsoft-office-outlook-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 101,
-    "tweetquotes": 2,
-    "tweetreplies": 12,
-    "tweetretweets": 78,
+    "tweetfavorites": 105,
+    "tweetquotes": 4,
+    "tweetreplies": 15,
+    "tweetretweets": 80,
     "tweettext": "❗ ALERT ❗ Remote code execution vulnerability found in Microsoft Office Outlook (CVE-2024-21413), which enables malicious code execution.\n\nAll Microsoft Office Outlook users are strongly advised to follow Microsoft's mitigation advice.\n\nRead more 👉 https://t.co/HU99VgYWnZ https://t.co/1Ezmw1ZrQA",
     "tweettime": "2024-02-18, 03:02:28",
     "tweeturl": "https://twitter.com/CyberGovAU/status/1759050721624834369",
@@ -160,9 +184,9 @@
     "expanded_url": [
         "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability"
     ],
-    "tweetfavorites": 285,
+    "tweetfavorites": 287,
     "tweetquotes": 0,
-    "tweetreplies": 2,
+    "tweetreplies": 3,
     "tweetretweets": 91,
     "tweettext": "CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC\nhttps://t.co/Sg9uRdeD4v",
     "tweettime": "2024-02-18, 01:14:27",
@@ -235,7 +259,7 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-released-for-microsoft-outlook-rce-flaw-cve-2024-21413/"
     ],
-    "tweetfavorites": 375,
+    "tweetfavorites": 377,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 129,
@@ -506,10 +530,10 @@
     "expanded_url": [
         "https://issues.chromium.org/issues/40075943"
     ],
-    "tweetfavorites": 111,
+    "tweetfavorites": 120,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 33,
+    "tweetretweets": 36,
     "tweettext": "\"Tianfu Cup 2023\" Chrome use-after-free vulnerability in WebAudio bug entry (CVE-2023-5996 [1497859]) is now open with a PoC:\nhttps://t.co/sJg5PyPnzk",
     "tweettime": "2024-02-12, 14:30:32",
     "tweeturl": "https://twitter.com/hosselot/status/1757049551888719973",
