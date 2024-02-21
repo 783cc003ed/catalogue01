@@ -64,7 +64,7 @@
     "tweetfavorites": 53,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 10,
     "tweettext": "Google Chrome In-The-Wild integer overflow vulnerability in Skia (CVE-2023-6345 [1505053]) happens during combining of extremely large meshes:\nhttps://t.co/SHXJoHSPk7",
     "tweettime": "2023-11-29, 13:59:07",
     "tweeturl": "https://twitter.com/hosselot/status/1729862557047947750",
