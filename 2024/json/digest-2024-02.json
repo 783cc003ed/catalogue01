@@ -69,6 +69,16 @@
     "username": "elhackernet"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 113,
+    "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
+    "tweettime": "2024-02-20, 17:25:58",
+    "tweeturl": "https://twitter.com/chompie1337/status/1759992805554897157",
+    "username": "chompie1337"
+}
+{
     "expanded_url": [
         "https://www.sonarsource.com/blog/joomla-multiple-xss-vulnerabilities/?utm_medium=social&utm_source=twitter&utm_campaign=research&utm_content=blog-joomla-multiple-xss-vulnerabilities-240220-&utm_term="
     ],
@@ -797,7 +807,7 @@
     "expanded_url": [
         "https://labs.watchtowr.com/are-we-now-part-of-ivanti/"
     ],
-    "tweetfavorites": 223,
+    "tweetfavorites": 224,
     "tweetquotes": 2,
     "tweetreplies": 6,
     "tweetretweets": 90,
