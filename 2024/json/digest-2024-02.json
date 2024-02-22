@@ -3,14 +3,27 @@
         "https://snicco.io/vulnerability-disclosure/bricks/unauthenticated-rce-in-bricks-1-9-6",
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 248,
+    "tweetfavorites": 294,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 62,
+    "tweetretweets": 70,
     "tweettext": "CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25,000+ active installations.\n\nSeverity: Critical (CVSS 9.8)\nRoot cause analysis: https://t.co/E5K0sIZQn9\nPoC: https://t.co/8DflZk7QIW\nMitigation: Upgrade https://t.co/gQWw2Ov81h",
     "tweettime": "2024-02-21, 15:40:32",
     "tweeturl": "https://twitter.com/win3zz/status/1760328659208974363",
     "username": "win3zz"
+}
+{
+    "expanded_url": [
+        "https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template"
+    ],
+    "tweetfavorites": 107,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Nuclei template and information about the POC for CVE-2024-25600, Wordpress Bricks Builder, RCE https://t.co/83S33Q035v",
+    "tweettime": "2024-02-21, 06:40:47",
+    "tweeturl": "https://twitter.com/Dinosn/status/1760192828188025336",
+    "username": "Dinosn"
 }
 {
     "tweetfavorites": 0,
@@ -73,7 +86,7 @@
         "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
         "https://research.checkpoint.com/2024/the-risks-of-the-monikerlink-bug-in-microsoft-outlook-and-the-big-picture/"
     ],
-    "tweetfavorites": 39,
+    "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 10,
@@ -185,7 +198,7 @@
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22",
         "http://product.name"
     ],
-    "tweetfavorites": 337,
+    "tweetfavorites": 336,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 114,
@@ -299,7 +312,7 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-released-for-microsoft-outlook-rce-flaw-cve-2024-21413/"
     ],
-    "tweetfavorites": 377,
+    "tweetfavorites": 376,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 129,
@@ -441,7 +454,7 @@
         "https://github.com/bjrjk/CVE-2022-4262/blob/main/FA/FA.md",
         "https://github.com/bjrjk/CVE-2022-4262/"
     ],
-    "tweetfavorites": 103,
+    "tweetfavorites": 102,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 31,
@@ -477,10 +490,10 @@
     "expanded_url": [
         "https://pastebin.com/E1WxLsEv"
     ],
-    "tweetfavorites": 201,
+    "tweetfavorites": 202,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 51,
+    "tweetretweets": 52,
     "tweettext": "Juniper RCE CVE-2023-36845 PoC  #BugBounty \n\nhttps://t.co/FNl1AnZmmS",
     "tweettime": "2024-02-13, 20:21:13",
     "tweeturl": "https://twitter.com/nav1n0x/status/1757500195032465835",
