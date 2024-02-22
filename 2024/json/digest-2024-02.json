@@ -1,12 +1,32 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 120,
+    "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
+    "tweettime": "2024-02-22, 06:16:59",
+    "tweeturl": "https://twitter.com/Dinosn/status/1760549226663002417",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 134,
+    "tweettext": "RT @win3zz: CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25…",
+    "tweettime": "2024-02-21, 20:49:25",
+    "tweeturl": "https://twitter.com/steventseeley/status/1760406393360961800",
+    "username": "steventseeley"
+}
+{
     "expanded_url": [
         "https://snicco.io/vulnerability-disclosure/bricks/unauthenticated-rce-in-bricks-1-9-6",
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 377,
+    "tweetfavorites": 573,
     "tweetquotes": 2,
-    "tweetreplies": 3,
-    "tweetretweets": 87,
+    "tweetreplies": 6,
+    "tweetretweets": 145,
     "tweettext": "CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25,000+ active installations.\n\nSeverity: Critical (CVSS 9.8)\nRoot cause analysis: https://t.co/E5K0sIZQn9\nPoC: https://t.co/8DflZk7QIW\nMitigation: Upgrade https://t.co/gQWw2Ov81h",
     "tweettime": "2024-02-21, 15:40:32",
     "tweeturl": "https://twitter.com/win3zz/status/1760328659208974363",
@@ -44,6 +64,16 @@
     "tweettime": "2024-02-20, 19:39:26",
     "tweeturl": "https://twitter.com/fdfalcon/status/1760026393306698034",
     "username": "fdfalcon"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "RT @bl4sty: I created a hyper realistic and handwavey re-enactment of the lockbit CVE-2023-3824 attack after some insights from PHP interna…",
+    "tweettime": "2024-02-20, 18:07:07",
+    "tweeturl": "https://twitter.com/steventseeley/status/1760003162944221241",
+    "username": "steventseeley"
 }
 {
     "tweetfavorites": 0,
@@ -142,7 +172,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 184,
+    "tweetretweets": 235,
     "tweettext": "RT @xaitax: ⚠️ Update for CVE-2024-21413 💣\nManaged &amp; confirmed Microsoft Outlook Remote Code Execution (RCE) but won't publish details (yet…",
     "tweettime": "2024-02-19, 00:17:00",
     "tweeturl": "https://twitter.com/steventseeley/status/1759371467542978806",
