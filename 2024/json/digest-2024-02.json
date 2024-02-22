@@ -3,10 +3,10 @@
         "https://snicco.io/vulnerability-disclosure/bricks/unauthenticated-rce-in-bricks-1-9-6",
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 294,
+    "tweetfavorites": 377,
     "tweetquotes": 2,
-    "tweetreplies": 1,
-    "tweetretweets": 70,
+    "tweetreplies": 3,
+    "tweetretweets": 87,
     "tweettext": "CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25,000+ active installations.\n\nSeverity: Critical (CVSS 9.8)\nRoot cause analysis: https://t.co/E5K0sIZQn9\nPoC: https://t.co/8DflZk7QIW\nMitigation: Upgrade https://t.co/gQWw2Ov81h",
     "tweettime": "2024-02-21, 15:40:32",
     "tweeturl": "https://twitter.com/win3zz/status/1760328659208974363",
@@ -524,10 +524,10 @@
     "username": "TrendMicro"
 }
 {
-    "tweetfavorites": 198,
+    "tweetfavorites": 232,
     "tweetquotes": 2,
-    "tweetreplies": 5,
-    "tweetretweets": 47,
+    "tweetreplies": 7,
+    "tweetretweets": 54,
     "tweettext": "APT GROUP WATER HYDRA EXPLOITS CVE-2024-21412 VULNERABILITY IN ZERO-DAY ATTACK\n\nEarlier today, Microsoft released a patch for CVE-2024-21412, a previously unknown vulnerability in Microsoft’s Windows Defender SmartScreen that allowed threat actors to bypass its security features… https://t.co/2T14kk61DL",
     "tweettime": "2024-02-13, 19:15:01",
     "tweeturl": "https://twitter.com/TrendMicroRSRCH/status/1757483531494719725",
