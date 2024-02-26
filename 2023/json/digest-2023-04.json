@@ -244,7 +244,7 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 221,
+    "tweetfavorites": 220,
     "tweetquotes": 20,
     "tweetreplies": 15,
     "tweetretweets": 119,
@@ -329,10 +329,10 @@
     "expanded_url": [
         "https://securelist.com/nokoyawa-ransomware-attacks-with-windows-zero-day/109483/"
     ],
-    "tweetfavorites": 411,
+    "tweetfavorites": 409,
     "tweetquotes": 16,
     "tweetreplies": 5,
-    "tweetretweets": 189,
+    "tweetretweets": 188,
     "tweettext": "We found a new zero-day (CVE-2023-28252) in Microsoft Windows used in Nokoyawa ransomware attacks\nhttps://t.co/LHM1ITb6KQ",
     "tweettime": "2023-04-11, 17:47:41",
     "tweeturl": "https://twitter.com/oct0xor/status/1645846093526355968",

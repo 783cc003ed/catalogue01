@@ -1,4 +1,53 @@
 {
+    "expanded_url": [
+        "http://www.kitploit.com/2024/02/cve-2024-23897-jenkins-2441-lts-24262.html"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 39,
+    "tweettext": "CVE-2024-23897 - Jenkins &lt;=2.441 &amp; &lt;=LTS 2.426.2 PoC And Scanner https://t.co/GYGBTyOErf",
+    "tweettime": "2024-02-25, 12:37:50",
+    "tweeturl": "https://twitter.com/Dinosn/status/1761732231943401884",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-1071-wordpress-ultimate-member-plugin-under-active-attack/"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "WordPress Ultimate Member Plugin Under Active Attack: Critical Flaw (CVE-2024-1071) Impacts 200k Sites https://t.co/6M03Ae9zir",
+    "tweettime": "2024-02-25, 11:45:44",
+    "tweeturl": "https://twitter.com/Dinosn/status/1761719122444837125",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://dev.to/tutorialboy/analyzing-the-google-chrome-v8-cve-2024-0517-out-of-bounds-code-execution-vulnerability-28i3"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Analyzing the Google Chrome V8 CVE-2024-0517 Out-of-Bounds Code Execution Vulnerability https://t.co/Kuap8tACHf",
+    "tweettime": "2024-02-24, 15:11:07",
+    "tweeturl": "https://twitter.com/Dinosn/status/1761408419045495004",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 91,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 24,
+    "tweettext": "Alleged Microsoft Outlook CVE-2024-21413 RCE Exploit is shared\n\nThe bug not only allows the leaking of the local NTLM information, but it may also allow remote code execution and more as an attack vector. It could also bypass the Office Protected View when it’s used as an attack… https://t.co/AaGqN0dIQl",
+    "tweettime": "2024-02-22, 15:00:16",
+    "tweeturl": "https://twitter.com/DailyDarkWeb/status/1760680914479411587",
+    "username": "DailyDarkWeb"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -17,6 +66,20 @@
     "tweettime": "2024-02-21, 20:49:25",
     "tweeturl": "https://twitter.com/steventseeley/status/1760406393360961800",
     "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://patchstack.com/articles/critical-rce-patched-in-bricks-builder-theme/",
+        "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-rce-flaw-in-bricks-wordpress-site-builder/"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "💣 CVE-2024-25600: WordPress’s Bricks Builder RCE Flaw Under Active Exploitation.\n\nIPs used in attacks:\n200.251.23.57\n92.118.170.216\n103.187.5.128\n149.202.55.79\n5.252.118.211\n91.108.240.52\n\n[+] https://t.co/chRg7Y8yWV\n[+] https://t.co/3wajGiNppi\n\nPoC 👇",
+    "tweettime": "2024-02-21, 17:10:58",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1760351417473106245",
+    "username": "1ZRR4H"
 }
 {
     "expanded_url": [
@@ -59,7 +122,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 106,
+    "tweetretweets": 130,
     "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
     "tweettime": "2024-02-20, 19:39:26",
     "tweeturl": "https://twitter.com/fdfalcon/status/1760026393306698034",
@@ -126,10 +189,10 @@
         "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
         "https://research.checkpoint.com/2024/the-risks-of-the-monikerlink-bug-in-microsoft-outlook-and-the-big-picture/"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 41,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 10,
+    "tweetretweets": 11,
     "tweettext": "Microsoft Outlook Remote Code Execution Vulnerability PoC (CVE-2024-21413 ) : https://t.co/ny6MsWToOu credits @xaitax \n\nRef : https://t.co/EBgHGMQGmN",
     "tweettime": "2024-02-20, 14:53:46",
     "tweeturl": "https://twitter.com/binitamshah/status/1759954503783075875",
@@ -567,7 +630,7 @@
     "tweetfavorites": 235,
     "tweetquotes": 2,
     "tweetreplies": 7,
-    "tweetretweets": 55,
+    "tweetretweets": 54,
     "tweettext": "APT GROUP WATER HYDRA EXPLOITS CVE-2024-21412 VULNERABILITY IN ZERO-DAY ATTACK\n\nEarlier today, Microsoft released a patch for CVE-2024-21412, a previously unknown vulnerability in Microsoft’s Windows Defender SmartScreen that allowed threat actors to bypass its security features… https://t.co/2T14kk61DL",
     "tweettime": "2024-02-13, 19:15:01",
     "tweeturl": "https://twitter.com/TrendMicroRSRCH/status/1757483531494719725",
@@ -623,10 +686,10 @@
     "expanded_url": [
         "https://issues.chromium.org/issues/40075943"
     ],
-    "tweetfavorites": 121,
+    "tweetfavorites": 124,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 36,
+    "tweetretweets": 38,
     "tweettext": "\"Tianfu Cup 2023\" Chrome use-after-free vulnerability in WebAudio bug entry (CVE-2023-5996 [1497859]) is now open with a PoC:\nhttps://t.co/sJg5PyPnzk",
     "tweettime": "2024-02-12, 14:30:32",
     "tweeturl": "https://twitter.com/hosselot/status/1757049551888719973",
