@@ -245,7 +245,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 227,
+    "tweetretweets": 240,
     "tweettext": "RT @xaitax: ⚠️ Update for CVE-2024-21413 💣\nManaged &amp; confirmed Microsoft Outlook Remote Code Execution (RCE) but won't publish details (yet…",
     "tweettime": "2024-02-18, 22:47:36",
     "tweeturl": "https://twitter.com/HaifeiLi/status/1759348970348830872",
@@ -327,10 +327,10 @@
     "expanded_url": [
         "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/microsoft-office-outlook-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 105,
+    "tweetfavorites": 107,
     "tweetquotes": 4,
     "tweetreplies": 15,
-    "tweetretweets": 80,
+    "tweetretweets": 81,
     "tweettext": "❗ ALERT ❗ Remote code execution vulnerability found in Microsoft Office Outlook (CVE-2024-21413), which enables malicious code execution.\n\nAll Microsoft Office Outlook users are strongly advised to follow Microsoft's mitigation advice.\n\nRead more 👉 https://t.co/HU99VgYWnZ https://t.co/1Ezmw1ZrQA",
     "tweettime": "2024-02-18, 03:02:28",
     "tweeturl": "https://twitter.com/CyberGovAU/status/1759050721624834369",
@@ -340,10 +340,10 @@
     "expanded_url": [
         "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability"
     ],
-    "tweetfavorites": 287,
+    "tweetfavorites": 290,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 91,
+    "tweetretweets": 92,
     "tweettext": "CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC\nhttps://t.co/Sg9uRdeD4v",
     "tweettime": "2024-02-18, 01:14:27",
     "tweeturl": "https://twitter.com/momika233/status/1759023540014379277",
