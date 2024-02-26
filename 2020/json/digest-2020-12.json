@@ -62,10 +62,10 @@
     "expanded_url": [
         "https://bugs.chromium.org/p/project-zero/issues/detail?id=2096"
     ],
-    "tweetfavorites": 381,
+    "tweetfavorites": 380,
     "tweetquotes": 15,
     "tweetreplies": 4,
-    "tweetretweets": 151,
+    "tweetretweets": 150,
     "tweettext": "In May, Kaspersky (@oct0xor) discovered CVE-2020-0986 in Windows splwow64 was exploited itw as a 0day. Microsoft released a patch in June, but that patch didnt fix the vuln. After reporting that bad fix in Sept under a 90day deadline, it's still not fixed. https://t.co/WDGNs3JGka",
     "tweettime": "2020-12-23, 16:22:46",
     "tweeturl": "https://twitter.com/maddiestone/status/1341781305126612995",
