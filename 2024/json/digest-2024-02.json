@@ -77,11 +77,31 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 214,
+    "tweettext": "RT @win3zz: CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25…",
+    "tweettime": "2024-02-22, 09:46:42",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1760602002550075564",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 120,
     "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
     "tweettime": "2024-02-22, 06:16:59",
     "tweeturl": "https://twitter.com/Dinosn/status/1760549226663002417",
     "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "RT @bl4sty: I created a hyper realistic and handwavey re-enactment of the lockbit CVE-2023-3824 attack after some insights from PHP interna…",
+    "tweettime": "2024-02-22, 04:48:46",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1760527024836194592",
+    "username": "kmkz_security"
 }
 {
     "tweetfavorites": 0,
@@ -298,7 +318,7 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 92,
+    "tweetfavorites": 93,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 16,

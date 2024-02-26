@@ -71,7 +71,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 222,
+    "tweetfavorites": 223,
     "tweetquotes": 9,
     "tweetreplies": 9,
     "tweetretweets": 107,
@@ -202,10 +202,10 @@
     "expanded_url": [
         "https://blog.isosceles.com/the-webp-0day/"
     ],
-    "tweetfavorites": 850,
+    "tweetfavorites": 849,
     "tweetquotes": 32,
-    "tweetreplies": 16,
-    "tweetretweets": 344,
+    "tweetreplies": 15,
+    "tweetretweets": 341,
     "tweettext": "\"The WebP 0day\" -- a full technical analysis the recently patched vulnerability in the WebP image library that was exploited in the wild (CVE-2023-4863). https://t.co/6yUcE9sOZa",
     "tweettime": "2023-09-21, 17:20:30",
     "tweeturl": "https://twitter.com/benhawkes/status/1704908471815356506",
@@ -277,7 +277,7 @@
     "tweetfavorites": 473,
     "tweetquotes": 13,
     "tweetreplies": 10,
-    "tweetretweets": 297,
+    "tweetretweets": 298,
     "tweettext": "Urgent: Google releases patch for a new Chrome zero-day #vulnerability (CVE-2023-4863) that's being exploited in the wild.\n\nRead: https://t.co/41SANY0lKi\n\nDon't wait—update your browser now to protect against potential cyber threats.\n\n#cybersecurity #informationsecurity",
     "tweettime": "2023-09-12, 05:17:51",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1701465123095785662",
