@@ -39,6 +39,20 @@
 }
 {
     "expanded_url": [
+        "https://github.com/Chocapikk/CVE-2024-25600",
+        "https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "PoC + Nuclei + Query CVE-2024-25600 Unauth RCE - WordPress Bricks - 1.9.6 CVSS 9.8\n\nQuery Fofa: body=\"/wp-content/themes/bricks/\"\n\nPOC : https://t.co/i1rGwSHJbn) \n\nNuclei : https://t.co/24WFRoIegF)",
+    "tweettime": "2024-02-25, 10:25:26",
+    "tweeturl": "https://twitter.com/akaclandestine/status/1761698912933462509",
+    "username": "akaclandestine"
+}
+{
+    "expanded_url": [
         "https://dev.to/tutorialboy/analyzing-the-google-chrome-v8-cve-2024-0517-out-of-bounds-code-execution-vulnerability-28i3"
     ],
     "tweetfavorites": 66,
@@ -178,10 +192,10 @@
         "https://snicco.io/vulnerability-disclosure/bricks/unauthenticated-rce-in-bricks-1-9-6",
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 793,
+    "tweetfavorites": 794,
     "tweetquotes": 4,
     "tweetreplies": 9,
-    "tweetretweets": 214,
+    "tweetretweets": 216,
     "tweettext": "CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25,000+ active installations.\n\nSeverity: Critical (CVSS 9.8)\nRoot cause analysis: https://t.co/E5K0sIZQn9\nPoC: https://t.co/8DflZk7QIW\nMitigation: Upgrade https://t.co/gQWw2Ov81h",
     "tweettime": "2024-02-21, 15:40:32",
     "tweeturl": "https://twitter.com/win3zz/status/1760328659208974363",
@@ -191,10 +205,10 @@
     "expanded_url": [
         "https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template"
     ],
-    "tweetfavorites": 107,
-    "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 29,
+    "tweetfavorites": 151,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 48,
     "tweettext": "Nuclei template and information about the POC for CVE-2024-25600, Wordpress Bricks Builder, RCE https://t.co/83S33Q035v",
     "tweettime": "2024-02-21, 06:40:47",
     "tweeturl": "https://twitter.com/Dinosn/status/1760192828188025336",
@@ -244,7 +258,7 @@
     "expanded_url": [
         "https://github.com/duy-31/CVE-2024-21413"
     ],
-    "tweetfavorites": 44,
+    "tweetfavorites": 46,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 18,
@@ -393,10 +407,10 @@
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22",
         "http://product.name"
     ],
-    "tweetfavorites": 336,
+    "tweetfavorites": 348,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 114,
+    "tweetretweets": 116,
     "tweettext": "🚨Alert🚨CVE-2024-21413 Microsoft Outlook RCE Flaw \nPOC Released\n📊219.8K+ Services are found on the https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/D4e39xFXWj\nDorks 👇👇👇\nHunter:https://t.co/q9rtuGgxk7=\"Outlook Web App\"\nFOFA: app=\"Microsoft-Outlook\"\nShodan:http.component:\"outlook… https://t.co/16ogWe26WZ",
     "tweettime": "2024-02-18, 05:49:46",
     "tweeturl": "https://twitter.com/HunterMapping/status/1759092823708876814",
