@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://securityonline.info/cve-2024-26592-26594-critical-linux-kernel-flaws-open-door-for-code-execution-and-data-theft/"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2024-26592 &amp; 26594: Critical Linux Kernel Flaws Open Door for Code Execution and Data Theft https://t.co/smRbZr1fjP",
+    "tweettime": "2024-02-26, 10:25:02",
+    "tweeturl": "https://twitter.com/Dinosn/status/1762061199632412759",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "http://www.kitploit.com/2024/02/cve-2024-23897-jenkins-2441-lts-24262.html"
     ],
     "tweetfavorites": 114,
@@ -49,6 +62,39 @@
     "tweettime": "2024-02-24, 12:56:38",
     "tweeturl": "https://twitter.com/cyber_advising/status/1761374575449845949",
     "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 138,
+    "tweettext": "RT @TheHackersNews: ⚠️ Critical security flaw (CVE-2024-25600) in Bricks theme for #WordPress (used by 25,000+ sites) is being exploited by…",
+    "tweettime": "2024-02-23, 14:14:12",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1761031711067197603",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 163,
+    "tweettext": "RT @TheHackersNews: 🚨 Attention #VMware users!\n\nNew flaws identified (CVE-2024-22245 &amp; CVE-2024-22250) in the EAP plugin. Attackers could e…",
+    "tweettime": "2024-02-23, 14:13:54",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1761031634781192484",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html"
+    ],
+    "tweetfavorites": 120,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 56,
+    "tweettext": "Researchers uncovered details of a major #vulnerability (CVE-2024-23204) in the #Apple Shortcuts app that could have exposed sensitive user data without consent on older #iOS, iPadOS, #macOS, and watchOS devices.\n\nLearn more: https://t.co/pGeMMXOTHe\n\n#cybersecurity #hacking",
+    "tweettime": "2024-02-23, 05:06:37",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1760893905825067103",
+    "username": "TheHackersNews"
 }
 {
     "tweetfavorites": 91,
@@ -332,7 +378,7 @@
         "https://amitschendel.github.io/vulnerabilites/CVE-2024-20328/",
         "https://infosec.exchange/@raptor/111951116036793919"
     ],
-    "tweetfavorites": 47,
+    "tweetfavorites": 48,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 14,
