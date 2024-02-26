@@ -38,6 +38,19 @@
     "username": "Dinosn"
 }
 {
+    "expanded_url": [
+        "https://github.com/Chocapikk/CVE-2024-25600"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2024-25600 vulnerability 🕳️ found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites...\n\nPoC\nhttps://t.co/TfD9F5XW98 https://t.co/LAfdXfktYL",
+    "tweettime": "2024-02-24, 12:56:38",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1761374575449845949",
+    "username": "cyber_advising"
+}
+{
     "tweetfavorites": 91,
     "tweetquotes": 0,
     "tweetreplies": 1,
@@ -46,6 +59,19 @@
     "tweettime": "2024-02-22, 15:00:16",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1760680914479411587",
     "username": "DailyDarkWeb"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-22243-spring-framework-flaw-opens-doors-to-redirects-and-ssrf-attacks/"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2024-22243: Spring Framework Flaw Opens Doors to Redirects and SSRF Attacks https://t.co/KdRPiAWO2z",
+    "tweettime": "2024-02-22, 09:54:27",
+    "tweeturl": "https://twitter.com/Dinosn/status/1760603951303401720",
+    "username": "Dinosn"
 }
 {
     "tweetfavorites": 0,
@@ -165,7 +191,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 113,
+    "tweetretweets": 130,
     "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
     "tweettime": "2024-02-20, 17:25:58",
     "tweeturl": "https://twitter.com/chompie1337/status/1759992805554897157",
@@ -606,7 +632,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 42,
+    "tweetretweets": 49,
     "tweettext": "RT @TrendMicro: CVE-2024-21412 is an active zero-day vulnerability that was disclosed by Trend Micro's @thezdi to Microsoft &amp; published tod…",
     "tweettime": "2024-02-13, 19:30:17",
     "tweeturl": "https://twitter.com/thezdi/status/1757487375544955053",
@@ -1118,10 +1144,10 @@
     "expanded_url": [
         "https://github.com/hrtowii/CVE-2024-23208-test"
     ],
-    "tweetfavorites": 76,
+    "tweetfavorites": 127,
     "tweetquotes": 2,
-    "tweetreplies": 5,
-    "tweetretweets": 13,
+    "tweetreplies": 6,
+    "tweetretweets": 23,
     "tweettext": "Got a working POC for CVE-2024-23208 UaF in one app. It uses the keyboard extension for the receiver.\nInstructions to crash your phone:\nPress go\nOpen the keyboard\nClear the app\nGithub: https://t.co/LXA6yW5Ul5",
     "tweettime": "2024-02-04, 16:59:27",
     "tweeturl": "https://twitter.com/htrowii/status/1754187925968032134",
