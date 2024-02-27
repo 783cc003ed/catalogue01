@@ -78,10 +78,10 @@
     "expanded_url": [
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 34,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 12,
     "tweettext": "CVE-2024-25600 vulnerability 🕳️ found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites...\n\nPoC\nhttps://t.co/TfD9F5XW98 https://t.co/LAfdXfktYL",
     "tweettime": "2024-02-24, 12:56:38",
     "tweeturl": "https://twitter.com/cyber_advising/status/1761374575449845949",
@@ -212,7 +212,7 @@
         "https://snicco.io/vulnerability-disclosure/bricks/unauthenticated-rce-in-bricks-1-9-6",
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 795,
+    "tweetfavorites": 796,
     "tweetquotes": 4,
     "tweetreplies": 9,
     "tweetretweets": 215,
@@ -261,7 +261,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 130,
+    "tweetretweets": 134,
     "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
     "tweettime": "2024-02-20, 19:39:26",
     "tweeturl": "https://twitter.com/fdfalcon/status/1760026393306698034",
@@ -466,10 +466,10 @@
     "expanded_url": [
         "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/microsoft-office-outlook-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 107,
+    "tweetfavorites": 108,
     "tweetquotes": 4,
     "tweetreplies": 15,
-    "tweetretweets": 81,
+    "tweetretweets": 82,
     "tweettext": "❗ ALERT ❗ Remote code execution vulnerability found in Microsoft Office Outlook (CVE-2024-21413), which enables malicious code execution.\n\nAll Microsoft Office Outlook users are strongly advised to follow Microsoft's mitigation advice.\n\nRead more 👉 https://t.co/HU99VgYWnZ https://t.co/1Ezmw1ZrQA",
     "tweettime": "2024-02-18, 03:02:28",
     "tweeturl": "https://twitter.com/CyberGovAU/status/1759050721624834369",
