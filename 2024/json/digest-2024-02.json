@@ -202,10 +202,10 @@
         "https://snicco.io/vulnerability-disclosure/bricks/unauthenticated-rce-in-bricks-1-9-6",
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 794,
+    "tweetfavorites": 795,
     "tweetquotes": 4,
     "tweetreplies": 9,
-    "tweetretweets": 216,
+    "tweetretweets": 215,
     "tweettext": "CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25,000+ active installations.\n\nSeverity: Critical (CVSS 9.8)\nRoot cause analysis: https://t.co/E5K0sIZQn9\nPoC: https://t.co/8DflZk7QIW\nMitigation: Upgrade https://t.co/gQWw2Ov81h",
     "tweettime": "2024-02-21, 15:40:32",
     "tweeturl": "https://twitter.com/win3zz/status/1760328659208974363",
