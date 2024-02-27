@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 134,
+    "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
+    "tweettime": "2024-02-26, 22:57:04",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1762250455315296667",
+    "username": "kmkz_security"
+}
+{
     "expanded_url": [
         "https://securityonline.info/cve-2024-26592-26594-critical-linux-kernel-flaws-open-door-for-code-execution-and-data-theft/"
     ],
@@ -81,7 +91,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 46,
+    "tweetretweets": 57,
     "tweettext": "RT @Sonar_Research: 🔥Multiple XSS vulnerabilities in popular CMS Joomla! (CVE-2024-21726) 🔥\n\nPHP bug could be used to bypass sanitization -…",
     "tweettime": "2024-02-23, 20:07:13",
     "tweeturl": "https://twitter.com/steventseeley/status/1761120547340234828",
@@ -121,10 +131,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 91,
+    "tweetfavorites": 94,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 24,
+    "tweetretweets": 26,
     "tweettext": "Alleged Microsoft Outlook CVE-2024-21413 RCE Exploit is shared\n\nThe bug not only allows the leaking of the local NTLM information, but it may also allow remote code execution and more as an attack vector. It could also bypass the Office Protected View when it’s used as an attack… https://t.co/AaGqN0dIQl",
     "tweettime": "2024-02-22, 15:00:16",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1760680914479411587",
@@ -147,7 +157,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 214,
+    "tweetretweets": 215,
     "tweettext": "RT @win3zz: CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25…",
     "tweettime": "2024-02-22, 09:46:42",
     "tweeturl": "https://twitter.com/kmkz_security/status/1760602002550075564",
@@ -177,7 +187,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 216,
+    "tweetretweets": 215,
     "tweettext": "RT @win3zz: CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25…",
     "tweettime": "2024-02-21, 20:49:25",
     "tweeturl": "https://twitter.com/steventseeley/status/1760406393360961800",
@@ -802,7 +812,7 @@
     "expanded_url": [
         "https://issues.chromium.org/issues/40075943"
     ],
-    "tweetfavorites": 124,
+    "tweetfavorites": 125,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 38,
