@@ -597,10 +597,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36558"
     ],
-    "tweetfavorites": 45,
+    "tweetfavorites": 44,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 7,
+    "tweetretweets": 6,
     "tweettext": "CVE-2023-36558 \"An unauthenticated attacker could bypass validations on Blazor Server forms\": https://t.co/lyvwYs11zL\n\nReported by @blowdart 😊 Not sure we are going to see any post from him though 😱",
     "tweettime": "2023-11-15, 08:29:09",
     "tweeturl": "https://twitter.com/irsdl/status/1724706088329638243",

@@ -223,6 +223,19 @@
 }
 {
     "expanded_url": [
+        "https://www.labs.greynoise.io/grimoire/2024-02-what-is-this-old-ivanti-exploit/"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "Code injection or backdoor: A new look at Ivanti’s CVE-2021-44529\nhttps://t.co/uYGPY1hXgg",
+    "tweettime": "2024-02-21, 08:30:19",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1760220391715332195",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
         "https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template"
     ],
     "tweetfavorites": 151,
@@ -709,7 +722,7 @@
     "tweetfavorites": 150,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 54,
+    "tweetretweets": 55,
     "tweettext": "CVE-2024-21412: Internet Shortcut Files Security Feature Bypass Vulnerability\nAn unauthenticated attacker could send the targeted user a specially crafted file that is designed to bypass displayed security checks. https://t.co/yvWq5rcGzW",
     "tweettime": "2024-02-14, 18:45:45",
     "tweeturl": "https://twitter.com/cyber_advising/status/1757838555869487603",
