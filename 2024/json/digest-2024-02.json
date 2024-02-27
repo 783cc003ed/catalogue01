@@ -317,7 +317,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 130,
+    "tweetretweets": 136,
     "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
     "tweettime": "2024-02-20, 17:25:58",
     "tweeturl": "https://twitter.com/chompie1337/status/1759992805554897157",
@@ -758,7 +758,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 51,
+    "tweetretweets": 52,
     "tweettext": "RT @TrendMicro: CVE-2024-21412 is an active zero-day vulnerability that was disclosed by Trend Micro's @thezdi to Microsoft &amp; published tod…",
     "tweettime": "2024-02-13, 19:30:17",
     "tweeturl": "https://twitter.com/thezdi/status/1757487375544955053",
@@ -1522,9 +1522,9 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 138,
+    "tweetfavorites": 139,
     "tweetquotes": 0,
-    "tweetreplies": 5,
+    "tweetreplies": 6,
     "tweetretweets": 30,
     "tweettext": "CVE-2024-21626 runc container escape can be exploited on docker build if you can control the Docker file. https://t.co/7PYxzOVGCu",
     "tweettime": "2024-02-02, 11:40:43",
@@ -1542,7 +1542,7 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 50,
+    "tweetfavorites": 49,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 19,

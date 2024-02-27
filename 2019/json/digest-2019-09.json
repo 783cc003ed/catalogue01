@@ -129,6 +129,19 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2019/09/phpmyadmin-csrf-exploit.html?utm_source=social_share"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "Warning — Researcher drops PoC for a new #phpMyAdmin zero-day flaw (CVE-2019-12922) publicly that affects all versions of the popular, widely-used database management #software.\n\nDetails: https://t.co/l2zZApGJa5\n\n#infosec #webdev\n\n—via @security_wang",
+    "tweettime": "2019-09-18, 11:30:09",
+    "tweeturl": "https://twitter.com/unix_root/status/1174284470435897346",
+    "username": "unix_root"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2019/09/phpmyadmin-csrf-exploit.html"
     ],
     "tweetfavorites": 212,
