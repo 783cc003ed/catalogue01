@@ -245,7 +245,7 @@
         "https://snicco.io/vulnerability-disclosure/bricks/unauthenticated-rce-in-bricks-1-9-6",
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 796,
+    "tweetfavorites": 798,
     "tweetquotes": 4,
     "tweetreplies": 9,
     "tweetretweets": 215,
@@ -347,10 +347,10 @@
     "expanded_url": [
         "https://www.sonarsource.com/blog/joomla-multiple-xss-vulnerabilities/?utm_medium=social&utm_source=twitter&utm_campaign=research&utm_content=blog-joomla-multiple-xss-vulnerabilities-240220-&utm_term="
     ],
-    "tweetfavorites": 38,
-    "tweetquotes": 0,
+    "tweetfavorites": 62,
+    "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 6,
+    "tweetretweets": 8,
     "tweettext": "⚠️ Multiple XSS vulnerabilities in popular CMS Joomla! (CVE-2024-21726) ⚠️\n\nAttackers could trick administrators into clicking on a malicious link and gain RCE:\n\nhttps://t.co/9JVMjj6dDH\n\n#appsec #security #vulnerability #joomla",
     "tweettime": "2024-02-20, 16:55:36",
     "tweeturl": "https://twitter.com/ripstech/status/1759985164149764339",

