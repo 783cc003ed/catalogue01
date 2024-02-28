@@ -141,6 +141,19 @@
     "username": "steventseeley"
 }
 {
+    "expanded_url": [
+        "https://www.sonarsource.com/blog/joomla-multiple-xss-vulnerabilities/?utm_medium=social&utm_source=twitter&utm_campaign=research&utm_content=blog-joomla-multiple-xss-vulnerabilities-240220-&utm_term="
+    ],
+    "tweetfavorites": 268,
+    "tweetquotes": 11,
+    "tweetreplies": 1,
+    "tweetretweets": 85,
+    "tweettext": "🔥Multiple XSS vulnerabilities in popular CMS Joomla! (CVE-2024-21726) 🔥\n\nPHP bug could be used to bypass sanitization - We just disclosed the technical details behind the recent Joomla vulnerability:\n\nhttps://t.co/9JVMjj5FO9 https://t.co/k8s28WDD7f",
+    "tweettime": "2024-02-23, 16:02:28",
+    "tweeturl": "https://twitter.com/ripstech/status/1761058954577137982",
+    "username": "ripstech"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
