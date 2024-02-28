@@ -347,7 +347,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 136,
+    "tweetretweets": 138,
     "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
     "tweettime": "2024-02-20, 17:25:58",
     "tweeturl": "https://twitter.com/chompie1337/status/1759992805554897157",
@@ -868,7 +868,7 @@
     "expanded_url": [
         "https://issues.chromium.org/issues/40075943"
     ],
-    "tweetfavorites": 125,
+    "tweetfavorites": 126,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 38,
@@ -1552,7 +1552,7 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 139,
+    "tweetfavorites": 140,
     "tweetquotes": 0,
     "tweetreplies": 6,
     "tweetretweets": 30,
