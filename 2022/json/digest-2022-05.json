@@ -110,7 +110,7 @@
     "tweetfavorites": 70,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 15,
+    "tweetretweets": 14,
     "tweettext": "My theory is that this \"ms-msdt\" bug was an ITW 0day at a point, following the disclosure of the \".docx loading IE engine\" vector in the CVE-2021-40444 0day (which was patched in Sep. PT). Microsoft knew the attack at some point and *silently patched* it in December or January.",
     "tweettime": "2022-05-30, 05:51:12",
     "tweeturl": "https://twitter.com/HaifeiLi/status/1531151217266569217",
