@@ -51,7 +51,7 @@
     "expanded_url": [
         "https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story"
     ],
-    "tweetfavorites": 1852,
+    "tweetfavorites": 1851,
     "tweetquotes": 37,
     "tweetreplies": 36,
     "tweetretweets": 591,
@@ -440,7 +440,7 @@
     "tweetfavorites": 402,
     "tweetquotes": 31,
     "tweetreplies": 3,
-    "tweetretweets": 243,
+    "tweetretweets": 242,
     "tweettext": "Microsoft has detected a 0-day remote code execution exploit being used to attack SolarWinds Serv-U FTP software in limited and targeted attacks. The vulnerability being exploited is CVE-2021-35211, reported by Microsoft and recently patched by SolarWinds. https://t.co/8Z1zAjfr8f",
     "tweettime": "2021-07-13, 22:42:01",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1415079092974673920",

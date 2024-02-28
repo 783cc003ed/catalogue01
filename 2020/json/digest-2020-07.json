@@ -370,7 +370,7 @@
     "expanded_url": [
         "https://github.com/Neo23x0/sigma/blob/master/rules/windows/process_creation/win_exploit_cve_2020_1350.yml"
     ],
-    "tweetfavorites": 254,
+    "tweetfavorites": 255,
     "tweetquotes": 5,
     "tweetreplies": 5,
     "tweetretweets": 148,
@@ -620,7 +620,7 @@
     "tweetfavorites": 420,
     "tweetquotes": 4,
     "tweetreplies": 6,
-    "tweetretweets": 190,
+    "tweetretweets": 189,
     "tweettext": "Found a Remote Code Execution #Exploit on #Microsoft #Office (CVE-2020-1321) during my consulting services.\n\nThe vulnerability is triggered while parsing 3D objects and potentially affects a wide variety of Microsoft products.\n\nhttps://t.co/jsSOzaVYxI\n\n#RCE #CVE",
     "tweettime": "2020-07-11, 16:04:18",
     "tweeturl": "https://twitter.com/0xArielK/status/1281982660152352769",
