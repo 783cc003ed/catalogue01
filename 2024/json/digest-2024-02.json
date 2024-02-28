@@ -2,6 +2,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "RT @W01fh4cker: CVE-2024-23334\n\nPoc for windows: /static/../D:\\flag.txt\nPoc for Linux: /static/../../../../etc/passwd [need to fuzz \"../\"]…",
+    "tweettime": "2024-02-28, 06:16:44",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1762723488039907541",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 56,
     "tweettext": "RT @AustinLarsen_: Our team @Mandiant is releasing details on 🇨🇳 #UNC5325, who exploited CVE-2024-21893 and CVE-2024-21887 to deploy novel…",
     "tweettime": "2024-02-27, 21:28:15",
@@ -111,7 +121,7 @@
     "expanded_url": [
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 34,
+    "tweetfavorites": 35,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 12,
@@ -1290,7 +1300,7 @@
     "expanded_url": [
         "https://github.com/hrtowii/CVE-2024-23208-test"
     ],
-    "tweetfavorites": 127,
+    "tweetfavorites": 128,
     "tweetquotes": 2,
     "tweetreplies": 6,
     "tweetretweets": 23,
