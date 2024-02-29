@@ -5,7 +5,7 @@
     "tweetfavorites": 294,
     "tweetquotes": 2,
     "tweetreplies": 8,
-    "tweetretweets": 111,
+    "tweetretweets": 110,
     "tweettext": "Just wrote an article about how I found another Remote Command Execution 0day (CVE-2019-13024), this time in Centreon Infrastructure monitoring software.\n\nI performed a static code analysis in order to find the bug and then wrote the exploit using python.\n\nhttps://t.co/ElYKvEZ43I",
     "tweettime": "2019-06-30, 15:40:48",
     "tweeturl": "https://twitter.com/mohammadaskar2/status/1145356517232795649",
