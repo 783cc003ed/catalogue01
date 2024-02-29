@@ -119,6 +119,20 @@
 }
 {
     "expanded_url": [
+        "https://github.com/Chocapikk/CVE-2024-25600",
+        "https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template"
+    ],
+    "tweetfavorites": 473,
+    "tweetquotes": 0,
+    "tweetreplies": 4,
+    "tweetretweets": 132,
+    "tweettext": "PoC + Nuclei + Query CVE-2024-25600 Unauth RCE - WordPress Bricks &lt;= 1.9.6 CVSS 9.8\n\nQuery Fofa: body=\"/wp-content/themes/bricks/\"\nPoC: https://t.co/PKxK091tSN\nNuclei: https://t.co/gN8IrT0Hpc\n\n#bugbounty #bugbountytip #bugbountytips https://t.co/wyF7IqDYcO",
+    "tweettime": "2024-02-24, 17:21:07",
+    "tweeturl": "https://twitter.com/adrielsec/status/1761441134293717266",
+    "username": "adrielsec"
+}
+{
+    "expanded_url": [
         "https://dev.to/tutorialboy/analyzing-the-google-chrome-v8-cve-2024-0517-out-of-bounds-code-execution-vulnerability-28i3"
     ],
     "tweetfavorites": 66,
@@ -307,10 +321,10 @@
     "expanded_url": [
         "https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template"
     ],
-    "tweetfavorites": 151,
+    "tweetfavorites": 153,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 48,
+    "tweetretweets": 47,
     "tweettext": "Nuclei template and information about the POC for CVE-2024-25600, Wordpress Bricks Builder, RCE https://t.co/83S33Q035v",
     "tweettime": "2024-02-21, 06:40:47",
     "tweeturl": "https://twitter.com/Dinosn/status/1760192828188025336",
