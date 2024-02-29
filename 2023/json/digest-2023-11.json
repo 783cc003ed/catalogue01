@@ -728,10 +728,10 @@
     "expanded_url": [
         "https://github.com/chromium/chromium/commit/4997f2ba263ff7e1dbc7987dd3665459be14dffe"
     ],
-    "tweetfavorites": 76,
+    "tweetfavorites": 77,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 15,
+    "tweetretweets": 16,
     "tweettext": "\"Tianfu Cup 2023\" Chrome use-after-free vulnerability in WebAudio (CVE-2023-5996 [1497859]) is fixed by ignoring channel count update after the context is closed:\nhttps://t.co/9wZdcSA3FB",
     "tweettime": "2023-11-13, 16:47:06",
     "tweeturl": "https://twitter.com/hosselot/status/1724106627106603492",
@@ -879,10 +879,10 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 59,
+    "tweetfavorites": 60,
     "tweetquotes": 2,
     "tweetreplies": 12,
-    "tweetretweets": 31,
+    "tweetretweets": 30,
     "tweettext": "🛡️ @CISAgov added 2 🆕 vulnerabilities to the Known Exploited Vulnerabilities Catalog: CVE-2023-46604: #Apache ActiveMQ Deserialization of Untrusted Data Vulnerability &amp; CVE-2023-29552: Service Location Protocol (SLP) Denial-of-Service Vulnerability. 👉https://t.co/myxOwap1Tf https://t.co/wT815lxT12",
     "tweettime": "2023-11-07, 16:16:59",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1721924719077700072",
