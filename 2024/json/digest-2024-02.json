@@ -12,7 +12,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 87,
+    "tweetretweets": 90,
     "tweettext": "RT @AustinLarsen_: Our team @Mandiant is releasing details on 🇨🇳 #UNC5325, who exploited CVE-2024-21893 and CVE-2024-21887 to deploy novel…",
     "tweettime": "2024-02-27, 21:28:15",
     "tweeturl": "https://twitter.com/kmkz_security/status/1762590491277672659",
@@ -121,7 +121,7 @@
     "expanded_url": [
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 35,
+    "tweetfavorites": 36,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 12,
@@ -317,7 +317,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 134,
+    "tweetretweets": 138,
     "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
     "tweettime": "2024-02-20, 19:39:26",
     "tweeturl": "https://twitter.com/fdfalcon/status/1760026393306698034",
@@ -881,10 +881,10 @@
     "expanded_url": [
         "https://issues.chromium.org/issues/40075943"
     ],
-    "tweetfavorites": 126,
+    "tweetfavorites": 127,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 38,
+    "tweetretweets": 39,
     "tweettext": "\"Tianfu Cup 2023\" Chrome use-after-free vulnerability in WebAudio bug entry (CVE-2023-5996 [1497859]) is now open with a PoC:\nhttps://t.co/sJg5PyPnzk",
     "tweettime": "2024-02-12, 14:30:32",
     "tweeturl": "https://twitter.com/hosselot/status/1757049551888719973",
