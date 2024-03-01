@@ -319,7 +319,7 @@
         "https://sysdig.com/blog/cve-2022-42889-text4shell/?fbclid=IwAR390dT6t-APZtG9HJiUaWYWY-MARztD_-Z2ggwEbaYngaTaCvXCRar2sk8",
         "https://github.com/ClickCyber/cve-2022-42889"
     ],
-    "tweetfavorites": 1230,
+    "tweetfavorites": 1231,
     "tweetquotes": 12,
     "tweetreplies": 12,
     "tweetretweets": 504,
@@ -1027,7 +1027,7 @@
     "tweetfavorites": 1789,
     "tweetquotes": 12,
     "tweetreplies": 27,
-    "tweetretweets": 579,
+    "tweetretweets": 578,
     "tweettext": "I wrote a quick Nmap script to scan for servers potentially vulnerable to #ProxyNotShell (based on Microsoft's recommended URL blocking rule) I hope it can be useful for someone :)\n\n[+] https://t.co/QsCw3D0dr7\n\n#0day CVE-2022-40140 CVE-2022-41082 https://t.co/7Rzghqsfyi",
     "tweettime": "2022-10-02, 07:15:51",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1576471006373613569",

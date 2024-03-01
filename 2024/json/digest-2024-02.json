@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html"
     ],
-    "tweetfavorites": 145,
+    "tweetfavorites": 187,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 77,
+    "tweetretweets": 92,
     "tweettext": "⚠️ Lazarus Group hackers found exploiting a Windows kernel zero-day #vulnerability (CVE-2024-21338) weeks after a patch was released, allowing them to gain system-level control and disable security software on targeted systems.\n\nDetails here: https://t.co/KrOZA7iB3F\n\n#hacking",
     "tweettime": "2024-02-29, 11:20:34",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1763162340722348408",
@@ -36,6 +36,32 @@
     "tweettime": "2024-02-29, 08:02:23",
     "tweeturl": "https://twitter.com/blackorbird/status/1763112467654414386",
     "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html"
+    ],
+    "tweetfavorites": 187,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 95,
+    "tweettext": "🛑 Attention APT hunters! Chinese hacker groups UNC5325 &amp; UNC3886 are exploiting Ivanti flaws (CVE-2024-21893 &amp; CVE-2024-21887) to deploy persistent malware (LITTLELAMB.WOOLTEA, PITSTOP, PITDOG, PITJET, PITHOOK).\n\nLearn more: https://t.co/azo0heBftu\n\n#hacking #cybersecurity",
+    "tweettime": "2024-02-29, 05:50:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1763079341934870752",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/zero-day-alert-cve-2024-21338-lazarus-group-exploits-windows-kernel-vulnerability/"
+    ],
+    "tweetfavorites": 194,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "Zero-Day Alert (CVE-2024-21338): Lazarus Group Exploits Windows Kernel Vulnerability https://t.co/uEzAPySVEA",
+    "tweettime": "2024-02-29, 03:54:49",
+    "tweeturl": "https://twitter.com/Dinosn/status/1763050163298308380",
+    "username": "Dinosn"
 }
 {
     "expanded_url": [
@@ -110,7 +136,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 59,
+    "tweetretweets": 63,
     "tweettext": "RT @HunterMapping: 🚨Alert🚨CVE-2024-1071: WordPress Ultimate Member Plugin is under active attack!\n⚠It manifests in versions 2.1.3 to 2.8.2…",
     "tweettime": "2024-02-26, 15:41:36",
     "tweeturl": "https://twitter.com/momika233/status/1762140866268020921",
@@ -203,7 +229,7 @@
     "tweetfavorites": 36,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 13,
     "tweettext": "CVE-2024-25600 vulnerability 🕳️ found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites...\n\nPoC\nhttps://t.co/TfD9F5XW98 https://t.co/LAfdXfktYL",
     "tweettime": "2024-02-24, 12:56:38",
     "tweeturl": "https://twitter.com/cyber_advising/status/1761374575449845949",
@@ -269,7 +295,7 @@
     "tweetfavorites": 94,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 26,
+    "tweetretweets": 27,
     "tweettext": "Alleged Microsoft Outlook CVE-2024-21413 RCE Exploit is shared\n\nThe bug not only allows the leaking of the local NTLM information, but it may also allow remote code execution and more as an attack vector. It could also bypass the Office Protected View when it’s used as an attack… https://t.co/AaGqN0dIQl",
     "tweettime": "2024-02-22, 15:00:16",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1760680914479411587",
@@ -396,7 +422,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 138,
+    "tweetretweets": 146,
     "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
     "tweettime": "2024-02-20, 19:39:26",
     "tweeturl": "https://twitter.com/fdfalcon/status/1760026393306698034",
@@ -439,7 +465,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 138,
+    "tweetretweets": 151,
     "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
     "tweettime": "2024-02-20, 17:25:58",
     "tweeturl": "https://twitter.com/chompie1337/status/1759992805554897157",

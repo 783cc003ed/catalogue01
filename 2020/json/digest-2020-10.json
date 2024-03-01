@@ -232,10 +232,10 @@
     "expanded_url": [
         "http://blog.pi3.com.pl/?p=780"
     ],
-    "tweetfavorites": 489,
+    "tweetfavorites": 487,
     "tweetquotes": 9,
     "tweetreplies": 1,
-    "tweetretweets": 251,
+    "tweetretweets": 250,
     "tweettext": "Hacker publishes a detailed explanation of the exploitation of Windows TCP/IP remote code execution (CVE-2020-16898) vulnerability.\n\nhttps://t.co/P3HuTggpYY",
     "tweettime": "2020-10-17, 06:48:33",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1317356809787592705",
@@ -504,7 +504,7 @@
     "expanded_url": [
         "https://www.reddit.com/r/blueteamsec/comments/jal83d/cve202016952_microsoft_sharepoint_server/"
     ],
-    "tweetfavorites": 292,
+    "tweetfavorites": 291,
     "tweetquotes": 7,
     "tweetreplies": 2,
     "tweetretweets": 132,
@@ -591,7 +591,7 @@
         "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/cve-2020-16898-bad-neighbor",
         "https://github.com/advanced-threat-research/CVE-2020-16898"
     ],
-    "tweetfavorites": 206,
+    "tweetfavorites": 207,
     "tweetquotes": 9,
     "tweetreplies": 3,
     "tweetretweets": 136,
