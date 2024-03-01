@@ -1,5 +1,44 @@
 {
     "expanded_url": [
+        "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386)\nhttps://t.co/CJIdof7Q1j",
+    "tweettime": "2024-02-29, 14:18:04",
+    "tweeturl": "https://twitter.com/Dinosn/status/1763207009883578414",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 77,
+    "tweettext": "⚠️ Lazarus Group hackers found exploiting a Windows kernel zero-day #vulnerability (CVE-2024-21338) weeks after a patch was released, allowing them to gain system-level control and disable security software on targeted systems.\n\nDetails here: https://t.co/KrOZA7iB3F\n\n#hacking",
+    "tweettime": "2024-02-29, 11:20:34",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1763162340722348408",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/"
+    ],
+    "tweetfavorites": 247,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 94,
+    "tweettext": "#Lazarus exploited a flaw in the Windows AppLocker driver (appid.sys) as a zero-day to gain kernel-level access and turn off security tools.CVE-2024-21338\nBeyond BYOVD with an Admin-to-Kernel Zero-Day\nhttps://t.co/irFNz3Dntt https://t.co/Hfco33UPBm",
+    "tweettime": "2024-02-29, 08:02:23",
+    "tweeturl": "https://twitter.com/blackorbird/status/1763112467654414386",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
         "https://www.labs.greynoise.io/grimoire/2024-02-what-is-this-old-ivanti-exploit/"
     ],
     "tweetfavorites": 32,
@@ -30,6 +69,19 @@
     "tweettime": "2024-02-27, 21:28:15",
     "tweeturl": "https://twitter.com/kmkz_security/status/1762590491277672659",
     "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/02/wordpress-litespeed-plugin.html"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "Patch your LiteSpeed Cache plugin for #WordPress against CVE-2023-40000. This flaw could lead to unauthorized site takeover.\n\nClick for details: https://t.co/Sb1XpzctY5\n\n#cybersecurity #hacking",
+    "tweettime": "2024-02-27, 14:45:19",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1762489090929267095",
+    "username": "TheHackersNews"
 }
 {
     "expanded_url": [
@@ -161,7 +213,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 87,
+    "tweetretweets": 89,
     "tweettext": "RT @Sonar_Research: 🔥Multiple XSS vulnerabilities in popular CMS Joomla! (CVE-2024-21726) 🔥\n\nPHP bug could be used to bypass sanitization -…",
     "tweettime": "2024-02-23, 20:07:13",
     "tweeturl": "https://twitter.com/steventseeley/status/1761120547340234828",
@@ -270,7 +322,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 215,
+    "tweetretweets": 216,
     "tweettext": "RT @win3zz: CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25…",
     "tweettime": "2024-02-21, 20:49:25",
     "tweeturl": "https://twitter.com/steventseeley/status/1760406393360961800",
