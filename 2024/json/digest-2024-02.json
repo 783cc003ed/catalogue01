@@ -15,7 +15,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html"
     ],
-    "tweetfavorites": 190,
+    "tweetfavorites": 194,
     "tweetquotes": 3,
     "tweetreplies": 1,
     "tweetretweets": 94,
@@ -54,10 +54,10 @@
     "expanded_url": [
         "https://securityonline.info/zero-day-alert-cve-2024-21338-lazarus-group-exploits-windows-kernel-vulnerability/"
     ],
-    "tweetfavorites": 194,
+    "tweetfavorites": 201,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 91,
+    "tweetretweets": 92,
     "tweettext": "Zero-Day Alert (CVE-2024-21338): Lazarus Group Exploits Windows Kernel Vulnerability https://t.co/uEzAPySVEA",
     "tweettime": "2024-02-29, 03:54:49",
     "tweeturl": "https://twitter.com/Dinosn/status/1763050163298308380",
@@ -90,7 +90,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 90,
+    "tweetretweets": 94,
     "tweettext": "RT @AustinLarsen_: Our team @Mandiant is releasing details on 🇨🇳 #UNC5325, who exploited CVE-2024-21893 and CVE-2024-21887 to deploy novel…",
     "tweettime": "2024-02-27, 21:28:15",
     "tweeturl": "https://twitter.com/kmkz_security/status/1762590491277672659",
@@ -126,7 +126,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 138,
+    "tweetretweets": 151,
     "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
     "tweettime": "2024-02-26, 22:57:04",
     "tweeturl": "https://twitter.com/kmkz_security/status/1762250455315296667",
