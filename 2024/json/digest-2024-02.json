@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html"
     ],
-    "tweetfavorites": 187,
+    "tweetfavorites": 190,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 92,
+    "tweetretweets": 94,
     "tweettext": "⚠️ Lazarus Group hackers found exploiting a Windows kernel zero-day #vulnerability (CVE-2024-21338) weeks after a patch was released, allowing them to gain system-level control and disable security software on targeted systems.\n\nDetails here: https://t.co/KrOZA7iB3F\n\n#hacking",
     "tweettime": "2024-02-29, 11:20:34",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1763162340722348408",
@@ -41,10 +41,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html"
     ],
-    "tweetfavorites": 187,
-    "tweetquotes": 2,
+    "tweetfavorites": 205,
+    "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 95,
+    "tweetretweets": 105,
     "tweettext": "🛑 Attention APT hunters! Chinese hacker groups UNC5325 &amp; UNC3886 are exploiting Ivanti flaws (CVE-2024-21893 &amp; CVE-2024-21887) to deploy persistent malware (LITTLELAMB.WOOLTEA, PITSTOP, PITDOG, PITJET, PITHOOK).\n\nLearn more: https://t.co/azo0heBftu\n\n#hacking #cybersecurity",
     "tweettime": "2024-02-29, 05:50:46",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1763079341934870752",
