@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) https://t.co/PR8KYjJxvR  #Pentesting #CyberSecurity #Infosec https://t.co/xkjCXbQKAD",
+    "tweettime": "2024-03-01, 18:30:18",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1763632873867747490",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
         "https://bishopfox.com/blog/cve-2024-21762-vulnerability-scanner-for-fortigate-firewalls"
     ],
     "tweetfavorites": 101,
@@ -10,4 +23,31 @@
     "tweettime": "2024-03-01, 11:07:00",
     "tweeturl": "https://twitter.com/Dinosn/status/1763521311920267632",
     "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "GitHub - vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC: Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) - https://t.co/FEuFMCEl2P",
+    "tweettime": "2024-03-01, 06:30:17",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1763451675459911823",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "http://Hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Solr%22"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "🚨Alert🚨CVE-2023-50386: Apache Solr Backup/Restore APIs RCE POC Released\n⚠Backup/Restore APIs allow for deployment of executables in malicious ConfigSets.\n📊 87.3k+ Services are found on https://t.co/WrjZaG0jRH\n🔗Hunter Link: https://t.co/84D8rqNUgJ\n\n👇👇👇Query\nHunter:… https://t.co/PaE7r2A3CZ",
+    "tweettime": "2024-03-01, 03:20:19",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1763403867050721759",
+    "username": "HunterMapping"
 }
