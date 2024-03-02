@@ -26,6 +26,19 @@
 }
 {
     "expanded_url": [
+        "https://www.cve.org/CVERecord?id=CVE-2024-0692"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 12,
+    "tweetreplies": 3,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2024-0692 The SolarWinds Security Event Manager was susceptible to Remote Code Execution Vulnerability. This vulnerability allows an unauthenticated user to abuse SolarWinds’ ser… https://t.co/EPktfpIHs5",
+    "tweettime": "2024-03-01, 09:21:05",
+    "tweeturl": "https://twitter.com/CVEnew/status/1763494657974301161",
+    "username": "CVEnew"
+}
+{
+    "expanded_url": [
         "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC"
     ],
     "tweetfavorites": 34,
