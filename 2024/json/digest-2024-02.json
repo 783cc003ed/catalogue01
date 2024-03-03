@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/"
     ],
-    "tweetfavorites": 247,
-    "tweetquotes": 3,
-    "tweetreplies": 4,
-    "tweetretweets": 94,
+    "tweetfavorites": 484,
+    "tweetquotes": 7,
+    "tweetreplies": 5,
+    "tweetretweets": 177,
     "tweettext": "#Lazarus exploited a flaw in the Windows AppLocker driver (appid.sys) as a zero-day to gain kernel-level access and turn off security tools.CVE-2024-21338\nBeyond BYOVD with an Admin-to-Kernel Zero-Day\nhttps://t.co/irFNz3Dntt https://t.co/Hfco33UPBm",
     "tweettime": "2024-02-29, 08:02:23",
     "tweeturl": "https://twitter.com/blackorbird/status/1763112467654414386",
@@ -54,7 +54,7 @@
     "expanded_url": [
         "https://securityonline.info/zero-day-alert-cve-2024-21338-lazarus-group-exploits-windows-kernel-vulnerability/"
     ],
-    "tweetfavorites": 201,
+    "tweetfavorites": 205,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 92,
@@ -277,6 +277,16 @@
     "tweettime": "2024-02-23, 14:13:54",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1761031634781192484",
     "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 94,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 30,
+    "tweettext": "🚨Alert🚨CVE-2024-1451:An issue has been discovered in GitLab CE/EE affecting all versions starting from 16.9 before 16.9.1. \n⚠A crafted payload added to the user profile page could lead to a stored XSS on the client side, allowing attackers to perform arbitrary actions on… https://t.co/DKU7yf3KiJ",
+    "tweettime": "2024-02-23, 10:27:50",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1760974742134378946",
+    "username": "HunterMapping"
 }
 {
     "expanded_url": [
