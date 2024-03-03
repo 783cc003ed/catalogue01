@@ -1,5 +1,32 @@
 {
     "expanded_url": [
+        "https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md",
+        "https://github.com/marcnewlin/hi_my_name_is_keyboard/blob/main/slides/hi_my_name_is_keyboard.pdf"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 29,
+    "tweettext": "Bluetooth vulnerabilities in Android, Linux, macOS, iOS and Windows can be exploited to pair an emulated bluetooth keyboard and inject keystrokes without user confirmation : https://t.co/lekyzS2abA  credits @marcnewlin \n\nSlides : https://t.co/RS6gZHxiIJ \n\nCVE's : \n\nCVE-2024-0230… https://t.co/ugUME8JMrf",
+    "tweettime": "2024-03-03, 13:17:43",
+    "tweeturl": "https://twitter.com/binitamshah/status/1764278987444924869",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/hikvision-patches-security-flaws-cve-2024-25063-25064-update-your-hikcentral-pro/"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Hikvision Patches Security Flaws (CVE-2024-25063 &amp; 25064): Update Your HikCentral Pro https://t.co/H9Vvx4V9z1",
+    "tweettime": "2024-03-02, 11:39:23",
+    "tweeturl": "https://twitter.com/Dinosn/status/1763891852682404210",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC"
     ],
     "tweetfavorites": 44,
