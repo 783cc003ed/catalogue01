@@ -14,6 +14,19 @@
 }
 {
     "expanded_url": [
+        "https://jhftss.github.io/CVE-2023-42942-xpcroleaccountd-Root-Privilege-Escalation/"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 13,
+    "tweettext": "PoC Released for CVE-2023-42942 – a macOS Root Privilege Escalation Vulnerability : https://t.co/DWqPDzfxek",
+    "tweettime": "2024-03-02, 14:10:03",
+    "tweeturl": "https://twitter.com/binitamshah/status/1763929767932227801",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/hikvision-patches-security-flaws-cve-2024-25063-25064-update-your-hikcentral-pro/"
     ],
     "tweetfavorites": 63,
@@ -24,6 +37,19 @@
     "tweettime": "2024-03-02, 11:39:23",
     "tweeturl": "https://twitter.com/Dinosn/status/1763891852682404210",
     "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/BishopFox/cve-2024-21762-check"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "GitHub - BishopFox/cve-2024-21762-check: Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 - https://t.co/PXD8flXrtz",
+    "tweettime": "2024-03-02, 04:04:49",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1763777455809331653",
+    "username": "piedpiper1616"
 }
 {
     "expanded_url": [
@@ -68,10 +94,10 @@
     "expanded_url": [
         "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC"
     ],
-    "tweetfavorites": 34,
+    "tweetfavorites": 42,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 12,
     "tweettext": "GitHub - vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC: Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) - https://t.co/FEuFMCEl2P",
     "tweettime": "2024-03-01, 06:30:17",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1763451675459911823",

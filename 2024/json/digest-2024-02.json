@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/"
     ],
-    "tweetfavorites": 484,
+    "tweetfavorites": 487,
     "tweetquotes": 7,
     "tweetreplies": 5,
-    "tweetretweets": 177,
+    "tweetretweets": 179,
     "tweettext": "#Lazarus exploited a flaw in the Windows AppLocker driver (appid.sys) as a zero-day to gain kernel-level access and turn off security tools.CVE-2024-21338\nBeyond BYOVD with an Admin-to-Kernel Zero-Day\nhttps://t.co/irFNz3Dntt https://t.co/Hfco33UPBm",
     "tweettime": "2024-02-29, 08:02:23",
     "tweeturl": "https://twitter.com/blackorbird/status/1763112467654414386",
@@ -80,7 +80,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 92,
+    "tweetretweets": 95,
     "tweettext": "RT @W01fh4cker: CVE-2024-23334\n\nPoc for windows: /static/../D:\\flag.txt\nPoc for Linux: /static/../../../../etc/passwd [need to fuzz \"../\"]…",
     "tweettime": "2024-02-28, 06:16:44",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1762723488039907541",
@@ -596,7 +596,7 @@
         "https://amitschendel.github.io/vulnerabilites/CVE-2024-20328/",
         "https://infosec.exchange/@raptor/111951116036793919"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 47,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 14,
