@@ -108,10 +108,10 @@
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22Solr%22"
     ],
-    "tweetfavorites": 54,
-    "tweetquotes": 0,
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetretweets": 27,
     "tweettext": "🚨Alert🚨CVE-2023-50386: Apache Solr Backup/Restore APIs RCE POC Released\n⚠Backup/Restore APIs allow for deployment of executables in malicious ConfigSets.\n📊 87.3k+ Services are found on https://t.co/WrjZaG0jRH\n🔗Hunter Link: https://t.co/84D8rqNUgJ\n\n👇👇👇Query\nHunter:… https://t.co/PaE7r2A3CZ",
     "tweettime": "2024-03-01, 03:20:19",
     "tweeturl": "https://twitter.com/HunterMapping/status/1763403867050721759",
