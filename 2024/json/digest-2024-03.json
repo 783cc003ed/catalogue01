@@ -53,6 +53,19 @@
 }
 {
     "expanded_url": [
+        "https://securityonline.info/cve-2024-0692-solarwinds-security-event-manager-unauthenticated-rce-flaw/"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 5,
+    "tweetretweets": 10,
+    "tweettext": "CVE-2024-0692: SolarWinds Security Event Manager Unauthenticated RCE Flaw https://t.co/ytGrysMAGv",
+    "tweettime": "2024-03-02, 03:50:58",
+    "tweeturl": "https://twitter.com/Dinosn/status/1763773971655188807",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC"
     ],
     "tweetfavorites": 44,
