@@ -303,7 +303,7 @@
     "tweetfavorites": 45,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 18,
+    "tweetretweets": 19,
     "tweettext": "CVE-2024-23897: Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an '@' character ... allowing unauthenticated attackers to read arbitrary files\n\nPoC\nhttps://t.co/pAk3Cw7xQx https://t.co/EVAOj8omt2",
     "tweettime": "2024-01-26, 23:41:48",
     "tweeturl": "https://twitter.com/cyber_advising/status/1751027690595872986",
@@ -1186,7 +1186,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 309,
+    "tweetfavorites": 311,
     "tweetquotes": 24,
     "tweetreplies": 23,
     "tweetretweets": 154,
