@@ -3,23 +3,33 @@
         "https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md",
         "https://github.com/marcnewlin/hi_my_name_is_keyboard/blob/main/slides/hi_my_name_is_keyboard.pdf"
     ],
-    "tweetfavorites": 75,
-    "tweetquotes": 2,
-    "tweetreplies": 3,
-    "tweetretweets": 29,
+    "tweetfavorites": 429,
+    "tweetquotes": 9,
+    "tweetreplies": 6,
+    "tweetretweets": 135,
     "tweettext": "Bluetooth vulnerabilities in Android, Linux, macOS, iOS and Windows can be exploited to pair an emulated bluetooth keyboard and inject keystrokes without user confirmation : https://t.co/lekyzS2abA  credits @marcnewlin \n\nSlides : https://t.co/RS6gZHxiIJ \n\nCVE's : \n\nCVE-2024-0230… https://t.co/ugUME8JMrf",
     "tweettime": "2024-03-03, 13:17:43",
     "tweeturl": "https://twitter.com/binitamshah/status/1764278987444924869",
     "username": "binitamshah"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @piedpiper1616: GitHub - BishopFox/cve-2024-21762-check: Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 - htt…",
+    "tweettime": "2024-03-02, 20:20:23",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1764022964318527604",
+    "username": "hackerfantastic"
+}
+{
     "expanded_url": [
         "https://jhftss.github.io/CVE-2023-42942-xpcroleaccountd-Root-Privilege-Escalation/"
     ],
-    "tweetfavorites": 39,
+    "tweetfavorites": 45,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 13,
+    "tweetretweets": 14,
     "tweettext": "PoC Released for CVE-2023-42942 – a macOS Root Privilege Escalation Vulnerability : https://t.co/DWqPDzfxek",
     "tweettime": "2024-03-02, 14:10:03",
     "tweeturl": "https://twitter.com/binitamshah/status/1763929767932227801",
