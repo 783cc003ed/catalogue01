@@ -28,8 +28,8 @@
     "expanded_url": [
         "https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/"
     ],
-    "tweetfavorites": 490,
-    "tweetquotes": 6,
+    "tweetfavorites": 491,
+    "tweetquotes": 7,
     "tweetreplies": 5,
     "tweetretweets": 179,
     "tweettext": "#Lazarus exploited a flaw in the Windows AppLocker driver (appid.sys) as a zero-day to gain kernel-level access and turn off security tools.CVE-2024-21338\nBeyond BYOVD with an Admin-to-Kernel Zero-Day\nhttps://t.co/irFNz3Dntt https://t.co/Hfco33UPBm",
