@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/hackers-exploit-connectwise.html"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 47,
+    "tweettext": "North Korean hackers exploit ConnectWise ScreenConnect vulnerabilities (CVE-2024-1708 &amp; CVE-2024-1709) to deploy TODDLERSHARK malware, adding to the notorious Kimsuky arsenal alongside BabyShark and ReconShark.\n\nLearn more: https://t.co/6dbXdY6Zfx",
+    "tweettime": "2024-03-05, 16:20:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1765049848007631057",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -7,6 +20,29 @@
     "tweettime": "2024-03-05, 10:03:11",
     "tweeturl": "https://twitter.com/cyb3rops/status/1764954803589845054",
     "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 54,
+    "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
+    "tweettime": "2024-03-05, 04:18:12",
+    "tweeturl": "https://twitter.com/testanull/status/1764867985343418506",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/critical-jetbrains-teamcity-on-premises.html"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 47,
+    "tweettext": "Critical TeamCity software flaws leave CI/CD servers open to complete takeover.\n\nRead more about CVE-2024-27198, CVE-2024-27199 and update your systems now → https://t.co/Sjt6bPiDE2\n\n#cybersecurity #hacking",
+    "tweettime": "2024-03-05, 03:37:01",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1764857621247647862",
+    "username": "TheHackersNews"
 }
 {
     "expanded_url": [
