@@ -25,11 +25,31 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 71,
+    "tweettext": "RT @stephenfewer: We have disclosed 2 authentication bypass vulnerabilities, CVE-2024-27198 and CVE-2024-27199, affecting JetBrains TeamCit…",
+    "tweettime": "2024-03-05, 13:46:51",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1765011091040383045",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 52,
     "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
     "tweettime": "2024-03-05, 10:03:11",
     "tweeturl": "https://twitter.com/cyb3rops/status/1764954803589845054",
     "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
+    "tweettime": "2024-03-05, 09:43:41",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1764949897298530456",
+    "username": "kmkz_security"
 }
 {
     "tweetfavorites": 0,
