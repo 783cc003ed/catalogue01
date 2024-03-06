@@ -164,10 +164,10 @@
     "expanded_url": [
         "https://blog.assetnote.io/2023/08/09/exploiting-citrix-netscaler-cve-2023-3519/"
     ],
-    "tweetfavorites": 204,
+    "tweetfavorites": 203,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 52,
+    "tweetretweets": 51,
     "tweettext": "In the last post of the series, my colleague explains the process that went into re-discovering the Citrix ADC / Netscaler RCE CVE-2023-3519. We also share an exploit for this vulnerability. Check out our blog if you want to learn more about the process: https://t.co/7csA4tlwA1 https://t.co/8rX2Jnmtzq",
     "tweettime": "2023-08-10, 02:43:08",
     "tweeturl": "https://twitter.com/infosec_au/status/1689467388708937728",

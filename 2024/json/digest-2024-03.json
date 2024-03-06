@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://www.kroll.com/en/insights/publications/cyber/screenconnect-vulnerability-exploited-to-deploy-babyshark"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 12,
+    "tweettext": "#Kimsuky  CVE-2024-1709 + CVE-2024-1708\nConnectWise ScreenConnect Vulnerability Exploited to Deploy BABYSHARK Variant\nhttps://t.co/okyQjwRTLN https://t.co/JIHTOAnn3p",
+    "tweettime": "2024-03-06, 01:59:23",
+    "tweeturl": "https://twitter.com/blackorbird/status/1765195442835382433",
+    "username": "blackorbird"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -172,10 +185,10 @@
         "https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md",
         "https://github.com/marcnewlin/hi_my_name_is_keyboard/blob/main/slides/hi_my_name_is_keyboard.pdf"
     ],
-    "tweetfavorites": 464,
+    "tweetfavorites": 471,
     "tweetquotes": 10,
     "tweetreplies": 7,
-    "tweetretweets": 142,
+    "tweetretweets": 151,
     "tweettext": "Bluetooth vulnerabilities in Android, Linux, macOS, iOS and Windows can be exploited to pair an emulated bluetooth keyboard and inject keystrokes without user confirmation : https://t.co/lekyzS2abA  credits @marcnewlin \n\nSlides : https://t.co/RS6gZHxiIJ \n\nCVE's : \n\nCVE-2024-0230… https://t.co/ugUME8JMrf",
     "tweettime": "2024-03-03, 13:17:43",
     "tweeturl": "https://twitter.com/binitamshah/status/1764278987444924869",
