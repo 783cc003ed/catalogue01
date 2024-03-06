@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html"
     ],
-    "tweetfavorites": 207,
+    "tweetfavorites": 209,
     "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 98,
+    "tweetretweets": 99,
     "tweettext": "⚠️ Lazarus Group hackers found exploiting a Windows kernel zero-day #vulnerability (CVE-2024-21338) weeks after a patch was released, allowing them to gain system-level control and disable security software on targeted systems.\n\nDetails here: https://t.co/KrOZA7iB3F\n\n#hacking",
     "tweettime": "2024-02-29, 11:20:34",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1763162340722348408",
@@ -54,7 +54,7 @@
     "expanded_url": [
         "https://securityonline.info/zero-day-alert-cve-2024-21338-lazarus-group-exploits-windows-kernel-vulnerability/"
     ],
-    "tweetfavorites": 204,
+    "tweetfavorites": 206,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 92,
@@ -239,7 +239,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 90,
+    "tweetretweets": 93,
     "tweettext": "RT @Sonar_Research: 🔥Multiple XSS vulnerabilities in popular CMS Joomla! (CVE-2024-21726) 🔥\n\nPHP bug could be used to bypass sanitization -…",
     "tweettime": "2024-02-23, 20:07:13",
     "tweeturl": "https://twitter.com/steventseeley/status/1761120547340234828",
@@ -596,7 +596,7 @@
         "https://amitschendel.github.io/vulnerabilites/CVE-2024-20328/",
         "https://infosec.exchange/@raptor/111951116036793919"
     ],
-    "tweetfavorites": 47,
+    "tweetfavorites": 48,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 14,

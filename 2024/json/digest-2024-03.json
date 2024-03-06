@@ -55,6 +55,26 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
+    "tweettime": "2024-03-05, 07:35:20",
+    "tweeturl": "https://twitter.com/steventseeley/status/1764917598830104889",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 72,
+    "tweettext": "RT @stephenfewer: We have disclosed 2 authentication bypass vulnerabilities, CVE-2024-27198 and CVE-2024-27199, affecting JetBrains TeamCit…",
+    "tweettime": "2024-03-05, 06:23:18",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1764899471195021371",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 54,
     "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
     "tweettime": "2024-03-05, 04:18:12",
@@ -73,6 +93,29 @@
     "tweettime": "2024-03-05, 03:37:01",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1764857621247647862",
     "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 72,
+    "tweettext": "RT @stephenfewer: We have disclosed 2 authentication bypass vulnerabilities, CVE-2024-27198 and CVE-2024-27199, affecting JetBrains TeamCit…",
+    "tweettime": "2024-03-04, 21:32:16",
+    "tweeturl": "https://twitter.com/steventseeley/status/1764765832792637945",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://hackerone.com/reports/2387600"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 4,
+    "tweettext": "⚡ CVE-2022-21371:  Oracle WebLogic Server Local File Inclusion \n👨🏻‍💻 deb0con ➟ Mars \n🟥 High\n💰 None\n🔗 https://t.co/boVBURmONU\n#bugbounty #bugbountytips #cybersecurity #infosec https://t.co/HADmLKoVr4",
+    "tweettime": "2024-03-04, 20:01:07",
+    "tweeturl": "https://twitter.com/h1Disclosed/status/1764742893296550106",
+    "username": "h1Disclosed"
 }
 {
     "expanded_url": [
