@@ -2,6 +2,26 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "RT @DhiyaneshDK: Scan for JetBrains TeamCity Authentication Bypass Vulnerabilities using @pdnuclei \n\nCVE-2024-27198 (Critical) - https://t.…",
+    "tweettime": "2024-03-05, 18:33:51",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1765083317026848868",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "RT @stephenfewer: Our exploit module for CVE-2024-27198 is now in the @metasploit pull queue. Unauthenticated RCE in JetBrains TeamCity due…",
+    "tweettime": "2024-03-05, 16:55:37",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1765058599024312380",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 48,
     "tweettext": "RT @TheHackersNews: North Korean hackers exploit ConnectWise ScreenConnect vulnerabilities (CVE-2024-1708 &amp; CVE-2024-1709) to deploy TODDLE…",
     "tweettime": "2024-03-05, 16:55:32",
@@ -25,7 +45,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 71,
+    "tweetretweets": 73,
     "tweettext": "RT @stephenfewer: We have disclosed 2 authentication bypass vulnerabilities, CVE-2024-27198 and CVE-2024-27199, affecting JetBrains TeamCit…",
     "tweettime": "2024-03-05, 13:46:51",
     "tweeturl": "https://twitter.com/kmkz_security/status/1765011091040383045",
@@ -45,7 +65,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 57,
+    "tweetretweets": 58,
     "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
     "tweettime": "2024-03-05, 09:43:41",
     "tweeturl": "https://twitter.com/kmkz_security/status/1764949897298530456",
@@ -82,6 +102,26 @@
     "username": "testanull"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
+    "tweettime": "2024-03-05, 03:57:50",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1764862860344033722",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 54,
+    "tweettext": "RT @TheHackersNews: Critical TeamCity software flaws leave CI/CD servers open to complete takeover.\n\nRead more about CVE-2024-27198, CVE-20…",
+    "tweettime": "2024-03-05, 03:38:46",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1764858062102212729",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2024/03/critical-jetbrains-teamcity-on-premises.html"
     ],
@@ -93,6 +133,16 @@
     "tweettime": "2024-03-05, 03:37:01",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1764857621247647862",
     "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 112,
+    "tweettext": "RT @h4x0r_dz: what an incredible auth bypass! \n\n/foo?jsp=/authenticated-endpoint;.jsp\n\nCVE-2024-27198 TeamCity authentication bypass\nhttps:…",
+    "tweettime": "2024-03-04, 22:31:34",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1764780754377015465",
+    "username": "wvuuuuuuuuuuuuu"
 }
 {
     "tweetfavorites": 0,
