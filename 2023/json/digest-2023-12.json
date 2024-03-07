@@ -689,7 +689,7 @@
     ],
     "tweetfavorites": 481,
     "tweetquotes": 3,
-    "tweetreplies": 3,
+    "tweetreplies": 4,
     "tweetretweets": 164,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauthenticated remote code execution\nhttps://t.co/uRjXzpnW54 https://t.co/UtMv4LZBLt",
     "tweettime": "2023-12-16, 07:49:06",
@@ -1261,7 +1261,7 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/advisories/ZDI-23-1512/"
     ],
-    "tweetfavorites": 176,
+    "tweetfavorites": 175,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 39,
