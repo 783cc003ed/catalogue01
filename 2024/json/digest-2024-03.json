@@ -9,6 +9,16 @@
     "username": "pdnuclei"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "RT @Horizon3Attack: The recent #Progress #OpenEdge auth bypass, CVE-2024-1403, allows an unauth user to obtain admin perms to control svcs.…",
+    "tweettime": "2024-03-06, 17:28:43",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1765429313820561855",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "expanded_url": [
         "https://www.zerodayinitiative.com/blog/2024/3/6/cve-2023-36049-microsoft-net-crlf-injection-arbitrary-file-writedeletion-vulnerability"
     ],
@@ -38,7 +48,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 49,
+    "tweetretweets": 59,
     "tweettext": "RT @DhiyaneshDK: Scan for JetBrains TeamCity Authentication Bypass Vulnerabilities using @pdnuclei \n\nCVE-2024-27198 (Critical) - https://t.…",
     "tweettime": "2024-03-05, 18:33:51",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1765083317026848868",
@@ -48,7 +58,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 33,
+    "tweetretweets": 35,
     "tweettext": "RT @stephenfewer: Our exploit module for CVE-2024-27198 is now in the @metasploit pull queue. Unauthenticated RCE in JetBrains TeamCity due…",
     "tweettime": "2024-03-05, 16:55:37",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1765058599024312380",
@@ -167,7 +177,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 58,
+    "tweetretweets": 60,
     "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
     "tweettime": "2024-03-05, 03:57:50",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1764862860344033722",
@@ -177,7 +187,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 54,
+    "tweetretweets": 55,
     "tweettext": "RT @TheHackersNews: Critical TeamCity software flaws leave CI/CD servers open to complete takeover.\n\nRead more about CVE-2024-27198, CVE-20…",
     "tweettime": "2024-03-05, 03:38:46",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1764858062102212729",
@@ -200,7 +210,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 112,
+    "tweetretweets": 113,
     "tweettext": "RT @h4x0r_dz: what an incredible auth bypass! \n\n/foo?jsp=/authenticated-endpoint;.jsp\n\nCVE-2024-27198 TeamCity authentication bypass\nhttps:…",
     "tweettime": "2024-03-04, 22:31:34",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1764780754377015465",
