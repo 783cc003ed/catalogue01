@@ -33,6 +33,19 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2024/03/urgent-apple-issues-critical-updates.html"
+    ],
+    "tweetfavorites": 225,
+    "tweetquotes": 9,
+    "tweetreplies": 9,
+    "tweetretweets": 132,
+    "tweettext": "🚨 Heads up, Apple users!\n\nApple rolls out crucial updates for #iOS &amp; iPadOS to patch actively exploited vulnerabilities CVE-2024-23225 &amp; CVE-2024-23296, enhancing kernel memory protection.\n\nEnsure your devices are updated: https://t.co/Jj3Ndx6efF\n\n#cybersecurity #hacking",
+    "tweettime": "2024-03-06, 05:56:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1765255083472867523",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://www.kroll.com/en/insights/publications/cyber/screenconnect-vulnerability-exploited-to-deploy-babyshark"
     ],
     "tweetfavorites": 43,
@@ -91,10 +104,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/hackers-exploit-connectwise.html"
     ],
-    "tweetfavorites": 113,
-    "tweetquotes": 4,
-    "tweetreplies": 2,
-    "tweetretweets": 47,
+    "tweetfavorites": 208,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 86,
     "tweettext": "North Korean hackers exploit ConnectWise ScreenConnect vulnerabilities (CVE-2024-1708 &amp; CVE-2024-1709) to deploy TODDLERSHARK malware, adding to the notorious Kimsuky arsenal alongside BabyShark and ReconShark.\n\nLearn more: https://t.co/6dbXdY6Zfx",
     "tweettime": "2024-03-05, 16:20:51",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1765049848007631057",
@@ -147,7 +160,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 58,
+    "tweetretweets": 60,
     "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
     "tweettime": "2024-03-05, 07:35:20",
     "tweeturl": "https://twitter.com/steventseeley/status/1764917598830104889",
@@ -157,7 +170,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 72,
+    "tweetretweets": 73,
     "tweettext": "RT @stephenfewer: We have disclosed 2 authentication bypass vulnerabilities, CVE-2024-27198 and CVE-2024-27199, affecting JetBrains TeamCit…",
     "tweettime": "2024-03-05, 06:23:18",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1764899471195021371",
@@ -197,10 +210,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/critical-jetbrains-teamcity-on-premises.html"
     ],
-    "tweetfavorites": 102,
+    "tweetfavorites": 115,
     "tweetquotes": 1,
     "tweetreplies": 5,
-    "tweetretweets": 47,
+    "tweetretweets": 55,
     "tweettext": "Critical TeamCity software flaws leave CI/CD servers open to complete takeover.\n\nRead more about CVE-2024-27198, CVE-2024-27199 and update your systems now → https://t.co/Sjt6bPiDE2\n\n#cybersecurity #hacking",
     "tweettime": "2024-03-05, 03:37:01",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1764857621247647862",
@@ -220,7 +233,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 72,
+    "tweetretweets": 73,
     "tweettext": "RT @stephenfewer: We have disclosed 2 authentication bypass vulnerabilities, CVE-2024-27198 and CVE-2024-27199, affecting JetBrains TeamCit…",
     "tweettime": "2024-03-04, 21:32:16",
     "tweeturl": "https://twitter.com/steventseeley/status/1764765832792637945",
@@ -306,7 +319,7 @@
     "expanded_url": [
         "https://github.com/BishopFox/cve-2024-21762-check"
     ],
-    "tweetfavorites": 93,
+    "tweetfavorites": 92,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 34,

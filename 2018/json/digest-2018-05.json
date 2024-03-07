@@ -43,10 +43,10 @@
     "expanded_url": [
         "https://thehackernews.com/2018/05/electron-node-integration.html"
     ],
-    "tweetfavorites": 173,
-    "tweetquotes": 9,
+    "tweetfavorites": 164,
+    "tweetquotes": 7,
     "tweetreplies": 1,
-    "tweetretweets": 151,
+    "tweetretweets": 144,
     "tweettext": "Critical flaw (CVE-2018-1000136) discovered in #Electron framework could expose application server to Remote Code Execution (RCE) attacks—PoC exploit released.\n\nhttps://t.co/shCNrgXJ6E\n\nDevelopers should ensure their Electron-based apps are updated and patched. https://t.co/cgqiSGHPa8",
     "tweettime": "2018-05-14, 10:04:51",
     "tweeturl": "https://twitter.com/TheHackersNews/status/995968175203172353",
