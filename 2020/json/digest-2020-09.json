@@ -177,7 +177,7 @@
 }
 {
     "tweetfavorites": 377,
-    "tweetquotes": 10,
+    "tweetquotes": 9,
     "tweetreplies": 3,
     "tweetretweets": 103,
     "tweettext": "Hard work gets paid off. #gVisor successfully protected #GKE users from CVE-2020-14386. This is the first case GKE Sandbox after going in production preventing attackers from leveraging a vulnerability in the Linux kernel for container escape to get root privileges. (1/3) https://t.co/Ld2JtG0wZ8",
