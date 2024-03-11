@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://github.com/hd3s5aa/CVE-2023-21674"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 28,
+    "tweettext": "#itw #0day #ALPC\nThe first #poc of CVE-2023-21674 in github.\nThe attackers break out of the sandbox in Chromium by using this vulnerability.\nhttps://t.co/elBEAj7YTJ",
+    "tweettime": "2024-03-09, 04:29:58",
+    "tweeturl": "https://twitter.com/hd3s5/status/1766320498072228313",
+    "username": "hd3s5"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -22,10 +35,10 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/blog/2024/3/6/cve-2023-36049-microsoft-net-crlf-injection-arbitrary-file-writedeletion-vulnerability"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 59,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 20,
     "tweettext": "In our latest guest blog, the Trend Micro Research team details CVE-2023-36049 - a .NET LPE bug originally found by ZDI's own @chudyPB. An attacker could write/delete arbitrary files in the context of the FTP server. Read all the details at https://t.co/eJxSjAVHR2",
     "tweettime": "2024-03-06, 17:09:10",
     "tweeturl": "https://twitter.com/thezdi/status/1765424395516817910",
