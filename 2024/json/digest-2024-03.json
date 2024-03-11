@@ -1,4 +1,27 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "RT @NetSPI: [Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability:…",
+    "tweettime": "2024-03-11, 15:17:52",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1767208323932209481",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
+    ],
+    "tweetfavorites": 240,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 111,
+    "tweettext": "CVE-2024-21378 — Remote Code Execution in Microsoft Outlook https://t.co/usVxdegKJw",
+    "tweettime": "2024-03-11, 13:39:44",
+    "tweeturl": "https://twitter.com/Dinosn/status/1767183629455589743",
+    "username": "Dinosn"
+}
+{
     "expanded_url": [
         "https://github.com/hd3s5aa/CVE-2023-21674"
     ],
@@ -10,6 +33,19 @@
     "tweettime": "2024-03-09, 04:29:58",
     "tweeturl": "https://twitter.com/hd3s5/status/1766320498072228313",
     "username": "hd3s5"
+}
+{
+    "expanded_url": [
+        "https://github.com/advisories/GHSA-26w3-q4j8-4xjp"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 12,
+    "tweettext": "1Panel Unauthorized access vulnerability\nCVE-2024-27288\n\nhttps://t.co/VmhvXBU2Pr",
+    "tweettime": "2024-03-08, 16:11:21",
+    "tweeturl": "https://twitter.com/momika233/status/1766134622654787679",
+    "username": "momika233"
 }
 {
     "tweetfavorites": 0,
