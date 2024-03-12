@@ -1024,10 +1024,10 @@
     "expanded_url": [
         "https://github.com/CronUp/Vulnerabilidades/blob/main/proxynotshell_checker.nse"
     ],
-    "tweetfavorites": 1788,
+    "tweetfavorites": 1789,
     "tweetquotes": 12,
     "tweetreplies": 27,
-    "tweetretweets": 577,
+    "tweetretweets": 578,
     "tweettext": "I wrote a quick Nmap script to scan for servers potentially vulnerable to #ProxyNotShell (based on Microsoft's recommended URL blocking rule) I hope it can be useful for someone :)\n\n[+] https://t.co/QsCw3D0dr7\n\n#0day CVE-2022-40140 CVE-2022-41082 https://t.co/7Rzghqsfyi",
     "tweettime": "2022-10-02, 07:15:51",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1576471006373613569",
