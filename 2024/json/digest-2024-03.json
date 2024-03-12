@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://securityonline.info/cve-2024-22039-cvss-10-siemens-fire-protection-systems-vulnerable-to-remote-attacks/"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2024-22039 (CVSS 10): Siemens Fire Protection Systems Vulnerable to Remote Attacks https://t.co/mR990hlNwq",
+    "tweettime": "2024-03-12, 15:31:37",
+    "tweeturl": "https://twitter.com/Dinosn/status/1767574171398062332",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22"
     ],
@@ -177,6 +190,16 @@
     "tweettime": "2024-03-07, 00:37:23",
     "tweeturl": "https://twitter.com/pdnuclei/status/1765537192099618852",
     "username": "pdnuclei"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @Horizon3Attack: The recent #Progress #OpenEdge auth bypass, CVE-2024-1403, allows an unauth user to obtain admin perms to control svcs.…",
+    "tweettime": "2024-03-06, 21:51:33",
+    "tweeturl": "https://twitter.com/wdormann/status/1765495461249466676",
+    "username": "wdormann"
 }
 {
     "tweetfavorites": 0,
