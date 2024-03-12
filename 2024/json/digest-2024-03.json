@@ -95,10 +95,575 @@
     "expanded_url": [
         "https://github.com/hd3s5aa/CVE-2023-21674"
     ],
-    "tweetfavorites": 135,
+    "tweetfavorites": 137,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 29,
+    "tweetretweets": 30,
+    "tweettext": "#itw #0day #ALPC\nThe first #poc of CVE-2023-21674 in github.\nThe attackers break out of the sandbox in Chromium by using this vulnerability.\nhttps://t.co/elBEAj7YTJ",
+    "tweettime": "2024-03-09, 04:29:58",
+    "tweeturl": "https://twitter.com/hd3s5/status/1766320498072228313",
+    "username": "hd3s5"
+}
+{
+    "expanded_url": [
+        "https://github.com/advisories/GHSA-26w3-q4j8-4xjp"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 12,
+    "tweettext": "1Panel Unauthorized access vulnerability\nCVE-2024-27288\n\nhttps://t.co/VmhvXBU2Pr",
+    "tweettime": "2024-03-08, 16:11:21",
+    "tweeturl": "https://twitter.com/momika233/status/1766134622654787679",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html"
+    ],
+    "tweetfavorites": 190,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 101,
+    "tweettext": "🚨 #Cisco issued patches for a high-severity flaw (CVE-2024-20337) in Secure Client software on Windows, #Linux, and macOS. Attackers could hijack VPN sessions.\n\nCheck and update now: https://t.co/lIcBk5pFTh\n\n#hacking #cybersecurity #infosec",
+    "tweettime": "2024-03-08, 08:13:25",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1766014347204231307",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 107,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2024-23917 Teamcity &lt; 2023.11.3 unauth RCE\n\nyes, CVE-2024-23917 ,  \nnot  CVE-2024-27198 https://t.co/embVgw5RI3",
+    "tweettime": "2024-03-07, 17:03:58",
+    "tweeturl": "https://twitter.com/chybeta/status/1765785473895780688",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "http://ASP.NET",
+        "https://swarm.ptsecurity.com/source-code-disclosure-in-asp-net-apps/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 9,
+    "tweettext": "CVE-2023-36899 - CVE-2023-36560: Source Code Disclosure in https://t.co/dKq4ojYEin apps.\n\nPoC\nhttps://t.co/S6Vh6lSn0K https://t.co/nIunrAnQNq",
+    "tweettime": "2024-03-07, 13:28:52",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1765731342715695199",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "RT @DhiyaneshDK: Scan for JetBrains TeamCity Authentication Bypass Vulnerabilities using @pdnuclei \n\nCVE-2024-27198 (Critical) - https://t.…",
+    "tweettime": "2024-03-07, 00:37:23",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1765537192099618852",
+    "username": "pdnuclei"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "RT @Horizon3Attack: The recent #Progress #OpenEdge auth bypass, CVE-2024-1403, allows an unauth user to obtain admin perms to control svcs.…",
+    "tweettime": "2024-03-06, 17:28:43",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1765429313820561855",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/3/6/cve-2023-36049-microsoft-net-crlf-injection-arbitrary-file-writedeletion-vulnerability"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "In our latest guest blog, the Trend Micro Research team details CVE-2023-36049 - a .NET LPE bug originally found by ZDI's own @chudyPB. An attacker could write/delete arbitrary files in the context of the FTP server. Read all the details at https://t.co/eJxSjAVHR2",
+    "tweettime": "2024-03-06, 17:09:10",
+    "tweeturl": "https://twitter.com/thezdi/status/1765424395516817910",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/urgent-apple-issues-critical-updates.html"
+    ],
+    "tweetfavorites": 225,
+    "tweetquotes": 9,
+    "tweetreplies": 9,
+    "tweetretweets": 132,
+    "tweettext": "🚨 Heads up, Apple users!\n\nApple rolls out crucial updates for #iOS &amp; iPadOS to patch actively exploited vulnerabilities CVE-2024-23225 &amp; CVE-2024-23296, enhancing kernel memory protection.\n\nEnsure your devices are updated: https://t.co/Jj3Ndx6efF\n\n#cybersecurity #hacking",
+    "tweettime": "2024-03-06, 05:56:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1765255083472867523",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.kroll.com/en/insights/publications/cyber/screenconnect-vulnerability-exploited-to-deploy-babyshark"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "#Kimsuky  CVE-2024-1709 + CVE-2024-1708\nConnectWise ScreenConnect Vulnerability Exploited to Deploy BABYSHARK Variant\nhttps://t.co/okyQjwRTLN https://t.co/JIHTOAnn3p",
+    "tweettime": "2024-03-06, 01:59:23",
+    "tweeturl": "https://twitter.com/blackorbird/status/1765195442835382433",
+    "username": "blackorbird"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 59,
+    "tweettext": "RT @DhiyaneshDK: Scan for JetBrains TeamCity Authentication Bypass Vulnerabilities using @pdnuclei \n\nCVE-2024-27198 (Critical) - https://t.…",
+    "tweettime": "2024-03-05, 18:33:51",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1765083317026848868",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @stephenfewer: Our exploit module for CVE-2024-27198 is now in the @metasploit pull queue. Unauthenticated RCE in JetBrains TeamCity due…",
+    "tweettime": "2024-03-05, 16:55:37",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1765058599024312380",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 48,
+    "tweettext": "RT @TheHackersNews: North Korean hackers exploit ConnectWise ScreenConnect vulnerabilities (CVE-2024-1708 &amp; CVE-2024-1709) to deploy TODDLE…",
+    "tweettime": "2024-03-05, 16:55:32",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1765058577234837807",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/18922"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "Our exploit module for CVE-2024-27198 is now in the @metasploit pull queue. Unauthenticated RCE in JetBrains TeamCity due to an authentication bypass vulnerability: https://t.co/2kANTPjfMi https://t.co/FG8FP7kWnI",
+    "tweettime": "2024-03-05, 16:31:54",
+    "tweeturl": "https://twitter.com/stephenfewer/status/1765052628096971202",
+    "username": "stephenfewer"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/hackers-exploit-connectwise.html"
+    ],
+    "tweetfavorites": 208,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 86,
+    "tweettext": "North Korean hackers exploit ConnectWise ScreenConnect vulnerabilities (CVE-2024-1708 &amp; CVE-2024-1709) to deploy TODDLERSHARK malware, adding to the notorious Kimsuky arsenal alongside BabyShark and ReconShark.\n\nLearn more: https://t.co/6dbXdY6Zfx",
+    "tweettime": "2024-03-05, 16:20:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1765049848007631057",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 73,
+    "tweettext": "RT @stephenfewer: We have disclosed 2 authentication bypass vulnerabilities, CVE-2024-27198 and CVE-2024-27199, affecting JetBrains TeamCit…",
+    "tweettime": "2024-03-05, 13:46:51",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1765011091040383045",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 63,
+    "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
+    "tweettime": "2024-03-05, 10:03:11",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1764954803589845054",
+    "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
+    "tweettime": "2024-03-05, 09:43:41",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1764949897298530456",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/2022/09/01/settlers-of-netlink-exploiting-a-limited-uaf-in-nf_tables-cve-2022-32250/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2022-32250 (credits @nccgroupinfosec)\n\n\"UAF vulnerability affecting the netlink subsystem can be exploited twice to open up other more powerful use-after-free primitives\"\n\nhttps://t.co/NKTlRmplK6\n\n#cybersecurity #Linux https://t.co/yClXooPzem",
+    "tweettime": "2024-03-05, 08:00:21",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1764923891690958863",
+    "username": "0xor0ne"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
+    "tweettime": "2024-03-05, 07:35:20",
+    "tweeturl": "https://twitter.com/steventseeley/status/1764917598830104889",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 74,
+    "tweettext": "RT @stephenfewer: We have disclosed 2 authentication bypass vulnerabilities, CVE-2024-27198 and CVE-2024-27199, affecting JetBrains TeamCit…",
+    "tweettime": "2024-03-05, 06:23:18",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1764899471195021371",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 63,
+    "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
+    "tweettime": "2024-03-05, 04:18:12",
+    "tweeturl": "https://twitter.com/testanull/status/1764867985343418506",
+    "username": "testanull"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
+    "tweettime": "2024-03-05, 03:57:50",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1764862860344033722",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 55,
+    "tweettext": "RT @TheHackersNews: Critical TeamCity software flaws leave CI/CD servers open to complete takeover.\n\nRead more about CVE-2024-27198, CVE-20…",
+    "tweettime": "2024-03-05, 03:38:46",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1764858062102212729",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/critical-jetbrains-teamcity-on-premises.html"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 55,
+    "tweettext": "Critical TeamCity software flaws leave CI/CD servers open to complete takeover.\n\nRead more about CVE-2024-27198, CVE-2024-27199 and update your systems now → https://t.co/Sjt6bPiDE2\n\n#cybersecurity #hacking",
+    "tweettime": "2024-03-05, 03:37:01",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1764857621247647862",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 113,
+    "tweettext": "RT @h4x0r_dz: what an incredible auth bypass! \n\n/foo?jsp=/authenticated-endpoint;.jsp\n\nCVE-2024-27198 TeamCity authentication bypass\nhttps:…",
+    "tweettime": "2024-03-04, 22:31:34",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1764780754377015465",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 73,
+    "tweettext": "RT @stephenfewer: We have disclosed 2 authentication bypass vulnerabilities, CVE-2024-27198 and CVE-2024-27199, affecting JetBrains TeamCit…",
+    "tweettime": "2024-03-04, 21:32:16",
+    "tweeturl": "https://twitter.com/steventseeley/status/1764765832792637945",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://hackerone.com/reports/2387600"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 4,
+    "tweettext": "⚡ CVE-2022-21371:  Oracle WebLogic Server Local File Inclusion \n👨🏻‍💻 deb0con ➟ Mars \n🟥 High\n💰 None\n🔗 https://t.co/boVBURmONU\n#bugbounty #bugbountytips #cybersecurity #infosec https://t.co/HADmLKoVr4",
+    "tweettime": "2024-03-04, 20:01:07",
+    "tweeturl": "https://twitter.com/h1Disclosed/status/1764742893296550106",
+    "username": "h1Disclosed"
+}
+{
+    "expanded_url": [
+        "https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md",
+        "https://github.com/marcnewlin/hi_my_name_is_keyboard/blob/main/slides/hi_my_name_is_keyboard.pdf"
+    ],
+    "tweetfavorites": 477,
+    "tweetquotes": 11,
+    "tweetreplies": 7,
+    "tweetretweets": 152,
+    "tweettext": "Bluetooth vulnerabilities in Android, Linux, macOS, iOS and Windows can be exploited to pair an emulated bluetooth keyboard and inject keystrokes without user confirmation : https://t.co/lekyzS2abA  credits @marcnewlin \n\nSlides : https://t.co/RS6gZHxiIJ \n\nCVE's : \n\nCVE-2024-0230… https://t.co/ugUME8JMrf",
+    "tweettime": "2024-03-03, 13:17:43",
+    "tweeturl": "https://twitter.com/binitamshah/status/1764278987444924869",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://github.com/BishopFox/cve-2024-21762-check"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 https://t.co/Pmoh8VWzCr #Pentesting #WebSecurity #Infosec https://t.co/lDSpckjJ3N",
+    "tweettime": "2024-03-03, 08:00:09",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1764199068123709744",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @piedpiper1616: GitHub - BishopFox/cve-2024-21762-check: Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 - htt…",
+    "tweettime": "2024-03-02, 20:20:23",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1764022964318527604",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://jhftss.github.io/CVE-2023-42942-xpcroleaccountd-Root-Privilege-Escalation/"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 16,
+    "tweettext": "PoC Released for CVE-2023-42942 – a macOS Root Privilege Escalation Vulnerability : https://t.co/DWqPDzfxek",
+    "tweettime": "2024-03-02, 14:10:03",
+    "tweeturl": "https://twitter.com/binitamshah/status/1763929767932227801",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/hikvision-patches-security-flaws-cve-2024-25063-25064-update-your-hikcentral-pro/"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Hikvision Patches Security Flaws (CVE-2024-25063 &amp; 25064): Update Your HikCentral Pro https://t.co/H9Vvx4V9z1",
+    "tweettime": "2024-03-02, 11:39:23",
+    "tweeturl": "https://twitter.com/Dinosn/status/1763891852682404210",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/BishopFox/cve-2024-21762-check"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "GitHub - BishopFox/cve-2024-21762-check: Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 - https://t.co/PXD8flXrtz",
+    "tweettime": "2024-03-02, 04:04:49",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1763777455809331653",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-0692-solarwinds-security-event-manager-unauthenticated-rce-flaw/"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 5,
+    "tweetretweets": 10,
+    "tweettext": "CVE-2024-0692: SolarWinds Security Event Manager Unauthenticated RCE Flaw https://t.co/ytGrysMAGv",
+    "tweettime": "2024-03-02, 03:50:58",
+    "tweeturl": "https://twitter.com/Dinosn/status/1763773971655188807",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) https://t.co/PR8KYjJxvR  #Pentesting #CyberSecurity #Infosec https://t.co/xkjCXbQKAD",
+    "tweettime": "2024-03-01, 18:30:18",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1763632873867747490",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://bishopfox.com/blog/cve-2024-21762-vulnerability-scanner-for-fortigate-firewalls"
+    ],
+    "tweetfavorites": 101,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "CVE-2024-21762 Vulnerability Scanner for FortiGate Firewalls https://t.co/Am7Pm2e17X",
+    "tweettime": "2024-03-01, 11:07:00",
+    "tweeturl": "https://twitter.com/Dinosn/status/1763521311920267632",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.cve.org/CVERecord?id=CVE-2024-0692"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 13,
+    "tweetreplies": 3,
+    "tweetretweets": 34,
+    "tweettext": "CVE-2024-0692 The SolarWinds Security Event Manager was susceptible to Remote Code Execution Vulnerability. This vulnerability allows an unauthenticated user to abuse SolarWinds’ ser… https://t.co/EPktfpIHs5",
+    "tweettime": "2024-03-01, 09:21:05",
+    "tweeturl": "https://twitter.com/CVEnew/status/1763494657974301161",
+    "username": "CVEnew"
+}
+{
+    "expanded_url": [
+        "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "GitHub - vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC: Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) - https://t.co/FEuFMCEl2P",
+    "tweettime": "2024-03-01, 06:30:17",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1763451675459911823",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "http://Hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Solr%22"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "🚨Alert🚨CVE-2023-50386: Apache Solr Backup/Restore APIs RCE POC Released\n⚠Backup/Restore APIs allow for deployment of executables in malicious ConfigSets.\n📊 87.3k+ Services are found on https://t.co/WrjZaG0jRH\n🔗Hunter Link: https://t.co/84D8rqNUgJ\n\n👇👇👇Query\nHunter:… https://t.co/PaE7r2A3CZ",
+    "tweettime": "2024-03-01, 03:20:19",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1763403867050721759",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "http://Hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "🚨Alert🚨CVE-2024-21378:Remote Code Execution in Microsoft Outlook \n⚠New research has been published on how to discover and exploit the vulnerability️!\n📊662K+ Services are found on https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/D4e39xFXWj\n\nDorks 👇👇👇\nHunter:… https://t.co/BuDUXFkD3I",
+    "tweettime": "2024-03-12, 02:53:03",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1767383273146376540",
+    "username": "HunterMapping"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "RT @Horizon3Attack: Today we are disclosing a critical SSRF vulnerability, CVE-2023-49785, in a popular Gen AI chatbot, NextChat a.k.a Chat…",
+    "tweettime": "2024-03-11, 23:54:03",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1767338224903712957",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 74,
+    "tweettext": "RT @NetSPI: [Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability:…",
+    "tweettime": "2024-03-11, 18:02:17",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1767249703186387369",
+    "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "RT @NetSPI: [Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability:…",
+    "tweettime": "2024-03-11, 15:17:52",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1767208323932209481",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "RT @Horizon3Attack: Today we are disclosing a critical SSRF vulnerability, CVE-2023-49785, in a popular Gen AI chatbot, NextChat a.k.a Chat…",
+    "tweettime": "2024-03-11, 15:08:06",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1767205865143062564",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
+    ],
+    "tweetfavorites": 240,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 111,
+    "tweettext": "CVE-2024-21378 — Remote Code Execution in Microsoft Outlook https://t.co/usVxdegKJw",
+    "tweettime": "2024-03-11, 13:39:44",
+    "tweeturl": "https://twitter.com/Dinosn/status/1767183629455589743",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://ow.ly/L29F50QQ7s4"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 66,
+    "tweettext": "[Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability: https://t.co/6R2THE2paW\n\nWritten by: Rich Wolferd, NetSPI’s Director of Red Team Operations &amp; Nick Landers @monoxgas https://t.co/LrAelKRs3R",
+    "tweettime": "2024-03-11, 13:07:00",
+    "tweeturl": "https://twitter.com/NetSPI/status/1767175389569290359",
+    "username": "NetSPI"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html"
+    ],
+    "tweetfavorites": 99,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "⚠️ URGENT patch needed! Progress OpenEdge Authentication Gateway/AdminServer #vulnerability (CVE-2024-1403) allows authentication bypass.\n\nProof-of-concept exploit is available.\n\nLearn more: https://t.co/CFmuQu8H5Q\n\nUpdate to supported versions ASAP.\n\n#hacking",
+    "tweettime": "2024-03-11, 06:29:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1767075326356820322",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/hd3s5aa/CVE-2023-21674"
+    ],
+    "tweetfavorites": 137,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
     "tweettext": "#itw #0day #ALPC\nThe first #poc of CVE-2023-21674 in github.\nThe attackers break out of the sandbox in Chromium by using this vulnerability.\nhttps://t.co/elBEAj7YTJ",
     "tweettime": "2024-03-09, 04:29:58",
     "tweeturl": "https://twitter.com/hd3s5/status/1766320498072228313",

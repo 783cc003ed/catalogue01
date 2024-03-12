@@ -123,3 +123,128 @@
     "tweeturl": "https://twitter.com/hosselot/status/1081109879031513088",
     "username": "hosselot"
 }
+{
+    "tweetfavorites": 53,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 3,
+    "tweettext": "Since we love spread knowledge - beside the UAF discussed here (CVE-2018-0965), in the same function (vpcivsp!VirtualBusChannelProcessPacket) there was an info disclosure: uninitialized local structure on the stack sent to the guest via VirtualBusPacketComplete (CVE-2018-0964)",
+    "tweettime": "2019-01-31, 10:09:03",
+    "tweeturl": "https://twitter.com/AmarSaar/status/1090914852275740672",
+    "username": "AmarSaar"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=889459"
+    ],
+    "tweetfavorites": 166,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 95,
+    "tweettext": "[PoC] [CVE-2018-18354] Chrome remote code execution attack chain\n\nIgnore Sandbox , Ignore Applock , Ignore download restriction \ncombined 3 bugs into logical vulnerability attack chain\n\nhttps://t.co/IUWnx1mgZM https://t.co/M72aT42a5J",
+    "tweettime": "2019-01-28, 23:28:17",
+    "tweeturl": "https://twitter.com/wugeej/status/1090028823280644096",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://salls.github.io/Linux-Kernel-CVE-2017-5123/"
+    ],
+    "tweetfavorites": 169,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 94,
+    "tweettext": "CVE-2017-5123: Linux kernel privilege escalation -  Exploiting with full protections. SMEP, SMAP, and the Chrome Sandbox:\nhttps://t.co/e9PdINNX3g",
+    "tweettime": "2019-01-23, 22:55:27",
+    "tweeturl": "https://twitter.com/anthraxx42/status/1088208619835936768",
+    "username": "anthraxx42"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2019/01/linux-apt-http-hacking.html"
+    ],
+    "tweetfavorites": 379,
+    "tweetquotes": 36,
+    "tweetreplies": 7,
+    "tweetretweets": 328,
+    "tweettext": "NEW → Critical RCE flaw (CVE-2019-3462) found in #Linux apt/apt-get, which could allow remote MiTM hackers to trick systems into installing altered or malicious packages as #root\n\nhttps://t.co/MZJwXC1c6Z\n\nExploitation of such flaw could have been mitigated if APT was using HTTPS https://t.co/8v7qSmUgjb",
+    "tweettime": "2019-01-22, 16:36:49",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1087750945272926208",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://ti.360.net/blog/articles/cve-2018-8453-win32k-elevation-of-privilege-vulnerability-targeting-the-middle-east-en/",
+        "https://video.twimg.com/tweet_video/DxRRn7yV4AAKpFk.mp4"
+    ],
+    "tweetfavorites": 154,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 82,
+    "tweettext": "#CVE-2018-8453 deep analysis, from Use After Free to arbitrary memory read/write by 360 Threat Intelligence Center, a follow up of vulnerability being used by #FruityArmor group targeting the Middle East.\nhttps://t.co/0noINJnh3c\n\nthe video：https://t.co/YoZ3dXjh5W https://t.co/FAmHT5G2yj",
+    "tweettime": "2019-01-19, 11:52:03",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1086592120025042944",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://github.com/0x36/CVE-pocs/blob/master/CVE-2018-4420-atm-uaf.c"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 9,
+    "tweettext": "CVE-2018-4420 by @_simo36\nPOC of iOS kernel UAF\nthis is fixed on iOS 12.1.\nhttps://t.co/VAJxFtfCYW\n#rJailbreakNews #iOS12",
+    "tweettime": "2019-01-10, 20:44:07",
+    "tweeturl": "https://twitter.com/JailbreakReal/status/1083464528010964992",
+    "username": "JailbreakReal"
+}
+{
+    "expanded_url": [
+        "https://github.com/0x36/CVE-pocs/blob/master/CVE-2018-4420-atm-uaf.c"
+    ],
+    "tweetfavorites": 339,
+    "tweetquotes": 5,
+    "tweetreplies": 6,
+    "tweetretweets": 129,
+    "tweettext": "a POC of an iOS kernel UAF  I found last year, CVE-2018-4420 fixed in 12.1, this requires host_priv port to be triggered. more bugs soon \nhttps://t.co/3zY4nXTsbF",
+    "tweettime": "2019-01-10, 20:39:26",
+    "tweeturl": "https://twitter.com/_simo36/status/1083463346395979783",
+    "username": "_simo36"
+}
+{
+    "expanded_url": [
+        "https://mim.ec/2SIDzQ1"
+    ],
+    "tweetfavorites": 15,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "Understand the security implications of the latest patched #MSOffice product memory leak vulnerability. https://t.co/zKXictP32S   #patchtuesday CVE-2019-0560 https://t.co/MhenJBltde",
+    "tweettime": "2019-01-08, 19:21:07",
+    "tweeturl": "https://twitter.com/Mimecast/status/1082718864088150017",
+    "username": "Mimecast"
+}
+{
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 26,
+    "tweettext": "Happy 1st Patch Tuesday of 2019! This is the largest January update I've seen in the 3ish years I've worked in MSRC and all the usual suspects are represented plus some Hyper-V fixes and this months highest CVSS score: CVE-2019-0547 which is a.....",
+    "tweettime": "2019-01-08, 18:53:59",
+    "tweeturl": "https://twitter.com/n0x08/status/1082712033974349824",
+    "username": "n0x08"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=888923"
+    ],
+    "tweetfavorites": 135,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "Exploit/writeup for Google Chrome V8 Remote Code Execution Vulnerability by Samuel Gross (CVE-2018-17463):\nhttps://t.co/9gm0qPK4Z3",
+    "tweettime": "2019-01-04, 08:47:35",
+    "tweeturl": "https://twitter.com/hosselot/status/1081109879031513088",
+    "username": "hosselot"
+}

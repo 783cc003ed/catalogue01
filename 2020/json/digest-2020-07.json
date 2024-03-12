@@ -1186,3 +1186,1191 @@
     "tweeturl": "https://twitter.com/campuscodi/status/1278192608775454722",
     "username": "campuscodi"
 }
+{
+    "expanded_url": [
+        "https://pentesterlab.com/exercises/CVE-2020-8163/videos"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "Two new videos are now available on how to exploit CVE-2020-8163 - A RCE in Ruby-on-Rails: \n\nhttps://t.co/BY9XZEnM3i",
+    "tweettime": "2020-07-28, 05:21:58",
+    "tweeturl": "https://twitter.com/PentesterLab/status/1287981604787240960",
+    "username": "PentesterLab"
+}
+{
+    "expanded_url": [
+        "https://github.com/maxpl0it/CVE-2020-1350-DoS"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 323,
+    "tweettext": "RT @maxpl0it: SIGRed (CVE-2020-1350) DoS proof-of-concept\nhttps://t.co/Pu1i0vh0M4\n\nHave fun!",
+    "tweettime": "2020-07-26, 11:39:12",
+    "tweeturl": "https://twitter.com/binitamshah/status/1287351763511607296",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2020-015-nxrm-sonatype",
+        "https://securitylab.github.com/research/bean-validation-RCE"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "Just found out @pwntester took a look at the Nexus Repository Manager vulnerability (CVE-2018-16621) @_schn31d4 and I reported and found a bypass for the fix (https://t.co/OW9I0DTVlv).  He also used CodeQL to perform a Variant Analysis and found more bugs: https://t.co/IQVip2qxM6",
+    "tweettime": "2020-07-26, 10:06:29",
+    "tweeturl": "https://twitter.com/_murks/status/1287328429680074752",
+    "username": "_murks"
+}
+{
+    "expanded_url": [
+        "https://medium.com/@peterjson/cve-2020-2950-turning-amf-deserialize-bug-to-java-deserialize-bug-2984a8542b6f"
+    ],
+    "tweetfavorites": 222,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 108,
+    "tweettext": "Recently I found a gadget chain that can turn AMF deserialize into Java Deserialize to exploit CVE-2020-2950 in a reliable way that can read cmd's output via HTTP Response !\n\nhttps://t.co/y3d6jV1a1x",
+    "tweettime": "2020-07-25, 07:58:51",
+    "tweeturl": "https://twitter.com/peterjson/status/1286933921385480192",
+    "username": "peterjson"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 358,
+    "tweettext": "RT @aboul3la: Ok, as many people requested, here is the POC of CVE-2020-3187 - unauthenticated arbitrary file deletion in Cisco ASA/FTD.\n\nE…",
+    "tweettime": "2020-07-25, 03:39:24",
+    "tweeturl": "https://twitter.com/jedisct1/status/1286868630194528256",
+    "username": "jedisct1"
+}
+{
+    "tweetfavorites": 892,
+    "tweetquotes": 8,
+    "tweetreplies": 18,
+    "tweetretweets": 358,
+    "tweettext": "Ok, as many people requested, here is the POC of CVE-2020-3187 - unauthenticated arbitrary file deletion in Cisco ASA/FTD.\n\nExample to delete logo file \"/+CSCOU+/csco_logo.gif\".\n\nPOC:\ncurl -H \"Cookie: token=../+CSCOU+/csco_logo.gif\" https://target/+CSCOE+/session_password.html https://t.co/BFbDAI9mX2",
+    "tweettime": "2020-07-24, 23:44:43",
+    "tweeturl": "https://twitter.com/aboul3la/status/1286809567989575685",
+    "username": "aboul3la"
+}
+{
+    "expanded_url": [
+        "https://raw.githubusercontent.com/RootUp/PersonalStuff/master/http-vuln-cve2020-3452.nse"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 65,
+    "tweettext": "RT @Cognosec: Our researcher wrote a NMAP script for CVE-2020-3452. Patch your Cisco (ASA/FTD) ASAP.\nhttps://t.co/HO1r1QvW8F\n#infosec #cisc…",
+    "tweettime": "2020-07-24, 08:12:01",
+    "tweeturl": "https://twitter.com/jedisct1/status/1286574848374906881",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://github.com/wetw0rk/CA-UIM-Nimbus-Research"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "I just released my #0day research on the Nimbus protocol. Including exploit code for CVE-2020-8010, CVE-2020-8011, and CVE-2020-8012. Check it out here:\n\nhttps://t.co/ZJntzOKK7H",
+    "tweettime": "2020-07-23, 21:53:41",
+    "tweeturl": "https://twitter.com/NOTwetw0rk/status/1286419238534643712",
+    "username": "NOTwetw0rk"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/13852"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "Exploit for SAP \"RECON\" (CVE-2020-6287) just landed to @Metasploit https://t.co/PxTWjwMvXp Allows an unauthenticated remote user to create a new SAP Administrator",
+    "tweettime": "2020-07-23, 16:29:03",
+    "tweeturl": "https://twitter.com/zeroSteiner/status/1286337542254735365",
+    "username": "zeroSteiner"
+}
+{
+    "expanded_url": [
+        "https://raw.githubusercontent.com/RootUp/PersonalStuff/master/http-vuln-cve2020-3452.nse"
+    ],
+    "tweetfavorites": 111,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 65,
+    "tweettext": "Our researcher wrote a NMAP script for CVE-2020-3452. Patch your Cisco (ASA/FTD) ASAP.\nhttps://t.co/HO1r1QvW8F\n#infosec #cisco https://t.co/CBpMsjwzGk",
+    "tweettime": "2020-07-23, 05:58:51",
+    "tweeturl": "https://twitter.com/Cognosec/status/1286178945159901185",
+    "username": "Cognosec"
+}
+{
+    "expanded_url": [
+        "https://github.com/duc-nt/CVE-2020-6287-exploit"
+    ],
+    "tweetfavorites": 453,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 195,
+    "tweettext": "So, here is a gift for you about CVE-2020-6287 SAP RCE exploit :). \nOnly user create, no more administrator permission set. 😄\n\nhttps://t.co/9eXHQF2x3u https://t.co/W5Gp2tEhBI",
+    "tweettime": "2020-07-20, 18:52:24",
+    "tweeturl": "https://twitter.com/ducnt_/status/1285286454910844928",
+    "username": "ducnt_"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/blog/2020/07/20/sharepoint-and-pwn-remote-code-execution-against-sharepoint-server-abusing-dataset.html"
+    ],
+    "tweetfavorites": 255,
+    "tweetquotes": 8,
+    "tweetreplies": 0,
+    "tweetretweets": 148,
+    "tweettext": "Details and PoC released for a critical remote code execution #vulnerability (CVE-2020-1147) affecting SharePoint Servers that #Microsoft patched just last week with the release of July 2020 Patch Tuesday updates.\n\nhttps://t.co/LpY241r8XE\n\nvia @sourceincite",
+    "tweettime": "2020-07-20, 16:57:44",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1285257596501295104",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/blog/2020/07/20/sharepoint-and-pwn-remote-code-execution-against-sharepoint-server-abusing-dataset.html"
+    ],
+    "tweetfavorites": 608,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 317,
+    "tweettext": "SharePoint and Pwn :: Remote Code Execution Against SharePoint Server Abusing DataSet: https://t.co/NiUeuy8oZu\n\nCVE-2020-1147 full analysis and exploit :-&gt;",
+    "tweettime": "2020-07-20, 14:50:00",
+    "tweeturl": "https://twitter.com/steventseeley/status/1285225452454502405",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://www.anquanke.com/post/id/210817"
+    ],
+    "tweetfavorites": 139,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 63,
+    "tweettext": "CVE-2020-15504：Sophos XG RCE\nhttps://t.co/BLl0xeNajz https://t.co/Xrd45foUxI",
+    "tweettime": "2020-07-18, 14:47:23",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1284500014631460865",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/32vMXhH"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 6,
+    "tweettext": "Get BlackBerry's detailed analysis of the F5 Big-IP TMUI RCE vulnerability (CVE-2020-5902): https://t.co/Fr0KqHY8GS https://t.co/Ht9Qh0es85",
+    "tweettime": "2020-07-18, 14:01:17",
+    "tweeturl": "https://twitter.com/BlackBerry/status/1284488415753277442",
+    "username": "BlackBerry"
+}
+{
+    "expanded_url": [
+        "https://github.com/Q4n/CVE-2020-1362"
+    ],
+    "tweetfavorites": 224,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 97,
+    "tweettext": "Exploiting an Elevation of Privilege bug in Windows 10 (CVE-2020-1362)  https://t.co/qAI7b3tPEa  #Windows10 #Exploit #CVE #BugBounty #Infosec https://t.co/5cyMCmGrbQ",
+    "tweettime": "2020-07-18, 06:03:06",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1284368076268601349",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://media.defense.gov/2020/Jul/16/2002458198/-1/-1/0/CSA_CVE20201350-V_1_0%20-%20COPY.PDF"
+    ],
+    "tweetfavorites": 228,
+    "tweetquotes": 14,
+    "tweetreplies": 11,
+    "tweetretweets": 148,
+    "tweettext": "CVE-2020-1350 represents significant risk to Windows DNS servers. #Patch or apply the mitigation steps today, you should expect adversaries are hard at work writing exploits for this #vulnerability. Check out our detailed guidance: https://t.co/KUZT1UMEHQ https://t.co/Nlnu4E4ntg",
+    "tweettime": "2020-07-17, 12:32:06",
+    "tweeturl": "https://twitter.com/NSACyber/status/1284103583110234113",
+    "username": "NSACyber"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 506,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 237,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) – write-up and exploit:\nhttps://t.co/LuABYgsYrI \n#Pentesting #Hacking #bugbountytips #RedTeam",
+    "tweettime": "2020-07-17, 11:24:22",
+    "tweeturl": "https://twitter.com/cry__pto/status/1284086538343714817",
+    "username": "cry__pto"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.blogspot.com/2020/07/mms-exploit-part-1-introduction-to-qmage.html",
+        "https://youtu.be/ZQnb8kRMkHg"
+    ],
+    "tweetfavorites": 256,
+    "tweetquotes": 7,
+    "tweetreplies": 3,
+    "tweetretweets": 102,
+    "tweettext": "0-click RCE via MMS exploit for Samsung's Android OS versions O(8.x), P(9.0) and Q(10.0) #Fuzzing CVE-2020-8899\nhttps://t.co/Qeyq7ACjoN\nDemo: https://t.co/VL7eL03SrD https://t.co/ooOGpchF6c",
+    "tweettime": "2020-07-17, 07:53:34",
+    "tweeturl": "https://twitter.com/LukasStefanko/status/1284033488312832001",
+    "username": "LukasStefanko"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2020/7/8/cve-2020-1300-remote-code-execution-through-microsoft-windows-cab-files"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "CVE-2020-1300: Remote Code Execution Through Microsoft Windows Cab Files \nhttps://t.co/IhyNf2OVHf   #Pentesting #RCE #Window #Vulnerability #Infosec https://t.co/zdFfvIzsHs",
+    "tweettime": "2020-07-16, 09:58:42",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1283702592879632385",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/maxpl0it/CVE-2020-1350-DoS"
+    ],
+    "tweetfavorites": 634,
+    "tweetquotes": 14,
+    "tweetreplies": 10,
+    "tweetretweets": 323,
+    "tweettext": "SIGRed (CVE-2020-1350) DoS proof-of-concept\nhttps://t.co/Pu1i0vh0M4\n\nHave fun!",
+    "tweettime": "2020-07-15, 23:01:25",
+    "tweeturl": "https://twitter.com/maxpl0it/status/1283537179365564417",
+    "username": "maxpl0it"
+}
+{
+    "expanded_url": [
+        "https://github.com/kubernetes/kubernetes/issues/92914"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 22,
+    "tweettext": "New #Kubernetes CVE-2020-8559: Privilege escalation from compromised node to cluster\n\nYou are only affected by this vulnerability if you treat the node as a security boundary, or if clusters share certificate authorities and authentication credentials.\n\nhttps://t.co/GoQSTpBWJG",
+    "tweettime": "2020-07-15, 19:20:02",
+    "tweeturl": "https://twitter.com/IanColdwater/status/1283481467956469763",
+    "username": "IanColdwater"
+}
+{
+    "tweetfavorites": 109,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 81,
+    "tweettext": "PoC for CVE-2020-6286 and CVE-2020-6287 has been published to GitHub. Patch now!",
+    "tweettime": "2020-07-15, 18:48:28",
+    "tweeturl": "https://twitter.com/bad_packets/status/1283473525613838336",
+    "username": "bad_packets"
+}
+{
+    "tweetfavorites": 414,
+    "tweetquotes": 6,
+    "tweetreplies": 9,
+    "tweetretweets": 136,
+    "tweettext": "CVE-2020-1350 DoS\n\nThe hardest part of this was setting up domains! https://t.co/Aut92cJB5o",
+    "tweettime": "2020-07-15, 18:41:11",
+    "tweeturl": "https://twitter.com/maxpl0it/status/1283471692006920193",
+    "username": "maxpl0it"
+}
+{
+    "expanded_url": [
+        "https://tools.cisco.com/security/center/publicationListing.x?product=Cisco&keyword=vManage&title=vManage&last_published=2020%20Jul&sort=-day_sir#~Vulnerabilities"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "I found some bugs on Cisco SD-WAN vManage:\nCVE-2020-3387 (Remote Code Execution) \nCVE-2020-3381 (Directory Traversal) \nCVE-2020-3406 (XSS) \nCVE-2020-3405 (XXE) \nCVE-2020-3437 (Info Disclosure)\nCVE-2020-3401 (Path Traversal)\nhttps://t.co/vzsn2ID5aM",
+    "tweettime": "2020-07-15, 18:18:40",
+    "tweeturl": "https://twitter.com/straight_blast/status/1283466024109527040",
+    "username": "straight_blast"
+}
+{
+    "expanded_url": [
+        "https://labs.redyops.com/index.php/2020/07/14/mcafee-total-protection-mtp-16-0-r26-escalation-of-privilege-cve-2020-7283/",
+        "https://github.com/RedyOpsResearchLabs/CVE-2020-7283-McAfee-Total-Protection-MTP-16.0.R26-EoP"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "McAfee Total Protection (MTP) &lt; 16.0.R26 Escalation of Privilege (CVE-2020-7283)\n\nWrite-up\nhttps://t.co/NrueV9gD4J\n\nPoC\nhttps://t.co/FsnwbwCUtY\n\n#infosec #pentest #redteam #exploit #lpe",
+    "tweettime": "2020-07-15, 16:02:34",
+    "tweeturl": "https://twitter.com/CyberWarship/status/1283431773137965056",
+    "username": "CyberWarship"
+}
+{
+    "expanded_url": [
+        "https://blog.rapid7.com/2020/07/14/windows-dns-server-remote-code-execution-vulnerability-cve-2020-1350-what-you-need-to-know/?update=true"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "We've updated our CVE-2020-1350 (DNS Server RCE) blog post with some info on tooling coverage, a note abt an uptick in DNS scanning (w/nod to @GreyNoiseIO) &amp; credited info from @GossiTheDog on how to make your Windows Server DNS a bit more stealthy. https://t.co/YeSGxkfbWJ",
+    "tweettime": "2020-07-15, 13:56:37",
+    "tweeturl": "https://twitter.com/hrbrmstr/status/1283400078770700289",
+    "username": "hrbrmstr"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "If you haven’t heard yesterday a Major DNS vulnerability for Windows was found and a patch released. “CVE-2020-1350 | Windows DNS Server Remote Code Execution Vulnerability” its a 10 out of 10 aka very bad. Patch or Mitigate all Windows DNS Servers ASAP! https://t.co/Add2uA3NZv https://t.co/tAaMmnFgTO",
+    "tweettime": "2020-07-15, 11:09:57",
+    "tweeturl": "https://twitter.com/VDIHacker/status/1283358134464118784",
+    "username": "VDIHacker"
+}
+{
+    "expanded_url": [
+        "https://labs.redyops.com/index.php/2020/07/14/mcafee-total-protection-mtp-16-0-r26-escalation-of-privilege-cve-2020-7283/"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "CVE-2020-7283:Exploit code and write-up for an Escalation of Privilege affecting McAfee Total Protection (MTP) &lt; 16.0.R26\n\nhttps://t.co/SCepfWOT0M\n\n#bug #McAfee #0day #exploit #vulnerability #EoP #privesc #RedyOpsLabs #redteam #pentest #cybersecurity #infosec #informationsecurity",
+    "tweettime": "2020-07-15, 09:22:15",
+    "tweeturl": "https://twitter.com/gweeperx/status/1283331032096411653",
+    "username": "gweeperx"
+}
+{
+    "expanded_url": [
+        "https://github.com/Neo23x0/sigma/blob/master/rules/windows/process_creation/win_exploit_cve_2020_1350.yml"
+    ],
+    "tweetfavorites": 255,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 148,
+    "tweettext": "Sigma rule to detect the exploitation of Windows DNS RCE CVE-2020-1350\n\n- a long shot looking for spawned sub processes of dns.exe (requires parent logging &gt; e.g. Sysmon)\n- plz report false positives\n\nhttps://t.co/pzJni5aCUh https://t.co/qi8g6XvqDm",
+    "tweettime": "2020-07-15, 09:19:42",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1283330388002246657",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2020-Jul",
+        "https://blog.talosintelligence.com/2020/07/vuln-spotlight-intel-amd-microsoft-july-2020.html"
+    ],
+    "tweetfavorites": 243,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 102,
+    "tweettext": "Some of my recent bugs: Hyper-V RemoteFX vGPU Remote Code Execution Vulnerability (CVE-2020-1032, CVE-2020-1036, CVE-2020-1040, CVE-2020-1041, CVE-2020-1042, CVE-2020-1043) - https://t.co/r9pRu5ssQH   https://t.co/IR14JuSpYp",
+    "tweettime": "2020-07-15, 05:52:07",
+    "tweeturl": "https://twitter.com/PiotrBania/status/1283278150840061953",
+    "username": "PiotrBania"
+}
+{
+    "tweetfavorites": 103,
+    "tweetquotes": 0,
+    "tweetreplies": 5,
+    "tweetretweets": 5,
+    "tweettext": "While everyone is talking about the DNS bug that just dropped I want a PoC on CVE-2020-6287. 10.0 CVSS SAP RCE? Sounds delicious.",
+    "tweettime": "2020-07-14, 23:18:05",
+    "tweeturl": "https://twitter.com/nnwakelam/status/1283178986185490432",
+    "username": "nnwakelam"
+}
+{
+    "expanded_url": [
+        "https://msrc-blog.microsoft.com/2020/07/14/july-2020-security-update-cve-2020-1350-vulnerability-in-windows-domain-name-system-dns-server/",
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350",
+        "https://support.microsoft.com/en-us/help/4569509/windows-dns-server-remote-code-execution-vulnerability"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "CVE-2020-1350: Critical wormable RCE vulnerability rated with a CVSS of 10 in Windows DNS Server. You may want to patch this ASAP or implement the mitigation. \n\nMSRC Blog:\nhttps://t.co/yRclM8eGm5\n\nAdvisory:\nhttps://t.co/OEvqWjmhgU\n\nGuidance:\nhttps://t.co/Smj1iQnfPh https://t.co/GdFgYmF7kC",
+    "tweettime": "2020-07-14, 21:57:02",
+    "tweeturl": "https://twitter.com/CyberRaiju/status/1283158591843663872",
+    "username": "CyberRaiju"
+}
+{
+    "expanded_url": [
+        "https://msrc-blog.microsoft.com/2020/07/14/july-2020-security-update-cve-2020-1350-vulnerability-in-windows-domain-name-system-dns-server/",
+        "https://github.com/ZephrFish/CVE-2020-1350"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 5,
+    "tweetreplies": 3,
+    "tweetretweets": 29,
+    "tweettext": "This is so, so bad.\nCVE-2020-1350 with CVSS of 10 named #SIGRed. Wormable RCE vulnerability in Windows DNS Server affecting all versions of Windows server running the DNS role. https://t.co/xYTzi72hF5\n\nExploit released already - https://t.co/9qphFRaqBR \n\n#infosec #cybersecurity",
+    "tweettime": "2020-07-14, 20:23:37",
+    "tweeturl": "https://twitter.com/blueteamblog/status/1283135082514046977",
+    "username": "blueteamblog"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1458"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 9,
+    "tweettext": "One of my MS Office vulnerability was patched in July.\n\nCVE-2020-1458 | Microsoft Office Remote Code Execution Vulnerability\nhttps://t.co/xCeVITvjDT\n#infosec",
+    "tweettime": "2020-07-14, 19:54:46",
+    "tweeturl": "https://twitter.com/RandomDhiraj/status/1283127822870024192",
+    "username": "RandomDhiraj"
+}
+{
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 4,
+    "tweetretweets": 5,
+    "tweettext": "Just stumbleupon with a RCE PoC of CVE-2020-6287 SAP NetWeaver AS JAVA. Kudos to @Queseguridad with an awesome work 🍻. #bugbountytip https://t.co/K7ACNu8z4B",
+    "tweettime": "2020-07-14, 19:24:27",
+    "tweeturl": "https://twitter.com/ducnt_/status/1283120193405718530",
+    "username": "ducnt_"
+}
+{
+    "expanded_url": [
+        "https://support.microsoft.com/es-es/help/4569509/windows-dns-server-remote-code-execution-vulnerability",
+        "https://support.microsoft.com/en-us/help/4569509/windows-dns-server-remote-code-execution-vulnerability"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 71,
+    "tweettext": "Vuln. crítica en los DNS de Windows, CVE-2020-1350: https://t.co/hKlaHJM02T CVSS 10.0 (máximo). RCE wormable, con el agravante de que el 99% d los DNS son los DC. 1 PC, 1 correo malicioso, 1 exploit ... y Game Over. Aplica esta mitigación YA https://t.co/XMryJtYWBc y parchea ASAP",
+    "tweettime": "2020-07-14, 19:16:50",
+    "tweeturl": "https://twitter.com/antoniosanzalc/status/1283118272578236416",
+    "username": "antoniosanzalc"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 813,
+    "tweettext": "RT @_CPResearch_: We discovered a 17-year-old vulnerability in all of Windows DNS Servers.\nSIGRed (CVE-2020-1350) is a wormable, critical v…",
+    "tweettime": "2020-07-14, 19:05:07",
+    "tweeturl": "https://twitter.com/cherepanov74/status/1283115324439748608",
+    "username": "cherepanov74"
+}
+{
+    "expanded_url": [
+        "https://research.checkpoint.com/2020/resolving-your-way-into-domain-admin-exploiting-a-17-year-old-bug-in-windows-dns-servers/"
+    ],
+    "tweetfavorites": 131,
+    "tweetquotes": 7,
+    "tweetreplies": 5,
+    "tweetretweets": 59,
+    "tweettext": "CVE-2020-1350: A cool Windows DNS Server vulnerability (2003-&gt;2019) we found at @_CPResearch_\nand got patched today #PatchTuesday\nhttps://t.co/OapPwEYPvp",
+    "tweettime": "2020-07-14, 19:03:39",
+    "tweeturl": "https://twitter.com/sagitz_/status/1283114958612561921",
+    "username": "sagitz_"
+}
+{
+    "expanded_url": [
+        "https://research.checkpoint.com/2020/resolving-your-way-into-domain-admin-exploiting-a-17-year-old-bug-in-windows-dns-servers/"
+    ],
+    "tweetfavorites": 1188,
+    "tweetquotes": 57,
+    "tweetreplies": 10,
+    "tweetretweets": 771,
+    "tweettext": "We discovered a 17-year-old vulnerability in all of Windows DNS Servers.\nSIGRed (CVE-2020-1350) is a wormable, critical vulnerability that can be used to achieve full Domain Administrator privileges.\nhttps://t.co/giebs7WIhp",
+    "tweettime": "2020-07-14, 18:59:55",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1283114016999706624",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://research.checkpoint.com/2020/resolving-your-way-into-domain-admin-exploiting-a-17-year-old-bug-in-windows-dns-servers/"
+    ],
+    "tweetfavorites": 440,
+    "tweetquotes": 40,
+    "tweetreplies": 11,
+    "tweetretweets": 278,
+    "tweettext": "We just disclosed SIGRed (CVE-2020-1350): Critical Vulnerability in all Windows DNS Servers (by @sagitz_).\n\nBonus: can also be triggered using the browser through a malicious link. #SIGRed\nhttps://t.co/MMnjPwIUAp",
+    "tweettime": "2020-07-14, 18:59:24",
+    "tweeturl": "https://twitter.com/omriher/status/1283113889270509570",
+    "username": "omriher"
+}
+{
+    "expanded_url": [
+        "https://us-cert.cisa.gov/ncas/current-activity/2020/07/14/microsoft-addresses-wormable-rce-vulnerability-windows-dns-server#Cyber"
+    ],
+    "tweetfavorites": 570,
+    "tweetquotes": 29,
+    "tweetreplies": 23,
+    "tweetretweets": 419,
+    "tweettext": "Microsoft has released an update addressing a “wormable” RCE vulnerability, CVE-2020-1350, in Windows DNS Server. Update asap! https://t.co/yjvpIgZbA3 #Cybersecurity #InfoSec",
+    "tweettime": "2020-07-14, 18:32:33",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1283107131596722176",
+    "username": "USCERT_gov"
+}
+{
+    "tweetfavorites": 2382,
+    "tweetquotes": 27,
+    "tweetreplies": 22,
+    "tweetretweets": 690,
+    "tweettext": "CVE-2020-1350 https://t.co/rAIOfxMSQb",
+    "tweettime": "2020-07-14, 18:01:04",
+    "tweeturl": "https://twitter.com/jarsnah12/status/1283099208946462720",
+    "username": "jarsnah12"
+}
+{
+    "tweetfavorites": 168,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 84,
+    "tweettext": "Stay tuned for our technical publication regarding #SIGRed (CVE-2020-1350) at 12 (PST) - Critical vulnerability in Windows DNS",
+    "tweettime": "2020-07-14, 17:15:25",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1283087717174214664",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/07/windows-dns-server-hacking.html"
+    ],
+    "tweetfavorites": 756,
+    "tweetquotes": 58,
+    "tweetreplies": 8,
+    "tweetretweets": 571,
+    "tweettext": "WARNING 🔥 CVE-2020-1350 (CVSS 10)\n\nA critical 17-year-old 'wormable' RCE #vulnerability affects Windows DNS Servers (2013 to 2019 editions) that could let unauthenticated hackers gain 'Domain Admin' privileges on the targeted servers.\n\nDetails — https://t.co/Qoode1dizp\n\n#infosec https://t.co/MWddwPytbT",
+    "tweettime": "2020-07-14, 17:14:19",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1283087444015935489",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/gwillcox-r7/419efc54568ae809eaf47843f058cadb"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Windows Defender CVE-2020-1170 LPE Work Archive · GitHub - https://t.co/RPiiGF1kFU",
+    "tweettime": "2020-07-14, 06:37:24",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1282927157006622720",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/2020/07/12/understanding-the-root-cause-of-f5-networks-k52145254-tmui-rce-vulnerability-cve-2020-5902/"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "Understanding the root cause of F5 Networks K52145254: TMUI RCE vulnerability CVE-2020-5902 https://t.co/BnyJaPt2Rl",
+    "tweettime": "2020-07-12, 19:58:07",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1282403888658673664",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/2020/07/12/understanding-the-root-cause-of-f5-networks-k52145254-tmui-rce-vulnerability-cve-2020-5902/"
+    ],
+    "tweetfavorites": 149,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "Understanding the root cause of F5 Networks K52145254: TMUI RCE vulnerability CVE-2020-5902 - spoiler: there will be more of this class to be found elsewhere - https://t.co/JXmJEZ2DYp https://t.co/IXNKtVHFWP",
+    "tweettime": "2020-07-12, 19:11:00",
+    "tweeturl": "https://twitter.com/NCCGroupInfosec/status/1282392029008404482",
+    "username": "NCCGroupInfosec"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 214,
+    "tweettext": "RT @ArielKoren_: Found a Remote Code Execution #Exploit on #Microsoft #Office (CVE-2020-1321) during my consulting services.\n\nThe vulnerabi…",
+    "tweettime": "2020-07-12, 10:30:24",
+    "tweeturl": "https://twitter.com/jedisct1/status/1282261016559136770",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://www.mimecast.com/blog/2020/07/mimecast-discovers-3d-office-exploiter-a-remote-code-execution-vulnerability-in-microsoft-office/"
+    ],
+    "tweetfavorites": 419,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 189,
+    "tweettext": "Found a Remote Code Execution #Exploit on #Microsoft #Office (CVE-2020-1321) during my consulting services.\n\nThe vulnerability is triggered while parsing 3D objects and potentially affects a wide variety of Microsoft products.\n\nhttps://t.co/jsSOzaVYxI\n\n#RCE #CVE",
+    "tweettime": "2020-07-11, 16:04:18",
+    "tweeturl": "https://twitter.com/0xArielK/status/1281982660152352769",
+    "username": "0xArielK"
+}
+{
+    "expanded_url": [
+        "https://raw.githubusercontent.com/RootUp/PersonalStuff/master/http-vuln-cve2020-5902.nse"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 414,
+    "tweettext": "RT @RandomDhiraj: A quick NMAP script for CVE-2020-5902.\nhttps://t.co/ozd9HcFoSY\n#infosec https://t.co/tGaYUtGcxz",
+    "tweettime": "2020-07-10, 16:16:39",
+    "tweeturl": "https://twitter.com/binitamshah/status/1281623377199783937",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://www.criticalstart.com/f5-big-ip-remote-code-execution-exploit/"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 44,
+    "tweettext": "Important — Instead of applying a patch, if you're relying on mitigation provided for F5 BIG-IP RCE #vulnerability (CVE-2020-5902), you're still at risk of getting hacked.\n\nResearchers (@CharlesDardaman , @0xm1rch  @TeamAresSec) discover a bypass.\n\nhttps://t.co/Q5Cfey1sp6",
+    "tweettime": "2020-07-10, 07:00:12",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1281483341905059844",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/2ZXbQjm"
+    ],
+    "tweetfavorites": 180,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 106,
+    "tweettext": "CVE-2020-1300 - Remote code execution via #Windows CAB files. Our colleagues from Trend Micro Research bring all the details about this recently patched bug. Read them at https://t.co/BBogMCZo0r",
+    "tweettime": "2020-07-09, 15:28:03",
+    "tweeturl": "https://twitter.com/thezdi/status/1281248760320974850",
+    "username": "thezdi"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 123,
+    "tweettext": "RT @IanColdwater: New K8s security advisory: CVE-2020-8558. \n\nA security issue in kube-proxy allows adjacent hosts to reach TCP &amp; UDP servi…",
+    "tweettime": "2020-07-09, 10:10:18",
+    "tweeturl": "https://twitter.com/jedisct1/status/1281168794061344768",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://security.paloaltonetworks.com/CVE-2020-2034"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 25,
+    "tweettext": "What's that? You haven't had enough network appliance vulnerabilities yet? Fine.\nhttps://t.co/rFkqpdA1Ps\nCVE-2020-2034 is: an unauthenticated network-based attacker can execute arbitrary OS commands with root privileges.",
+    "tweettime": "2020-07-08, 19:18:02",
+    "tweeturl": "https://twitter.com/wdormann/status/1280944249257762817",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://www.accenture.com/us-en/blogs/cyber-defense/exploitation-case-study-cve-2020-1062-vulnerability-in-ie11"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "An exploitation case study of CVE-2020-1062, a use-after-free vulnerability in IE11 https://t.co/a13K4NcCyG",
+    "tweettime": "2020-07-08, 18:58:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1280939235055296513",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://github.com/kubernetes/kubernetes/issues/92315"
+    ],
+    "tweetfavorites": 183,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 123,
+    "tweettext": "New K8s security advisory: CVE-2020-8558. \n\nA security issue in kube-proxy allows adjacent hosts to reach TCP &amp; UDP services bound to 127.0.0.1 running on the node or in the node's network namespace. Severity: high if insecure port enabled, otherwise med.\n\nhttps://t.co/dC4Bgwp0ah",
+    "tweettime": "2020-07-08, 16:25:50",
+    "tweeturl": "https://twitter.com/IanColdwater/status/1280900915092951042",
+    "username": "IanColdwater"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/31QmcnU"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "(CVE-2020-14930) #metasploit auxiliary module is ready for authentication bypass #0day which I discovered in CTROMS port management application. You can access #exploit and description from my personal blog. https://t.co/7rOJKtFuz5 (EDB-ID: 48196) https://t.co/Ld2IXEFsWJ",
+    "tweettime": "2020-07-08, 06:29:45",
+    "tweeturl": "https://twitter.com/ehakkus/status/1280750903167979523",
+    "username": "ehakkus"
+}
+{
+    "expanded_url": [
+        "http://spur.us",
+        "https://viz.greynoise.io/ip/45.152.183.30"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 0,
+    "tweetreplies": 5,
+    "tweetretweets": 55,
+    "tweettext": "👀\n\n&gt; F5 BIG-IP RCE CVE-2020-5902 exploit\n&gt; Detected several minutes ago\n&gt; Exploit slung exclusively over TLS\n&gt; Source IP in M247, known APT favorite\n&gt; IP is also running a Mullvad VPN gateway, via https://t.co/LHK7DddYEl\n\nHMMmmm\n\nhttps://t.co/TL6le6dLKz https://t.co/krBm6koRN8",
+    "tweettime": "2020-07-07, 23:24:15",
+    "tweeturl": "https://twitter.com/Andrew___Morris/status/1280643826009456640",
+    "username": "Andrew___Morris"
+}
+{
+    "expanded_url": [
+        "https://viz.greynoise.io/ip/63.250.33.58"
+    ],
+    "tweetfavorites": 327,
+    "tweetquotes": 3,
+    "tweetreplies": 10,
+    "tweetretweets": 141,
+    "tweettext": "Someone in Namecheap already using the Metasploit module to exploit the F5 Big-IP CVE-2020-5902 RCE vuln. \n\nThis module was merged to master in Metasploit GitHub...... four hours ago\n\nhttps://t.co/1qiPhBgXFU https://t.co/SrsTj3LkS5",
+    "tweettime": "2020-07-07, 21:46:30",
+    "tweeturl": "https://twitter.com/Andrew___Morris/status/1280619226454163458",
+    "username": "Andrew___Morris"
+}
+{
+    "tweetfavorites": 296,
+    "tweetquotes": 22,
+    "tweetreplies": 7,
+    "tweetretweets": 170,
+    "tweettext": "If you are relying on mitigations for CVE-2020-5902 we highly recommend that you patch. Our researchers @CharlesDardaman and @0xm1rch found a bypass to the mitigation and are working with F5 to have the advisory updated. #infosec #CVE https://t.co/IqmtfZ8WER",
+    "tweettime": "2020-07-07, 17:24:31",
+    "tweeturl": "https://twitter.com/TeamAresSec/status/1280553293320781825",
+    "username": "TeamAresSec"
+}
+{
+    "expanded_url": [
+        "https://www.criticalstart.com/f5-big-ip-remote-code-execution-exploit/"
+    ],
+    "tweetfavorites": 197,
+    "tweetquotes": 8,
+    "tweetreplies": 1,
+    "tweetretweets": 98,
+    "tweettext": "Since multiple exploits have been released for CVE-2020-5902 we have decided to share what @0xm1rch and @CharlesDardaman did in order to gain code execution on the F5 Big IPs #infosec  https://t.co/HzjPlYWo35",
+    "tweettime": "2020-07-06, 23:15:13",
+    "tweeturl": "https://twitter.com/TeamAresSec/status/1280279161219633152",
+    "username": "TeamAresSec"
+}
+{
+    "tweetfavorites": 289,
+    "tweetquotes": 3,
+    "tweetreplies": 13,
+    "tweetretweets": 40,
+    "tweettext": "Spamming Bug Bounty programs with 1-day exploits (see CVE-2020-5902) is the Ambulance Chasing of bug hunting. Any sensible program will have a condition to allow them time to patch before paying out for these issues. #BugBounty #UnpopularOpinion",
+    "tweettime": "2020-07-06, 18:02:19",
+    "tweeturl": "https://twitter.com/ajxchapman/status/1280200420363767810",
+    "username": "ajxchapman"
+}
+{
+    "expanded_url": [
+        "https://www.helpnetsecurity.com/2020/07/06/exploit-cve-2020-5902/"
+    ],
+    "tweetfavorites": 181,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 55,
+    "tweettext": "BREAKING 🚨 Bugcrowd security researchers are working around the clock to stop cybercriminals from stealing admin passwords using the CVE-2020-5902 remote code execution vulnerability in BIG-IP. Read the latest: https://t.co/QJMJrVXYZs https://t.co/M3JBuof4z3",
+    "tweettime": "2020-07-06, 17:38:43",
+    "tweeturl": "https://twitter.com/Bugcrowd/status/1280194481397080064",
+    "username": "Bugcrowd"
+}
+{
+    "expanded_url": [
+        "https://viz.greynoise.io/query/?gnql=tags%3A%22F5%20BIG-IP%20TMUI%20RCE%22"
+    ],
+    "tweetfavorites": 225,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 93,
+    "tweettext": "GreyNoise is observing \"vuln check probes\" and active opportunistic exploitation of the recent F5 RCE vulnerability CVE-2020-5902 from multiple devices. Tags are available for all users now. \n\ntags:\"F5 BIG-IP TMUI RCE\"\ntags:\"F5 BIG-IP TMUI RCE Vuln Check\"\n\nhttps://t.co/aJm1oPboj6 https://t.co/vHZbvOln22",
+    "tweettime": "2020-07-06, 14:54:34",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1280153168391921664",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://www.infosecnews.org/uscybercom-urgently-recommends-f5-customers-to-patch-cve-2020-5902-and-5903-now/"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 5,
+    "tweettext": "USCYBERCOM urgently recommends F5 customers to patch CVE-2020-5902 and 5903 NOW https://t.co/PHxFRwUPV1 #InfoSec #Security #F5 #InfoSecNews #RCE #PoC #ZeroDay #Hacker #Hackers #Hacking #Russia #China #CVE #USCYBERCOM",
+    "tweettime": "2020-07-06, 11:07:50",
+    "tweeturl": "https://twitter.com/infosecnews_/status/1280096111332655105",
+    "username": "infosecnews_"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/2020/07/05/rift-f5-networks-k52145254-tmui-rce-vulnerability-cve-2020-5902-intelligence/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "We're now seeing staged payloads for the F5 Networks K52145254: TMUI RCE vulnerability CVE-2020-5902 vuln - see - https://t.co/sSr4JIZwu3 https://t.co/o1Z7lTWSW8",
+    "tweettime": "2020-07-06, 09:24:20",
+    "tweeturl": "https://twitter.com/NCCGroupInfosec/status/1280070065896017926",
+    "username": "NCCGroupInfosec"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2141/",
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2142/",
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2143/",
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2144/"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 122,
+    "tweettext": "[CPR-Zero] CVE-2020-9497 &amp; CVE-2020-9498 (Apache Guacamole): Remote Code Execution and Privilege Escalation in Apache Guacamole-server\nhttps://t.co/2pKjFtRv85\nhttps://t.co/qZIjxaMSje\nhttps://t.co/xsCux5tWGR\nhttps://t.co/rnlzY9xS5V",
+    "tweettime": "2020-07-06, 08:54:03",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1280062445000822786",
+    "username": "_CPResearch_"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 147,
+    "tweettext": "RT @wugeej: F5 Big-IP CVE-2020-5902 LFI and RCE\n\nLFI\nhttps://&lt;IP&gt;/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/pass…",
+    "tweettime": "2020-07-06, 06:57:28",
+    "tweeturl": "https://twitter.com/jedisct1/status/1280033103751282689",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://github.com/dunderhay/CVE-2020-5902"
+    ],
+    "tweetfavorites": 453,
+    "tweetquotes": 11,
+    "tweetreplies": 12,
+    "tweetretweets": 180,
+    "tweettext": "F5 Big-IP CVE-2020-5902 LFI and RCE\n\nLFI\nhttps://&lt;IP&gt;/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/passwd\nor /etc/hosts\nor /config/bigip.license\n\nRCE\nhttps://&lt;IP&gt;/tmui/login.jsp/..;/tmui/locallb/workspace/tmshCmd.jsp?command=whoami\n\nhttps://t.co/3Ete09oVP6 https://t.co/zBAfdIZBa2",
+    "tweettime": "2020-07-06, 05:20:49",
+    "tweeturl": "https://twitter.com/wugeej/status/1280008779359125504",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://www.virustotal.com/gui/url/d855d772abbc14e7629ce714fa563d1c0e46c35a2bd86f5325724e6a9c35986c/details",
+        "https://badpackets.net/over-1800-f5-big-ip-endpoints-vulnerable-to-cve-2020-5902/"
+    ],
+    "tweetfavorites": 82,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 34,
+    "tweettext": "Active DDoS malware payload detected:\nhttp://panel.devilsden[.]net/iot.sh\nhttp://185.172.111.233:999/sisi/*\n (https://t.co/qmOnNTxywH)\n\nExploit attempt source IP: 2.57.122.96 (🇷🇴)\n\nTarget: F5 BIG-IP TMUI RCE vulnerability CVE-2020-5902 (https://t.co/y5Uor8B0qi) #threatintel https://t.co/oprQHizid7",
+    "tweettime": "2020-07-06, 03:52:03",
+    "tweeturl": "https://twitter.com/bad_packets/status/1279986441385172993",
+    "username": "bad_packets"
+}
+{
+    "tweetfavorites": 425,
+    "tweetquotes": 37,
+    "tweetreplies": 5,
+    "tweetretweets": 193,
+    "tweettext": "Been trying to relax this weekend, but infosec never sleeps, and this one is just so bad. Gonna take a minute to break it down for folks who have F5 in their environment, but haven't gotten a good feel for the actual real world impact  of CVE-2020-5902 (thread)",
+    "tweettime": "2020-07-05, 21:45:40",
+    "tweeturl": "https://twitter.com/kevvyg/status/1279894238793216001",
+    "username": "kevvyg"
+}
+{
+    "tweetfavorites": 40,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 33,
+    "tweettext": "🩹⚠️ Operators of #F5 BIG-IP systems (LTM, AAM, AFM, Analytics, APM, ASM, DNS, FPS, GTM, Link Controller, PEM) should patch ➡️ remote code execution vulnerability CVE-2020-5902 in Traffic Management User Interface (TMUI) now. Active scanning/exploitation is ongoing.",
+    "tweettime": "2020-07-05, 21:37:37",
+    "tweeturl": "https://twitter.com/certbund/status/1279892212449447941",
+    "username": "certbund"
+}
+{
+    "tweetfavorites": 370,
+    "tweetquotes": 6,
+    "tweetreplies": 9,
+    "tweetretweets": 77,
+    "tweettext": "Hey mates, it's just me or twitter feed is flooded of CVE-2020-5902, lol #bugbounty #infosec https://t.co/VIJwRHwwSP",
+    "tweettime": "2020-07-05, 21:11:40",
+    "tweeturl": "https://twitter.com/omespino/status/1279885683255984129",
+    "username": "omespino"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/13807"
+    ],
+    "tweetfavorites": 382,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 201,
+    "tweettext": "We've seen a lot of PoC for CVE-2020-5902 that gets to file reads or info disclosures—Metasploit published initial exploit code today that gets a root shell on vulnerable BIG-IP versions. https://t.co/2Thr74Rt8R",
+    "tweettime": "2020-07-05, 21:03:57",
+    "tweeturl": "https://twitter.com/catc0n/status/1279883738579709952",
+    "username": "catc0n"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/RandomDhiraj/status/1279842348348956672"
+    ],
+    "tweetfavorites": 112,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "Here's an NMAP script to detect F5's BIG-IP servers vulnerable to recently disclosed RCE #vulnerability (CVE-2020-5902).\n\nhttps://t.co/voeLuOHz2u\n\nvia @RandomDhiraj \n\n#infosec",
+    "tweettime": "2020-07-05, 20:58:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1279882456175276032",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 100,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 1,
+    "tweettext": "While everybody is working on CVE-2020-5902, I am trying to get my first own browser exploit to work. My ROP chain to bypass DEP seems to be the problem atm and it drives me super crazy 🦄🦄\n\nBut it still feels good to get back to my roots!😊",
+    "tweettime": "2020-07-05, 20:05:32",
+    "tweeturl": "https://twitter.com/MrTuxracer/status/1279869037607084032",
+    "username": "MrTuxracer"
+}
+{
+    "tweetfavorites": 37,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2020-5902 F5 BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed.. https://t.co/laQLPQXf7K",
+    "tweettime": "2020-07-05, 18:42:46",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1279848212606615552",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 74,
+    "tweetquotes": 7,
+    "tweetreplies": 3,
+    "tweetretweets": 75,
+    "tweettext": "Our preliminary CVE-2020-5902 scans have located 1,832 vulnerable F5 hosts.\n\nSystem administrators need to upgrade to fixed versions ASAP. A proof-of-concept exploit is now publicly available.",
+    "tweettime": "2020-07-05, 18:25:42",
+    "tweeturl": "https://twitter.com/bad_packets/status/1279843915978338304",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://raw.githubusercontent.com/RootUp/PersonalStuff/master/http-vuln-cve2020-5902.nse"
+    ],
+    "tweetfavorites": 944,
+    "tweetquotes": 16,
+    "tweetreplies": 8,
+    "tweetretweets": 414,
+    "tweettext": "A quick NMAP script for CVE-2020-5902.\nhttps://t.co/ozd9HcFoSY\n#infosec https://t.co/tGaYUtGcxz",
+    "tweettime": "2020-07-05, 18:19:28",
+    "tweeturl": "https://twitter.com/RandomDhiraj/status/1279842348348956672",
+    "username": "RandomDhiraj"
+}
+{
+    "expanded_url": [
+        "https://github.com/1N3/Sn1per"
+    ],
+    "tweetfavorites": 99,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 48,
+    "tweettext": "Added sc0pe templates to scan and detect CVE-2020-5902 Remote Code Execution &amp; XSS on F5 BIG-IP devices to Sn1per. https://t.co/qEnX1iZ8H4\n\n#hackers #hacking #bugbounty #bugbountytips #pentesting #pentest #redteam #OSINT #recon #tools #offsec #CTF #netsec #PoC #exploit",
+    "tweettime": "2020-07-05, 16:31:46",
+    "tweeturl": "https://twitter.com/xer0dayz/status/1279815244303331328",
+    "username": "xer0dayz"
+}
+{
+    "tweetfavorites": 696,
+    "tweetquotes": 38,
+    "tweetreplies": 13,
+    "tweetretweets": 379,
+    "tweettext": "cve-2020-5902 :\nRCE: curl -v -k  'https://[F5 Host]/tmui/login.jsp/..;/tmui/locallb/workspace/tmshCmd.jsp?command=list+auth+user+admin'\nRead File: curl -v -k  'https://[F5 Host]/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/passwd'\n\nWell, Thanks Me Letter.",
+    "tweettime": "2020-07-05, 14:53:51",
+    "tweeturl": "https://twitter.com/x4ce/status/1279790599793545216",
+    "username": "x4ce"
+}
+{
+    "expanded_url": [
+        "https://tdm.socprime.com/tdm/info/a3bYpIF6od6C",
+        "https://github.com/Neo23x0/sigma/blob/master/rules/web/web_cve_2020_5902_f5_bigip.yml",
+        "https://pastebin.com/2PbtrJ28"
+    ],
+    "tweetfavorites": 264,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 152,
+    "tweettext": "Rules to detect exploitation of #F5 BIG-IP TMUI #vulnerability (#CVE-2020-5902)\n\n#SIGMA (by @cyb3rops / @SOC_Prime ):\n➡️ https://t.co/SLZLrl4gVG\n➡️https://t.co/W3hSLbCnul \n\n#Snort/#Suricata by @ET_Labs (ET Open):\n➡️https://t.co/gbJdyKOWHY \n#BlueTeam #SOC #ThreatHunting #Exploit https://t.co/96TYY2I2Rm",
+    "tweettime": "2020-07-05, 13:39:24",
+    "tweeturl": "https://twitter.com/ntlmrelay/status/1279771865247109120",
+    "username": "ntlmrelay"
+}
+{
+    "tweetfavorites": 789,
+    "tweetquotes": 13,
+    "tweetreplies": 11,
+    "tweetretweets": 315,
+    "tweettext": "CVE-2020-5902 allows for unauthenticated attackers  execute arbitrary system commands, create or delete files, disable services, and/or execute arbitrary Java code. \n\n👇just an example https://t.co/HfdV79iO3A",
+    "tweettime": "2020-07-05, 10:12:39",
+    "tweeturl": "https://twitter.com/chybeta/status/1279719835312640000",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 255,
+    "tweetquotes": 3,
+    "tweetreplies": 11,
+    "tweetretweets": 96,
+    "tweettext": "Spent some time with @0xm1rch to get our exploit working for the F5 Big-IP TMUI vuln (CVE-2020-5902) We also got LPE working easily #infosec https://t.co/BxMUSPcLAD",
+    "tweettime": "2020-07-05, 01:03:43",
+    "tweeturl": "https://twitter.com/CharlesDardaman/status/1279581691573567489",
+    "username": "CharlesDardaman"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xfqJA"
+    ],
+    "tweetfavorites": 292,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 186,
+    "tweettext": "F5 has released a security advisory to address a critical RCE vulnerability (CVE-2020-5902) in the BIG-IP Traffic Management User Interface (TMUI). Read more at https://t.co/aHxgi33mdV #Cyber #Cybersecurity #InfoSec",
+    "tweettime": "2020-07-04, 21:14:12",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1279523931624484866",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://go.f5.net/s3pfp"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 20,
+    "tweettext": "The BIG-IP Traffic Management User Interface (TMUI) has a Remote Code Execution vulnerability (CVE-2020-5902) in undisclosed pages. F5 recommends upgrading to a fixed software version to fully mitigate this vulnerability, more details here: https://t.co/4xADlQ3N6V #BIGIP #AskF5",
+    "tweettime": "2020-07-04, 17:56:10",
+    "tweeturl": "https://twitter.com/F5Security/status/1279474093486747648",
+    "username": "F5Security"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/07/f5-big-ip-application-security.html"
+    ],
+    "tweetfavorites": 288,
+    "tweetquotes": 12,
+    "tweetreplies": 4,
+    "tweetretweets": 193,
+    "tweettext": "Critical Unauthorized RCE #Vulnerability (CVE-2020-5902 with CVSS Score 10/10) Affects F5's BIG-IP Application Security Servers Used in large Enterprises, Data Centers, and #CloudComputing Environments.\n\nDetails — https://t.co/6Fmean9wC4\n\nApply Newly Released Patch Updates ASAP! https://t.co/AWIRTMoHft",
+    "tweettime": "2020-07-04, 14:35:03",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1279423483303194624",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://support.f5.com/csp/article/K52145254"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 54,
+    "tweettext": "We're seeing active exploitation of the @F5Networks K52145254: TMUI RCE vulnerability #CVE-2020-5902 issue. The threat actor is after web.xml or /etc/hosts - https://t.co/9AKpWGSrEj.",
+    "tweettime": "2020-07-04, 12:59:19",
+    "tweeturl": "https://twitter.com/NCCGroupInfosec/status/1279399391166713856",
+    "username": "NCCGroupInfosec"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 916,
+    "tweettext": "RT @CNMF_CyberAlert: URGENT: Patching CVE-2020-5902 and 5903 should not be postponed over the weekend. Remediate immediately. https://t.co/…",
+    "tweettime": "2020-07-03, 21:00:26",
+    "tweeturl": "https://twitter.com/jedisct1/status/1279158081847468033",
+    "username": "jedisct1"
+}
+{
+    "tweetfavorites": 1233,
+    "tweetquotes": 92,
+    "tweetreplies": 27,
+    "tweetretweets": 916,
+    "tweettext": "URGENT: Patching CVE-2020-5902 and 5903 should not be postponed over the weekend. Remediate immediately.",
+    "tweettime": "2020-07-03, 20:36:08",
+    "tweeturl": "https://twitter.com/CNMF_CyberAlert/status/1279151966178902016",
+    "username": "CNMF_CyberAlert"
+}
+{
+    "expanded_url": [
+        "https://go.f5.net/dk3nl"
+    ],
+    "tweetfavorites": 441,
+    "tweetquotes": 60,
+    "tweetreplies": 9,
+    "tweetretweets": 325,
+    "tweettext": "The BIG-IP Traffic Management User Interface (TMUI) has a Remote Code Execution vulnerability (CVE-2020-5902) in undisclosed pages. F5 recommends upgrading to a fixed software version to fully mitigate this vulnerability, more details here: https://t.co/yTL0iUBajI #BIGIP #AskF5",
+    "tweettime": "2020-07-03, 12:00:10",
+    "tweeturl": "https://twitter.com/F5/status/1279022116868960257",
+    "username": "F5"
+}
+{
+    "expanded_url": [
+        "https://nvd.nist.gov/vuln/detail/CVE-2020-5902"
+    ],
+    "tweetfavorites": 212,
+    "tweetquotes": 5,
+    "tweetreplies": 8,
+    "tweetretweets": 87,
+    "tweettext": "BIG-IP customers may want to pay attention to CVE-2020-5902. \n\nRemote code execution, unauthenticated, ../.. traversal ascii style to management interface.\n\nhttps://t.co/Oh1kO0TkiP",
+    "tweettime": "2020-07-03, 10:36:24",
+    "tweeturl": "https://twitter.com/GossiTheDog/status/1279001035311403008",
+    "username": "GossiTheDog"
+}
+{
+    "expanded_url": [
+        "https://buff.ly/3iyKSr0"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 36,
+    "tweettext": "Read all about our latest #research - A Remote Code Execution (RCE) vulnerability our researchers found within #Drupal Core, versions 8 &amp; 9 (CVE-2020-13664). Huge well to Lorenzo Grespan and @_s_n_t for all their hard work on this ---&gt; https://t.co/8yZdsHMQPo https://t.co/iv9z4zL8dF",
+    "tweettime": "2020-07-03, 07:58:49",
+    "tweeturl": "https://twitter.com/pentestltd/status/1278961377768546304",
+    "username": "pentestltd"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/ykoster/b627130ea1ec1e4d5a1b996092077805"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "Now that the cat is out of the bag, I have made my BitDefender VPN LPE proof of concept public:\n\nhttps://t.co/RCaf6bDflX\n\nGreat job describing your research approach for CVE-2020-12828 @0xsha 👍",
+    "tweettime": "2020-07-01, 09:01:42",
+    "tweeturl": "https://twitter.com/yorickkoster/status/1278252429289684998",
+    "username": "yorickkoster"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/microsoft-releases-emergency-security-update-to-fix-two-bugs-in-windows-codecs/"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "Microsoft has releases an emergency security update on Monday to fix two RCE bugs in the Windows Codecs Library\n\n-Update delivered through the Windows Store\n-No user interaction needed\n-CVE-2020-1425 &amp; CVE-2020-1457\n\nhttps://t.co/RyA1yhmU1m https://t.co/3auScXsswZ",
+    "tweettime": "2020-07-01, 05:04:00",
+    "tweeturl": "https://twitter.com/campuscodi/status/1278192608775454722",
+    "username": "campuscodi"
+}

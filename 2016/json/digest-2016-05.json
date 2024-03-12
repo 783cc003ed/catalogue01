@@ -21,3 +21,26 @@
     "tweeturl": "https://twitter.com/0x009AD6_810/status/730166126605262848",
     "username": "0x009AD6_810"
 }
+{
+    "expanded_url": [
+        "http://conference.hitb.org/hitbsecconf2016ams/materials/D1%20COMMSEC%20-%20Nadav%20Markus%20and%20Gal%20De%20Leon%20-%20Exploiting%20GLIBC%20-%20Hacking%20Everything.pdf"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "Exploiting GLIBC - Hacking Everything (Leveraging CVE-2015-7547 for ASLR\nBypass &amp; RCE) : https://t.co/MYZhO5Cbw8 (Slides) #HITB2016AMS",
+    "tweettime": "2016-05-28, 00:57:05",
+    "tweeturl": "https://twitter.com/binitamshah/status/736360613140520961",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 57,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 76,
+    "tweettext": "0day Attack in the wild.\nCVE-2016-0167 Windows LPE\nCVE-2016-0189 IE RCE\nCVE-2016-4117 Flash RCE",
+    "tweettime": "2016-05-10, 22:42:25",
+    "tweeturl": "https://twitter.com/0x009AD6_810/status/730166126605262848",
+    "username": "0x009AD6_810"
+}

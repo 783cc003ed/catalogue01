@@ -11,3 +11,16 @@
     "tweeturl": "https://twitter.com/dannyc_dev/status/896775104524414976",
     "username": "dannyc_dev"
 }
+{
+    "expanded_url": [
+        "https://github.com/xairy/kernel-exploits/blob/master/CVE-2017-1000112/poc.c"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 118,
+    "tweettext": "A proof-of-concept local root exploit for CVE-2017-1000112.\nIncludes KASLR and SMEP bypasses. No SMAP bypass. https://t.co/dnRh8HFbYy",
+    "tweettime": "2017-08-13, 16:47:00",
+    "tweeturl": "https://twitter.com/dannyc_dev/status/896775104524414976",
+    "username": "dannyc_dev"
+}

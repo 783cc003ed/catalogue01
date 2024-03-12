@@ -63,3 +63,68 @@
     "tweeturl": "https://twitter.com/_Icewall/status/1058019779209056262",
     "username": "_Icewall"
 }
+{
+    "expanded_url": [
+        "https://brightiup.me/QuartzCore/FunctionIntOverFlow.c"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 7,
+    "tweetreplies": 7,
+    "tweetretweets": 60,
+    "tweettext": "Just release the PoC of CVE-2018-4415 and will talk more about CoreAnimation. \nhttps://t.co/i0uBHCM2wW",
+    "tweettime": "2018-11-28, 04:24:54",
+    "tweeturl": "https://twitter.com/realBrightiup/status/1067635421683675136",
+    "username": "realBrightiup"
+}
+{
+    "expanded_url": [
+        "https://github.com/0xdea/exploits/blob/master/solaris/raptor_solgasm"
+    ],
+    "tweetfavorites": 216,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 130,
+    "tweettext": "I was investigating another 0day, when I noticed that Solaris 11 is also affected by the recent Xorg local privilege escalation vulnerability (CVE-2018-14665).\n\nHere’s my fresh exploit:\nhttps://t.co/k8yCF1jr3e\n\nPlease read comments carefully before running it. https://t.co/qakLdhls3c",
+    "tweettime": "2018-11-25, 10:27:17",
+    "tweeturl": "https://twitter.com/0xdea/status/1066639453375119360",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=822518"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "Google Chrome on iOS Iframe Sandbox Escape Vulnerability (CVE-2018-17472):\nhttps://t.co/93o1jPPS9m",
+    "tweettime": "2018-11-08, 06:33:21",
+    "tweeturl": "https://twitter.com/hosselot/status/1060419986202746880",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://github.com/bazad/launchd-portrep"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 56,
+    "tweettext": "CVE-2018-4280: Mach port replacement vulnerability in launchd on macOS 10.13.5 leading to local privilege escalation and SIP bypass.\nhttps://t.co/m4ifrnAlHe",
+    "tweettime": "2018-11-04, 19:59:51",
+    "tweeturl": "https://twitter.com/matteyeux/status/1059173399468105729",
+    "username": "matteyeux"
+}
+{
+    "expanded_url": [
+        "https://blog.talosintelligence.com/2018/11/TALOS-2018-0636.html"
+    ],
+    "tweetfavorites": 199,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 158,
+    "tweettext": "Promised, full exploitation  process of : TALOS-2018-0636 (CVE-2018-3971) -HitmanPro.Alert hmpalert Privilege Escalation Vulnerability https://t.co/sAlTcjUM7s . A.k.a how to use 0day in anti-0day product bypassing its LPE protection to gain SYSTEM.",
+    "tweettime": "2018-11-01, 15:35:47",
+    "tweeturl": "https://twitter.com/_Icewall/status/1058019779209056262",
+    "username": "_Icewall"
+}

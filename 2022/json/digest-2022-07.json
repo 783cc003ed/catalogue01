@@ -626,3 +626,631 @@
     "tweeturl": "https://twitter.com/hackinparis/status/1542825470550491137",
     "username": "hackinparis"
 }
+{
+    "expanded_url": [
+        "https://lists.apache.org/thread/p847l3kopoo5bjtmxrcwk21xp6tjxqlc",
+        "https://nvd.nist.gov/vuln/detail/CVE-2022-33891"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 29,
+    "tweettext": "We first saw exploitation attempts in the wild for Apache Spark CVE-2022-33891 RCE July 26th. Exploitation is public &amp; trivial, though pre-conditions likely limit affected number of instances. If you run Spark, update:\n\nhttps://t.co/AWxzHZUbSQ\n\nNVD entry: https://t.co/MGz9oS8xdp",
+    "tweettime": "2022-07-31, 19:22:20",
+    "tweeturl": "https://twitter.com/Shadowserver/status/1553823393140580352",
+    "username": "Shadowserver"
+}
+{
+    "tweetfavorites": 673,
+    "tweetquotes": 6,
+    "tweetreplies": 8,
+    "tweetretweets": 180,
+    "tweettext": "CVE-2022-33891 - Apache Spark Shell Command Injection\n\nurl+/?doAs=`sleep 7`",
+    "tweettime": "2022-07-31, 03:30:15",
+    "tweeturl": "https://twitter.com/momika233/status/1553583794682482688",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://youtu.be/RXLdWwAMjz8",
+        "https://www.vulnmachines.com"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2021-26084 : The OGNL injection vulnerability allows an unauthenticated user to execute arbitrary code on a Confluence Server or Data Center instance.\n[PoC] : https://t.co/IWbGMQIMLK\nStart your #pentesting Journey with us.\nhttps://t.co/TKYo5q9VOB\n\n#infosec #bugbountytips",
+    "tweettime": "2022-07-29, 09:07:12",
+    "tweeturl": "https://twitter.com/Vulnmachines/status/1552943813714255873",
+    "username": "Vulnmachines"
+}
+{
+    "expanded_url": [
+        "https://github.com/star-sg/CVE/tree/master/CVE-2022-2185",
+        "https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/"
+    ],
+    "tweetfavorites": 144,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 44,
+    "tweettext": "Our team member, @testanull , just made the PoC for CVE-2022-2185 available.\nhttps://t.co/M8EcvjKfAY\nIt's related to https://t.co/6XNBPPZQAc",
+    "tweettime": "2022-07-29, 05:46:27",
+    "tweeturl": "https://twitter.com/starlabs_sg/status/1552893294749057026",
+    "username": "starlabs_sg"
+}
+{
+    "expanded_url": [
+        "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36364",
+        "https://lists.apache.org/thread/5csdj8bv4h3hfgw27okm84jh1j2fyw0c"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 12,
+    "tweettext": "Awarded CVE-2022-36364 (https://t.co/yvSyEP2Lui), RCE in JDBC driver, on Apache Calcite Avatica project. Thanks to the Calcite PMC for working with me on responsible disclosure: https://t.co/ChmbAyoY47 - anyone exposing this driver to end users should upgrade.",
+    "tweettime": "2022-07-28, 11:14:44",
+    "tweeturl": "https://twitter.com/h1pmnh/status/1552613522500161536",
+    "username": "h1pmnh"
+}
+{
+    "expanded_url": [
+        "https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 30,
+    "tweettext": "⛓️ Awesome chain of bugs to exploit SQLi in WordPress Transposh plugin leading to $30k bounties\n\n1⃣ Weak Default Configuration - CVE-2022-2461\n2⃣ Unauthenticated XSS - CVE-2021-24911\n3⃣ Blind SQL injection - CVE-2022-25811\n\nhttps://t.co/FX0b646yJ7\n\n#pentesting #BugBounty #hacking https://t.co/zhiU8QI4dd",
+    "tweettime": "2022-07-27, 16:04:46",
+    "tweeturl": "https://twitter.com/payloadartist/status/1552324122935435265",
+    "username": "payloadartist"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6017j1vJ1"
+    ],
+    "tweetfavorites": 562,
+    "tweetquotes": 45,
+    "tweetreplies": 7,
+    "tweetretweets": 320,
+    "tweettext": "Microsoft discovered and patched a 0-day exploit (CVE-2022-22047) that #KNOTWEED, an Austria-based private sector offensive actor, used to deploy #Subzero malware. Analysis of campaigns, tactics, &amp; payloads in this #MSTIC blog w/ @msftsecresponse @RiskIQ: https://t.co/9QZbKSo9FA",
+    "tweettime": "2022-07-27, 14:08:00",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1552294738933547009",
+    "username": "MsftSecIntel"
+}
+{
+    "tweetfavorites": 46,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "My bug has been published!\n\nCVE-2022-32816 : Apple Safari UI Spoofing Vulnerability\n\n@SecuriTeam_SSD, @LabsSsd",
+    "tweettime": "2022-07-27, 12:12:38",
+    "tweeturl": "https://twitter.com/l33d0hyun/status/1552265704187240449",
+    "username": "l33d0hyun"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "Following publication of CVE-2022-31813, we just published @_mabote_ analysis of the issue. Come learn how you can exploit mod_proxy's HTTP forwarding fail to grab all the bounties! 🤑\nhttps://t.co/IbBdnIUX4p",
+    "tweettime": "2022-07-26, 09:57:21",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1551869273156485120",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/assessments/43c07d86-44d8-4554-a895-bf40f9eb1a49?referrer=twttr"
+    ],
+    "tweetfavorites": 65,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "Fantastic analysis of a command injection RCE (CVE-2022-2143) in Advantech iView courtesy of @SpaceySpacek 👀 https://t.co/9CA2ZmgHtN",
+    "tweettime": "2022-07-25, 19:28:04",
+    "tweeturl": "https://twitter.com/catc0n/status/1551650510452793345",
+    "username": "catc0n"
+}
+{
+    "expanded_url": [
+        "https://prisminfosec.com/cve-2022-34001/"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "Researchers have identified an XXE #vulnerability (CVE-2022-34001) in Unit4's Enterprise Resource Planning (ERP), a well-known enterprise management suite that includes financial and project management tools.\n\nhttps://t.co/l4nbnhoq8B\n\n#cybersecurity https://t.co/nIplttgeXv",
+    "tweettime": "2022-07-24, 12:01:44",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1551175799340146688",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/4869",
+        "https://thehackernews.com/2022/07/experts-notice-sudden-surge-in.html"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "Scanning for recently being mass exploited file upload vulnerability - CVE-2021-24284 (WordPress Kaswara Modern VC Addons pluing - File Upload RCE) using nuclei template shared by @pussycat0x\n\nTemplate: https://t.co/FsI7wxZEFG\n\nSource:\nhttps://t.co/mtOvFr6vZT\n\n#hackwithautomation https://t.co/4MOOHaPIdL",
+    "tweettime": "2022-07-23, 17:02:43",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1550889156301422592",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/07/candiru-spyware-caught-exploiting.html"
+    ],
+    "tweetfavorites": 132,
+    "tweetquotes": 4,
+    "tweetreplies": 7,
+    "tweetretweets": 79,
+    "tweettext": "Spyware sold by Israeli company #Candiru has been caught exploiting a recently discovered zero-day #vulnerability in #Google Chrome (CVE-2022-2294) to attack journalists.\n\nRead details: https://t.co/Odu2f0URkX\n\n#infosec #cybersecurity #hacking #malware #privacy",
+    "tweettime": "2022-07-22, 06:41:31",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1550370436747501568",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 20,
+    "tweettext": "Gitlab Project Import RCE Analysis (CVE-2022-2185)\n\nhttps://t.co/OlctfSkJM0\n\n#infosec",
+    "tweettime": "2022-07-22, 02:52:31",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1550312808633749504",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 228,
+    "tweetquotes": 16,
+    "tweetreplies": 15,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2022-244622: A local unauthenticated attacker within a @McDonalds could exploit this knowledge to pop calc.exe.\n\nThe default user on the terminals is Administrator and touch screen input is enabled. https://t.co/uG1pXG6iYb",
+    "tweettime": "2022-07-22, 01:11:53",
+    "tweeturl": "https://twitter.com/GeoffreyHuntley/status/1550287484549943296",
+    "username": "GeoffreyHuntley"
+}
+{
+    "tweetfavorites": 799,
+    "tweetquotes": 6,
+    "tweetreplies": 43,
+    "tweetretweets": 70,
+    "tweettext": "Just dropped my first CVE. CVE-2022-42069 A privilege escalation exists where an unauthenticated user can escalate to an authenticated user by sending a specially crafted email and gathering the user/pass of the recipient. #Hacking",
+    "tweettime": "2022-07-21, 18:10:24",
+    "tweeturl": "https://twitter.com/DahvidSchloss/status/1550181413353299971",
+    "username": "DahvidSchloss"
+}
+{
+    "expanded_url": [
+        "https://decoded.avast.io/janvojtesek/the-return-of-candiru-zero-days-in-the-middle-east/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "Candiru is back at it again, exploiting browser #0day in the Middle East. Read our latest blog post for more details about our discovery of CVE-2022-2294, a #vulnerability that affected Chrome, Edge, Safari, and others. https://t.co/JroEayxGY9",
+    "tweettime": "2022-07-21, 15:11:36",
+    "tweeturl": "https://twitter.com/AvastThreatLabs/status/1550136415559761922",
+    "username": "AvastThreatLabs"
+}
+{
+    "expanded_url": [
+        "https://www.secpulse.com/archives/181830.html"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "CVE-2022-26134 Vulnerability analysis - Critical severity unauthenticated remote code execution vulnerability in Confluence Server and Data Center \n#CVE #POC #confluence  https://t.co/ZASNjRpb4V",
+    "tweettime": "2022-07-21, 15:03:14",
+    "tweeturl": "https://twitter.com/sirifu4k1/status/1550134309562249216",
+    "username": "sirifu4k1"
+}
+{
+    "expanded_url": [
+        "https://decoded.avast.io/janvojtesek/the-return-of-candiru-zero-days-in-the-middle-east/"
+    ],
+    "tweetfavorites": 138,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 60,
+    "tweettext": "Two #0day exploits were used against targets in the Middle East, and led to the deployment of Candiru's #DevilsTongue spyware!\n\n- Heap BOF in WebRTC, Chromium (CVE-2022-2294)\n- LPE in a 3rd party driver\n\nGreat finding by the team @ @AvastThreatLabs!\n\nhttps://t.co/03GtyS8Eno\n\n&gt;&gt;",
+    "tweettime": "2022-07-21, 14:11:46",
+    "tweeturl": "https://twitter.com/megabeets_/status/1550121359761555460",
+    "username": "megabeets_"
+}
+{
+    "expanded_url": [
+        "https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/"
+    ],
+    "tweetfavorites": 107,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 29,
+    "tweettext": "It's time for another \"Show &amp; Tell\" session by Meme master @testanull - Gitlab Project Import RCE Analysis (CVE-2022-2185)\n@_jsoo_ thinks it was full of images and a lengthy blog post :P\nGrateful for our co-worker, Frances for editing it.😘\nhttps://t.co/6XNBPQgTCc",
+    "tweettime": "2022-07-21, 12:06:52",
+    "tweeturl": "https://twitter.com/starlabs_sg/status/1550089927030755328",
+    "username": "starlabs_sg"
+}
+{
+    "expanded_url": [
+        "https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/"
+    ],
+    "tweetfavorites": 306,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 117,
+    "tweettext": "Successfully reproduced the Gitlab Project Import RCE (CVE-2022-2185)\nGot headache while reading Ruby for last 2 weeks, but it worth definitely digging in\nHave good read!\nhttps://t.co/MDWcIMfxTh",
+    "tweettime": "2022-07-21, 12:05:25",
+    "tweeturl": "https://twitter.com/testanull/status/1550089562349015042",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://www.randorisec.fr/crack-linux-firewall/",
+        "https://github.com/randorisec/CVE-2022-34918-LPE-PoC"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 66,
+    "tweettext": "LPE exploit for CVE-2022-34918. This exploit has been written for the kernel Linux ubuntu 5.15.0-39-generic\n\nBlog:\n\nhttps://t.co/30PhGTjHWj\n\nPOC:\n\nhttps://t.co/rGcsbuhzPE\n\n#Linux #LPE",
+    "tweettime": "2022-07-21, 10:28:36",
+    "tweeturl": "https://twitter.com/soheilhashemi_/status/1550065195896143873",
+    "username": "soheilhashemi_"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/07/atlassian-releases-patch-for-critical.html"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "#Atlassian has rolled out security patches to address a new critical hard-coded credentials #vulnerability (CVE-2022-26138) affecting the #Confluence app for Confluence Server and Confluence Data Center.\n\nDetails: https://t.co/YDUMVseBtZ\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-07-21, 08:42:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1550038562459947008",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "A prime example of the whack-a-mole game of sandbox escaping (and yet another way to abuse python 🐍)\n\nUncovering a macOS App Sandbox escape vulnerability: A deep dive into CVE-2022-26706\n\nhttps://t.co/pr7eLeLCXY",
+    "tweettime": "2022-07-21, 07:09:33",
+    "tweeturl": "https://twitter.com/0xdea/status/1550015102966980610",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/ko-kr/HT213346"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 8,
+    "tweettext": "Apple Safari 2 Kill\n\nCVE-2022-32787 : Apple Safari ICU Out-Of-Bounds Write Vulnerability\nCVE-2022-32816 : Apple Safari UI Spoofing Vulnerability\n\nhttps://t.co/jGEtUzXaJN https://t.co/MpH3qByben",
+    "tweettime": "2022-07-21, 02:06:19",
+    "tweeturl": "https://twitter.com/l33d0hyun/status/1549938793557692416",
+    "username": "l33d0hyun"
+}
+{
+    "tweetfavorites": 47,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "13 of these F5 Big IP systems in Russia. \n\nUse this exploit to take them down!\n\n#CVE-2022-1388 F5's BIG-IP Unauth RCE\n\nConnection: keep-alive, X-F5-Auth-Token\nAuthorization: Basic YWRtaW46\nX-F5-Auth-Token: anything\n\nhttps://x.x.x.x:443/mgmt/tm/util/bash https://t.co/HPloQX1A2Y",
+    "tweettime": "2022-07-20, 23:40:30",
+    "tweeturl": "https://twitter.com/three_cube/status/1549902099520991232",
+    "username": "three_cube"
+}
+{
+    "tweetfavorites": 1677,
+    "tweetquotes": 88,
+    "tweetreplies": 27,
+    "tweetretweets": 532,
+    "tweettext": "Discovered by a fried of mine:\n\nCVE-2022-26138: A remote, unauthenticated attacker with knowledge of the hardcoded password could exploit this to log into Confluence and access all content accessible to users in the confluence-users group\n\nThe password is disabled1system1user6708 https://t.co/6D3g8ZFxTn",
+    "tweettime": "2022-07-20, 23:00:44",
+    "tweeturl": "https://twitter.com/fluepke/status/1549892089181257729",
+    "username": "fluepke"
+}
+{
+    "expanded_url": [
+        "https://lab.viettelcybersecurity.com/advisories/VCSA-97"
+    ],
+    "tweetfavorites": 338,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 119,
+    "tweettext": "🥳 We have reproduced an Arbitrary File Read for an internal site of Skype for Business / MS Lync!\n\nCVE: CVE-2022-26911\nSubdomains: dialin, meet, lyncdiscover, sip, ...\n\nOriginal advisory: https://t.co/WaYc1zs9Hh\n\nThe PoC ⤵️ https://t.co/fomzLr51tG",
+    "tweettime": "2022-07-20, 13:14:49",
+    "tweeturl": "https://twitter.com/ptswarm/status/1549744638193541122",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://github.com/W01fh4cker/cve-2022-33891/blob/main/cve_2022_33891_poc.py"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 58,
+    "tweettext": "CVE-2022-33891 Apache Spark shell command injection #apache #CVE #Spark #RCE  https://t.co/Dmp52gFsm4",
+    "tweettime": "2022-07-19, 02:03:32",
+    "tweeturl": "https://twitter.com/sirifu4k1/status/1549213318354571264",
+    "username": "sirifu4k1"
+}
+{
+    "tweetfavorites": 770,
+    "tweetquotes": 12,
+    "tweetreplies": 12,
+    "tweetretweets": 226,
+    "tweettext": "CVE-2022-33891: Apache Spark shell\ncommand injection vulnerability via Spark\nUI\n\npoc:http://x.x.x.x/doAs?='whoami'",
+    "tweettime": "2022-07-18, 14:05:02",
+    "tweeturl": "https://twitter.com/momika233/status/1549032499871121410",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/assetnote/jira-mobile-ssrf-exploit"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 9,
+    "tweettext": "CVE-2022-26135 - Full-Read Server Side Request Forgery in Mobile Plugin for Jira Data Center and Server\nhttps://t.co/La2auEhpGN",
+    "tweettime": "2022-07-15, 16:36:59",
+    "tweeturl": "https://twitter.com/Alra3ees/status/1547983577291567104",
+    "username": "Alra3ees"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2022-32224-ruby-on-rails-remote-code-execution-vulnerability/"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2022-32224: Ruby on Rails Remote Code Execution Vulnerability https://t.co/DTibc0T5Hq",
+    "tweettime": "2022-07-15, 11:16:35",
+    "tweeturl": "https://twitter.com/Dinosn/status/1547902946720894981",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/JC175/CVE-2022-32119"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 53,
+    "tweettext": "CVE-2022-32119 - Arox-Unrestricted-File-Upload\nhttps://t.co/QjbTLocXSH https://t.co/90bSATsIrL",
+    "tweettime": "2022-07-15, 05:04:39",
+    "tweeturl": "https://twitter.com/momika233/status/1547809344200540160",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "Following up from last month, the Trend Micro Research Team returns with details about CVE-2022-30136 - another remote, unauthenticated RCE (at SYSTEM) in #NFS. They cover the root cause and offer detection guidance. Read all the details at https://t.co/Pga8lJLjZ5",
+    "tweettime": "2022-07-14, 16:22:17",
+    "tweeturl": "https://twitter.com/thezdi/status/1547617488552148992",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/07/microsoft-details-app-sandbox-escape.html"
+    ],
+    "tweetfavorites": 124,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 79,
+    "tweettext": "#Microsoft has disclosed details of a now-patched #vulnerability (CVE-2022-26706) in #Apple operating systems — #iOS, iPadOS, #macOS, tvOS and watchOS — that could allow attackers to escalate privileges and deploy #malware.\n\nRead: https://t.co/fbUhrppdKV\n\n#infosec #cybersecurity",
+    "tweettime": "2022-07-14, 10:55:19",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1547535206256885760",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6015bN0sx"
+    ],
+    "tweetfavorites": 123,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 72,
+    "tweettext": "We uncovered a vulnerability that could allow specially crafted codes to escape the macOS App Sandbox and run unrestricted on the system. Apple patched this vulnerability (CVE-2022-26706) in May. This blog details our research that led to this discovery: https://t.co/7JUyb3q7Jm",
+    "tweettime": "2022-07-13, 16:10:01",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1547252013192331266",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-973/"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
+    "tweettext": "[ZDI-22-973|CVE-2022-22034] Microsoft Windows win32kfull UMPDDrvTransparentBlt Use-After-Free Local Privilege Escalation Vulnerability (CVSS 8.8) https://t.co/ep1EECJ8bV",
+    "tweettime": "2022-07-13, 13:53:59",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1547217782130999297",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://github.com/assetnote/jira-mobile-ssrf-exploit?fbclid=IwAR0ggztq5PeEwaHFQbrN66DlDOtKoF-tnXwCGTG9aRmgyqNVwam4Re0aEQ4"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2022-26135 - Full-Read Server Side Request Forgery in Mobile Plugin for Jira Data Center and Server\n\nPOST /rest/nativemobile/1.0/batch HTTP/2\n....\n{\"requests\":[{\"method\":\"GET\",\"location\":\"@example.com\"}]}\n\nhttps://t.co/5bk4MchWtY https://t.co/VmH9duVS8I",
+    "tweettime": "2022-07-13, 02:56:50",
+    "tweeturl": "https://twitter.com/wugeej/status/1547052402742022146",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 47,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2022-30222 - Windows Shell Remote Code Execution Vulnerability\n\nThis will be a fun one to reverse engineer.  If you have Japanese language pack installed, you can use the IME to gain SYSTEM rights from the login screen it appears.  (Think the RDP login screen). Risky 4 japan.",
+    "tweettime": "2022-07-12, 17:56:14",
+    "tweeturl": "https://twitter.com/GossiTheDog/status/1546916355772907525",
+    "username": "GossiTheDog"
+}
+{
+    "expanded_url": [
+        "https://rawcdn.githack.com/campuscodi/Microsoft-Patch-Tuesday-Security-Reports/ae0b10fc8bfefefb0cec726e6c30556508f4c32d/Reports/MSRC_CVEs2022-Jul.html"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "The Microsoft Patch Tuesday for July 2022 is out:\n\n-86 vulnerabilities patched\n-one actively exploited zero-day included (CVE-2022-22047)\n\n[repost because I'm blind, didn't see the zero-day]\n\nhttps://t.co/axtGSVFRf6 https://t.co/BHLg8e0X6j",
+    "tweettime": "2022-07-12, 17:43:41",
+    "tweeturl": "https://twitter.com/campuscodi/status/1546913198569390080",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "http://Horizon3.ai",
+        "https://www.horizon3.ai/red-team-blog-cve-2022-28219/"
+    ],
+    "tweetfavorites": 278,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2022-28219: Unauthenticated XXE to RCE and Domain Compromise in ManageEngine ADAudit Plus – https://t.co/fIzSrTltVW https://t.co/QGDMHMagV2",
+    "tweettime": "2022-07-11, 07:43:14",
+    "tweeturl": "https://twitter.com/Securityblog/status/1546399704652603392",
+    "username": "Securityblog"
+}
+{
+    "expanded_url": [
+        "https://github.com/assetnote/jira-mobile-ssrf-exploit"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "CVE-2022-26135 - Full-Read Server Side Request Forgery in Mobile Plugin for Jira Data Center and Server...\n\nPoC\nhttps://t.co/SuuWk2ThBX https://t.co/AUC4fYucE4",
+    "tweettime": "2022-07-07, 14:42:59",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1545055784152625153",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/aeyesec/CVE-2022-34265"
+    ],
+    "tweetfavorites": 149,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2022-34265: An issue was discovered in Django 3.2 before 3.2.14 and 4.0 before 4.0.6. The Trunc() and Extract() database functions are subject to SQL injection...\n\nPoC\nhttps://t.co/QeA8u67o5J https://t.co/bHGGVaEDbi",
+    "tweettime": "2022-07-07, 14:41:48",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1545055486029938692",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2022/07/06/5",
+        "https://t.zsxq.com/03BE6MbEI"
+    ],
+    "tweetfavorites": 325,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 104,
+    "tweettext": "CVE-2022-33980: Apache Commons Configuration RCE\n\nhttps://t.co/FB0Ll4OFpj\n\nhttps://t.co/2RVs5DRVSX https://t.co/Zmf5UJOhbP",
+    "tweettime": "2022-07-06, 17:26:51",
+    "tweeturl": "https://twitter.com/chybeta/status/1544734637033160705",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/assetnote/jira-mobile-ssrf-exploit"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "Full-Read Server Side Request Forgery in Mobile Plugin for Jira Data Center and Server\n\nCVE-2022-26135 :- https://t.co/cWG0QYsMmH\n\n#bugbounty #bugbountytip #TodayCyberNews #infosec #cybersecurity #CVE #jira https://t.co/zYzG1wsKoS",
+    "tweettime": "2022-07-06, 07:18:23",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1544581510547746816",
+    "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/Zx3qJlmRGY/cve-2022-28219/rapid7-analysis"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 29,
+    "tweettext": "My analysis of CVE-2022-28219 - a ManageEngine ADAudit Plus RCE.\n\nI learned a lot from @Horizon3Attack's writeup - I only had vague awareness of what you could do with XXE, this blew my mind! Props to them on their great exploit chain\n\nhttps://t.co/lrBSLNmqs5",
+    "tweettime": "2022-07-05, 22:15:08",
+    "tweeturl": "https://twitter.com/iagox86/status/1544444796072185856",
+    "username": "iagox86"
+}
+{
+    "expanded_url": [
+        "https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/"
+    ],
+    "tweetfavorites": 503,
+    "tweetquotes": 6,
+    "tweetreplies": 8,
+    "tweetretweets": 155,
+    "tweettext": "The security research team at @assetnote discovered a high risk SSRF vulnerability in Jira Server and Datacenter - CVE-2022-26135. This SSRF allows attackers to make requests with any HTTP method, headers and body. You can read about it here: https://t.co/mUehIRuf17",
+    "tweettime": "2022-07-05, 21:46:18",
+    "tweeturl": "https://twitter.com/infosec_au/status/1544437538399862784",
+    "username": "infosec_au"
+}
+{
+    "tweetfavorites": 93,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 47,
+    "tweettext": "Google released Chrome v103.0.5060.114 for Windows users to patch an actively exploited zero-day (CVE-2022-2294).\n\nThe vulnerability was described as a heap buffer overflow in Chrome's WebRTC component and was found by Jan Vojtesek from security firm Avast last Friday. https://t.co/lZKHfi2ldQ",
+    "tweettime": "2022-07-05, 11:59:44",
+    "tweeturl": "https://twitter.com/campuscodi/status/1544289927877332995",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/07/update-google-chrome-browser-to-patch.html"
+    ],
+    "tweetfavorites": 243,
+    "tweetquotes": 14,
+    "tweetreplies": 7,
+    "tweetretweets": 203,
+    "tweettext": "UPDATE your #Google Chrome browser for Windows, #macOS, #Linux and #Android devices to patch a newly discovered high-severity zero-day #vulnerability (CVE-2022-2294) that is being exploited in the wild.\n\nDetails: https://t.co/KWFVecr1d7\n\n#infosec #cybersecurity #hacking #technews",
+    "tweettime": "2022-07-05, 02:57:06",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1544153367189958656",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 59,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 7,
+    "tweettext": "@egeblc showed us how to abuse #rsync tool functionality in order to achieve remote code execution (disclosed as CVE-2022-29154), this vulnerability allows to write/overwrite arbitrary files on clients and could lead to silent lateral movement within networks.\n\n#CyberSecurity https://t.co/eLRtCV9Y3E",
+    "tweettime": "2022-07-01, 11:00:31",
+    "tweeturl": "https://twitter.com/hackinparis/status/1542825470550491137",
+    "username": "hackinparis"
+}

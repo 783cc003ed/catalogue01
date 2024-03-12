@@ -24,3 +24,29 @@
     "tweeturl": "https://twitter.com/Dinosn/status/699473968357601280",
     "username": "Dinosn"
 }
+{
+    "expanded_url": [
+        "https://xairy.github.io/blog/2016/cve-2016-2384"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2016-2384 arbitrary code execution due to a double-free in the usb-midi linux kernel driver - https://t.co/QfhW4oOecp bonus: SMEP bypass",
+    "tweettime": "2016-02-22, 06:45:09",
+    "tweeturl": "https://twitter.com/gN3mes1s/status/701658969278967808",
+    "username": "gN3mes1s"
+}
+{
+    "expanded_url": [
+        "https://github.com/koczkatamas/CVE-2016-0051"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "POC BSoD and Privilege Escalation (to SYSTEM) using CVE-2016-0051 in Windows 7/10 https://t.co/Cy1L1Lh43k",
+    "tweettime": "2016-02-16, 06:02:44",
+    "tweeturl": "https://twitter.com/Dinosn/status/699473968357601280",
+    "username": "Dinosn"
+}

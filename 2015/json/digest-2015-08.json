@@ -37,3 +37,42 @@
     "tweeturl": "https://twitter.com/ithurricanept/status/632068001999654912",
     "username": "ithurricanept"
 }
+{
+    "expanded_url": [
+        "https://goo.gl/87ZsWz"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "Release PoC for CVE-2015-1528 https://t.co/80ngJwuKVq, Exploiting Heap Corruption due to Integer Overflow in Android libcutils",
+    "tweettime": "2015-08-28, 01:32:35",
+    "tweeturl": "https://twitter.com/oldfresher/status/637075269858127872",
+    "username": "oldfresher"
+}
+{
+    "expanded_url": [
+        "http://bit.ly/1KpqmiQ"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "very nice! Tested MS15-076 (CVE-2015-2370) Privilege Escalation on x64 Windows 8.1, poc : http://t.co/B7Qa5RMoGs http://t.co/uFXiBr9q0T…",
+    "tweettime": "2015-08-16, 14:16:53",
+    "tweeturl": "https://twitter.com/opexxx/status/632918960300818432",
+    "username": "opexxx"
+}
+{
+    "expanded_url": [
+        "https://www.exploit-db.com/exploits/37768/"
+    ],
+    "tweetfavorites": 111,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 95,
+    "tweettext": "very nice! Tested MS15-076 (CVE-2015-2370) Privilege Escalation on x64 Windows 8.1,  poc : https://t.co/VqAV1z6Bew http://t.co/s00fvu8KeX",
+    "tweettime": "2015-08-14, 05:55:29",
+    "tweeturl": "https://twitter.com/ithurricanept/status/632068001999654912",
+    "username": "ithurricanept"
+}

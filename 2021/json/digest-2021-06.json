@@ -556,3 +556,561 @@
     "tweeturl": "https://twitter.com/ptswarm/status/1399759160967938054",
     "username": "ptswarm"
 }
+{
+    "expanded_url": [
+        "https://hubs.ly/H0Rlf8H0"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "Update: We’ve posted a blog with more details about CVE-2021-1675, a critical vulnerability that exposes Windows Servers to remote code execution. We’ll continue to post updates to this blog as we learn more. https://t.co/1mHb73pVvI https://t.co/andwkVE1Kv",
+    "tweettime": "2021-06-30, 17:46:30",
+    "tweeturl": "https://twitter.com/HuntressLabs/status/1410293681941356553",
+    "username": "HuntressLabs"
+}
+{
+    "tweetfavorites": 82,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "Breaking: Huntress is aware of CVE-2021-1675, a critical remote code execution and local privilege escalation vulnerability dubbed as PrintNightmare. The only known mitigation right now is to disable the Print Spooler service. We’re working on a blog post with more details.",
+    "tweettime": "2021-06-30, 15:56:13",
+    "tweeturl": "https://twitter.com/HuntressLabs/status/1410265926528909313",
+    "username": "HuntressLabs"
+}
+{
+    "expanded_url": [
+        "https://blog.truesec.com/2021/06/30/exploitable-critical-rce-vulnerability-allows-regular-users-to-fully-compromise-active-directory-printnightmare-cve-2021-1675/"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "Exploitable critical vulnerability allows for full Active Directory compromise. Fully patched systems are vulnerable. Immediate action is strongly recommended! \n\nCheck details here: \n\nhttps://t.co/sLpa5DpYUy\n\n#PrintNightmare #CVE-2021-1675",
+    "tweettime": "2021-06-30, 14:08:15",
+    "tweeturl": "https://twitter.com/Truesec/status/1410238757136224257",
+    "username": "Truesec"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/06/researchers-leak-poc-exploit-for.html"
+    ],
+    "tweetfavorites": 272,
+    "tweetquotes": 15,
+    "tweetreplies": 4,
+    "tweetretweets": 187,
+    "tweettext": "🔥 Researchers publish a proof-of-concept exploit for a critical #vulnerability (CVE-2021-1675) affecting #Microsoft Windows operating systems.\n\nDetails — https://t.co/e9megsOj6v\n\n#infosec #hacking #cybersecurity",
+    "tweettime": "2021-06-30, 11:34:24",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1410200039675236354",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 938,
+    "tweetquotes": 37,
+    "tweetreplies": 23,
+    "tweetretweets": 430,
+    "tweettext": "Fully patched Windows 2019 domain controller, popped with 0day exploit (CVE-2021-1675) from a regular Domain User's account giving full SYSTEM privileges. Disable \"Print Spooler\" service on servers that do not require it. https://t.co/6SUVQYy5Tl",
+    "tweettime": "2021-06-30, 04:58:27",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1410100394492112898",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 35,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 16,
+    "tweettext": "The CVE-2021-1675 PoC works on a fully patched Windows 2019 domain controller. It is in fact effectively a 0day and the patch does not resolve the issue. \n\n'net stop \"Print Spooler\"'",
+    "tweettime": "2021-06-30, 04:29:45",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1410093171955150851",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 1142,
+    "tweetquotes": 50,
+    "tweetreplies": 14,
+    "tweetretweets": 567,
+    "tweettext": "This #printnightmare / CVE-2021-1675 is really serious 🤪\n\nJust adapted/simplified original POC then:\n*From Remote standard user to SYSTEM*\n\nHere on a domain controller, but valid on all systems with RPC to spooler available, remote or local\n\n➡️ disable service now (no patch yet) https://t.co/qpUFgPUZyh",
+    "tweettime": "2021-06-30, 02:45:04",
+    "tweeturl": "https://twitter.com/gentilkiwi/status/1410066827590447108",
+    "username": "gentilkiwi"
+}
+{
+    "tweetfavorites": 263,
+    "tweetquotes": 10,
+    "tweetreplies": 7,
+    "tweetretweets": 99,
+    "tweettext": "CVE-2021-1675 PoC can be used to load DLL's into a remote Windows host and a regular domain user can execute code as SYSTEM on a Domain Controller. This issue is trivially exploitable to obtain SYSTEM on a Domain Controller and systems with Print Spooler service enabled.",
+    "tweettime": "2021-06-30, 01:26:11",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1410046975941263363",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-1905.html"
+    ],
+    "tweetfavorites": 247,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 108,
+    "tweettext": "🌟 New 0-day Root Cause Analysis! 🌟\n\nCVE-2021-1905: 0-day in Qualcomm Adreno GPU for Android by Ben Hawkes\n\nhttps://t.co/abDHuWGFZU",
+    "tweettime": "2021-06-29, 18:08:47",
+    "tweeturl": "https://twitter.com/maddiestone/status/1409936902631825408",
+    "username": "maddiestone"
+}
+{
+    "expanded_url": [
+        "https://github.com/kahla-sec/CVE-2021-27850_POC"
+    ],
+    "tweetfavorites": 108,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 64,
+    "tweettext": "A PoC exploit has been released for a critical unauthenticated RCE vulnerability (CVE-2021-27850) discovered in all recent versions of Apache Tapestry.\n\nhttps://t.co/w0uucSJU38",
+    "tweettime": "2021-06-29, 15:35:45",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1409898390737985545",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/afwu/PrintNightmare"
+    ],
+    "tweetfavorites": 207,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 85,
+    "tweettext": "I did not test it but this looks bad for missing June patches:\n\nhttps://t.co/wBfHy0tzsB\n\nCVE-2021-1675 - Exploit released. https://t.co/pXSnqomZmd",
+    "tweettime": "2021-06-29, 10:05:24",
+    "tweeturl": "https://twitter.com/ShitSecure/status/1409815256021536769",
+    "username": "ShitSecure"
+}
+{
+    "expanded_url": [
+        "https://github.com/hhlxf/PrintNightmare"
+    ],
+    "tweetfavorites": 243,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 104,
+    "tweettext": "#POC \nPrintNightmare (CVE-2021-1675): Remote code execution in Windows Spooler Service \nhttps://t.co/R3ldQKrXOX https://t.co/B9N2guWdTy",
+    "tweettime": "2021-06-29, 08:41:51",
+    "tweeturl": "https://twitter.com/blackorbird/status/1409794227731460100",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/analyzing-cve-2021-1665-remote-code-execution-vulnerability-in-windows-gdi/"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Our latest @McAfee_Labs post details our root cause analysis of CVE-2021-1665 – GDI+ Remote Code Execution Vulnerability using WinAFL: https://t.co/amzOzrDedT #cybersecurity #infosec https://t.co/8pr747Zk1F",
+    "tweettime": "2021-06-29, 05:49:34",
+    "tweeturl": "https://twitter.com/Raj_Samani/status/1409750870900740098",
+    "username": "Raj_Samani"
+}
+{
+    "expanded_url": [
+        "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/analyzing-cve-2021-1665-remote-code-execution-vulnerability-in-windows-gdi/"
+    ],
+    "tweetfavorites": 94,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 42,
+    "tweettext": "My blog from McAfee on CVE-2021-1665. this is something I reported last year and it was fixed in Jan21 patch Tuesday..\n #cybersecurity #infosec #cve-2021-1665 #vulnerability \n\nenjoy reading!\n\nhttps://t.co/zY0HMhw10i",
+    "tweettime": "2021-06-29, 00:28:59",
+    "tweeturl": "https://twitter.com/hardik05/status/1409670194042073103",
+    "username": "hardik05"
+}
+{
+    "expanded_url": [
+        "https://perception-point.io/using-cve-2020-9971-to-escape-microsoft-offices-app-sandbox/"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "Using CVE-2020-9971 to escape Microsoft Office’s app sandbox https://t.co/jWKQPWhui6",
+    "tweettime": "2021-06-28, 09:48:06",
+    "tweeturl": "https://twitter.com/Dinosn/status/1409448513444925444",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1675"
+    ],
+    "tweetfavorites": 309,
+    "tweetquotes": 11,
+    "tweetreplies": 2,
+    "tweetretweets": 126,
+    "tweettext": "Recently, we found right approaches to exploit #CVE-2021-1675 successfully, both #LPE and #RCE. It is interesting that the vulnerability was classified into #LPE only by Microsoft, however, it was changed into Remote Code Execution recently.\n\nhttps://t.co/PQO3B12hoE https://t.co/kbYknK9fBw",
+    "tweettime": "2021-06-28, 03:29:00",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1409353110187757575",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://github.com/kahla-sec/CVE-2021-27850_POC"
+    ],
+    "tweetfavorites": 314,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 128,
+    "tweettext": "CVE-2021-27850: unauthenticated remote code execution vulnerability that was found in all recent versions of Apache Tapestry.\n\nPoC\nhttps://t.co/g9Gj2OHnIZ https://t.co/2AHHLIFVWZ",
+    "tweettime": "2021-06-26, 19:33:49",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1408871138898419714",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2021-034_043-apache-dubbo/",
+        "https://t.zsxq.com/jEaUB6Q"
+    ],
+    "tweetfavorites": 217,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 95,
+    "tweettext": "CVE-2021-30179 Apache Dubbo RCE via Java deserialization in the Generic filter \n\ndetails\n1. https://t.co/fP4YQc88ig\n2. https://t.co/mONv0eSvCU https://t.co/h6ZwDgkq2x",
+    "tweettime": "2021-06-25, 09:00:26",
+    "tweeturl": "https://twitter.com/chybeta/status/1408349352435666951",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 490,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 197,
+    "tweettext": "BOOM🔥🔥 Gitlab SSRF (CVE-2021-22214).\n\nPOC:\ncurl -s --show-error -H 'Content-Type: application/json' --data '{ \"include_merged_yaml\": true, \"content\": \"include:\\n  remote: http://x.x.x.x/api/v1/targets?test.yml\"}' https://REDACTED/api/v4/ci/lint -k\n\n#SSRF #Gitlab #bugbountytips https://t.co/07NnNq6in0",
+    "tweettime": "2021-06-25, 00:21:52",
+    "tweeturl": "https://twitter.com/sec715/status/1408218852245135362",
+    "username": "sec715"
+}
+{
+    "expanded_url": [
+        "https://github.com/chompie1337/SMBGhost_RCE_PoC"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "SMBGhost_RCE_PoC \n\nRCE PoC for CVE-2020-0796  SMBGhost\n\n#redteam #pentest #infosec\nhttps://t.co/lxZaFahG4c https://t.co/euQgudEHtg",
+    "tweettime": "2021-06-24, 17:32:03",
+    "tweeturl": "https://twitter.com/CyberWarship/status/1408115718810447878",
+    "username": "CyberWarship"
+}
+{
+    "expanded_url": [
+        "https://www.armis.com/blog/security-advisory-windows-event-viewer-service-vulnerable-to-ntlm-relay-attacks/"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 79,
+    "tweettext": "Experts share details for a vulnerability (CVE-2021-31958) affecting the MSRPC service, enabling attackers to relay NTLM authentication and open a privileged session with the Event Viewer service, remotely.\n\nhttps://t.co/twFncdghlU https://t.co/Ux8nrBTDBh",
+    "tweettime": "2021-06-24, 03:35:09",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1407905106910007303",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/06/sonicwall-left-vpn-flaw-partially.html"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 70,
+    "tweettext": "A memory leak #vulnerability [CVE-2021-20019] affecting SonicWall #VPN appliances was left unpatched amidst 0-day attacks that could allow remote attackers access to sensitive data.\n\nRead: https://t.co/q1vTXNYcE9\n\nSecurity patches have now been released.\n\n#infosec #cybersecurity",
+    "tweettime": "2021-06-23, 05:26:22",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1407570705500176385",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 91,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 54,
+    "tweettext": "Ongoing mass scanning activity detected from 91.241.19.51 (🇷🇺) targeting Fortinet VPN servers vulnerable to unauthenticated arbitrary file read (CVE-2018-13379) leading to disclosure of usernames and passwords in plaintext. #threatintel https://t.co/1EeRpuCZrh",
+    "tweettime": "2021-06-22, 23:56:40",
+    "tweeturl": "https://twitter.com/bad_packets/status/1407487734642470915",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2164"
+    ],
+    "tweetfavorites": 88,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "[CPR-Zero] CVE-2021-31939 (Outlook, Office): Use-After-Free in graph data parsing code in graph.exe https://t.co/AzlW9uAxXo",
+    "tweettime": "2021-06-22, 15:27:17",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1407359543340941317",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://www.linkedin.com/in/ahmeds93/",
+        "https://ctf-writeup.revers3c.com/challenges/web/CVE-2020-11110/index.html",
+        "https://github.com/projectdiscovery/nuclei-templates/commit/c7a11cd1b1b29a563dbdb9a3032582fda32305d7"
+    ],
+    "tweetfavorites": 154,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 56,
+    "tweettext": "My second @pdnuclei template is out CVE-2020-11110 - Grafana Unauthenticated Stored XSS.\n\nDiscovered by: Ahmed A. Sherif\nhttps://t.co/X9mslmAfXd\n\nThe writeup by @serWazito0 \n\nhttps://t.co/HXoqLVinjI\n\nhttps://t.co/ivUjglj1Fn",
+    "tweettime": "2021-06-20, 14:47:33",
+    "tweeturl": "https://twitter.com/Alra3ees/status/1406624769353601025",
+    "username": "Alra3ees"
+}
+{
+    "expanded_url": [
+        "https://git.io/Jnazk"
+    ],
+    "tweetfavorites": 258,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 77,
+    "tweettext": "I wrote an LPE for CVE-2014-3153 AKA Towelroot, a bug in the Linux Kernel that was used to root Android devices earlier. The original exploit is closed source and protected against reverse engineering.\nPoC + mini write-up here:\nhttps://t.co/uETe1eBnZo https://t.co/8Zm5mgPS4S",
+    "tweettime": "2021-06-19, 23:11:01",
+    "tweeturl": "https://twitter.com/azz_maher/status/1406389083912482816",
+    "username": "azz_maher"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/1734"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 12,
+    "tweettext": "Submitted a PR containing a @pdnuclei template for CVE-2019-4781, a SonicWall VPN SQL injection bug being exploited in the wild. \nhttps://t.co/4eBeArEZYP",
+    "tweettime": "2021-06-19, 20:20:24",
+    "tweeturl": "https://twitter.com/_darrenmartyn/status/1406346145367007235",
+    "username": "_darrenmartyn"
+}
+{
+    "expanded_url": [
+        "https://github.com/Almorabea/Polkit-exploit"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "tried to write the exploit code for Polkit privilege escalation CVE-2021-3560, a bug for authentication bypass on polkit. \nThe bug allows unprivileged user to call privileged methods using DBus\nhttps://t.co/e7cPjtpTNB #cybersecurity #exploit https://t.co/gIYNLzfE0s",
+    "tweettime": "2021-06-19, 16:44:40",
+    "tweeturl": "https://twitter.com/almorabea/status/1406291853054558213",
+    "username": "almorabea"
+}
+{
+    "expanded_url": [
+        "https://chromium.googlesource.com/chromium/src/+/b77b38a3380c7a5aa2a898cbf4b714e34d9baf70%5E%21/#F0"
+    ],
+    "tweetfavorites": 139,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "Google Chrome 0day WebGL RCE, CVE-2021-30554 #0day #RCE\nhttps://t.co/XS98CnGHYn",
+    "tweettime": "2021-06-18, 05:50:04",
+    "tweeturl": "https://twitter.com/mavillon1/status/1405764731932012549",
+    "username": "mavillon1"
+}
+{
+    "expanded_url": [
+        "http://dlvr.it/S1rx2M"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 42,
+    "tweettext": "VMware vCenter Server CVE-2021-21985 Remote Code Execution Vulnerability nmap checker script https://t.co/n2ZdEeGsJs #security #threathunting #infosec https://t.co/FlmG2QQF47",
+    "tweettime": "2021-06-16, 16:41:34",
+    "tweeturl": "https://twitter.com/blueteamsec1/status/1405203910185259009",
+    "username": "blueteamsec1"
+}
+{
+    "expanded_url": [
+        "https://doublepulsar.com/the-hard-truth-about-ransomware-we-arent-prepared-it-s-a-battle-with-new-rules-and-it-hasn-t-a93ad3030a54"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 37,
+    "tweettext": "This write-up about the ransomware challenges by @GossiTheDog is worth the 21 minute read. This passage struck me as especially relevant given the release of CVE-2021-31963, an RCE against SharePoint, yesterday. \n1/2\nhttps://t.co/PSlP5fCnUO https://t.co/NH1qWhY0KV",
+    "tweettime": "2021-06-09, 19:18:35",
+    "tweeturl": "https://twitter.com/uuallan/status/1402706709198561284",
+    "username": "uuallan"
+}
+{
+    "expanded_url": [
+        "https://github.com/mavillon1/CVE-2021-33739-POC"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 54,
+    "tweettext": "I republished my exploit POC and full code. \nCVE-2021-26868 LPE, CVE-2021-33739 #0day #lpe #exploit\nhttps://t.co/dMXSoQZYju",
+    "tweettime": "2021-06-09, 07:01:02",
+    "tweeturl": "https://twitter.com/mavillon1/status/1402521099125014528",
+    "username": "mavillon1"
+}
+{
+    "expanded_url": [
+        "https://github.com/CsEnox/CVE-2021-22911"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 30,
+    "tweettext": "CVE-2021-22911: Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1\n\nPoC\nhttps://t.co/TzccUkebdQ https://t.co/kgt1nuV2g7",
+    "tweettime": "2021-06-07, 23:03:33",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1402038550066089990",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/CsEnox/CVE-2021-22911"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 7,
+    "tweettext": "Wrote an exploit for CVE-2021-22911, which is a NoSQL injection leading to RCE in Rocket Chat 3.12.1.\nhttps://t.co/FWl3WWOdsW",
+    "tweettime": "2021-06-05, 17:53:10",
+    "tweeturl": "https://twitter.com/csenox1/status/1401235661319901184",
+    "username": "csenox1"
+}
+{
+    "expanded_url": [
+        "https://github.com/0vercl0k/CVE-2021-28476"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "PoC for CVE-2021-28476 a guest-to-host \"Hyper-V Remote Code Execution Vulnerability\" in vmswitch.sys.  https://t.co/VRt3RCHWJl  #Pentesting #RCE #CVE #Vulnerability #CyberSecurity #Infosec https://t.co/7hJcm0tkVr",
+    "tweettime": "2021-06-05, 15:33:02",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1401200396450869251",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2021/06/alert-critical-rce-bug-in-vmware.html"
+    ],
+    "tweetfavorites": 210,
+    "tweetquotes": 9,
+    "tweetreplies": 9,
+    "tweetretweets": 175,
+    "tweettext": "ALERT — Cybercriminals are actively scanning the Internet for #VMware vCenter servers that have not yet been patched against a recently disclosed critical RCE #vulnerability.\n\n(CVE-2021-21985 / CVSS score 9.8)\nhttps://t.co/NZeg25yUo2\n\n#infosec #malware #cybersecurity #cyberattack",
+    "tweettime": "2021-06-05, 11:04:04",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1401132711654289409",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/x6bA5"
+    ],
+    "tweetfavorites": 276,
+    "tweetquotes": 21,
+    "tweetreplies": 3,
+    "tweetretweets": 182,
+    "tweettext": ".@CISAgov is aware of the likelihood that cyber threat actors are attempting to exploit CVE-2021-21985, a remote code execution vulnerability in VMware vCenter Server and VMware Cloud Foundation. Learn more at https://t.co/kr3plGmCmz.",
+    "tweettime": "2021-06-04, 23:06:00",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1400952001530417153",
+    "username": "USCERT_gov"
+}
+{
+    "tweetfavorites": 357,
+    "tweetquotes": 9,
+    "tweetreplies": 8,
+    "tweetretweets": 79,
+    "tweettext": "Finally got direct shell of CVE-2021-21985 without RMI https://t.co/dorOlUywHu",
+    "tweettime": "2021-06-04, 12:20:28",
+    "tweeturl": "https://twitter.com/testanull/status/1400789548284596229",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "How we used 32gb of RAM to exploit a zero-day WebAssembly Vulnerability (CVE-2021-30734) in Apple Safari (Exploitation of a JavaScriptCore WebAssembly Vulnerability) : https://t.co/vVAnHAanQ4 credits @ret2systems https://t.co/9RxMaa2l8c",
+    "tweettime": "2021-06-04, 10:04:32",
+    "tweeturl": "https://twitter.com/binitamshah/status/1400755341021773826",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 91,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 16,
+    "tweettext": "I have pushed a nuclei template for Mediumish WordPress Theme &lt;= 1.0.47 - Unauthenticated Reflected XSS &amp; XFS (CVE-2021-24316)\n\nenjoy :-) https://t.co/ZRV8KxKwlg",
+    "tweettime": "2021-06-04, 09:26:52",
+    "tweeturl": "https://twitter.com/0x_Akoko/status/1400745860422537217",
+    "username": "0x_Akoko"
+}
+{
+    "expanded_url": [
+        "https://xz.aliyun.com/t/8037#toc-4"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "#Apache Airflow 1.10.10 RCE\n(CVE-2020-11978 CVE-2020-13927)\n\nThe CVE-2020-13927 vulnerability to Apache Airflow Authentication Bypass.\n\nThe CVE-2020-11978 vulnerability is exploited to insert remote execution code into Apache Airflow worker/scheduler.\n\nhttps://t.co/zxUkhxG3xw https://t.co/4ewEDfDPqi",
+    "tweettime": "2021-06-03, 06:20:37",
+    "tweeturl": "https://twitter.com/wugeej/status/1400336603604668418",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 104,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 31,
+    "tweettext": "Quick confirm that this is the real PoC of CVE-2021-21985 👍 https://t.co/jsXKFf1lZZ",
+    "tweettime": "2021-06-03, 06:14:31",
+    "tweeturl": "https://twitter.com/testanull/status/1400335066350292992",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://iamelli0t.github.io/2021/04/10/RPC-Bypass-CFG.html"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "Exploiting Windows RPC to bypass CFG mitigation: analysis of CVE-2021-26411 in-the-wild sample  https://t.co/3MXtAo0Gxn  #Pentesting #CVE #Windows #Exploit #Infosec https://t.co/ZuqlYDwca6",
+    "tweettime": "2021-06-03, 04:54:41",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1400314975151874049",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/0vercl0k/CVE-2021-28476"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "PoC for CVE-2021-28476 a guest-to-host \"Hyper-V Remote Code Execution Vulnerability\" in vmswitch.sys.  https://t.co/VRt3RCqlkL  #Pentesting #RCE #Vulnerability #Infosec https://t.co/hhgScuOvqh",
+    "tweettime": "2021-06-02, 06:04:07",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1399970062304378884",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://www.fortiguard.com/psirt/FG-IR-20-120"
+    ],
+    "tweetfavorites": 231,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 90,
+    "tweettext": "💥Fortinet fixed a Post-Auth RCE in FortiWeb (CVE-2021-22123) found by our researcher Andrey Medov.\n\nThis vulnerability was part of an Unauth RCE chain submitted together with CVE-2020-29015 (Unauth SQL Injection), fixed by Fortinet earlier.\n\nAdvisory: https://t.co/Xk0zQQpx7y https://t.co/HSh7LZMXRf",
+    "tweettime": "2021-06-01, 16:06:04",
+    "tweeturl": "https://twitter.com/ptswarm/status/1399759160967938054",
+    "username": "ptswarm"
+}
