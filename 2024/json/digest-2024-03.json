@@ -3,6 +3,16 @@
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 47,
+    "tweettext": "RT @Horizon3Attack: Today we are disclosing a critical SSRF vulnerability, CVE-2023-49785, in a popular Gen AI chatbot, NextChat a.k.a Chat…",
+    "tweettime": "2024-03-11, 23:54:03",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1767338224903712957",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
     "tweettext": "RT @NetSPI: [Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability:…",
     "tweettime": "2024-03-11, 15:17:52",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1767208323932209481",
@@ -282,7 +292,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 73,
+    "tweetretweets": 74,
     "tweettext": "RT @stephenfewer: We have disclosed 2 authentication bypass vulnerabilities, CVE-2024-27198 and CVE-2024-27199, affecting JetBrains TeamCit…",
     "tweettime": "2024-03-05, 06:23:18",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1764899471195021371",
