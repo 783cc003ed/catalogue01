@@ -21,26 +21,3 @@
     "tweeturl": "https://twitter.com/HaifeiLi/status/786013674179731456",
     "username": "HaifeiLi"
 }
-{
-    "expanded_url": [
-        "https://cyseclabs.com/blog/cve-2016-6187-heap-off-by-one-exploit"
-    ],
-    "tweetfavorites": 96,
-    "tweetquotes": 1,
-    "tweetreplies": 1,
-    "tweetretweets": 88,
-    "tweettext": "Exploiting #Linux kernel heap using a real #UAF method against CVE-2016-6187 vulnerability. cc: @binitamshah https://t.co/yvmII8B6sz https://t.co/TvXm5IHw2s",
-    "tweettime": "2016-10-17, 11:33:10",
-    "tweeturl": "https://twitter.com/_odisseus/status/787979764443348992",
-    "username": "_odisseus"
-}
-{
-    "tweetfavorites": 43,
-    "tweetquotes": 5,
-    "tweetreplies": 3,
-    "tweetretweets": 47,
-    "tweettext": "CVE-2016-7193, an Office vuln in handling RTF, exploited as #0day attack, &amp; was reported by \"Austrian MilCERT\". Looks really a big deal! https://t.co/6cCcSjxMMK",
-    "tweettime": "2016-10-12, 01:20:38",
-    "tweeturl": "https://twitter.com/HaifeiLi/status/786013674179731456",
-    "username": "HaifeiLi"
-}
