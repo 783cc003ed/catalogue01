@@ -23,6 +23,32 @@
 }
 {
     "expanded_url": [
+        "https://ow.ly/L29F50QQ7s4"
+    ],
+    "tweetfavorites": 119,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 55,
+    "tweettext": "[Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability: https://t.co/6R2THE2paW\n\nWritten by: Rich Wolferd, NetSPI’s Director of Red Team Operations &amp; Nick Landers @monoxgas https://t.co/LrAelKRs3R",
+    "tweettime": "2024-03-11, 13:07:00",
+    "tweeturl": "https://twitter.com/NetSPI/status/1767175389569290359",
+    "username": "NetSPI"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html"
+    ],
+    "tweetfavorites": 99,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "⚠️ URGENT patch needed! Progress OpenEdge Authentication Gateway/AdminServer #vulnerability (CVE-2024-1403) allows authentication bypass.\n\nProof-of-concept exploit is available.\n\nLearn more: https://t.co/CFmuQu8H5Q\n\nUpdate to supported versions ASAP.\n\n#hacking",
+    "tweettime": "2024-03-11, 06:29:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1767075326356820322",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://github.com/hd3s5aa/CVE-2023-21674"
     ],
     "tweetfavorites": 130,
@@ -46,6 +72,29 @@
     "tweettime": "2024-03-08, 16:11:21",
     "tweeturl": "https://twitter.com/momika233/status/1766134622654787679",
     "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html"
+    ],
+    "tweetfavorites": 190,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 101,
+    "tweettext": "🚨 #Cisco issued patches for a high-severity flaw (CVE-2024-20337) in Secure Client software on Windows, #Linux, and macOS. Attackers could hijack VPN sessions.\n\nCheck and update now: https://t.co/lIcBk5pFTh\n\n#hacking #cybersecurity #infosec",
+    "tweettime": "2024-03-08, 08:13:25",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1766014347204231307",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 107,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2024-23917 Teamcity &lt; 2023.11.3 unauth RCE\n\nyes, CVE-2024-23917 ,  \nnot  CVE-2024-27198 https://t.co/embVgw5RI3",
+    "tweettime": "2024-03-07, 17:03:58",
+    "tweeturl": "https://twitter.com/chybeta/status/1765785473895780688",
+    "username": "chybeta"
 }
 {
     "expanded_url": [

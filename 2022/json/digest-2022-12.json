@@ -221,10 +221,10 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/critical-remote-code-execution-vulnerability-spnego-extended-negotiation-security-mechanism/"
     ],
-    "tweetfavorites": 3778,
+    "tweetfavorites": 3772,
     "tweetquotes": 57,
     "tweetreplies": 78,
-    "tweetretweets": 1080,
+    "tweetretweets": 1078,
     "tweettext": "Demonstrating CVE-2022-37958 RCE Vuln. Reachable via any Windows application protocol that authenticates. Yes, that means RDP, SMB and many more. Please patch this one, it's serious! \n\nhttps://t.co/ikOrTvQIJs https://t.co/bOTmL5Fh2H",
     "tweettime": "2022-12-13, 20:08:21",
     "tweeturl": "https://twitter.com/chompie1337/status/1602757336908660736",
