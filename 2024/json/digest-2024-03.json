@@ -26,6 +26,16 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 74,
+    "tweettext": "RT @NetSPI: [Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability:…",
+    "tweettime": "2024-03-11, 18:02:17",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1767249703186387369",
+    "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 47,
     "tweettext": "RT @NetSPI: [Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability:…",
     "tweettime": "2024-03-11, 15:17:52",
@@ -273,7 +283,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 60,
+    "tweetretweets": 63,
     "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
     "tweettime": "2024-03-05, 10:03:11",
     "tweeturl": "https://twitter.com/cyb3rops/status/1764954803589845054",

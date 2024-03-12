@@ -97,7 +97,7 @@
     "tweetfavorites": 52,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 15,
+    "tweetretweets": 14,
     "tweettext": "Finally something serious for CVE-2019-0708 (RDP RCE): a scanner (not an exploit) PoC which is legit!\nTest it in non-production first (\"shouldn't cause denial-of-service, but there is never a 100% guarantee\").\nMetasploit scanner in progress too...\n\nThanks to @zerosum0x0 &amp; @JaGoTu",
     "tweettime": "2019-05-22, 16:31:07",
     "tweeturl": "https://twitter.com/cnotin/status/1131236056836317184",
