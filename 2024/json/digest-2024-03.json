@@ -36,14 +36,40 @@
     "username": "piedpiper1616"
 }
 {
+    "expanded_url": [
+        "https://github.com/nvn1729"
+    ],
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 74,
+    "tweetretweets": 34,
+    "tweettext": "RT @DhiyaneshDK: Scan for [CVE-2023-49785] ChatGPT-Next-Web - SSRF/XSS (https://t.co/acAaQmQlkB) [critical] using @pdnuclei \n\nNuclei Templa…",
+    "tweettime": "2024-03-11, 19:02:22",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1767264821366419874",
+    "username": "pdnuclei"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 83,
     "tweettext": "RT @NetSPI: [Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability:…",
     "tweettime": "2024-03-11, 18:02:17",
     "tweeturl": "https://twitter.com/cyb3rops/status/1767249703186387369",
     "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://github.com/nvn1729"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @DhiyaneshDK: Scan for [CVE-2023-49785] ChatGPT-Next-Web - SSRF/XSS (https://t.co/acAaQmQlkB) [critical] using @pdnuclei \n\nNuclei Templa…",
+    "tweettime": "2024-03-11, 15:34:51",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1767212600041836788",
+    "username": "wvuuuuuuuuuuuuu"
 }
 {
     "expanded_url": [
@@ -73,7 +99,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 49,
+    "tweetretweets": 56,
     "tweettext": "RT @Horizon3Attack: Today we are disclosing a critical SSRF vulnerability, CVE-2023-49785, in a popular Gen AI chatbot, NextChat a.k.a Chat…",
     "tweettime": "2024-03-11, 15:08:06",
     "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1767205865143062564",
@@ -133,6 +159,19 @@
 }
 {
     "expanded_url": [
+        "https://www.greynoise.io/blog/hunting-for-fortinets-cve-2024-21762"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 28,
+    "tweettext": "🔍 Curiosity led GreyNoise's own @h0wdeee on a mission to unravel the mysteries of CVE-2024-21762, a critical Fortinet FortiOS &amp; FortiProxy vulnerability. With no PoC in sight, we crafted our own detection. Join them on this gripping journey.  \nhttps://t.co/jALN253nFs…",
+    "tweettime": "2024-03-08, 18:40:38",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1766172187721892238",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
         "https://github.com/advisories/GHSA-26w3-q4j8-4xjp"
     ],
     "tweetfavorites": 50,
@@ -185,7 +224,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 57,
+    "tweetretweets": 59,
     "tweettext": "RT @DhiyaneshDK: Scan for JetBrains TeamCity Authentication Bypass Vulnerabilities using @pdnuclei \n\nCVE-2024-27198 (Critical) - https://t.…",
     "tweettime": "2024-03-07, 00:37:23",
     "tweeturl": "https://twitter.com/pdnuclei/status/1765537192099618852",
@@ -218,7 +257,7 @@
     "tweetfavorites": 59,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetretweets": 19,
     "tweettext": "In our latest guest blog, the Trend Micro Research team details CVE-2023-36049 - a .NET LPE bug originally found by ZDI's own @chudyPB. An attacker could write/delete arbitrary files in the context of the FTP server. Read all the details at https://t.co/eJxSjAVHR2",
     "tweettime": "2024-03-06, 17:09:10",
     "tweeturl": "https://twitter.com/thezdi/status/1765424395516817910",
