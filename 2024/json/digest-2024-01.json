@@ -2168,10 +2168,10 @@
     "expanded_url": [
         "https://github.com/TecR0c/DoubleTrouble"
     ],
-    "tweetfavorites": 137,
+    "tweetfavorites": 139,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 39,
+    "tweetretweets": 40,
     "tweettext": "Two major insecure deserialisation flaws in Inductive Automation’s Ignition (CVE-2023-39475 &amp; CVE-2023-39476) resulting in pre-auth remote code execution. For an in-depth root cause analysis and details on exploitation, see our full write-up below👇\n\nhttps://t.co/pE8R9eNWl5",
     "tweettime": "2024-01-04, 08:24:56",
     "tweeturl": "https://twitter.com/TecR0c/status/1742824420031545434",
