@@ -54,6 +54,16 @@
     "tweetreplies": 0,
     "tweetretweets": 83,
     "tweettext": "RT @NetSPI: [Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability:…",
+    "tweettime": "2024-03-11, 18:26:01",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1767255673803346291",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 83,
+    "tweettext": "RT @NetSPI: [Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability:…",
     "tweettime": "2024-03-11, 18:02:17",
     "tweeturl": "https://twitter.com/cyb3rops/status/1767249703186387369",
     "username": "cyb3rops"
@@ -106,6 +116,16 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "RT @Horizon3Attack: Today we are disclosing a critical SSRF vulnerability, CVE-2023-49785, in a popular Gen AI chatbot, NextChat a.k.a Chat…",
+    "tweettime": "2024-03-11, 13:53:24",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1767187069015609503",
+    "username": "kmkz_security"
+}
+{
     "expanded_url": [
         "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
     ],
@@ -135,10 +155,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html"
     ],
-    "tweetfavorites": 99,
-    "tweetquotes": 2,
+    "tweetfavorites": 115,
+    "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 64,
+    "tweetretweets": 71,
     "tweettext": "⚠️ URGENT patch needed! Progress OpenEdge Authentication Gateway/AdminServer #vulnerability (CVE-2024-1403) allows authentication bypass.\n\nProof-of-concept exploit is available.\n\nLearn more: https://t.co/CFmuQu8H5Q\n\nUpdate to supported versions ASAP.\n\n#hacking",
     "tweettime": "2024-03-11, 06:29:23",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1767075326356820322",
@@ -219,6 +239,19 @@
     "tweettime": "2024-03-07, 13:28:52",
     "tweeturl": "https://twitter.com/cyber_advising/status/1765731342715695199",
     "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/W01fh4cker/CVE-2024-27198-RCE"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @W01fh4cker: Happy PWN!!!\nRCE script: https://t.co/ETIagkeOxQ\n#CVE-2024-27198 #redteam #jetbrains #teamcity https://t.co/zgD8ngccWo",
+    "tweettime": "2024-03-07, 07:13:25",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1765636858891936050",
+    "username": "kmkz_security"
 }
 {
     "tweetfavorites": 0,
