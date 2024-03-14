@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://viz.greynoise.io/tags/fortinet-forticlientems-cve-2023-48788-sql-injection-attempt?days=10"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "We published a tag today for CVE-2023-48788, a CVSS 9.8 SQL 💉 injection vulnerability in FortiNet FortiClientEMS, thanks to our friends at @Horizon3ai  https://t.co/Ir0Uc7QQku",
+    "tweettime": "2024-03-13, 21:27:15",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1768026057083359428",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/cve-2024-22039-cvss-10-siemens-fire-protection-systems-vulnerable-to-remote-attacks/"
     ],
     "tweetfavorites": 56,
