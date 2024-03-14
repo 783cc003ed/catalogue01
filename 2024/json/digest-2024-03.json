@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "RT @cyber_advising: CVE-2024-21762: A out-of-bounds write in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 thro…",
+    "tweettime": "2024-03-14, 05:25:52",
+    "tweeturl": "https://twitter.com/steventseeley/status/1768146507709206734",
+    "username": "steventseeley"
+}
+{
     "expanded_url": [
         "https://viz.greynoise.io/tags/fortinet-forticlientems-cve-2023-48788-sql-injection-attempt?days=10"
     ],
@@ -10,6 +20,16 @@
     "tweettime": "2024-03-13, 21:27:15",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1768026057083359428",
     "username": "GreyNoiseIO"
+}
+{
+    "tweetfavorites": 170,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 74,
+    "tweettext": "The recent #Fortinet #FortiClient Endpoint Management Server (EMS) SQL injection vulnerability, CVE-2023-48788, allows an unauth attacker to obtain RCE as SYSTEM on the server.\n\nIOCs, POC, and deep-dive blog to be released next week. In the meantime, check DAS service logs for… https://t.co/57ps2WiY8R",
+    "tweettime": "2024-03-13, 17:27:37",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1767965754744312161",
+    "username": "Horizon3Attack"
 }
 {
     "expanded_url": [
@@ -438,7 +458,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 60,
+    "tweetretweets": 65,
     "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
     "tweettime": "2024-03-05, 07:35:20",
     "tweeturl": "https://twitter.com/steventseeley/status/1764917598830104889",
