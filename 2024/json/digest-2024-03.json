@@ -22,6 +22,16 @@
     "username": "GreyNoiseIO"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 77,
+    "tweettext": "RT @Horizon3Attack: The recent #Fortinet #FortiClient Endpoint Management Server (EMS) SQL injection vulnerability, CVE-2023-48788, allows…",
+    "tweettime": "2024-03-13, 18:20:18",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1767979010133221438",
+    "username": "kmkz_security"
+}
+{
     "tweetfavorites": 170,
     "tweetquotes": 3,
     "tweetreplies": 0,
@@ -30,6 +40,39 @@
     "tweettime": "2024-03-13, 17:27:37",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1767965754744312161",
     "username": "Horizon3Attack"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "RT @cyber_advising: CVE-2024-21762: A out-of-bounds write in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 thro…",
+    "tweettime": "2024-03-13, 15:08:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1767930818553315579",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/h4x0r-dz/CVE-2024-21762"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "GitHub - h4x0r-dz/CVE-2024-21762: out-of-bounds write in Fortinet FortiOS CVE-2024-21762 vulnerability - https://t.co/ScC0UlNRUC",
+    "tweettime": "2024-03-13, 12:07:49",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1767885274720461273",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 100,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "CVE-2024-21426 &amp; CVE-2024-26198\n\nAttacker be like: https://t.co/tu3La44GOs",
+    "tweettime": "2024-03-13, 03:34:33",
+    "tweeturl": "https://twitter.com/testanull/status/1767756105407463656",
+    "username": "testanull"
 }
 {
     "expanded_url": [
@@ -62,7 +105,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 47,
+    "tweetretweets": 57,
     "tweettext": "RT @Horizon3Attack: Today we are disclosing a critical SSRF vulnerability, CVE-2023-49785, in a popular Gen AI chatbot, NextChat a.k.a Chat…",
     "tweettime": "2024-03-11, 23:54:03",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1767338224903712957",
@@ -478,7 +521,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 63,
+    "tweetretweets": 65,
     "tweettext": "RT @X1r0z: My detailed analysis report of SolarWinds Security Event Manager AMF Deserialization RCE (CVE-2024-0692), with two methods to ac…",
     "tweettime": "2024-03-05, 04:18:12",
     "tweeturl": "https://twitter.com/testanull/status/1764867985343418506",
