@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "Researchers detail a high-severity flaw in #Kubernetes, CVE-2023-5528, that allowed attackers remote code execution with SYSTEM privileges on Windows endpoints within a cluster.\n\nLearn more: https://t.co/mBFuSM1SuG\n\n#hacking #cybersecurity #infosec",
+    "tweettime": "2024-03-14, 12:02:06",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1768246221502591129",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -23,6 +36,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/nettitude/CVE-2024-25153"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "GitHub - nettitude/CVE-2024-25153: Proof-of-concept exploit for CVE-2024-25153. - https://t.co/nVuld3yXNu",
+    "tweettime": "2024-03-13, 23:49:38",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1768061890608136478",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
         "https://viz.greynoise.io/tags/fortinet-forticlientems-cve-2023-48788-sql-injection-attempt?days=10"
     ],
     "tweetfavorites": 32,
@@ -33,6 +59,16 @@
     "tweettime": "2024-03-13, 21:27:15",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1768026057083359428",
     "username": "GreyNoiseIO"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 71,
+    "tweettext": "RT @0xor0ne: Interesting short reading on CVE-2024-21305: Hypervisor-Protected Code Integrity\n(HVCI) bypass for arbitrary kernel-mode code…",
+    "tweettime": "2024-03-13, 21:02:05",
+    "tweeturl": "https://twitter.com/standa_t/status/1768019723940507912",
+    "username": "standa_t"
 }
 {
     "tweetfavorites": 0,
@@ -81,10 +117,10 @@
     "expanded_url": [
         "https://github.com/h4x0r-dz/CVE-2024-21762"
     ],
-    "tweetfavorites": 62,
+    "tweetfavorites": 68,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetretweets": 21,
     "tweettext": "GitHub - h4x0r-dz/CVE-2024-21762: out-of-bounds write in Fortinet FortiOS CVE-2024-21762 vulnerability - https://t.co/ScC0UlNRUC",
     "tweettime": "2024-03-13, 12:07:49",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1767885274720461273",
@@ -157,7 +193,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 57,
+    "tweetretweets": 58,
     "tweettext": "RT @Horizon3Attack: Today we are disclosing a critical SSRF vulnerability, CVE-2023-49785, in a popular Gen AI chatbot, NextChat a.k.a Chat…",
     "tweettime": "2024-03-11, 23:54:03",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1767338224903712957",
@@ -444,7 +480,7 @@
     "tweetfavorites": 56,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 22,
+    "tweetretweets": 21,
     "tweettext": "#Kimsuky  CVE-2024-1709 + CVE-2024-1708\nConnectWise ScreenConnect Vulnerability Exploited to Deploy BABYSHARK Variant\nhttps://t.co/okyQjwRTLN https://t.co/JIHTOAnn3p",
     "tweettime": "2024-03-06, 01:59:23",
     "tweeturl": "https://twitter.com/blackorbird/status/1765195442835382433",
