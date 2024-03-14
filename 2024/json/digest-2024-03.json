@@ -15,11 +15,34 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "RT @cyber_advising: CVE-2024-21762: A out-of-bounds write in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 thro…",
+    "tweettime": "2024-03-14, 07:14:48",
+    "tweeturl": "https://twitter.com/momika233/status/1768173921323675734",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
     "tweetretweets": 51,
     "tweettext": "RT @cyber_advising: CVE-2024-21762: A out-of-bounds write in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 thro…",
     "tweettime": "2024-03-14, 05:25:52",
     "tweeturl": "https://twitter.com/steventseeley/status/1768146507709206734",
     "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "🛑 A new DarkGate #malware campaign uses a recently patched #Microsoft Windows flaw (CVE-2024-21412) to deploy malicious software via bogus installers.\n\nLearn more: https://t.co/J8OjMzntrR\n\n#hacking #cybersecurity",
+    "tweettime": "2024-03-14, 04:59:15",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1768139807278932067",
+    "username": "TheHackersNews"
 }
 {
     "expanded_url": [
@@ -91,6 +114,19 @@
     "username": "Horizon3Attack"
 }
 {
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2024-25153-remote-code-execution-in-fortra-filecatalyst/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2024-25153: Remote Code Execution vulnerability in Fortra FileCatalyst. \n\nFull exploit and technical details included in our latest Labs post.\n\nhttps://t.co/EaMuLuYaOo",
+    "tweettime": "2024-03-13, 15:15:27",
+    "tweeturl": "https://twitter.com/Nettitude_Labs/status/1767932490679779717",
+    "username": "Nettitude_Labs"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -112,6 +148,19 @@
     "tweettime": "2024-03-13, 14:30:28",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1767921171176059138",
     "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/h4x0r-dz/CVE-2024-21762"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "CVE-2024-21762: A out-of-bounds write in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 through .... allows attacker to execute unauthorized code or commands via specifically crafted requests.\n\nPoC\nhttps://t.co/UBZcnCPfuR https://t.co/xe0RwLybhF",
+    "tweettime": "2024-03-13, 14:06:20",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1767915098805256633",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [
@@ -373,8 +422,8 @@
     ],
     "tweetfavorites": 50,
     "tweetquotes": 1,
-    "tweetreplies": 1,
-    "tweetretweets": 12,
+    "tweetreplies": 2,
+    "tweetretweets": 11,
     "tweettext": "1Panel Unauthorized access vulnerability\nCVE-2024-27288\n\nhttps://t.co/VmhvXBU2Pr",
     "tweettime": "2024-03-08, 16:11:21",
     "tweeturl": "https://twitter.com/momika233/status/1766134622654787679",
@@ -408,10 +457,10 @@
         "http://ASP.NET",
         "https://swarm.ptsecurity.com/source-code-disclosure-in-asp-net-apps/"
     ],
-    "tweetfavorites": 40,
+    "tweetfavorites": 41,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 9,
+    "tweetretweets": 11,
     "tweettext": "CVE-2023-36899 - CVE-2023-36560: Source Code Disclosure in https://t.co/dKq4ojYEin apps.\n\nPoC\nhttps://t.co/S6Vh6lSn0K https://t.co/nIunrAnQNq",
     "tweettime": "2024-03-07, 13:28:52",
     "tweeturl": "https://twitter.com/cyber_advising/status/1765731342715695199",
