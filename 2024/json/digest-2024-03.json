@@ -151,6 +151,19 @@
 }
 {
     "expanded_url": [
+        "https://t.zsxq.com/183GqPIax"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "analysis for CVE-2024-23917 \n\nhttps://t.co/CBABOYOBec",
+    "tweettime": "2024-03-13, 02:54:08",
+    "tweeturl": "https://twitter.com/chybeta/status/1767745935633949052",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
         "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
     ],
     "tweetfavorites": 86,
@@ -381,10 +394,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 107,
-    "tweetquotes": 0,
-    "tweetreplies": 3,
-    "tweetretweets": 11,
+    "tweetfavorites": 195,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 28,
     "tweettext": "CVE-2024-23917 Teamcity &lt; 2023.11.3 unauth RCE\n\nyes, CVE-2024-23917 ,  \nnot  CVE-2024-27198 https://t.co/embVgw5RI3",
     "tweettime": "2024-03-07, 17:03:58",
     "tweeturl": "https://twitter.com/chybeta/status/1765785473895780688",
