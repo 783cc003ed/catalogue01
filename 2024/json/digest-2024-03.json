@@ -10,6 +10,19 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2024/03/fortinet-warns-of-severe-sqli.html"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "⚠️ Vulnerability Alert: Fortinet warns of a severe SQL Injection #vulnerability (CVE-2023-48788) in FortiClientEMS allowing unauthenticated attackers to execute code remotely.\n\nDetails: https://t.co/yHa0OB0Cs4\n\nCheck if your versions are affected and upgrade ASAP!",
+    "tweettime": "2024-03-14, 04:23:03",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1768130697951130112",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://viz.greynoise.io/tags/fortinet-forticlientems-cve-2023-48788-sql-injection-attempt?days=10"
     ],
     "tweetfavorites": 32,
@@ -32,10 +45,10 @@
     "username": "kmkz_security"
 }
 {
-    "tweetfavorites": 170,
+    "tweetfavorites": 182,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 74,
+    "tweetretweets": 78,
     "tweettext": "The recent #Fortinet #FortiClient Endpoint Management Server (EMS) SQL injection vulnerability, CVE-2023-48788, allows an unauth attacker to obtain RCE as SYSTEM on the server.\n\nIOCs, POC, and deep-dive blog to be released next week. In the meantime, check DAS service logs for… https://t.co/57ps2WiY8R",
     "tweettime": "2024-03-13, 17:27:37",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1767965754744312161",
@@ -53,6 +66,19 @@
 }
 {
     "expanded_url": [
+        "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/?utm_source=organic_social&utm_medium=organic_social&utm_campaign=tech_blog&utm_term=outlook-cve"
+    ],
+    "tweetfavorites": 88,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2024-21378 — Remote Code Execution in Microsoft Outlook https://t.co/7ELyXiPiBi #Pentesting #CyberSecurity #Infosec https://t.co/IYWQLMnTht",
+    "tweettime": "2024-03-13, 14:30:28",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1767921171176059138",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
         "https://github.com/h4x0r-dz/CVE-2024-21762"
     ],
     "tweetfavorites": 62,
@@ -65,6 +91,19 @@
     "username": "piedpiper1616"
 }
 {
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-27135-apache-pulsar-remote-code-execution-vulnerability/"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "CVE-2024-27135: Apache Pulsar Remote Code Execution Vulnerability https://t.co/YtreVbFhN0",
+    "tweettime": "2024-03-13, 10:25:26",
+    "tweeturl": "https://twitter.com/Dinosn/status/1767859506032025809",
+    "username": "Dinosn"
+}
+{
     "tweetfavorites": 100,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -73,6 +112,19 @@
     "tweettime": "2024-03-13, 03:34:33",
     "tweeturl": "https://twitter.com/testanull/status/1767756105407463656",
     "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "Explotando la vulnerabilidad RCE en Microsoft Outlook\n\n⏭️CVE-2024-21378 — Remote Code Execution\nhttps://t.co/KrmUFQjSeN",
+    "tweettime": "2024-03-12, 18:20:00",
+    "tweeturl": "https://twitter.com/elhackernet/status/1767616547215085645",
+    "username": "elhackernet"
 }
 {
     "expanded_url": [
@@ -92,10 +144,10 @@
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22"
     ],
-    "tweetfavorites": 173,
+    "tweetfavorites": 298,
     "tweetquotes": 3,
     "tweetreplies": 5,
-    "tweetretweets": 66,
+    "tweetretweets": 117,
     "tweettext": "🚨Alert🚨CVE-2024-21378:Remote Code Execution in Microsoft Outlook \n⚠New research has been published on how to discover and exploit the vulnerability️!\n📊662K+ Services are found on https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/D4e39xFXWj\n\nDorks 👇👇👇\nHunter:… https://t.co/BuDUXFkD3I",
     "tweettime": "2024-03-12, 02:53:03",
     "tweeturl": "https://twitter.com/HunterMapping/status/1767383273146376540",
@@ -205,10 +257,10 @@
     "expanded_url": [
         "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
     ],
-    "tweetfavorites": 240,
+    "tweetfavorites": 455,
     "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 111,
+    "tweetretweets": 186,
     "tweettext": "CVE-2024-21378 — Remote Code Execution in Microsoft Outlook https://t.co/usVxdegKJw",
     "tweettime": "2024-03-11, 13:39:44",
     "tweeturl": "https://twitter.com/Dinosn/status/1767183629455589743",
@@ -218,10 +270,10 @@
     "expanded_url": [
         "https://ow.ly/L29F50QQ7s4"
     ],
-    "tweetfavorites": 168,
+    "tweetfavorites": 180,
     "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 82,
+    "tweetretweets": 83,
     "tweettext": "[Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability: https://t.co/6R2THE2paW\n\nWritten by: Rich Wolferd, NetSPI’s Director of Red Team Operations &amp; Nick Landers @monoxgas https://t.co/LrAelKRs3R",
     "tweettime": "2024-03-11, 13:07:00",
     "tweeturl": "https://twitter.com/NetSPI/status/1767175389569290359",
@@ -231,7 +283,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html"
     ],
-    "tweetfavorites": 115,
+    "tweetfavorites": 113,
     "tweetquotes": 3,
     "tweetreplies": 0,
     "tweetretweets": 71,
@@ -244,7 +296,7 @@
     "expanded_url": [
         "https://github.com/hd3s5aa/CVE-2023-21674"
     ],
-    "tweetfavorites": 137,
+    "tweetfavorites": 144,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 30,

@@ -1186,7 +1186,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 311,
+    "tweetfavorites": 312,
     "tweetquotes": 24,
     "tweetreplies": 22,
     "tweetretweets": 151,
@@ -1962,7 +1962,7 @@
     "tweetfavorites": 122,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 42,
+    "tweetretweets": 41,
     "tweettext": "🚨Alert🚨CVE-2023-41056: Redis Remote Code Execution Vulnerability\nRedis may incorrectly handle resizing of memory buffers which can result in incorrect accounting of buffer sizes and lead to heap overflow and potential remote code execution.\n\n📊 1.4M+ services are found on the… https://t.co/CDwt2l9GMh",
     "tweettime": "2024-01-10, 09:36:30",
     "tweeturl": "https://twitter.com/HunterMapping/status/1745016756392108477",
