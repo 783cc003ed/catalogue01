@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @TheHackersNews: Researchers detail a high-severity flaw in #Kubernetes, CVE-2023-5528, that allowed attackers remote code execution wit…",
+    "tweettime": "2024-03-14, 17:51:23",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1768334124022895009",
+    "username": "hackerfantastic"
+}
+{
     "expanded_url": [
         "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html"
     ],
