@@ -35,7 +35,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 51,
+    "tweetretweets": 68,
     "tweettext": "RT @cyber_advising: CVE-2024-21762: A out-of-bounds write in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 thro…",
     "tweettime": "2024-03-14, 05:25:52",
     "tweeturl": "https://twitter.com/steventseeley/status/1768146507709206734",
@@ -112,6 +112,16 @@
     "tweettime": "2024-03-13, 18:20:18",
     "tweeturl": "https://twitter.com/kmkz_security/status/1767979010133221438",
     "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 95,
+    "tweettext": "RT @Horizon3Attack: The recent #Fortinet #FortiClient Endpoint Management Server (EMS) SQL injection vulnerability, CVE-2023-48788, allows…",
+    "tweettime": "2024-03-13, 17:39:05",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1767968639141994960",
+    "username": "wvuuuuuuuuuuuuu"
 }
 {
     "tweetfavorites": 182,
