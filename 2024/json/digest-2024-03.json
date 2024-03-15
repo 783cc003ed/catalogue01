@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html"
     ],
-    "tweetfavorites": 46,
+    "tweetfavorites": 56,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 22,
+    "tweetretweets": 34,
     "tweettext": "Researchers detail a high-severity flaw in #Kubernetes, CVE-2023-5528, that allowed attackers remote code execution with SYSTEM privileges on Windows endpoints within a cluster.\n\nLearn more: https://t.co/mBFuSM1SuG\n\n#hacking #cybersecurity #infosec",
     "tweettime": "2024-03-14, 12:02:06",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1768246221502591129",
