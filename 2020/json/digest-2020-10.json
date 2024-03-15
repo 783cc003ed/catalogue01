@@ -382,10 +382,10 @@
     "username": "benreardon"
 }
 {
-    "tweetfavorites": 293,
+    "tweetfavorites": 292,
     "tweetquotes": 2,
     "tweetreplies": 5,
-    "tweetretweets": 80,
+    "tweetretweets": 79,
     "tweettext": "Looking at patch diff of tcpip.sys, it seems \"Ipv6pHandleRouterAdvertisement()\" function which is called by \"Icmpv6ReceiveDatagrams()\" function is guilty for Microsoft Windows ICMPv6 router advertisement RCE vulnerability (CVE-2020-16898): https://t.co/9HLISvpHil",
     "tweettime": "2020-10-14, 21:52:19",
     "tweeturl": "https://twitter.com/hosselot/status/1316497085320097792",
