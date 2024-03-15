@@ -331,7 +331,7 @@
     "tweetfavorites": 409,
     "tweetquotes": 2,
     "tweetreplies": 5,
-    "tweetretweets": 88,
+    "tweetretweets": 87,
     "tweettext": "12 ROP chains later - from CVE-2019-0567 crash POC to code execution.\n\nASLR, DEP, &amp; CFG bypass + ACG bypass using (since-patched) CVE-2017-8637 to abuse the way Chakra-based Edge handled (pun intended) supplying a handle from the out-of-process JIT server to a content process. https://t.co/aAC7WBGa1P",
     "tweettime": "2022-03-10, 21:13:36",
     "tweeturl": "https://twitter.com/33y0re/status/1502029931227893770",
