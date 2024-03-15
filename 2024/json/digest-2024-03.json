@@ -12,10 +12,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html"
     ],
-    "tweetfavorites": 56,
+    "tweetfavorites": 73,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 34,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
     "tweettext": "Researchers detail a high-severity flaw in #Kubernetes, CVE-2023-5528, that allowed attackers remote code execution with SYSTEM privileges on Windows endpoints within a cluster.\n\nLearn more: https://t.co/mBFuSM1SuG\n\n#hacking #cybersecurity #infosec",
     "tweettime": "2024-03-14, 12:02:06",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1768246221502591129",
@@ -45,10 +45,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html"
     ],
-    "tweetfavorites": 59,
+    "tweetfavorites": 67,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 22,
+    "tweetretweets": 27,
     "tweettext": "🛑 A new DarkGate #malware campaign uses a recently patched #Microsoft Windows flaw (CVE-2024-21412) to deploy malicious software via bogus installers.\n\nLearn more: https://t.co/J8OjMzntrR\n\n#hacking #cybersecurity",
     "tweettime": "2024-03-14, 04:59:15",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1768139807278932067",
@@ -58,10 +58,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/fortinet-warns-of-severe-sqli.html"
     ],
-    "tweetfavorites": 87,
-    "tweetquotes": 1,
-    "tweetreplies": 0,
-    "tweetretweets": 56,
+    "tweetfavorites": 142,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 90,
     "tweettext": "⚠️ Vulnerability Alert: Fortinet warns of a severe SQL Injection #vulnerability (CVE-2023-48788) in FortiClientEMS allowing unauthenticated attackers to execute code remotely.\n\nDetails: https://t.co/yHa0OB0Cs4\n\nCheck if your versions are affected and upgrade ASAP!",
     "tweettime": "2024-03-14, 04:23:03",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1768130697951130112",
@@ -222,10 +222,10 @@
     "expanded_url": [
         "https://t.zsxq.com/183GqPIax"
     ],
-    "tweetfavorites": 79,
+    "tweetfavorites": 82,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 14,
     "tweettext": "analysis for CVE-2024-23917 \n\nhttps://t.co/CBABOYOBec",
     "tweettime": "2024-03-13, 02:54:08",
     "tweeturl": "https://twitter.com/chybeta/status/1767745935633949052",
@@ -463,10 +463,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 195,
+    "tweetfavorites": 203,
     "tweetquotes": 4,
     "tweetreplies": 4,
-    "tweetretweets": 28,
+    "tweetretweets": 29,
     "tweettext": "CVE-2024-23917 Teamcity &lt; 2023.11.3 unauth RCE\n\nyes, CVE-2024-23917 ,  \nnot  CVE-2024-27198 https://t.co/embVgw5RI3",
     "tweettime": "2024-03-07, 17:03:58",
     "tweeturl": "https://twitter.com/chybeta/status/1765785473895780688",
