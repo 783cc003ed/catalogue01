@@ -54,7 +54,7 @@
     "tweetfavorites": 1852,
     "tweetquotes": 37,
     "tweetreplies": 36,
-    "tweetretweets": 589,
+    "tweetretweets": 590,
     "tweettext": "So excited to finally release my blog post- Kernel Pwning with eBPF: a Love Story. I cover eBPF, the verifier, debugging, exploitation, mitigations and other cool findings! I do root cause analysis and exploit CVE-2021-3490 for LPE with PoC included. https://t.co/pWt1psHEFa",
     "tweettime": "2021-07-29, 17:38:23",
     "tweeturl": "https://twitter.com/chompie1337/status/1420800888273244162",
