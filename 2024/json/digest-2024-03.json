@@ -45,10 +45,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html"
     ],
-    "tweetfavorites": 67,
+    "tweetfavorites": 70,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 27,
+    "tweetretweets": 28,
     "tweettext": "🛑 A new DarkGate #malware campaign uses a recently patched #Microsoft Windows flaw (CVE-2024-21412) to deploy malicious software via bogus installers.\n\nLearn more: https://t.co/J8OjMzntrR\n\n#hacking #cybersecurity",
     "tweettime": "2024-03-14, 04:59:15",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1768139807278932067",
@@ -209,7 +209,7 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 100,
+    "tweetfavorites": 99,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 8,
