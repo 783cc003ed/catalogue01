@@ -12,10 +12,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html"
     ],
-    "tweetfavorites": 73,
-    "tweetquotes": 0,
+    "tweetfavorites": 91,
+    "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 40,
+    "tweetretweets": 48,
     "tweettext": "Researchers detail a high-severity flaw in #Kubernetes, CVE-2023-5528, that allowed attackers remote code execution with SYSTEM privileges on Windows endpoints within a cluster.\n\nLearn more: https://t.co/mBFuSM1SuG\n\n#hacking #cybersecurity #infosec",
     "tweettime": "2024-03-14, 12:02:06",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1768246221502591129",
@@ -124,10 +124,10 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 182,
-    "tweetquotes": 3,
+    "tweetfavorites": 213,
+    "tweetquotes": 4,
     "tweetreplies": 0,
-    "tweetretweets": 78,
+    "tweetretweets": 98,
     "tweettext": "The recent #Fortinet #FortiClient Endpoint Management Server (EMS) SQL injection vulnerability, CVE-2023-48788, allows an unauth attacker to obtain RCE as SYSTEM on the server.\n\nIOCs, POC, and deep-dive blog to be released next week. In the meantime, check DAS service logs for… https://t.co/57ps2WiY8R",
     "tweettime": "2024-03-13, 17:27:37",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1767965754744312161",
@@ -150,7 +150,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 56,
+    "tweetretweets": 72,
     "tweettext": "RT @cyber_advising: CVE-2024-21762: A out-of-bounds write in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 thro…",
     "tweettime": "2024-03-13, 15:08:48",
     "tweeturl": "https://twitter.com/kmkz_security/status/1767930818553315579",
@@ -365,7 +365,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 57,
+    "tweetretweets": 59,
     "tweettext": "RT @Horizon3Attack: Today we are disclosing a critical SSRF vulnerability, CVE-2023-49785, in a popular Gen AI chatbot, NextChat a.k.a Chat…",
     "tweettime": "2024-03-11, 13:53:24",
     "tweeturl": "https://twitter.com/kmkz_security/status/1767187069015609503",
@@ -762,6 +762,19 @@
     "tweettime": "2024-03-04, 20:01:07",
     "tweeturl": "https://twitter.com/h1Disclosed/status/1764742893296550106",
     "username": "h1Disclosed"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 28,
+    "tweettext": "Rapid7 is disclosing two authentication bypass vulnerabilities @stephenfewer discovered in TeamCity (CVE-2024-27198, CVE-2024-27199). CVE-2024-27198 allows for unauthenticated remote code execution. https://t.co/94KHS7tjjN",
+    "tweettime": "2024-03-04, 19:38:31",
+    "tweeturl": "https://twitter.com/catc0n/status/1764737202909577563",
+    "username": "catc0n"
 }
 {
     "expanded_url": [
