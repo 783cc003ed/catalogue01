@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762"
+    ],
+    "tweetfavorites": 274,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 76,
+    "tweettext": "At @assetnote, our security research team has worked tirelessly to build capabilities to exploit CVE-2024-21762, a pre-auth RCE vulnerability in FortiGate SSLVPN. 150k+ instances of this on the internet. Dylan explained his journey in our blog: https://t.co/O2CFlqAbWP",
+    "tweettime": "2024-03-15, 21:00:00",
+    "tweeturl": "https://twitter.com/infosec_au/status/1768743977564393950",
+    "username": "infosec_au"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -71,7 +84,7 @@
     "expanded_url": [
         "https://github.com/nettitude/CVE-2024-25153"
     ],
-    "tweetfavorites": 40,
+    "tweetfavorites": 42,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 17,
@@ -97,11 +110,21 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 78,
+    "tweetretweets": 90,
     "tweettext": "RT @0xor0ne: Interesting short reading on CVE-2024-21305: Hypervisor-Protected Code Integrity\n(HVCI) bypass for arbitrary kernel-mode code…",
     "tweettime": "2024-03-13, 21:02:05",
     "tweeturl": "https://twitter.com/standa_t/status/1768019723940507912",
     "username": "standa_t"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 99,
+    "tweettext": "RT @Horizon3Attack: The recent #Fortinet #FortiClient Endpoint Management Server (EMS) SQL injection vulnerability, CVE-2023-48788, allows…",
+    "tweettime": "2024-03-13, 19:03:43",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1767989938966904864",
+    "username": "cyb3rops"
 }
 {
     "tweetfavorites": 0,
@@ -124,10 +147,10 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 213,
+    "tweetfavorites": 214,
     "tweetquotes": 4,
     "tweetreplies": 0,
-    "tweetretweets": 98,
+    "tweetretweets": 99,
     "tweettext": "The recent #Fortinet #FortiClient Endpoint Management Server (EMS) SQL injection vulnerability, CVE-2023-48788, allows an unauth attacker to obtain RCE as SYSTEM on the server.\n\nIOCs, POC, and deep-dive blog to be released next week. In the meantime, check DAS service logs for… https://t.co/57ps2WiY8R",
     "tweettime": "2024-03-13, 17:27:37",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1767965754744312161",
@@ -160,10 +183,10 @@
     "expanded_url": [
         "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/?utm_source=organic_social&utm_medium=organic_social&utm_campaign=tech_blog&utm_term=outlook-cve"
     ],
-    "tweetfavorites": 88,
+    "tweetfavorites": 112,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 25,
+    "tweetretweets": 33,
     "tweettext": "CVE-2024-21378 — Remote Code Execution in Microsoft Outlook https://t.co/7ELyXiPiBi #Pentesting #CyberSecurity #Infosec https://t.co/IYWQLMnTht",
     "tweettime": "2024-03-13, 14:30:28",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1767921171176059138",
@@ -186,10 +209,10 @@
     "expanded_url": [
         "https://github.com/h4x0r-dz/CVE-2024-21762"
     ],
-    "tweetfavorites": 68,
+    "tweetfavorites": 69,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 21,
+    "tweetretweets": 22,
     "tweettext": "GitHub - h4x0r-dz/CVE-2024-21762: out-of-bounds write in Fortinet FortiOS CVE-2024-21762 vulnerability - https://t.co/ScC0UlNRUC",
     "tweettime": "2024-03-13, 12:07:49",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1767885274720461273",
@@ -235,10 +258,10 @@
     "expanded_url": [
         "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
     ],
-    "tweetfavorites": 86,
+    "tweetfavorites": 87,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 24,
+    "tweetretweets": 25,
     "tweettext": "Explotando la vulnerabilidad RCE en Microsoft Outlook\n\n⏭️CVE-2024-21378 — Remote Code Execution\nhttps://t.co/KrmUFQjSeN",
     "tweettime": "2024-03-12, 18:20:00",
     "tweeturl": "https://twitter.com/elhackernet/status/1767616547215085645",
@@ -262,10 +285,10 @@
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22"
     ],
-    "tweetfavorites": 298,
+    "tweetfavorites": 301,
     "tweetquotes": 3,
     "tweetreplies": 5,
-    "tweetretweets": 117,
+    "tweetretweets": 118,
     "tweettext": "🚨Alert🚨CVE-2024-21378:Remote Code Execution in Microsoft Outlook \n⚠New research has been published on how to discover and exploit the vulnerability️!\n📊662K+ Services are found on https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/D4e39xFXWj\n\nDorks 👇👇👇\nHunter:… https://t.co/BuDUXFkD3I",
     "tweettime": "2024-03-12, 02:53:03",
     "tweeturl": "https://twitter.com/HunterMapping/status/1767383273146376540",
@@ -275,7 +298,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 58,
+    "tweetretweets": 59,
     "tweettext": "RT @Horizon3Attack: Today we are disclosing a critical SSRF vulnerability, CVE-2023-49785, in a popular Gen AI chatbot, NextChat a.k.a Chat…",
     "tweettime": "2024-03-11, 23:54:03",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1767338224903712957",
@@ -375,10 +398,10 @@
     "expanded_url": [
         "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
     ],
-    "tweetfavorites": 455,
+    "tweetfavorites": 457,
     "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 186,
+    "tweetretweets": 187,
     "tweettext": "CVE-2024-21378 — Remote Code Execution in Microsoft Outlook https://t.co/usVxdegKJw",
     "tweettime": "2024-03-11, 13:39:44",
     "tweeturl": "https://twitter.com/Dinosn/status/1767183629455589743",
@@ -681,7 +704,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 74,
+    "tweetretweets": 75,
     "tweettext": "RT @stephenfewer: We have disclosed 2 authentication bypass vulnerabilities, CVE-2024-27198 and CVE-2024-27199, affecting JetBrains TeamCit…",
     "tweettime": "2024-03-05, 06:23:18",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1764899471195021371",
