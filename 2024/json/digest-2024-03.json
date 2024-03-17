@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "A PoC exploit for CVE-2023-43208 - Mirth Connect Remote Code Execution (RCE)\nhttps://t.co/ux2SWgUpxT",
+    "tweettime": "2024-03-16, 16:47:01",
+    "tweeturl": "https://twitter.com/momika233/status/1769042698932220375",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
         "https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762"
     ],
     "tweetfavorites": 274,
@@ -222,7 +235,7 @@
     "expanded_url": [
         "https://securityonline.info/cve-2024-27135-apache-pulsar-remote-code-execution-vulnerability/"
     ],
-    "tweetfavorites": 44,
+    "tweetfavorites": 46,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 16,
