@@ -123,10 +123,10 @@
     "expanded_url": [
         "https://viz.greynoise.io/tags/fortinet-forticlientems-cve-2023-48788-sql-injection-attempt?days=10"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 43,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 16,
     "tweettext": "We published a tag today for CVE-2023-48788, a CVSS 9.8 SQL 💉 injection vulnerability in FortiNet FortiClientEMS, thanks to our friends at @Horizon3ai  https://t.co/Ir0Uc7QQku",
     "tweettime": "2024-03-13, 21:27:15",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1768026057083359428",
@@ -156,7 +156,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 98,
+    "tweetretweets": 99,
     "tweettext": "RT @Horizon3Attack: The recent #Fortinet #FortiClient Endpoint Management Server (EMS) SQL injection vulnerability, CVE-2023-48788, allows…",
     "tweettime": "2024-03-13, 18:20:18",
     "tweeturl": "https://twitter.com/kmkz_security/status/1767979010133221438",
@@ -337,7 +337,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 34,
+    "tweetretweets": 38,
     "tweettext": "RT @DhiyaneshDK: Scan for [CVE-2023-49785] ChatGPT-Next-Web - SSRF/XSS (https://t.co/acAaQmQlkB) [critical] using @pdnuclei \n\nNuclei Templa…",
     "tweettime": "2024-03-11, 19:02:22",
     "tweeturl": "https://twitter.com/pdnuclei/status/1767264821366419874",
@@ -437,7 +437,7 @@
     "expanded_url": [
         "https://ow.ly/L29F50QQ7s4"
     ],
-    "tweetfavorites": 181,
+    "tweetfavorites": 183,
     "tweetquotes": 4,
     "tweetreplies": 2,
     "tweetretweets": 83,
