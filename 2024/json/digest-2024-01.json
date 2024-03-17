@@ -605,7 +605,7 @@
     "tweetfavorites": 51,
     "tweetquotes": 1,
     "tweetreplies": 7,
-    "tweetretweets": 20,
+    "tweetretweets": 19,
     "tweettext": "Apple Safari In-The-Wild type confusion vulnerability (CVE-2024-23222 [267134]) happens because DFG constant property load does not check the validity at the main thread:\nhttps://t.co/WBMvhbfIYv",
     "tweettime": "2024-01-24, 00:20:31",
     "tweeturl": "https://twitter.com/hosselot/status/1749950271487447354",
@@ -1186,10 +1186,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 312,
+    "tweetfavorites": 309,
     "tweetquotes": 24,
     "tweetreplies": 22,
-    "tweetretweets": 153,
+    "tweetretweets": 149,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",

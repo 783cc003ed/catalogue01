@@ -222,10 +222,10 @@
     "expanded_url": [
         "https://github.com/h4x0r-dz/CVE-2024-21762"
     ],
-    "tweetfavorites": 161,
+    "tweetfavorites": 178,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 62,
+    "tweetretweets": 72,
     "tweettext": "CVE-2024-21762: A out-of-bounds write in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 through .... allows attacker to execute unauthorized code or commands via specifically crafted requests.\n\nPoC\nhttps://t.co/UBZcnCPfuR https://t.co/xe0RwLybhF",
     "tweettime": "2024-03-13, 14:06:20",
     "tweeturl": "https://twitter.com/cyber_advising/status/1767915098805256633",
