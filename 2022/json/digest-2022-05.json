@@ -933,10 +933,10 @@
     "expanded_url": [
         "https://github.com/forrest-orr/WizardOpium"
     ],
-    "tweetfavorites": 595,
+    "tweetfavorites": 596,
     "tweetquotes": 3,
     "tweetreplies": 6,
-    "tweetretweets": 161,
+    "tweetretweets": 162,
     "tweettext": "I'm proud to release my first Google Chrome RCE derived from the most fascinating and mind bending exploit I have yet analyzed: CVE-2019-13720 Wizard Opium. This is a beautiful bug which I have crafted into an exploit bypassing ASLR, CFG and CET on Win10 https://t.co/RhMJ2nmVd4 https://t.co/1RMH4mBq9s",
     "tweettime": "2022-05-03, 11:03:24",
     "tweeturl": "https://twitter.com/_ForrestOrr/status/1521445312405065728",
