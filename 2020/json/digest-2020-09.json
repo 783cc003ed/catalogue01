@@ -114,7 +114,7 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 134,
+    "tweetfavorites": 133,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 41,
@@ -309,10 +309,10 @@
     "expanded_url": [
         "https://www.gosecure.net/blog/2020/09/08/wsus-attacks-part-2-cve-2020-1013-a-windows-10-local-privilege-escalation-1-day/"
     ],
-    "tweetfavorites": 60,
+    "tweetfavorites": 61,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 23,
+    "tweetretweets": 24,
     "tweettext": "CVE-2020-1013: Windows Local Privilege Escalation (LPE) with PoC\nhttps://t.co/4WI1HBw5jI",
     "tweettime": "2020-09-10, 19:15:19",
     "tweeturl": "https://twitter.com/Dinosn/status/1304136390062608384",
@@ -378,10 +378,10 @@
     "expanded_url": [
         "https://www.gosecure.net/blog/2020/09/08/wsus-attacks-part-2-cve-2020-1013-a-windows-10-local-privilege-escalation-1-day/"
     ],
-    "tweetfavorites": 58,
+    "tweetfavorites": 59,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 35,
+    "tweetretweets": 36,
     "tweettext": "CVE-2020-1013: Windows Local Privilege Escalation (LPE) with PoC https://t.co/sJNcpiqT4i",
     "tweettime": "2020-09-08, 20:13:08",
     "tweeturl": "https://twitter.com/_r_netsec/status/1303426162429890560",

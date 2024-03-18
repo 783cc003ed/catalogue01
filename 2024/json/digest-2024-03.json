@@ -223,7 +223,7 @@
     "expanded_url": [
         "https://labs.nettitude.com/blog/cve-2024-25153-remote-code-execution-in-fortra-filecatalyst/"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 31,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 13,
@@ -482,6 +482,20 @@
     "tweettime": "2024-03-11, 13:07:00",
     "tweeturl": "https://twitter.com/NetSPI/status/1767175389569290359",
     "username": "NetSPI"
+}
+{
+    "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/P3Cty"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "CVE-2024-21899, -21900, -21901: Multiple vulns in QNAP NAS, 4.3 - 9.8 rating 🔥\n\nCode injection, execution of arbitrary commands and  improper authentication via network.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉🏻 Link: https://t.co/k7mxtfhX3Y\n\n#cybersecurity #vulnerability_map https://t.co/3x6sszcZ47",
+    "tweettime": "2024-03-11, 09:00:00",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1767113231242313756",
+    "username": "Netlas_io"
 }
 {
     "expanded_url": [
