@@ -492,7 +492,7 @@
     "tweetfavorites": 555,
     "tweetquotes": 8,
     "tweetreplies": 7,
-    "tweetretweets": 208,
+    "tweetretweets": 207,
     "tweettext": "🔥 We have reproduced the fresh CVE-2022-22954 Server-Side Template Injection in VMware Workspace ONE Access.\n\nSuccessful exploitation could lead to RCE from an unauthenticated user.\n\nPatch ASAP! https://t.co/FRfAD1VCN8",
     "tweettime": "2022-04-07, 15:02:13",
     "tweeturl": "https://twitter.com/ptswarm/status/1512083327884271619",
