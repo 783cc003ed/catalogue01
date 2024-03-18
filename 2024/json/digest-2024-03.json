@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://securityonline.info/cve-2024-28353-28354-trendnet-router-takeover-flaws-exposed-no-patch-available/"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "CVE-2024-28353 &amp; 28354: TRENDnet Router Takeover Flaws Exposed, No Patch Available https://t.co/dlX83GFvWM",
+    "tweettime": "2024-03-18, 04:32:25",
+    "tweeturl": "https://twitter.com/Dinosn/status/1769582607577055293",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762",
         "https://infosec.exchange/@raptor/112109874065155645"
     ],
@@ -13,13 +26,36 @@
     "username": "0xdea"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "RT @leak_ix: #QNAP CVE-2024-21899 vulnerability indicator:\n\ncurl -X POST --data 'wiz_func=start_2sv&amp;action=none&amp;user=guest&amp;pwd=none' -kv 'h…",
+    "tweettime": "2024-03-17, 07:03:43",
+    "tweeturl": "https://twitter.com/Dinosn/status/1769258295381119335",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.reddit.com/r/netsec/comments/1bgl1sl/two_bytes_is_plenty_fortigate_rce_with/"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762 https://t.co/FcXwiSKaB6",
+    "tweettime": "2024-03-17, 04:55:17",
+    "tweeturl": "https://twitter.com/Dinosn/status/1769225975403786351",
+    "username": "Dinosn"
+}
+{
     "expanded_url": [
         "https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT"
     ],
-    "tweetfavorites": 126,
+    "tweetfavorites": 132,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 50,
+    "tweetretweets": 52,
     "tweettext": "A PoC exploit for CVE-2023-43208 - Mirth Connect Remote Code Execution (RCE)\nhttps://t.co/ux2SWgUpxT",
     "tweettime": "2024-03-16, 16:47:01",
     "tweeturl": "https://twitter.com/momika233/status/1769042698932220375",
@@ -348,10 +384,10 @@
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22"
     ],
-    "tweetfavorites": 301,
+    "tweetfavorites": 302,
     "tweetquotes": 3,
     "tweetreplies": 5,
-    "tweetretweets": 118,
+    "tweetretweets": 117,
     "tweettext": "🚨Alert🚨CVE-2024-21378:Remote Code Execution in Microsoft Outlook \n⚠New research has been published on how to discover and exploit the vulnerability️!\n📊662K+ Services are found on https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/D4e39xFXWj\n\nDorks 👇👇👇\nHunter:… https://t.co/BuDUXFkD3I",
     "tweettime": "2024-03-12, 02:53:03",
     "tweeturl": "https://twitter.com/HunterMapping/status/1767383273146376540",
@@ -474,7 +510,7 @@
     "expanded_url": [
         "https://ow.ly/L29F50QQ7s4"
     ],
-    "tweetfavorites": 183,
+    "tweetfavorites": 182,
     "tweetquotes": 4,
     "tweetreplies": 2,
     "tweetretweets": 83,

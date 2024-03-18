@@ -1903,7 +1903,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 117,
+    "tweetretweets": 116,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 14:00:08",
     "tweeturl": "https://twitter.com/testanull/status/1745083104161648746",
@@ -2168,7 +2168,7 @@
     "expanded_url": [
         "https://github.com/TecR0c/DoubleTrouble"
     ],
-    "tweetfavorites": 139,
+    "tweetfavorites": 138,
     "tweetquotes": 2,
     "tweetreplies": 3,
     "tweetretweets": 40,
