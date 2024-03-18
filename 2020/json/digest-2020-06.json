@@ -235,7 +235,7 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 624,
+    "tweetfavorites": 626,
     "tweetquotes": 6,
     "tweetreplies": 7,
     "tweetretweets": 266,
@@ -327,10 +327,10 @@
     "expanded_url": [
         "https://thehackernews.com/2020/06/SMBleed-smb-vulnerability.html"
     ],
-    "tweetfavorites": 547,
+    "tweetfavorites": 546,
     "tweetquotes": 26,
     "tweetreplies": 6,
-    "tweetretweets": 351,
+    "tweetretweets": 350,
     "tweettext": "SMBleed — A new security vulnerability (CVE-2020-1206) affects Windows SMBv3 protocol.\n\nDetails + PoC: https://t.co/DcF5pumvvM\n\nAn unauthenticated attacker (client/server) can also combine it with the \"wormable\" SMBGhost flaw to achieve RCE attacks.\n\n#infosec #cybersecurity https://t.co/lTOx5uP7l6",
     "tweettime": "2020-06-09, 20:36:11",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1270454668095782919",

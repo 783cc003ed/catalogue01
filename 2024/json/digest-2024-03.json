@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 124,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 20,
+    "tweettext": "CVE-2022-0412 is time based sql injection but you can extract databases with this command\n\nsqlmap./py -r request./txt --dbs --random-agent --time-sec=12 --level=5 --risk=3 --batch --flush-session\n\n#bugbounty #bugbountytips https://t.co/2IhmC6XF6D",
+    "tweettime": "2024-03-18, 13:12:00",
+    "tweeturl": "https://twitter.com/0x_rood/status/1769713363712655517",
+    "username": "0x_rood"
+}
+{
     "expanded_url": [
         "https://securityonline.info/cve-2024-28353-28354-trendnet-router-takeover-flaws-exposed-no-patch-available/"
     ],
@@ -305,7 +315,7 @@
     "expanded_url": [
         "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/?utm_source=organic_social&utm_medium=organic_social&utm_campaign=tech_blog&utm_term=outlook-cve"
     ],
-    "tweetfavorites": 112,
+    "tweetfavorites": 111,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 33,
@@ -380,7 +390,7 @@
     "expanded_url": [
         "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
     ],
-    "tweetfavorites": 87,
+    "tweetfavorites": 88,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 25,
@@ -520,7 +530,7 @@
     "expanded_url": [
         "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
     ],
-    "tweetfavorites": 457,
+    "tweetfavorites": 456,
     "tweetquotes": 5,
     "tweetreplies": 2,
     "tweetretweets": 187,
@@ -534,7 +544,7 @@
         "https://ow.ly/L29F50QQ7s4"
     ],
     "tweetfavorites": 182,
-    "tweetquotes": 4,
+    "tweetquotes": 5,
     "tweetreplies": 2,
     "tweetretweets": 83,
     "tweettext": "[Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability: https://t.co/6R2THE2paW\n\nWritten by: Rich Wolferd, NetSPI’s Director of Red Team Operations &amp; Nick Landers @monoxgas https://t.co/LrAelKRs3R",
