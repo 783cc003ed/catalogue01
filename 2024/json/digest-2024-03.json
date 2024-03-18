@@ -40,6 +40,29 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2024/03/ghostrace-new-data-leak-vulnerability.html"
+    ],
+    "tweetfavorites": 142,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "Researchers have uncovered \"GhostRace\" (CVE-2024-2193), a new variation of the Spectre v1 #vulnerability affecting CPUs with speculative execution. This attack exploits race conditions to allow attackers to leak sensitive data.\n\nRead: https://t.co/mhOTUAVnho\n\n#cybersecurity",
+    "tweettime": "2024-03-15, 17:48:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1768695894642425999",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "RT @TheHackersNews: Researchers detail a high-severity flaw in #Kubernetes, CVE-2023-5528, that allowed attackers remote code execution wit…",
+    "tweettime": "2024-03-15, 13:35:52",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1768632208611557810",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP"
     ],
     "tweetfavorites": 121,
@@ -65,10 +88,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html"
     ],
-    "tweetfavorites": 91,
+    "tweetfavorites": 93,
     "tweetquotes": 1,
-    "tweetreplies": 2,
-    "tweetretweets": 48,
+    "tweetreplies": 3,
+    "tweetretweets": 47,
     "tweettext": "Researchers detail a high-severity flaw in #Kubernetes, CVE-2023-5528, that allowed attackers remote code execution with SYSTEM privileges on Windows endpoints within a cluster.\n\nLearn more: https://t.co/mBFuSM1SuG\n\n#hacking #cybersecurity #infosec",
     "tweettime": "2024-03-14, 12:02:06",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1768246221502591129",
@@ -99,7 +122,7 @@
         "https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html"
     ],
     "tweetfavorites": 70,
-    "tweetquotes": 2,
+    "tweetquotes": 3,
     "tweetreplies": 1,
     "tweetretweets": 28,
     "tweettext": "🛑 A new DarkGate #malware campaign uses a recently patched #Microsoft Windows flaw (CVE-2024-21412) to deploy malicious software via bogus installers.\n\nLearn more: https://t.co/J8OjMzntrR\n\n#hacking #cybersecurity",
@@ -111,10 +134,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/fortinet-warns-of-severe-sqli.html"
     ],
-    "tweetfavorites": 142,
+    "tweetfavorites": 151,
     "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 90,
+    "tweetretweets": 91,
     "tweettext": "⚠️ Vulnerability Alert: Fortinet warns of a severe SQL Injection #vulnerability (CVE-2023-48788) in FortiClientEMS allowing unauthenticated attackers to execute code remotely.\n\nDetails: https://t.co/yHa0OB0Cs4\n\nCheck if your versions are affected and upgrade ASAP!",
     "tweettime": "2024-03-14, 04:23:03",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1768130697951130112",
