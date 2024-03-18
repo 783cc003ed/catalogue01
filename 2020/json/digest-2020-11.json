@@ -486,7 +486,7 @@
     "tweetfavorites": 291,
     "tweetquotes": 8,
     "tweetreplies": 5,
-    "tweetretweets": 119,
+    "tweetretweets": 118,
     "tweettext": "Today Chrome fixed two more vulnerabilities that were being actively exploited in the wild (discovered by Project Zero/Google TAG last week). CVE-2020-16009 is a v8 bug used for remote code execution, CVE-2020-16010 is a Chrome sandbox escape for Android. https://t.co/IOhFwT0Wx1",
     "tweettime": "2020-11-02, 21:20:01",
     "tweeturl": "https://twitter.com/benhawkes/status/1323374326150701057",
