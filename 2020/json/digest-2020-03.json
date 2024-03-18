@@ -231,7 +231,7 @@
     "tweetfavorites": 126,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 84,
+    "tweetretweets": 83,
     "tweettext": "Tor 0.4.3.3-alpha released with security fixes!\n\nCVE-2020-10593\nhigh-severity denial-of-service issue\n\nThis flaw could let attackers cause Tor instances to consume a huge amount of CPU, disrupting operations for several minutes.\n\nCVE-2020-10592\nremotely triggered memory leak bug https://t.co/4tAA9WD6zL",
     "tweettime": "2020-03-18, 17:55:14",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1240335971230420992",
