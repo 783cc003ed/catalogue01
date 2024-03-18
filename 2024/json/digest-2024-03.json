@@ -109,6 +109,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2024-2432: privilege escalation (PE) vulnerability in the Palo Alto Networks GlobalProtect app on Windows devices enables a local user to execute programs with elevated privileges...\n\nPoC\nhttps://t.co/LwO3yfcyLB https://t.co/JgGJOS3LHa",
+    "tweettime": "2024-03-15, 12:32:40",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1768616302472478823",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP"
     ],
     "tweetfavorites": 121,
@@ -305,7 +318,7 @@
     "expanded_url": [
         "https://github.com/h4x0r-dz/CVE-2024-21762"
     ],
-    "tweetfavorites": 178,
+    "tweetfavorites": 179,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 73,
@@ -623,7 +636,7 @@
         "http://ASP.NET",
         "https://swarm.ptsecurity.com/source-code-disclosure-in-asp-net-apps/"
     ],
-    "tweetfavorites": 41,
+    "tweetfavorites": 42,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 11,
