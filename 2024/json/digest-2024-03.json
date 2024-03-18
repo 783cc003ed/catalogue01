@@ -9,6 +9,16 @@
     "username": "0x_rood"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 143,
+    "tweettext": "RT @LIJI32: I've exploited MadDirtyCow (CVE-2022-46689) and 2022 CoreTrust bug (CVE-2022-26766) to allow installation of perma-signed apps…",
+    "tweettime": "2024-03-18, 12:37:56",
+    "tweeturl": "https://twitter.com/jedisct1/status/1769704790504657086",
+    "username": "jedisct1"
+}
+{
     "expanded_url": [
         "https://securityonline.info/cve-2024-28353-28354-trendnet-router-takeover-flaws-exposed-no-patch-available/"
     ],
@@ -414,6 +424,19 @@
 }
 {
     "expanded_url": [
+        "https://www.horizon3.ai/attack-research/attack-blogs/nextchat-an-ai-chatbot-that-lets-you-talk-to-anyone-you-want-to/"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "CVE-2023-49785: Unpatched Unauthenticated SSRF in  ChatGPT-Next-Web (Next JS based ChatGPT WebUI)\n\nhttps://t.co/3Pm9Sjbw2V\n\nBy @Horizon3Attack \n\n#bugbountytips #cybersecurity #infosec https://t.co/IxDYSscxrg",
+    "tweettime": "2024-03-12, 13:30:00",
+    "tweeturl": "https://twitter.com/payloadartist/status/1767543566228914559",
+    "username": "payloadartist"
+}
+{
+    "expanded_url": [
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22"
     ],
@@ -487,10 +510,10 @@
         "https://github.com/nvn1729",
         "https://github.com/projectdiscovery/nuclei-templates/pull/9319/files"
     ],
-    "tweetfavorites": 169,
+    "tweetfavorites": 168,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 38,
+    "tweetretweets": 39,
     "tweettext": "Scan for [CVE-2023-49785] ChatGPT-Next-Web - SSRF/XSS (https://t.co/acAaQmQlkB) [critical] using @pdnuclei \n\nNuclei Template : https://t.co/44pVMqxbPK\n\n#cve #nextchat #chatgpt #xss #ssrf #pdteam #hackwithutomation https://t.co/d6T4HmlPD4",
     "tweettime": "2024-03-11, 15:33:15",
     "tweeturl": "https://twitter.com/DhiyaneshDK/status/1767212195727728793",
