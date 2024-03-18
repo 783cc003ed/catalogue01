@@ -12,6 +12,16 @@
     "username": "Dinosn"
 }
 {
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "🆕🆕🆕Security Research: Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762\n📰The research details the steps to identify the patched vulnerability and produce a working exploit.\n⚠️⚠️It is another case of a network/security appliance having a pretty serious memory corruption… https://t.co/E6rpK5t71V",
+    "tweettime": "2024-03-18, 04:01:35",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1769574848999919631",
+    "username": "HunterMapping"
+}
+{
     "expanded_url": [
         "https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762",
         "https://infosec.exchange/@raptor/112109874065155645"
@@ -65,10 +75,10 @@
     "expanded_url": [
         "https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762"
     ],
-    "tweetfavorites": 300,
+    "tweetfavorites": 309,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 88,
+    "tweetretweets": 93,
     "tweettext": "At @assetnote, our security research team has worked tirelessly to build capabilities to exploit CVE-2024-21762, a pre-auth RCE vulnerability in FortiGate SSLVPN. 150k+ instances of this on the internet. Dylan explained his journey in our blog: https://t.co/O2CFlqAbWP",
     "tweettime": "2024-03-15, 21:00:00",
     "tweeturl": "https://twitter.com/infosec_au/status/1768743977564393950",
@@ -246,10 +256,10 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 217,
+    "tweetfavorites": 221,
     "tweetquotes": 4,
     "tweetreplies": 0,
-    "tweetretweets": 99,
+    "tweetretweets": 102,
     "tweettext": "The recent #Fortinet #FortiClient Endpoint Management Server (EMS) SQL injection vulnerability, CVE-2023-48788, allows an unauth attacker to obtain RCE as SYSTEM on the server.\n\nIOCs, POC, and deep-dive blog to be released next week. In the meantime, check DAS service logs for… https://t.co/57ps2WiY8R",
     "tweettime": "2024-03-13, 17:27:37",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1767965754744312161",
