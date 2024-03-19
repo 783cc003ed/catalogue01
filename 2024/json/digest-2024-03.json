@@ -1,4 +1,17 @@
 {
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-28353-28354-trendnet-router-takeover-flaws-exposed-no-patch-available/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 42,
+    "tweettext": "RT @Dinosn: CVE-2024-28353 &amp; 28354: TRENDnet Router Takeover Flaws Exposed, No Patch Available https://t.co/dlX83GFvWM",
+    "tweettime": "2024-03-18, 17:35:41",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1769779722181812646",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -113,6 +126,16 @@
     "tweettime": "2024-03-16, 16:47:01",
     "tweeturl": "https://twitter.com/momika233/status/1769042698932220375",
     "username": "momika233"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 96,
+    "tweettext": "RT @infosec_au: At @assetnote, our security research team has worked tirelessly to build capabilities to exploit CVE-2024-21762, a pre-auth…",
+    "tweettime": "2024-03-15, 21:03:38",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1768744890563772522",
+    "username": "wvuuuuuuuuuuuuu"
 }
 {
     "expanded_url": [
@@ -259,6 +282,16 @@
     "username": "piedpiper1616"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "RT @infosec_au: Our security research team at @assetnote discovered CVE-2023-5914 &amp; CVE-2023-6184 in Citrix StoreFront and Citrix Session R…",
+    "tweettime": "2024-03-13, 23:39:23",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1768059313300349377",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
     "expanded_url": [
         "https://viz.greynoise.io/tags/fortinet-forticlientems-cve-2023-48788-sql-injection-attempt?days=10"
     ],
@@ -325,7 +358,7 @@
     "expanded_url": [
         "https://labs.nettitude.com/blog/cve-2024-25153-remote-code-execution-in-fortra-filecatalyst/"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 32,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 13,
