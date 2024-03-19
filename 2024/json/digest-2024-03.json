@@ -9,6 +9,19 @@
     "username": "0x_rood"
 }
 {
+    "expanded_url": [
+        "https://thehackernews.com/2024/03/fortra-patches-critical-rce.html"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 24,
+    "tweettext": "Fortra has patched a critical flaw (CVE-2024-25153) in FileCatalyst file transfer, preventing unauthorized remote code execution and blocking attackers from taking full control of vulnerable servers.\n\nRead details: https://t.co/lvYRUu5O20\n\nPatch immediately.\n\n#cybersecurity",
+    "tweettime": "2024-03-18, 13:01:16",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1769710664308687013",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -108,9 +121,9 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/ghostrace-new-data-leak-vulnerability.html"
     ],
-    "tweetfavorites": 142,
+    "tweetfavorites": 145,
     "tweetquotes": 4,
-    "tweetreplies": 0,
+    "tweetreplies": 1,
     "tweetretweets": 70,
     "tweettext": "Researchers have uncovered \"GhostRace\" (CVE-2024-2193), a new variation of the Spectre v1 #vulnerability affecting CPUs with speculative execution. This attack exploits race conditions to allow attackers to leak sensitive data.\n\nRead: https://t.co/mhOTUAVnho\n\n#cybersecurity",
     "tweettime": "2024-03-15, 17:48:56",
@@ -121,7 +134,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 47,
+    "tweetretweets": 48,
     "tweettext": "RT @TheHackersNews: Researchers detail a high-severity flaw in #Kubernetes, CVE-2023-5528, that allowed attackers remote code execution wit…",
     "tweettime": "2024-03-15, 13:35:52",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1768632208611557810",
@@ -167,10 +180,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html"
     ],
-    "tweetfavorites": 93,
+    "tweetfavorites": 94,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 47,
+    "tweetretweets": 48,
     "tweettext": "Researchers detail a high-severity flaw in #Kubernetes, CVE-2023-5528, that allowed attackers remote code execution with SYSTEM privileges on Windows endpoints within a cluster.\n\nLearn more: https://t.co/mBFuSM1SuG\n\n#hacking #cybersecurity #infosec",
     "tweettime": "2024-03-14, 12:02:06",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1768246221502591129",
