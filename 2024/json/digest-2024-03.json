@@ -22,6 +22,16 @@
     "username": "kmkz_security"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 114,
+    "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-6241, a vulnerability in the Arm Mali GPU that I reported last November to gain arbitrary kerne…",
+    "tweettime": "2024-03-18, 16:34:30",
+    "tweeturl": "https://twitter.com/chompie1337/status/1769764325332222150",
+    "username": "chompie1337"
+}
+{
     "tweetfavorites": 124,
     "tweetquotes": 0,
     "tweetreplies": 2,
