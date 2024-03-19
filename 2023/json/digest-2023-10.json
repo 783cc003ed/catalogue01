@@ -542,7 +542,7 @@
     "tweetfavorites": 634,
     "tweetquotes": 6,
     "tweetreplies": 8,
-    "tweetretweets": 172,
+    "tweetretweets": 171,
     "tweettext": "⚠️ We have reproduced CVE-2023-22515 in Atlassian Confluence.\n\nBroken access control allows unauthenticated users to gain administrative access to the web application! \n\nUpdate your software ASAP! https://t.co/MlE4ygyf3E",
     "tweettime": "2023-10-10, 11:05:51",
     "tweeturl": "https://twitter.com/ptswarm/status/1711699559359865200",
