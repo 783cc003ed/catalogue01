@@ -28,7 +28,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 90,
+    "tweetretweets": 118,
     "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-6241, a vulnerability in the Arm Mali GPU that I reported last November to gain arbitrary kerne…",
     "tweettime": "2024-03-18, 17:26:24",
     "tweeturl": "https://twitter.com/kmkz_security/status/1769777386868916697",
@@ -105,10 +105,10 @@
         "https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762",
         "https://infosec.exchange/@raptor/112109874065155645"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 51,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 13,
+    "tweetretweets": 19,
     "tweettext": "Two Bytes is Plenty: #FortiGate #RCE with CVE-2024-21762 ✊ \n\nhttps://t.co/riQiuMpKSV\n\nhttps://t.co/E2DIsXJuhc",
     "tweettime": "2024-03-17, 07:35:39",
     "tweeturl": "https://twitter.com/0xdea/status/1769266332233502859",
@@ -213,10 +213,10 @@
     "expanded_url": [
         "https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP"
     ],
-    "tweetfavorites": 121,
+    "tweetfavorites": 128,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 39,
+    "tweetretweets": 45,
     "tweettext": "GitHub - Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP - https://t.co/goqwgHeCM5",
     "tweettime": "2024-03-15, 06:33:31",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1768525918992232611",
@@ -269,10 +269,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html"
     ],
-    "tweetfavorites": 70,
+    "tweetfavorites": 71,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 28,
+    "tweetretweets": 27,
     "tweettext": "🛑 A new DarkGate #malware campaign uses a recently patched #Microsoft Windows flaw (CVE-2024-21412) to deploy malicious software via bogus installers.\n\nLearn more: https://t.co/J8OjMzntrR\n\n#hacking #cybersecurity",
     "tweettime": "2024-03-14, 04:59:15",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1768139807278932067",
@@ -295,7 +295,7 @@
     "expanded_url": [
         "https://github.com/nettitude/CVE-2024-25153"
     ],
-    "tweetfavorites": 42,
+    "tweetfavorites": 44,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 17,
@@ -466,7 +466,7 @@
     "expanded_url": [
         "https://t.zsxq.com/183GqPIax"
     ],
-    "tweetfavorites": 84,
+    "tweetfavorites": 86,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 14,
@@ -1114,7 +1114,7 @@
     "expanded_url": [
         "https://github.com/BishopFox/cve-2024-21762-check"
     ],
-    "tweetfavorites": 92,
+    "tweetfavorites": 93,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 34,
