@@ -1251,7 +1251,7 @@
     "tweetfavorites": 75,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 13,
+    "tweetretweets": 12,
     "tweettext": "Apple Safari In-The-Wild memory corruption vulnerability (CVE-2023-42917 [265067]) happens because flattenDictionaryStructure can shrink butterfly for named properties (like Array shift/unshift) and got exploited by triggering a race condition:\nhttps://t.co/LJyHF4QQSr",
     "tweettime": "2023-12-05, 16:47:57",
     "tweeturl": "https://twitter.com/hosselot/status/1732079371219804299",
