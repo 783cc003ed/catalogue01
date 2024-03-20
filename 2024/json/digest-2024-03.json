@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://blog.theori.io/chaining-n-days-to-compromise-all-part-1-chrome-renderer-rce-1afccf56721b?source=social.tw"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 55,
+    "tweettext": "We've started a blog series on N-day full chain exploits.\n\nThe first part is about chrome renderer exploit, CVE-2023-3079.\n\nCheck it now!👇👇\nhttps://t.co/JTU6RZD2g4\n\n#Theori #티오리 #Blog #Research #Fermium252 #Chrome #VirtualMachine #CVE #Vulnerability",
+    "tweettime": "2024-03-20, 07:00:18",
+    "tweeturl": "https://twitter.com/theori_io/status/1770344597102923899",
+    "username": "theori_io"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/poc-releases-for-0-day-cve-2024-21762-fortigate-sslvpn-flaw-over-133k-remain-vulnerable/"
     ],
     "tweetfavorites": 113,
@@ -28,7 +41,7 @@
     "tweetfavorites": 53,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 13,
+    "tweetretweets": 14,
     "tweettext": "In this post, @mmolgtm  exploits CVE-2023-6241, a vulnerability in the Arm Mali GPU, to gain arbitrary kernel code execution and root on an Android Pixel 8, even when Memory Tagging Extension (MTE) is enabled on the device. https://t.co/acHRa63s6p https://t.co/qG4nCZ20qk",
     "tweettime": "2024-03-18, 17:45:53",
     "tweeturl": "https://twitter.com/GHSecurityLab/status/1769782288533881051",
