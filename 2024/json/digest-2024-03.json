@@ -137,10 +137,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 42,
+    "tweetfavorites": 77,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 29,
     "tweettext": "🆕🆕🆕Security Research: Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762\n📰The research details the steps to identify the patched vulnerability and produce a working exploit.\n⚠️⚠️It is another case of a network/security appliance having a pretty serious memory corruption… https://t.co/E6rpK5t71V",
     "tweettime": "2024-03-18, 04:01:35",
     "tweeturl": "https://twitter.com/HunterMapping/status/1769574848999919631",
@@ -210,10 +210,10 @@
     "expanded_url": [
         "https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762"
     ],
-    "tweetfavorites": 309,
+    "tweetfavorites": 318,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 93,
+    "tweetretweets": 98,
     "tweettext": "At @assetnote, our security research team has worked tirelessly to build capabilities to exploit CVE-2024-21762, a pre-auth RCE vulnerability in FortiGate SSLVPN. 150k+ instances of this on the internet. Dylan explained his journey in our blog: https://t.co/O2CFlqAbWP",
     "tweettime": "2024-03-15, 21:00:00",
     "tweeturl": "https://twitter.com/infosec_au/status/1768743977564393950",
