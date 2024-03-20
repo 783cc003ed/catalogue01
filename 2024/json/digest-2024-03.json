@@ -1,5 +1,28 @@
 {
     "expanded_url": [
+        "https://securityonline.info/poc-releases-for-0-day-cve-2024-21762-fortigate-sslvpn-flaw-over-133k-remain-vulnerable/"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 39,
+    "tweettext": "PoC Releases for 0-day CVE-2024-21762 FortiGate SSLVPN Flaw, Over 133K Remain Vulnerable https://t.co/aEhe1IUBRa",
+    "tweettime": "2024-03-19, 15:28:24",
+    "tweeturl": "https://twitter.com/Dinosn/status/1770110079288615145",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 119,
+    "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-6241, a vulnerability in the Arm Mali GPU that I reported last November to gain arbitrary kerne…",
+    "tweettime": "2024-03-19, 14:45:48",
+    "tweeturl": "https://twitter.com/0vercl0k/status/1770099357783818508",
+    "username": "0vercl0k"
+}
+{
+    "expanded_url": [
         "https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/"
     ],
     "tweetfavorites": 53,
@@ -33,6 +56,16 @@
     "tweettime": "2024-03-18, 17:26:24",
     "tweeturl": "https://twitter.com/kmkz_security/status/1769777386868916697",
     "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 120,
+    "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-6241, a vulnerability in the Arm Mali GPU that I reported last November to gain arbitrary kerne…",
+    "tweettime": "2024-03-18, 17:21:02",
+    "tweeturl": "https://twitter.com/steventseeley/status/1769776034528874955",
+    "username": "steventseeley"
 }
 {
     "tweetfavorites": 0,
@@ -545,7 +578,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 38,
+    "tweetretweets": 39,
     "tweettext": "RT @DhiyaneshDK: Scan for [CVE-2023-49785] ChatGPT-Next-Web - SSRF/XSS (https://t.co/acAaQmQlkB) [critical] using @pdnuclei \n\nNuclei Templa…",
     "tweettime": "2024-03-11, 19:02:22",
     "tweeturl": "https://twitter.com/pdnuclei/status/1767264821366419874",
