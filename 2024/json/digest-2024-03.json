@@ -91,10 +91,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/fortra-patches-critical-rce.html"
     ],
-    "tweetfavorites": 58,
+    "tweetfavorites": 60,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 29,
+    "tweetretweets": 30,
     "tweettext": "Fortra has patched a critical flaw (CVE-2024-25153) in FileCatalyst file transfer, preventing unauthorized remote code execution and blocking attackers from taking full control of vulnerable servers.\n\nRead details: https://t.co/lvYRUu5O20\n\nPatch immediately.\n\n#cybersecurity",
     "tweettime": "2024-03-18, 13:01:16",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1769710664308687013",
@@ -210,7 +210,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/ghostrace-new-data-leak-vulnerability.html"
     ],
-    "tweetfavorites": 145,
+    "tweetfavorites": 144,
     "tweetquotes": 4,
     "tweetreplies": 1,
     "tweetretweets": 70,
