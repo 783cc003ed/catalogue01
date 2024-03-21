@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "RT @theori_io: We've started a blog series on N-day full chain exploits.\n\nThe first part is about chrome renderer exploit, CVE-2023-3079.…",
+    "tweettime": "2024-03-20, 07:12:41",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1770347716586942572",
+    "username": "kmkz_security"
+}
+{
     "expanded_url": [
         "https://blog.theori.io/chaining-n-days-to-compromise-all-part-1-chrome-renderer-rce-1afccf56721b?source=social.tw"
     ],
