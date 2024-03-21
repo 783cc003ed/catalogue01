@@ -1084,10 +1084,10 @@
     "expanded_url": [
         "https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/"
     ],
-    "tweetfavorites": 56,
+    "tweetfavorites": 57,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 28,
+    "tweetretweets": 29,
     "tweettext": "Rapid7 is disclosing two authentication bypass vulnerabilities @stephenfewer discovered in TeamCity (CVE-2024-27198, CVE-2024-27199). CVE-2024-27198 allows for unauthenticated remote code execution. https://t.co/94KHS7tjjN",
     "tweettime": "2024-03-04, 19:38:31",
     "tweeturl": "https://twitter.com/catc0n/status/1764737202909577563",
