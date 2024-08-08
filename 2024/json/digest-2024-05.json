@@ -1,0 +1,306 @@
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/5/29/cve-2024-30043-abusing-url-parsing-confusion-to-exploit-xxe-on-sharepoint-server-and-cloud"
+    ],
+    "tweetfavorites": 258,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 87,
+    "tweettext": "CVE-2024-30043: @chudyPB details this #SharePoint XXE he discovered. He calls it one of the craziest XXEs he has ever seen, both in terms of vuln discovery and the method of triggering. He shows how it can be used for info disclosure &amp; NTLM relaying. https://t.co/BzUDEE5Cy8",
+    "tweettime": "2024-05-30, 15:48:18",
+    "tweeturl": "https://twitter.com/thezdi/status/1796207012520366552",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/advisories/windows-10-plugscheduler-elevation-of-privilege"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Last week, Microsoft released a patch for CVE-2024-26238, a Windows 10 LPE reported by @yaumn_. You can read the advisory here:\nhttps://t.co/Bn8XytOsth",
+    "tweettime": "2024-05-24, 09:41:16",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1793940320167620744",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/tree/master/nexus/CVE-2024-4956"
+    ],
+    "tweetfavorites": 241,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 72,
+    "tweettext": "Nexus Repository Manager 3 Unauthenticated Path Traversal (CVE-2024-4956)\nhttps://t.co/lb5CNJGqmD\nThis issue is similar to SpringMVC CVE-2018-1271 by @orange_8361 https://t.co/cQn9wAuuSf",
+    "tweettime": "2024-05-23, 05:41:24",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1793517567560335428",
+    "username": "phithon_xg"
+}
+{
+    "tweetfavorites": 260,
+    "tweetquotes": 6,
+    "tweetreplies": 11,
+    "tweetretweets": 22,
+    "tweettext": "With the help of my friend, \n\nI successfully reproduced  CVE-2024-4956\n\nunauth file read in Nexus Repository 3 https://t.co/LYjfCZc1It",
+    "tweettime": "2024-05-22, 14:48:51",
+    "tweeturl": "https://twitter.com/chybeta/status/1793292950341869665",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/advisories/code-execution-in-cisco-secure-client-with-nam"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 31,
+    "tweettext": "CVE-2024-20391 - Our ninjas @l4x4 and @k3vinTell discovered that a mouse and a vulnerable Cisco NAM Client is all you need to get SYSTEM privileges from unauthenticated physical access.\nhttps://t.co/L5BXrrF3HQ",
+    "tweettime": "2024-05-17, 13:16:26",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1791457754437112174",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://github.com/blackorbird/APT_REPORT/blob/master/NSOGroup/Asia-24-Frielingsdorf-YouShallNotPassAnalysing.pdf",
+        "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"
+    ],
+    "tweetfavorites": 132,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "Analysing a NSO iOS Spyware Sample(#blastpass)\nCVE-2023-41064 + CVE-2023-41061 + WebP Vulnerability CVE-2023-4863\nhttps://t.co/BXKmQ2k3yt\nREF:\nhttps://t.co/Sh5LijD98h https://t.co/Ec1LbdXFtz",
+    "tweettime": "2024-05-10, 02:01:34",
+    "tweeturl": "https://twitter.com/blackorbird/status/1788751202509021443",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://core.trac.wordpress.org/changeset/57951/branches/6.4/src/wp-includes/blocks/avatar.php"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2024-4439: Wordpress Core &lt; 6.5.2 Unauthenticated Stored XSS \nhttps://t.co/RWMRxztIL8\n\nNote: enable \"Link to user profile\" and \"Open in new tab\" before reproduce. https://t.co/yd9xP2nJTx",
+    "tweettime": "2024-05-07, 11:29:29",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1787806957841100998",
+    "username": "phithon_xg"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome"
+    ],
+    "tweetfavorites": 320,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 121,
+    "tweettext": "In a new guest blog, #Pwn2Own winner @_manfp details CVE-2024-2887 - a bug he used to exploit both #Chrome and #Edge during the contest on his way to winning Master of Pwn. He breaks down the root cause and shows how he exploited it. Read the details at https://t.co/BgMGfczO8U",
+    "tweettime": "2024-05-02, 16:16:27",
+    "tweeturl": "https://twitter.com/thezdi/status/1786067235267662055",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/5/29/cve-2024-30043-abusing-url-parsing-confusion-to-exploit-xxe-on-sharepoint-server-and-cloud"
+    ],
+    "tweetfavorites": 258,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 87,
+    "tweettext": "CVE-2024-30043: @chudyPB details this #SharePoint XXE he discovered. He calls it one of the craziest XXEs he has ever seen, both in terms of vuln discovery and the method of triggering. He shows how it can be used for info disclosure &amp; NTLM relaying. https://t.co/BzUDEE5Cy8",
+    "tweettime": "2024-05-30, 15:48:18",
+    "tweeturl": "https://twitter.com/thezdi/status/1796207012520366552",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/advisories/windows-10-plugscheduler-elevation-of-privilege"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Last week, Microsoft released a patch for CVE-2024-26238, a Windows 10 LPE reported by @yaumn_. You can read the advisory here:\nhttps://t.co/Bn8XytOsth",
+    "tweettime": "2024-05-24, 09:41:16",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1793940320167620744",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/tree/master/nexus/CVE-2024-4956"
+    ],
+    "tweetfavorites": 241,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 72,
+    "tweettext": "Nexus Repository Manager 3 Unauthenticated Path Traversal (CVE-2024-4956)\nhttps://t.co/lb5CNJGqmD\nThis issue is similar to SpringMVC CVE-2018-1271 by @orange_8361 https://t.co/cQn9wAuuSf",
+    "tweettime": "2024-05-23, 05:41:24",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1793517567560335428",
+    "username": "phithon_xg"
+}
+{
+    "tweetfavorites": 260,
+    "tweetquotes": 6,
+    "tweetreplies": 11,
+    "tweetretweets": 22,
+    "tweettext": "With the help of my friend, \n\nI successfully reproduced  CVE-2024-4956\n\nunauth file read in Nexus Repository 3 https://t.co/LYjfCZc1It",
+    "tweettime": "2024-05-22, 14:48:51",
+    "tweeturl": "https://twitter.com/chybeta/status/1793292950341869665",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/advisories/code-execution-in-cisco-secure-client-with-nam"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 31,
+    "tweettext": "CVE-2024-20391 - Our ninjas @l4x4 and @k3vinTell discovered that a mouse and a vulnerable Cisco NAM Client is all you need to get SYSTEM privileges from unauthenticated physical access.\nhttps://t.co/L5BXrrF3HQ",
+    "tweettime": "2024-05-17, 13:16:26",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1791457754437112174",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://github.com/blackorbird/APT_REPORT/blob/master/NSOGroup/Asia-24-Frielingsdorf-YouShallNotPassAnalysing.pdf",
+        "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"
+    ],
+    "tweetfavorites": 132,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "Analysing a NSO iOS Spyware Sample(#blastpass)\nCVE-2023-41064 + CVE-2023-41061 + WebP Vulnerability CVE-2023-4863\nhttps://t.co/BXKmQ2k3yt\nREF:\nhttps://t.co/Sh5LijD98h https://t.co/Ec1LbdXFtz",
+    "tweettime": "2024-05-10, 02:01:34",
+    "tweeturl": "https://twitter.com/blackorbird/status/1788751202509021443",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://core.trac.wordpress.org/changeset/57951/branches/6.4/src/wp-includes/blocks/avatar.php"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2024-4439: Wordpress Core &lt; 6.5.2 Unauthenticated Stored XSS \nhttps://t.co/RWMRxztIL8\n\nNote: enable \"Link to user profile\" and \"Open in new tab\" before reproduce. https://t.co/yd9xP2nJTx",
+    "tweettime": "2024-05-07, 11:29:29",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1787806957841100998",
+    "username": "phithon_xg"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome"
+    ],
+    "tweetfavorites": 320,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 121,
+    "tweettext": "In a new guest blog, #Pwn2Own winner @_manfp details CVE-2024-2887 - a bug he used to exploit both #Chrome and #Edge during the contest on his way to winning Master of Pwn. He breaks down the root cause and shows how he exploited it. Read the details at https://t.co/BgMGfczO8U",
+    "tweettime": "2024-05-02, 16:16:27",
+    "tweeturl": "https://twitter.com/thezdi/status/1786067235267662055",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/5/29/cve-2024-30043-abusing-url-parsing-confusion-to-exploit-xxe-on-sharepoint-server-and-cloud"
+    ],
+    "tweetfavorites": 258,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 87,
+    "tweettext": "CVE-2024-30043: @chudyPB details this #SharePoint XXE he discovered. He calls it one of the craziest XXEs he has ever seen, both in terms of vuln discovery and the method of triggering. He shows how it can be used for info disclosure &amp; NTLM relaying. https://t.co/BzUDEE5Cy8",
+    "tweettime": "2024-05-30, 15:48:18",
+    "tweeturl": "https://twitter.com/thezdi/status/1796207012520366552",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/advisories/windows-10-plugscheduler-elevation-of-privilege"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Last week, Microsoft released a patch for CVE-2024-26238, a Windows 10 LPE reported by @yaumn_. You can read the advisory here:\nhttps://t.co/Bn8XytOsth",
+    "tweettime": "2024-05-24, 09:41:16",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1793940320167620744",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/tree/master/nexus/CVE-2024-4956"
+    ],
+    "tweetfavorites": 241,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 72,
+    "tweettext": "Nexus Repository Manager 3 Unauthenticated Path Traversal (CVE-2024-4956)\nhttps://t.co/lb5CNJGqmD\nThis issue is similar to SpringMVC CVE-2018-1271 by @orange_8361 https://t.co/cQn9wAuuSf",
+    "tweettime": "2024-05-23, 05:41:24",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1793517567560335428",
+    "username": "phithon_xg"
+}
+{
+    "tweetfavorites": 260,
+    "tweetquotes": 6,
+    "tweetreplies": 11,
+    "tweetretweets": 22,
+    "tweettext": "With the help of my friend, \n\nI successfully reproduced  CVE-2024-4956\n\nunauth file read in Nexus Repository 3 https://t.co/LYjfCZc1It",
+    "tweettime": "2024-05-22, 14:48:51",
+    "tweeturl": "https://twitter.com/chybeta/status/1793292950341869665",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/advisories/code-execution-in-cisco-secure-client-with-nam"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 31,
+    "tweettext": "CVE-2024-20391 - Our ninjas @l4x4 and @k3vinTell discovered that a mouse and a vulnerable Cisco NAM Client is all you need to get SYSTEM privileges from unauthenticated physical access.\nhttps://t.co/L5BXrrF3HQ",
+    "tweettime": "2024-05-17, 13:16:26",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1791457754437112174",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://github.com/blackorbird/APT_REPORT/blob/master/NSOGroup/Asia-24-Frielingsdorf-YouShallNotPassAnalysing.pdf",
+        "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"
+    ],
+    "tweetfavorites": 132,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "Analysing a NSO iOS Spyware Sample(#blastpass)\nCVE-2023-41064 + CVE-2023-41061 + WebP Vulnerability CVE-2023-4863\nhttps://t.co/BXKmQ2k3yt\nREF:\nhttps://t.co/Sh5LijD98h https://t.co/Ec1LbdXFtz",
+    "tweettime": "2024-05-10, 02:01:34",
+    "tweeturl": "https://twitter.com/blackorbird/status/1788751202509021443",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://core.trac.wordpress.org/changeset/57951/branches/6.4/src/wp-includes/blocks/avatar.php"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2024-4439: Wordpress Core &lt; 6.5.2 Unauthenticated Stored XSS \nhttps://t.co/RWMRxztIL8\n\nNote: enable \"Link to user profile\" and \"Open in new tab\" before reproduce. https://t.co/yd9xP2nJTx",
+    "tweettime": "2024-05-07, 11:29:29",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1787806957841100998",
+    "username": "phithon_xg"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome"
+    ],
+    "tweetfavorites": 320,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 121,
+    "tweettext": "In a new guest blog, #Pwn2Own winner @_manfp details CVE-2024-2887 - a bug he used to exploit both #Chrome and #Edge during the contest on his way to winning Master of Pwn. He breaks down the root cause and shows how he exploited it. Read the details at https://t.co/BgMGfczO8U",
+    "tweettime": "2024-05-02, 16:16:27",
+    "tweeturl": "https://twitter.com/thezdi/status/1786067235267662055",
+    "username": "thezdi"
+}

