@@ -1,0 +1,138 @@
+{
+    "expanded_url": [
+        "https://clearbluejar.github.io/posts/patch-tuesday-diffing-cve-2024-20696-windows-libarchive-rce/"
+    ],
+    "tweetfavorites": 249,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 61,
+    "tweettext": "Patch diffing  CVE-2024-20696 (libarchive vulnerability) and CVE-2024-20697 using Ghidriff\n\nhttps://t.co/dextETvFy5\n\nCredits @clearbluejar\n\n#libarchive #infosec https://t.co/yxnSdcEB5V",
+    "tweettime": "2024-09-04, 07:00:26",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1831225795164926263",
+    "username": "0xor0ne"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @virusbtn: Trend Micro researchers have identified a new attack vector that exploits CVE-2023-22527 through the deployment of an in-memo…",
+    "tweettime": "2024-09-04, 06:53:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831224124972114066",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-8105-an-uefi-flaw-putting-millions-of-devices-at-risk/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 87,
+    "tweettext": "RT @Dinosn: CVE-2024-8105: An UEFI Flaw Putting Millions of Devices at Risk https://t.co/1cAD2DAzFk",
+    "tweettime": "2024-09-03, 13:14:44",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1830957600948789756",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "RT @ksg93rd: #exploit\n1. CVE-2024-20017:\nMediaTek wappd Buffer Overflow\nhttps://t.co/ie31ghtbiz\n\n2. CVE-2023-41111:\nSamsung Baseband RLC Da…",
+    "tweettime": "2024-09-02, 22:55:55",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830741472741568989",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://www.welivesecurity.com/en/eset-research/analysis-of-two-arbitrary-code-execution-vulnerabilities-affecting-wps-office/"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "Korean-speaking threat actors are on fire!🔥 Their adoption of 0-days proves once again just how resourceful, skilled, and surprisingly agile they are these days.\n\n🕵️‍♂️ Group: APT-C-60\n🏠 Origin: Known as 🇰🇷\n💥 0-day: CVE-2024-7262 and CVE-2024-7263\n🔗 Ref: https://t.co/ac3BglWvPf",
+    "tweettime": "2024-09-02, 13:07:03",
+    "tweeturl": "https://twitter.com/unpacker/status/1830593281207697782",
+    "username": "unpacker"
+}
+{
+    "expanded_url": [
+        "https://github.com/convisolabs/CVE-2024-43044-jenkins",
+        "https://blog.convisoappsec.com/en/analysis-of-cve-2024-43044/"
+    ],
+    "tweetfavorites": 165,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "🤖CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published\n🔥PoC: https://t.co/87CR2g6bUD\n🧐Deep Dive:https://t.co/1aCH9N8wul https://t.co/mxkynjmp1k",
+    "tweettime": "2024-09-02, 06:09:46",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1830488268502159869",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-43044-critical-jenkins-vulnerability-exposes-servers-to-rce-poc-exploit-published/"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published https://t.co/F7Jof6PvRe",
+    "tweettime": "2024-09-02, 03:49:07",
+    "tweeturl": "https://twitter.com/Dinosn/status/1830452871483056183",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-43044-critical-jenkins-vulnerability-exposes-servers-to-rce-poc-exploit-published/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "Jenkinsにおける重大(Critical)な脆弱性、CVE-2024-43044に対応するPoC（攻撃の概念実証コード）が公開された。任意コマンド実行により認証情報をダンプ可能なもの。 https://t.co/IWUy43opgZ",
+    "tweettime": "2024-09-02, 03:25:08",
+    "tweeturl": "https://twitter.com/__kokumoto/status/1830446836030861526",
+    "username": "__kokumoto"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "RT @hackyboiz: [Research] Hyper-V 1-day Class: CVE-2024-38080\n이번 연구글은 Hyper-V LPE 취약점인 CVE-2024-38080 patch diffing, poc 작성입니다. 익스플로잇은 못했습니…",
+    "tweettime": "2024-09-01, 13:25:24",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830235511782584382",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Well written blog post on exploiting a Use-after-Free (UaF) in Linux kernel (CVE-2024-0582, io_uring)\n\nhttps://t.co/8eKtsR9t8G\n\nCredits Oriol Castejón (@XI_Research)\n\n#iouring #infosec https://t.co/AyTftwdFRm",
+    "tweettime": "2024-09-01, 07:30:01",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1830146076742938638",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://seg-fault.gitbook.io/researchs/windows-security-research/exploit-development/mskssrv.sys-cve-2023-29360"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "RT @gh0st_R1d3r_0x9: Wrote a thing at https://t.co/e9kBTZM2Ld\n\nN-day analysis of CVE-2023-29360\n\nFeedbacks welcomed. Tried to keep it short…",
+    "tweettime": "2024-09-01, 07:23:27",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830144422090080619",
+    "username": "kmkz_security"
+}

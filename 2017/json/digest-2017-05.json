@@ -91,3 +91,408 @@
     "tweeturl": "https://twitter.com/MalwareJake/status/859382630923382784",
     "username": "MalwareJake"
 }
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1258"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 20,
+    "tweettext": "Windows MsMpEng remotely exploitable UaF due to design issue in GC engine (CVE-2017-8540) https://t.co/EWM739NZZA #vulnerability #windows",
+    "tweettime": "2017-05-30, 07:51:52",
+    "tweeturl": "https://twitter.com/x0rz/status/869461341584715776",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "https://0patch.blogspot.fr/2017/05/0patching-worst-windows-remote-code.html"
+    ],
+    "tweetfavorites": 131,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 104,
+    "tweettext": "Micropatching CVE-2017-0290 (Windows Malware Protection Engine RCE) https://t.co/0IgEw106KY #vulnerability #patching https://t.co/dbEsndhJfT",
+    "tweettime": "2017-05-15, 14:43:50",
+    "tweeturl": "https://twitter.com/x0rz/status/864129198625091584",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "https://goo.gl/I8eStO",
+        "https://twitter.com/natashenka/status/861748397409058816"
+    ],
+    "tweetfavorites": 29,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "Great Job. The POC for RCE Flaw (CVE-2017-0290) in #Microsoft Malware Protection Engine fits in a Tweet (Story: https://t.co/FWw7wtpi6X) https://t.co/D7HdA66tJT",
+    "tweettime": "2017-05-09, 08:36:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/861862540040482818",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 79,
+    "tweettext": "CVE-2017-0290: RCE as SYSTEM in Microsoft Malware Protection Engine https://t.co/pn9y8z64uF #windows #vulnerability",
+    "tweettime": "2017-05-09, 05:59:40",
+    "tweeturl": "https://twitter.com/x0rz/status/861822959731838976",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "http://e.toString.call",
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5"
+    ],
+    "tweetfavorites": 1042,
+    "tweetquotes": 70,
+    "tweetreplies": 25,
+    "tweetretweets": 888,
+    "tweettext": "CVE-2017-0290 is tweetable :)\n\nvar e = new Error();\nhttps://t.co/0RDygaVW6B({message : 7 });\n\nhttps://t.co/xkH9SQpNJE",
+    "tweettime": "2017-05-09, 01:03:23",
+    "tweeturl": "https://twitter.com/natashenka/status/861748397409058816",
+    "username": "natashenka"
+}
+{
+    "expanded_url": [
+        "http://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html"
+    ],
+    "tweetfavorites": 274,
+    "tweetquotes": 13,
+    "tweetreplies": 11,
+    "tweetretweets": 198,
+    "tweettext": "I wrote \"Exploiting MS16-145: MS Edge TypedArray.sort UAF (CVE-2016-7288)\", involving Quicksort, COOP and more https://t.co/onczuZGTPr",
+    "tweettime": "2017-05-02, 12:52:24",
+    "tweeturl": "https://twitter.com/fdfalcon/status/859390114916696064",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "Complete walkthrough of exploiting CVE-2017-2636 and a novel SMEP bypass technique. Well documented! https://t.co/PxLv5Y5Wc7",
+    "tweettime": "2017-05-02, 12:22:40",
+    "tweeturl": "https://twitter.com/MalwareJake/status/859382630923382784",
+    "username": "MalwareJake"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1258"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 20,
+    "tweettext": "Windows MsMpEng remotely exploitable UaF due to design issue in GC engine (CVE-2017-8540) https://t.co/EWM739NZZA #vulnerability #windows",
+    "tweettime": "2017-05-30, 07:51:52",
+    "tweeturl": "https://twitter.com/x0rz/status/869461341584715776",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "https://0patch.blogspot.fr/2017/05/0patching-worst-windows-remote-code.html"
+    ],
+    "tweetfavorites": 131,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 104,
+    "tweettext": "Micropatching CVE-2017-0290 (Windows Malware Protection Engine RCE) https://t.co/0IgEw106KY #vulnerability #patching https://t.co/dbEsndhJfT",
+    "tweettime": "2017-05-15, 14:43:50",
+    "tweeturl": "https://twitter.com/x0rz/status/864129198625091584",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "https://goo.gl/I8eStO",
+        "https://twitter.com/natashenka/status/861748397409058816"
+    ],
+    "tweetfavorites": 29,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "Great Job. The POC for RCE Flaw (CVE-2017-0290) in #Microsoft Malware Protection Engine fits in a Tweet (Story: https://t.co/FWw7wtpi6X) https://t.co/D7HdA66tJT",
+    "tweettime": "2017-05-09, 08:36:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/861862540040482818",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 79,
+    "tweettext": "CVE-2017-0290: RCE as SYSTEM in Microsoft Malware Protection Engine https://t.co/pn9y8z64uF #windows #vulnerability",
+    "tweettime": "2017-05-09, 05:59:40",
+    "tweeturl": "https://twitter.com/x0rz/status/861822959731838976",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "http://e.toString.call",
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5"
+    ],
+    "tweetfavorites": 1042,
+    "tweetquotes": 70,
+    "tweetreplies": 25,
+    "tweetretweets": 888,
+    "tweettext": "CVE-2017-0290 is tweetable :)\n\nvar e = new Error();\nhttps://t.co/0RDygaVW6B({message : 7 });\n\nhttps://t.co/xkH9SQpNJE",
+    "tweettime": "2017-05-09, 01:03:23",
+    "tweeturl": "https://twitter.com/natashenka/status/861748397409058816",
+    "username": "natashenka"
+}
+{
+    "expanded_url": [
+        "http://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html"
+    ],
+    "tweetfavorites": 274,
+    "tweetquotes": 13,
+    "tweetreplies": 11,
+    "tweetretweets": 198,
+    "tweettext": "I wrote \"Exploiting MS16-145: MS Edge TypedArray.sort UAF (CVE-2016-7288)\", involving Quicksort, COOP and more https://t.co/onczuZGTPr",
+    "tweettime": "2017-05-02, 12:52:24",
+    "tweeturl": "https://twitter.com/fdfalcon/status/859390114916696064",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "Complete walkthrough of exploiting CVE-2017-2636 and a novel SMEP bypass technique. Well documented! https://t.co/PxLv5Y5Wc7",
+    "tweettime": "2017-05-02, 12:22:40",
+    "tweeturl": "https://twitter.com/MalwareJake/status/859382630923382784",
+    "username": "MalwareJake"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1258"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 20,
+    "tweettext": "Windows MsMpEng remotely exploitable UaF due to design issue in GC engine (CVE-2017-8540) https://t.co/EWM739NZZA #vulnerability #windows",
+    "tweettime": "2017-05-30, 07:51:52",
+    "tweeturl": "https://twitter.com/x0rz/status/869461341584715776",
+    "username": "x0rz"
+}
+{
+    "tweetfavorites": 160,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 103,
+    "tweettext": "Here the memory disclosure fix in nt!NtTraceControl (CVE-2017-0259)\nfor \"Windows 10\" v1703 released in May (win32k filter bypass !) https://t.co/Veqe5k5gjb",
+    "tweettime": "2017-05-25, 19:42:17",
+    "tweeturl": "https://twitter.com/NicoEconomou/status/867828183231377408",
+    "username": "NicoEconomou"
+}
+{
+    "expanded_url": [
+        "https://0patch.blogspot.fr/2017/05/0patching-worst-windows-remote-code.html"
+    ],
+    "tweetfavorites": 131,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 104,
+    "tweettext": "Micropatching CVE-2017-0290 (Windows Malware Protection Engine RCE) https://t.co/0IgEw106KY #vulnerability #patching https://t.co/dbEsndhJfT",
+    "tweettime": "2017-05-15, 14:43:50",
+    "tweeturl": "https://twitter.com/x0rz/status/864129198625091584",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "https://goo.gl/I8eStO",
+        "https://twitter.com/natashenka/status/861748397409058816"
+    ],
+    "tweetfavorites": 29,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "Great Job. The POC for RCE Flaw (CVE-2017-0290) in #Microsoft Malware Protection Engine fits in a Tweet (Story: https://t.co/FWw7wtpi6X) https://t.co/D7HdA66tJT",
+    "tweettime": "2017-05-09, 08:36:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/861862540040482818",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 79,
+    "tweettext": "CVE-2017-0290: RCE as SYSTEM in Microsoft Malware Protection Engine https://t.co/pn9y8z64uF #windows #vulnerability",
+    "tweettime": "2017-05-09, 05:59:40",
+    "tweeturl": "https://twitter.com/x0rz/status/861822959731838976",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "http://e.toString.call",
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5"
+    ],
+    "tweetfavorites": 1042,
+    "tweetquotes": 70,
+    "tweetreplies": 25,
+    "tweetretweets": 888,
+    "tweettext": "CVE-2017-0290 is tweetable :)\n\nvar e = new Error();\nhttps://t.co/0RDygaVW6B({message : 7 });\n\nhttps://t.co/xkH9SQpNJE",
+    "tweettime": "2017-05-09, 01:03:23",
+    "tweeturl": "https://twitter.com/natashenka/status/861748397409058816",
+    "username": "natashenka"
+}
+{
+    "expanded_url": [
+        "http://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html"
+    ],
+    "tweetfavorites": 274,
+    "tweetquotes": 13,
+    "tweetreplies": 11,
+    "tweetretweets": 198,
+    "tweettext": "I wrote \"Exploiting MS16-145: MS Edge TypedArray.sort UAF (CVE-2016-7288)\", involving Quicksort, COOP and more https://t.co/onczuZGTPr",
+    "tweettime": "2017-05-02, 12:52:24",
+    "tweeturl": "https://twitter.com/fdfalcon/status/859390114916696064",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "Complete walkthrough of exploiting CVE-2017-2636 and a novel SMEP bypass technique. Well documented! https://t.co/PxLv5Y5Wc7",
+    "tweettime": "2017-05-02, 12:22:40",
+    "tweeturl": "https://twitter.com/MalwareJake/status/859382630923382784",
+    "username": "MalwareJake"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1258"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 20,
+    "tweettext": "Windows MsMpEng remotely exploitable UaF due to design issue in GC engine (CVE-2017-8540) https://t.co/EWM739NZZA #vulnerability #windows",
+    "tweettime": "2017-05-30, 07:51:52",
+    "tweeturl": "https://twitter.com/x0rz/status/869461341584715776",
+    "username": "x0rz"
+}
+{
+    "tweetfavorites": 160,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 103,
+    "tweettext": "Here the memory disclosure fix in nt!NtTraceControl (CVE-2017-0259)\nfor \"Windows 10\" v1703 released in May (win32k filter bypass !) https://t.co/Veqe5k5gjb",
+    "tweettime": "2017-05-25, 19:42:17",
+    "tweeturl": "https://twitter.com/NicoEconomou/status/867828183231377408",
+    "username": "NicoEconomou"
+}
+{
+    "expanded_url": [
+        "https://0patch.blogspot.fr/2017/05/0patching-worst-windows-remote-code.html"
+    ],
+    "tweetfavorites": 131,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 104,
+    "tweettext": "Micropatching CVE-2017-0290 (Windows Malware Protection Engine RCE) https://t.co/0IgEw106KY #vulnerability #patching https://t.co/dbEsndhJfT",
+    "tweettime": "2017-05-15, 14:43:50",
+    "tweeturl": "https://twitter.com/x0rz/status/864129198625091584",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "https://goo.gl/I8eStO",
+        "https://twitter.com/natashenka/status/861748397409058816"
+    ],
+    "tweetfavorites": 29,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "Great Job. The POC for RCE Flaw (CVE-2017-0290) in #Microsoft Malware Protection Engine fits in a Tweet (Story: https://t.co/FWw7wtpi6X) https://t.co/D7HdA66tJT",
+    "tweettime": "2017-05-09, 08:36:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/861862540040482818",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 79,
+    "tweettext": "CVE-2017-0290: RCE as SYSTEM in Microsoft Malware Protection Engine https://t.co/pn9y8z64uF #windows #vulnerability",
+    "tweettime": "2017-05-09, 05:59:40",
+    "tweeturl": "https://twitter.com/x0rz/status/861822959731838976",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "http://e.toString.call",
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5"
+    ],
+    "tweetfavorites": 1042,
+    "tweetquotes": 70,
+    "tweetreplies": 25,
+    "tweetretweets": 888,
+    "tweettext": "CVE-2017-0290 is tweetable :)\n\nvar e = new Error();\nhttps://t.co/0RDygaVW6B({message : 7 });\n\nhttps://t.co/xkH9SQpNJE",
+    "tweettime": "2017-05-09, 01:03:23",
+    "tweeturl": "https://twitter.com/natashenka/status/861748397409058816",
+    "username": "natashenka"
+}
+{
+    "expanded_url": [
+        "https://exploitbox.io/vuln/WordPress-Exploit-4-6-RCE-CODE-EXEC-CVE-2016-10033.html"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 91,
+    "tweettext": "CVE-2016-10033: Core WordPress unauth RCE, with PoC https://t.co/6PzKUUtQl5 #wordpress #vulnerability https://t.co/bCaHRcjJse",
+    "tweettime": "2017-05-04, 07:43:45",
+    "tweeturl": "https://twitter.com/x0rz/status/860037214268522497",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "http://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html"
+    ],
+    "tweetfavorites": 274,
+    "tweetquotes": 13,
+    "tweetreplies": 11,
+    "tweetretweets": 198,
+    "tweettext": "I wrote \"Exploiting MS16-145: MS Edge TypedArray.sort UAF (CVE-2016-7288)\", involving Quicksort, COOP and more https://t.co/onczuZGTPr",
+    "tweettime": "2017-05-02, 12:52:24",
+    "tweeturl": "https://twitter.com/fdfalcon/status/859390114916696064",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "Complete walkthrough of exploiting CVE-2017-2636 and a novel SMEP bypass technique. Well documented! https://t.co/PxLv5Y5Wc7",
+    "tweettime": "2017-05-02, 12:22:40",
+    "tweeturl": "https://twitter.com/MalwareJake/status/859382630923382784",
+    "username": "MalwareJake"
+}

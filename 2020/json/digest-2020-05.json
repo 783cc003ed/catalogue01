@@ -235,6 +235,1275 @@
 }
 {
     "expanded_url": [
+        "https://bit.ly/3b5DZbH"
+    ],
+    "tweetfavorites": 167,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "Analyzing a trio of RCE bugs in #Intel wireless drivers - @trendytofu looks at CVE-2020-0558 and provides details on the root causes. He also includes PoC for you to test your adapters. Details at https://t.co/jwhpY0dtaT",
+    "tweettime": "2020-05-05, 16:25:13",
+    "tweeturl": "https://twitter.com/thezdi/status/1257707933649035264",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/05/saltstack-rce-exploit.html"
+    ],
+    "tweetfavorites": 296,
+    "tweetquotes": 25,
+    "tweetreplies": 3,
+    "tweetretweets": 230,
+    "tweettext": "WARNING — Just within a day after public disclosure of SaltStack RCE #vulnerability (CVE-2020-11651), hackers have started exploiting unpatched servers.\n\n✅ LineageOS [hacked]\n✅ Ghost CMS [hacked]\n✅ DigiCert [hacked]\n\nRead more: https://t.co/SY54kVTMsK\n\n#infosec\n#cybersecurity https://t.co/x9238WFWvS",
+    "tweettime": "2020-05-04, 10:06:10",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1257250156652584962",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://github.com",
+        "http://dlvr.it/RVyNv2"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "(From https://t.co/OT552U6KvT): Released a public exploit (Local Privilege Escalation) for SMBv3 bug (CVE-2020-0796) https://t.co/r84NvKVrdc",
+    "tweettime": "2020-05-04, 06:42:32",
+    "tweeturl": "https://twitter.com/44CON/status/1257198909127942149",
+    "username": "44CON"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/oracle-warns-of-attacks-against-recently-patched-weblogic-security-bug/"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 56,
+    "tweettext": "Oracle has published a security alert last night warning of attacks against a recently patched WebLogic security bug\n\n- The bug is CVE-2020-2883, a no-auth RCE in WebLogic\n- CVSSv3 of 9.8/10\n- Bug is patched, but PoC code has been published online\n\nhttps://t.co/AdyCFcstDx https://t.co/OsOmTh3RoK",
+    "tweettime": "2020-05-01, 11:55:33",
+    "tweeturl": "https://twitter.com/campuscodi/status/1256190520696725507",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/CVE-2020-0041"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "Discover how @bluefrostsec exploits #Android Binder to escape the Google #Chrome sandbox, attack the kernel, and obtain root privileges on a Pixel 3 device using CVE-2020-0041. https://t.co/9xtJJFBC3d\n\nDetailed writeup by @esanfelix and @jgrusko with video demo and POC on Github! https://t.co/KwUnhUmy9k",
+    "tweettime": "2020-05-29, 12:37:02",
+    "tweeturl": "https://twitter.com/_ringzer0/status/1266347819482390530",
+    "username": "_ringzer0"
+}
+{
+    "expanded_url": [
+        "https://theevilbit.github.io/posts/secure_coding_privilegedhelpertools_part3/"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "The 3rd part of my XPC series is up. This time I cover the Microsoft Auto Update LPE vulnerability (CVE-2020-0984) I found last year and was fixed recently. Great example for why proper client verification is extremely important.\nhttps://t.co/6HZKbarrra",
+    "tweettime": "2020-05-29, 05:55:16",
+    "tweeturl": "https://twitter.com/theevilbit/status/1266246713150328832",
+    "username": "theevilbit"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xwgXH"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 119,
+    "tweettext": ".@NSAGov has released a cybersecurity advisory on Russian Sandworm APT actors exploiting CVE-2019-10149, a remote code execution vulnerability in Exim. Read more at https://t.co/d77VHReUx7. #Cyber #Cybersecurity #InfoSec",
+    "tweettime": "2020-05-28, 20:19:20",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1266101773435129856",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/the-zero-day-exploits-of-operation-wizardopium/97086/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "Kaspersky publishes a report on CVE-2019-13720, the Chrome zero-day that was unearthed/patched in October 2019.\n\nPer Kaspersky, the zero-day was used by Operation WizardOpium APT in a classic watering-hole attack on a North Korea-related news site\n\nhttps://t.co/pItDW2Fh0j",
+    "tweettime": "2020-05-28, 13:00:14",
+    "tweeturl": "https://twitter.com/campuscodi/status/1265991271182741505",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2136/"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "[CPR-Zero] CVE-2020-0655 (Windows): Improper fix for CVE-2019-0887 uncovers Path Traversal issues in all versions of Windows\nhttps://t.co/ioJrKiY8Q1",
+    "tweettime": "2020-05-26, 11:31:56",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1265244274322558976",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://github.com/amartinsec/CVE-2020-12800/"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "GitHub - amartinsec/CVE-2020-12800: POC Script for CVE-2020-12800: RCE through Unrestricted File Type Upload - https://t.co/6RIG8P48i3",
+    "tweettime": "2020-05-26, 00:49:09",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1265082511245230080",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit"
+    ],
+    "tweetfavorites": 203,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 100,
+    "tweettext": "QNAP pre-auth root RCE Exploit (CVE-2019-7192 - CVE-2019-7195)  \nhttps://t.co/lhmRDoa5M4\n\n#QNAP #vulnerability #Exploit #BugBounty https://t.co/YtC1RL1W2x",
+    "tweettime": "2020-05-24, 16:37:34",
+    "tweeturl": "https://twitter.com/Th3Gundy/status/1264596414002270208",
+    "username": "Th3Gundy"
+}
+{
+    "expanded_url": [
+        "https://github.com/IdealDreamLast/CVE-2020-9484/"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 73,
+    "tweettext": "CVE-2020-9484: Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server;\n\nPOC\nhttps://t.co/mdVDnRcLTu https://t.co/hWefWUYbrL",
+    "tweettime": "2020-05-22, 08:24:41",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1263747598550212613",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://meterpreter.org/cve-2020-9484-apache-tomcat-remote-code-execution-vulnerability-alert/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2020-9484: Apache Tomcat Remote Code Execution Vulnerability\n\n[Exploit Condition]\n\n1. Server is configured to use the PersistenceManager with a FileStore\n2. The PersistenceManager is configured with sessionAttributeValueClassNameFilter=\"null\"\n\nhttps://t.co/UbHWoqN2s4",
+    "tweettime": "2020-05-22, 07:22:13",
+    "tweeturl": "https://twitter.com/wugeej/status/1263731877606682624",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/2yjHQEy"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 40,
+    "tweettext": "In his first blog for us, @_wmliang_ covers CVE-2020-8871 - a privilege escalation bug in #Parallels Desktop originally submitted by @renorobertr. Read the bug details and patch analysis at https://t.co/oNkaYN1ELI",
+    "tweettime": "2020-05-21, 17:03:44",
+    "tweeturl": "https://twitter.com/thezdi/status/1263515835144048640",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.com/goichot/CVE-2020-3153",
+        "https://github.com/goichot/CVE-2020-3153/blob/master/details.md"
+    ],
+    "tweetfavorites": 225,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 117,
+    "tweettext": "I have released my exploit for CVE-2020-3153 - Cisco AnyConnect privilege escalation through path traversal https://t.co/1xSxJUjhuJ\n\nMy notes on this vuln: https://t.co/reO88J9Bny\n\nKudos to @yorickkoster for the advisory &amp; for the -ipc help!\nThank you @maxime_tz for the diagrams!",
+    "tweettime": "2020-05-19, 19:36:46",
+    "tweeturl": "https://twitter.com/AntoineGoichot/status/1262829570836836354",
+    "username": "AntoineGoichot"
+}
+{
+    "expanded_url": [
+        "https://github.com/BC-SECURITY/Invoke-PrintDemon"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "PrintDemon - A PowerShell Empire launcher PoC using PrintDemon and Faxhell. The module has the Faxhell dll already embedded which leverages CVE-2020-1048 for privilege escalation. https://t.co/Bt695rvJA3",
+    "tweettime": "2020-05-15, 14:59:02",
+    "tweeturl": "https://twitter.com/netbiosX/status/1261310127090675713",
+    "username": "netbiosX"
+}
+{
+    "expanded_url": [
+        "https://research.checkpoint.com/2020/reverse-rdp-the-path-not-taken/"
+    ],
+    "tweetfavorites": 167,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 77,
+    "tweettext": "CVE-2019-0887: Path-Traversal -&gt; RCE in mstsc.exe. Patched with PathCchCanonicalize.\n\nCVE-2020-0655: We replaced '\\' with '/', that's it. Patched with a workaround.\n\nAs Microsoft didn't patch PathCanonicalize, you need to manually fix your own programs!\nhttps://t.co/kmpK9Ihi3Z",
+    "tweettime": "2020-05-14, 10:10:01",
+    "tweeturl": "https://twitter.com/EyalItkin/status/1260875003177861120",
+    "username": "EyalItkin"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2152/"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "[CPR-Zero] CVE-2020-1143 (Windows 10 Kernel): Use-After-Free in the NtUserGetDCEx function in win32kfull.sys\nhttps://t.co/GkRF3Nk3wN",
+    "tweettime": "2020-05-14, 09:15:38",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1260861318082564099",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://labs.redyops.com/index.php/2020/04/27/symantec-endpoint-protection-sep-14-2-eop-via-arbitrary-write/"
+    ],
+    "tweetfavorites": 387,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 192,
+    "tweettext": "Exploit code and Write-up for Symantec Endpoint Protection (SEP) 14.2 RU2 Elevation of Privileges (CVE-2020-5837) \n\nhttps://t.co/Y3AFuqXl1E\n\n#Symantec #0day #exploit #vulnerability #EoP #RedyOpsLabs #cybersecurity #infosec #bugbounty #redteam #SEP #SEPM",
+    "tweettime": "2020-05-13, 10:03:47",
+    "tweeturl": "https://twitter.com/gweeperx/status/1260511047808671745",
+    "username": "gweeperx"
+}
+{
+    "expanded_url": [
+        "https://windows-internals.com/printdemon-cve-2020-1048/"
+    ],
+    "tweetfavorites": 2273,
+    "tweetquotes": 55,
+    "tweetreplies": 32,
+    "tweetretweets": 1235,
+    "tweettext": "Attackers can exploit CVE-2020-1048 with a single PowerShell command:\n\nAdd-PrinterPort -Name c:\\windows\\system32\\ualapi.dll\n\nOn an unpatched system, this will install a persistent backdoor, that won't go away *even after you patch*.\n\nSee https://t.co/9yMSWNM8VG for more details.",
+    "tweettime": "2020-05-13, 07:05:38",
+    "tweeturl": "https://twitter.com/aionescu/status/1260466215299973121",
+    "username": "aionescu"
+}
+{
+    "expanded_url": [
+        "https://github.com/AndreyRainchik/CVE-2020-8816"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "[PoC] A Python script to exploit CVE-2020-8816, a remote code execution vulnerability on the Pi-hole\n\nThe exploit requires the path for the www-data user to be /opt/pihole:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin.\n\nhttps://t.co/tBbL7yFbmb https://t.co/vk5vCBgBZS",
+    "tweettime": "2020-05-11, 02:38:11",
+    "tweeturl": "https://twitter.com/wugeej/status/1259674133249458176",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://github.com/maxpl0it/CVE-2020-0674-Exploit"
+    ],
+    "tweetfavorites": 475,
+    "tweetquotes": 9,
+    "tweetreplies": 5,
+    "tweetretweets": 202,
+    "tweettext": "Here's my exploit for CVE-2020-0674 (Internet Explorer UAF)\n\nBonus: EMET 5.52 (the final EMET version) doesn't appear to detect this (on Windows x64 it seems)\n\nhttps://t.co/IxCfpjGBqv",
+    "tweettime": "2020-05-07, 22:03:52",
+    "tweeturl": "https://twitter.com/maxpl0it/status/1258517934718062594",
+    "username": "maxpl0it"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/3b5DZbH"
+    ],
+    "tweetfavorites": 167,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "Analyzing a trio of RCE bugs in #Intel wireless drivers - @trendytofu looks at CVE-2020-0558 and provides details on the root causes. He also includes PoC for you to test your adapters. Details at https://t.co/jwhpY0dtaT",
+    "tweettime": "2020-05-05, 16:25:13",
+    "tweeturl": "https://twitter.com/thezdi/status/1257707933649035264",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/05/saltstack-rce-exploit.html"
+    ],
+    "tweetfavorites": 296,
+    "tweetquotes": 25,
+    "tweetreplies": 3,
+    "tweetretweets": 230,
+    "tweettext": "WARNING — Just within a day after public disclosure of SaltStack RCE #vulnerability (CVE-2020-11651), hackers have started exploiting unpatched servers.\n\n✅ LineageOS [hacked]\n✅ Ghost CMS [hacked]\n✅ DigiCert [hacked]\n\nRead more: https://t.co/SY54kVTMsK\n\n#infosec\n#cybersecurity https://t.co/x9238WFWvS",
+    "tweettime": "2020-05-04, 10:06:10",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1257250156652584962",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://github.com",
+        "http://dlvr.it/RVyNv2"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "(From https://t.co/OT552U6KvT): Released a public exploit (Local Privilege Escalation) for SMBv3 bug (CVE-2020-0796) https://t.co/r84NvKVrdc",
+    "tweettime": "2020-05-04, 06:42:32",
+    "tweeturl": "https://twitter.com/44CON/status/1257198909127942149",
+    "username": "44CON"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/oracle-warns-of-attacks-against-recently-patched-weblogic-security-bug/"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 56,
+    "tweettext": "Oracle has published a security alert last night warning of attacks against a recently patched WebLogic security bug\n\n- The bug is CVE-2020-2883, a no-auth RCE in WebLogic\n- CVSSv3 of 9.8/10\n- Bug is patched, but PoC code has been published online\n\nhttps://t.co/AdyCFcstDx https://t.co/OsOmTh3RoK",
+    "tweettime": "2020-05-01, 11:55:33",
+    "tweeturl": "https://twitter.com/campuscodi/status/1256190520696725507",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/CVE-2020-0041"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "Discover how @bluefrostsec exploits #Android Binder to escape the Google #Chrome sandbox, attack the kernel, and obtain root privileges on a Pixel 3 device using CVE-2020-0041. https://t.co/9xtJJFBC3d\n\nDetailed writeup by @esanfelix and @jgrusko with video demo and POC on Github! https://t.co/KwUnhUmy9k",
+    "tweettime": "2020-05-29, 12:37:02",
+    "tweeturl": "https://twitter.com/_ringzer0/status/1266347819482390530",
+    "username": "_ringzer0"
+}
+{
+    "expanded_url": [
+        "https://theevilbit.github.io/posts/secure_coding_privilegedhelpertools_part3/"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "The 3rd part of my XPC series is up. This time I cover the Microsoft Auto Update LPE vulnerability (CVE-2020-0984) I found last year and was fixed recently. Great example for why proper client verification is extremely important.\nhttps://t.co/6HZKbarrra",
+    "tweettime": "2020-05-29, 05:55:16",
+    "tweeturl": "https://twitter.com/theevilbit/status/1266246713150328832",
+    "username": "theevilbit"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xwgXH"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 119,
+    "tweettext": ".@NSAGov has released a cybersecurity advisory on Russian Sandworm APT actors exploiting CVE-2019-10149, a remote code execution vulnerability in Exim. Read more at https://t.co/d77VHReUx7. #Cyber #Cybersecurity #InfoSec",
+    "tweettime": "2020-05-28, 20:19:20",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1266101773435129856",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/the-zero-day-exploits-of-operation-wizardopium/97086/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "Kaspersky publishes a report on CVE-2019-13720, the Chrome zero-day that was unearthed/patched in October 2019.\n\nPer Kaspersky, the zero-day was used by Operation WizardOpium APT in a classic watering-hole attack on a North Korea-related news site\n\nhttps://t.co/pItDW2Fh0j",
+    "tweettime": "2020-05-28, 13:00:14",
+    "tweeturl": "https://twitter.com/campuscodi/status/1265991271182741505",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2136/"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "[CPR-Zero] CVE-2020-0655 (Windows): Improper fix for CVE-2019-0887 uncovers Path Traversal issues in all versions of Windows\nhttps://t.co/ioJrKiY8Q1",
+    "tweettime": "2020-05-26, 11:31:56",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1265244274322558976",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://github.com/amartinsec/CVE-2020-12800/"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "GitHub - amartinsec/CVE-2020-12800: POC Script for CVE-2020-12800: RCE through Unrestricted File Type Upload - https://t.co/6RIG8P48i3",
+    "tweettime": "2020-05-26, 00:49:09",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1265082511245230080",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit"
+    ],
+    "tweetfavorites": 203,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 100,
+    "tweettext": "QNAP pre-auth root RCE Exploit (CVE-2019-7192 - CVE-2019-7195)  \nhttps://t.co/lhmRDoa5M4\n\n#QNAP #vulnerability #Exploit #BugBounty https://t.co/YtC1RL1W2x",
+    "tweettime": "2020-05-24, 16:37:34",
+    "tweeturl": "https://twitter.com/Th3Gundy/status/1264596414002270208",
+    "username": "Th3Gundy"
+}
+{
+    "expanded_url": [
+        "https://github.com/IdealDreamLast/CVE-2020-9484/"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 73,
+    "tweettext": "CVE-2020-9484: Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server;\n\nPOC\nhttps://t.co/mdVDnRcLTu https://t.co/hWefWUYbrL",
+    "tweettime": "2020-05-22, 08:24:41",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1263747598550212613",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://meterpreter.org/cve-2020-9484-apache-tomcat-remote-code-execution-vulnerability-alert/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2020-9484: Apache Tomcat Remote Code Execution Vulnerability\n\n[Exploit Condition]\n\n1. Server is configured to use the PersistenceManager with a FileStore\n2. The PersistenceManager is configured with sessionAttributeValueClassNameFilter=\"null\"\n\nhttps://t.co/UbHWoqN2s4",
+    "tweettime": "2020-05-22, 07:22:13",
+    "tweeturl": "https://twitter.com/wugeej/status/1263731877606682624",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/2yjHQEy"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 40,
+    "tweettext": "In his first blog for us, @_wmliang_ covers CVE-2020-8871 - a privilege escalation bug in #Parallels Desktop originally submitted by @renorobertr. Read the bug details and patch analysis at https://t.co/oNkaYN1ELI",
+    "tweettime": "2020-05-21, 17:03:44",
+    "tweeturl": "https://twitter.com/thezdi/status/1263515835144048640",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.com/goichot/CVE-2020-3153",
+        "https://github.com/goichot/CVE-2020-3153/blob/master/details.md"
+    ],
+    "tweetfavorites": 225,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 117,
+    "tweettext": "I have released my exploit for CVE-2020-3153 - Cisco AnyConnect privilege escalation through path traversal https://t.co/1xSxJUjhuJ\n\nMy notes on this vuln: https://t.co/reO88J9Bny\n\nKudos to @yorickkoster for the advisory &amp; for the -ipc help!\nThank you @maxime_tz for the diagrams!",
+    "tweettime": "2020-05-19, 19:36:46",
+    "tweeturl": "https://twitter.com/AntoineGoichot/status/1262829570836836354",
+    "username": "AntoineGoichot"
+}
+{
+    "expanded_url": [
+        "https://github.com/BC-SECURITY/Invoke-PrintDemon"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "PrintDemon - A PowerShell Empire launcher PoC using PrintDemon and Faxhell. The module has the Faxhell dll already embedded which leverages CVE-2020-1048 for privilege escalation. https://t.co/Bt695rvJA3",
+    "tweettime": "2020-05-15, 14:59:02",
+    "tweeturl": "https://twitter.com/netbiosX/status/1261310127090675713",
+    "username": "netbiosX"
+}
+{
+    "expanded_url": [
+        "https://research.checkpoint.com/2020/reverse-rdp-the-path-not-taken/"
+    ],
+    "tweetfavorites": 167,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 77,
+    "tweettext": "CVE-2019-0887: Path-Traversal -&gt; RCE in mstsc.exe. Patched with PathCchCanonicalize.\n\nCVE-2020-0655: We replaced '\\' with '/', that's it. Patched with a workaround.\n\nAs Microsoft didn't patch PathCanonicalize, you need to manually fix your own programs!\nhttps://t.co/kmpK9Ihi3Z",
+    "tweettime": "2020-05-14, 10:10:01",
+    "tweeturl": "https://twitter.com/EyalItkin/status/1260875003177861120",
+    "username": "EyalItkin"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2152/"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "[CPR-Zero] CVE-2020-1143 (Windows 10 Kernel): Use-After-Free in the NtUserGetDCEx function in win32kfull.sys\nhttps://t.co/GkRF3Nk3wN",
+    "tweettime": "2020-05-14, 09:15:38",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1260861318082564099",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://labs.redyops.com/index.php/2020/04/27/symantec-endpoint-protection-sep-14-2-eop-via-arbitrary-write/"
+    ],
+    "tweetfavorites": 387,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 192,
+    "tweettext": "Exploit code and Write-up for Symantec Endpoint Protection (SEP) 14.2 RU2 Elevation of Privileges (CVE-2020-5837) \n\nhttps://t.co/Y3AFuqXl1E\n\n#Symantec #0day #exploit #vulnerability #EoP #RedyOpsLabs #cybersecurity #infosec #bugbounty #redteam #SEP #SEPM",
+    "tweettime": "2020-05-13, 10:03:47",
+    "tweeturl": "https://twitter.com/gweeperx/status/1260511047808671745",
+    "username": "gweeperx"
+}
+{
+    "expanded_url": [
+        "https://windows-internals.com/printdemon-cve-2020-1048/"
+    ],
+    "tweetfavorites": 2273,
+    "tweetquotes": 55,
+    "tweetreplies": 32,
+    "tweetretweets": 1235,
+    "tweettext": "Attackers can exploit CVE-2020-1048 with a single PowerShell command:\n\nAdd-PrinterPort -Name c:\\windows\\system32\\ualapi.dll\n\nOn an unpatched system, this will install a persistent backdoor, that won't go away *even after you patch*.\n\nSee https://t.co/9yMSWNM8VG for more details.",
+    "tweettime": "2020-05-13, 07:05:38",
+    "tweeturl": "https://twitter.com/aionescu/status/1260466215299973121",
+    "username": "aionescu"
+}
+{
+    "expanded_url": [
+        "https://github.com/AndreyRainchik/CVE-2020-8816"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "[PoC] A Python script to exploit CVE-2020-8816, a remote code execution vulnerability on the Pi-hole\n\nThe exploit requires the path for the www-data user to be /opt/pihole:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin.\n\nhttps://t.co/tBbL7yFbmb https://t.co/vk5vCBgBZS",
+    "tweettime": "2020-05-11, 02:38:11",
+    "tweeturl": "https://twitter.com/wugeej/status/1259674133249458176",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://github.com/maxpl0it/CVE-2020-0674-Exploit"
+    ],
+    "tweetfavorites": 475,
+    "tweetquotes": 9,
+    "tweetreplies": 5,
+    "tweetretweets": 202,
+    "tweettext": "Here's my exploit for CVE-2020-0674 (Internet Explorer UAF)\n\nBonus: EMET 5.52 (the final EMET version) doesn't appear to detect this (on Windows x64 it seems)\n\nhttps://t.co/IxCfpjGBqv",
+    "tweettime": "2020-05-07, 22:03:52",
+    "tweeturl": "https://twitter.com/maxpl0it/status/1258517934718062594",
+    "username": "maxpl0it"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/3b5DZbH"
+    ],
+    "tweetfavorites": 167,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "Analyzing a trio of RCE bugs in #Intel wireless drivers - @trendytofu looks at CVE-2020-0558 and provides details on the root causes. He also includes PoC for you to test your adapters. Details at https://t.co/jwhpY0dtaT",
+    "tweettime": "2020-05-05, 16:25:13",
+    "tweeturl": "https://twitter.com/thezdi/status/1257707933649035264",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/05/saltstack-rce-exploit.html"
+    ],
+    "tweetfavorites": 296,
+    "tweetquotes": 25,
+    "tweetreplies": 3,
+    "tweetretweets": 230,
+    "tweettext": "WARNING — Just within a day after public disclosure of SaltStack RCE #vulnerability (CVE-2020-11651), hackers have started exploiting unpatched servers.\n\n✅ LineageOS [hacked]\n✅ Ghost CMS [hacked]\n✅ DigiCert [hacked]\n\nRead more: https://t.co/SY54kVTMsK\n\n#infosec\n#cybersecurity https://t.co/x9238WFWvS",
+    "tweettime": "2020-05-04, 10:06:10",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1257250156652584962",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://github.com",
+        "http://dlvr.it/RVyNv2"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "(From https://t.co/OT552U6KvT): Released a public exploit (Local Privilege Escalation) for SMBv3 bug (CVE-2020-0796) https://t.co/r84NvKVrdc",
+    "tweettime": "2020-05-04, 06:42:32",
+    "tweeturl": "https://twitter.com/44CON/status/1257198909127942149",
+    "username": "44CON"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/oracle-warns-of-attacks-against-recently-patched-weblogic-security-bug/"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 56,
+    "tweettext": "Oracle has published a security alert last night warning of attacks against a recently patched WebLogic security bug\n\n- The bug is CVE-2020-2883, a no-auth RCE in WebLogic\n- CVSSv3 of 9.8/10\n- Bug is patched, but PoC code has been published online\n\nhttps://t.co/AdyCFcstDx https://t.co/OsOmTh3RoK",
+    "tweettime": "2020-05-01, 11:55:33",
+    "tweeturl": "https://twitter.com/campuscodi/status/1256190520696725507",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/CVE-2020-0041"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "Discover how @bluefrostsec exploits #Android Binder to escape the Google #Chrome sandbox, attack the kernel, and obtain root privileges on a Pixel 3 device using CVE-2020-0041. https://t.co/9xtJJFBC3d\n\nDetailed writeup by @esanfelix and @jgrusko with video demo and POC on Github! https://t.co/KwUnhUmy9k",
+    "tweettime": "2020-05-29, 12:37:02",
+    "tweeturl": "https://twitter.com/_ringzer0/status/1266347819482390530",
+    "username": "_ringzer0"
+}
+{
+    "expanded_url": [
+        "https://theevilbit.github.io/posts/secure_coding_privilegedhelpertools_part3/"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "The 3rd part of my XPC series is up. This time I cover the Microsoft Auto Update LPE vulnerability (CVE-2020-0984) I found last year and was fixed recently. Great example for why proper client verification is extremely important.\nhttps://t.co/6HZKbarrra",
+    "tweettime": "2020-05-29, 05:55:16",
+    "tweeturl": "https://twitter.com/theevilbit/status/1266246713150328832",
+    "username": "theevilbit"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xwgXH"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 119,
+    "tweettext": ".@NSAGov has released a cybersecurity advisory on Russian Sandworm APT actors exploiting CVE-2019-10149, a remote code execution vulnerability in Exim. Read more at https://t.co/d77VHReUx7. #Cyber #Cybersecurity #InfoSec",
+    "tweettime": "2020-05-28, 20:19:20",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1266101773435129856",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://www.nsa.gov/News-Features/News-Stories/Article-View/Article/2196511/exim-mail-transfer-agent-actively-exploited-by-russian-gru-cyber-actors/"
+    ],
+    "tweetfavorites": 608,
+    "tweetquotes": 55,
+    "tweetreplies": 16,
+    "tweetretweets": 411,
+    "tweettext": "Sandworm Team, Russian GRU Main Center for Special Technologies actors, continue to exploit Exim mail transfer agent #vulnerability, CVE-2019-10149. \n\nPatch to the latest version to protect your networks. Learn more here: https://t.co/6HU3mSPam9 https://t.co/Btuq3KBmhM",
+    "tweettime": "2020-05-28, 15:04:02",
+    "tweeturl": "https://twitter.com/NSACyber/status/1266022426317643778",
+    "username": "NSACyber"
+}
+{
+    "expanded_url": [
+        "https://byteraptors.github.io/windows/exploitation/2020/05/24/sandboxescape.html"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 50,
+    "tweettext": "Chronicles of a Sandbox Escape: Deep Analysis of CVE-2019-0880 https://t.co/iv9XIVPEBT",
+    "tweettime": "2020-05-28, 13:22:52",
+    "tweeturl": "https://twitter.com/andersonc0d3/status/1265996967135580164",
+    "username": "andersonc0d3"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/the-zero-day-exploits-of-operation-wizardopium/97086/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "Kaspersky publishes a report on CVE-2019-13720, the Chrome zero-day that was unearthed/patched in October 2019.\n\nPer Kaspersky, the zero-day was used by Operation WizardOpium APT in a classic watering-hole attack on a North Korea-related news site\n\nhttps://t.co/pItDW2Fh0j",
+    "tweettime": "2020-05-28, 13:00:14",
+    "tweeturl": "https://twitter.com/campuscodi/status/1265991271182741505",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://siguza.github.io/psychicpaper/"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 35,
+    "tweettext": "R.I.P. CVE-2020-9842 aka \"Psychic Paper\" sandbox escape\n\nhttps://t.co/DgDksDoO81\n\nAwesome logic flaw found by @s1guza and reported to Apple by @LinusHenze. https://t.co/Ah8ztJNoBQ",
+    "tweettime": "2020-05-26, 23:09:14",
+    "tweeturl": "https://twitter.com/axi0mX/status/1265419754342215680",
+    "username": "axi0mX"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2136/"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "[CPR-Zero] CVE-2020-0655 (Windows): Improper fix for CVE-2019-0887 uncovers Path Traversal issues in all versions of Windows\nhttps://t.co/ioJrKiY8Q1",
+    "tweettime": "2020-05-26, 11:31:56",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1265244274322558976",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://github.com/amartinsec/CVE-2020-12800/"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "GitHub - amartinsec/CVE-2020-12800: POC Script for CVE-2020-12800: RCE through Unrestricted File Type Upload - https://t.co/6RIG8P48i3",
+    "tweettime": "2020-05-26, 00:49:09",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1265082511245230080",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit"
+    ],
+    "tweetfavorites": 203,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 100,
+    "tweettext": "QNAP pre-auth root RCE Exploit (CVE-2019-7192 - CVE-2019-7195)  \nhttps://t.co/lhmRDoa5M4\n\n#QNAP #vulnerability #Exploit #BugBounty https://t.co/YtC1RL1W2x",
+    "tweettime": "2020-05-24, 16:37:34",
+    "tweeturl": "https://twitter.com/Th3Gundy/status/1264596414002270208",
+    "username": "Th3Gundy"
+}
+{
+    "expanded_url": [
+        "https://github.com/IdealDreamLast/CVE-2020-9484/"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 73,
+    "tweettext": "CVE-2020-9484: Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server;\n\nPOC\nhttps://t.co/mdVDnRcLTu https://t.co/hWefWUYbrL",
+    "tweettime": "2020-05-22, 08:24:41",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1263747598550212613",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://meterpreter.org/cve-2020-9484-apache-tomcat-remote-code-execution-vulnerability-alert/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2020-9484: Apache Tomcat Remote Code Execution Vulnerability\n\n[Exploit Condition]\n\n1. Server is configured to use the PersistenceManager with a FileStore\n2. The PersistenceManager is configured with sessionAttributeValueClassNameFilter=\"null\"\n\nhttps://t.co/UbHWoqN2s4",
+    "tweettime": "2020-05-22, 07:22:13",
+    "tweeturl": "https://twitter.com/wugeej/status/1263731877606682624",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/2yjHQEy"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 40,
+    "tweettext": "In his first blog for us, @_wmliang_ covers CVE-2020-8871 - a privilege escalation bug in #Parallels Desktop originally submitted by @renorobertr. Read the bug details and patch analysis at https://t.co/oNkaYN1ELI",
+    "tweettime": "2020-05-21, 17:03:44",
+    "tweeturl": "https://twitter.com/thezdi/status/1263515835144048640",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.com/goichot/CVE-2020-3153",
+        "https://github.com/goichot/CVE-2020-3153/blob/master/details.md"
+    ],
+    "tweetfavorites": 225,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 117,
+    "tweettext": "I have released my exploit for CVE-2020-3153 - Cisco AnyConnect privilege escalation through path traversal https://t.co/1xSxJUjhuJ\n\nMy notes on this vuln: https://t.co/reO88J9Bny\n\nKudos to @yorickkoster for the advisory &amp; for the -ipc help!\nThank you @maxime_tz for the diagrams!",
+    "tweettime": "2020-05-19, 19:36:46",
+    "tweeturl": "https://twitter.com/AntoineGoichot/status/1262829570836836354",
+    "username": "AntoineGoichot"
+}
+{
+    "expanded_url": [
+        "https://www.qualys.com/2020/05/19/cve-2005-1513/remote-code-execution-qmail.txt"
+    ],
+    "tweetfavorites": 233,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 99,
+    "tweettext": "The end is near. 2020 does not forgive. \"15 years later: Remote Code Execution in qmail (CVE-2005-1513)\"  https://t.co/gWLRk6iLH4",
+    "tweettime": "2020-05-19, 18:06:49",
+    "tweeturl": "https://twitter.com/julianor/status/1262806932198432768",
+    "username": "julianor"
+}
+{
+    "expanded_url": [
+        "https://github.com/BC-SECURITY/Invoke-PrintDemon"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "PrintDemon - A PowerShell Empire launcher PoC using PrintDemon and Faxhell. The module has the Faxhell dll already embedded which leverages CVE-2020-1048 for privilege escalation. https://t.co/Bt695rvJA3",
+    "tweettime": "2020-05-15, 14:59:02",
+    "tweeturl": "https://twitter.com/netbiosX/status/1261310127090675713",
+    "username": "netbiosX"
+}
+{
+    "expanded_url": [
+        "https://research.checkpoint.com/2020/reverse-rdp-the-path-not-taken/"
+    ],
+    "tweetfavorites": 167,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 77,
+    "tweettext": "CVE-2019-0887: Path-Traversal -&gt; RCE in mstsc.exe. Patched with PathCchCanonicalize.\n\nCVE-2020-0655: We replaced '\\' with '/', that's it. Patched with a workaround.\n\nAs Microsoft didn't patch PathCanonicalize, you need to manually fix your own programs!\nhttps://t.co/kmpK9Ihi3Z",
+    "tweettime": "2020-05-14, 10:10:01",
+    "tweeturl": "https://twitter.com/EyalItkin/status/1260875003177861120",
+    "username": "EyalItkin"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2152/"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "[CPR-Zero] CVE-2020-1143 (Windows 10 Kernel): Use-After-Free in the NtUserGetDCEx function in win32kfull.sys\nhttps://t.co/GkRF3Nk3wN",
+    "tweettime": "2020-05-14, 09:15:38",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1260861318082564099",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://labs.redyops.com/index.php/2020/04/27/symantec-endpoint-protection-sep-14-2-eop-via-arbitrary-write/"
+    ],
+    "tweetfavorites": 387,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 192,
+    "tweettext": "Exploit code and Write-up for Symantec Endpoint Protection (SEP) 14.2 RU2 Elevation of Privileges (CVE-2020-5837) \n\nhttps://t.co/Y3AFuqXl1E\n\n#Symantec #0day #exploit #vulnerability #EoP #RedyOpsLabs #cybersecurity #infosec #bugbounty #redteam #SEP #SEPM",
+    "tweettime": "2020-05-13, 10:03:47",
+    "tweeturl": "https://twitter.com/gweeperx/status/1260511047808671745",
+    "username": "gweeperx"
+}
+{
+    "expanded_url": [
+        "https://windows-internals.com/printdemon-cve-2020-1048/"
+    ],
+    "tweetfavorites": 2273,
+    "tweetquotes": 55,
+    "tweetreplies": 32,
+    "tweetretweets": 1235,
+    "tweettext": "Attackers can exploit CVE-2020-1048 with a single PowerShell command:\n\nAdd-PrinterPort -Name c:\\windows\\system32\\ualapi.dll\n\nOn an unpatched system, this will install a persistent backdoor, that won't go away *even after you patch*.\n\nSee https://t.co/9yMSWNM8VG for more details.",
+    "tweettime": "2020-05-13, 07:05:38",
+    "tweeturl": "https://twitter.com/aionescu/status/1260466215299973121",
+    "username": "aionescu"
+}
+{
+    "expanded_url": [
+        "https://github.com/AndreyRainchik/CVE-2020-8816"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "[PoC] A Python script to exploit CVE-2020-8816, a remote code execution vulnerability on the Pi-hole\n\nThe exploit requires the path for the www-data user to be /opt/pihole:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin.\n\nhttps://t.co/tBbL7yFbmb https://t.co/vk5vCBgBZS",
+    "tweettime": "2020-05-11, 02:38:11",
+    "tweeturl": "https://twitter.com/wugeej/status/1259674133249458176",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://github.com/maxpl0it/CVE-2020-0674-Exploit"
+    ],
+    "tweetfavorites": 475,
+    "tweetquotes": 9,
+    "tweetreplies": 5,
+    "tweetretweets": 202,
+    "tweettext": "Here's my exploit for CVE-2020-0674 (Internet Explorer UAF)\n\nBonus: EMET 5.52 (the final EMET version) doesn't appear to detect this (on Windows x64 it seems)\n\nhttps://t.co/IxCfpjGBqv",
+    "tweettime": "2020-05-07, 22:03:52",
+    "tweeturl": "https://twitter.com/maxpl0it/status/1258517934718062594",
+    "username": "maxpl0it"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/3b5DZbH"
+    ],
+    "tweetfavorites": 167,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "Analyzing a trio of RCE bugs in #Intel wireless drivers - @trendytofu looks at CVE-2020-0558 and provides details on the root causes. He also includes PoC for you to test your adapters. Details at https://t.co/jwhpY0dtaT",
+    "tweettime": "2020-05-05, 16:25:13",
+    "tweeturl": "https://twitter.com/thezdi/status/1257707933649035264",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/05/saltstack-rce-exploit.html"
+    ],
+    "tweetfavorites": 296,
+    "tweetquotes": 25,
+    "tweetreplies": 3,
+    "tweetretweets": 230,
+    "tweettext": "WARNING — Just within a day after public disclosure of SaltStack RCE #vulnerability (CVE-2020-11651), hackers have started exploiting unpatched servers.\n\n✅ LineageOS [hacked]\n✅ Ghost CMS [hacked]\n✅ DigiCert [hacked]\n\nRead more: https://t.co/SY54kVTMsK\n\n#infosec\n#cybersecurity https://t.co/x9238WFWvS",
+    "tweettime": "2020-05-04, 10:06:10",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1257250156652584962",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://github.com",
+        "http://dlvr.it/RVyNv2"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "(From https://t.co/OT552U6KvT): Released a public exploit (Local Privilege Escalation) for SMBv3 bug (CVE-2020-0796) https://t.co/r84NvKVrdc",
+    "tweettime": "2020-05-04, 06:42:32",
+    "tweeturl": "https://twitter.com/44CON/status/1257198909127942149",
+    "username": "44CON"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/oracle-warns-of-attacks-against-recently-patched-weblogic-security-bug/"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 56,
+    "tweettext": "Oracle has published a security alert last night warning of attacks against a recently patched WebLogic security bug\n\n- The bug is CVE-2020-2883, a no-auth RCE in WebLogic\n- CVSSv3 of 9.8/10\n- Bug is patched, but PoC code has been published online\n\nhttps://t.co/AdyCFcstDx https://t.co/OsOmTh3RoK",
+    "tweettime": "2020-05-01, 11:55:33",
+    "tweeturl": "https://twitter.com/campuscodi/status/1256190520696725507",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/CVE-2020-0041"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "Discover how @bluefrostsec exploits #Android Binder to escape the Google #Chrome sandbox, attack the kernel, and obtain root privileges on a Pixel 3 device using CVE-2020-0041. https://t.co/9xtJJFBC3d\n\nDetailed writeup by @esanfelix and @jgrusko with video demo and POC on Github! https://t.co/KwUnhUmy9k",
+    "tweettime": "2020-05-29, 12:37:02",
+    "tweeturl": "https://twitter.com/_ringzer0/status/1266347819482390530",
+    "username": "_ringzer0"
+}
+{
+    "expanded_url": [
+        "https://theevilbit.github.io/posts/secure_coding_privilegedhelpertools_part3/"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "The 3rd part of my XPC series is up. This time I cover the Microsoft Auto Update LPE vulnerability (CVE-2020-0984) I found last year and was fixed recently. Great example for why proper client verification is extremely important.\nhttps://t.co/6HZKbarrra",
+    "tweettime": "2020-05-29, 05:55:16",
+    "tweeturl": "https://twitter.com/theevilbit/status/1266246713150328832",
+    "username": "theevilbit"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xwgXH"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 119,
+    "tweettext": ".@NSAGov has released a cybersecurity advisory on Russian Sandworm APT actors exploiting CVE-2019-10149, a remote code execution vulnerability in Exim. Read more at https://t.co/d77VHReUx7. #Cyber #Cybersecurity #InfoSec",
+    "tweettime": "2020-05-28, 20:19:20",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1266101773435129856",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://www.nsa.gov/News-Features/News-Stories/Article-View/Article/2196511/exim-mail-transfer-agent-actively-exploited-by-russian-gru-cyber-actors/"
+    ],
+    "tweetfavorites": 608,
+    "tweetquotes": 55,
+    "tweetreplies": 16,
+    "tweetretweets": 411,
+    "tweettext": "Sandworm Team, Russian GRU Main Center for Special Technologies actors, continue to exploit Exim mail transfer agent #vulnerability, CVE-2019-10149. \n\nPatch to the latest version to protect your networks. Learn more here: https://t.co/6HU3mSPam9 https://t.co/Btuq3KBmhM",
+    "tweettime": "2020-05-28, 15:04:02",
+    "tweeturl": "https://twitter.com/NSACyber/status/1266022426317643778",
+    "username": "NSACyber"
+}
+{
+    "expanded_url": [
+        "https://byteraptors.github.io/windows/exploitation/2020/05/24/sandboxescape.html"
+    ],
+    "tweetfavorites": 109,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 50,
+    "tweettext": "Chronicles of a Sandbox Escape: Deep Analysis of CVE-2019-0880 https://t.co/iv9XIVPEBT",
+    "tweettime": "2020-05-28, 13:22:52",
+    "tweeturl": "https://twitter.com/andersonc0d3/status/1265996967135580164",
+    "username": "andersonc0d3"
+}
+{
+    "expanded_url": [
+        "https://securelist.com/the-zero-day-exploits-of-operation-wizardopium/97086/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "Kaspersky publishes a report on CVE-2019-13720, the Chrome zero-day that was unearthed/patched in October 2019.\n\nPer Kaspersky, the zero-day was used by Operation WizardOpium APT in a classic watering-hole attack on a North Korea-related news site\n\nhttps://t.co/pItDW2Fh0j",
+    "tweettime": "2020-05-28, 13:00:14",
+    "tweeturl": "https://twitter.com/campuscodi/status/1265991271182741505",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://siguza.github.io/psychicpaper/"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 35,
+    "tweettext": "R.I.P. CVE-2020-9842 aka \"Psychic Paper\" sandbox escape\n\nhttps://t.co/DgDksDoO81\n\nAwesome logic flaw found by @s1guza and reported to Apple by @LinusHenze. https://t.co/Ah8ztJNoBQ",
+    "tweettime": "2020-05-26, 23:09:14",
+    "tweeturl": "https://twitter.com/axi0mX/status/1265419754342215680",
+    "username": "axi0mX"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2136/"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "[CPR-Zero] CVE-2020-0655 (Windows): Improper fix for CVE-2019-0887 uncovers Path Traversal issues in all versions of Windows\nhttps://t.co/ioJrKiY8Q1",
+    "tweettime": "2020-05-26, 11:31:56",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1265244274322558976",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://github.com/amartinsec/CVE-2020-12800/"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "GitHub - amartinsec/CVE-2020-12800: POC Script for CVE-2020-12800: RCE through Unrestricted File Type Upload - https://t.co/6RIG8P48i3",
+    "tweettime": "2020-05-26, 00:49:09",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1265082511245230080",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit"
+    ],
+    "tweetfavorites": 203,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 100,
+    "tweettext": "QNAP pre-auth root RCE Exploit (CVE-2019-7192 - CVE-2019-7195)  \nhttps://t.co/lhmRDoa5M4\n\n#QNAP #vulnerability #Exploit #BugBounty https://t.co/YtC1RL1W2x",
+    "tweettime": "2020-05-24, 16:37:34",
+    "tweeturl": "https://twitter.com/Th3Gundy/status/1264596414002270208",
+    "username": "Th3Gundy"
+}
+{
+    "expanded_url": [
+        "https://github.com/IdealDreamLast/CVE-2020-9484/"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 73,
+    "tweettext": "CVE-2020-9484: Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server;\n\nPOC\nhttps://t.co/mdVDnRcLTu https://t.co/hWefWUYbrL",
+    "tweettime": "2020-05-22, 08:24:41",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1263747598550212613",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://meterpreter.org/cve-2020-9484-apache-tomcat-remote-code-execution-vulnerability-alert/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2020-9484: Apache Tomcat Remote Code Execution Vulnerability\n\n[Exploit Condition]\n\n1. Server is configured to use the PersistenceManager with a FileStore\n2. The PersistenceManager is configured with sessionAttributeValueClassNameFilter=\"null\"\n\nhttps://t.co/UbHWoqN2s4",
+    "tweettime": "2020-05-22, 07:22:13",
+    "tweeturl": "https://twitter.com/wugeej/status/1263731877606682624",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/2yjHQEy"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 40,
+    "tweettext": "In his first blog for us, @_wmliang_ covers CVE-2020-8871 - a privilege escalation bug in #Parallels Desktop originally submitted by @renorobertr. Read the bug details and patch analysis at https://t.co/oNkaYN1ELI",
+    "tweettime": "2020-05-21, 17:03:44",
+    "tweeturl": "https://twitter.com/thezdi/status/1263515835144048640",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.com/goichot/CVE-2020-3153",
+        "https://github.com/goichot/CVE-2020-3153/blob/master/details.md"
+    ],
+    "tweetfavorites": 225,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 117,
+    "tweettext": "I have released my exploit for CVE-2020-3153 - Cisco AnyConnect privilege escalation through path traversal https://t.co/1xSxJUjhuJ\n\nMy notes on this vuln: https://t.co/reO88J9Bny\n\nKudos to @yorickkoster for the advisory &amp; for the -ipc help!\nThank you @maxime_tz for the diagrams!",
+    "tweettime": "2020-05-19, 19:36:46",
+    "tweeturl": "https://twitter.com/AntoineGoichot/status/1262829570836836354",
+    "username": "AntoineGoichot"
+}
+{
+    "expanded_url": [
+        "https://www.qualys.com/2020/05/19/cve-2005-1513/remote-code-execution-qmail.txt"
+    ],
+    "tweetfavorites": 233,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 99,
+    "tweettext": "The end is near. 2020 does not forgive. \"15 years later: Remote Code Execution in qmail (CVE-2005-1513)\"  https://t.co/gWLRk6iLH4",
+    "tweettime": "2020-05-19, 18:06:49",
+    "tweeturl": "https://twitter.com/julianor/status/1262806932198432768",
+    "username": "julianor"
+}
+{
+    "expanded_url": [
+        "https://github.com/BC-SECURITY/Invoke-PrintDemon"
+    ],
+    "tweetfavorites": 110,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "PrintDemon - A PowerShell Empire launcher PoC using PrintDemon and Faxhell. The module has the Faxhell dll already embedded which leverages CVE-2020-1048 for privilege escalation. https://t.co/Bt695rvJA3",
+    "tweettime": "2020-05-15, 14:59:02",
+    "tweeturl": "https://twitter.com/netbiosX/status/1261310127090675713",
+    "username": "netbiosX"
+}
+{
+    "expanded_url": [
+        "https://research.checkpoint.com/2020/reverse-rdp-the-path-not-taken/"
+    ],
+    "tweetfavorites": 167,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 77,
+    "tweettext": "CVE-2019-0887: Path-Traversal -&gt; RCE in mstsc.exe. Patched with PathCchCanonicalize.\n\nCVE-2020-0655: We replaced '\\' with '/', that's it. Patched with a workaround.\n\nAs Microsoft didn't patch PathCanonicalize, you need to manually fix your own programs!\nhttps://t.co/kmpK9Ihi3Z",
+    "tweettime": "2020-05-14, 10:10:01",
+    "tweeturl": "https://twitter.com/EyalItkin/status/1260875003177861120",
+    "username": "EyalItkin"
+}
+{
+    "expanded_url": [
+        "https://cpr-zero.checkpoint.com/vulns/cprid-2152/"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "[CPR-Zero] CVE-2020-1143 (Windows 10 Kernel): Use-After-Free in the NtUserGetDCEx function in win32kfull.sys\nhttps://t.co/GkRF3Nk3wN",
+    "tweettime": "2020-05-14, 09:15:38",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1260861318082564099",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://labs.redyops.com/index.php/2020/04/27/symantec-endpoint-protection-sep-14-2-eop-via-arbitrary-write/"
+    ],
+    "tweetfavorites": 387,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 192,
+    "tweettext": "Exploit code and Write-up for Symantec Endpoint Protection (SEP) 14.2 RU2 Elevation of Privileges (CVE-2020-5837) \n\nhttps://t.co/Y3AFuqXl1E\n\n#Symantec #0day #exploit #vulnerability #EoP #RedyOpsLabs #cybersecurity #infosec #bugbounty #redteam #SEP #SEPM",
+    "tweettime": "2020-05-13, 10:03:47",
+    "tweeturl": "https://twitter.com/gweeperx/status/1260511047808671745",
+    "username": "gweeperx"
+}
+{
+    "expanded_url": [
+        "https://windows-internals.com/printdemon-cve-2020-1048/"
+    ],
+    "tweetfavorites": 2273,
+    "tweetquotes": 55,
+    "tweetreplies": 32,
+    "tweetretweets": 1235,
+    "tweettext": "Attackers can exploit CVE-2020-1048 with a single PowerShell command:\n\nAdd-PrinterPort -Name c:\\windows\\system32\\ualapi.dll\n\nOn an unpatched system, this will install a persistent backdoor, that won't go away *even after you patch*.\n\nSee https://t.co/9yMSWNM8VG for more details.",
+    "tweettime": "2020-05-13, 07:05:38",
+    "tweeturl": "https://twitter.com/aionescu/status/1260466215299973121",
+    "username": "aionescu"
+}
+{
+    "expanded_url": [
+        "https://github.com/AndreyRainchik/CVE-2020-8816"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "[PoC] A Python script to exploit CVE-2020-8816, a remote code execution vulnerability on the Pi-hole\n\nThe exploit requires the path for the www-data user to be /opt/pihole:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin.\n\nhttps://t.co/tBbL7yFbmb https://t.co/vk5vCBgBZS",
+    "tweettime": "2020-05-11, 02:38:11",
+    "tweeturl": "https://twitter.com/wugeej/status/1259674133249458176",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://github.com/maxpl0it/CVE-2020-0674-Exploit"
+    ],
+    "tweetfavorites": 475,
+    "tweetquotes": 9,
+    "tweetreplies": 5,
+    "tweetretweets": 202,
+    "tweettext": "Here's my exploit for CVE-2020-0674 (Internet Explorer UAF)\n\nBonus: EMET 5.52 (the final EMET version) doesn't appear to detect this (on Windows x64 it seems)\n\nhttps://t.co/IxCfpjGBqv",
+    "tweettime": "2020-05-07, 22:03:52",
+    "tweeturl": "https://twitter.com/maxpl0it/status/1258517934718062594",
+    "username": "maxpl0it"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/3b5DZbH"
+    ],
+    "tweetfavorites": 167,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "Analyzing a trio of RCE bugs in #Intel wireless drivers - @trendytofu looks at CVE-2020-0558 and provides details on the root causes. He also includes PoC for you to test your adapters. Details at https://t.co/jwhpY0dtaT",
+    "tweettime": "2020-05-05, 16:25:13",
+    "tweeturl": "https://twitter.com/thezdi/status/1257707933649035264",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2020/05/saltstack-rce-exploit.html"
     ],
     "tweetfavorites": 296,

@@ -50,3 +50,289 @@
     "tweeturl": "https://twitter.com/hosselot/status/914754961170460672",
     "username": "hosselot"
 }
+{
+    "expanded_url": [
+        "https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-microsoft-office-zero-day-exploit-cve-2017-11826-memory-corruption-vulnerability"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "It's finally out.. Quick analysis on the latest Office #0day CVE-2017-11826. https://t.co/OqtuEbYxQx.",
+    "tweettime": "2017-10-26, 17:50:10",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/923607702588100608",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-microsoft-office-zero-day-exploit-cve-2017-11826-memory-corruption-vulnerability/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "Analyzing Microsoft Office Zero-Day Exploit CVE-2017-11826: Memory Corruption Vulnerability https://t.co/f5N4W7NvJy",
+    "tweettime": "2017-10-26, 15:12:54",
+    "tweeturl": "https://twitter.com/PhysicalDrive0/status/923568124213022721",
+    "username": "PhysicalDrive0"
+}
+{
+    "expanded_url": [
+        "https://nickbloor.co.uk/2017/10/22/analysis-of-cve-2017-12628/"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 66,
+    "tweettext": "Analysis of CVE-2017-12628 - Apache James Deserialization LPE/potential RCE https://t.co/Sfv2U25UBm",
+    "tweettime": "2017-10-22, 15:11:18",
+    "tweeturl": "https://twitter.com/nickstadb/status/922118171573800960",
+    "username": "nickstadb"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=733549"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "Google Chrome sandbox escape due to use of invalid PP_Instance (CVE-2017-5092) by Yuan Deng:\nhttps://t.co/4dGrjktiEL",
+    "tweettime": "2017-10-02, 07:32:32",
+    "tweeturl": "https://twitter.com/hosselot/status/914754961170460672",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-microsoft-office-zero-day-exploit-cve-2017-11826-memory-corruption-vulnerability"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "It's finally out.. Quick analysis on the latest Office #0day CVE-2017-11826. https://t.co/OqtuEbYxQx.",
+    "tweettime": "2017-10-26, 17:50:10",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/923607702588100608",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-microsoft-office-zero-day-exploit-cve-2017-11826-memory-corruption-vulnerability/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "Analyzing Microsoft Office Zero-Day Exploit CVE-2017-11826: Memory Corruption Vulnerability https://t.co/f5N4W7NvJy",
+    "tweettime": "2017-10-26, 15:12:54",
+    "tweeturl": "https://twitter.com/PhysicalDrive0/status/923568124213022721",
+    "username": "PhysicalDrive0"
+}
+{
+    "expanded_url": [
+        "https://nickbloor.co.uk/2017/10/22/analysis-of-cve-2017-12628/"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 66,
+    "tweettext": "Analysis of CVE-2017-12628 - Apache James Deserialization LPE/potential RCE https://t.co/Sfv2U25UBm",
+    "tweettime": "2017-10-22, 15:11:18",
+    "tweeturl": "https://twitter.com/nickstadb/status/922118171573800960",
+    "username": "nickstadb"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=733549"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "Google Chrome sandbox escape due to use of invalid PP_Instance (CVE-2017-5092) by Yuan Deng:\nhttps://t.co/4dGrjktiEL",
+    "tweettime": "2017-10-02, 07:32:32",
+    "tweeturl": "https://twitter.com/hosselot/status/914754961170460672",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=740603"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 80,
+    "tweettext": "Google Chrome GPU Memory Corruption Vulnerability Details and PoC (CVE-2017-5112):\nhttps://t.co/Ky7VUr9cb7",
+    "tweettime": "2017-10-27, 06:34:40",
+    "tweeturl": "https://twitter.com/hosselot/status/923800095795089408",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-microsoft-office-zero-day-exploit-cve-2017-11826-memory-corruption-vulnerability"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "It's finally out.. Quick analysis on the latest Office #0day CVE-2017-11826. https://t.co/OqtuEbYxQx.",
+    "tweettime": "2017-10-26, 17:50:10",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/923607702588100608",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-microsoft-office-zero-day-exploit-cve-2017-11826-memory-corruption-vulnerability/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "Analyzing Microsoft Office Zero-Day Exploit CVE-2017-11826: Memory Corruption Vulnerability https://t.co/f5N4W7NvJy",
+    "tweettime": "2017-10-26, 15:12:54",
+    "tweeturl": "https://twitter.com/PhysicalDrive0/status/923568124213022721",
+    "username": "PhysicalDrive0"
+}
+{
+    "expanded_url": [
+        "https://nickbloor.co.uk/2017/10/22/analysis-of-cve-2017-12628/"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 66,
+    "tweettext": "Analysis of CVE-2017-12628 - Apache James Deserialization LPE/potential RCE https://t.co/Sfv2U25UBm",
+    "tweettime": "2017-10-22, 15:11:18",
+    "tweeturl": "https://twitter.com/nickstadb/status/922118171573800960",
+    "username": "nickstadb"
+}
+{
+    "expanded_url": [
+        "https://www.talosintelligence.com/reports/TALOS-2017-0432"
+    ],
+    "tweetfavorites": 159,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 121,
+    "tweettext": "CVE-2017-5133: Google Chrome PDFium TIFF off-by-one read/write #vulnerability (could lead to code exec) https://t.co/A6eKIpkiQw #chrome https://t.co/HMKwEOckma",
+    "tweettime": "2017-10-21, 09:43:00",
+    "tweeturl": "https://twitter.com/x0rz/status/921673163997700096",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=732661"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 73,
+    "tweettext": "Google Chrome pdfium stack-based buffer overflow vulnerability with PoC (CVE-2017-5095):\nhttps://t.co/e2otseDBxP",
+    "tweettime": "2017-10-09, 06:52:54",
+    "tweeturl": "https://twitter.com/hosselot/status/917281700874539009",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=733549"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "Google Chrome sandbox escape due to use of invalid PP_Instance (CVE-2017-5092) by Yuan Deng:\nhttps://t.co/4dGrjktiEL",
+    "tweettime": "2017-10-02, 07:32:32",
+    "tweeturl": "https://twitter.com/hosselot/status/914754961170460672",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=740603"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 80,
+    "tweettext": "Google Chrome GPU Memory Corruption Vulnerability Details and PoC (CVE-2017-5112):\nhttps://t.co/Ky7VUr9cb7",
+    "tweettime": "2017-10-27, 06:34:40",
+    "tweeturl": "https://twitter.com/hosselot/status/923800095795089408",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-microsoft-office-zero-day-exploit-cve-2017-11826-memory-corruption-vulnerability"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "It's finally out.. Quick analysis on the latest Office #0day CVE-2017-11826. https://t.co/OqtuEbYxQx.",
+    "tweettime": "2017-10-26, 17:50:10",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/923607702588100608",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-microsoft-office-zero-day-exploit-cve-2017-11826-memory-corruption-vulnerability/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "Analyzing Microsoft Office Zero-Day Exploit CVE-2017-11826: Memory Corruption Vulnerability https://t.co/f5N4W7NvJy",
+    "tweettime": "2017-10-26, 15:12:54",
+    "tweeturl": "https://twitter.com/PhysicalDrive0/status/923568124213022721",
+    "username": "PhysicalDrive0"
+}
+{
+    "expanded_url": [
+        "https://nickbloor.co.uk/2017/10/22/analysis-of-cve-2017-12628/"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 66,
+    "tweettext": "Analysis of CVE-2017-12628 - Apache James Deserialization LPE/potential RCE https://t.co/Sfv2U25UBm",
+    "tweettime": "2017-10-22, 15:11:18",
+    "tweeturl": "https://twitter.com/nickstadb/status/922118171573800960",
+    "username": "nickstadb"
+}
+{
+    "expanded_url": [
+        "https://www.talosintelligence.com/reports/TALOS-2017-0432"
+    ],
+    "tweetfavorites": 159,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 121,
+    "tweettext": "CVE-2017-5133: Google Chrome PDFium TIFF off-by-one read/write #vulnerability (could lead to code exec) https://t.co/A6eKIpkiQw #chrome https://t.co/HMKwEOckma",
+    "tweettime": "2017-10-21, 09:43:00",
+    "tweeturl": "https://twitter.com/x0rz/status/921673163997700096",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=732661"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 73,
+    "tweettext": "Google Chrome pdfium stack-based buffer overflow vulnerability with PoC (CVE-2017-5095):\nhttps://t.co/e2otseDBxP",
+    "tweettime": "2017-10-09, 06:52:54",
+    "tweeturl": "https://twitter.com/hosselot/status/917281700874539009",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=733549"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "Google Chrome sandbox escape due to use of invalid PP_Instance (CVE-2017-5092) by Yuan Deng:\nhttps://t.co/4dGrjktiEL",
+    "tweettime": "2017-10-02, 07:32:32",
+    "tweeturl": "https://twitter.com/hosselot/status/914754961170460672",
+    "username": "hosselot"
+}

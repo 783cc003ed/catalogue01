@@ -418,3 +418,894 @@
     "tweeturl": "https://twitter.com/momika233/status/1807939868523483273",
     "username": "momika233"
 }
+{
+    "expanded_url": [
+        "https://blog.injectexp.dev/outlook-cve-2024-21413-for-rce-hacking-through-a-letter/07/rce/"
+    ],
+    "tweetfavorites": 200,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "#Outlook CVE-2024-21413 for RCE. Hacking through a letter.\nhttps://t.co/ig84mkKWH0",
+    "tweettime": "2024-07-30, 01:34:52",
+    "tweeturl": "https://twitter.com/momika233/status/1818097898665681122",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6012lbTai"
+    ],
+    "tweetfavorites": 1252,
+    "tweetquotes": 108,
+    "tweetreplies": 26,
+    "tweetretweets": 490,
+    "tweettext": "Microsoft has uncovered a vulnerability in ESXi hypervisors, identified as CVE-2024-37085, being exploited by threat actors to obtain full administrative permissions on domain-joined ESXi hypervisors and encrypt critical servers in ransomware attacks. https://t.co/7NUvHGrzXM",
+    "tweettime": "2024-07-29, 16:14:42",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1817956927000682955",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://github.com/d0rb/CVE-2024-41107"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2024-41107: The CloudStack SAML authentication (disabled by default) ...attacker that initiates CloudStack SAML single sign-on authentication bypass...\n\nPoC\nhttps://t.co/tdnIQjuRRQ https://t.co/xWpmUex3eh",
+    "tweettime": "2024-07-24, 05:51:17",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1815988100390179113",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.ambionics.io/blog/iconv-cve-2024-2961-p1",
+        "https://github.com/ambionics/cnext-exploits/"
+    ],
+    "tweetfavorites": 426,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 89,
+    "tweettext": "Exploiting a buffer overflow (CVE-2024-2961) in glibc's iconv()\n\nBlog post: https://t.co/d2SdBplIfs\nPoC: https://t.co/7l9AJveV0D\n\n#glibc https://t.co/tRu2uRV28K",
+    "tweettime": "2024-07-23, 15:30:05",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1815771372334772653",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898"
+    ],
+    "tweetfavorites": 167,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "CVE-2024-40725 and CVE-2024-40898\n\nhttps://t.co/QcJDNKEQXn",
+    "tweettime": "2024-07-20, 12:56:19",
+    "tweeturl": "https://twitter.com/momika233/status/1814645515033944292",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898"
+    ],
+    "tweetfavorites": 241,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 54,
+    "tweettext": "CVE-2024-40725, CVE-2024-40898: vulnerability found in Apache HTTP Server versions 2.4.0 to 2.4.61.\nPoC\n\nhttps://t.co/12KmzzgdOf https://t.co/HdTy15mplL",
+    "tweettime": "2024-07-20, 11:37:56",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1814625787670110679",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://research.checkpoint.com/2024/resurrecting-internet-explorer-threat-actors-using-zero-day-tricks-in-internet-shortcut-file-to-lure-victims-cve-2024-38112/",
+        "https://www.trendmicro.com/en_us/research/24/g/CVE-2024-38112-void-banshee.html",
+        "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/g/cve-2024-38112-void-banshee-targets-windows-users-through-zombie-internet-explorer-in-zero-day-attacks/IOCs-CVE-2024-38112.txt"
+    ],
+    "tweetfavorites": 104,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "APT Group Void Banshee +  Microsoft 0day CVE-2024-38112 \nhttps://t.co/wKtY6a1blW\nhttps://t.co/oFlIgm5FHC\nioc:\nhttps://t.co/O0nK9mVkl0 https://t.co/yuAJFvUNxO",
+    "tweettime": "2024-07-17, 09:32:11",
+    "tweeturl": "https://twitter.com/blackorbird/status/1813506977919848720",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://github.com/google/security-research/security/advisories/GHSA-hfqc-63c7-rj9f#event-251168"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 126,
+    "tweettext": "RT @thatjiaozi: Excited to publish a new report on a linux kernel eBPF vulnerability. CVE-2024-41003\n\nhttps://t.co/ZfHbgclUtA\n\nWe found thi…",
+    "tweettime": "2024-07-16, 20:08:31",
+    "tweeturl": "https://twitter.com/fdfalcon/status/1813304728065052811",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://blog.segu-info.com.ar/2024/07/zero-day-en-windows-mshtml-utilizado-en.html"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 53,
+    "tweettext": "Troyanos que roban datos personales y financieros (#infostealers) son instalados vía #phishing (ZIP) y aprovechando la vulnerabilidad Zero-Day en Windows (CVE-2024-38112).\nParchea YA!\n\nInfo: https://t.co/aBPMHXpq6j https://t.co/CR6fnXKBPu",
+    "tweettime": "2024-07-16, 13:05:45",
+    "tweeturl": "https://twitter.com/SeguInfo/status/1813198335387337145",
+    "username": "SeguInfo"
+}
+{
+    "expanded_url": [
+        "https://github.com/codeb0ss/CVE-2024-29824-PoC"
+    ],
+    "tweetfavorites": 127,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "Mass Exploit - CVE-2024-29824 - Ivanti EPM - Remote Code Execution (RCE)\nhttps://t.co/JtkT6DEmyI",
+    "tweettime": "2024-07-15, 13:31:45",
+    "tweeturl": "https://twitter.com/momika233/status/1812842490690711872",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 151,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 44,
+    "tweettext": "My team colleague @hackerkartellet investigated an intrusion this week that started via CVE-2023-48788: A vulnerability in the Fortinet FortiClient EMS application that allows unauthenticated users the ability to execute commands (under SYSTEM rights) via specially crafted https://t.co/CMwCFCH1HE",
+    "tweettime": "2024-07-12, 16:24:42",
+    "tweeturl": "https://twitter.com/malmoeb/status/1811798851919007776",
+    "username": "malmoeb"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/07/critical-exim-mail-server-vulnerability.html"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "🚨 A critical security flaw in Exim mail transfer agent has been disclosed.\n\nCVE-2024-39929 allows remote attackers to bypass security and deliver malicious attachments.\n\nDetails here: https://t.co/69295wvCew\n\nUpdate to version 4.98 now!",
+    "tweettime": "2024-07-12, 13:03:59",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1811748338535919704",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/Mr-r00t11/CVE-2024-37081"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2024-37081: The vCenter Server contains multiple local privilege escalation vulnerabilities due to misconfiguration of sudo. ..\nhttps://t.co/rNcawNXCMn https://t.co/iQBtTwehw1",
+    "tweettime": "2024-07-11, 13:50:48",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1811397734626144535",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 180,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 63,
+    "tweettext": "#ZeroClick #RCE in Outlook ones again. \nUnlike the previously discovered vulnerability CVE-2024-30103 disclosed in June —which required authentication (at least an NTLM token)— this new vulnerability does not require any authentication\nIt requires 0clicks for known senders else 1",
+    "tweettime": "2024-07-10, 19:49:03",
+    "tweeturl": "https://twitter.com/Gi7w0rm/status/1811125503916384258",
+    "username": "Gi7w0rm"
+}
+{
+    "expanded_url": [
+        "https://github.com/Mr-r00t11/CVE-2024-37081"
+    ],
+    "tweetfavorites": 185,
+    "tweetquotes": 1,
+    "tweetreplies": 13,
+    "tweetretweets": 53,
+    "tweettext": "VMware vCenter - CVE-2024-37081 Proof of Concept\nhttps://t.co/tcmxKJGE3B",
+    "tweettime": "2024-07-10, 13:51:11",
+    "tweeturl": "https://twitter.com/momika233/status/1811035441996648532",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://blog.morphisec.com/cve-2024-38021-microsoft-outlook-moniker-rce-vulnerability"
+    ],
+    "tweetfavorites": 257,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 93,
+    "tweettext": "CVE-2024-38021 - a zero-click remote code execution (RCE) vulnerability that impacts most Microsoft Outlook applications. https://t.co/wZfZzcXv3n",
+    "tweettime": "2024-07-10, 13:27:43",
+    "tweeturl": "https://twitter.com/securityshell/status/1811029535699222558",
+    "username": "securityshell"
+}
+{
+    "expanded_url": [
+        "https://x.com/_CPResearch_/status/1810786417985069286"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 5,
+    "tweettext": "Thanks to the CP&lt;r&gt; team - many folks involved on this discovery.\n\nFull details regarding the .url &amp; IE spoofing \"technically zero-day\" attacks have been released! \nhttps://t.co/37zEiUt2tE\n\n#CVE-2024-38112 #URLFile #IE #zeroday #0day #itw #exploit",
+    "tweettime": "2024-07-09, 21:51:28",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1810793921103921639",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://research.checkpoint.com/2024/resurrecting-internet-explorer-threat-actors-using-zero-day-tricks-in-internet-shortcut-file-to-lure-victims-cve-2024-38112/"
+    ],
+    "tweetfavorites": 180,
+    "tweetquotes": 12,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "In May, CPR discovered in the wild that threat actors have been using previously unknown tricks in .url files &amp; IE to lure victims for RCE. These “technically zero-day” attacks have lasted over a year. Microsoft patched it as CVE-2024-38112 this Tuesday.\nhttps://t.co/jOupdxg0as",
+    "tweettime": "2024-07-09, 21:21:39",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1810786417985069286",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://summoning.team/blog/progress-whatsup-gold-privesc-setadminpassword-cve-2024-5009/"
+    ],
+    "tweetfavorites": 158,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 30,
+    "tweettext": "🤷‍♂️Enjoying the blog posts so far? well this is the 3rd writeup for today ☠️, details of my privilege escalation ⏫against progress is out now, this is CVE-2024-5009 🔥\nhttps://t.co/cuLTzY2UwC https://t.co/dm8nNnJcrG",
+    "tweettime": "2024-07-08, 12:26:02",
+    "tweeturl": "https://twitter.com/SinSinology/status/1810289238212034784",
+    "username": "SinSinology"
+}
+{
+    "expanded_url": [
+        "https://github.com/sinsinology/CVE-2024-5009"
+    ],
+    "tweetfavorites": 141,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Aaaaaand that's a wrap ♾, here is the 3/3 exploit of today, a privilege escalation ⏫ targeting progress whatsup gold, this is CVE-2024-5009 🚨 don't forget, I teach things like this (and waaay more) in my Advanced .NET Exploitation Training 🔥🪲🔥\nhttps://t.co/AjR5M04lLd https://t.co/DAl4sECRYf",
+    "tweettime": "2024-07-08, 12:25:12",
+    "tweeturl": "https://twitter.com/SinSinology/status/1810289028803051538",
+    "username": "SinSinology"
+}
+{
+    "expanded_url": [
+        "https://summoning.team/blog/progress-whatsup-gold-writedatafile-cve-2024-4883-rce/"
+    ],
+    "tweetfavorites": 301,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 32,
+    "tweettext": "Here is the second blog post of today (2/3) ⚡️⚡️, I've just published the details of my other pre-auth Remote Code Execution 🔥 against progress this is CVE-2024-4883 🪲\nhttps://t.co/eexo572A8o",
+    "tweettime": "2024-07-08, 12:21:50",
+    "tweeturl": "https://twitter.com/SinSinology/status/1810288180882559251",
+    "username": "SinSinology"
+}
+{
+    "tweetfavorites": 79,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 35,
+    "tweettext": "⚠️ CVE-2024-6376 (CVSS 9.8) in MongoDB Compass Exposes Systems to Code Injection Risks\n\nA critical security vulnerability, CVE-2024-6376, has been discovered in MongoDB Compass, a widely-used GUI for MongoDB data management.\n\nThis vulnerability affects MongoDB Compass versions https://t.co/J9IBTfRjbT",
+    "tweettime": "2024-07-07, 06:36:37",
+    "tweeturl": "https://twitter.com/H4ckManac/status/1809838917203493180",
+    "username": "H4ckManac"
+}
+{
+    "expanded_url": [
+        "https://github.com/google/security-research/blob/master/pocs/linux/kernelctf/CVE-2024-0193_cos/docs/exploit.md"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "RT @binitamshah: PoC :  Linux Kernel Privilege Escalation (CVE-2024-0193) : https://t.co/YAwc8RGeaT",
+    "tweettime": "2024-07-06, 09:15:15",
+    "tweeturl": "https://twitter.com/momika233/status/1809516449452683759",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 339,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 54,
+    "tweettext": "CVE-2024-36991 https://t.co/75mjWgktHr",
+    "tweettime": "2024-07-05, 15:35:39",
+    "tweeturl": "https://twitter.com/chybeta/status/1809249794122215557",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/google/security-research/blob/master/pocs/linux/kernelctf/CVE-2024-0193_cos/docs/exploit.md"
+    ],
+    "tweetfavorites": 260,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "PoC :  Linux Kernel Privilege Escalation (CVE-2024-0193) : https://t.co/YAwc8RGeaT",
+    "tweettime": "2024-07-05, 12:18:49",
+    "tweeturl": "https://twitter.com/binitamshah/status/1809200258926383567",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 263,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 38,
+    "tweettext": "#CVE-2024-21007 Weblogic Server Remote Code Execution https://t.co/suiMbdfZTL",
+    "tweettime": "2024-07-05, 05:45:52",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1809101367149219987",
+    "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/blob/master/geoserver/CVE-2024-36401/README.md"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 52,
+    "tweettext": "GeoServer xpath expression injection to RCE (CVE-2024-36401) TWO POC\nhttps://t.co/yt13M4Oerq https://t.co/CWeFK7eNiA",
+    "tweettime": "2024-07-03, 14:29:45",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1808508432557003002",
+    "username": "phithon_xg"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/tree/master/geoserver/CVE-2024-36401",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22GeoServer%22"
+    ],
+    "tweetfavorites": 176,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 42,
+    "tweettext": "🚨Alert🚨CVE-2024-36401 (CVSS 9.8): GeoServer Unauthenticated Remote Code Execution in Evaluating Property Name Expressions \n🔥PoC: https://t.co/92Ov2433mW\n📊6.4K+ Services are found on https://t.co/ysWb28Crld\n🔗Hunter Link: https://t.co/0Qu4uLondE\n\n👇Search Query\nHunter: https://t.co/VcolV2OfOn",
+    "tweettime": "2024-07-03, 03:31:37",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1808342808849441201",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-1724-snap-sandbox-escape-vulnerability-threatens-linux-systems/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2024-1724: Snap Sandbox Escape Vulnerability Threatens Linux Systems https://t.co/BetgFj9pBE",
+    "tweettime": "2024-07-02, 03:51:43",
+    "tweeturl": "https://twitter.com/Dinosn/status/1807985477154120102",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://hunter.how/list?searchValue=product.name%3D%22OpenSSH%22",
+        "https://github.com/xaitax/CVE-2024-6387_Check"
+    ],
+    "tweetfavorites": 262,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 78,
+    "tweettext": "🚨Alert🚨CVE-2024-6387: Remote Unauthenticated Code Execution Vulnerability in OpenSSH server\n🔗Hunter Link: https://t.co/P2bN5nm6UJ\n💼Scan Tool @xaitax: https://t.co/IwIP1EChQq\n⚠The vulnerability, which is a signal handler race condition in OpenSSH’s server (sshd), allows https://t.co/msUJVaodFT",
+    "tweettime": "2024-07-02, 01:38:44",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1807952010991620464",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://github.com/zgzhang/cve-2024-6387-poc/"
+    ],
+    "tweetfavorites": 575,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 172,
+    "tweettext": "SSH RCE Exploit for CVE-2024-6387\nhttps://t.co/Z6Ef4yEaqP",
+    "tweettime": "2024-07-02, 00:50:29",
+    "tweeturl": "https://twitter.com/momika233/status/1807939868523483273",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt",
+        "https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 38,
+    "tweettext": "regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387) - Technical Details  : https://t.co/hoiazZIHZn\n\nRemote Unauthenticated Code Execution Vulnerability in OpenSSH server : https://t.co/l0DpziLdAj",
+    "tweettime": "2024-07-01, 12:09:11",
+    "tweeturl": "https://twitter.com/binitamshah/status/1807748282518810922",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-published-for-linux-kernel-privilege-escalation-flaw-cve-2024-0193/"
+    ],
+    "tweetfavorites": 229,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "PoC Exploit Published for Linux Kernel Privilege Escalation Flaw (CVE-2024-0193) https://t.co/xXlXZfg9lM",
+    "tweettime": "2024-07-01, 03:50:57",
+    "tweeturl": "https://twitter.com/Dinosn/status/1807622898783322373",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://blog.injectexp.dev/outlook-cve-2024-21413-for-rce-hacking-through-a-letter/07/rce/"
+    ],
+    "tweetfavorites": 200,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "#Outlook CVE-2024-21413 for RCE. Hacking through a letter.\nhttps://t.co/ig84mkKWH0",
+    "tweettime": "2024-07-30, 01:34:52",
+    "tweeturl": "https://twitter.com/momika233/status/1818097898665681122",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6012lbTai"
+    ],
+    "tweetfavorites": 1252,
+    "tweetquotes": 108,
+    "tweetreplies": 26,
+    "tweetretweets": 490,
+    "tweettext": "Microsoft has uncovered a vulnerability in ESXi hypervisors, identified as CVE-2024-37085, being exploited by threat actors to obtain full administrative permissions on domain-joined ESXi hypervisors and encrypt critical servers in ransomware attacks. https://t.co/7NUvHGrzXM",
+    "tweettime": "2024-07-29, 16:14:42",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1817956927000682955",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/"
+    ],
+    "tweetfavorites": 236,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 48,
+    "tweettext": "Great write up on exploiting CVE-2023-20938: Use-after-free in Android's Binder Linux kernel driver\n\nhttps://t.co/qtlAMph0wW\n\n#Linux https://t.co/cy52O0Nv1i",
+    "tweettime": "2024-07-27, 15:30:08",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1817220936279396617",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/"
+    ],
+    "tweetfavorites": 190,
+    "tweetquotes": 0,
+    "tweetreplies": 7,
+    "tweetretweets": 41,
+    "tweettext": "Great blog post by the Android Red Team on exploiting CVE-2023-20938 (Binder Use After Free)\n\nhttps://t.co/qtlAMph0wW\n\n#android https://t.co/oloShnkCU3",
+    "tweettime": "2024-07-26, 16:00:59",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1816866314188640317",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://github.com/d0rb/CVE-2024-41107"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2024-41107: The CloudStack SAML authentication (disabled by default) ...attacker that initiates CloudStack SAML single sign-on authentication bypass...\n\nPoC\nhttps://t.co/tdnIQjuRRQ https://t.co/xWpmUex3eh",
+    "tweettime": "2024-07-24, 05:51:17",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1815988100390179113",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.ambionics.io/blog/iconv-cve-2024-2961-p1",
+        "https://github.com/ambionics/cnext-exploits/"
+    ],
+    "tweetfavorites": 426,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 89,
+    "tweettext": "Exploiting a buffer overflow (CVE-2024-2961) in glibc's iconv()\n\nBlog post: https://t.co/d2SdBplIfs\nPoC: https://t.co/7l9AJveV0D\n\n#glibc https://t.co/tRu2uRV28K",
+    "tweettime": "2024-07-23, 15:30:05",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1815771372334772653",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898"
+    ],
+    "tweetfavorites": 167,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "CVE-2024-40725 and CVE-2024-40898\n\nhttps://t.co/QcJDNKEQXn",
+    "tweettime": "2024-07-20, 12:56:19",
+    "tweeturl": "https://twitter.com/momika233/status/1814645515033944292",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898"
+    ],
+    "tweetfavorites": 241,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 54,
+    "tweettext": "CVE-2024-40725, CVE-2024-40898: vulnerability found in Apache HTTP Server versions 2.4.0 to 2.4.61.\nPoC\n\nhttps://t.co/12KmzzgdOf https://t.co/HdTy15mplL",
+    "tweettime": "2024-07-20, 11:37:56",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1814625787670110679",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://research.checkpoint.com/2024/resurrecting-internet-explorer-threat-actors-using-zero-day-tricks-in-internet-shortcut-file-to-lure-victims-cve-2024-38112/",
+        "https://www.trendmicro.com/en_us/research/24/g/CVE-2024-38112-void-banshee.html",
+        "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/g/cve-2024-38112-void-banshee-targets-windows-users-through-zombie-internet-explorer-in-zero-day-attacks/IOCs-CVE-2024-38112.txt"
+    ],
+    "tweetfavorites": 104,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "APT Group Void Banshee +  Microsoft 0day CVE-2024-38112 \nhttps://t.co/wKtY6a1blW\nhttps://t.co/oFlIgm5FHC\nioc:\nhttps://t.co/O0nK9mVkl0 https://t.co/yuAJFvUNxO",
+    "tweettime": "2024-07-17, 09:32:11",
+    "tweeturl": "https://twitter.com/blackorbird/status/1813506977919848720",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://github.com/google/security-research/security/advisories/GHSA-hfqc-63c7-rj9f#event-251168"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 126,
+    "tweettext": "RT @thatjiaozi: Excited to publish a new report on a linux kernel eBPF vulnerability. CVE-2024-41003\n\nhttps://t.co/ZfHbgclUtA\n\nWe found thi…",
+    "tweettime": "2024-07-16, 20:08:31",
+    "tweeturl": "https://twitter.com/fdfalcon/status/1813304728065052811",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://blog.segu-info.com.ar/2024/07/zero-day-en-windows-mshtml-utilizado-en.html"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 53,
+    "tweettext": "Troyanos que roban datos personales y financieros (#infostealers) son instalados vía #phishing (ZIP) y aprovechando la vulnerabilidad Zero-Day en Windows (CVE-2024-38112).\nParchea YA!\n\nInfo: https://t.co/aBPMHXpq6j https://t.co/CR6fnXKBPu",
+    "tweettime": "2024-07-16, 13:05:45",
+    "tweeturl": "https://twitter.com/SeguInfo/status/1813198335387337145",
+    "username": "SeguInfo"
+}
+{
+    "expanded_url": [
+        "https://github.com/codeb0ss/CVE-2024-29824-PoC"
+    ],
+    "tweetfavorites": 127,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "Mass Exploit - CVE-2024-29824 - Ivanti EPM - Remote Code Execution (RCE)\nhttps://t.co/JtkT6DEmyI",
+    "tweettime": "2024-07-15, 13:31:45",
+    "tweeturl": "https://twitter.com/momika233/status/1812842490690711872",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 151,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 44,
+    "tweettext": "My team colleague @hackerkartellet investigated an intrusion this week that started via CVE-2023-48788: A vulnerability in the Fortinet FortiClient EMS application that allows unauthenticated users the ability to execute commands (under SYSTEM rights) via specially crafted https://t.co/CMwCFCH1HE",
+    "tweettime": "2024-07-12, 16:24:42",
+    "tweeturl": "https://twitter.com/malmoeb/status/1811798851919007776",
+    "username": "malmoeb"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/07/critical-exim-mail-server-vulnerability.html"
+    ],
+    "tweetfavorites": 53,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "🚨 A critical security flaw in Exim mail transfer agent has been disclosed.\n\nCVE-2024-39929 allows remote attackers to bypass security and deliver malicious attachments.\n\nDetails here: https://t.co/69295wvCew\n\nUpdate to version 4.98 now!",
+    "tweettime": "2024-07-12, 13:03:59",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1811748338535919704",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://www.turb0.one/pages/Weaponizing_Chrome_CVE-2023-2033_for_RCE_in_Electron:_Some_Assembly_Required.html"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "\"Weaponizing Chrome CVE-2023-2033 for RCE in Electron: Some Assembly Required\" by @7urb01 \nhttps://t.co/YyZ42Pxf1I",
+    "tweettime": "2024-07-12, 01:20:30",
+    "tweeturl": "https://twitter.com/mistymntncop/status/1811571304040136967",
+    "username": "mistymntncop"
+}
+{
+    "expanded_url": [
+        "https://github.com/Mr-r00t11/CVE-2024-37081"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "CVE-2024-37081: The vCenter Server contains multiple local privilege escalation vulnerabilities due to misconfiguration of sudo. ..\nhttps://t.co/rNcawNXCMn https://t.co/iQBtTwehw1",
+    "tweettime": "2024-07-11, 13:50:48",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1811397734626144535",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 180,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 63,
+    "tweettext": "#ZeroClick #RCE in Outlook ones again. \nUnlike the previously discovered vulnerability CVE-2024-30103 disclosed in June —which required authentication (at least an NTLM token)— this new vulnerability does not require any authentication\nIt requires 0clicks for known senders else 1",
+    "tweettime": "2024-07-10, 19:49:03",
+    "tweeturl": "https://twitter.com/Gi7w0rm/status/1811125503916384258",
+    "username": "Gi7w0rm"
+}
+{
+    "expanded_url": [
+        "https://github.com/Mr-r00t11/CVE-2024-37081"
+    ],
+    "tweetfavorites": 185,
+    "tweetquotes": 1,
+    "tweetreplies": 13,
+    "tweetretweets": 53,
+    "tweettext": "VMware vCenter - CVE-2024-37081 Proof of Concept\nhttps://t.co/tcmxKJGE3B",
+    "tweettime": "2024-07-10, 13:51:11",
+    "tweeturl": "https://twitter.com/momika233/status/1811035441996648532",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://blog.morphisec.com/cve-2024-38021-microsoft-outlook-moniker-rce-vulnerability"
+    ],
+    "tweetfavorites": 257,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 93,
+    "tweettext": "CVE-2024-38021 - a zero-click remote code execution (RCE) vulnerability that impacts most Microsoft Outlook applications. https://t.co/wZfZzcXv3n",
+    "tweettime": "2024-07-10, 13:27:43",
+    "tweeturl": "https://twitter.com/securityshell/status/1811029535699222558",
+    "username": "securityshell"
+}
+{
+    "expanded_url": [
+        "https://x.com/_CPResearch_/status/1810786417985069286"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 5,
+    "tweettext": "Thanks to the CP&lt;r&gt; team - many folks involved on this discovery.\n\nFull details regarding the .url &amp; IE spoofing \"technically zero-day\" attacks have been released! \nhttps://t.co/37zEiUt2tE\n\n#CVE-2024-38112 #URLFile #IE #zeroday #0day #itw #exploit",
+    "tweettime": "2024-07-09, 21:51:28",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1810793921103921639",
+    "username": "HaifeiLi"
+}
+{
+    "expanded_url": [
+        "https://research.checkpoint.com/2024/resurrecting-internet-explorer-threat-actors-using-zero-day-tricks-in-internet-shortcut-file-to-lure-victims-cve-2024-38112/"
+    ],
+    "tweetfavorites": 180,
+    "tweetquotes": 12,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "In May, CPR discovered in the wild that threat actors have been using previously unknown tricks in .url files &amp; IE to lure victims for RCE. These “technically zero-day” attacks have lasted over a year. Microsoft patched it as CVE-2024-38112 this Tuesday.\nhttps://t.co/jOupdxg0as",
+    "tweettime": "2024-07-09, 21:21:39",
+    "tweeturl": "https://twitter.com/_CPResearch_/status/1810786417985069286",
+    "username": "_CPResearch_"
+}
+{
+    "expanded_url": [
+        "https://summoning.team/blog/progress-whatsup-gold-privesc-setadminpassword-cve-2024-5009/"
+    ],
+    "tweetfavorites": 158,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 30,
+    "tweettext": "🤷‍♂️Enjoying the blog posts so far? well this is the 3rd writeup for today ☠️, details of my privilege escalation ⏫against progress is out now, this is CVE-2024-5009 🔥\nhttps://t.co/cuLTzY2UwC https://t.co/dm8nNnJcrG",
+    "tweettime": "2024-07-08, 12:26:02",
+    "tweeturl": "https://twitter.com/SinSinology/status/1810289238212034784",
+    "username": "SinSinology"
+}
+{
+    "expanded_url": [
+        "https://github.com/sinsinology/CVE-2024-5009"
+    ],
+    "tweetfavorites": 141,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Aaaaaand that's a wrap ♾, here is the 3/3 exploit of today, a privilege escalation ⏫ targeting progress whatsup gold, this is CVE-2024-5009 🚨 don't forget, I teach things like this (and waaay more) in my Advanced .NET Exploitation Training 🔥🪲🔥\nhttps://t.co/AjR5M04lLd https://t.co/DAl4sECRYf",
+    "tweettime": "2024-07-08, 12:25:12",
+    "tweeturl": "https://twitter.com/SinSinology/status/1810289028803051538",
+    "username": "SinSinology"
+}
+{
+    "expanded_url": [
+        "https://summoning.team/blog/progress-whatsup-gold-writedatafile-cve-2024-4883-rce/"
+    ],
+    "tweetfavorites": 301,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 32,
+    "tweettext": "Here is the second blog post of today (2/3) ⚡️⚡️, I've just published the details of my other pre-auth Remote Code Execution 🔥 against progress this is CVE-2024-4883 🪲\nhttps://t.co/eexo572A8o",
+    "tweettime": "2024-07-08, 12:21:50",
+    "tweeturl": "https://twitter.com/SinSinology/status/1810288180882559251",
+    "username": "SinSinology"
+}
+{
+    "tweetfavorites": 79,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 35,
+    "tweettext": "⚠️ CVE-2024-6376 (CVSS 9.8) in MongoDB Compass Exposes Systems to Code Injection Risks\n\nA critical security vulnerability, CVE-2024-6376, has been discovered in MongoDB Compass, a widely-used GUI for MongoDB data management.\n\nThis vulnerability affects MongoDB Compass versions https://t.co/J9IBTfRjbT",
+    "tweettime": "2024-07-07, 06:36:37",
+    "tweeturl": "https://twitter.com/H4ckManac/status/1809838917203493180",
+    "username": "H4ckManac"
+}
+{
+    "expanded_url": [
+        "https://github.com/google/security-research/blob/master/pocs/linux/kernelctf/CVE-2024-0193_cos/docs/exploit.md"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "RT @binitamshah: PoC :  Linux Kernel Privilege Escalation (CVE-2024-0193) : https://t.co/YAwc8RGeaT",
+    "tweettime": "2024-07-06, 09:15:15",
+    "tweeturl": "https://twitter.com/momika233/status/1809516449452683759",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 339,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 54,
+    "tweettext": "CVE-2024-36991 https://t.co/75mjWgktHr",
+    "tweettime": "2024-07-05, 15:35:39",
+    "tweeturl": "https://twitter.com/chybeta/status/1809249794122215557",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/google/security-research/blob/master/pocs/linux/kernelctf/CVE-2024-0193_cos/docs/exploit.md"
+    ],
+    "tweetfavorites": 260,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "PoC :  Linux Kernel Privilege Escalation (CVE-2024-0193) : https://t.co/YAwc8RGeaT",
+    "tweettime": "2024-07-05, 12:18:49",
+    "tweeturl": "https://twitter.com/binitamshah/status/1809200258926383567",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 263,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 38,
+    "tweettext": "#CVE-2024-21007 Weblogic Server Remote Code Execution https://t.co/suiMbdfZTL",
+    "tweettime": "2024-07-05, 05:45:52",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1809101367149219987",
+    "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/blob/master/geoserver/CVE-2024-36401/README.md"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 52,
+    "tweettext": "GeoServer xpath expression injection to RCE (CVE-2024-36401) TWO POC\nhttps://t.co/yt13M4Oerq https://t.co/CWeFK7eNiA",
+    "tweettime": "2024-07-03, 14:29:45",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1808508432557003002",
+    "username": "phithon_xg"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/tree/master/geoserver/CVE-2024-36401",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22GeoServer%22"
+    ],
+    "tweetfavorites": 176,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 42,
+    "tweettext": "🚨Alert🚨CVE-2024-36401 (CVSS 9.8): GeoServer Unauthenticated Remote Code Execution in Evaluating Property Name Expressions \n🔥PoC: https://t.co/92Ov2433mW\n📊6.4K+ Services are found on https://t.co/ysWb28Crld\n🔗Hunter Link: https://t.co/0Qu4uLondE\n\n👇Search Query\nHunter: https://t.co/VcolV2OfOn",
+    "tweettime": "2024-07-03, 03:31:37",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1808342808849441201",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-1724-snap-sandbox-escape-vulnerability-threatens-linux-systems/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "CVE-2024-1724: Snap Sandbox Escape Vulnerability Threatens Linux Systems https://t.co/BetgFj9pBE",
+    "tweettime": "2024-07-02, 03:51:43",
+    "tweeturl": "https://twitter.com/Dinosn/status/1807985477154120102",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://hunter.how/list?searchValue=product.name%3D%22OpenSSH%22",
+        "https://github.com/xaitax/CVE-2024-6387_Check"
+    ],
+    "tweetfavorites": 262,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 78,
+    "tweettext": "🚨Alert🚨CVE-2024-6387: Remote Unauthenticated Code Execution Vulnerability in OpenSSH server\n🔗Hunter Link: https://t.co/P2bN5nm6UJ\n💼Scan Tool @xaitax: https://t.co/IwIP1EChQq\n⚠The vulnerability, which is a signal handler race condition in OpenSSH’s server (sshd), allows https://t.co/msUJVaodFT",
+    "tweettime": "2024-07-02, 01:38:44",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1807952010991620464",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://github.com/zgzhang/cve-2024-6387-poc/"
+    ],
+    "tweetfavorites": 575,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 172,
+    "tweettext": "SSH RCE Exploit for CVE-2024-6387\nhttps://t.co/Z6Ef4yEaqP",
+    "tweettime": "2024-07-02, 00:50:29",
+    "tweeturl": "https://twitter.com/momika233/status/1807939868523483273",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 64,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 32,
+    "tweettext": "🚒 This week started with an RCE in OpenSSH 🔥\n\nCVE-2024-6387 affects OpenSSH versions from 8.5p1 to 9.7p1 and is a regression of an old flaw, CVE-2006-5051. An unauthenticated attacker can gain root access on glibc-based Linux systems, but they need to trigger a race condition https://t.co/tvRuui65J5",
+    "tweettime": "2024-07-01, 13:23:27",
+    "tweeturl": "https://twitter.com/kaspersky/status/1807766971049476193",
+    "username": "kaspersky"
+}
+{
+    "expanded_url": [
+        "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt",
+        "https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 38,
+    "tweettext": "regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387) - Technical Details  : https://t.co/hoiazZIHZn\n\nRemote Unauthenticated Code Execution Vulnerability in OpenSSH server : https://t.co/l0DpziLdAj",
+    "tweettime": "2024-07-01, 12:09:11",
+    "tweeturl": "https://twitter.com/binitamshah/status/1807748282518810922",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-published-for-linux-kernel-privilege-escalation-flaw-cve-2024-0193/"
+    ],
+    "tweetfavorites": 229,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "PoC Exploit Published for Linux Kernel Privilege Escalation Flaw (CVE-2024-0193) https://t.co/xXlXZfg9lM",
+    "tweettime": "2024-07-01, 03:50:57",
+    "tweeturl": "https://twitter.com/Dinosn/status/1807622898783322373",
+    "username": "Dinosn"
+}
