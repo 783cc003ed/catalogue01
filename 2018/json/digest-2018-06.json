@@ -614,3 +614,396 @@
     "tweeturl": "https://twitter.com/ddouhine/status/1003211078623551488",
     "username": "ddouhine"
 }
+{
+    "expanded_url": [
+        "https://www.fortinet.com/blog/threat-research/an-analysis-of-the-use-after-free-bug-in-microsoft-edge-chakra-engine.html"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "Poc/Details of Microsoft Edge Chakra Engine JIT Use-after-free Vulnerability by fortinet (CVE-2018-0946):\nhttps://t.co/orvqaCjk0l",
+    "tweettime": "2018-06-29, 10:08:31",
+    "tweeturl": "https://twitter.com/hosselot/status/1012638938014605312",
+    "username": "hosselot"
+}
+{
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 48,
+    "tweettext": "GreyNoise has observed a large amount of likely compromised devices (~2,200) opportunistically exploiting CVE-2014-1635, which targets a several-year-old patched RCE vulnerability in Belkin N750 routers. Tags for these compromised devices are available to our users now. https://t.co/FJqrRHrvvv",
+    "tweettime": "2018-06-24, 04:05:29",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1010735638784675841",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://blog.heroku.com/rails-asset-pipeline-vulnerability"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 19,
+    "tweettext": "Good news everyone! There's a Rails Asset Pipeline Directory Traversal Vulnerability (CVE-2018-3760) that has just been released.\n https://t.co/gaveZoTjEb",
+    "tweettime": "2018-06-19, 16:20:57",
+    "tweeturl": "https://twitter.com/schneems/status/1009108784952770560",
+    "username": "schneems"
+}
+{
+    "expanded_url": [
+        "https://codewhitesec.blogspot.com/2018/06/cve-2018-0624.html"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "Microsoft COM for Windows Remote Code Execution Vulnerability (CVE-2018-0824) Analysis and PoC\nhttps://t.co/ndbJ5pIalp",
+    "tweettime": "2018-06-16, 06:00:55",
+    "tweeturl": "https://twitter.com/Dinosn/status/1007865584875397120",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/codewhitesec/status/1007614010504765440"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 84,
+    "tweettext": "For the COM lovers -  My analysis of CVE-2018-0624 with POC :-) https://t.co/kfPqpm9T6O",
+    "tweettime": "2018-06-15, 13:22:10",
+    "tweeturl": "https://twitter.com/matthias_kaiser/status/1007614242231586816",
+    "username": "matthias_kaiser"
+}
+{
+    "expanded_url": [
+        "https://codewhitesec.blogspot.com/2018/06/cve-2018-0624.html"
+    ],
+    "tweetfavorites": 236,
+    "tweetquotes": 12,
+    "tweetreplies": 4,
+    "tweetretweets": 164,
+    "tweettext": "No public details for CVE-2018-0624? Not our style ;) Check out our new blog https://t.co/CQJDDCXtuq",
+    "tweettime": "2018-06-15, 13:21:15",
+    "tweeturl": "https://twitter.com/codewhitesec/status/1007614010504765440",
+    "username": "codewhitesec"
+}
+{
+    "expanded_url": [
+        "https://r.sec-consult.com/ntfstrick"
+    ],
+    "tweetfavorites": 255,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 142,
+    "tweettext": "Good read: Pentester's Windows NTFS tricks collection https://t.co/9MLo0EvCBO (including CVE-2018-1036 - Windows NTFS Elevation of Privilege) by @ReneFreingruber #pentesting #howitsdone #eop #PatchTuesday https://t.co/vzSmmkGQZG",
+    "tweettime": "2018-06-13, 07:40:47",
+    "tweeturl": "https://twitter.com/sec_consult/status/1006803554865205248",
+    "username": "sec_consult"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 0,
+    "tweetreplies": 5,
+    "tweetretweets": 40,
+    "tweettext": "If you are looking for the decrypted SWF for CVE-2018-5002, the full hash is:\n\nf63a51e78116bebfa1780736d343c9eb",
+    "tweettime": "2018-06-07, 13:48:05",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1004721659637653504",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "http://blogs.360.cn/blog/cve-2018-5002-en/"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 99,
+    "tweettext": "CVE-2018-5002 – Analysis of the Second Wave of Flash Zero-day Exploit in 2018... https://t.co/gwuLu68o68",
+    "tweettime": "2018-06-07, 12:36:56",
+    "tweeturl": "https://twitter.com/360CoreSec/status/1004703755806257152",
+    "username": "360CoreSec"
+}
+{
+    "tweetfavorites": 58,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "My first browser exploit :) Integer overflow in JS Array's reduceRight() leading to RCE! (CVE-2011-2371) Windows 7 (ASLR + DEP enabled). https://t.co/yFg0WWIzGt",
+    "tweettime": "2018-06-04, 07:59:17",
+    "tweeturl": "https://twitter.com/dhaval_kapil/status/1003546718346960897",
+    "username": "dhaval_kapil"
+}
+{
+    "tweetfavorites": 281,
+    "tweetquotes": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 151,
+    "tweettext": "UAF exploit in WebKit's JavaScriptCore library (CVE-2016-4657) landed in @metasploit !! First #iOS exploit in #metasploit since 2012 and one of the vuln used by the #Pegasus spyware. Awesome project by @timwr backed up by @qwertyoruiopz @s1guza @thimstar works #PhoenixNonce https://t.co/0d63HeXVex",
+    "tweettime": "2018-06-03, 09:45:34",
+    "tweeturl": "https://twitter.com/ddouhine/status/1003211078623551488",
+    "username": "ddouhine"
+}
+{
+    "expanded_url": [
+        "https://www.fortinet.com/blog/threat-research/an-analysis-of-the-use-after-free-bug-in-microsoft-edge-chakra-engine.html"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "Poc/Details of Microsoft Edge Chakra Engine JIT Use-after-free Vulnerability by fortinet (CVE-2018-0946):\nhttps://t.co/orvqaCjk0l",
+    "tweettime": "2018-06-29, 10:08:31",
+    "tweeturl": "https://twitter.com/hosselot/status/1012638938014605312",
+    "username": "hosselot"
+}
+{
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 48,
+    "tweettext": "GreyNoise has observed a large amount of likely compromised devices (~2,200) opportunistically exploiting CVE-2014-1635, which targets a several-year-old patched RCE vulnerability in Belkin N750 routers. Tags for these compromised devices are available to our users now. https://t.co/FJqrRHrvvv",
+    "tweettime": "2018-06-24, 04:05:29",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1010735638784675841",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://blog.heroku.com/rails-asset-pipeline-vulnerability"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 19,
+    "tweettext": "Good news everyone! There's a Rails Asset Pipeline Directory Traversal Vulnerability (CVE-2018-3760) that has just been released.\n https://t.co/gaveZoTjEb",
+    "tweettime": "2018-06-19, 16:20:57",
+    "tweeturl": "https://twitter.com/schneems/status/1009108784952770560",
+    "username": "schneems"
+}
+{
+    "expanded_url": [
+        "https://codewhitesec.blogspot.com/2018/06/cve-2018-0624.html"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "Microsoft COM for Windows Remote Code Execution Vulnerability (CVE-2018-0824) Analysis and PoC\nhttps://t.co/ndbJ5pIalp",
+    "tweettime": "2018-06-16, 06:00:55",
+    "tweeturl": "https://twitter.com/Dinosn/status/1007865584875397120",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/codewhitesec/status/1007614010504765440"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 84,
+    "tweettext": "For the COM lovers -  My analysis of CVE-2018-0624 with POC :-) https://t.co/kfPqpm9T6O",
+    "tweettime": "2018-06-15, 13:22:10",
+    "tweeturl": "https://twitter.com/matthias_kaiser/status/1007614242231586816",
+    "username": "matthias_kaiser"
+}
+{
+    "expanded_url": [
+        "https://codewhitesec.blogspot.com/2018/06/cve-2018-0624.html"
+    ],
+    "tweetfavorites": 236,
+    "tweetquotes": 12,
+    "tweetreplies": 4,
+    "tweetretweets": 164,
+    "tweettext": "No public details for CVE-2018-0624? Not our style ;) Check out our new blog https://t.co/CQJDDCXtuq",
+    "tweettime": "2018-06-15, 13:21:15",
+    "tweeturl": "https://twitter.com/codewhitesec/status/1007614010504765440",
+    "username": "codewhitesec"
+}
+{
+    "expanded_url": [
+        "https://r.sec-consult.com/ntfstrick"
+    ],
+    "tweetfavorites": 255,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 142,
+    "tweettext": "Good read: Pentester's Windows NTFS tricks collection https://t.co/9MLo0EvCBO (including CVE-2018-1036 - Windows NTFS Elevation of Privilege) by @ReneFreingruber #pentesting #howitsdone #eop #PatchTuesday https://t.co/vzSmmkGQZG",
+    "tweettime": "2018-06-13, 07:40:47",
+    "tweeturl": "https://twitter.com/sec_consult/status/1006803554865205248",
+    "username": "sec_consult"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 0,
+    "tweetreplies": 5,
+    "tweetretweets": 40,
+    "tweettext": "If you are looking for the decrypted SWF for CVE-2018-5002, the full hash is:\n\nf63a51e78116bebfa1780736d343c9eb",
+    "tweettime": "2018-06-07, 13:48:05",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1004721659637653504",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "http://blogs.360.cn/blog/cve-2018-5002-en/"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 99,
+    "tweettext": "CVE-2018-5002 – Analysis of the Second Wave of Flash Zero-day Exploit in 2018... https://t.co/gwuLu68o68",
+    "tweettime": "2018-06-07, 12:36:56",
+    "tweeturl": "https://twitter.com/360CoreSec/status/1004703755806257152",
+    "username": "360CoreSec"
+}
+{
+    "tweetfavorites": 58,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "My first browser exploit :) Integer overflow in JS Array's reduceRight() leading to RCE! (CVE-2011-2371) Windows 7 (ASLR + DEP enabled). https://t.co/yFg0WWIzGt",
+    "tweettime": "2018-06-04, 07:59:17",
+    "tweeturl": "https://twitter.com/dhaval_kapil/status/1003546718346960897",
+    "username": "dhaval_kapil"
+}
+{
+    "tweetfavorites": 281,
+    "tweetquotes": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 151,
+    "tweettext": "UAF exploit in WebKit's JavaScriptCore library (CVE-2016-4657) landed in @metasploit !! First #iOS exploit in #metasploit since 2012 and one of the vuln used by the #Pegasus spyware. Awesome project by @timwr backed up by @qwertyoruiopz @s1guza @thimstar works #PhoenixNonce https://t.co/0d63HeXVex",
+    "tweettime": "2018-06-03, 09:45:34",
+    "tweeturl": "https://twitter.com/ddouhine/status/1003211078623551488",
+    "username": "ddouhine"
+}
+{
+    "expanded_url": [
+        "https://www.fortinet.com/blog/threat-research/an-analysis-of-the-use-after-free-bug-in-microsoft-edge-chakra-engine.html"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "Poc/Details of Microsoft Edge Chakra Engine JIT Use-after-free Vulnerability by fortinet (CVE-2018-0946):\nhttps://t.co/orvqaCjk0l",
+    "tweettime": "2018-06-29, 10:08:31",
+    "tweeturl": "https://twitter.com/hosselot/status/1012638938014605312",
+    "username": "hosselot"
+}
+{
+    "tweetfavorites": 73,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 48,
+    "tweettext": "GreyNoise has observed a large amount of likely compromised devices (~2,200) opportunistically exploiting CVE-2014-1635, which targets a several-year-old patched RCE vulnerability in Belkin N750 routers. Tags for these compromised devices are available to our users now. https://t.co/FJqrRHrvvv",
+    "tweettime": "2018-06-24, 04:05:29",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1010735638784675841",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://blog.heroku.com/rails-asset-pipeline-vulnerability"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 19,
+    "tweettext": "Good news everyone! There's a Rails Asset Pipeline Directory Traversal Vulnerability (CVE-2018-3760) that has just been released.\n https://t.co/gaveZoTjEb",
+    "tweettime": "2018-06-19, 16:20:57",
+    "tweeturl": "https://twitter.com/schneems/status/1009108784952770560",
+    "username": "schneems"
+}
+{
+    "expanded_url": [
+        "https://codewhitesec.blogspot.com/2018/06/cve-2018-0624.html"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "Microsoft COM for Windows Remote Code Execution Vulnerability (CVE-2018-0824) Analysis and PoC\nhttps://t.co/ndbJ5pIalp",
+    "tweettime": "2018-06-16, 06:00:55",
+    "tweeturl": "https://twitter.com/Dinosn/status/1007865584875397120",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/codewhitesec/status/1007614010504765440"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 84,
+    "tweettext": "For the COM lovers -  My analysis of CVE-2018-0624 with POC :-) https://t.co/kfPqpm9T6O",
+    "tweettime": "2018-06-15, 13:22:10",
+    "tweeturl": "https://twitter.com/matthias_kaiser/status/1007614242231586816",
+    "username": "matthias_kaiser"
+}
+{
+    "expanded_url": [
+        "https://codewhitesec.blogspot.com/2018/06/cve-2018-0624.html"
+    ],
+    "tweetfavorites": 236,
+    "tweetquotes": 12,
+    "tweetreplies": 4,
+    "tweetretweets": 164,
+    "tweettext": "No public details for CVE-2018-0624? Not our style ;) Check out our new blog https://t.co/CQJDDCXtuq",
+    "tweettime": "2018-06-15, 13:21:15",
+    "tweeturl": "https://twitter.com/codewhitesec/status/1007614010504765440",
+    "username": "codewhitesec"
+}
+{
+    "expanded_url": [
+        "https://r.sec-consult.com/ntfstrick"
+    ],
+    "tweetfavorites": 255,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 142,
+    "tweettext": "Good read: Pentester's Windows NTFS tricks collection https://t.co/9MLo0EvCBO (including CVE-2018-1036 - Windows NTFS Elevation of Privilege) by @ReneFreingruber #pentesting #howitsdone #eop #PatchTuesday https://t.co/vzSmmkGQZG",
+    "tweettime": "2018-06-13, 07:40:47",
+    "tweeturl": "https://twitter.com/sec_consult/status/1006803554865205248",
+    "username": "sec_consult"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 0,
+    "tweetreplies": 5,
+    "tweetretweets": 40,
+    "tweettext": "If you are looking for the decrypted SWF for CVE-2018-5002, the full hash is:\n\nf63a51e78116bebfa1780736d343c9eb",
+    "tweettime": "2018-06-07, 13:48:05",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1004721659637653504",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "http://blogs.360.cn/blog/cve-2018-5002-en/"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 99,
+    "tweettext": "CVE-2018-5002 – Analysis of the Second Wave of Flash Zero-day Exploit in 2018... https://t.co/gwuLu68o68",
+    "tweettime": "2018-06-07, 12:36:56",
+    "tweeturl": "https://twitter.com/360CoreSec/status/1004703755806257152",
+    "username": "360CoreSec"
+}
+{
+    "tweetfavorites": 58,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "My first browser exploit :) Integer overflow in JS Array's reduceRight() leading to RCE! (CVE-2011-2371) Windows 7 (ASLR + DEP enabled). https://t.co/yFg0WWIzGt",
+    "tweettime": "2018-06-04, 07:59:17",
+    "tweeturl": "https://twitter.com/dhaval_kapil/status/1003546718346960897",
+    "username": "dhaval_kapil"
+}
+{
+    "tweetfavorites": 281,
+    "tweetquotes": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 151,
+    "tweettext": "UAF exploit in WebKit's JavaScriptCore library (CVE-2016-4657) landed in @metasploit !! First #iOS exploit in #metasploit since 2012 and one of the vuln used by the #Pegasus spyware. Awesome project by @timwr backed up by @qwertyoruiopz @s1guza @thimstar works #PhoenixNonce https://t.co/0d63HeXVex",
+    "tweettime": "2018-06-03, 09:45:34",
+    "tweeturl": "https://twitter.com/ddouhine/status/1003211078623551488",
+    "username": "ddouhine"
+}

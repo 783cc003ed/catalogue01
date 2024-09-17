@@ -878,3 +878,627 @@
     "tweeturl": "https://twitter.com/x9090/status/980944786696822784",
     "username": "x9090"
 }
+{
+    "expanded_url": [
+        "http://www.paulosyibelo.com/2018/04/safervpn-cve-2018-10308-from-dos-to-ip.html"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "DoS to DeAnonymization —  @PaulosYibelo find a flaw (CVE-2018-10308) in SaferVPN's chrome extension that leaks users' real IP address.\n\nIf a site tries to resolve non-existent domains continually, SaferVPN extension kills itself, leaving user uncovered.\n\nhttps://t.co/SUhQ2LKkip",
+    "tweettime": "2018-04-27, 17:46:39",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/989923796252585984",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://xiaodaozhi.com/exploit/132.html"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "Cve-2015-2546 Uaf Analysis And Exploitation https://t.co/1JVkWqlRuE",
+    "tweettime": "2018-04-22, 13:18:50",
+    "tweeturl": "https://twitter.com/Dinosn/status/988044456690675712",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://xiaodaozhi.com/exploit/122.html",
+        "https://xiaodaozhi.com/exploit/132.html"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "CVE-2015-2546 use-after-free analysis and exploitation: [zh]https://t.co/hAbgxzxlc5 [en]https://t.co/6CLw4r08RP - similar to and different from CVE-2017-0263 https://t.co/mXI1965rGR",
+    "tweettime": "2018-04-22, 11:08:40",
+    "tweeturl": "https://twitter.com/Leeqwind/status/988011700812107776",
+    "username": "Leeqwind"
+}
+{
+    "expanded_url": [
+        "https://github.com/preempt/credssp",
+        "https://thehackernews.com/2018/03/credssp-rdp-exploit.html"
+    ],
+    "tweetfavorites": 379,
+    "tweetquotes": 10,
+    "tweetreplies": 4,
+    "tweetretweets": 357,
+    "tweettext": "Proof-of-Concept (PoC) exploit for Windows CredSSP remote code execution vulnerability (CVE-2018-0886) is now available\n\nExploit Code — https://t.co/OC2wQlqA1T\n\nDetails — https://t.co/5fxl1C1v50\n\nCredSSP RDP flaw affects all versions of Windows. https://t.co/EXPAvQw4Kl",
+    "tweettime": "2018-04-16, 18:44:41",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/985952133206900736",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1500"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 85,
+    "tweettext": "As promised last week, the details of the .PDB heap memory disclosure in Visual Studio (CVE-2018-1037) are now available at https://t.co/vgryBrNBc0. Infoleaks are a really special breed of bugs, be it in kernel or user-mode 🐛 https://t.co/diwbO7I5S7",
+    "tweettime": "2018-04-16, 14:55:33",
+    "tweeturl": "https://twitter.com/j00ru/status/985894472478265344",
+    "username": "j00ru"
+}
+{
+    "tweetfavorites": 97,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 93,
+    "tweettext": "GreyNoise has CONFIRMED widespread opportunistic exploitation of the #Drupal CVE-2018-7600 vulnerability. Patient zero spotted at 2:00PM EST yesterday, 4/13/2018. 720 IPs confirmed spreading the worm so far and increasing quickly. Network owners of compromised hosts attached. https://t.co/BRGH8iaRLH",
+    "tweettime": "2018-04-14, 18:24:45",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/985222340576468992",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://store.volatileminds.net/Home/ViewProduct?id=589c39be-a5e0-4acf-aeb7-a8c10019d88d&name=Drupal%20Core%20Unauthenticated%20Remote%20Code%20Execution"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 18,
+    "tweettext": "Uploaded a Metasploit module to the VolatileMinds store exploiting the recent unauthenticated Drupal RCE (SA-CORE-2018-002 / CVE-2018-7600). \n\nhttps://t.co/QhnysXERlp",
+    "tweettime": "2018-04-13, 01:36:59",
+    "tweeturl": "https://twitter.com/BrandonPrry/status/984606339233210368",
+    "username": "BrandonPrry"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/outlook-smb-vulnerability.html"
+    ],
+    "tweetfavorites": 503,
+    "tweetquotes": 41,
+    "tweetreplies": 16,
+    "tweetretweets": 650,
+    "tweettext": "Warning—Just opening an email in Microsoft Outlook can give away your Windows password to hackers, without requiring additional interaction\n\nhttps://t.co/eekEUujcdv\n\nThis week, MS issued an incomplete fix for #Outlook flaw (CVE-2018-0950)—almost 18 months after the initial report https://t.co/i4qJUdHIxm",
+    "tweettime": "2018-04-12, 07:39:19",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/984335136044011520",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 69,
+    "tweetquotes": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 48,
+    "tweettext": "Microsoft also released a patch for another critical RCE flaw (CVE-2018-1004), which exists in Windows VBScript Engine &amp; affects all versions of Windows.\n\n\"An attacker could host a specially crafted website that is designed to exploit the vulnerability through IE,\" MS explains",
+    "tweettime": "2018-04-10, 21:56:38",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/983826111078559744",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/enterprise-password-vault.html"
+    ],
+    "tweetfavorites": 120,
+    "tweetquotes": 8,
+    "tweetreplies": 1,
+    "tweetretweets": 153,
+    "tweettext": "Critical Remote Code Execution (CVE-2018-9843) Vulnerability Discovered in #CyberArk Password Vault Web Access\n\nPoC Exploit Released — https://t.co/wWgZj8GjYy\n\nEnterprises Using CyberArk's Privileged Account Security Solution are Highly Recommended to Upgrade Software Immediately https://t.co/0suv76LHb2",
+    "tweettime": "2018-04-09, 14:54:27",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/983357479437422595",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 202,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 86,
+    "tweettext": "CVE-2018-1270 Remote Code Execution with spring-messaging https://t.co/rHG3p3p0rP",
+    "tweettime": "2018-04-08, 14:24:51",
+    "tweeturl": "https://twitter.com/pyn3rd/status/982987640931737600",
+    "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://www.exploit-db.com/exploits/43516/"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2018-0752 - Exploit\n\nMicrosoft Windows - NtImpersonateAnonymousToken LPAC to Non-LPAC Privilege Escalation\n\n#infosec #pentest #exploit \nhttps://t.co/yGn0mCRtLq https://t.co/W5w7KRAZtL",
+    "tweettime": "2018-04-08, 07:59:34",
+    "tweeturl": "https://twitter.com/CyberWarship/status/982890682904989696",
+    "username": "CyberWarship"
+}
+{
+    "tweetfavorites": 79,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 18,
+    "tweettext": "Google Project Zero publishes WebKit bug (CVE-2018-4121) along with write-up and PoC. It achieves sandbox escape in iOS 11.2.6. #security #update",
+    "tweettime": "2018-04-08, 07:24:49",
+    "tweeturl": "https://twitter.com/Yalujb/status/982881935683829762",
+    "username": "Yalujb"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/spring-framework-hacking.html"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 138,
+    "tweettext": "Three Vulnerabilities Discovered in Spring Development Framework — Upgrade Immediately to Protect Your Applications\n\nhttps://t.co/ytHgTw59LU\n\nCritical — RCE Attack (CVE-2018-1270)\nHigh — Directory Traversal Attack (CVE-2018-1271)\nLow — Multipart Content Pollution (CVE-2018-1272) https://t.co/3UQj3iD3qO",
+    "tweettime": "2018-04-06, 08:05:04",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/982167289398099968",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/cisco-switches-hacking.html"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 131,
+    "tweettext": "Security researchers have disclosed details &amp; PoC for a critical remote code execution vulnerability (CVE-2018-0171) in the \"Cisco Smart Install\" feature of Cisco IOS &amp; Cisco IOS XE Software\n\nhttps://t.co/F1QRbMrTWf\n\nFlaw leaves thousands of network devices vulnerable to hacking https://t.co/rtKZSbtnW8",
+    "tweettime": "2018-04-04, 15:04:48",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/981548143182565376",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 69,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 41,
+    "tweettext": "Threadkit seems to have a new CVE-2018-4878 exploit, or at least I've not seen it before. Is this new? https://t.co/t5iYV2cB0a",
+    "tweettime": "2018-04-03, 10:35:45",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/981118047846006784",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://www.fortinet.com/blog/threat-research/a-root-cause-analysis-of-cve-2018-0797---rich-text-format-styles.html"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "My differential analysis to find out the root cause of Word UAF vulnerability CVE-2018-0797. #AlleyCat and #Lighthouse plugins users might want to check this out as there are some improvements for these tools https://t.co/tYqvsLzJeD",
+    "tweettime": "2018-04-02, 23:07:16",
+    "tweeturl": "https://twitter.com/x9090/status/980944786696822784",
+    "username": "x9090"
+}
+{
+    "expanded_url": [
+        "http://www.paulosyibelo.com/2018/04/safervpn-cve-2018-10308-from-dos-to-ip.html"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "DoS to DeAnonymization —  @PaulosYibelo find a flaw (CVE-2018-10308) in SaferVPN's chrome extension that leaks users' real IP address.\n\nIf a site tries to resolve non-existent domains continually, SaferVPN extension kills itself, leaving user uncovered.\n\nhttps://t.co/SUhQ2LKkip",
+    "tweettime": "2018-04-27, 17:46:39",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/989923796252585984",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://xiaodaozhi.com/exploit/132.html"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "Cve-2015-2546 Uaf Analysis And Exploitation https://t.co/1JVkWqlRuE",
+    "tweettime": "2018-04-22, 13:18:50",
+    "tweeturl": "https://twitter.com/Dinosn/status/988044456690675712",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://xiaodaozhi.com/exploit/122.html",
+        "https://xiaodaozhi.com/exploit/132.html"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "CVE-2015-2546 use-after-free analysis and exploitation: [zh]https://t.co/hAbgxzxlc5 [en]https://t.co/6CLw4r08RP - similar to and different from CVE-2017-0263 https://t.co/mXI1965rGR",
+    "tweettime": "2018-04-22, 11:08:40",
+    "tweeturl": "https://twitter.com/Leeqwind/status/988011700812107776",
+    "username": "Leeqwind"
+}
+{
+    "expanded_url": [
+        "https://github.com/preempt/credssp",
+        "https://thehackernews.com/2018/03/credssp-rdp-exploit.html"
+    ],
+    "tweetfavorites": 379,
+    "tweetquotes": 10,
+    "tweetreplies": 4,
+    "tweetretweets": 357,
+    "tweettext": "Proof-of-Concept (PoC) exploit for Windows CredSSP remote code execution vulnerability (CVE-2018-0886) is now available\n\nExploit Code — https://t.co/OC2wQlqA1T\n\nDetails — https://t.co/5fxl1C1v50\n\nCredSSP RDP flaw affects all versions of Windows. https://t.co/EXPAvQw4Kl",
+    "tweettime": "2018-04-16, 18:44:41",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/985952133206900736",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1500"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 85,
+    "tweettext": "As promised last week, the details of the .PDB heap memory disclosure in Visual Studio (CVE-2018-1037) are now available at https://t.co/vgryBrNBc0. Infoleaks are a really special breed of bugs, be it in kernel or user-mode 🐛 https://t.co/diwbO7I5S7",
+    "tweettime": "2018-04-16, 14:55:33",
+    "tweeturl": "https://twitter.com/j00ru/status/985894472478265344",
+    "username": "j00ru"
+}
+{
+    "tweetfavorites": 97,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 93,
+    "tweettext": "GreyNoise has CONFIRMED widespread opportunistic exploitation of the #Drupal CVE-2018-7600 vulnerability. Patient zero spotted at 2:00PM EST yesterday, 4/13/2018. 720 IPs confirmed spreading the worm so far and increasing quickly. Network owners of compromised hosts attached. https://t.co/BRGH8iaRLH",
+    "tweettime": "2018-04-14, 18:24:45",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/985222340576468992",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://store.volatileminds.net/Home/ViewProduct?id=589c39be-a5e0-4acf-aeb7-a8c10019d88d&name=Drupal%20Core%20Unauthenticated%20Remote%20Code%20Execution"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 18,
+    "tweettext": "Uploaded a Metasploit module to the VolatileMinds store exploiting the recent unauthenticated Drupal RCE (SA-CORE-2018-002 / CVE-2018-7600). \n\nhttps://t.co/QhnysXERlp",
+    "tweettime": "2018-04-13, 01:36:59",
+    "tweeturl": "https://twitter.com/BrandonPrry/status/984606339233210368",
+    "username": "BrandonPrry"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/outlook-smb-vulnerability.html"
+    ],
+    "tweetfavorites": 503,
+    "tweetquotes": 41,
+    "tweetreplies": 16,
+    "tweetretweets": 650,
+    "tweettext": "Warning—Just opening an email in Microsoft Outlook can give away your Windows password to hackers, without requiring additional interaction\n\nhttps://t.co/eekEUujcdv\n\nThis week, MS issued an incomplete fix for #Outlook flaw (CVE-2018-0950)—almost 18 months after the initial report https://t.co/i4qJUdHIxm",
+    "tweettime": "2018-04-12, 07:39:19",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/984335136044011520",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 69,
+    "tweetquotes": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 48,
+    "tweettext": "Microsoft also released a patch for another critical RCE flaw (CVE-2018-1004), which exists in Windows VBScript Engine &amp; affects all versions of Windows.\n\n\"An attacker could host a specially crafted website that is designed to exploit the vulnerability through IE,\" MS explains",
+    "tweettime": "2018-04-10, 21:56:38",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/983826111078559744",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/enterprise-password-vault.html"
+    ],
+    "tweetfavorites": 120,
+    "tweetquotes": 8,
+    "tweetreplies": 1,
+    "tweetretweets": 153,
+    "tweettext": "Critical Remote Code Execution (CVE-2018-9843) Vulnerability Discovered in #CyberArk Password Vault Web Access\n\nPoC Exploit Released — https://t.co/wWgZj8GjYy\n\nEnterprises Using CyberArk's Privileged Account Security Solution are Highly Recommended to Upgrade Software Immediately https://t.co/0suv76LHb2",
+    "tweettime": "2018-04-09, 14:54:27",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/983357479437422595",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 202,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 86,
+    "tweettext": "CVE-2018-1270 Remote Code Execution with spring-messaging https://t.co/rHG3p3p0rP",
+    "tweettime": "2018-04-08, 14:24:51",
+    "tweeturl": "https://twitter.com/pyn3rd/status/982987640931737600",
+    "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://www.exploit-db.com/exploits/43516/"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2018-0752 - Exploit\n\nMicrosoft Windows - NtImpersonateAnonymousToken LPAC to Non-LPAC Privilege Escalation\n\n#infosec #pentest #exploit \nhttps://t.co/yGn0mCRtLq https://t.co/W5w7KRAZtL",
+    "tweettime": "2018-04-08, 07:59:34",
+    "tweeturl": "https://twitter.com/CyberWarship/status/982890682904989696",
+    "username": "CyberWarship"
+}
+{
+    "tweetfavorites": 79,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 18,
+    "tweettext": "Google Project Zero publishes WebKit bug (CVE-2018-4121) along with write-up and PoC. It achieves sandbox escape in iOS 11.2.6. #security #update",
+    "tweettime": "2018-04-08, 07:24:49",
+    "tweeturl": "https://twitter.com/Yalujb/status/982881935683829762",
+    "username": "Yalujb"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/spring-framework-hacking.html"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 138,
+    "tweettext": "Three Vulnerabilities Discovered in Spring Development Framework — Upgrade Immediately to Protect Your Applications\n\nhttps://t.co/ytHgTw59LU\n\nCritical — RCE Attack (CVE-2018-1270)\nHigh — Directory Traversal Attack (CVE-2018-1271)\nLow — Multipart Content Pollution (CVE-2018-1272) https://t.co/3UQj3iD3qO",
+    "tweettime": "2018-04-06, 08:05:04",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/982167289398099968",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/cisco-switches-hacking.html"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 131,
+    "tweettext": "Security researchers have disclosed details &amp; PoC for a critical remote code execution vulnerability (CVE-2018-0171) in the \"Cisco Smart Install\" feature of Cisco IOS &amp; Cisco IOS XE Software\n\nhttps://t.co/F1QRbMrTWf\n\nFlaw leaves thousands of network devices vulnerable to hacking https://t.co/rtKZSbtnW8",
+    "tweettime": "2018-04-04, 15:04:48",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/981548143182565376",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 69,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 41,
+    "tweettext": "Threadkit seems to have a new CVE-2018-4878 exploit, or at least I've not seen it before. Is this new? https://t.co/t5iYV2cB0a",
+    "tweettime": "2018-04-03, 10:35:45",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/981118047846006784",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://www.fortinet.com/blog/threat-research/a-root-cause-analysis-of-cve-2018-0797---rich-text-format-styles.html"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "My differential analysis to find out the root cause of Word UAF vulnerability CVE-2018-0797. #AlleyCat and #Lighthouse plugins users might want to check this out as there are some improvements for these tools https://t.co/tYqvsLzJeD",
+    "tweettime": "2018-04-02, 23:07:16",
+    "tweeturl": "https://twitter.com/x9090/status/980944786696822784",
+    "username": "x9090"
+}
+{
+    "expanded_url": [
+        "http://www.paulosyibelo.com/2018/04/safervpn-cve-2018-10308-from-dos-to-ip.html"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "DoS to DeAnonymization —  @PaulosYibelo find a flaw (CVE-2018-10308) in SaferVPN's chrome extension that leaks users' real IP address.\n\nIf a site tries to resolve non-existent domains continually, SaferVPN extension kills itself, leaving user uncovered.\n\nhttps://t.co/SUhQ2LKkip",
+    "tweettime": "2018-04-27, 17:46:39",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/989923796252585984",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://xiaodaozhi.com/exploit/132.html"
+    ],
+    "tweetfavorites": 60,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "Cve-2015-2546 Uaf Analysis And Exploitation https://t.co/1JVkWqlRuE",
+    "tweettime": "2018-04-22, 13:18:50",
+    "tweeturl": "https://twitter.com/Dinosn/status/988044456690675712",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://xiaodaozhi.com/exploit/122.html",
+        "https://xiaodaozhi.com/exploit/132.html"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "CVE-2015-2546 use-after-free analysis and exploitation: [zh]https://t.co/hAbgxzxlc5 [en]https://t.co/6CLw4r08RP - similar to and different from CVE-2017-0263 https://t.co/mXI1965rGR",
+    "tweettime": "2018-04-22, 11:08:40",
+    "tweeturl": "https://twitter.com/Leeqwind/status/988011700812107776",
+    "username": "Leeqwind"
+}
+{
+    "expanded_url": [
+        "https://github.com/preempt/credssp",
+        "https://thehackernews.com/2018/03/credssp-rdp-exploit.html"
+    ],
+    "tweetfavorites": 379,
+    "tweetquotes": 10,
+    "tweetreplies": 4,
+    "tweetretweets": 357,
+    "tweettext": "Proof-of-Concept (PoC) exploit for Windows CredSSP remote code execution vulnerability (CVE-2018-0886) is now available\n\nExploit Code — https://t.co/OC2wQlqA1T\n\nDetails — https://t.co/5fxl1C1v50\n\nCredSSP RDP flaw affects all versions of Windows. https://t.co/EXPAvQw4Kl",
+    "tweettime": "2018-04-16, 18:44:41",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/985952133206900736",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1500"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 85,
+    "tweettext": "As promised last week, the details of the .PDB heap memory disclosure in Visual Studio (CVE-2018-1037) are now available at https://t.co/vgryBrNBc0. Infoleaks are a really special breed of bugs, be it in kernel or user-mode 🐛 https://t.co/diwbO7I5S7",
+    "tweettime": "2018-04-16, 14:55:33",
+    "tweeturl": "https://twitter.com/j00ru/status/985894472478265344",
+    "username": "j00ru"
+}
+{
+    "tweetfavorites": 97,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 93,
+    "tweettext": "GreyNoise has CONFIRMED widespread opportunistic exploitation of the #Drupal CVE-2018-7600 vulnerability. Patient zero spotted at 2:00PM EST yesterday, 4/13/2018. 720 IPs confirmed spreading the worm so far and increasing quickly. Network owners of compromised hosts attached. https://t.co/BRGH8iaRLH",
+    "tweettime": "2018-04-14, 18:24:45",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/985222340576468992",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
+        "https://store.volatileminds.net/Home/ViewProduct?id=589c39be-a5e0-4acf-aeb7-a8c10019d88d&name=Drupal%20Core%20Unauthenticated%20Remote%20Code%20Execution"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 18,
+    "tweettext": "Uploaded a Metasploit module to the VolatileMinds store exploiting the recent unauthenticated Drupal RCE (SA-CORE-2018-002 / CVE-2018-7600). \n\nhttps://t.co/QhnysXERlp",
+    "tweettime": "2018-04-13, 01:36:59",
+    "tweeturl": "https://twitter.com/BrandonPrry/status/984606339233210368",
+    "username": "BrandonPrry"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/outlook-smb-vulnerability.html"
+    ],
+    "tweetfavorites": 503,
+    "tweetquotes": 41,
+    "tweetreplies": 16,
+    "tweetretweets": 650,
+    "tweettext": "Warning—Just opening an email in Microsoft Outlook can give away your Windows password to hackers, without requiring additional interaction\n\nhttps://t.co/eekEUujcdv\n\nThis week, MS issued an incomplete fix for #Outlook flaw (CVE-2018-0950)—almost 18 months after the initial report https://t.co/i4qJUdHIxm",
+    "tweettime": "2018-04-12, 07:39:19",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/984335136044011520",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 69,
+    "tweetquotes": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 48,
+    "tweettext": "Microsoft also released a patch for another critical RCE flaw (CVE-2018-1004), which exists in Windows VBScript Engine &amp; affects all versions of Windows.\n\n\"An attacker could host a specially crafted website that is designed to exploit the vulnerability through IE,\" MS explains",
+    "tweettime": "2018-04-10, 21:56:38",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/983826111078559744",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/enterprise-password-vault.html"
+    ],
+    "tweetfavorites": 120,
+    "tweetquotes": 8,
+    "tweetreplies": 1,
+    "tweetretweets": 153,
+    "tweettext": "Critical Remote Code Execution (CVE-2018-9843) Vulnerability Discovered in #CyberArk Password Vault Web Access\n\nPoC Exploit Released — https://t.co/wWgZj8GjYy\n\nEnterprises Using CyberArk's Privileged Account Security Solution are Highly Recommended to Upgrade Software Immediately https://t.co/0suv76LHb2",
+    "tweettime": "2018-04-09, 14:54:27",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/983357479437422595",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 202,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 86,
+    "tweettext": "CVE-2018-1270 Remote Code Execution with spring-messaging https://t.co/rHG3p3p0rP",
+    "tweettime": "2018-04-08, 14:24:51",
+    "tweeturl": "https://twitter.com/pyn3rd/status/982987640931737600",
+    "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://www.exploit-db.com/exploits/43516/"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2018-0752 - Exploit\n\nMicrosoft Windows - NtImpersonateAnonymousToken LPAC to Non-LPAC Privilege Escalation\n\n#infosec #pentest #exploit \nhttps://t.co/yGn0mCRtLq https://t.co/W5w7KRAZtL",
+    "tweettime": "2018-04-08, 07:59:34",
+    "tweeturl": "https://twitter.com/CyberWarship/status/982890682904989696",
+    "username": "CyberWarship"
+}
+{
+    "tweetfavorites": 79,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 18,
+    "tweettext": "Google Project Zero publishes WebKit bug (CVE-2018-4121) along with write-up and PoC. It achieves sandbox escape in iOS 11.2.6. #security #update",
+    "tweettime": "2018-04-08, 07:24:49",
+    "tweeturl": "https://twitter.com/Yalujb/status/982881935683829762",
+    "username": "Yalujb"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/spring-framework-hacking.html"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 138,
+    "tweettext": "Three Vulnerabilities Discovered in Spring Development Framework — Upgrade Immediately to Protect Your Applications\n\nhttps://t.co/ytHgTw59LU\n\nCritical — RCE Attack (CVE-2018-1270)\nHigh — Directory Traversal Attack (CVE-2018-1271)\nLow — Multipart Content Pollution (CVE-2018-1272) https://t.co/3UQj3iD3qO",
+    "tweettime": "2018-04-06, 08:05:04",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/982167289398099968",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/04/cisco-switches-hacking.html"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 131,
+    "tweettext": "Security researchers have disclosed details &amp; PoC for a critical remote code execution vulnerability (CVE-2018-0171) in the \"Cisco Smart Install\" feature of Cisco IOS &amp; Cisco IOS XE Software\n\nhttps://t.co/F1QRbMrTWf\n\nFlaw leaves thousands of network devices vulnerable to hacking https://t.co/rtKZSbtnW8",
+    "tweettime": "2018-04-04, 15:04:48",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/981548143182565376",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 69,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 41,
+    "tweettext": "Threadkit seems to have a new CVE-2018-4878 exploit, or at least I've not seen it before. Is this new? https://t.co/t5iYV2cB0a",
+    "tweettime": "2018-04-03, 10:35:45",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/981118047846006784",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://www.fortinet.com/blog/threat-research/a-root-cause-analysis-of-cve-2018-0797---rich-text-format-styles.html"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 62,
+    "tweettext": "My differential analysis to find out the root cause of Word UAF vulnerability CVE-2018-0797. #AlleyCat and #Lighthouse plugins users might want to check this out as there are some improvements for these tools https://t.co/tYqvsLzJeD",
+    "tweettime": "2018-04-02, 23:07:16",
+    "tweeturl": "https://twitter.com/x9090/status/980944786696822784",
+    "username": "x9090"
+}

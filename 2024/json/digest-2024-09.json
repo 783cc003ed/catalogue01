@@ -136,3 +136,3559 @@
     "tweeturl": "https://twitter.com/kmkz_security/status/1830144422090080619",
     "username": "kmkz_security"
 }
+{
+    "expanded_url": [
+        "https://github.com/sunn1day/CVE-2018-14714-POC",
+        "https://twitter.com/HunterMapping/status/1833701063511113895/photo/1",
+        "http://hunter.how",
+        "https://github.com/BTtea/CVE-2018-14714-RCE-exploit",
+        "https://hunter.how/list?searchValue=product.name%3D%22ASUS%20RT-AC3200%22"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "🥳CALL BACK🥳CVE-2018-14714: ASUS RT-AC3200 WiFi router RCE\n🔥New EXP: https://t.co/q3qNTq5yRV\n🔥Original PoC: https://t.co/5v6yDJRHzc\n📊 17K+ Services are found on https://t.co/ysWb28BTvF yearly.\n🔗Hunter Link: https://t.co/0gl1LCt1LF\n👇Search Query\nHUNTER:/product.name=\"ASUS https://t.co/7n3wEjsmXk",
+    "tweettime": "2024-09-11, 02:56:16",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1833701063511113895",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38018"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 14,
+    "tweettext": "My SharePoint RCE got fixed: CVE-2024-38018. Site Member privs should be enough to exploit. \n\nI also found a DoS vuln that got patched today: CVE-2024-43466\n\nhttps://t.co/JldGOJfzeI",
+    "tweettime": "2024-09-10, 18:06:25",
+    "tweeturl": "https://twitter.com/chudyPB/status/1833567722502037643",
+    "username": "chudyPB"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "4 CVE exploited in the wild, on Microsoft's Patch      \nCVE-2024-43491 - 9.8 - Microsoft Windows Update Remote Code Execution Vulnerability\n    CVE-2024-38014 - 7.8 - Windows Installer Elevation of Privilege Vulnerability\n    CVE-2024-38226 - 7.3 - Microsoft Publisher Security",
+    "tweettime": "2024-09-10, 17:17:29",
+    "tweeturl": "https://twitter.com/Dinosn/status/1833555406376894823",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) : https://t.co/0Rq4G4DTrA https://t.co/e7dMUEbays",
+    "tweettime": "2024-09-10, 15:41:26",
+    "tweeturl": "https://twitter.com/binitamshah/status/1833531235291091034",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-10, 13:37:06",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1833499945221148810",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "UPDATE -- Critical flaw in SonicWall devices is under active exploitation by ransomware groups, warns Arctic Wolf and Rapid7.\n\nThe #vulnerability, CVE-2024-40766, could allow ransomware groups like Akira to access SSLVPN user accounts, posing a major threat to businesses. Stay",
+    "tweettime": "2024-09-10, 03:43:42",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1833350612349817192",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 20:31:23",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1833241815413362827",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 94,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "CVE-2024-45507 Apache Ofbiz  SSRF to RCE https://t.co/GxKm4TUAGD",
+    "tweettime": "2024-09-09, 16:45:13",
+    "tweeturl": "https://twitter.com/chybeta/status/1833184898913636424",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 16:31:53",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1833181543256170524",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 15:52:46",
+    "tweeturl": "https://twitter.com/steventseeley/status/1833171698092331342",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/progress-software-issues-patch-for.html"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "⚠️ Progress Software has released security updates for a critical #vulnerability (CVE-2024-7591) in LoadMaster &amp; Multi-Tenant hypervisors, allowing unauthenticated attackers to execute system commands.\n\nhttps://t.co/BXPi2fuvHd\n\nDon’t risk your infrastructure. Update systems now!",
+    "tweettime": "2024-09-09, 09:30:54",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1833075600283873346",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/cVF9O"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-37288, -37285: RCE in Kibana, 9.9 rating 🔥🔥🔥\n\nBy improperly deserializing YAML, attackers can perform RCE.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/LIGOwwlyXP\n\n#cybersecurity #vulnerability_map #kibana https://t.co/Xcq30MICca",
+    "tweettime": "2024-09-09, 09:13:54",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1833071322693333321",
+    "username": "Netlas_io"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-windows-elevation-of-privilege-vulnerability-cve-2024-26230/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "PoC Exploit Releases for Windows Elevation of Privilege Vulnerability CVE-2024-26230 https://t.co/QLuanb2PQl",
+    "tweettime": "2024-09-09, 04:07:09",
+    "tweeturl": "https://twitter.com/Dinosn/status/1832994123655106906",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Server with #opendir 213.109.147[.]108:4242 (now disabled) had an exploit for #CosmicSting (aka CVE-2024-34102), an Unauthorized XXE that combined with CVE-2024-2961 allows RCE in Magento and Adobe Commerce stores.\n\nOn the server there was a TXT file with about 3900 https://t.co/ABOcTPbJYR",
+    "tweettime": "2024-09-09, 02:36:16",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1832971253239660768",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-windows-elevation-of-privilege-vulnerability-cve-2024-26230/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "PoC Exploit Releases for Windows Elevation of Privilege Vulnerability CVE-2024-26230\n\nGet insights into the technical details and #PoC exploit of the serious elevation of privilege vulnerability (CVE-2024-26230) in #Windows Telephony service\nhttps://t.co/le5JoUUfDC",
+    "tweettime": "2024-09-09, 01:45:04",
+    "tweeturl": "https://twitter.com/the_yellow_fall/status/1832958369327468653",
+    "username": "the_yellow_fall"
+}
+{
+    "expanded_url": [
+        "https://www.coresecurity.com/core-labs/articles/windows-dwm-core-library-elevation-privilege-vulnerability-cve-2024-30051"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) https://t.co/4V41ipglcm  #Pentesting #Windows #Vulnerability  #CyberSecurity #Infosec https://t.co/X1PLkbQz3H",
+    "tweettime": "2024-09-09, 01:00:15",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1832947092060262894",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 117,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 11,
+    "tweettext": "After not sleeping for 2 days, I finally cooked the exploit, unauthenticated RCE against Veeam backup and Replication CVE-2024-40711, Imma go sleep now https://t.co/qzuLSVfSr6",
+    "tweettime": "2024-09-09, 00:27:35",
+    "tweeturl": "https://twitter.com/SinSinology/status/1832938871148908628",
+    "username": "SinSinology"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) (Published August 15 of 2024) https://t.co/SUtsE2GLZK #Pentesting #Windows #exploit #CyberSecurity #Infosec https://t.co/hmKcfDFvYf",
+    "tweettime": "2024-09-08, 03:55:13",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1832628733175320900",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://0xdf.gitlab.io/2024/09/07/htb-mailing.html"
+    ],
+    "tweetfavorites": 106,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Mailing from @hackthebox_eu has a file read leak hMailServer creds. Then I abuse CVE-2024-21413 through phishing to get more creds. For root, I'll exploit LibreOffice. In Beyond Root, I'll show the patched LFI to RCE via log poisoning and GodPotato.\n\nhttps://t.co/WrLMQwopzk",
+    "tweettime": "2024-09-07, 15:00:45",
+    "tweeturl": "https://twitter.com/0xdf_/status/1832433834752618649",
+    "username": "0xdf_"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 19,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 : https://t.co/FoWALEWo6g credits @crowdfense @Void_Sec https://t.co/KbsLeLfPHB",
+    "tweettime": "2024-09-06, 19:42:18",
+    "tweeturl": "https://twitter.com/binitamshah/status/1832142301600334198",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/sonicwall-urges-users-to-patch-critical.html"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "🔥 A SonicWall #vulnerability (CVE-2024-40766) is under active exploitation.\n\nThis critical flaw allows attackers to bypass access controls and potentially crash firewalls, compromising business operations. Don't wait.\n\nhttps://t.co/0jpl20wOAC\n\nPatch now or risk falling victim.",
+    "tweettime": "2024-09-06, 15:56:24",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1832085449860657156",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @cyber_advising: CVE-2024-30051: Windows DWM Core Library Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/iLkOkqmBft https://t.c…",
+    "tweettime": "2024-09-06, 15:51:42",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832084266475491570",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "RT @CoreAdvisories: In his latest blog, Core Labs' @ricnar456 takes a deep dive into CVE-2024-30051, reversing this Windows #vulnerability…",
+    "tweettime": "2024-09-06, 15:51:23",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832084186343305274",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://www.coresecurity.com/core-labs/articles/windows-dwm-core-library-elevation-privilege-vulnerability-cve-2024-30051"
+    ],
+    "tweetfavorites": 199,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 57,
+    "tweettext": "In his latest blog, Core Labs' @ricnar456 takes a deep dive into CVE-2024-30051, reversing this Windows #vulnerability to create a functional #PoC.  https://t.co/WIEyx3Zjoi https://t.co/mSsMe2QQFT",
+    "tweettime": "2024-09-06, 14:45:33",
+    "tweeturl": "https://twitter.com/CoreAdvisories/status/1832067618531868799",
+    "username": "CoreAdvisories"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42?source=social.tw"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "RT @theori_io: 🚨 New Linux Kernel vulnerability (CVE-2024-27394) discovered &amp; patched by Theori! \n🔗 https://t.co/p9hDC5b3xI\n\nOur researcher…",
+    "tweettime": "2024-09-06, 10:52:07",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832008874313822622",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/critical-security-flaw-found-in.html"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "New LiteSpeed Cache flaw (CVE-2024-44000) risks unauthorized access to WordPress sites via exposed debug logs.\n\nRead: https://t.co/4WyY7bavlB\n\nEven old logs can be exploited. Update and purge now!",
+    "tweettime": "2024-09-06, 09:14:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831984376156176422",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: despite shenanigans with CVSS scores, we can confirm the latest Veeam vulnerabilities (CVE-2024-40711) allow auth bypas…",
+    "tweettime": "2024-09-06, 08:46:27",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831977249400307733",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42?source=social.tw"
+    ],
+    "tweetfavorites": 156,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "🚨 New Linux Kernel vulnerability (CVE-2024-27394) discovered &amp; patched by Theori! \n🔗 https://t.co/p9hDC5b3xI\n\nOur researcher @v4bel at #Theori identified a critical #UAF vulnerability in TCP-AO caused by a race condition in the #RCU API. Using techniques from the ExpRace paper,",
+    "tweettime": "2024-09-06, 06:04:59",
+    "tweeturl": "https://twitter.com/theori_io/status/1831936617260708138",
+    "username": "theori_io"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "RT @crowdfense: For our second technical post, we have an analysis of a Windows RCE vulnerability in the Wi-Fi driver (CVE-2024-30078), whi…",
+    "tweettime": "2024-09-06, 05:48:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831932544516026751",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://summoning.team/blog/progress-whatsup-gold-sqli-cve-2024-6670/",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Progress%20Whatsup%20Gold%22",
+        "https://github.com/sinsinology/CVE-2024-6670"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "🚨Alert🚨CVE-2024-6670: Breaking Down Barriers: Exploiting Pre-Auth SQL Injection in Progress  WhatsUp Gold\n🔥PoC: https://t.co/YPXjqGko0q\n🧐Deep Dive:https://t.co/TxXiegi1BY\n📊 3.4K+ Services are found on https://t.co/ysWb28BTvF yearly\n🔗Hunter Link:https://t.co/tO9fyS5RQZ https://t.co/l39P5kVMw7",
+    "tweettime": "2024-09-06, 03:27:25",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1831896961441513726",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-26581-poc-exploit-released-linux-systems-at-risk-of-root-compromise/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-26581 PoC Exploit Released: Linux Systems at Risk of Root Compromise https://t.co/W9d9FOm9zb",
+    "tweettime": "2024-09-06, 03:23:43",
+    "tweeturl": "https://twitter.com/Dinosn/status/1831896032114036865",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: despite shenanigans with CVSS scores, we can confirm the latest Veeam vulnerabilities (CVE-2024-40711) allow auth bypas…",
+    "tweettime": "2024-09-06, 01:30:41",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831867583492190563",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 5,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 https://t.co/DxjvKNQpOw  #Pentesting #Vulnerability #Windows  #CyberSecurity #Infosec https://t.co/24WqVyAoGF",
+    "tweettime": "2024-09-05, 22:30:16",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1831822183582081324",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 71,
+    "tweettext": "RT @TheHackersNews: ⚠️ Veeam has patched 18 security flaws, including 5 critical ones allowing remote code execution (e.g., CVE-2024-40711…",
+    "tweettime": "2024-09-05, 20:01:03",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831784629260710400",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 95,
+    "tweettext": "RT @codewhitesec: Better patch your Veeam Backup &amp; Replication servers! Full system takeover via CVE-2024-40711, discovered by our very own…",
+    "tweettime": "2024-09-05, 19:58:08",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831783895978930528",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.hackers-arise.com/post/using-the-brand-new-ipv6-exploit-to-dos-a-windows-system"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "Using the Brand New (CVE-2024-38063) IPv6 Vulnerability to Crash a Windows System #ipv6 #bsod #cybersecurity #dos #infosec #cyberwarrior\n\nhttps://t.co/i0Rn2wTQyG https://t.co/cMBd35S2vA",
+    "tweettime": "2024-09-05, 17:17:54",
+    "tweeturl": "https://twitter.com/three_cube/status/1831743572565184945",
+    "username": "three_cube"
+}
+{
+    "expanded_url": [
+        "https://ii4gsp.github.io/cve-2020-27786/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "CVE-2020-27786 ( Race Condition + Use-After-Free ) \n https://t.co/kDOdv6PIqb  #Pentesting #CyberSecurity #Infosec https://t.co/JChrN2wvtO",
+    "tweettime": "2024-09-05, 16:30:15",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1831731581888712756",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "⚠️ Veeam has patched 18 security flaws, including 5 critical ones allowing remote code execution (e.g., CVE-2024-40711 with a 9.8 CVSS score). Update now to protect your data.\n\nLearn more: https://t.co/0WwDkTUFx8\n\n#cybersecurity #technology",
+    "tweettime": "2024-09-05, 16:14:29",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831727612802285936",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 144,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "For our second technical post, we have an analysis of a Windows RCE vulnerability in the Wi-Fi driver (CVE-2024-30078), which includes a detailed root cause analysis and exploitation constraints. Enjoy :)\n\nhttps://t.co/llaW6l6TlC",
+    "tweettime": "2024-09-05, 16:00:01",
+    "tweeturl": "https://twitter.com/crowdfense/status/1831723971500265765",
+    "username": "crowdfense"
+}
+{
+    "expanded_url": [
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-24:10.bhyve.asc"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2024-41928: VM escape in FreeBSD's bhyve hypervisor via TPM device passthrough, by @Synacktiv\n\nhttps://t.co/TrSYKoKSu8",
+    "tweettime": "2024-09-05, 15:57:28",
+    "tweeturl": "https://twitter.com/fdfalcon/status/1831723329910124613",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://code-white.com/public-vulnerability-list/#unauthenticated-remote-code-execution-in-backup-replication"
+    ],
+    "tweetfavorites": 208,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 75,
+    "tweettext": "Better patch your Veeam Backup &amp; Replication servers! Full system takeover via CVE-2024-40711, discovered by our very own @frycos - no technical details from us this time because this might instantly be abused by ransomware gangs https://t.co/pGLq1RQi3n https://t.co/uUkRA2wgji",
+    "tweettime": "2024-09-05, 15:44:44",
+    "tweeturl": "https://twitter.com/codewhitesec/status/1831720125747069389",
+    "username": "codewhitesec"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/9/4/exploiting-exchange-powershell-after-proxynotshell-part-1-multivaluedproperty"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "In the 1st of a 4 part series, @chudyPB details his research into exploiting #Microsoft #Exchange after ProxyNotShell was patched. Today's post covers CVE-2023-21529: abuse of the allowed MultiValuedProperty class for RCE. Check it out at https://t.co/FRN8VEalB7",
+    "tweettime": "2024-09-05, 15:44:13",
+    "tweeturl": "https://twitter.com/thezdi/status/1831719997862752646",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://ii4gsp.github.io/cve-2020-27786/"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2020-27786 (Race Condition + Use-After-Free)\n\nAn article by @ii4gsp about exploiting a racy use-after-free in the MIDI subsystem.\n\nhttps://t.co/jUQgPnDjLd https://t.co/eTaYMmcQSZ",
+    "tweettime": "2024-09-05, 13:58:14",
+    "tweeturl": "https://twitter.com/linkersec/status/1831693325394391191",
+    "username": "linkersec"
+}
+{
+    "expanded_url": [
+        "https://ti.qianxin.com/blog/articles/public-secret-research-on-the-cve-2024-30051-privilege-escalation-vulnerability-in-the-wild-en/"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Analysis of Windows DWM #EoP vuln (#CVE-2024-30051) in-the-wild exploitation sample and root cause\n\nhttps://t.co/xUMTGuhnQD https://t.co/1TLu5Arq4O",
+    "tweettime": "2024-09-05, 10:31:25",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1831641279186530738",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "Cisco has issued urgent updates for two critical flaws (CVSS 9.8) in its Smart Licensing Utility. These flaws (CVE-2024-20439 &amp; CVE-2024-20440) let unauthenticated attackers elevate privileges or access sensitive data via crafted HTTP requests.\n\nRead: https://t.co/x7j8s1TIEv",
+    "tweettime": "2024-09-05, 04:43:43",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831553777129943331",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 15,
+    "tweetreplies": 6,
+    "tweetretweets": 120,
+    "tweettext": "#Google has issued a update to fix the high-severity Android #vulnerability CVE-2024-32896, which allows attackers to take control of your device. Initially affecting Pixel devices, it now impacts the entire #Android ecosystem.\n\nRead: https://t.co/MUi34tgq4O\n\n#infosec #hacking",
+    "tweettime": "2024-09-04, 13:38:02",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831325852677845164",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/zyxel-patches-critical-os-command.html"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Zyxel has patched a critical #vulnerability (CVE-2024-7261) that allowed unauthenticated attackers to execute OS commands on certain routers and access points.\n\nLearn more: https://t.co/DH25VvoIC2\n\n#CyberSecurity",
+    "tweettime": "2024-09-04, 11:30:27",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831293745465295102",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://clearbluejar.github.io/posts/patch-tuesday-diffing-cve-2024-20696-windows-libarchive-rce/"
+    ],
+    "tweetfavorites": 249,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 61,
+    "tweettext": "Patch diffing  CVE-2024-20696 (libarchive vulnerability) and CVE-2024-20697 using Ghidriff\n\nhttps://t.co/dextETvFy5\n\nCredits @clearbluejar\n\n#libarchive #infosec https://t.co/yxnSdcEB5V",
+    "tweettime": "2024-09-04, 07:00:26",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1831225795164926263",
+    "username": "0xor0ne"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @virusbtn: Trend Micro researchers have identified a new attack vector that exploits CVE-2023-22527 through the deployment of an in-memo…",
+    "tweettime": "2024-09-04, 06:53:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831224124972114066",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.securelayer7.net/spring-cloud-skipper-vulnerability/"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2024-37084: Spring Cloud Remote Code Execution\n\nhttps://t.co/vIE9sQmo3a",
+    "tweettime": "2024-09-03, 20:14:26",
+    "tweeturl": "https://twitter.com/tbbhunter/status/1831063223803502883",
+    "username": "tbbhunter"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-8105-an-uefi-flaw-putting-millions-of-devices-at-risk/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 87,
+    "tweettext": "RT @Dinosn: CVE-2024-8105: An UEFI Flaw Putting Millions of Devices at Risk https://t.co/1cAD2DAzFk",
+    "tweettime": "2024-09-03, 13:14:44",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1830957600948789756",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "RT @ksg93rd: #exploit\n1. CVE-2024-20017:\nMediaTek wappd Buffer Overflow\nhttps://t.co/ie31ghtbiz\n\n2. CVE-2023-41111:\nSamsung Baseband RLC Da…",
+    "tweettime": "2024-09-02, 22:55:55",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830741472741568989",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html",
+        "https://labs.taszk.io/blog/post/93_rlc_bof"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "#exploit\n1. CVE-2024-20017:\nMediaTek wappd Buffer Overflow\nhttps://t.co/ie31ghtbiz\n\n2. CVE-2023-41111:\nSamsung Baseband RLC Data Re-Assembly Buffer Overflow\nhttps://t.co/yMx5XB65Zk",
+    "tweettime": "2024-09-02, 20:00:02",
+    "tweeturl": "https://twitter.com/ksg93rd/status/1830697211606237474",
+    "username": "ksg93rd"
+}
+{
+    "expanded_url": [
+        "https://github.com/sunn1day/CVE-2018-14714-POC",
+        "https://twitter.com/HunterMapping/status/1833701063511113895/photo/1",
+        "http://hunter.how",
+        "https://github.com/BTtea/CVE-2018-14714-RCE-exploit",
+        "https://hunter.how/list?searchValue=product.name%3D%22ASUS%20RT-AC3200%22"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "🥳CALL BACK🥳CVE-2018-14714: ASUS RT-AC3200 WiFi router RCE\n🔥New EXP: https://t.co/q3qNTq5yRV\n🔥Original PoC: https://t.co/5v6yDJRHzc\n📊 17K+ Services are found on https://t.co/ysWb28BTvF yearly.\n🔗Hunter Link: https://t.co/0gl1LCt1LF\n👇Search Query\nHUNTER:/product.name=\"ASUS https://t.co/7n3wEjsmXk",
+    "tweettime": "2024-09-11, 02:56:16",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1833701063511113895",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38018"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 14,
+    "tweettext": "My SharePoint RCE got fixed: CVE-2024-38018. Site Member privs should be enough to exploit. \n\nI also found a DoS vuln that got patched today: CVE-2024-43466\n\nhttps://t.co/JldGOJfzeI",
+    "tweettime": "2024-09-10, 18:06:25",
+    "tweeturl": "https://twitter.com/chudyPB/status/1833567722502037643",
+    "username": "chudyPB"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "4 CVE exploited in the wild, on Microsoft's Patch      \nCVE-2024-43491 - 9.8 - Microsoft Windows Update Remote Code Execution Vulnerability\n    CVE-2024-38014 - 7.8 - Windows Installer Elevation of Privilege Vulnerability\n    CVE-2024-38226 - 7.3 - Microsoft Publisher Security",
+    "tweettime": "2024-09-10, 17:17:29",
+    "tweeturl": "https://twitter.com/Dinosn/status/1833555406376894823",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) : https://t.co/0Rq4G4DTrA https://t.co/e7dMUEbays",
+    "tweettime": "2024-09-10, 15:41:26",
+    "tweeturl": "https://twitter.com/binitamshah/status/1833531235291091034",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-10, 13:37:06",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1833499945221148810",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "UPDATE -- Critical flaw in SonicWall devices is under active exploitation by ransomware groups, warns Arctic Wolf and Rapid7.\n\nThe #vulnerability, CVE-2024-40766, could allow ransomware groups like Akira to access SSLVPN user accounts, posing a major threat to businesses. Stay",
+    "tweettime": "2024-09-10, 03:43:42",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1833350612349817192",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 20:31:23",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1833241815413362827",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 94,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "CVE-2024-45507 Apache Ofbiz  SSRF to RCE https://t.co/GxKm4TUAGD",
+    "tweettime": "2024-09-09, 16:45:13",
+    "tweeturl": "https://twitter.com/chybeta/status/1833184898913636424",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 16:31:53",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1833181543256170524",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 15:52:46",
+    "tweeturl": "https://twitter.com/steventseeley/status/1833171698092331342",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/progress-software-issues-patch-for.html"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "⚠️ Progress Software has released security updates for a critical #vulnerability (CVE-2024-7591) in LoadMaster &amp; Multi-Tenant hypervisors, allowing unauthenticated attackers to execute system commands.\n\nhttps://t.co/BXPi2fuvHd\n\nDon’t risk your infrastructure. Update systems now!",
+    "tweettime": "2024-09-09, 09:30:54",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1833075600283873346",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/cVF9O"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-37288, -37285: RCE in Kibana, 9.9 rating 🔥🔥🔥\n\nBy improperly deserializing YAML, attackers can perform RCE.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/LIGOwwlyXP\n\n#cybersecurity #vulnerability_map #kibana https://t.co/Xcq30MICca",
+    "tweettime": "2024-09-09, 09:13:54",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1833071322693333321",
+    "username": "Netlas_io"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-windows-elevation-of-privilege-vulnerability-cve-2024-26230/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "PoC Exploit Releases for Windows Elevation of Privilege Vulnerability CVE-2024-26230 https://t.co/QLuanb2PQl",
+    "tweettime": "2024-09-09, 04:07:09",
+    "tweeturl": "https://twitter.com/Dinosn/status/1832994123655106906",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Server with #opendir 213.109.147[.]108:4242 (now disabled) had an exploit for #CosmicSting (aka CVE-2024-34102), an Unauthorized XXE that combined with CVE-2024-2961 allows RCE in Magento and Adobe Commerce stores.\n\nOn the server there was a TXT file with about 3900 https://t.co/ABOcTPbJYR",
+    "tweettime": "2024-09-09, 02:36:16",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1832971253239660768",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-windows-elevation-of-privilege-vulnerability-cve-2024-26230/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "PoC Exploit Releases for Windows Elevation of Privilege Vulnerability CVE-2024-26230\n\nGet insights into the technical details and #PoC exploit of the serious elevation of privilege vulnerability (CVE-2024-26230) in #Windows Telephony service\nhttps://t.co/le5JoUUfDC",
+    "tweettime": "2024-09-09, 01:45:04",
+    "tweeturl": "https://twitter.com/the_yellow_fall/status/1832958369327468653",
+    "username": "the_yellow_fall"
+}
+{
+    "expanded_url": [
+        "https://www.coresecurity.com/core-labs/articles/windows-dwm-core-library-elevation-privilege-vulnerability-cve-2024-30051"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) https://t.co/4V41ipglcm  #Pentesting #Windows #Vulnerability  #CyberSecurity #Infosec https://t.co/X1PLkbQz3H",
+    "tweettime": "2024-09-09, 01:00:15",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1832947092060262894",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 117,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 11,
+    "tweettext": "After not sleeping for 2 days, I finally cooked the exploit, unauthenticated RCE against Veeam backup and Replication CVE-2024-40711, Imma go sleep now https://t.co/qzuLSVfSr6",
+    "tweettime": "2024-09-09, 00:27:35",
+    "tweeturl": "https://twitter.com/SinSinology/status/1832938871148908628",
+    "username": "SinSinology"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) (Published August 15 of 2024) https://t.co/SUtsE2GLZK #Pentesting #Windows #exploit #CyberSecurity #Infosec https://t.co/hmKcfDFvYf",
+    "tweettime": "2024-09-08, 03:55:13",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1832628733175320900",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://0xdf.gitlab.io/2024/09/07/htb-mailing.html"
+    ],
+    "tweetfavorites": 106,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Mailing from @hackthebox_eu has a file read leak hMailServer creds. Then I abuse CVE-2024-21413 through phishing to get more creds. For root, I'll exploit LibreOffice. In Beyond Root, I'll show the patched LFI to RCE via log poisoning and GodPotato.\n\nhttps://t.co/WrLMQwopzk",
+    "tweettime": "2024-09-07, 15:00:45",
+    "tweeturl": "https://twitter.com/0xdf_/status/1832433834752618649",
+    "username": "0xdf_"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 19,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 : https://t.co/FoWALEWo6g credits @crowdfense @Void_Sec https://t.co/KbsLeLfPHB",
+    "tweettime": "2024-09-06, 19:42:18",
+    "tweeturl": "https://twitter.com/binitamshah/status/1832142301600334198",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/sonicwall-urges-users-to-patch-critical.html"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "🔥 A SonicWall #vulnerability (CVE-2024-40766) is under active exploitation.\n\nThis critical flaw allows attackers to bypass access controls and potentially crash firewalls, compromising business operations. Don't wait.\n\nhttps://t.co/0jpl20wOAC\n\nPatch now or risk falling victim.",
+    "tweettime": "2024-09-06, 15:56:24",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1832085449860657156",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @cyber_advising: CVE-2024-30051: Windows DWM Core Library Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/iLkOkqmBft https://t.c…",
+    "tweettime": "2024-09-06, 15:51:42",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832084266475491570",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "RT @CoreAdvisories: In his latest blog, Core Labs' @ricnar456 takes a deep dive into CVE-2024-30051, reversing this Windows #vulnerability…",
+    "tweettime": "2024-09-06, 15:51:23",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832084186343305274",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://www.coresecurity.com/core-labs/articles/windows-dwm-core-library-elevation-privilege-vulnerability-cve-2024-30051"
+    ],
+    "tweetfavorites": 199,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 57,
+    "tweettext": "In his latest blog, Core Labs' @ricnar456 takes a deep dive into CVE-2024-30051, reversing this Windows #vulnerability to create a functional #PoC.  https://t.co/WIEyx3Zjoi https://t.co/mSsMe2QQFT",
+    "tweettime": "2024-09-06, 14:45:33",
+    "tweeturl": "https://twitter.com/CoreAdvisories/status/1832067618531868799",
+    "username": "CoreAdvisories"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42?source=social.tw"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "RT @theori_io: 🚨 New Linux Kernel vulnerability (CVE-2024-27394) discovered &amp; patched by Theori! \n🔗 https://t.co/p9hDC5b3xI\n\nOur researcher…",
+    "tweettime": "2024-09-06, 10:52:07",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832008874313822622",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/critical-security-flaw-found-in.html"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "New LiteSpeed Cache flaw (CVE-2024-44000) risks unauthorized access to WordPress sites via exposed debug logs.\n\nRead: https://t.co/4WyY7bavlB\n\nEven old logs can be exploited. Update and purge now!",
+    "tweettime": "2024-09-06, 09:14:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831984376156176422",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: despite shenanigans with CVSS scores, we can confirm the latest Veeam vulnerabilities (CVE-2024-40711) allow auth bypas…",
+    "tweettime": "2024-09-06, 08:46:27",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831977249400307733",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42?source=social.tw"
+    ],
+    "tweetfavorites": 156,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "🚨 New Linux Kernel vulnerability (CVE-2024-27394) discovered &amp; patched by Theori! \n🔗 https://t.co/p9hDC5b3xI\n\nOur researcher @v4bel at #Theori identified a critical #UAF vulnerability in TCP-AO caused by a race condition in the #RCU API. Using techniques from the ExpRace paper,",
+    "tweettime": "2024-09-06, 06:04:59",
+    "tweeturl": "https://twitter.com/theori_io/status/1831936617260708138",
+    "username": "theori_io"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "RT @crowdfense: For our second technical post, we have an analysis of a Windows RCE vulnerability in the Wi-Fi driver (CVE-2024-30078), whi…",
+    "tweettime": "2024-09-06, 05:48:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831932544516026751",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://summoning.team/blog/progress-whatsup-gold-sqli-cve-2024-6670/",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Progress%20Whatsup%20Gold%22",
+        "https://github.com/sinsinology/CVE-2024-6670"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "🚨Alert🚨CVE-2024-6670: Breaking Down Barriers: Exploiting Pre-Auth SQL Injection in Progress  WhatsUp Gold\n🔥PoC: https://t.co/YPXjqGko0q\n🧐Deep Dive:https://t.co/TxXiegi1BY\n📊 3.4K+ Services are found on https://t.co/ysWb28BTvF yearly\n🔗Hunter Link:https://t.co/tO9fyS5RQZ https://t.co/l39P5kVMw7",
+    "tweettime": "2024-09-06, 03:27:25",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1831896961441513726",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-26581-poc-exploit-released-linux-systems-at-risk-of-root-compromise/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-26581 PoC Exploit Released: Linux Systems at Risk of Root Compromise https://t.co/W9d9FOm9zb",
+    "tweettime": "2024-09-06, 03:23:43",
+    "tweeturl": "https://twitter.com/Dinosn/status/1831896032114036865",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: despite shenanigans with CVSS scores, we can confirm the latest Veeam vulnerabilities (CVE-2024-40711) allow auth bypas…",
+    "tweettime": "2024-09-06, 01:30:41",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831867583492190563",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 5,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 https://t.co/DxjvKNQpOw  #Pentesting #Vulnerability #Windows  #CyberSecurity #Infosec https://t.co/24WqVyAoGF",
+    "tweettime": "2024-09-05, 22:30:16",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1831822183582081324",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 71,
+    "tweettext": "RT @TheHackersNews: ⚠️ Veeam has patched 18 security flaws, including 5 critical ones allowing remote code execution (e.g., CVE-2024-40711…",
+    "tweettime": "2024-09-05, 20:01:03",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831784629260710400",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 95,
+    "tweettext": "RT @codewhitesec: Better patch your Veeam Backup &amp; Replication servers! Full system takeover via CVE-2024-40711, discovered by our very own…",
+    "tweettime": "2024-09-05, 19:58:08",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831783895978930528",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.hackers-arise.com/post/using-the-brand-new-ipv6-exploit-to-dos-a-windows-system"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "Using the Brand New (CVE-2024-38063) IPv6 Vulnerability to Crash a Windows System #ipv6 #bsod #cybersecurity #dos #infosec #cyberwarrior\n\nhttps://t.co/i0Rn2wTQyG https://t.co/cMBd35S2vA",
+    "tweettime": "2024-09-05, 17:17:54",
+    "tweeturl": "https://twitter.com/three_cube/status/1831743572565184945",
+    "username": "three_cube"
+}
+{
+    "expanded_url": [
+        "https://ii4gsp.github.io/cve-2020-27786/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "CVE-2020-27786 ( Race Condition + Use-After-Free ) \n https://t.co/kDOdv6PIqb  #Pentesting #CyberSecurity #Infosec https://t.co/JChrN2wvtO",
+    "tweettime": "2024-09-05, 16:30:15",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1831731581888712756",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "⚠️ Veeam has patched 18 security flaws, including 5 critical ones allowing remote code execution (e.g., CVE-2024-40711 with a 9.8 CVSS score). Update now to protect your data.\n\nLearn more: https://t.co/0WwDkTUFx8\n\n#cybersecurity #technology",
+    "tweettime": "2024-09-05, 16:14:29",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831727612802285936",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 144,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "For our second technical post, we have an analysis of a Windows RCE vulnerability in the Wi-Fi driver (CVE-2024-30078), which includes a detailed root cause analysis and exploitation constraints. Enjoy :)\n\nhttps://t.co/llaW6l6TlC",
+    "tweettime": "2024-09-05, 16:00:01",
+    "tweeturl": "https://twitter.com/crowdfense/status/1831723971500265765",
+    "username": "crowdfense"
+}
+{
+    "expanded_url": [
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-24:10.bhyve.asc"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2024-41928: VM escape in FreeBSD's bhyve hypervisor via TPM device passthrough, by @Synacktiv\n\nhttps://t.co/TrSYKoKSu8",
+    "tweettime": "2024-09-05, 15:57:28",
+    "tweeturl": "https://twitter.com/fdfalcon/status/1831723329910124613",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://code-white.com/public-vulnerability-list/#unauthenticated-remote-code-execution-in-backup-replication"
+    ],
+    "tweetfavorites": 208,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 75,
+    "tweettext": "Better patch your Veeam Backup &amp; Replication servers! Full system takeover via CVE-2024-40711, discovered by our very own @frycos - no technical details from us this time because this might instantly be abused by ransomware gangs https://t.co/pGLq1RQi3n https://t.co/uUkRA2wgji",
+    "tweettime": "2024-09-05, 15:44:44",
+    "tweeturl": "https://twitter.com/codewhitesec/status/1831720125747069389",
+    "username": "codewhitesec"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/9/4/exploiting-exchange-powershell-after-proxynotshell-part-1-multivaluedproperty"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "In the 1st of a 4 part series, @chudyPB details his research into exploiting #Microsoft #Exchange after ProxyNotShell was patched. Today's post covers CVE-2023-21529: abuse of the allowed MultiValuedProperty class for RCE. Check it out at https://t.co/FRN8VEalB7",
+    "tweettime": "2024-09-05, 15:44:13",
+    "tweeturl": "https://twitter.com/thezdi/status/1831719997862752646",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://ii4gsp.github.io/cve-2020-27786/"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2020-27786 (Race Condition + Use-After-Free)\n\nAn article by @ii4gsp about exploiting a racy use-after-free in the MIDI subsystem.\n\nhttps://t.co/jUQgPnDjLd https://t.co/eTaYMmcQSZ",
+    "tweettime": "2024-09-05, 13:58:14",
+    "tweeturl": "https://twitter.com/linkersec/status/1831693325394391191",
+    "username": "linkersec"
+}
+{
+    "expanded_url": [
+        "https://ti.qianxin.com/blog/articles/public-secret-research-on-the-cve-2024-30051-privilege-escalation-vulnerability-in-the-wild-en/"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Analysis of Windows DWM #EoP vuln (#CVE-2024-30051) in-the-wild exploitation sample and root cause\n\nhttps://t.co/xUMTGuhnQD https://t.co/1TLu5Arq4O",
+    "tweettime": "2024-09-05, 10:31:25",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1831641279186530738",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "Cisco has issued urgent updates for two critical flaws (CVSS 9.8) in its Smart Licensing Utility. These flaws (CVE-2024-20439 &amp; CVE-2024-20440) let unauthenticated attackers elevate privileges or access sensitive data via crafted HTTP requests.\n\nRead: https://t.co/x7j8s1TIEv",
+    "tweettime": "2024-09-05, 04:43:43",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831553777129943331",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 15,
+    "tweetreplies": 6,
+    "tweetretweets": 120,
+    "tweettext": "#Google has issued a update to fix the high-severity Android #vulnerability CVE-2024-32896, which allows attackers to take control of your device. Initially affecting Pixel devices, it now impacts the entire #Android ecosystem.\n\nRead: https://t.co/MUi34tgq4O\n\n#infosec #hacking",
+    "tweettime": "2024-09-04, 13:38:02",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831325852677845164",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/zyxel-patches-critical-os-command.html"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Zyxel has patched a critical #vulnerability (CVE-2024-7261) that allowed unauthenticated attackers to execute OS commands on certain routers and access points.\n\nLearn more: https://t.co/DH25VvoIC2\n\n#CyberSecurity",
+    "tweettime": "2024-09-04, 11:30:27",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831293745465295102",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://clearbluejar.github.io/posts/patch-tuesday-diffing-cve-2024-20696-windows-libarchive-rce/"
+    ],
+    "tweetfavorites": 249,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 61,
+    "tweettext": "Patch diffing  CVE-2024-20696 (libarchive vulnerability) and CVE-2024-20697 using Ghidriff\n\nhttps://t.co/dextETvFy5\n\nCredits @clearbluejar\n\n#libarchive #infosec https://t.co/yxnSdcEB5V",
+    "tweettime": "2024-09-04, 07:00:26",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1831225795164926263",
+    "username": "0xor0ne"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @virusbtn: Trend Micro researchers have identified a new attack vector that exploits CVE-2023-22527 through the deployment of an in-memo…",
+    "tweettime": "2024-09-04, 06:53:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831224124972114066",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.securelayer7.net/spring-cloud-skipper-vulnerability/"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2024-37084: Spring Cloud Remote Code Execution\n\nhttps://t.co/vIE9sQmo3a",
+    "tweettime": "2024-09-03, 20:14:26",
+    "tweeturl": "https://twitter.com/tbbhunter/status/1831063223803502883",
+    "username": "tbbhunter"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-8105-an-uefi-flaw-putting-millions-of-devices-at-risk/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 87,
+    "tweettext": "RT @Dinosn: CVE-2024-8105: An UEFI Flaw Putting Millions of Devices at Risk https://t.co/1cAD2DAzFk",
+    "tweettime": "2024-09-03, 13:14:44",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1830957600948789756",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "RT @ksg93rd: #exploit\n1. CVE-2024-20017:\nMediaTek wappd Buffer Overflow\nhttps://t.co/ie31ghtbiz\n\n2. CVE-2023-41111:\nSamsung Baseband RLC Da…",
+    "tweettime": "2024-09-02, 22:55:55",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830741472741568989",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html",
+        "https://labs.taszk.io/blog/post/93_rlc_bof"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "#exploit\n1. CVE-2024-20017:\nMediaTek wappd Buffer Overflow\nhttps://t.co/ie31ghtbiz\n\n2. CVE-2023-41111:\nSamsung Baseband RLC Data Re-Assembly Buffer Overflow\nhttps://t.co/yMx5XB65Zk",
+    "tweettime": "2024-09-02, 20:00:02",
+    "tweeturl": "https://twitter.com/ksg93rd/status/1830697211606237474",
+    "username": "ksg93rd"
+}
+{
+    "expanded_url": [
+        "https://github.com/sunn1day/CVE-2018-14714-POC",
+        "https://twitter.com/HunterMapping/status/1833701063511113895/photo/1",
+        "http://hunter.how",
+        "https://github.com/BTtea/CVE-2018-14714-RCE-exploit",
+        "https://hunter.how/list?searchValue=product.name%3D%22ASUS%20RT-AC3200%22"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "🥳CALL BACK🥳CVE-2018-14714: ASUS RT-AC3200 WiFi router RCE\n🔥New EXP: https://t.co/q3qNTq5yRV\n🔥Original PoC: https://t.co/5v6yDJRHzc\n📊 17K+ Services are found on https://t.co/ysWb28BTvF yearly.\n🔗Hunter Link: https://t.co/0gl1LCt1LF\n👇Search Query\nHUNTER:/product.name=\"ASUS https://t.co/7n3wEjsmXk",
+    "tweettime": "2024-09-11, 02:56:16",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1833701063511113895",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38018"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 14,
+    "tweettext": "My SharePoint RCE got fixed: CVE-2024-38018. Site Member privs should be enough to exploit. \n\nI also found a DoS vuln that got patched today: CVE-2024-43466\n\nhttps://t.co/JldGOJfzeI",
+    "tweettime": "2024-09-10, 18:06:25",
+    "tweeturl": "https://twitter.com/chudyPB/status/1833567722502037643",
+    "username": "chudyPB"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "4 CVE exploited in the wild, on Microsoft's Patch      \nCVE-2024-43491 - 9.8 - Microsoft Windows Update Remote Code Execution Vulnerability\n    CVE-2024-38014 - 7.8 - Windows Installer Elevation of Privilege Vulnerability\n    CVE-2024-38226 - 7.3 - Microsoft Publisher Security",
+    "tweettime": "2024-09-10, 17:17:29",
+    "tweeturl": "https://twitter.com/Dinosn/status/1833555406376894823",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) : https://t.co/0Rq4G4DTrA https://t.co/e7dMUEbays",
+    "tweettime": "2024-09-10, 15:41:26",
+    "tweeturl": "https://twitter.com/binitamshah/status/1833531235291091034",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-10, 13:37:06",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1833499945221148810",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "UPDATE -- Critical flaw in SonicWall devices is under active exploitation by ransomware groups, warns Arctic Wolf and Rapid7.\n\nThe #vulnerability, CVE-2024-40766, could allow ransomware groups like Akira to access SSLVPN user accounts, posing a major threat to businesses. Stay",
+    "tweettime": "2024-09-10, 03:43:42",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1833350612349817192",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 20:31:23",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1833241815413362827",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 94,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "CVE-2024-45507 Apache Ofbiz  SSRF to RCE https://t.co/GxKm4TUAGD",
+    "tweettime": "2024-09-09, 16:45:13",
+    "tweeturl": "https://twitter.com/chybeta/status/1833184898913636424",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 16:31:53",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1833181543256170524",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 15:52:46",
+    "tweeturl": "https://twitter.com/steventseeley/status/1833171698092331342",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/progress-software-issues-patch-for.html"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "⚠️ Progress Software has released security updates for a critical #vulnerability (CVE-2024-7591) in LoadMaster &amp; Multi-Tenant hypervisors, allowing unauthenticated attackers to execute system commands.\n\nhttps://t.co/BXPi2fuvHd\n\nDon’t risk your infrastructure. Update systems now!",
+    "tweettime": "2024-09-09, 09:30:54",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1833075600283873346",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/cVF9O"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-37288, -37285: RCE in Kibana, 9.9 rating 🔥🔥🔥\n\nBy improperly deserializing YAML, attackers can perform RCE.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/LIGOwwlyXP\n\n#cybersecurity #vulnerability_map #kibana https://t.co/Xcq30MICca",
+    "tweettime": "2024-09-09, 09:13:54",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1833071322693333321",
+    "username": "Netlas_io"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-windows-elevation-of-privilege-vulnerability-cve-2024-26230/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "PoC Exploit Releases for Windows Elevation of Privilege Vulnerability CVE-2024-26230 https://t.co/QLuanb2PQl",
+    "tweettime": "2024-09-09, 04:07:09",
+    "tweeturl": "https://twitter.com/Dinosn/status/1832994123655106906",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Server with #opendir 213.109.147[.]108:4242 (now disabled) had an exploit for #CosmicSting (aka CVE-2024-34102), an Unauthorized XXE that combined with CVE-2024-2961 allows RCE in Magento and Adobe Commerce stores.\n\nOn the server there was a TXT file with about 3900 https://t.co/ABOcTPbJYR",
+    "tweettime": "2024-09-09, 02:36:16",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1832971253239660768",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-windows-elevation-of-privilege-vulnerability-cve-2024-26230/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "PoC Exploit Releases for Windows Elevation of Privilege Vulnerability CVE-2024-26230\n\nGet insights into the technical details and #PoC exploit of the serious elevation of privilege vulnerability (CVE-2024-26230) in #Windows Telephony service\nhttps://t.co/le5JoUUfDC",
+    "tweettime": "2024-09-09, 01:45:04",
+    "tweeturl": "https://twitter.com/the_yellow_fall/status/1832958369327468653",
+    "username": "the_yellow_fall"
+}
+{
+    "expanded_url": [
+        "https://www.coresecurity.com/core-labs/articles/windows-dwm-core-library-elevation-privilege-vulnerability-cve-2024-30051"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) https://t.co/4V41ipglcm  #Pentesting #Windows #Vulnerability  #CyberSecurity #Infosec https://t.co/X1PLkbQz3H",
+    "tweettime": "2024-09-09, 01:00:15",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1832947092060262894",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 117,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 11,
+    "tweettext": "After not sleeping for 2 days, I finally cooked the exploit, unauthenticated RCE against Veeam backup and Replication CVE-2024-40711, Imma go sleep now https://t.co/qzuLSVfSr6",
+    "tweettime": "2024-09-09, 00:27:35",
+    "tweeturl": "https://twitter.com/SinSinology/status/1832938871148908628",
+    "username": "SinSinology"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) (Published August 15 of 2024) https://t.co/SUtsE2GLZK #Pentesting #Windows #exploit #CyberSecurity #Infosec https://t.co/hmKcfDFvYf",
+    "tweettime": "2024-09-08, 03:55:13",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1832628733175320900",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://0xdf.gitlab.io/2024/09/07/htb-mailing.html"
+    ],
+    "tweetfavorites": 106,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Mailing from @hackthebox_eu has a file read leak hMailServer creds. Then I abuse CVE-2024-21413 through phishing to get more creds. For root, I'll exploit LibreOffice. In Beyond Root, I'll show the patched LFI to RCE via log poisoning and GodPotato.\n\nhttps://t.co/WrLMQwopzk",
+    "tweettime": "2024-09-07, 15:00:45",
+    "tweeturl": "https://twitter.com/0xdf_/status/1832433834752618649",
+    "username": "0xdf_"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 19,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 : https://t.co/FoWALEWo6g credits @crowdfense @Void_Sec https://t.co/KbsLeLfPHB",
+    "tweettime": "2024-09-06, 19:42:18",
+    "tweeturl": "https://twitter.com/binitamshah/status/1832142301600334198",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/sonicwall-urges-users-to-patch-critical.html"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "🔥 A SonicWall #vulnerability (CVE-2024-40766) is under active exploitation.\n\nThis critical flaw allows attackers to bypass access controls and potentially crash firewalls, compromising business operations. Don't wait.\n\nhttps://t.co/0jpl20wOAC\n\nPatch now or risk falling victim.",
+    "tweettime": "2024-09-06, 15:56:24",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1832085449860657156",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @cyber_advising: CVE-2024-30051: Windows DWM Core Library Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/iLkOkqmBft https://t.c…",
+    "tweettime": "2024-09-06, 15:51:42",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832084266475491570",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "RT @CoreAdvisories: In his latest blog, Core Labs' @ricnar456 takes a deep dive into CVE-2024-30051, reversing this Windows #vulnerability…",
+    "tweettime": "2024-09-06, 15:51:23",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832084186343305274",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://www.coresecurity.com/core-labs/articles/windows-dwm-core-library-elevation-privilege-vulnerability-cve-2024-30051"
+    ],
+    "tweetfavorites": 199,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 57,
+    "tweettext": "In his latest blog, Core Labs' @ricnar456 takes a deep dive into CVE-2024-30051, reversing this Windows #vulnerability to create a functional #PoC.  https://t.co/WIEyx3Zjoi https://t.co/mSsMe2QQFT",
+    "tweettime": "2024-09-06, 14:45:33",
+    "tweeturl": "https://twitter.com/CoreAdvisories/status/1832067618531868799",
+    "username": "CoreAdvisories"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42?source=social.tw"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "RT @theori_io: 🚨 New Linux Kernel vulnerability (CVE-2024-27394) discovered &amp; patched by Theori! \n🔗 https://t.co/p9hDC5b3xI\n\nOur researcher…",
+    "tweettime": "2024-09-06, 10:52:07",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832008874313822622",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/critical-security-flaw-found-in.html"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "New LiteSpeed Cache flaw (CVE-2024-44000) risks unauthorized access to WordPress sites via exposed debug logs.\n\nRead: https://t.co/4WyY7bavlB\n\nEven old logs can be exploited. Update and purge now!",
+    "tweettime": "2024-09-06, 09:14:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831984376156176422",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: despite shenanigans with CVSS scores, we can confirm the latest Veeam vulnerabilities (CVE-2024-40711) allow auth bypas…",
+    "tweettime": "2024-09-06, 08:46:27",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831977249400307733",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42?source=social.tw"
+    ],
+    "tweetfavorites": 156,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "🚨 New Linux Kernel vulnerability (CVE-2024-27394) discovered &amp; patched by Theori! \n🔗 https://t.co/p9hDC5b3xI\n\nOur researcher @v4bel at #Theori identified a critical #UAF vulnerability in TCP-AO caused by a race condition in the #RCU API. Using techniques from the ExpRace paper,",
+    "tweettime": "2024-09-06, 06:04:59",
+    "tweeturl": "https://twitter.com/theori_io/status/1831936617260708138",
+    "username": "theori_io"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "RT @crowdfense: For our second technical post, we have an analysis of a Windows RCE vulnerability in the Wi-Fi driver (CVE-2024-30078), whi…",
+    "tweettime": "2024-09-06, 05:48:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831932544516026751",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://summoning.team/blog/progress-whatsup-gold-sqli-cve-2024-6670/",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Progress%20Whatsup%20Gold%22",
+        "https://github.com/sinsinology/CVE-2024-6670"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "🚨Alert🚨CVE-2024-6670: Breaking Down Barriers: Exploiting Pre-Auth SQL Injection in Progress  WhatsUp Gold\n🔥PoC: https://t.co/YPXjqGko0q\n🧐Deep Dive:https://t.co/TxXiegi1BY\n📊 3.4K+ Services are found on https://t.co/ysWb28BTvF yearly\n🔗Hunter Link:https://t.co/tO9fyS5RQZ https://t.co/l39P5kVMw7",
+    "tweettime": "2024-09-06, 03:27:25",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1831896961441513726",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-26581-poc-exploit-released-linux-systems-at-risk-of-root-compromise/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-26581 PoC Exploit Released: Linux Systems at Risk of Root Compromise https://t.co/W9d9FOm9zb",
+    "tweettime": "2024-09-06, 03:23:43",
+    "tweeturl": "https://twitter.com/Dinosn/status/1831896032114036865",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: despite shenanigans with CVSS scores, we can confirm the latest Veeam vulnerabilities (CVE-2024-40711) allow auth bypas…",
+    "tweettime": "2024-09-06, 01:30:41",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831867583492190563",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 5,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 https://t.co/DxjvKNQpOw  #Pentesting #Vulnerability #Windows  #CyberSecurity #Infosec https://t.co/24WqVyAoGF",
+    "tweettime": "2024-09-05, 22:30:16",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1831822183582081324",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 71,
+    "tweettext": "RT @TheHackersNews: ⚠️ Veeam has patched 18 security flaws, including 5 critical ones allowing remote code execution (e.g., CVE-2024-40711…",
+    "tweettime": "2024-09-05, 20:01:03",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831784629260710400",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 95,
+    "tweettext": "RT @codewhitesec: Better patch your Veeam Backup &amp; Replication servers! Full system takeover via CVE-2024-40711, discovered by our very own…",
+    "tweettime": "2024-09-05, 19:58:08",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831783895978930528",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.hackers-arise.com/post/using-the-brand-new-ipv6-exploit-to-dos-a-windows-system"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "Using the Brand New (CVE-2024-38063) IPv6 Vulnerability to Crash a Windows System #ipv6 #bsod #cybersecurity #dos #infosec #cyberwarrior\n\nhttps://t.co/i0Rn2wTQyG https://t.co/cMBd35S2vA",
+    "tweettime": "2024-09-05, 17:17:54",
+    "tweeturl": "https://twitter.com/three_cube/status/1831743572565184945",
+    "username": "three_cube"
+}
+{
+    "expanded_url": [
+        "https://ii4gsp.github.io/cve-2020-27786/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "CVE-2020-27786 ( Race Condition + Use-After-Free ) \n https://t.co/kDOdv6PIqb  #Pentesting #CyberSecurity #Infosec https://t.co/JChrN2wvtO",
+    "tweettime": "2024-09-05, 16:30:15",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1831731581888712756",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "⚠️ Veeam has patched 18 security flaws, including 5 critical ones allowing remote code execution (e.g., CVE-2024-40711 with a 9.8 CVSS score). Update now to protect your data.\n\nLearn more: https://t.co/0WwDkTUFx8\n\n#cybersecurity #technology",
+    "tweettime": "2024-09-05, 16:14:29",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831727612802285936",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 144,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "For our second technical post, we have an analysis of a Windows RCE vulnerability in the Wi-Fi driver (CVE-2024-30078), which includes a detailed root cause analysis and exploitation constraints. Enjoy :)\n\nhttps://t.co/llaW6l6TlC",
+    "tweettime": "2024-09-05, 16:00:01",
+    "tweeturl": "https://twitter.com/crowdfense/status/1831723971500265765",
+    "username": "crowdfense"
+}
+{
+    "expanded_url": [
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-24:10.bhyve.asc"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2024-41928: VM escape in FreeBSD's bhyve hypervisor via TPM device passthrough, by @Synacktiv\n\nhttps://t.co/TrSYKoKSu8",
+    "tweettime": "2024-09-05, 15:57:28",
+    "tweeturl": "https://twitter.com/fdfalcon/status/1831723329910124613",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://code-white.com/public-vulnerability-list/#unauthenticated-remote-code-execution-in-backup-replication"
+    ],
+    "tweetfavorites": 208,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 75,
+    "tweettext": "Better patch your Veeam Backup &amp; Replication servers! Full system takeover via CVE-2024-40711, discovered by our very own @frycos - no technical details from us this time because this might instantly be abused by ransomware gangs https://t.co/pGLq1RQi3n https://t.co/uUkRA2wgji",
+    "tweettime": "2024-09-05, 15:44:44",
+    "tweeturl": "https://twitter.com/codewhitesec/status/1831720125747069389",
+    "username": "codewhitesec"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/9/4/exploiting-exchange-powershell-after-proxynotshell-part-1-multivaluedproperty"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "In the 1st of a 4 part series, @chudyPB details his research into exploiting #Microsoft #Exchange after ProxyNotShell was patched. Today's post covers CVE-2023-21529: abuse of the allowed MultiValuedProperty class for RCE. Check it out at https://t.co/FRN8VEalB7",
+    "tweettime": "2024-09-05, 15:44:13",
+    "tweeturl": "https://twitter.com/thezdi/status/1831719997862752646",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://ii4gsp.github.io/cve-2020-27786/"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2020-27786 (Race Condition + Use-After-Free)\n\nAn article by @ii4gsp about exploiting a racy use-after-free in the MIDI subsystem.\n\nhttps://t.co/jUQgPnDjLd https://t.co/eTaYMmcQSZ",
+    "tweettime": "2024-09-05, 13:58:14",
+    "tweeturl": "https://twitter.com/linkersec/status/1831693325394391191",
+    "username": "linkersec"
+}
+{
+    "expanded_url": [
+        "https://ti.qianxin.com/blog/articles/public-secret-research-on-the-cve-2024-30051-privilege-escalation-vulnerability-in-the-wild-en/"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Analysis of Windows DWM #EoP vuln (#CVE-2024-30051) in-the-wild exploitation sample and root cause\n\nhttps://t.co/xUMTGuhnQD https://t.co/1TLu5Arq4O",
+    "tweettime": "2024-09-05, 10:31:25",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1831641279186530738",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "Cisco has issued urgent updates for two critical flaws (CVSS 9.8) in its Smart Licensing Utility. These flaws (CVE-2024-20439 &amp; CVE-2024-20440) let unauthenticated attackers elevate privileges or access sensitive data via crafted HTTP requests.\n\nRead: https://t.co/x7j8s1TIEv",
+    "tweettime": "2024-09-05, 04:43:43",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831553777129943331",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 15,
+    "tweetreplies": 6,
+    "tweetretweets": 120,
+    "tweettext": "#Google has issued a update to fix the high-severity Android #vulnerability CVE-2024-32896, which allows attackers to take control of your device. Initially affecting Pixel devices, it now impacts the entire #Android ecosystem.\n\nRead: https://t.co/MUi34tgq4O\n\n#infosec #hacking",
+    "tweettime": "2024-09-04, 13:38:02",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831325852677845164",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/zyxel-patches-critical-os-command.html"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Zyxel has patched a critical #vulnerability (CVE-2024-7261) that allowed unauthenticated attackers to execute OS commands on certain routers and access points.\n\nLearn more: https://t.co/DH25VvoIC2\n\n#CyberSecurity",
+    "tweettime": "2024-09-04, 11:30:27",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831293745465295102",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://clearbluejar.github.io/posts/patch-tuesday-diffing-cve-2024-20696-windows-libarchive-rce/"
+    ],
+    "tweetfavorites": 249,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 61,
+    "tweettext": "Patch diffing  CVE-2024-20696 (libarchive vulnerability) and CVE-2024-20697 using Ghidriff\n\nhttps://t.co/dextETvFy5\n\nCredits @clearbluejar\n\n#libarchive #infosec https://t.co/yxnSdcEB5V",
+    "tweettime": "2024-09-04, 07:00:26",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1831225795164926263",
+    "username": "0xor0ne"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @virusbtn: Trend Micro researchers have identified a new attack vector that exploits CVE-2023-22527 through the deployment of an in-memo…",
+    "tweettime": "2024-09-04, 06:53:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831224124972114066",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.securelayer7.net/spring-cloud-skipper-vulnerability/"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2024-37084: Spring Cloud Remote Code Execution\n\nhttps://t.co/vIE9sQmo3a",
+    "tweettime": "2024-09-03, 20:14:26",
+    "tweeturl": "https://twitter.com/tbbhunter/status/1831063223803502883",
+    "username": "tbbhunter"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-8105-an-uefi-flaw-putting-millions-of-devices-at-risk/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 87,
+    "tweettext": "RT @Dinosn: CVE-2024-8105: An UEFI Flaw Putting Millions of Devices at Risk https://t.co/1cAD2DAzFk",
+    "tweettime": "2024-09-03, 13:14:44",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1830957600948789756",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "RT @ksg93rd: #exploit\n1. CVE-2024-20017:\nMediaTek wappd Buffer Overflow\nhttps://t.co/ie31ghtbiz\n\n2. CVE-2023-41111:\nSamsung Baseband RLC Da…",
+    "tweettime": "2024-09-02, 22:55:55",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830741472741568989",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html",
+        "https://labs.taszk.io/blog/post/93_rlc_bof"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "#exploit\n1. CVE-2024-20017:\nMediaTek wappd Buffer Overflow\nhttps://t.co/ie31ghtbiz\n\n2. CVE-2023-41111:\nSamsung Baseband RLC Data Re-Assembly Buffer Overflow\nhttps://t.co/yMx5XB65Zk",
+    "tweettime": "2024-09-02, 20:00:02",
+    "tweeturl": "https://twitter.com/ksg93rd/status/1830697211606237474",
+    "username": "ksg93rd"
+}
+{
+    "expanded_url": [
+        null
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 190,
+    "tweettext": "RT @HunterMapping: 🤖CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published\n🔥PoC: https://t.co/87CR2g6…",
+    "tweettime": "2024-09-02, 14:50:15",
+    "tweeturl": "https://twitter.com/momika233/status/1830619250404590074",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://www.welivesecurity.com/en/eset-research/analysis-of-two-arbitrary-code-execution-vulnerabilities-affecting-wps-office/"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "Korean-speaking threat actors are on fire!🔥 Their adoption of 0-days proves once again just how resourceful, skilled, and surprisingly agile they are these days.\n\n🕵️‍♂️ Group: APT-C-60\n🏠 Origin: Known as 🇰🇷\n💥 0-day: CVE-2024-7262 and CVE-2024-7263\n🔗 Ref: https://t.co/ac3BglWvPf",
+    "tweettime": "2024-09-02, 13:07:03",
+    "tweeturl": "https://twitter.com/unpacker/status/1830593281207697782",
+    "username": "unpacker"
+}
+{
+    "expanded_url": [
+        "https://github.com/convisolabs/CVE-2024-43044-jenkins",
+        "https://blog.convisoappsec.com/en/analysis-of-cve-2024-43044/"
+    ],
+    "tweetfavorites": 165,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "🤖CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published\n🔥PoC: https://t.co/87CR2g6bUD\n🧐Deep Dive:https://t.co/1aCH9N8wul https://t.co/mxkynjmp1k",
+    "tweettime": "2024-09-02, 06:09:46",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1830488268502159869",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-43044-critical-jenkins-vulnerability-exposes-servers-to-rce-poc-exploit-published/"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published https://t.co/F7Jof6PvRe",
+    "tweettime": "2024-09-02, 03:49:07",
+    "tweeturl": "https://twitter.com/Dinosn/status/1830452871483056183",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-43044-critical-jenkins-vulnerability-exposes-servers-to-rce-poc-exploit-published/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "Jenkinsにおける重大(Critical)な脆弱性、CVE-2024-43044に対応するPoC（攻撃の概念実証コード）が公開された。任意コマンド実行により認証情報をダンプ可能なもの。 https://t.co/IWUy43opgZ",
+    "tweettime": "2024-09-02, 03:25:08",
+    "tweeturl": "https://twitter.com/__kokumoto/status/1830446836030861526",
+    "username": "__kokumoto"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "RT @hackyboiz: [Research] Hyper-V 1-day Class: CVE-2024-38080\n이번 연구글은 Hyper-V LPE 취약점인 CVE-2024-38080 patch diffing, poc 작성입니다. 익스플로잇은 못했습니…",
+    "tweettime": "2024-09-01, 13:25:24",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830235511782584382",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Well written blog post on exploiting a Use-after-Free (UaF) in Linux kernel (CVE-2024-0582, io_uring)\n\nhttps://t.co/8eKtsR9t8G\n\nCredits Oriol Castejón (@XI_Research)\n\n#iouring #infosec https://t.co/AyTftwdFRm",
+    "tweettime": "2024-09-01, 07:30:01",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1830146076742938638",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://seg-fault.gitbook.io/researchs/windows-security-research/exploit-development/mskssrv.sys-cve-2023-29360"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "RT @gh0st_R1d3r_0x9: Wrote a thing at https://t.co/e9kBTZM2Ld\n\nN-day analysis of CVE-2023-29360\n\nFeedbacks welcomed. Tried to keep it short…",
+    "tweettime": "2024-09-01, 07:23:27",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830144422090080619",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/sunn1day/CVE-2018-14714-POC",
+        "https://twitter.com/HunterMapping/status/1833701063511113895/photo/1",
+        "http://hunter.how",
+        "https://github.com/BTtea/CVE-2018-14714-RCE-exploit",
+        "https://hunter.how/list?searchValue=product.name%3D%22ASUS%20RT-AC3200%22"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "🥳CALL BACK🥳CVE-2018-14714: ASUS RT-AC3200 WiFi router RCE\n🔥New EXP: https://t.co/q3qNTq5yRV\n🔥Original PoC: https://t.co/5v6yDJRHzc\n📊 17K+ Services are found on https://t.co/ysWb28BTvF yearly.\n🔗Hunter Link: https://t.co/0gl1LCt1LF\n👇Search Query\nHUNTER:/product.name=\"ASUS https://t.co/7n3wEjsmXk",
+    "tweettime": "2024-09-11, 02:56:16",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1833701063511113895",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38018"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 14,
+    "tweettext": "My SharePoint RCE got fixed: CVE-2024-38018. Site Member privs should be enough to exploit. \n\nI also found a DoS vuln that got patched today: CVE-2024-43466\n\nhttps://t.co/JldGOJfzeI",
+    "tweettime": "2024-09-10, 18:06:25",
+    "tweeturl": "https://twitter.com/chudyPB/status/1833567722502037643",
+    "username": "chudyPB"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "4 CVE exploited in the wild, on Microsoft's Patch      \nCVE-2024-43491 - 9.8 - Microsoft Windows Update Remote Code Execution Vulnerability\n    CVE-2024-38014 - 7.8 - Windows Installer Elevation of Privilege Vulnerability\n    CVE-2024-38226 - 7.3 - Microsoft Publisher Security",
+    "tweettime": "2024-09-10, 17:17:29",
+    "tweeturl": "https://twitter.com/Dinosn/status/1833555406376894823",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) : https://t.co/0Rq4G4DTrA https://t.co/e7dMUEbays",
+    "tweettime": "2024-09-10, 15:41:26",
+    "tweeturl": "https://twitter.com/binitamshah/status/1833531235291091034",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-10, 13:37:06",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1833499945221148810",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "UPDATE -- Critical flaw in SonicWall devices is under active exploitation by ransomware groups, warns Arctic Wolf and Rapid7.\n\nThe #vulnerability, CVE-2024-40766, could allow ransomware groups like Akira to access SSLVPN user accounts, posing a major threat to businesses. Stay",
+    "tweettime": "2024-09-10, 03:43:42",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1833350612349817192",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 20:31:23",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1833241815413362827",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 94,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "CVE-2024-45507 Apache Ofbiz  SSRF to RCE https://t.co/GxKm4TUAGD",
+    "tweettime": "2024-09-09, 16:45:13",
+    "tweeturl": "https://twitter.com/chybeta/status/1833184898913636424",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 16:31:53",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1833181543256170524",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 15:52:46",
+    "tweeturl": "https://twitter.com/steventseeley/status/1833171698092331342",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/progress-software-issues-patch-for.html"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "⚠️ Progress Software has released security updates for a critical #vulnerability (CVE-2024-7591) in LoadMaster &amp; Multi-Tenant hypervisors, allowing unauthenticated attackers to execute system commands.\n\nhttps://t.co/BXPi2fuvHd\n\nDon’t risk your infrastructure. Update systems now!",
+    "tweettime": "2024-09-09, 09:30:54",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1833075600283873346",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/cVF9O"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-37288, -37285: RCE in Kibana, 9.9 rating 🔥🔥🔥\n\nBy improperly deserializing YAML, attackers can perform RCE.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/LIGOwwlyXP\n\n#cybersecurity #vulnerability_map #kibana https://t.co/Xcq30MICca",
+    "tweettime": "2024-09-09, 09:13:54",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1833071322693333321",
+    "username": "Netlas_io"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-windows-elevation-of-privilege-vulnerability-cve-2024-26230/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "PoC Exploit Releases for Windows Elevation of Privilege Vulnerability CVE-2024-26230 https://t.co/QLuanb2PQl",
+    "tweettime": "2024-09-09, 04:07:09",
+    "tweeturl": "https://twitter.com/Dinosn/status/1832994123655106906",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Server with #opendir 213.109.147[.]108:4242 (now disabled) had an exploit for #CosmicSting (aka CVE-2024-34102), an Unauthorized XXE that combined with CVE-2024-2961 allows RCE in Magento and Adobe Commerce stores.\n\nOn the server there was a TXT file with about 3900 https://t.co/ABOcTPbJYR",
+    "tweettime": "2024-09-09, 02:36:16",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1832971253239660768",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-windows-elevation-of-privilege-vulnerability-cve-2024-26230/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "PoC Exploit Releases for Windows Elevation of Privilege Vulnerability CVE-2024-26230\n\nGet insights into the technical details and #PoC exploit of the serious elevation of privilege vulnerability (CVE-2024-26230) in #Windows Telephony service\nhttps://t.co/le5JoUUfDC",
+    "tweettime": "2024-09-09, 01:45:04",
+    "tweeturl": "https://twitter.com/the_yellow_fall/status/1832958369327468653",
+    "username": "the_yellow_fall"
+}
+{
+    "expanded_url": [
+        "https://www.coresecurity.com/core-labs/articles/windows-dwm-core-library-elevation-privilege-vulnerability-cve-2024-30051"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) https://t.co/4V41ipglcm  #Pentesting #Windows #Vulnerability  #CyberSecurity #Infosec https://t.co/X1PLkbQz3H",
+    "tweettime": "2024-09-09, 01:00:15",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1832947092060262894",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 117,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 11,
+    "tweettext": "After not sleeping for 2 days, I finally cooked the exploit, unauthenticated RCE against Veeam backup and Replication CVE-2024-40711, Imma go sleep now https://t.co/qzuLSVfSr6",
+    "tweettime": "2024-09-09, 00:27:35",
+    "tweeturl": "https://twitter.com/SinSinology/status/1832938871148908628",
+    "username": "SinSinology"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) (Published August 15 of 2024) https://t.co/SUtsE2GLZK #Pentesting #Windows #exploit #CyberSecurity #Infosec https://t.co/hmKcfDFvYf",
+    "tweettime": "2024-09-08, 03:55:13",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1832628733175320900",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://0xdf.gitlab.io/2024/09/07/htb-mailing.html"
+    ],
+    "tweetfavorites": 106,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Mailing from @hackthebox_eu has a file read leak hMailServer creds. Then I abuse CVE-2024-21413 through phishing to get more creds. For root, I'll exploit LibreOffice. In Beyond Root, I'll show the patched LFI to RCE via log poisoning and GodPotato.\n\nhttps://t.co/WrLMQwopzk",
+    "tweettime": "2024-09-07, 15:00:45",
+    "tweeturl": "https://twitter.com/0xdf_/status/1832433834752618649",
+    "username": "0xdf_"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 19,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 : https://t.co/FoWALEWo6g credits @crowdfense @Void_Sec https://t.co/KbsLeLfPHB",
+    "tweettime": "2024-09-06, 19:42:18",
+    "tweeturl": "https://twitter.com/binitamshah/status/1832142301600334198",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/sonicwall-urges-users-to-patch-critical.html"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "🔥 A SonicWall #vulnerability (CVE-2024-40766) is under active exploitation.\n\nThis critical flaw allows attackers to bypass access controls and potentially crash firewalls, compromising business operations. Don't wait.\n\nhttps://t.co/0jpl20wOAC\n\nPatch now or risk falling victim.",
+    "tweettime": "2024-09-06, 15:56:24",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1832085449860657156",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @cyber_advising: CVE-2024-30051: Windows DWM Core Library Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/iLkOkqmBft https://t.c…",
+    "tweettime": "2024-09-06, 15:51:42",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832084266475491570",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "RT @CoreAdvisories: In his latest blog, Core Labs' @ricnar456 takes a deep dive into CVE-2024-30051, reversing this Windows #vulnerability…",
+    "tweettime": "2024-09-06, 15:51:23",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832084186343305274",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://www.coresecurity.com/core-labs/articles/windows-dwm-core-library-elevation-privilege-vulnerability-cve-2024-30051"
+    ],
+    "tweetfavorites": 199,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 57,
+    "tweettext": "In his latest blog, Core Labs' @ricnar456 takes a deep dive into CVE-2024-30051, reversing this Windows #vulnerability to create a functional #PoC.  https://t.co/WIEyx3Zjoi https://t.co/mSsMe2QQFT",
+    "tweettime": "2024-09-06, 14:45:33",
+    "tweeturl": "https://twitter.com/CoreAdvisories/status/1832067618531868799",
+    "username": "CoreAdvisories"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42?source=social.tw"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "RT @theori_io: 🚨 New Linux Kernel vulnerability (CVE-2024-27394) discovered &amp; patched by Theori! \n🔗 https://t.co/p9hDC5b3xI\n\nOur researcher…",
+    "tweettime": "2024-09-06, 10:52:07",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832008874313822622",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/critical-security-flaw-found-in.html"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "New LiteSpeed Cache flaw (CVE-2024-44000) risks unauthorized access to WordPress sites via exposed debug logs.\n\nRead: https://t.co/4WyY7bavlB\n\nEven old logs can be exploited. Update and purge now!",
+    "tweettime": "2024-09-06, 09:14:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831984376156176422",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: despite shenanigans with CVSS scores, we can confirm the latest Veeam vulnerabilities (CVE-2024-40711) allow auth bypas…",
+    "tweettime": "2024-09-06, 08:46:27",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831977249400307733",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42?source=social.tw"
+    ],
+    "tweetfavorites": 156,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "🚨 New Linux Kernel vulnerability (CVE-2024-27394) discovered &amp; patched by Theori! \n🔗 https://t.co/p9hDC5b3xI\n\nOur researcher @v4bel at #Theori identified a critical #UAF vulnerability in TCP-AO caused by a race condition in the #RCU API. Using techniques from the ExpRace paper,",
+    "tweettime": "2024-09-06, 06:04:59",
+    "tweeturl": "https://twitter.com/theori_io/status/1831936617260708138",
+    "username": "theori_io"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "RT @crowdfense: For our second technical post, we have an analysis of a Windows RCE vulnerability in the Wi-Fi driver (CVE-2024-30078), whi…",
+    "tweettime": "2024-09-06, 05:48:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831932544516026751",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://summoning.team/blog/progress-whatsup-gold-sqli-cve-2024-6670/",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Progress%20Whatsup%20Gold%22",
+        "https://github.com/sinsinology/CVE-2024-6670"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "🚨Alert🚨CVE-2024-6670: Breaking Down Barriers: Exploiting Pre-Auth SQL Injection in Progress  WhatsUp Gold\n🔥PoC: https://t.co/YPXjqGko0q\n🧐Deep Dive:https://t.co/TxXiegi1BY\n📊 3.4K+ Services are found on https://t.co/ysWb28BTvF yearly\n🔗Hunter Link:https://t.co/tO9fyS5RQZ https://t.co/l39P5kVMw7",
+    "tweettime": "2024-09-06, 03:27:25",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1831896961441513726",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-26581-poc-exploit-released-linux-systems-at-risk-of-root-compromise/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-26581 PoC Exploit Released: Linux Systems at Risk of Root Compromise https://t.co/W9d9FOm9zb",
+    "tweettime": "2024-09-06, 03:23:43",
+    "tweeturl": "https://twitter.com/Dinosn/status/1831896032114036865",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: despite shenanigans with CVSS scores, we can confirm the latest Veeam vulnerabilities (CVE-2024-40711) allow auth bypas…",
+    "tweettime": "2024-09-06, 01:30:41",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831867583492190563",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 5,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 https://t.co/DxjvKNQpOw  #Pentesting #Vulnerability #Windows  #CyberSecurity #Infosec https://t.co/24WqVyAoGF",
+    "tweettime": "2024-09-05, 22:30:16",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1831822183582081324",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 71,
+    "tweettext": "RT @TheHackersNews: ⚠️ Veeam has patched 18 security flaws, including 5 critical ones allowing remote code execution (e.g., CVE-2024-40711…",
+    "tweettime": "2024-09-05, 20:01:03",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831784629260710400",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 95,
+    "tweettext": "RT @codewhitesec: Better patch your Veeam Backup &amp; Replication servers! Full system takeover via CVE-2024-40711, discovered by our very own…",
+    "tweettime": "2024-09-05, 19:58:08",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831783895978930528",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.hackers-arise.com/post/using-the-brand-new-ipv6-exploit-to-dos-a-windows-system"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "Using the Brand New (CVE-2024-38063) IPv6 Vulnerability to Crash a Windows System #ipv6 #bsod #cybersecurity #dos #infosec #cyberwarrior\n\nhttps://t.co/i0Rn2wTQyG https://t.co/cMBd35S2vA",
+    "tweettime": "2024-09-05, 17:17:54",
+    "tweeturl": "https://twitter.com/three_cube/status/1831743572565184945",
+    "username": "three_cube"
+}
+{
+    "expanded_url": [
+        "https://ii4gsp.github.io/cve-2020-27786/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "CVE-2020-27786 ( Race Condition + Use-After-Free ) \n https://t.co/kDOdv6PIqb  #Pentesting #CyberSecurity #Infosec https://t.co/JChrN2wvtO",
+    "tweettime": "2024-09-05, 16:30:15",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1831731581888712756",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "⚠️ Veeam has patched 18 security flaws, including 5 critical ones allowing remote code execution (e.g., CVE-2024-40711 with a 9.8 CVSS score). Update now to protect your data.\n\nLearn more: https://t.co/0WwDkTUFx8\n\n#cybersecurity #technology",
+    "tweettime": "2024-09-05, 16:14:29",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831727612802285936",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 144,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "For our second technical post, we have an analysis of a Windows RCE vulnerability in the Wi-Fi driver (CVE-2024-30078), which includes a detailed root cause analysis and exploitation constraints. Enjoy :)\n\nhttps://t.co/llaW6l6TlC",
+    "tweettime": "2024-09-05, 16:00:01",
+    "tweeturl": "https://twitter.com/crowdfense/status/1831723971500265765",
+    "username": "crowdfense"
+}
+{
+    "expanded_url": [
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-24:10.bhyve.asc"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2024-41928: VM escape in FreeBSD's bhyve hypervisor via TPM device passthrough, by @Synacktiv\n\nhttps://t.co/TrSYKoKSu8",
+    "tweettime": "2024-09-05, 15:57:28",
+    "tweeturl": "https://twitter.com/fdfalcon/status/1831723329910124613",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://code-white.com/public-vulnerability-list/#unauthenticated-remote-code-execution-in-backup-replication"
+    ],
+    "tweetfavorites": 208,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 75,
+    "tweettext": "Better patch your Veeam Backup &amp; Replication servers! Full system takeover via CVE-2024-40711, discovered by our very own @frycos - no technical details from us this time because this might instantly be abused by ransomware gangs https://t.co/pGLq1RQi3n https://t.co/uUkRA2wgji",
+    "tweettime": "2024-09-05, 15:44:44",
+    "tweeturl": "https://twitter.com/codewhitesec/status/1831720125747069389",
+    "username": "codewhitesec"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/9/4/exploiting-exchange-powershell-after-proxynotshell-part-1-multivaluedproperty"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "In the 1st of a 4 part series, @chudyPB details his research into exploiting #Microsoft #Exchange after ProxyNotShell was patched. Today's post covers CVE-2023-21529: abuse of the allowed MultiValuedProperty class for RCE. Check it out at https://t.co/FRN8VEalB7",
+    "tweettime": "2024-09-05, 15:44:13",
+    "tweeturl": "https://twitter.com/thezdi/status/1831719997862752646",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://ii4gsp.github.io/cve-2020-27786/"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2020-27786 (Race Condition + Use-After-Free)\n\nAn article by @ii4gsp about exploiting a racy use-after-free in the MIDI subsystem.\n\nhttps://t.co/jUQgPnDjLd https://t.co/eTaYMmcQSZ",
+    "tweettime": "2024-09-05, 13:58:14",
+    "tweeturl": "https://twitter.com/linkersec/status/1831693325394391191",
+    "username": "linkersec"
+}
+{
+    "expanded_url": [
+        "https://ti.qianxin.com/blog/articles/public-secret-research-on-the-cve-2024-30051-privilege-escalation-vulnerability-in-the-wild-en/"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Analysis of Windows DWM #EoP vuln (#CVE-2024-30051) in-the-wild exploitation sample and root cause\n\nhttps://t.co/xUMTGuhnQD https://t.co/1TLu5Arq4O",
+    "tweettime": "2024-09-05, 10:31:25",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1831641279186530738",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "Cisco has issued urgent updates for two critical flaws (CVSS 9.8) in its Smart Licensing Utility. These flaws (CVE-2024-20439 &amp; CVE-2024-20440) let unauthenticated attackers elevate privileges or access sensitive data via crafted HTTP requests.\n\nRead: https://t.co/x7j8s1TIEv",
+    "tweettime": "2024-09-05, 04:43:43",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831553777129943331",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 15,
+    "tweetreplies": 6,
+    "tweetretweets": 120,
+    "tweettext": "#Google has issued a update to fix the high-severity Android #vulnerability CVE-2024-32896, which allows attackers to take control of your device. Initially affecting Pixel devices, it now impacts the entire #Android ecosystem.\n\nRead: https://t.co/MUi34tgq4O\n\n#infosec #hacking",
+    "tweettime": "2024-09-04, 13:38:02",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831325852677845164",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/zyxel-patches-critical-os-command.html"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Zyxel has patched a critical #vulnerability (CVE-2024-7261) that allowed unauthenticated attackers to execute OS commands on certain routers and access points.\n\nLearn more: https://t.co/DH25VvoIC2\n\n#CyberSecurity",
+    "tweettime": "2024-09-04, 11:30:27",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831293745465295102",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://clearbluejar.github.io/posts/patch-tuesday-diffing-cve-2024-20696-windows-libarchive-rce/"
+    ],
+    "tweetfavorites": 249,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 61,
+    "tweettext": "Patch diffing  CVE-2024-20696 (libarchive vulnerability) and CVE-2024-20697 using Ghidriff\n\nhttps://t.co/dextETvFy5\n\nCredits @clearbluejar\n\n#libarchive #infosec https://t.co/yxnSdcEB5V",
+    "tweettime": "2024-09-04, 07:00:26",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1831225795164926263",
+    "username": "0xor0ne"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @virusbtn: Trend Micro researchers have identified a new attack vector that exploits CVE-2023-22527 through the deployment of an in-memo…",
+    "tweettime": "2024-09-04, 06:53:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831224124972114066",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.securelayer7.net/spring-cloud-skipper-vulnerability/"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2024-37084: Spring Cloud Remote Code Execution\n\nhttps://t.co/vIE9sQmo3a",
+    "tweettime": "2024-09-03, 20:14:26",
+    "tweeturl": "https://twitter.com/tbbhunter/status/1831063223803502883",
+    "username": "tbbhunter"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-8105-an-uefi-flaw-putting-millions-of-devices-at-risk/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 87,
+    "tweettext": "RT @Dinosn: CVE-2024-8105: An UEFI Flaw Putting Millions of Devices at Risk https://t.co/1cAD2DAzFk",
+    "tweettime": "2024-09-03, 13:14:44",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1830957600948789756",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "RT @ksg93rd: #exploit\n1. CVE-2024-20017:\nMediaTek wappd Buffer Overflow\nhttps://t.co/ie31ghtbiz\n\n2. CVE-2023-41111:\nSamsung Baseband RLC Da…",
+    "tweettime": "2024-09-02, 22:55:55",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830741472741568989",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html",
+        "https://labs.taszk.io/blog/post/93_rlc_bof"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "#exploit\n1. CVE-2024-20017:\nMediaTek wappd Buffer Overflow\nhttps://t.co/ie31ghtbiz\n\n2. CVE-2023-41111:\nSamsung Baseband RLC Data Re-Assembly Buffer Overflow\nhttps://t.co/yMx5XB65Zk",
+    "tweettime": "2024-09-02, 20:00:02",
+    "tweeturl": "https://twitter.com/ksg93rd/status/1830697211606237474",
+    "username": "ksg93rd"
+}
+{
+    "expanded_url": [
+        null
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 190,
+    "tweettext": "RT @HunterMapping: 🤖CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published\n🔥PoC: https://t.co/87CR2g6…",
+    "tweettime": "2024-09-02, 14:50:15",
+    "tweeturl": "https://twitter.com/momika233/status/1830619250404590074",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://www.welivesecurity.com/en/eset-research/analysis-of-two-arbitrary-code-execution-vulnerabilities-affecting-wps-office/"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "Korean-speaking threat actors are on fire!🔥 Their adoption of 0-days proves once again just how resourceful, skilled, and surprisingly agile they are these days.\n\n🕵️‍♂️ Group: APT-C-60\n🏠 Origin: Known as 🇰🇷\n💥 0-day: CVE-2024-7262 and CVE-2024-7263\n🔗 Ref: https://t.co/ac3BglWvPf",
+    "tweettime": "2024-09-02, 13:07:03",
+    "tweeturl": "https://twitter.com/unpacker/status/1830593281207697782",
+    "username": "unpacker"
+}
+{
+    "expanded_url": [
+        "https://github.com/convisolabs/CVE-2024-43044-jenkins",
+        "https://blog.convisoappsec.com/en/analysis-of-cve-2024-43044/"
+    ],
+    "tweetfavorites": 165,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "🤖CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published\n🔥PoC: https://t.co/87CR2g6bUD\n🧐Deep Dive:https://t.co/1aCH9N8wul https://t.co/mxkynjmp1k",
+    "tweettime": "2024-09-02, 06:09:46",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1830488268502159869",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-43044-critical-jenkins-vulnerability-exposes-servers-to-rce-poc-exploit-published/"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published https://t.co/F7Jof6PvRe",
+    "tweettime": "2024-09-02, 03:49:07",
+    "tweeturl": "https://twitter.com/Dinosn/status/1830452871483056183",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-43044-critical-jenkins-vulnerability-exposes-servers-to-rce-poc-exploit-published/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "Jenkinsにおける重大(Critical)な脆弱性、CVE-2024-43044に対応するPoC（攻撃の概念実証コード）が公開された。任意コマンド実行により認証情報をダンプ可能なもの。 https://t.co/IWUy43opgZ",
+    "tweettime": "2024-09-02, 03:25:08",
+    "tweeturl": "https://twitter.com/__kokumoto/status/1830446836030861526",
+    "username": "__kokumoto"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "RT @hackyboiz: [Research] Hyper-V 1-day Class: CVE-2024-38080\n이번 연구글은 Hyper-V LPE 취약점인 CVE-2024-38080 patch diffing, poc 작성입니다. 익스플로잇은 못했습니…",
+    "tweettime": "2024-09-01, 13:25:24",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830235511782584382",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Well written blog post on exploiting a Use-after-Free (UaF) in Linux kernel (CVE-2024-0582, io_uring)\n\nhttps://t.co/8eKtsR9t8G\n\nCredits Oriol Castejón (@XI_Research)\n\n#iouring #infosec https://t.co/AyTftwdFRm",
+    "tweettime": "2024-09-01, 07:30:01",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1830146076742938638",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://seg-fault.gitbook.io/researchs/windows-security-research/exploit-development/mskssrv.sys-cve-2023-29360"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "RT @gh0st_R1d3r_0x9: Wrote a thing at https://t.co/e9kBTZM2Ld\n\nN-day analysis of CVE-2023-29360\n\nFeedbacks welcomed. Tried to keep it short…",
+    "tweettime": "2024-09-01, 07:23:27",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830144422090080619",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/sunn1day/CVE-2018-14714-POC",
+        "https://twitter.com/HunterMapping/status/1833701063511113895/photo/1",
+        "http://hunter.how",
+        "https://github.com/BTtea/CVE-2018-14714-RCE-exploit",
+        "https://hunter.how/list?searchValue=product.name%3D%22ASUS%20RT-AC3200%22"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "🥳CALL BACK🥳CVE-2018-14714: ASUS RT-AC3200 WiFi router RCE\n🔥New EXP: https://t.co/q3qNTq5yRV\n🔥Original PoC: https://t.co/5v6yDJRHzc\n📊 17K+ Services are found on https://t.co/ysWb28BTvF yearly.\n🔗Hunter Link: https://t.co/0gl1LCt1LF\n👇Search Query\nHUNTER:/product.name=\"ASUS https://t.co/7n3wEjsmXk",
+    "tweettime": "2024-09-11, 02:56:16",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1833701063511113895",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38018"
+    ],
+    "tweetfavorites": 76,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 14,
+    "tweettext": "My SharePoint RCE got fixed: CVE-2024-38018. Site Member privs should be enough to exploit. \n\nI also found a DoS vuln that got patched today: CVE-2024-43466\n\nhttps://t.co/JldGOJfzeI",
+    "tweettime": "2024-09-10, 18:06:25",
+    "tweeturl": "https://twitter.com/chudyPB/status/1833567722502037643",
+    "username": "chudyPB"
+}
+{
+    "tweetfavorites": 52,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "4 CVE exploited in the wild, on Microsoft's Patch      \nCVE-2024-43491 - 9.8 - Microsoft Windows Update Remote Code Execution Vulnerability\n    CVE-2024-38014 - 7.8 - Windows Installer Elevation of Privilege Vulnerability\n    CVE-2024-38226 - 7.3 - Microsoft Publisher Security",
+    "tweettime": "2024-09-10, 17:17:29",
+    "tweeturl": "https://twitter.com/Dinosn/status/1833555406376894823",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) : https://t.co/0Rq4G4DTrA https://t.co/e7dMUEbays",
+    "tweettime": "2024-09-10, 15:41:26",
+    "tweeturl": "https://twitter.com/binitamshah/status/1833531235291091034",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-10, 13:37:06",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1833499945221148810",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "UPDATE -- Critical flaw in SonicWall devices is under active exploitation by ransomware groups, warns Arctic Wolf and Rapid7.\n\nThe #vulnerability, CVE-2024-40766, could allow ransomware groups like Akira to access SSLVPN user accounts, posing a major threat to businesses. Stay",
+    "tweettime": "2024-09-10, 03:43:42",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1833350612349817192",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 20:31:23",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1833241815413362827",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 94,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "CVE-2024-45507 Apache Ofbiz  SSRF to RCE https://t.co/GxKm4TUAGD",
+    "tweettime": "2024-09-09, 16:45:13",
+    "tweeturl": "https://twitter.com/chybeta/status/1833184898913636424",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 16:31:53",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1833181543256170524",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "RT @watchtowrcyber: Happy Monday! watchTowr Labs member @SinSinology deep dives into Veeam Backup &amp; Response CVE-2024-40711 in our latest p…",
+    "tweettime": "2024-09-09, 15:52:46",
+    "tweeturl": "https://twitter.com/steventseeley/status/1833171698092331342",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/progress-software-issues-patch-for.html"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "⚠️ Progress Software has released security updates for a critical #vulnerability (CVE-2024-7591) in LoadMaster &amp; Multi-Tenant hypervisors, allowing unauthenticated attackers to execute system commands.\n\nhttps://t.co/BXPi2fuvHd\n\nDon’t risk your infrastructure. Update systems now!",
+    "tweettime": "2024-09-09, 09:30:54",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1833075600283873346",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/cVF9O"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-37288, -37285: RCE in Kibana, 9.9 rating 🔥🔥🔥\n\nBy improperly deserializing YAML, attackers can perform RCE.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/LIGOwwlyXP\n\n#cybersecurity #vulnerability_map #kibana https://t.co/Xcq30MICca",
+    "tweettime": "2024-09-09, 09:13:54",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1833071322693333321",
+    "username": "Netlas_io"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-windows-elevation-of-privilege-vulnerability-cve-2024-26230/"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "PoC Exploit Releases for Windows Elevation of Privilege Vulnerability CVE-2024-26230 https://t.co/QLuanb2PQl",
+    "tweettime": "2024-09-09, 04:07:09",
+    "tweeturl": "https://twitter.com/Dinosn/status/1832994123655106906",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "Server with #opendir 213.109.147[.]108:4242 (now disabled) had an exploit for #CosmicSting (aka CVE-2024-34102), an Unauthorized XXE that combined with CVE-2024-2961 allows RCE in Magento and Adobe Commerce stores.\n\nOn the server there was a TXT file with about 3900 https://t.co/ABOcTPbJYR",
+    "tweettime": "2024-09-09, 02:36:16",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1832971253239660768",
+    "username": "1ZRR4H"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-windows-elevation-of-privilege-vulnerability-cve-2024-26230/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "PoC Exploit Releases for Windows Elevation of Privilege Vulnerability CVE-2024-26230\n\nGet insights into the technical details and #PoC exploit of the serious elevation of privilege vulnerability (CVE-2024-26230) in #Windows Telephony service\nhttps://t.co/le5JoUUfDC",
+    "tweettime": "2024-09-09, 01:45:04",
+    "tweeturl": "https://twitter.com/the_yellow_fall/status/1832958369327468653",
+    "username": "the_yellow_fall"
+}
+{
+    "expanded_url": [
+        "https://www.coresecurity.com/core-labs/articles/windows-dwm-core-library-elevation-privilege-vulnerability-cve-2024-30051"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) https://t.co/4V41ipglcm  #Pentesting #Windows #Vulnerability  #CyberSecurity #Infosec https://t.co/X1PLkbQz3H",
+    "tweettime": "2024-09-09, 01:00:15",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1832947092060262894",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 117,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 11,
+    "tweettext": "After not sleeping for 2 days, I finally cooked the exploit, unauthenticated RCE against Veeam backup and Replication CVE-2024-40711, Imma go sleep now https://t.co/qzuLSVfSr6",
+    "tweettime": "2024-09-09, 00:27:35",
+    "tweeturl": "https://twitter.com/SinSinology/status/1832938871148908628",
+    "username": "SinSinology"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) (Published August 15 of 2024) https://t.co/SUtsE2GLZK #Pentesting #Windows #exploit #CyberSecurity #Infosec https://t.co/hmKcfDFvYf",
+    "tweettime": "2024-09-08, 03:55:13",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1832628733175320900",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://0xdf.gitlab.io/2024/09/07/htb-mailing.html"
+    ],
+    "tweetfavorites": 106,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Mailing from @hackthebox_eu has a file read leak hMailServer creds. Then I abuse CVE-2024-21413 through phishing to get more creds. For root, I'll exploit LibreOffice. In Beyond Root, I'll show the patched LFI to RCE via log poisoning and GodPotato.\n\nhttps://t.co/WrLMQwopzk",
+    "tweettime": "2024-09-07, 15:00:45",
+    "tweeturl": "https://twitter.com/0xdf_/status/1832433834752618649",
+    "username": "0xdf_"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 19,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 : https://t.co/FoWALEWo6g credits @crowdfense @Void_Sec https://t.co/KbsLeLfPHB",
+    "tweettime": "2024-09-06, 19:42:18",
+    "tweeturl": "https://twitter.com/binitamshah/status/1832142301600334198",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/sonicwall-urges-users-to-patch-critical.html"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "🔥 A SonicWall #vulnerability (CVE-2024-40766) is under active exploitation.\n\nThis critical flaw allows attackers to bypass access controls and potentially crash firewalls, compromising business operations. Don't wait.\n\nhttps://t.co/0jpl20wOAC\n\nPatch now or risk falling victim.",
+    "tweettime": "2024-09-06, 15:56:24",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1832085449860657156",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/fortra/CVE-2024-30051?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @cyber_advising: CVE-2024-30051: Windows DWM Core Library Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/iLkOkqmBft https://t.c…",
+    "tweettime": "2024-09-06, 15:51:42",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832084266475491570",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "RT @CoreAdvisories: In his latest blog, Core Labs' @ricnar456 takes a deep dive into CVE-2024-30051, reversing this Windows #vulnerability…",
+    "tweettime": "2024-09-06, 15:51:23",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832084186343305274",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://www.coresecurity.com/core-labs/articles/windows-dwm-core-library-elevation-privilege-vulnerability-cve-2024-30051"
+    ],
+    "tweetfavorites": 199,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 57,
+    "tweettext": "In his latest blog, Core Labs' @ricnar456 takes a deep dive into CVE-2024-30051, reversing this Windows #vulnerability to create a functional #PoC.  https://t.co/WIEyx3Zjoi https://t.co/mSsMe2QQFT",
+    "tweettime": "2024-09-06, 14:45:33",
+    "tweeturl": "https://twitter.com/CoreAdvisories/status/1832067618531868799",
+    "username": "CoreAdvisories"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42?source=social.tw"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "RT @theori_io: 🚨 New Linux Kernel vulnerability (CVE-2024-27394) discovered &amp; patched by Theori! \n🔗 https://t.co/p9hDC5b3xI\n\nOur researcher…",
+    "tweettime": "2024-09-06, 10:52:07",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1832008874313822622",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/critical-security-flaw-found-in.html"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "New LiteSpeed Cache flaw (CVE-2024-44000) risks unauthorized access to WordPress sites via exposed debug logs.\n\nRead: https://t.co/4WyY7bavlB\n\nEven old logs can be exploited. Update and purge now!",
+    "tweettime": "2024-09-06, 09:14:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831984376156176422",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: despite shenanigans with CVSS scores, we can confirm the latest Veeam vulnerabilities (CVE-2024-40711) allow auth bypas…",
+    "tweettime": "2024-09-06, 08:46:27",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831977249400307733",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42?source=social.tw"
+    ],
+    "tweetfavorites": 156,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "🚨 New Linux Kernel vulnerability (CVE-2024-27394) discovered &amp; patched by Theori! \n🔗 https://t.co/p9hDC5b3xI\n\nOur researcher @v4bel at #Theori identified a critical #UAF vulnerability in TCP-AO caused by a race condition in the #RCU API. Using techniques from the ExpRace paper,",
+    "tweettime": "2024-09-06, 06:04:59",
+    "tweeturl": "https://twitter.com/theori_io/status/1831936617260708138",
+    "username": "theori_io"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "RT @crowdfense: For our second technical post, we have an analysis of a Windows RCE vulnerability in the Wi-Fi driver (CVE-2024-30078), whi…",
+    "tweettime": "2024-09-06, 05:48:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831932544516026751",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://summoning.team/blog/progress-whatsup-gold-sqli-cve-2024-6670/",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Progress%20Whatsup%20Gold%22",
+        "https://github.com/sinsinology/CVE-2024-6670"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 14,
+    "tweettext": "🚨Alert🚨CVE-2024-6670: Breaking Down Barriers: Exploiting Pre-Auth SQL Injection in Progress  WhatsUp Gold\n🔥PoC: https://t.co/YPXjqGko0q\n🧐Deep Dive:https://t.co/TxXiegi1BY\n📊 3.4K+ Services are found on https://t.co/ysWb28BTvF yearly\n🔗Hunter Link:https://t.co/tO9fyS5RQZ https://t.co/l39P5kVMw7",
+    "tweettime": "2024-09-06, 03:27:25",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1831896961441513726",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-26581-poc-exploit-released-linux-systems-at-risk-of-root-compromise/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "CVE-2024-26581 PoC Exploit Released: Linux Systems at Risk of Root Compromise https://t.co/W9d9FOm9zb",
+    "tweettime": "2024-09-06, 03:23:43",
+    "tweeturl": "https://twitter.com/Dinosn/status/1831896032114036865",
+    "username": "Dinosn"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "RT @watchtowrcyber: despite shenanigans with CVSS scores, we can confirm the latest Veeam vulnerabilities (CVE-2024-40711) allow auth bypas…",
+    "tweettime": "2024-09-06, 01:30:41",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831867583492190563",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 5,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 https://t.co/DxjvKNQpOw  #Pentesting #Vulnerability #Windows  #CyberSecurity #Infosec https://t.co/24WqVyAoGF",
+    "tweettime": "2024-09-05, 22:30:16",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1831822183582081324",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 71,
+    "tweettext": "RT @TheHackersNews: ⚠️ Veeam has patched 18 security flaws, including 5 critical ones allowing remote code execution (e.g., CVE-2024-40711…",
+    "tweettime": "2024-09-05, 20:01:03",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831784629260710400",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 95,
+    "tweettext": "RT @codewhitesec: Better patch your Veeam Backup &amp; Replication servers! Full system takeover via CVE-2024-40711, discovered by our very own…",
+    "tweettime": "2024-09-05, 19:58:08",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1831783895978930528",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://www.hackers-arise.com/post/using-the-brand-new-ipv6-exploit-to-dos-a-windows-system"
+    ],
+    "tweetfavorites": 54,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "Using the Brand New (CVE-2024-38063) IPv6 Vulnerability to Crash a Windows System #ipv6 #bsod #cybersecurity #dos #infosec #cyberwarrior\n\nhttps://t.co/i0Rn2wTQyG https://t.co/cMBd35S2vA",
+    "tweettime": "2024-09-05, 17:17:54",
+    "tweeturl": "https://twitter.com/three_cube/status/1831743572565184945",
+    "username": "three_cube"
+}
+{
+    "expanded_url": [
+        "https://ii4gsp.github.io/cve-2020-27786/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "CVE-2020-27786 ( Race Condition + Use-After-Free ) \n https://t.co/kDOdv6PIqb  #Pentesting #CyberSecurity #Infosec https://t.co/JChrN2wvtO",
+    "tweettime": "2024-09-05, 16:30:15",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1831731581888712756",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 52,
+    "tweettext": "⚠️ Veeam has patched 18 security flaws, including 5 critical ones allowing remote code execution (e.g., CVE-2024-40711 with a 9.8 CVSS score). Update now to protect your data.\n\nLearn more: https://t.co/0WwDkTUFx8\n\n#cybersecurity #technology",
+    "tweettime": "2024-09-05, 16:14:29",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831727612802285936",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 144,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "For our second technical post, we have an analysis of a Windows RCE vulnerability in the Wi-Fi driver (CVE-2024-30078), which includes a detailed root cause analysis and exploitation constraints. Enjoy :)\n\nhttps://t.co/llaW6l6TlC",
+    "tweettime": "2024-09-05, 16:00:01",
+    "tweeturl": "https://twitter.com/crowdfense/status/1831723971500265765",
+    "username": "crowdfense"
+}
+{
+    "expanded_url": [
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-24:10.bhyve.asc"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2024-41928: VM escape in FreeBSD's bhyve hypervisor via TPM device passthrough, by @Synacktiv\n\nhttps://t.co/TrSYKoKSu8",
+    "tweettime": "2024-09-05, 15:57:28",
+    "tweeturl": "https://twitter.com/fdfalcon/status/1831723329910124613",
+    "username": "fdfalcon"
+}
+{
+    "expanded_url": [
+        "https://code-white.com/public-vulnerability-list/#unauthenticated-remote-code-execution-in-backup-replication"
+    ],
+    "tweetfavorites": 208,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 75,
+    "tweettext": "Better patch your Veeam Backup &amp; Replication servers! Full system takeover via CVE-2024-40711, discovered by our very own @frycos - no technical details from us this time because this might instantly be abused by ransomware gangs https://t.co/pGLq1RQi3n https://t.co/uUkRA2wgji",
+    "tweettime": "2024-09-05, 15:44:44",
+    "tweeturl": "https://twitter.com/codewhitesec/status/1831720125747069389",
+    "username": "codewhitesec"
+}
+{
+    "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2024/9/4/exploiting-exchange-powershell-after-proxynotshell-part-1-multivaluedproperty"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "In the 1st of a 4 part series, @chudyPB details his research into exploiting #Microsoft #Exchange after ProxyNotShell was patched. Today's post covers CVE-2023-21529: abuse of the allowed MultiValuedProperty class for RCE. Check it out at https://t.co/FRN8VEalB7",
+    "tweettime": "2024-09-05, 15:44:13",
+    "tweeturl": "https://twitter.com/thezdi/status/1831719997862752646",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://ii4gsp.github.io/cve-2020-27786/"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2020-27786 (Race Condition + Use-After-Free)\n\nAn article by @ii4gsp about exploiting a racy use-after-free in the MIDI subsystem.\n\nhttps://t.co/jUQgPnDjLd https://t.co/eTaYMmcQSZ",
+    "tweettime": "2024-09-05, 13:58:14",
+    "tweeturl": "https://twitter.com/linkersec/status/1831693325394391191",
+    "username": "linkersec"
+}
+{
+    "expanded_url": [
+        "https://ti.qianxin.com/blog/articles/public-secret-research-on-the-cve-2024-30051-privilege-escalation-vulnerability-in-the-wild-en/"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Analysis of Windows DWM #EoP vuln (#CVE-2024-30051) in-the-wild exploitation sample and root cause\n\nhttps://t.co/xUMTGuhnQD https://t.co/1TLu5Arq4O",
+    "tweettime": "2024-09-05, 10:31:25",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1831641279186530738",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 75,
+    "tweettext": "Cisco has issued urgent updates for two critical flaws (CVSS 9.8) in its Smart Licensing Utility. These flaws (CVE-2024-20439 &amp; CVE-2024-20440) let unauthenticated attackers elevate privileges or access sensitive data via crafted HTTP requests.\n\nRead: https://t.co/x7j8s1TIEv",
+    "tweettime": "2024-09-05, 04:43:43",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831553777129943331",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 15,
+    "tweetreplies": 6,
+    "tweetretweets": 120,
+    "tweettext": "#Google has issued a update to fix the high-severity Android #vulnerability CVE-2024-32896, which allows attackers to take control of your device. Initially affecting Pixel devices, it now impacts the entire #Android ecosystem.\n\nRead: https://t.co/MUi34tgq4O\n\n#infosec #hacking",
+    "tweettime": "2024-09-04, 13:38:02",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831325852677845164",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/09/zyxel-patches-critical-os-command.html"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Zyxel has patched a critical #vulnerability (CVE-2024-7261) that allowed unauthenticated attackers to execute OS commands on certain routers and access points.\n\nLearn more: https://t.co/DH25VvoIC2\n\n#CyberSecurity",
+    "tweettime": "2024-09-04, 11:30:27",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1831293745465295102",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://clearbluejar.github.io/posts/patch-tuesday-diffing-cve-2024-20696-windows-libarchive-rce/"
+    ],
+    "tweetfavorites": 249,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 61,
+    "tweettext": "Patch diffing  CVE-2024-20696 (libarchive vulnerability) and CVE-2024-20697 using Ghidriff\n\nhttps://t.co/dextETvFy5\n\nCredits @clearbluejar\n\n#libarchive #infosec https://t.co/yxnSdcEB5V",
+    "tweettime": "2024-09-04, 07:00:26",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1831225795164926263",
+    "username": "0xor0ne"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "RT @virusbtn: Trend Micro researchers have identified a new attack vector that exploits CVE-2023-22527 through the deployment of an in-memo…",
+    "tweettime": "2024-09-04, 06:53:48",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1831224124972114066",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.securelayer7.net/spring-cloud-skipper-vulnerability/"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2024-37084: Spring Cloud Remote Code Execution\n\nhttps://t.co/vIE9sQmo3a",
+    "tweettime": "2024-09-03, 20:14:26",
+    "tweeturl": "https://twitter.com/tbbhunter/status/1831063223803502883",
+    "username": "tbbhunter"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-8105-an-uefi-flaw-putting-millions-of-devices-at-risk/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 87,
+    "tweettext": "RT @Dinosn: CVE-2024-8105: An UEFI Flaw Putting Millions of Devices at Risk https://t.co/1cAD2DAzFk",
+    "tweettime": "2024-09-03, 13:14:44",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1830957600948789756",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "RT @ksg93rd: #exploit\n1. CVE-2024-20017:\nMediaTek wappd Buffer Overflow\nhttps://t.co/ie31ghtbiz\n\n2. CVE-2023-41111:\nSamsung Baseband RLC Da…",
+    "tweettime": "2024-09-02, 22:55:55",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830741472741568989",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html",
+        "https://labs.taszk.io/blog/post/93_rlc_bof"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 49,
+    "tweettext": "#exploit\n1. CVE-2024-20017:\nMediaTek wappd Buffer Overflow\nhttps://t.co/ie31ghtbiz\n\n2. CVE-2023-41111:\nSamsung Baseband RLC Data Re-Assembly Buffer Overflow\nhttps://t.co/yMx5XB65Zk",
+    "tweettime": "2024-09-02, 20:00:02",
+    "tweeturl": "https://twitter.com/ksg93rd/status/1830697211606237474",
+    "username": "ksg93rd"
+}
+{
+    "expanded_url": [
+        null
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 190,
+    "tweettext": "RT @HunterMapping: 🤖CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published\n🔥PoC: https://t.co/87CR2g6…",
+    "tweettime": "2024-09-02, 14:50:15",
+    "tweeturl": "https://twitter.com/momika233/status/1830619250404590074",
+    "username": "momika233"
+}
+{
+    "expanded_url": [
+        "https://www.welivesecurity.com/en/eset-research/analysis-of-two-arbitrary-code-execution-vulnerabilities-affecting-wps-office/"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 39,
+    "tweettext": "Korean-speaking threat actors are on fire!🔥 Their adoption of 0-days proves once again just how resourceful, skilled, and surprisingly agile they are these days.\n\n🕵️‍♂️ Group: APT-C-60\n🏠 Origin: Known as 🇰🇷\n💥 0-day: CVE-2024-7262 and CVE-2024-7263\n🔗 Ref: https://t.co/ac3BglWvPf",
+    "tweettime": "2024-09-02, 13:07:03",
+    "tweeturl": "https://twitter.com/unpacker/status/1830593281207697782",
+    "username": "unpacker"
+}
+{
+    "expanded_url": [
+        "https://github.com/convisolabs/CVE-2024-43044-jenkins",
+        "https://blog.convisoappsec.com/en/analysis-of-cve-2024-43044/"
+    ],
+    "tweetfavorites": 165,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "🤖CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published\n🔥PoC: https://t.co/87CR2g6bUD\n🧐Deep Dive:https://t.co/1aCH9N8wul https://t.co/mxkynjmp1k",
+    "tweettime": "2024-09-02, 06:09:46",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1830488268502159869",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-43044-critical-jenkins-vulnerability-exposes-servers-to-rce-poc-exploit-published/"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published https://t.co/F7Jof6PvRe",
+    "tweettime": "2024-09-02, 03:49:07",
+    "tweeturl": "https://twitter.com/Dinosn/status/1830452871483056183",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-43044-critical-jenkins-vulnerability-exposes-servers-to-rce-poc-exploit-published/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 17,
+    "tweettext": "Jenkinsにおける重大(Critical)な脆弱性、CVE-2024-43044に対応するPoC（攻撃の概念実証コード）が公開された。任意コマンド実行により認証情報をダンプ可能なもの。 https://t.co/IWUy43opgZ",
+    "tweettime": "2024-09-02, 03:25:08",
+    "tweeturl": "https://twitter.com/__kokumoto/status/1830446836030861526",
+    "username": "__kokumoto"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "RT @hackyboiz: [Research] Hyper-V 1-day Class: CVE-2024-38080\n이번 연구글은 Hyper-V LPE 취약점인 CVE-2024-38080 patch diffing, poc 작성입니다. 익스플로잇은 못했습니…",
+    "tweettime": "2024-09-01, 13:25:24",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830235511782584382",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/"
+    ],
+    "tweetfavorites": 198,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 41,
+    "tweettext": "Well written blog post on exploiting a Use-after-Free (UaF) in Linux kernel (CVE-2024-0582, io_uring)\n\nhttps://t.co/8eKtsR9t8G\n\nCredits Oriol Castejón (@XI_Research)\n\n#iouring #infosec https://t.co/AyTftwdFRm",
+    "tweettime": "2024-09-01, 07:30:01",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1830146076742938638",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://seg-fault.gitbook.io/researchs/windows-security-research/exploit-development/mskssrv.sys-cve-2023-29360"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 56,
+    "tweettext": "RT @gh0st_R1d3r_0x9: Wrote a thing at https://t.co/e9kBTZM2Ld\n\nN-day analysis of CVE-2023-29360\n\nFeedbacks welcomed. Tried to keep it short…",
+    "tweettime": "2024-09-01, 07:23:27",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1830144422090080619",
+    "username": "kmkz_security"
+}

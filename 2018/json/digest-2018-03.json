@@ -167,3 +167,198 @@
     "tweeturl": "https://twitter.com/mehqq_/status/971049724705882114",
     "username": "mehqq_"
 }
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/03/window-remote-assistance.html"
+    ],
+    "tweetfavorites": 171,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 158,
+    "tweettext": "Researcher reveals how to exploit a critical flaw (CVE-2018-0878) in Microsoft’s built-in Windows Remote Assistance tool to steal sensitive files remotely:\n\nhttps://t.co/hp0p2STYZi\n\nDon't trust anyone — not even the one who invite/offer remote access to his/her computer. https://t.co/aoiI1tYNv9",
+    "tweettime": "2018-03-20, 19:06:47",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/976173221627285507",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/03/credssp-rdp-exploit.html"
+    ],
+    "tweetfavorites": 261,
+    "tweetquotes": 14,
+    "tweetreplies": 4,
+    "tweetretweets": 320,
+    "tweettext": "CredSSP Vulnerability (CVE-2018-0886) in #Microsoft RDP and WinRM Protocols Allows Remote Hackers to Steal Authentication Session and Run Malicious Commands\n\nhttps://t.co/5fxl1C1v50\n\nAll Versions of Windows Affected — Install Microsoft’s March 2018 Updates to Patch #CredSSP Flaw. https://t.co/WwWf7jSkBH",
+    "tweettime": "2018-03-13, 18:15:17",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/973623546240028672",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "Exim Off-by-one RCE : Exploiting CVE-2018-6789 with Fully Mitigations Bypassing (Vulnerability Affects Half of the Internet's Email Servers) : https://t.co/KYX5XNbwbx https://t.co/uVNVnYLc10",
+    "tweettime": "2018-03-07, 04:29:04",
+    "tweeturl": "https://twitter.com/binitamshah/status/971241294952652805",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 81,
+    "tweettext": "Researcher publishes PoC code and explanation for a severe buffer overflow vulnerability (CVE-2018-6789) in all versions of #Exim mail transfer agent (below 4.90.1) that could allow pre-auth remote code execution. \n\nhttps://t.co/2TuzrNaZSr https://t.co/AK2w1r5sZX",
+    "tweettime": "2018-03-06, 17:55:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/971081822825271296",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/"
+    ],
+    "tweetfavorites": 607,
+    "tweetquotes": 11,
+    "tweetreplies": 16,
+    "tweetretweets": 460,
+    "tweettext": "Found another off-by-one remote code execution vulnerability (CVE-2018-6789) in Exim mail server! It was challenging but interesting and we finally achieve RCE and bypass mitigations (ASLR, NX …) successfully. Details here:\nhttps://t.co/41B0sprlyV",
+    "tweettime": "2018-03-06, 15:47:50",
+    "tweeturl": "https://twitter.com/mehqq_/status/971049724705882114",
+    "username": "mehqq_"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/03/window-remote-assistance.html"
+    ],
+    "tweetfavorites": 171,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 158,
+    "tweettext": "Researcher reveals how to exploit a critical flaw (CVE-2018-0878) in Microsoft’s built-in Windows Remote Assistance tool to steal sensitive files remotely:\n\nhttps://t.co/hp0p2STYZi\n\nDon't trust anyone — not even the one who invite/offer remote access to his/her computer. https://t.co/aoiI1tYNv9",
+    "tweettime": "2018-03-20, 19:06:47",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/976173221627285507",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/03/credssp-rdp-exploit.html"
+    ],
+    "tweetfavorites": 261,
+    "tweetquotes": 14,
+    "tweetreplies": 4,
+    "tweetretweets": 320,
+    "tweettext": "CredSSP Vulnerability (CVE-2018-0886) in #Microsoft RDP and WinRM Protocols Allows Remote Hackers to Steal Authentication Session and Run Malicious Commands\n\nhttps://t.co/5fxl1C1v50\n\nAll Versions of Windows Affected — Install Microsoft’s March 2018 Updates to Patch #CredSSP Flaw. https://t.co/WwWf7jSkBH",
+    "tweettime": "2018-03-13, 18:15:17",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/973623546240028672",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "Exim Off-by-one RCE : Exploiting CVE-2018-6789 with Fully Mitigations Bypassing (Vulnerability Affects Half of the Internet's Email Servers) : https://t.co/KYX5XNbwbx https://t.co/uVNVnYLc10",
+    "tweettime": "2018-03-07, 04:29:04",
+    "tweeturl": "https://twitter.com/binitamshah/status/971241294952652805",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 81,
+    "tweettext": "Researcher publishes PoC code and explanation for a severe buffer overflow vulnerability (CVE-2018-6789) in all versions of #Exim mail transfer agent (below 4.90.1) that could allow pre-auth remote code execution. \n\nhttps://t.co/2TuzrNaZSr https://t.co/AK2w1r5sZX",
+    "tweettime": "2018-03-06, 17:55:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/971081822825271296",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/"
+    ],
+    "tweetfavorites": 607,
+    "tweetquotes": 11,
+    "tweetreplies": 16,
+    "tweetretweets": 460,
+    "tweettext": "Found another off-by-one remote code execution vulnerability (CVE-2018-6789) in Exim mail server! It was challenging but interesting and we finally achieve RCE and bypass mitigations (ASLR, NX …) successfully. Details here:\nhttps://t.co/41B0sprlyV",
+    "tweettime": "2018-03-06, 15:47:50",
+    "tweeturl": "https://twitter.com/mehqq_/status/971049724705882114",
+    "username": "mehqq_"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/03/window-remote-assistance.html"
+    ],
+    "tweetfavorites": 171,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 158,
+    "tweettext": "Researcher reveals how to exploit a critical flaw (CVE-2018-0878) in Microsoft’s built-in Windows Remote Assistance tool to steal sensitive files remotely:\n\nhttps://t.co/hp0p2STYZi\n\nDon't trust anyone — not even the one who invite/offer remote access to his/her computer. https://t.co/aoiI1tYNv9",
+    "tweettime": "2018-03-20, 19:06:47",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/976173221627285507",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/03/credssp-rdp-exploit.html"
+    ],
+    "tweetfavorites": 261,
+    "tweetquotes": 14,
+    "tweetreplies": 4,
+    "tweetretweets": 320,
+    "tweettext": "CredSSP Vulnerability (CVE-2018-0886) in #Microsoft RDP and WinRM Protocols Allows Remote Hackers to Steal Authentication Session and Run Malicious Commands\n\nhttps://t.co/5fxl1C1v50\n\nAll Versions of Windows Affected — Install Microsoft’s March 2018 Updates to Patch #CredSSP Flaw. https://t.co/WwWf7jSkBH",
+    "tweettime": "2018-03-13, 18:15:17",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/973623546240028672",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "Exim Off-by-one RCE : Exploiting CVE-2018-6789 with Fully Mitigations Bypassing (Vulnerability Affects Half of the Internet's Email Servers) : https://t.co/KYX5XNbwbx https://t.co/uVNVnYLc10",
+    "tweettime": "2018-03-07, 04:29:04",
+    "tweeturl": "https://twitter.com/binitamshah/status/971241294952652805",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 81,
+    "tweettext": "Researcher publishes PoC code and explanation for a severe buffer overflow vulnerability (CVE-2018-6789) in all versions of #Exim mail transfer agent (below 4.90.1) that could allow pre-auth remote code execution. \n\nhttps://t.co/2TuzrNaZSr https://t.co/AK2w1r5sZX",
+    "tweettime": "2018-03-06, 17:55:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/971081822825271296",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/"
+    ],
+    "tweetfavorites": 607,
+    "tweetquotes": 11,
+    "tweetreplies": 16,
+    "tweetretweets": 460,
+    "tweettext": "Found another off-by-one remote code execution vulnerability (CVE-2018-6789) in Exim mail server! It was challenging but interesting and we finally achieve RCE and bypass mitigations (ASLR, NX …) successfully. Details here:\nhttps://t.co/41B0sprlyV",
+    "tweettime": "2018-03-06, 15:47:50",
+    "tweeturl": "https://twitter.com/mehqq_/status/971049724705882114",
+    "username": "mehqq_"
+}

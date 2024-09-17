@@ -466,3 +466,309 @@
     "tweeturl": "https://twitter.com/epakskape/status/948781605790695424",
     "username": "epakskape"
 }
+{
+    "expanded_url": [
+        "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180129-asa1"
+    ],
+    "tweetfavorites": 130,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 169,
+    "tweettext": "Remote code execution (RCE) and Denial of service (DoS) vulnerability (CVE-2018-0101) discovered in the SSL VPN functionality of Cisco Adaptive Security Appliance. \n\nhttps://t.co/ZFTV93cLqM https://t.co/fo7kdGmZNb",
+    "tweettime": "2018-01-29, 19:52:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/958065422942724096",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=776677"
+    ],
+    "tweetfavorites": 116,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 97,
+    "tweettext": "Google Chrome V8 Use-After-Free Vulnerability + Exploit by Zhao Qixun (CVE-2017-15399):\nhttps://t.co/gynSV1v7D0",
+    "tweettime": "2018-01-29, 06:51:19",
+    "tweeturl": "https://twitter.com/hosselot/status/957868744994443264",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/01/microsoft-office-malware.html"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 58,
+    "tweettext": "Hackers found exploiting following Microsoft Office flaws to install Zyklon botnet malware on targeted computers:\n\n→ MS Office RCE Vulnerability (CVE-2017-11882)\n→ .NET Framework RCE Vulnerability (CVE-2017-8759)\n→ Dynamic Data Exchange (DDE Exploit)\n\nhttps://t.co/XGEsOT7zjg",
+    "tweettime": "2018-01-18, 12:55:58",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/953974245792477186",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/blu3_team/status/949702961080471552"
+    ],
+    "tweetfavorites": 156,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 72,
+    "tweettext": "Turns out it was an 0day at the time! Sample is CVE-2018-0802 😵\n\n\"Fw_ Invitation letter of FW review meeting.rtf\"\nsha256    81c733c0bae854e280d0d3c2e7ff1fdcd0f1eef2a653286a641437dcea21f409 https://t.co/rHxZreBdW6",
+    "tweettime": "2018-01-15, 21:53:57",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/953022469258055682",
+    "username": "buffaloverflow"
+}
+{
+    "tweetfavorites": 150,
+    "tweetquotes": 1,
+    "tweetreplies": 7,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2018-0802 exploit is working nicely 👍 https://t.co/Y6VfWMpOFv",
+    "tweettime": "2018-01-11, 02:26:11",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/951279039251189760",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://github.com/rxwx/CVE-2017-8570"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 34,
+    "tweettext": "CVE-2017-0243 PoC #exploit\nDescription:\nMicrosoft Office allows a remote code execution vulnerability due to the way that it handles objects in memory, aka \"Microsoft Office Remote Code Execution Vulnerability\".\nhttps://t.co/D87FLMNZRW",
+    "tweettime": "2018-01-09, 22:43:43",
+    "tweeturl": "https://twitter.com/nuria_imeq/status/950860665719312384",
+    "username": "nuria_imeq"
+}
+{
+    "expanded_url": [
+        "https://github.com/rxwx/CVE-2017-8570"
+    ],
+    "tweetfavorites": 209,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 124,
+    "tweettext": "I was curious if it was possible to exploit CVE-2017-8570 (aka composite moniker) using Packager. Looks like it works nicely :D\n\nhttps://t.co/O6SC7UYq0O https://t.co/KIwARCVYqX",
+    "tweettime": "2018-01-09, 19:36:30",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/950813552742367236",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://support.microsoft.com/help/4072698",
+        "https://support.microsoft.com/help/4073119"
+    ],
+    "tweetfavorites": 771,
+    "tweetquotes": 22,
+    "tweetreplies": 10,
+    "tweetretweets": 628,
+    "tweettext": "You can use this powershell tool to query the status of Windows mitigations for CVE-2017-5715 (branch target injection) and CVE-2017-5754 (rogue data cache load), more information here (Server: https://t.co/9MaLQqVq61, Client: https://t.co/P6vmSamsOn) https://t.co/K0LmM3PYFP",
+    "tweettime": "2018-01-04, 05:02:16",
+    "tweeturl": "https://twitter.com/epakskape/status/948781605790695424",
+    "username": "epakskape"
+}
+{
+    "expanded_url": [
+        "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180129-asa1"
+    ],
+    "tweetfavorites": 130,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 169,
+    "tweettext": "Remote code execution (RCE) and Denial of service (DoS) vulnerability (CVE-2018-0101) discovered in the SSL VPN functionality of Cisco Adaptive Security Appliance. \n\nhttps://t.co/ZFTV93cLqM https://t.co/fo7kdGmZNb",
+    "tweettime": "2018-01-29, 19:52:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/958065422942724096",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=776677"
+    ],
+    "tweetfavorites": 116,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 97,
+    "tweettext": "Google Chrome V8 Use-After-Free Vulnerability + Exploit by Zhao Qixun (CVE-2017-15399):\nhttps://t.co/gynSV1v7D0",
+    "tweettime": "2018-01-29, 06:51:19",
+    "tweeturl": "https://twitter.com/hosselot/status/957868744994443264",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/01/microsoft-office-malware.html"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 58,
+    "tweettext": "Hackers found exploiting following Microsoft Office flaws to install Zyklon botnet malware on targeted computers:\n\n→ MS Office RCE Vulnerability (CVE-2017-11882)\n→ .NET Framework RCE Vulnerability (CVE-2017-8759)\n→ Dynamic Data Exchange (DDE Exploit)\n\nhttps://t.co/XGEsOT7zjg",
+    "tweettime": "2018-01-18, 12:55:58",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/953974245792477186",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/blu3_team/status/949702961080471552"
+    ],
+    "tweetfavorites": 156,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 72,
+    "tweettext": "Turns out it was an 0day at the time! Sample is CVE-2018-0802 😵\n\n\"Fw_ Invitation letter of FW review meeting.rtf\"\nsha256    81c733c0bae854e280d0d3c2e7ff1fdcd0f1eef2a653286a641437dcea21f409 https://t.co/rHxZreBdW6",
+    "tweettime": "2018-01-15, 21:53:57",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/953022469258055682",
+    "username": "buffaloverflow"
+}
+{
+    "tweetfavorites": 150,
+    "tweetquotes": 1,
+    "tweetreplies": 7,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2018-0802 exploit is working nicely 👍 https://t.co/Y6VfWMpOFv",
+    "tweettime": "2018-01-11, 02:26:11",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/951279039251189760",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://github.com/rxwx/CVE-2017-8570"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 34,
+    "tweettext": "CVE-2017-0243 PoC #exploit\nDescription:\nMicrosoft Office allows a remote code execution vulnerability due to the way that it handles objects in memory, aka \"Microsoft Office Remote Code Execution Vulnerability\".\nhttps://t.co/D87FLMNZRW",
+    "tweettime": "2018-01-09, 22:43:43",
+    "tweeturl": "https://twitter.com/nuria_imeq/status/950860665719312384",
+    "username": "nuria_imeq"
+}
+{
+    "expanded_url": [
+        "https://github.com/rxwx/CVE-2017-8570"
+    ],
+    "tweetfavorites": 209,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 124,
+    "tweettext": "I was curious if it was possible to exploit CVE-2017-8570 (aka composite moniker) using Packager. Looks like it works nicely :D\n\nhttps://t.co/O6SC7UYq0O https://t.co/KIwARCVYqX",
+    "tweettime": "2018-01-09, 19:36:30",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/950813552742367236",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://support.microsoft.com/help/4072698",
+        "https://support.microsoft.com/help/4073119"
+    ],
+    "tweetfavorites": 771,
+    "tweetquotes": 22,
+    "tweetreplies": 10,
+    "tweetretweets": 628,
+    "tweettext": "You can use this powershell tool to query the status of Windows mitigations for CVE-2017-5715 (branch target injection) and CVE-2017-5754 (rogue data cache load), more information here (Server: https://t.co/9MaLQqVq61, Client: https://t.co/P6vmSamsOn) https://t.co/K0LmM3PYFP",
+    "tweettime": "2018-01-04, 05:02:16",
+    "tweeturl": "https://twitter.com/epakskape/status/948781605790695424",
+    "username": "epakskape"
+}
+{
+    "expanded_url": [
+        "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180129-asa1"
+    ],
+    "tweetfavorites": 130,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 169,
+    "tweettext": "Remote code execution (RCE) and Denial of service (DoS) vulnerability (CVE-2018-0101) discovered in the SSL VPN functionality of Cisco Adaptive Security Appliance. \n\nhttps://t.co/ZFTV93cLqM https://t.co/fo7kdGmZNb",
+    "tweettime": "2018-01-29, 19:52:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/958065422942724096",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/chromium/issues/detail?id=776677"
+    ],
+    "tweetfavorites": 116,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 97,
+    "tweettext": "Google Chrome V8 Use-After-Free Vulnerability + Exploit by Zhao Qixun (CVE-2017-15399):\nhttps://t.co/gynSV1v7D0",
+    "tweettime": "2018-01-29, 06:51:19",
+    "tweeturl": "https://twitter.com/hosselot/status/957868744994443264",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/01/microsoft-office-malware.html"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 58,
+    "tweettext": "Hackers found exploiting following Microsoft Office flaws to install Zyklon botnet malware on targeted computers:\n\n→ MS Office RCE Vulnerability (CVE-2017-11882)\n→ .NET Framework RCE Vulnerability (CVE-2017-8759)\n→ Dynamic Data Exchange (DDE Exploit)\n\nhttps://t.co/XGEsOT7zjg",
+    "tweettime": "2018-01-18, 12:55:58",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/953974245792477186",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/blu3_team/status/949702961080471552"
+    ],
+    "tweetfavorites": 156,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 72,
+    "tweettext": "Turns out it was an 0day at the time! Sample is CVE-2018-0802 😵\n\n\"Fw_ Invitation letter of FW review meeting.rtf\"\nsha256    81c733c0bae854e280d0d3c2e7ff1fdcd0f1eef2a653286a641437dcea21f409 https://t.co/rHxZreBdW6",
+    "tweettime": "2018-01-15, 21:53:57",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/953022469258055682",
+    "username": "buffaloverflow"
+}
+{
+    "tweetfavorites": 150,
+    "tweetquotes": 1,
+    "tweetreplies": 7,
+    "tweetretweets": 57,
+    "tweettext": "CVE-2018-0802 exploit is working nicely 👍 https://t.co/Y6VfWMpOFv",
+    "tweettime": "2018-01-11, 02:26:11",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/951279039251189760",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://github.com/rxwx/CVE-2017-8570"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 34,
+    "tweettext": "CVE-2017-0243 PoC #exploit\nDescription:\nMicrosoft Office allows a remote code execution vulnerability due to the way that it handles objects in memory, aka \"Microsoft Office Remote Code Execution Vulnerability\".\nhttps://t.co/D87FLMNZRW",
+    "tweettime": "2018-01-09, 22:43:43",
+    "tweeturl": "https://twitter.com/nuria_imeq/status/950860665719312384",
+    "username": "nuria_imeq"
+}
+{
+    "expanded_url": [
+        "https://github.com/rxwx/CVE-2017-8570"
+    ],
+    "tweetfavorites": 209,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 124,
+    "tweettext": "I was curious if it was possible to exploit CVE-2017-8570 (aka composite moniker) using Packager. Looks like it works nicely :D\n\nhttps://t.co/O6SC7UYq0O https://t.co/KIwARCVYqX",
+    "tweettime": "2018-01-09, 19:36:30",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/950813552742367236",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://support.microsoft.com/help/4072698",
+        "https://support.microsoft.com/help/4073119"
+    ],
+    "tweetfavorites": 771,
+    "tweetquotes": 22,
+    "tweetreplies": 10,
+    "tweetretweets": 628,
+    "tweettext": "You can use this powershell tool to query the status of Windows mitigations for CVE-2017-5715 (branch target injection) and CVE-2017-5754 (rogue data cache load), more information here (Server: https://t.co/9MaLQqVq61, Client: https://t.co/P6vmSamsOn) https://t.co/K0LmM3PYFP",
+    "tweettime": "2018-01-04, 05:02:16",
+    "tweeturl": "https://twitter.com/epakskape/status/948781605790695424",
+    "username": "epakskape"
+}

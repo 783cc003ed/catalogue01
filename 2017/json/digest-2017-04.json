@@ -369,3 +369,276 @@
     "tweeturl": "https://twitter.com/Dinosn/status/851866599472717824",
     "username": "Dinosn"
 }
+{
+    "expanded_url": [
+        "https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-2/",
+        "https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-1/"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 115,
+    "tweettext": "Remote Code Execution (CVE-2017-7820) - Part 2 :  https://t.co/Mqwz9WMR7v ,Part 1 : https://t.co/k2l7S1RNyd https://t.co/d3S1OwRJC8",
+    "tweettime": "2017-04-19, 02:01:54",
+    "tweeturl": "https://twitter.com/binitamshah/status/854515366885720064",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 512,
+    "tweetquotes": 13,
+    "tweetreplies": 10,
+    "tweetretweets": 364,
+    "tweettext": "Red teams are all sending CVE-2017-0199 to targets and then using MS17-010 to pivot across internal domains. It's raining shells.",
+    "tweettime": "2017-04-17, 15:25:04",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/853992713645174785",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/buffaloverflow/status/852936732106424320"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "Just realised the exploit for CVE-2017-0197 (Office 2010) fits exactly in one tweet 😁 /cc @yorickkoster https://t.co/0CvYaq4DLS",
+    "tweettime": "2017-04-14, 17:30:11",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/852937040480149505",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://github.com/misterch0c/shadowbroker/tree/bc8ff5f44a1a4a0431745467ba99f7aa6d723171/windows/exploits",
+        "https://github.com/edwardz246003/IIS_exploit"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "Explodingcan https://t.co/W0i9LYbdNp is Win2k3 IIS remote Webdav CVE-2017-7269 from https://t.co/BbjcpDvxOf https://t.co/N0IjxxiAON",
+    "tweettime": "2017-04-14, 13:27:27",
+    "tweeturl": "https://twitter.com/Ivanlef0u/status/852875953764278273",
+    "username": "Ivanlef0u"
+}
+{
+    "expanded_url": [
+        "http://blog.gdssecurity.com/labs/2017/4/13/vmware-vcenter-unauthenticated-rce-using-cve-2017-5638-apach.html"
+    ],
+    "tweetfavorites": 135,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 145,
+    "tweettext": "VMware vCenter Unauthenticated RCE using CVE-2017-5638 (Apache Struts 2 RCE) https://t.co/VagBwkiwGh",
+    "tweettime": "2017-04-13, 20:36:13",
+    "tweeturl": "https://twitter.com/cyb3rops/status/852621468475305985",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://artkond.com/2017/04/10/cisco-catalyst-remote-code-execution/",
+        "https://github.com/artkond/cisco-rce/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2017-3881 Cisco Catalyst RCE Proof-Of-Concept - \nhttps://t.co/a7XjzOINpl https://t.co/G3GxMWwePQ",
+    "tweettime": "2017-04-12, 10:15:32",
+    "tweeturl": "https://twitter.com/maldevel/status/852102880685326337",
+    "username": "maldevel"
+}
+{
+    "expanded_url": [
+        "https://github.com/nccgroup/Cyber-Defence/blob/master/Technical%20Notes/Office%20zero-day%20(April%202017)/2017-04%20Office%20OLE2Link%20zero-day%20v0.4.pdf"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "[PDF] CVE-2017-0199 (Office RTF RCE) sample analysis, IOCs and mitigation advice  https://t.co/Okf7WHtaop",
+    "tweettime": "2017-04-11, 18:36:38",
+    "tweeturl": "https://twitter.com/Dinosn/status/851866599472717824",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-2/",
+        "https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-1/"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 115,
+    "tweettext": "Remote Code Execution (CVE-2017-7820) - Part 2 :  https://t.co/Mqwz9WMR7v ,Part 1 : https://t.co/k2l7S1RNyd https://t.co/d3S1OwRJC8",
+    "tweettime": "2017-04-19, 02:01:54",
+    "tweeturl": "https://twitter.com/binitamshah/status/854515366885720064",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 512,
+    "tweetquotes": 13,
+    "tweetreplies": 10,
+    "tweetretweets": 364,
+    "tweettext": "Red teams are all sending CVE-2017-0199 to targets and then using MS17-010 to pivot across internal domains. It's raining shells.",
+    "tweettime": "2017-04-17, 15:25:04",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/853992713645174785",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/buffaloverflow/status/852936732106424320"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "Just realised the exploit for CVE-2017-0197 (Office 2010) fits exactly in one tweet 😁 /cc @yorickkoster https://t.co/0CvYaq4DLS",
+    "tweettime": "2017-04-14, 17:30:11",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/852937040480149505",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://github.com/misterch0c/shadowbroker/tree/bc8ff5f44a1a4a0431745467ba99f7aa6d723171/windows/exploits",
+        "https://github.com/edwardz246003/IIS_exploit"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "Explodingcan https://t.co/W0i9LYbdNp is Win2k3 IIS remote Webdav CVE-2017-7269 from https://t.co/BbjcpDvxOf https://t.co/N0IjxxiAON",
+    "tweettime": "2017-04-14, 13:27:27",
+    "tweeturl": "https://twitter.com/Ivanlef0u/status/852875953764278273",
+    "username": "Ivanlef0u"
+}
+{
+    "expanded_url": [
+        "http://blog.gdssecurity.com/labs/2017/4/13/vmware-vcenter-unauthenticated-rce-using-cve-2017-5638-apach.html"
+    ],
+    "tweetfavorites": 135,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 145,
+    "tweettext": "VMware vCenter Unauthenticated RCE using CVE-2017-5638 (Apache Struts 2 RCE) https://t.co/VagBwkiwGh",
+    "tweettime": "2017-04-13, 20:36:13",
+    "tweeturl": "https://twitter.com/cyb3rops/status/852621468475305985",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://artkond.com/2017/04/10/cisco-catalyst-remote-code-execution/",
+        "https://github.com/artkond/cisco-rce/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2017-3881 Cisco Catalyst RCE Proof-Of-Concept - \nhttps://t.co/a7XjzOINpl https://t.co/G3GxMWwePQ",
+    "tweettime": "2017-04-12, 10:15:32",
+    "tweeturl": "https://twitter.com/maldevel/status/852102880685326337",
+    "username": "maldevel"
+}
+{
+    "expanded_url": [
+        "https://github.com/nccgroup/Cyber-Defence/blob/master/Technical%20Notes/Office%20zero-day%20(April%202017)/2017-04%20Office%20OLE2Link%20zero-day%20v0.4.pdf"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "[PDF] CVE-2017-0199 (Office RTF RCE) sample analysis, IOCs and mitigation advice  https://t.co/Okf7WHtaop",
+    "tweettime": "2017-04-11, 18:36:38",
+    "tweeturl": "https://twitter.com/Dinosn/status/851866599472717824",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-2/",
+        "https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-1/"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 115,
+    "tweettext": "Remote Code Execution (CVE-2017-7820) - Part 2 :  https://t.co/Mqwz9WMR7v ,Part 1 : https://t.co/k2l7S1RNyd https://t.co/d3S1OwRJC8",
+    "tweettime": "2017-04-19, 02:01:54",
+    "tweeturl": "https://twitter.com/binitamshah/status/854515366885720064",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 512,
+    "tweetquotes": 13,
+    "tweetreplies": 10,
+    "tweetretweets": 364,
+    "tweettext": "Red teams are all sending CVE-2017-0199 to targets and then using MS17-010 to pivot across internal domains. It's raining shells.",
+    "tweettime": "2017-04-17, 15:25:04",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/853992713645174785",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/buffaloverflow/status/852936732106424320"
+    ],
+    "tweetfavorites": 145,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "Just realised the exploit for CVE-2017-0197 (Office 2010) fits exactly in one tweet 😁 /cc @yorickkoster https://t.co/0CvYaq4DLS",
+    "tweettime": "2017-04-14, 17:30:11",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/852937040480149505",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://github.com/misterch0c/shadowbroker/tree/bc8ff5f44a1a4a0431745467ba99f7aa6d723171/windows/exploits",
+        "https://github.com/edwardz246003/IIS_exploit"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "Explodingcan https://t.co/W0i9LYbdNp is Win2k3 IIS remote Webdav CVE-2017-7269 from https://t.co/BbjcpDvxOf https://t.co/N0IjxxiAON",
+    "tweettime": "2017-04-14, 13:27:27",
+    "tweeturl": "https://twitter.com/Ivanlef0u/status/852875953764278273",
+    "username": "Ivanlef0u"
+}
+{
+    "expanded_url": [
+        "http://blog.gdssecurity.com/labs/2017/4/13/vmware-vcenter-unauthenticated-rce-using-cve-2017-5638-apach.html"
+    ],
+    "tweetfavorites": 135,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 145,
+    "tweettext": "VMware vCenter Unauthenticated RCE using CVE-2017-5638 (Apache Struts 2 RCE) https://t.co/VagBwkiwGh",
+    "tweettime": "2017-04-13, 20:36:13",
+    "tweeturl": "https://twitter.com/cyb3rops/status/852621468475305985",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://artkond.com/2017/04/10/cisco-catalyst-remote-code-execution/",
+        "https://github.com/artkond/cisco-rce/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "CVE-2017-3881 Cisco Catalyst RCE Proof-Of-Concept - \nhttps://t.co/a7XjzOINpl https://t.co/G3GxMWwePQ",
+    "tweettime": "2017-04-12, 10:15:32",
+    "tweeturl": "https://twitter.com/maldevel/status/852102880685326337",
+    "username": "maldevel"
+}
+{
+    "expanded_url": [
+        "https://github.com/nccgroup/Cyber-Defence/blob/master/Technical%20Notes/Office%20zero-day%20(April%202017)/2017-04%20Office%20OLE2Link%20zero-day%20v0.4.pdf"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "[PDF] CVE-2017-0199 (Office RTF RCE) sample analysis, IOCs and mitigation advice  https://t.co/Okf7WHtaop",
+    "tweettime": "2017-04-11, 18:36:38",
+    "tweeturl": "https://twitter.com/Dinosn/status/851866599472717824",
+    "username": "Dinosn"
+}

