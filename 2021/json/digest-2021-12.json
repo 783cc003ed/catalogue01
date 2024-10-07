@@ -273,6 +273,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/Cyb3rWard0g/log4jshell-lab"
+    ],
+    "tweetfavorites": 240,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 70,
+    "tweettext": "Microsoft Sentinel provides a CVE-2021-44228 Log4Shell Research Lab Environment for testing and learning more about the vulnerability\n\nhttps://t.co/p1scvBkpas https://t.co/3DoiFL8XyF",
+    "tweettime": "2021-12-16, 22:35:33",
+    "tweeturl": "https://twitter.com/tanmayg/status/1471609971804545028",
+    "username": "tanmayg"
+}
+{
+    "expanded_url": [
         "https://www.greynoise.io/blog/apache-log4j-vulnerability-CVE-2021-44228"
     ],
     "tweetfavorites": 67,

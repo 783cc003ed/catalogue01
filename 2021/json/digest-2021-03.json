@@ -252,6 +252,19 @@
     "username": "Unit42_Intel"
 }
 {
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/14907"
+    ],
+    "tweetfavorites": 236,
+    "tweetquotes": 3,
+    "tweetreplies": 0,
+    "tweetretweets": 90,
+    "tweettext": "The win32k exploit for CVE-2021-1732 I ported to Metasploit just landed. Works on Windows 10 x64 1803-20H2. https://t.co/TfpVugaEYR",
+    "tweettime": "2021-03-18, 19:43:36",
+    "tweeturl": "https://twitter.com/zeroSteiner/status/1372634815128817665",
+    "username": "zeroSteiner"
+}
+{
     "tweetfavorites": 38,
     "tweetquotes": 1,
     "tweetreplies": 0,
@@ -831,6 +844,16 @@
     "tweettime": "2021-03-03, 13:37:56",
     "tweeturl": "https://twitter.com/ptswarm/status/1367106972919726083",
     "username": "ptswarm"
+}
+{
+    "tweetfavorites": 297,
+    "tweetquotes": 8,
+    "tweetreplies": 10,
+    "tweetretweets": 150,
+    "tweettext": "Anyone that has Exchange on-prem exposed to the internet on 80/443 should consider checking into CVE-2021-27065 immediately. I received the patch KB5000871 &amp; installed at 16:30EST but still saw a box popped. Box was hit on the 28th of Feb so this HAS been happening awhile. 1 of 2",
+    "tweettime": "2021-03-03, 06:14:52",
+    "tweeturl": "https://twitter.com/JRoosen/status/1366995472053915650",
+    "username": "JRoosen"
 }
 {
     "expanded_url": [

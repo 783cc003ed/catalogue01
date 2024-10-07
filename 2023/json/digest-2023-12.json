@@ -276,6 +276,19 @@
 }
 {
     "expanded_url": [
+        "http://dlvr.it/T0Y5pQ"
+    ],
+    "tweetfavorites": 203,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 100,
+    "tweettext": "[Blog] CVE-2023-35628: vulnerabilidad silenciosa por e-mail en Outlook sin necesidad de hacer clic https://t.co/2A9ORmgAzi",
+    "tweettime": "2023-12-24, 11:50:06",
+    "tweeturl": "https://twitter.com/elhackernet/status/1738889784813289884",
+    "username": "elhackernet"
+}
+{
+    "expanded_url": [
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html",
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part2.html",
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html",

@@ -365,6 +365,16 @@
     "username": "TheHackersNews"
 }
 {
+    "tweetfavorites": 352,
+    "tweetquotes": 14,
+    "tweetreplies": 10,
+    "tweetretweets": 204,
+    "tweettext": "Windows Defender Antivirus detects files w/crafted certificates exploiting the certificate validation vulnerability:\n​Exploit:Win32/CVE-2020-0601.A (PE files)\nExploit:Win32/CVE-2020-0601.B (Scripts)\nAlso, #Microsoft Defender ATP has a threat report on your posture. #CVE-2020-0601 https://t.co/dFqJV5za8F",
+    "tweettime": "2020-01-14, 18:50:10",
+    "tweeturl": "https://twitter.com/AmitaiTechie/status/1217156973268893696",
+    "username": "AmitaiTechie"
+}
+{
     "expanded_url": [
         "https://media.defense.gov/2020/Jan/14/2002234275/-1/-1/0/CSA-WINDOWS-10-CRYPT-LIB-20190114.PDF"
     ],

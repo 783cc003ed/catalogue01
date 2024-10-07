@@ -408,6 +408,20 @@
     "username": "WangTielei"
 }
 {
+    "expanded_url": [
+        "https://github.com/rapid7/metasploit-framework/pull/19240",
+        "https://mohemiv.com/all/rejetto-http-file-server-2-3m-unauthenticated-rce/#/"
+    ],
+    "tweetfavorites": 266,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 99,
+    "tweettext": "🚨Alert🚨CVE-2024-23692: Unauthenticated RCE Flaw in Rejetto HTTP File Server\n🔥PoC: https://t.co/ie2opiLnO3\n📰Refer: https://t.co/OPypHteE9h\n⚠It allows remote attackers to execute arbitrary code on affected servers without authentication, potentially leading to data breaches, https://t.co/ozcHMK0EnK",
+    "tweettime": "2024-06-11, 03:15:25",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1800366198393332099",
+    "username": "HunterMapping"
+}
+{
     "tweetfavorites": 667,
     "tweetquotes": 10,
     "tweetreplies": 37,
@@ -429,6 +443,19 @@
     "tweettime": "2024-06-10, 21:06:13",
     "tweeturl": "https://twitter.com/injectexp/status/1800273284745023740",
     "username": "injectexp"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-microsoft-sharepoint-information-disclosure-flaw-cve-2024-30043/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "Poc Exploit Releases para Microsoft SharePoint Server\n\n↔️CVE-2024-30043\nXML External Entity (XXE)\nhttps://t.co/xZak7EjZiN https://t.co/RrC3V00vNq",
+    "tweettime": "2024-06-10, 10:26:00",
+    "tweeturl": "https://twitter.com/elhackernet/status/1800112169054548010",
+    "username": "elhackernet"
 }
 {
     "expanded_url": [

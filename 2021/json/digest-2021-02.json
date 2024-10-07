@@ -736,6 +736,16 @@
     "username": "cyber_advising"
 }
 {
+    "tweetfavorites": 257,
+    "tweetquotes": 8,
+    "tweetreplies": 4,
+    "tweetretweets": 104,
+    "tweettext": "macOS (including 11.2) appears to be vulnerable to the sudo heap-overflow bug (CVE-2021-3156) 🍎🐛 🤨 https://t.co/vTeYVUxpyw",
+    "tweettime": "2021-02-03, 02:31:13",
+    "tweeturl": "https://twitter.com/patrickwardle/status/1356792328564826114",
+    "username": "patrickwardle"
+}
+{
     "expanded_url": [
         "https://tryhackme.com/room/sudovulnssamedit"
     ],

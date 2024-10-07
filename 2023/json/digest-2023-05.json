@@ -25,6 +25,19 @@
     "username": "MsftSecIntel"
 }
 {
+    "expanded_url": [
+        "https://ti.qianxin.com/blog/articles/CVE-2023-28252-Analysis-of-In-the-Wild-Exploit-Sample-of-CLFS-Privilege-Escalation-Vulnerability/"
+    ],
+    "tweetfavorites": 146,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 48,
+    "tweettext": "Análisis técnico de la vulnerabilidad en Windows CVE-2023-28252\n\nUn 0-day de Windows parcheado en abril de 2023 por Microsoft que fue aprovechado por el ransomware Nokoyawa\n\nhttps://t.co/npaTtvwTY8 https://t.co/tuCx2GI9vp",
+    "tweettime": "2023-05-28, 07:30:00",
+    "tweeturl": "https://twitter.com/elhackernet/status/1662722877706100737",
+    "username": "elhackernet"
+}
+{
     "tweetfavorites": 124,
     "tweetquotes": 1,
     "tweetreplies": 3,

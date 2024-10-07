@@ -330,6 +330,20 @@
 }
 {
     "expanded_url": [
+        "https://blog.segu-info.com.ar/2023/04/windows-zero-day-es-explotado-por.html",
+        "https://blog.segu-info.com.ar/2023/04/microsoft-parchea-97-cve-incluidos.html"
+    ],
+    "tweetfavorites": 162,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 36,
+    "tweettext": "¿Ya parcheaste estos dos?\n- CVE-2023-28252 (7.8) #CLFS\n- CVE-2023-21554 (9.8) #MSMQ\n\nInfo:\nhttps://t.co/ovKx97Ca9v\nhttps://t.co/wXoBJzuqrZ https://t.co/T3DV8H6L9V",
+    "tweettime": "2023-04-14, 15:24:54",
+    "tweeturl": "https://twitter.com/SeguInfo/status/1646897325778804741",
+    "username": "SeguInfo"
+}
+{
+    "expanded_url": [
         "http://ACEResponder.com"
     ],
     "tweetfavorites": 179,

@@ -2,71 +2,225 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 263,
-    "tweettext": "RT @androidmalware2: 0-Click exploit discovered in MediaTek Wi-Fi chipsets affects routers and smartphones (CVE-2024-20017).\nPublished PoC…",
-    "tweettime": "2024-09-23, 15:34:22",
-    "tweeturl": "https://twitter.com/kmkz_security/status/1838240499892646301",
-    "username": "kmkz_security"
+    "tweetretweets": 74,
+    "tweettext": "RT @ptswarm: 🤠 A notorious RCE in Zimbra, CVE-2024-45519 – here’s our expert breakdown ⬇️ https://t.co/Otwg0k1hmc",
+    "tweettime": "2024-09-30, 17:04:00",
+    "tweeturl": "https://twitter.com/steventseeley/status/1840799773030322379",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://www.greynoise.io/blog/what-are-hackers-searching-for-in-solarwinds-serv-u-cve-2024-28995"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 13,
+    "tweettext": "🚨 Our honeypots are buzzing! We’ve tracked exploit attempts targeting SolarWinds Serv-U (CVE-2024-28995) in real time, revealing exactly what files attackers are after. Check out our latest Labs blog for all the details! 🔍 https://t.co/end5o4cSQf",
+    "tweettime": "2024-09-30, 16:37:08",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1840793010851733910",
+    "username": "GreyNoiseIO"
 }
 {
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 256,
-    "tweettext": "RT @androidmalware2: 0-Click exploit discovered in MediaTek Wi-Fi chipsets affects routers and smartphones (CVE-2024-20017).\nPublished PoC…",
-    "tweettime": "2024-09-23, 13:12:17",
-    "tweeturl": "https://twitter.com/momika233/status/1838204744554406369",
-    "username": "momika233"
+    "tweetretweets": 68,
+    "tweettext": "RT @ptswarm: 🤠 A notorious RCE in Zimbra, CVE-2024-45519 – here’s our expert breakdown ⬇️ https://t.co/Otwg0k1hmc",
+    "tweettime": "2024-09-30, 16:25:12",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1840790005905580245",
+    "username": "cyb3rops"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 75,
+    "tweettext": "RT @ptswarm: 🤠 A notorious RCE in Zimbra, CVE-2024-45519 – here’s our expert breakdown ⬇️ https://t.co/Otwg0k1hmc",
+    "tweettime": "2024-09-30, 16:08:59",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1840785925996986799",
+    "username": "kmkz_security"
 }
 {
     "expanded_url": [
-        "https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html"
+        "https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/"
     ],
-    "tweetfavorites": 68,
+    "tweetfavorites": 115,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 26,
+    "tweettext": "Exploitation of a type confusion vulnerability in v8 (Chrome, CVE-2024-5830)\n\nhttps://t.co/d0ZT5O8vHK\n\nCredits @mmolgtm\n\n#infosec #chrome https://t.co/zzF0IrE3i0",
+    "tweettime": "2024-09-30, 15:00:59",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1840768810963407275",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/tpSXM"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2024-8353: RCE in WordPress GiveWP Plugin, 10.0 rating 🔥🔥🔥\n\nWith fresh vulnerability, an attacker can inject malicious PHP code into the system.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/v5ECucdLSU\n\n#cybersecurity #vulnerability_map https://t.co/I5mThop61a",
+    "tweettime": "2024-09-30, 08:05:52",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1840664346818494971",
+    "username": "Netlas_io"
+}
+{
+    "tweetfavorites": 203,
+    "tweetquotes": 0,
+    "tweetreplies": 4,
+    "tweetretweets": 29,
+    "tweettext": "CVE-2024-38107 EOP\nALPC CallBack Race UAF\nThe vulnerability was confirmed by Microsoft to be exploited in the wild https://t.co/CO96vsYoAv",
+    "tweettime": "2024-09-29, 08:32:06",
+    "tweeturl": "https://twitter.com/YanZiShuang/status/1840308559453782108",
+    "username": "YanZiShuang"
+}
+{
+    "expanded_url": [
+        "https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/",
+        "https://cloud.projectdiscovery.io/?template=CVE-2024-47176"
+    ],
+    "tweetfavorites": 481,
     "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 43,
-    "tweettext": "🚨 Critical flaw (CVE-2024-7490) in Microchip's ASF may allow remote code execution in IoT devices.\n\nCERT/CC’s advisory warns it could be widespread, impacting ASF v3.52.0.2574 and earlier.\n\nRead: https://t.co/Z99vYrDr1c\n\n#Cybersecurity #IoTSecurity",
-    "tweettime": "2024-09-23, 10:06:05",
-    "tweeturl": "https://twitter.com/TheHackersNews/status/1838157884862967952",
-    "username": "TheHackersNews"
+    "tweetretweets": 104,
+    "tweettext": "Scan for CVE-2024-47176 (CUPS - Remote Code Execution) with Nuclei\n\nVulnerability discovery and analysis by @evilsocket: https://t.co/dA3I9v6lYq\n\nNuclei Template: https://t.co/lSprZ47Zzg\n\n#hackwithautomation #cybersecurity #bugbounty https://t.co/k9VJsx3mq2",
+    "tweettime": "2024-09-29, 01:01:34",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1840195177098453308",
+    "username": "pdnuclei"
 }
 {
     "expanded_url": [
-        "https://securityonline.info/cve-2024-8698-keycloak-vulnerability-puts-saml-authentication-at-risk/"
+        "https://github.com/fortra/CVE-2024-6769"
     ],
-    "tweetfavorites": 80,
-    "tweetquotes": 1,
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 22,
-    "tweettext": "CVE-2024-8698: Keycloak Vulnerability Puts SAML Authentication at Risk https://t.co/u1CyxFYDpj",
-    "tweettime": "2024-09-23, 02:37:04",
-    "tweeturl": "https://twitter.com/Dinosn/status/1838044884613148753",
+    "tweetretweets": 9,
+    "tweettext": "Activation cache poisoning to elevate from medium to high integrity (CVE-2024-6769) https://t.co/cNinpMsf1F  #Pentesting #CyberSecurity #Infosec https://t.co/HpjhHcnlwv",
+    "tweettime": "2024-09-28, 03:55:05",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1839876457264284147",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/passtheticket/CVE-2024-38200"
+    ],
+    "tweetfavorites": 207,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "CVE-2024-38200 - Microsoft Office NTLMv2 Disclosure Vulnerability\n\nhttps://t.co/BV591GkXpf",
+    "tweettime": "2024-09-28, 03:41:10",
+    "tweeturl": "https://twitter.com/Dinosn/status/1839872956408738179",
     "username": "Dinosn"
 }
 {
-    "expanded_url": [
-        "https://t.zsxq.com/xIYOU",
-        "https://wiki.zimbra.com/wiki/Zimbra_Releases/10.1.1"
-    ],
-    "tweetfavorites": 0,
+    "tweetfavorites": 63,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 48,
-    "tweettext": "RT @chybeta: CVE-2024-45519 Zimbra Unauth postjournal RCE\n\nhttps://t.co/bGR0SNrxU0\n\nhttps://t.co/OBWYLRipBk\n\nFixed a security vulnerability…",
-    "tweettime": "2024-09-22, 09:41:10",
-    "tweeturl": "https://twitter.com/testanull/status/1837789227494658330",
-    "username": "testanull"
+    "tweetretweets": 21,
+    "tweettext": "🚨 New Vulnerability Analysis: Zimbra Collaboration Suite &lt; 9.0.0 is vulnerable to Remote Code Execution (CVE-2024-45519).\n\nOur latest blog details the impact and analysis of this vulnerability and includes a Nuclei template for detection.\n\n🔗 Analysis &amp; Template: https://t.co/9RSDnzjgDv",
+    "tweettime": "2024-09-28, 02:38:23",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1839857156708819391",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://gabrieldurdiak.github.io/clfd/"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "Analysis of CVE-2024-21310 Pool Overflow Windows Cloud Filter Driver\nhttps://t.co/yR4uaA8GCc https://t.co/7vFO00SJ4x",
+    "tweettime": "2024-09-27, 21:05:25",
+    "tweeturl": "https://twitter.com/Tinolle/status/1839773361955651662",
+    "username": "Tinolle"
+}
+{
+    "expanded_url": [
+        "https://github.com/theevilbit/exploits/blob/master/cve-2023-32413-chmodfd/chmodfd.c"
+    ],
+    "tweetfavorites": 94,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 27,
+    "tweettext": "As a morning exercise, I created a POC for CVE-2023-32413, originally found by Eloi Benoist-Vanderbeken (@elvanderb). Pretty neat file system logic bug!\nhttps://t.co/hoahiEiC7D",
+    "tweettime": "2024-09-27, 08:16:24",
+    "tweeturl": "https://twitter.com/theevilbit/status/1839579833233232359",
+    "username": "theevilbit"
+}
+{
+    "expanded_url": [
+        "https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/",
+        "https://github.com/RickdeJager/cupshax",
+        "https://github.com/OpenPrinting/cups-browsed/security/advisories/GHSA-rj88-6mr5-rcw8"
+    ],
+    "tweetfavorites": 406,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 159,
+    "tweettext": "🚨Alert🚨CVE-2024-47076/CVE-2024-47175/CVE-2024-47176/CVE-2024-47177: Multiple CUPS flaws enable Linux remote code execution\n🧐Deep Dive from @evilsocket: https://t.co/VtMvldO5cZ\n🔥PoC: https://t.co/5ErQu0j2ix\n🔥PoC: https://t.co/eZnz3xmmiq\n📊 2.9M+ Services are found on https://t.co/3ktNXNChhk",
+    "tweettime": "2024-09-27, 03:23:09",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1839506035834282464",
+    "username": "HunterMapping"
 }
 {
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 115,
-    "tweettext": "RT @hyprdude: New blog post is up! This one goes over 4 different exploits for CVE-2024-20017, using it as a case study to explore exploit…",
-    "tweettime": "2024-09-22, 06:49:31",
-    "tweeturl": "https://twitter.com/kmkz_security/status/1837746029845733531",
-    "username": "kmkz_security"
+    "tweetretweets": 37,
+    "tweettext": "RT @Horizon3Attack: Today, we are disclosing the details of CVE-2024-28987, a hardcoded cred vuln affecting #SolarWinds Web Help Desk. It a…",
+    "tweettime": "2024-09-25, 23:09:56",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1839079923732074740",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 65,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "【独自】米国サイバーセキュリティ・社会基盤安全保障庁(CISA)の既知の悪用された脆弱性カタログから、Microsoft Windows Updateにおける解放後メモリ使用の脆弱性CVE-2024-43491がサイレント削除された… https://t.co/LHOFQYHy98",
+    "tweettime": "2024-09-25, 16:31:25",
+    "tweeturl": "https://twitter.com/__kokumoto/status/1838979632626008412",
+    "username": "__kokumoto"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
+    "tweettext": "RT @Horizon3Attack: Today, we are disclosing the details of CVE-2024-28987, a hardcoded cred vuln affecting #SolarWinds Web Help Desk. It a…",
+    "tweettime": "2024-09-25, 13:51:19",
+    "tweeturl": "https://twitter.com/steventseeley/status/1838939340296122674",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 130,
+    "tweettext": "RT @ptswarm: ⚠️ We've confirmed critical CVE-2024-45519 in Zimbra!\n\nSMTP-based vulnerability in postjournal service allows unauthenticated…",
+    "tweettime": "2024-09-24, 18:36:08",
+    "tweeturl": "https://twitter.com/steventseeley/status/1838648631517204578",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/attack-research/cisa-kev-cve-2024-8190-ivanti-csa-command-injection/"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "CVE-2024-8190: Investigating CISA KEV Ivanti Cloud Service Appliance Command Injection Vulnerability https://t.co/3Ax8KYhZFo  #Pentesting #Vulnerability  #CyberSecurity #Infosec https://t.co/AXsspMhzXV",
+    "tweettime": "2024-09-24, 17:00:37",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1838624593302507617",
+    "username": "ptracesecurity"
 }
 {
     "tweetfavorites": 0,
@@ -77,6 +231,20 @@
     "tweettime": "2024-09-23, 15:34:22",
     "tweeturl": "https://twitter.com/kmkz_security/status/1838240499892646301",
     "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://ambionics.io/blog/iconv-cve-2024-2961-p1",
+        "https://github.com/ambionics/cnext-exploits/"
+    ],
+    "tweetfavorites": 278,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 65,
+    "tweettext": "glibc's iconv() buffer overflow exploitation (CVE-2024-2961)\n\nBlog post: https://t.co/hIzkUPwdzV\nPoC: https://t.co/7l9AJveV0D\n\n#glibc https://t.co/1OSCkKniPa",
+    "tweettime": "2024-09-23, 15:00:25",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1838231955491451374",
+    "username": "0xor0ne"
 }
 {
     "tweetfavorites": 0,
@@ -100,6 +268,19 @@
     "tweettime": "2024-09-23, 10:06:05",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1838157884862967952",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/pvieito/ContainerMigrationExploit?tab=readme-ov-file"
+    ],
+    "tweetfavorites": 89,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "CVE-2024-40801 in macOS allowed a sandboxed app to bypass TCC protections and access sensitive user data without requiring user permission.\n\nThis issue has since been fixed in macOS Sonoma 14.7 and macOS Sequoia 15.0.\n\nPoC\nhttps://t.co/HkE5Vja6if https://t.co/lkROIWixrW",
+    "tweettime": "2024-09-23, 08:42:52",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1838136939679014931",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [
@@ -183,6 +364,20 @@
         "https://t.zsxq.com/xIYOU",
         "https://wiki.zimbra.com/wiki/Zimbra_Releases/10.1.1"
     ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "RT @chybeta: CVE-2024-45519 Zimbra Unauth postjournal RCE\n\nhttps://t.co/bGR0SNrxU0\n\nhttps://t.co/OBWYLRipBk\n\nFixed a security vulnerability…",
+    "tweettime": "2024-09-21, 15:42:43",
+    "tweeturl": "https://twitter.com/steventseeley/status/1837517822966022347",
+    "username": "steventseeley"
+}
+{
+    "expanded_url": [
+        "https://t.zsxq.com/xIYOU",
+        "https://wiki.zimbra.com/wiki/Zimbra_Releases/10.1.1"
+    ],
     "tweetfavorites": 229,
     "tweetquotes": 1,
     "tweetreplies": 1,
@@ -191,6 +386,19 @@
     "tweettime": "2024-09-21, 15:37:53",
     "tweeturl": "https://twitter.com/chybeta/status/1837516606702080038",
     "username": "chybeta"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html"
+    ],
+    "tweetfavorites": 115,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 31,
+    "tweettext": "0-Click RCE in MediaTek Wi-Fi Chipsets — 4 exploits, 1 bug: exploiting CVE-2024-20017 4 different ways https://t.co/D0PoFJTKOC",
+    "tweettime": "2024-09-21, 06:28:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1837378248822649137",
+    "username": "_r_netsec"
 }
 {
     "expanded_url": [
@@ -344,6 +552,19 @@
     "tweettime": "2024-09-16, 07:59:57",
     "tweeturl": "https://twitter.com/SinSinology/status/1835589425415229466",
     "username": "SinSinology"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-38816-spring-framework-path-traversal-vulnerability-threatens-millions/"
+    ],
+    "tweetfavorites": 96,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "CVE-2024-38816: Spring Framework Path Traversal Vulnerability Threatens Millions https://t.co/dNvH7VHChB",
+    "tweettime": "2024-09-16, 02:43:15",
+    "tweeturl": "https://twitter.com/Dinosn/status/1835509725015704022",
+    "username": "Dinosn"
 }
 {
     "expanded_url": [
@@ -1248,6 +1469,19 @@
     "tweettime": "2024-09-02, 13:07:03",
     "tweeturl": "https://twitter.com/unpacker/status/1830593281207697782",
     "username": "unpacker"
+}
+{
+    "expanded_url": [
+        "https://www.microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "Microsoft researchers share details on the North Korean threat actor Citrine Sleet and the observed tactics, techniques and procedures (TTPs) used to exploit CVE-2024-7971, deploy the FudModule rootkit, and compromise systems. https://t.co/b9pIhYqpF5 https://t.co/ehWY6EY6GA",
+    "tweettime": "2024-09-02, 09:29:40",
+    "tweeturl": "https://twitter.com/virusbtn/status/1830538573537296579",
+    "username": "virusbtn"
 }
 {
     "expanded_url": [

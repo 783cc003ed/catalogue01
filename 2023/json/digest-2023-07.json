@@ -23,6 +23,20 @@
 }
 {
     "expanded_url": [
+        "https://gist.github.com/win3zz/8c592fb3e110ea7afd0373418557fab9",
+        "https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/"
+    ],
+    "tweetfavorites": 237,
+    "tweetquotes": 0,
+    "tweetreplies": 4,
+    "tweetretweets": 82,
+    "tweettext": "Metabase Pre-auth RCE (CVE-2023-38646)\nPoC 👉 https://t.co/HRc2Gb3VcW\nhttps://t.co/3J95oaU990\n#Security #OOBRCE #infosec https://t.co/iRWavBjRTQ",
+    "tweettime": "2023-07-28, 16:35:22",
+    "tweeturl": "https://twitter.com/win3zz/status/1684965784358100993",
+    "username": "win3zz"
+}
+{
+    "expanded_url": [
         "https://github.com/datackmy/FallingSkies-CVE-2023-35885"
     ],
     "tweetfavorites": 123,
@@ -246,6 +260,19 @@
     "tweettime": "2023-07-17, 16:19:26",
     "tweeturl": "https://twitter.com/hack_git/status/1680975505980379138",
     "username": "hack_git"
+}
+{
+    "expanded_url": [
+        "https://securitylabs.datadoghq.com/articles/overlayfs-cve-2023-0386/"
+    ],
+    "tweetfavorites": 155,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 57,
+    "tweettext": "Analysis and exploitation of an OverlayFS local privilege escalation vulnerability (CVE-2023-0386)\nCredits @datadoghq\n\nhttps://t.co/kAW3wWyDCO\n\n#Linux #kernel #cybersecurity https://t.co/NdEhrmwAhc",
+    "tweettime": "2023-07-16, 07:30:03",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1680479893505671168",
+    "username": "0xor0ne"
 }
 {
     "expanded_url": [

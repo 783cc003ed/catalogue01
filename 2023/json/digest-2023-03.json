@@ -251,6 +251,19 @@
 }
 {
     "expanded_url": [
+        "https://vimeo.com/809084317"
+    ],
+    "tweetfavorites": 336,
+    "tweetquotes": 7,
+    "tweetreplies": 7,
+    "tweetretweets": 115,
+    "tweettext": "Following some additional testing of #CVE-2023-23397 - I can confirm MS have only partially fixed this. You can still trigger auth to systems in trusted zones - ie other AD joined systems, which can then be relayed for privilege escalation 🔥https://t.co/6cZWHiNDjJ",
+    "tweettime": "2023-03-17, 14:53:42",
+    "tweeturl": "https://twitter.com/domchell/status/1636742613121236992",
+    "username": "domchell"
+}
+{
+    "expanded_url": [
         "https://www.huntress.com/blog/everything-we-know-about-cve-2023-23397"
     ],
     "tweetfavorites": 35,
@@ -339,6 +352,19 @@
     "tweettime": "2023-03-15, 17:45:42",
     "tweeturl": "https://twitter.com/_mattata/status/1636061119558164487",
     "username": "_mattata"
+}
+{
+    "expanded_url": [
+        "https://msft.it/6018504d4"
+    ],
+    "tweetfavorites": 244,
+    "tweetquotes": 13,
+    "tweetreplies": 12,
+    "tweetretweets": 127,
+    "tweettext": "Microsoft has released CVE-2023-23397 to address the critical elevation of privilege (EoP) vulnerability affecting Microsoft Outlook for Windows. We strongly recommend all customers update Microsoft Outlook for Windows to remain secure. Learn more ⬇️\n\nhttps://t.co/GNovrlBniL",
+    "tweettime": "2023-03-15, 17:43:12",
+    "tweeturl": "https://twitter.com/msftsecresponse/status/1636060491133927427",
+    "username": "msftsecresponse"
 }
 {
     "expanded_url": [

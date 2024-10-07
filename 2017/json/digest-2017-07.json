@@ -62,6 +62,19 @@
 }
 {
     "expanded_url": [
+        "http://thehackernews.com/2017/07/cisco-webex-vulnerability.html"
+    ],
+    "tweetfavorites": 149,
+    "tweetquotes": 10,
+    "tweetreplies": 2,
+    "tweetretweets": 230,
+    "tweettext": "Critical Remote Code Execution (CVE-2017-6753) Flaw Found in #Cisco WebEx Browser Extensions, Again — Patch Now! https://t.co/3CePZWBMIJ https://t.co/fSMf6w8Hmr",
+    "tweettime": "2017-07-17, 17:31:58",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/887001947823378432",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://rh0dev.github.io/blog/2017/the-return-of-the-jit/"
     ],
     "tweetfavorites": 63,

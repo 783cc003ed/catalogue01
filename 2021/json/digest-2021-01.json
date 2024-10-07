@@ -122,6 +122,20 @@
 }
 {
     "expanded_url": [
+        "http://testing.com",
+        "https://github.com/Rhynorater/CVE-2018-15473-Exploit/blob/master/sshUsernameEnumExploit.py"
+    ],
+    "tweetfavorites": 391,
+    "tweetquotes": 3,
+    "tweetreplies": 6,
+    "tweetretweets": 130,
+    "tweettext": "#bugbounty #bugbountytips\n\nFound a $$$$ RCE with CVE-2018-15473\n\nSteps :\n\n1. Found an IP of the company eg: https://t.co/sH0ptWvV6Y then  cloned the CVE from https://t.co/zLHWHg4CEY\n\n2. Ran the command \n /sshUsernameEnumExploit.py --username root 0.0.0.0 (ip)",
+    "tweettime": "2021-01-26, 08:07:36",
+    "tweeturl": "https://twitter.com/the_vyAdha/status/1353977879856472064",
+    "username": "the_vyAdha"
+}
+{
+    "expanded_url": [
         "http://packetstormsecurity.com/files/161053/Oracle-WebLogic-Server-14.1.1.0-Remote-Code-Execution.html"
     ],
     "tweetfavorites": 111,

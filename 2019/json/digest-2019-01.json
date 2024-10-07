@@ -112,6 +112,19 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2019/01/linux-systemd-exploit.html"
+    ],
+    "tweetfavorites": 186,
+    "tweetquotes": 14,
+    "tweetreplies": 6,
+    "tweetretweets": 195,
+    "tweettext": "New Systemd Security Flaws Affect Most #Linux Distributions — Patches are on the Way!\n \nhttps://t.co/TqGq2h8TZ4\n \nCVE-2018-16864 (privilege escalation)\nCVE-2018-16865 (privilege escalation)\nCVE-2018-16866 (Information leak) https://t.co/aEVvE0dnng",
+    "tweettime": "2019-01-10, 12:24:33",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1083338807485915136",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://mim.ec/2SIDzQ1"
     ],
     "tweetfavorites": 15,

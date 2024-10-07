@@ -113,6 +113,19 @@
     "username": "cyber_advising"
 }
 {
+    "expanded_url": [
+        "https://tryhackme.com/room/pwnkit"
+    ],
+    "tweetfavorites": 423,
+    "tweetquotes": 6,
+    "tweetreplies": 13,
+    "tweetretweets": 89,
+    "tweettext": "A new FREE lab demonstrating the recent PolKit vulnerability (CVE-2021-4034) has been released on TryHackMe!\n\n🔴 Understand the vulnerability\n🔴 Practice exploiting it via a web-based lab\n🔴 Learn about the mitigation methods \n\nhttps://t.co/RZCD4ZP5ph https://t.co/hpPM3P6BAD",
+    "tweettime": "2022-01-27, 13:55:29",
+    "tweeturl": "https://twitter.com/RealTryHackMe/status/1486699385417252865",
+    "username": "RealTryHackMe"
+}
+{
     "tweetfavorites": 84,
     "tweetquotes": 1,
     "tweetreplies": 3,

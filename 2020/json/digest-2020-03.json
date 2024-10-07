@@ -176,6 +176,19 @@
 }
 {
     "expanded_url": [
+        "https://www.zerodayinitiative.com/blog/2020/3/25/cve-2020-0729-remote-code-execution-through-lnk-files"
+    ],
+    "tweetfavorites": 195,
+    "tweetquotes": 6,
+    "tweetreplies": 2,
+    "tweetretweets": 108,
+    "tweettext": "CVE-2020-0729: REMOTE CODE EXECUTION THROUGH .LNK FILES - https://t.co/SXZAG5bZlt",
+    "tweettime": "2020-03-26, 15:16:37",
+    "tweeturl": "https://twitter.com/gN3mes1s/status/1243195155601031169",
+    "username": "gN3mes1s"
+}
+{
+    "expanded_url": [
         "https://bit.ly/3bsf4PZ"
     ],
     "tweetfavorites": 232,
@@ -528,6 +541,19 @@
     "tweettime": "2020-03-06, 00:26:28",
     "tweeturl": "https://twitter.com/benhawkes/status/1235723386203951105",
     "username": "benhawkes"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2020/03/ppp-daemon-vulnerability.html"
+    ],
+    "tweetfavorites": 581,
+    "tweetquotes": 28,
+    "tweetreplies": 12,
+    "tweetretweets": 489,
+    "tweettext": "⚠️ WARNING!\n\nA new critical 17-years-old RCE #vulnerability (CVE-2020-8597) affecting 'Point-to-Point Protocol (PPP) daemon' opens nearly all popular #Linux based operating systems and many other embedded devices to remote hackers.\n\nDetails ➤ https://t.co/mqWDv3ayKQ\n\n#infosec https://t.co/XhllLOhJh5",
+    "tweettime": "2020-03-05, 20:08:02",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1235658349816897536",
+    "username": "TheHackersNews"
 }
 {
     "expanded_url": [

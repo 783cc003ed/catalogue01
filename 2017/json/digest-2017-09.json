@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://tomcat.apache.org/security-7.html"
+    ],
+    "tweetfavorites": 93,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 91,
+    "tweettext": "CVE-2017-12615 Apache Tomcat Remote Code Execution via JSP upload https://t.co/OcVMGzdGo9",
+    "tweettime": "2017-09-19, 13:36:58",
+    "tweeturl": "https://twitter.com/buherator/status/910135631170408450",
+    "username": "buherator"
+}
+{
+    "expanded_url": [
         "https://blog.fuzzing-project.org/60-Optionsbleed-HTTP-OPTIONS-method-can-leak-Apaches-server-memory.html"
     ],
     "tweetfavorites": 213,

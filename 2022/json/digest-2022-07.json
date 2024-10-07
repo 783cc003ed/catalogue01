@@ -378,6 +378,19 @@
 }
 {
     "expanded_url": [
+        "https://www.randorisec.fr/crack-linux-firewall/"
+    ],
+    "tweetfavorites": 372,
+    "tweetquotes": 7,
+    "tweetreplies": 2,
+    "tweetretweets": 143,
+    "tweettext": "Heap buffer overflow within the Netfilter subsystem of the Linux kernel (CVE-2022-34918).\n\nps: @metasploit module coming soon.\n\nhttps://t.co/pDUnelBuCy\n\n#netfilter #0day https://t.co/Jbhy79TP8v",
+    "tweettime": "2022-07-20, 11:55:06",
+    "tweeturl": "https://twitter.com/RandoriSec/status/1549724578469089284",
+    "username": "RandoriSec"
+}
+{
+    "expanded_url": [
         "https://github.com/W01fh4cker/cve-2022-33891/blob/main/cve_2022_33891_poc.py"
     ],
     "tweetfavorites": 105,

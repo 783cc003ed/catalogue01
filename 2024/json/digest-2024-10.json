@@ -1,0 +1,223 @@
+{
+    "expanded_url": [
+        "https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 4,
+    "tweetretweets": 10,
+    "tweettext": "TeamViewer User to Kernel Elevation of Privilege PoC. CVE-2024-7479 and CVE-2024-7481. ZDI-24-1289 and ZDI-24-1290. TV-2024-1006. https://t.co/HhuHAsLaxv  #Pentesting #Vulnerability  #CyberSecurity #Infosec https://t.co/OlTCSEmU4F",
+    "tweettime": "2024-10-06, 07:00:10",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1842822140384448967",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/Chocapikk/CVE-2024-45519"
+    ],
+    "tweetfavorites": 263,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 40,
+    "tweettext": "Zimbra - Remote Command Execution (CVE-2024-45519) - by @Chocapikk_ \n\nSource: https://t.co/1Qqr2qiLfZ https://t.co/3FxpJ1D13P",
+    "tweettime": "2024-10-05, 19:43:06",
+    "tweeturl": "https://twitter.com/7h3h4ckv157/status/1842651748378574966",
+    "username": "7h3h4ckv157"
+}
+{
+    "expanded_url": [
+        "https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481"
+    ],
+    "tweetfavorites": 772,
+    "tweetquotes": 4,
+    "tweetreplies": 7,
+    "tweetretweets": 197,
+    "tweettext": "CVE-2024-7479 &amp; CVE-2024-7481: exploit proof of concept of a vulnerability in TeamViewer that enables an unprivileged user to load an arbitrary Kernel Driver into the system.\n\nPoC\nhttps://t.co/VpW1aNdYW5 https://t.co/BDepFjWMiN",
+    "tweettime": "2024-10-04, 13:57:59",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1842202508682260520",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 69,
+    "tweettext": "RT @orange_8361: Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJK codepages such as lo…",
+    "tweettime": "2024-10-04, 06:56:57",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1842096555500716105",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-releases-for-zimbra-rce-flaw-cve-2024-45519-mass-exploitation-detected/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 51,
+    "tweettext": "RT @Dinosn: PoC Exploit Releases for Zimbra RCE Flaw CVE-2024-45519: Mass Exploitation Detected https://t.co/nc3n8SPZjo",
+    "tweettime": "2024-10-03, 17:26:43",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1841892650179273017",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 60,
+    "tweettext": "RT @orange_8361: Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJK codepages such as lo…",
+    "tweettime": "2024-10-03, 10:02:33",
+    "tweeturl": "https://twitter.com/0xdea/status/1841780875026981195",
+    "username": "0xdea"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/0-day-flaw-cve-2024-38200-in-microsoft-office-exposes-ntlmv2-hashes-poc-exploit-released/"
+    ],
+    "tweetfavorites": 85,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 33,
+    "tweettext": "0-Day Flaw CVE-2024-38200 in Microsoft Office Exposes NTLMv2 Hashes: PoC Exploit Released https://t.co/J2fWzJzkZe",
+    "tweettime": "2024-10-03, 03:17:10",
+    "tweeturl": "https://twitter.com/Dinosn/status/1841678856022798430",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/security/critical-ivanti-rce-flaw-with-public-exploit-now-used-in-attacks/"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 55,
+    "tweettext": "Critical Ivanti Endpoint Manager vulnerability (CVE-2024-29824) with public exploit code now actively used in remote code execution attacks - @serghei\nhttps://t.co/OsRM5x6BHq",
+    "tweettime": "2024-10-02, 18:55:55",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1841552709943529783",
+    "username": "BleepinComputer"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 67,
+    "tweettext": "RT @orange_8361: Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJK codepages such as lo…",
+    "tweettime": "2024-10-02, 16:53:11",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1841521826020884500",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://www.sophos.com/en-us/security-advisories/sophos-sa-20241002-cde-lpe"
+    ],
+    "tweetfavorites": 159,
+    "tweetquotes": 1,
+    "tweetreplies": 10,
+    "tweetretweets": 28,
+    "tweettext": "(CVE-2024-8885 🔥) At @watchtowrcyber I reported a Local Privilege Escalation in Sophos EDR leading to SYSTEM⏫\nhttps://t.co/AoTPji2CaP https://t.co/yhIXoPp7h3",
+    "tweettime": "2024-10-02, 16:32:16",
+    "tweeturl": "https://twitter.com/SinSinology/status/1841516562148163925",
+    "username": "SinSinology"
+}
+{
+    "expanded_url": [
+        "https://blog.projectdiscovery.io/zimbra-remote-code-execution/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "🚨Vulnerabilidad crítica en Zimbra\n\n➡️ CVE-2024-45519 (RCE)\nhttps://t.co/esOiyD9q6e https://t.co/8ujpljp1nq",
+    "tweettime": "2024-10-02, 13:43:34",
+    "tweeturl": "https://twitter.com/elhackernet/status/1841474105691767280",
+    "username": "elhackernet"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/alert-adobe-commerce-and-magento-stores.html"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 12,
+    "tweettext": "🚨 A critical #vulnerability, CosmicSting (CVE-2024-34102), has hit 5% of Adobe Commerce &amp; Magento stores.\n\n7 hacker groups are injecting malicious scripts.\n\nDetails here: https://t.co/jvrvhsPbgJ\n\nPatching isn’t enough—rotate your encryption keys now!\n\n#cybersecurity",
+    "tweettime": "2024-10-02, 12:15:51",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1841452032151974242",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.reddit.com/r/netsec/comments/1ftojbr/zimbra_remote_command_execution_cve202445519/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 10,
+    "tweettext": "Zimbra - Remote Command Execution (CVE-2024-45519) https://t.co/7eexZpA55t",
+    "tweettime": "2024-10-01, 19:39:03",
+    "tweeturl": "https://twitter.com/Dinosn/status/1841201179402846375",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://github.com/passtheticket/CVE-2024-38200",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38200"
+    ],
+    "tweetfavorites": 172,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 44,
+    "tweettext": "PoC and wirte-up for CVE-2024-38200: Microsoft Office NTLMv2 Disclosure Vulnerability \nhttps://t.co/ciHkPHPj1f\n\nPatch: https://t.co/RUSNlgm078 https://t.co/z3l7DdvyUv",
+    "tweettime": "2024-10-01, 14:52:19",
+    "tweeturl": "https://twitter.com/sekurlsa_pw/status/1841129017799258472",
+    "username": "sekurlsa_pw"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "RT @JusticeRage: If you're using @Zimbra, mass-exploitation of CVE-2024-45519 has begun. Patch yesterday.\n\nMalicious emails are coming from…",
+    "tweettime": "2024-10-01, 08:45:13",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1841036635296653427",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/"
+    ],
+    "tweetfavorites": 37,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "Exploitation of a type confusion vulnerability in v8 (Chrome, CVE-2024-5830)\n\nhttps://t.co/d0ZT5O8vHK\n\nCredits @mmolgtm\n\n#infosec #chrome https://t.co/yIZJHp8FyP",
+    "tweettime": "2024-10-01, 07:00:12",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1841010207163322638",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 42,
+    "tweettext": "RT @0xor0ne: Exploitation of a type confusion vulnerability in v8 (Chrome, CVE-2024-5830)\n\nhttps://t.co/d0ZT5O8vHK\n\nCredits @mmolgtm\n\n#info…",
+    "tweettime": "2024-10-01, 06:43:29",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1841006000049946876",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/kartlanpwn-cve-2024-45200-exploits-mario-kart-8-deluxe-lan-play-feature-for-rce/"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 15,
+    "tweettext": "A serious vulnerability, dubbed #KartLANPwn (CVE-2024-45200), has been identified in the wildly popular Nintendo game Mario Kart 8 Deluxe, putting millions of players at risk of remote code execution (RCE) during multiplayer sessions. PoC Published\n\nhttps://t.co/IzGV1KBIQe",
+    "tweettime": "2024-10-01, 01:45:15",
+    "tweeturl": "https://twitter.com/the_yellow_fall/status/1840930948092969451",
+    "username": "the_yellow_fall"
+}

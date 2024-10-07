@@ -65,6 +65,19 @@
 }
 {
     "expanded_url": [
+        "https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/"
+    ],
+    "tweetfavorites": 301,
+    "tweetquotes": 2,
+    "tweetreplies": 3,
+    "tweetretweets": 128,
+    "tweettext": "Apache Tomcat RCE by deserialization (CVE-2020-9484) - write-up and exploit. https://t.co/oyuPLJ0ixu",
+    "tweettime": "2020-06-26, 01:25:24",
+    "tweeturl": "https://twitter.com/Alra3ees/status/1276325656440254464",
+    "username": "Alra3ees"
+}
+{
+    "expanded_url": [
         "https://github.com/spaceraccoon/CVE-2020-10665"
     ],
     "tweetfavorites": 549,

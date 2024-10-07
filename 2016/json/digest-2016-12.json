@@ -25,6 +25,19 @@
     "username": "hosselot"
 }
 {
+    "expanded_url": [
+        "http://thehackernews.com/2016/12/phpmailer-security.html"
+    ],
+    "tweetfavorites": 150,
+    "tweetquotes": 11,
+    "tweetreplies": 0,
+    "tweetretweets": 221,
+    "tweettext": "Update: PHPMailer RCE (CVE-2016-10033) Exploit Code Released https://t.co/3RBzWzfpLM https://t.co/MjcAUzxoEt",
+    "tweettime": "2016-12-27, 11:13:34",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/813704369023647744",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 170,
     "tweetquotes": 3,
     "tweetreplies": 1,
