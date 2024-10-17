@@ -475,6 +475,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/vngkv123/articles/blob/main/CVE-2021-38001.md"
+    ],
+    "tweetfavorites": 192,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 80,
+    "tweettext": "Simple writeup for CVE-2021-38001 (Chrome V8).\nIf you find some wrong things, plz let me know =]\nhttps://t.co/40ppeHyHM7",
+    "tweettime": "2021-11-06, 13:37:28",
+    "tweeturl": "https://twitter.com/vngkv123/status/1456979047666249729",
+    "username": "vngkv123"
+}
+{
+    "expanded_url": [
         "https://www.rapid7.com/blog/post/2021/11/05/metasploit-wrap-up-137/"
     ],
     "tweetfavorites": 52,

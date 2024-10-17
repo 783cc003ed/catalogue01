@@ -258,6 +258,20 @@
 }
 {
     "expanded_url": [
+        "http://Netlas.io",
+        "https://nt.ls/LJfRK"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "CVE-2024-8698: Privelege Escalation in Keycloak, 7.7 rating❗️\n\nImproper signature verification allows an attacker to create a document that is only partially signed.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/099ZWcwVdC\n\n#cybersecurity #vulnerability_map #keycloak https://t.co/O5sZOf73Us",
+    "tweettime": "2024-09-23, 10:48:07",
+    "tweeturl": "https://twitter.com/Netlas_io/status/1838168459902939190",
+    "username": "Netlas_io"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html"
     ],
     "tweetfavorites": 68,
@@ -564,6 +578,19 @@
     "tweettext": "CVE-2024-38816: Spring Framework Path Traversal Vulnerability Threatens Millions https://t.co/dNvH7VHChB",
     "tweettime": "2024-09-16, 02:43:15",
     "tweeturl": "https://twitter.com/Dinosn/status/1835509725015704022",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/new-zero-day-emerges-after-microsoft-patch-tuesday-cve-2024-43461-targets-windows-mshtml/"
+    ],
+    "tweetfavorites": 130,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 57,
+    "tweettext": "New Zero-Day Emerges After Microsoft Patch Tuesday: CVE-2024-43461 Targets Windows MSHTML https://t.co/4QgOyBJm0B",
+    "tweettime": "2024-09-16, 02:43:06",
+    "tweeturl": "https://twitter.com/Dinosn/status/1835509687963271529",
     "username": "Dinosn"
 }
 {

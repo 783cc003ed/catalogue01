@@ -1759,6 +1759,19 @@
     "expanded_url": [
         "https://github.com/m417z/CVE-2023-36003-POC"
     ],
+    "tweetfavorites": 111,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 30,
+    "tweettext": "CVE-2023-36003\n\nThis is a POC (Proof of Concept) of a privilege escalation vulnerability using the XAML diagnostics API. The vulnerability was patched in December's Patch Tuesday, and the CVE assigned to it is CVE-2023-36003.\n\nhttps://t.co/KfmZWqlCad\n\n#cybersecurity #infosec https://t.co/PxLlH51vK9",
+    "tweettime": "2024-01-12, 06:20:30",
+    "tweeturl": "https://twitter.com/hack_git/status/1745692209683247140",
+    "username": "hack_git"
+}
+{
+    "expanded_url": [
+        "https://github.com/m417z/CVE-2023-36003-POC"
+    ],
     "tweetfavorites": 34,
     "tweetquotes": 0,
     "tweetreplies": 0,

@@ -225,6 +225,19 @@
 }
 {
     "expanded_url": [
+        "https://0x36.github.io/CVE-2022-32932/"
+    ],
+    "tweetfavorites": 279,
+    "tweetquotes": 4,
+    "tweetreplies": 9,
+    "tweetretweets": 71,
+    "tweettext": "CVE-2022-32932 is another vulnerability I discovered in the ANE kernel interface; this is a double fetch issue that resulted in an interesting OOB write.\nhttps://t.co/dova9tSWkD",
+    "tweettime": "2022-11-16, 09:36:02",
+    "tweeturl": "https://twitter.com/_simo36/status/1592813736112566272",
+    "username": "_simo36"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/cve-2022-3977-linux-kernel-local-privilege-escalation-vulnerability/"
     ],
     "tweetfavorites": 280,

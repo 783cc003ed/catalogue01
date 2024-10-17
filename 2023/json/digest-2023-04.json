@@ -589,6 +589,19 @@
 }
 {
     "expanded_url": [
+        "https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 26,
+    "tweettext": "Great blog post by @mmolgtm on CVE-2022-25664\nA vulnerability in the Qualcomm Adreno GPU that can be used to leak large amounts of information at the page level in the user space and kernel space \n\nhttps://t.co/Po8CoOm2YP \n\n#infosec #cybersecurity #cve #exploit #android https://t.co/cQo55MPscx",
+    "tweettime": "2023-04-07, 16:30:16",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1644377059714531332",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
         "https://gh.io/pwn-pixel6"
     ],
     "tweetfavorites": 65,

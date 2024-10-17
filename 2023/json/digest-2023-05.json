@@ -399,6 +399,20 @@
 }
 {
     "expanded_url": [
+        "https://securitylabs.datadoghq.com/articles/overlayfs-cve-2023-0386/",
+        "https://github.com/DataDog/security-labs-pocs/tree/main/proof-of-concept-exploits/overlayfs-cve-2023-0386"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "Here's our write-up on the OverlayFS privilege escalation vulnerability CVE-2023-0386, including detailed reproduction instructions with an Ubuntu 22.04 Vagrant box, and detection strategies!\n\nhttps://t.co/EzNucnz77A\n\nhttps://t.co/QowKahx5Xb https://t.co/tNEiyAC9C4",
+    "tweettime": "2023-05-10, 22:01:14",
+    "tweeturl": "https://twitter.com/christophetd/status/1656419148002476032",
+    "username": "christophetd"
+}
+{
+    "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24953"
     ],
     "tweetfavorites": 37,

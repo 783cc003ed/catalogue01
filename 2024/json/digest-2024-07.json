@@ -496,6 +496,19 @@
 }
 {
     "expanded_url": [
+        "https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server"
+    ],
+    "tweetfavorites": 1326,
+    "tweetquotes": 185,
+    "tweetreplies": 28,
+    "tweetretweets": 843,
+    "tweettext": "The award-winning Qualys Threat Research Unit (TRU) has discovered a critical vulnerability in OpenSSH, designated CVE-2024-6387 and aptly named \"regreSSHion.\" This Remote Code Execution bug grants full root access, posing a significant exploitation risk. https://t.co/uDHHSuzd5f",
+    "tweettime": "2024-07-01, 08:31:58",
+    "tweeturl": "https://twitter.com/qualys/status/1807693619161133539",
+    "username": "qualys"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/poc-exploit-published-for-linux-kernel-privilege-escalation-flaw-cve-2024-0193/"
     ],
     "tweetfavorites": 229,

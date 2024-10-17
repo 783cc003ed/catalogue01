@@ -355,6 +355,19 @@
 }
 {
     "expanded_url": [
+        "https://www.youtube.com/watch?v=1-IsFCgW99Y"
+    ],
+    "tweetfavorites": 237,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 68,
+    "tweettext": "For science and profit I wrote an exploit for CVE-2022-21882. It works on 10 and 11. It's a really good case-study on win32k callbacks, more details in thread 🧵\n\nhttps://t.co/XPCTRRsgNY",
+    "tweettime": "2023-02-14, 23:12:02",
+    "tweeturl": "https://twitter.com/FuzzySec/status/1625633998901768197",
+    "username": "FuzzySec"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html"
     ],
     "tweetfavorites": 140,

@@ -12,6 +12,19 @@
     "username": "DailyDarkWeb"
 }
 {
+    "expanded_url": [
+        "https://github.com/notselwyn/cve-2024-1086"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2024-1086: Universal local privilege escalation Proof-of-Concept  - Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.\n\nPoC\nhttps://t.co/FSilQCy6fs https://t.co/JgoJX4W14G",
+    "tweettime": "2024-03-28, 19:55:04",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1773438678796255577",
+    "username": "cyber_advising"
+}
+{
     "tweetfavorites": 235,
     "tweetquotes": 16,
     "tweetreplies": 15,

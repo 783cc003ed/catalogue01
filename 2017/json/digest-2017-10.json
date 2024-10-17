@@ -78,6 +78,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/cyberheartmi9/CVE-2017-12617"
+    ],
+    "tweetfavorites": 140,
+    "tweetquotes": 5,
+    "tweetreplies": 0,
+    "tweetretweets": 81,
+    "tweettext": "A PoC exploit was published for the CVE-2017-12617\nhttps://t.co/cyaI9mPurv\n\nCredits: @intx0x80",
+    "tweettime": "2017-10-08, 22:08:51",
+    "tweeturl": "https://twitter.com/mazen160/status/917149821483540481",
+    "username": "mazen160"
+}
+{
+    "expanded_url": [
         "https://bugs.chromium.org/p/chromium/issues/detail?id=733549"
     ],
     "tweetfavorites": 66,

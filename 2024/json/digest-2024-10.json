@@ -1,5 +1,603 @@
 {
     "expanded_url": [
+        "https://thehackernews.com/2024/10/north-korean-scarcruft-exploits-windows.html"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 22,
+    "tweettext": "🔥 One click, and chaos begins!\n\nNorth Korean APT group ScarCruft has been linked to the exploitation of a zero-day Windows flaw (CVE-2024-38178), targeting unpatched Internet Explorer Mode in Edge, infecting devices with RokRAT malware.\n\nRead: https://t.co/7473o7Gf9r\n\n#infosec",
+    "tweettime": "2024-10-16, 10:52:54",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1846504587962052755",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/github-patches-critical-flaw-in.html"
+    ],
+    "tweetfavorites": 117,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 62,
+    "tweettext": "🛡️ GitHub has released urgent security updates to fix a critical flaw (CVE-2024-9487) with a CVSS score of 9.5!\n\nThis bug allows unauthorized access by bypassing SAML SSO authentication—an immediate threat to your enterprise.\n\nDetails: https://t.co/gn7I8wf5TM\n\n#infosec",
+    "tweettime": "2024-10-16, 05:07:10",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1846417578987606155",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-in.html"
+    ],
+    "tweetfavorites": 75,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 34,
+    "tweettext": "💥 A critical flaw in SolarWinds Web Help Desk (CVE-2024-28987) has been actively exploited, and it involves hard-coded credentials that allow attackers to access sensitive help desk tickets.\n\nLearn more: https://t.co/CFeKwQ1zTj\n\n#infosec #cybersecurity",
+    "tweettime": "2024-10-16, 04:56:21",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1846414856456429758",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://web.archive.org/web/20210804164844/https://www.rapid7.com/blog/post/2016/12/29/a-friendly-fireside-foray-into-a-firefox-fracas/",
+        "https://bugzilla.mozilla.org/show_bug.cgi?id=1321066"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Mozilla fixed an almost similar ITW use-after-free vulnerability in Firefox several years ago (CVE-2016-9079). It happens during SVG animation handling with no JS callback involved!\n\nA nice write-up by rapid7:\nhttps://t.co/LpKuchYV5m\n\nMozilla bug entry:\nhttps://t.co/wlvz389F0R",
+    "tweettime": "2024-10-15, 16:36:43",
+    "tweeturl": "https://twitter.com/hosselot/status/1846228724049383632",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://labs.watchtowr.com/fortinet-fortigate-cve-2024-23113-a-super-complex-vulnerability-in-a-super-secure-appliance-in-2024/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 45,
+    "tweettext": "RT @watchtowrcyber: Some Fortinet Nday.. for now.... :-) CVE-2024-23113\n\nhttps://t.co/Y10rZ8D0KC",
+    "tweettime": "2024-10-15, 02:02:47",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1846008791818818021",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://labs.watchtowr.com/fortinet-fortigate-cve-2024-23113-a-super-complex-vulnerability-in-a-super-secure-appliance-in-2024/"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "Fortinet FortiGate CVE-2024-23113 - A Super Complex Vulnerability In A Super Secure Appliance In 2024 https://t.co/GfsDCgdXVF  #Pentesting #CyberSecurity #Infosec https://t.co/QYZWorO8Vp",
+    "tweettime": "2024-10-15, 01:15:09",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1845996801637101575",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://labs.watchtowr.com/fortinet-fortigate-cve-2024-23113-a-super-complex-vulnerability-in-a-super-secure-appliance-in-2024/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "RT @watchtowrcyber: Some Fortinet Nday.. for now.... :-) CVE-2024-23113\n\nhttps://t.co/Y10rZ8D0KC",
+    "tweettime": "2024-10-14, 20:28:50",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1845924747441254846",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/critical-veeam-vulnerability-exploited.html"
+    ],
+    "tweetfavorites": 120,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 55,
+    "tweettext": "Veeam Backup flaw targeted for #ransomware attacks—CVE-2024-40711 exploited!\n\nThis flaw allows attackers to create local admin accounts, granting them full control to deploy ransomware like Akira and Fog.\n\nLearn how to defend against active threats: https://t.co/nsJyoUrmae",
+    "tweettime": "2024-10-14, 08:56:57",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1845750632902189212",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/mozilla-warns-of-active-exploitation-in.html"
+    ],
+    "tweetfavorites": 138,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 66,
+    "tweettext": "🔔 Update: The Tor Project has issued an emergency update (v13.5.7) to address CVE-2024-9680, a Firefox flaw currently under active exploitation, reportedly targeting Tor Browser users.\n\nhttps://t.co/Agj4ZbBBOB\n\nIt may allow control of the browser but likely won't affect Tails'",
+    "tweettime": "2024-10-14, 06:26:00",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1845712642108981436",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/oilrig-exploits-windows-kernel-flaw-in.html"
+    ],
+    "tweetfavorites": 171,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 103,
+    "tweettext": "Iranian threat actor OilRig is exploiting a Windows Kernel #vulnerability (CVE-2024-30088) to gain SYSTEM privileges, enabling backdoor deployment and data theft.\n\nLearn how to protect your systems now https://t.co/rKGvWw33NO\n\n#cybersecurity #hacking #malware",
+    "tweettime": "2024-10-13, 09:41:42",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1845399506298286202",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 https://t.co/DxjvKNQpOw  #Pentesting #Vulnerability  #CyberSecurity #Infosec https://t.co/C5B6NDrKHW",
+    "tweettime": "2024-10-13, 00:30:10",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1845260706653827411",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 42,
+    "tweettext": "RT @blackorbird: Asian APT group used this Firefox 0day vulnerability for nearly half a year for watering hole attacks\nCVE-2024-9680\nhttps:…",
+    "tweettime": "2024-10-12, 19:51:26",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1845190559930961926",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+    ],
+    "tweetfavorites": 42,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078  https://t.co/DxjvKNQpOw  #Pentesting #Vulnerability #Windows #CyberSecurity #Infosec https://t.co/F8V0tPE7zf",
+    "tweettime": "2024-10-12, 13:15:11",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1845090841536143658",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof"
+    ],
+    "tweetfavorites": 88,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 33,
+    "tweettext": "CVE-2024-9570: A vulnerability was found in D-Link DIR-619L B1 2.06 and classified as critical. Affected by this issue is the function formEasySetTimezone of the file /goform/formEasySetTimezone. \n\nPoC\nhttps://t.co/hxBtJxLyVN https://t.co/BnqII8UAX3",
+    "tweettime": "2024-10-12, 12:20:51",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1845077168784658929",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        null
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 32,
+    "tweettext": "RT @piedpiper1616: GitHub - rvizx/CVE-2024-42640: Unauthenticated Remote Code Execution via Angular-Base64-Upload Library - https://t.co/8H…",
+    "tweettime": "2024-10-12, 09:22:21",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1845032247931396508",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://github.com/rvizx/CVE-2024-42640"
+    ],
+    "tweetfavorites": 102,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "GitHub - rvizx/CVE-2024-42640: Unauthenticated Remote Code Execution via Angular-Base64-Upload Library - https://t.co/8HJI4BlNOz",
+    "tweettime": "2024-10-12, 06:52:02",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1844994418128060865",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://blog.amberwolf.com/blog/2024/october/cve-2024-37404-ivanti-connect-secure-authenticated-rce-via-openssl-crlf-injection/",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Ivanti%20Connect%20Secure%22"
+    ],
+    "tweetfavorites": 113,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 24,
+    "tweettext": "🚨Alert🚨CVE-2024-37404: Ivanti Connect Secure - Authenticated RCE via OpenSSL CRLF Injection\n🔥PoC: https://t.co/ZOQmvreUoJ\n📊 2.4M+ Services are found on https://t.co/ysWb28BTvF yearly\n🔗Hunter Link: https://t.co/PWBEkvpQU0\n👇Search Query\nHUNTER:/product.name=\"Ivanti Connect https://t.co/C7vaMJdncn",
+    "tweettime": "2024-10-12, 06:39:17",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1844991212480029011",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
+        "https://github.com/horizon3ai/CVE-2024-9464",
+        "https://www.horizon3.ai/attack-research/palo-alto-expedition-from-n-day-to-full-compromise/"
+    ],
+    "tweetfavorites": 338,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 87,
+    "tweettext": "Proof of Concept Exploit for CVE-2024-9464 : https://t.co/MJdY8KUVOJ \n\nPalo Alto Expedition: From N-Day to Full Compromise : https://t.co/skvf12XotI https://t.co/Vj3AEWDRfR",
+    "tweettime": "2024-10-11, 11:20:10",
+    "tweeturl": "https://twitter.com/binitamshah/status/1844699509202559360",
+    "username": "binitamshah"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 53,
+    "tweettext": "RT @reverseame: Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 #Windows #WiFiDriver #RCEVulnerability #CVE-2024-30078 #Crowdfense…",
+    "tweettime": "2024-10-11, 07:04:24",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1844635143958360270",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/new-critical-gitlab-vulnerability-could.html"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 28,
+    "tweettext": "🚩 A critical security flaw in #GitLab (CVE-2024-9164) could allow attackers to run CI/CD pipelines on unauthorized branches.\n\nFind details here: https://t.co/YCBIt4cZ1T\n\nUpdate your instance ASAP to avoid becoming the next victim.\n\n#cybersecurity #devops",
+    "tweettime": "2024-10-11, 06:31:20",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1844626821431578911",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://clearbluejar.github.io/posts/patch-tuesday-diffing-cve-2024-20696-windows-libarchive-rce/"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "Patch Tuesday Diffing: CVE-2024-20696 - Windows Libarchive RCE https://t.co/UECZFSUpED  #Pentesting #Windows  #CyberSecurity #Infosec https://t.co/tPii1ir9LC",
+    "tweettime": "2024-10-11, 02:15:07",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1844562344786980936",
+    "username": "ptracesecurity"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 125,
+    "tweettext": "RT @cyb3rops: Omg … reading this report by\n@Horizon3Attack\non PaloAlto‘s Expedition RCE CVE-2024-9464 (and others) seriously shakes any rem…",
+    "tweettime": "2024-10-10, 17:33:14",
+    "tweeturl": "https://twitter.com/x0rz/status/1844431004972482881",
+    "username": "x0rz"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2022-085_pac4j/"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 11,
+    "tweettext": "GHSL-2022-085: Java deserialization leading to RCE in pac4j-core - CVE-2023-25581 https://t.co/2qcYwPaCYk",
+    "tweettime": "2024-10-10, 16:01:36",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1844407944512774611",
+    "username": "GHSecurityLab"
+}
+{
+    "expanded_url": [
+        "https://huydoppa.hashnode.dev/analyst-cve-2024-8698-keycloak-with-zero-knowledge-about-keycloak"
+    ],
+    "tweetfavorites": 96,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 30,
+    "tweettext": "Analyst CVE-2024-8698 on KeyCloak - https://t.co/DRUTEx80cS",
+    "tweettime": "2024-10-10, 15:45:30",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1844403894434279820",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/experts-warn-of-critical-unpatched.html"
+    ],
+    "tweetfavorites": 64,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 38,
+    "tweettext": "A critical unpatched #vulnerability (CVE-2024-9441) in the Nice Linear eMerge E3 access controller has been uncovered, carrying a CVSS score of 9.8, with proof-of-concept exploits already circulating.\n\nLearn more: https://t.co/TbQR90q0ce\n\n#infosec #cybersecurity",
+    "tweettime": "2024-10-10, 12:12:35",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1844350312016118170",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.horizon3.ai/attack-research/palo-alto-expedition-from-n-day-to-full-compromise/"
+    ],
+    "tweetfavorites": 433,
+    "tweetquotes": 6,
+    "tweetreplies": 10,
+    "tweetretweets": 122,
+    "tweettext": "Omg … reading this report by\n@Horizon3Attack\non PaloAlto‘s Expedition RCE CVE-2024-9464 (and others) seriously shakes any remaining trust in their software. Every chapter feels like a slap in their face.\nhttps://t.co/LOg490bfEL https://t.co/3YN5YwhdN5",
+    "tweettime": "2024-10-10, 08:10:13",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1844289319084945886",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html"
+    ],
+    "tweetfavorites": 108,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 63,
+    "tweettext": "⚠️ Cyber Alerts:\n\n—Fortinet CVE-2024-23113 actively exploited, patch by Oct 30!\n—Palo Alto Expedition vulnerable to SQL &amp; OS injection.\n—Cisco patches critical bug in Nexus Dashboard Fabric Controller.\n\nRead: https://t.co/b7vOqgCVRe\n\nCritical systems must be patched immediately.",
+    "tweettime": "2024-10-10, 05:47:16",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1844253342735925625",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/mozilla-warns-of-active-exploitation-in.html"
+    ],
+    "tweetfavorites": 401,
+    "tweetquotes": 12,
+    "tweetreplies": 12,
+    "tweetretweets": 244,
+    "tweettext": "🚨 Warning: A critical #vulnerability (CVE-2024-9680) in Firefox is being actively exploited.\n\nDon’t wait—ensure your browsers are updated now to protect against potential remote code execution.\n\nLearn more: https://t.co/Agj4ZbBBOB\n\n#cybersecurity #hacking",
+    "tweettime": "2024-10-10, 04:27:13",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1844233197678362662",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/google/security-research/blob/master/pocs/linux/kernelctf/CVE-2023-52447_cos/docs/exploit.md"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "RT @binitamshah: PoC  for CVE-2023-52447 released -  A Linux Kernel Flaw Enabling Container Escape : https://t.co/UHqpWTinfW",
+    "tweettime": "2024-10-09, 23:48:12",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1844162983561515299",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 78,
+    "tweettext": "RT @Horizon3Attack: Our latest post detailing compromising the #PaloAlto #Expedition. While investigating CVE-2024-5910, we discovered and…",
+    "tweettime": "2024-10-09, 23:46:58",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1844162672176279614",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 91,
+    "tweettext": "RT @sekurlsa_pw: CVE-2024-38124: Predict the name of the New Domain controller and become Domain Admin. Reminds me of sAMAccountName Spoofi…",
+    "tweettime": "2024-10-09, 21:01:41",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1844121074965061802",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
+        "https://github.com/horizon3ai/CVE-2024-9464"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "CVE-2024-9464: Palo Alto Expedition Authenticated Command Injection\nhttps://t.co/zqgA0Db700",
+    "tweettime": "2024-10-09, 17:59:05",
+    "tweeturl": "https://twitter.com/momika233/status/1844075123110027285",
+    "username": "momika233"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 116,
+    "tweettext": "RT @Horizon3Attack: Our latest post detailing compromising the #PaloAlto #Expedition. While investigating CVE-2024-5910, we discovered and…",
+    "tweettime": "2024-10-09, 17:09:25",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1844062624033669575",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://github.com/google/security-research/blob/master/pocs/linux/kernelctf/CVE-2023-52447_cos/docs/exploit.md"
+    ],
+    "tweetfavorites": 257,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 62,
+    "tweettext": "PoC  for CVE-2023-52447 released -  A Linux Kernel Flaw Enabling Container Escape : https://t.co/UHqpWTinfW",
+    "tweettime": "2024-10-09, 14:34:25",
+    "tweeturl": "https://twitter.com/binitamshah/status/1844023619334320505",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://github.com/mozilla/gecko-dev/commit/7a85a111b5f42cdc07f438e36f9597c4c6dc1d48"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 11,
+    "tweettext": "The fix for Mozilla Firefox In-The-Wild use-after-free vulnerability in Animation timeline (CVE-2024-9680 [1923344]):\nhttps://t.co/MaJEW7nze9",
+    "tweettime": "2024-10-09, 14:26:58",
+    "tweeturl": "https://twitter.com/hosselot/status/1844021741506740596",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/microsoft-issues-security-update-fixing.html"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 39,
+    "tweettext": "👉 Microsoft has released patches for 118 vulnerabilities, two of which (CVE-2024-43572 and CVE-2024-43573) are being actively exploited in the wild.\n\nFind details here: https://t.co/JZETALKYFs\n\nEnsure your systems are protected—apply these patches ASAP!\n\n#cybersecurity #infosec",
+    "tweettime": "2024-10-09, 06:54:13",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1843907805008552386",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 35,
+    "tweettext": "RT @ryanaraine: The zero-day, tagged as CVE-2024-43572, is  a remote code execution issue in Microsoft Management Console. Redmond says att…",
+    "tweettime": "2024-10-08, 22:18:45",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1843778083138208142",
+    "username": "1ZRR4H"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 43,
+    "tweettext": "RT @ryanaraine: The zero-day, tagged as CVE-2024-43572, is  a remote code execution issue in Microsoft Management Console. Redmond says att…",
+    "tweettime": "2024-10-08, 22:10:55",
+    "tweeturl": "https://twitter.com/hackerfantastic/status/1843776113258180773",
+    "username": "hackerfantastic"
+}
+{
+    "expanded_url": [
+        "https://www.securityweek.com/patch-tuesday-microsoft-confirms-exploited-zero-day-in-windows-management-console/"
+    ],
+    "tweetfavorites": 152,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 68,
+    "tweettext": "The zero-day, tagged as CVE-2024-43572, is  a remote code execution issue in Microsoft Management Console. Redmond says attackers are rigging  Microsoft Saved Console (MSC) files to execute remote code on targeted Windows systems.\nhttps://t.co/nGyZwHer25",
+    "tweettime": "2024-10-08, 18:59:45",
+    "tweeturl": "https://twitter.com/ryanaraine/status/1843728004264137137",
+    "username": "ryanaraine"
+}
+{
+    "expanded_url": [
+        "https://github.com/Chocapikk/CVE-2024-45519"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 144,
+    "tweettext": "RT @Chocapikk_: exploit + lab setup for CVE-2024-45519\n\nhttps://t.co/twEOqIFZMn https://t.co/dJrPESiRJH",
+    "tweettime": "2024-10-08, 17:46:30",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1843709569094361165",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 50,
+    "tweettext": "RT @buffaloverflow: Just published an advisory for CVE-2024-37404, an interesting CRLF issue leading to RCE in Ivanti Connect Secure! 🧐🐛\n\nG…",
+    "tweettime": "2024-10-08, 17:11:19",
+    "tweeturl": "https://twitter.com/wvuuuuuuuuuuuuu/status/1843700716336230718",
+    "username": "wvuuuuuuuuuuuuu"
+}
+{
+    "expanded_url": [
+        "https://blog.amberwolf.com/blog/2024/october/cve-2024-37404-ivanti-connect-secure-authenticated-rce-via-openssl-crlf-injection/"
+    ],
+    "tweetfavorites": 128,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 46,
+    "tweettext": "Just published an advisory for CVE-2024-37404, an interesting CRLF issue leading to RCE in Ivanti Connect Secure! 🧐🐛\n\nGet the technical details on the @AmberWolfSec blog👇\n\nhttps://t.co/ChmrC70lE0",
+    "tweettime": "2024-10-08, 15:21:47",
+    "tweeturl": "https://twitter.com/buffaloverflow/status/1843673151664009337",
+    "username": "buffaloverflow"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/qualcomm-urges-oems-to-patch-critical.html"
+    ],
+    "tweetfavorites": 125,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 71,
+    "tweettext": "🔐 Qualcomm releases urgent security updates, including a critical patch for CVE-2024-43047—a flaw currently being exploited in the wild.\n\nLearn more 👉 https://t.co/xBRVAlVOsW\n\nQualcomm urges OEMs to deploy the update ASAP.\n\n#cybersecurity #infosec",
+    "tweettime": "2024-10-08, 04:08:20",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1843503670044115225",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/synacktiv/CVE-2024-45409"
+    ],
+    "tweetfavorites": 119,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 31,
+    "tweettext": "GitLab recently released a patch for the Ruby-SAML / GitLab Authentication Bypass (CVE-2024-45409). Our ninjas @alexisdanizan and @b1two_ analyzed the patch and wrote the exploit code! https://t.co/RaP8lKDh8o",
+    "tweettime": "2024-10-07, 11:51:55",
+    "tweeturl": "https://twitter.com/Synacktiv/status/1843257946236674404",
+    "username": "Synacktiv"
+}
+{
+    "expanded_url": [
+        "https://blog.projectdiscovery.io/ruby-saml-gitlab-auth-bypass/"
+    ],
+    "tweetfavorites": 157,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 39,
+    "tweettext": "GitLab Authentication Bypass (CVE-2024-45409) : https://t.co/Q48P9kfPzf \n credits @rootxharsh @iamnoooob https://t.co/PwHEPmBP8p",
+    "tweettime": "2024-10-07, 10:13:39",
+    "tweeturl": "https://twitter.com/binitamshah/status/1843233217069081034",
+    "username": "binitamshah"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/critical-apache-avro-sdk-flaw-allows.html"
+    ],
+    "tweetfavorites": 77,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 33,
+    "tweettext": "A critical security flaw in Apache Avro SDK (CVE-2024-47561) threatens large-scale data processing systems. \n\nEnsure your systems are patched to avoid arbitrary code execution risks.\n\nDetails here: https://t.co/9ebAKi27zL\n\n#infosec #cybersecurity",
+    "tweettime": "2024-10-07, 09:35:01",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1843223494865346938",
+    "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 250,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 39,
+    "tweettext": "exploit + lab setup for CVE-2024-45519 🔥\n\nGithub\n\n#Cve #Exploit https://t.co/jUchsIMLqK",
+    "tweettime": "2024-10-06, 12:18:38",
+    "tweeturl": "https://twitter.com/HackingTeam1/status/1842902284851642681",
+    "username": "HackingTeam1"
+}
+{
+    "expanded_url": [
+        "https://blog.projectdiscovery.io/ruby-saml-gitlab-auth-bypass/"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "Ruby-SAML / GitLab Authentication Bypass (CVE-2024-45409) - https://t.co/soCUzAS2lD",
+    "tweettime": "2024-10-06, 11:55:04",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1842896351916699766",
+    "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
         "https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481"
     ],
     "tweetfavorites": 33,
@@ -26,6 +624,127 @@
 }
 {
     "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html"
+    ],
+    "tweetfavorites": 47,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 15,
+    "tweettext": "4 exploits, 1 bug: exploiting cve-2024-20017 4 different ways https://t.co/rrq20Hhlo2   #Pentesting #exploit #Vulnerability  #CyberSecurity #Infosec https://t.co/dGm5kmsuOg",
+    "tweettime": "2024-10-05, 19:00:13",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1842640959072264598",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://blog.projectdiscovery.io/ruby-saml-gitlab-auth-bypass/"
+    ],
+    "tweetfavorites": 544,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 155,
+    "tweettext": "Checkout our new blogpost! In this post we talk about SAML and the recent Ruby-SAML Auth bypass.\n\nCVE-2024-45409: Ruby-SAML Auth Bypass in GitLab\n\nhttps://t.co/VYZ3YG0oXD https://t.co/ka6FjXvsyZ",
+    "tweettime": "2024-10-05, 11:01:18",
+    "tweeturl": "https://twitter.com/httpvoid0x2f/status/1842520432219423043",
+    "username": "httpvoid0x2f"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "RT @pdiscoveryio: 🚨 CVE-2024-45409: SAML Auth Bypass in GitLab\n\nWe just reversed a critical Ruby-SAML vuln affecting GitLab! 🔓\n\n✅ Detailed…",
+    "tweettime": "2024-10-05, 10:45:53",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1842516552396017862",
+    "username": "kmkz_security"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "RT @pdiscoveryio: 🚨 CVE-2024-45409: SAML Auth Bypass in GitLab\n\nWe just reversed a critical Ruby-SAML vuln affecting GitLab! 🔓\n\n✅ Detailed…",
+    "tweettime": "2024-10-05, 10:27:26",
+    "tweeturl": "https://twitter.com/steventseeley/status/1842511911184691397",
+    "username": "steventseeley"
+}
+{
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 58,
+    "tweettext": "RT @pdiscoveryio: 🚨 CVE-2024-45409: SAML Auth Bypass in GitLab\n\nWe just reversed a critical Ruby-SAML vuln affecting GitLab! 🔓\n\n✅ Detailed…",
+    "tweettime": "2024-10-05, 08:59:23",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1842489750663442791",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
+        "https://github.com/Chocapikk/CVE-2024-45519"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 136,
+    "tweettext": "RT @Chocapikk_: exploit + lab setup for CVE-2024-45519\n\nhttps://t.co/twEOqIFZMn https://t.co/dJrPESiRJH",
+    "tweettime": "2024-10-05, 08:34:28",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1842483484238983460",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2024/10/apple-releases-critical-ios-and-ipados.html"
+    ],
+    "tweetfavorites": 173,
+    "tweetquotes": 10,
+    "tweetreplies": 3,
+    "tweetretweets": 96,
+    "tweettext": "Apple has released critical iOS and iPadOS updates addressing a #vulnerability (CVE-2024-44204) that could expose your passwords via VoiceOver #technology.\n\nRead: https://t.co/lG1aBnB75m\n\n#iPhone XS and later, plus iPads from the Pro, Air, and Mini series, are impacted.\n\n#infosec",
+    "tweettime": "2024-10-05, 04:52:32",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1842427630437773634",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://blog.chebuya.com/posts/server-side-request-forgery-on-havoc-c2/"
+    ],
+    "tweetfavorites": 34,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 5,
+    "tweettext": "Unauthenticated SSRF (CVE-2024-41570) on Havoc C2 teamserver via spoofed demon agent https://t.co/OU5FYk6cBB  #Pentesting #CyberSecurity #Infosec https://t.co/B381p2kt0C",
+    "tweettime": "2024-10-05, 01:32:04",
+    "tweeturl": "https://twitter.com/ptracesecurity/status/1842377182540107973",
+    "username": "ptracesecurity"
+}
+{
+    "expanded_url": [
+        "https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/"
+    ],
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 47,
+    "tweettext": "RT @0xor0ne: Introduction to Chrome exploitation (architecture, v8 pipeline, CVE-2023-4069)\n\nhttps://t.co/pS6WgfabP1\n\nCredits @matteomalvic…",
+    "tweettime": "2024-10-04, 22:25:07",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1842330135426654505",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
+        "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html"
+    ],
+    "tweetfavorites": 73,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "0-Click RCE in MediaTek Wi-Fi Chipsets — 4 exploits, 1 bug: exploiting CVE-2024-20017 4 different ways https://t.co/D0PoFJTKOC",
+    "tweettime": "2024-10-04, 15:58:06",
+    "tweeturl": "https://twitter.com/_r_netsec/status/1842232738562379968",
+    "username": "_r_netsec"
+}
+{
+    "expanded_url": [
         "https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481"
     ],
     "tweetfavorites": 772,
@@ -38,6 +757,19 @@
     "username": "cyber_advising"
 }
 {
+    "expanded_url": [
+        "https://github.com/ynwarcs/CVE-2024-38063"
+    ],
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2024-38063: poc for CVE-2024-38063 (RCE in tcpip.sys) #GitHub #CVE-2024-38063 #RCE #tcpip.sys #poc https://t.co/2xibtWRFxC",
+    "tweettime": "2024-10-04, 10:38:07",
+    "tweeturl": "https://twitter.com/reverseame/status/1842152211087774075",
+    "username": "reverseame"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -46,6 +778,19 @@
     "tweettime": "2024-10-04, 06:56:57",
     "tweeturl": "https://twitter.com/cyber_advising/status/1842096555500716105",
     "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/authd-vulnerability-cve-2024-9313-allows-user-impersonation-on-ubuntu-systems/"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 34,
+    "tweettext": "Authd Vulnerability (CVE-2024-9313) Allows User Impersonation on Ubuntu Systems https://t.co/FRS1bo9U4x",
+    "tweettime": "2024-10-04, 03:41:09",
+    "tweeturl": "https://twitter.com/Dinosn/status/1842047280251375822",
+    "username": "Dinosn"
 }
 {
     "expanded_url": [

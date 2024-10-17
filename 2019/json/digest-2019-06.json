@@ -13,6 +13,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/fox-it/cve-2019-1040-scanner"
+    ],
+    "tweetfavorites": 753,
+    "tweetquotes": 9,
+    "tweetreplies": 7,
+    "tweetretweets": 399,
+    "tweettext": "I wrote a small scanner utility to check if systems are vulnerable to CVE-2019-1040, the NTLM Mic vulnerability that allows for Active Directory takeover. Published here: https://t.co/4nbk3h6OCw https://t.co/nsW1QQGZYH",
+    "tweettime": "2019-06-24, 16:24:50",
+    "tweeturl": "https://twitter.com/_dirkjan/status/1143193274561310720",
+    "username": "_dirkjan"
+}
+{
+    "expanded_url": [
         "https://github.com/sophoslabs/CVE-2019-0888/"
     ],
     "tweetfavorites": 86,
