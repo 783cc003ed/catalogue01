@@ -328,11 +328,11 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 94,
+    "tweetfavorites": 85,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 27,
-    "tweettext": "Alleged Microsoft Outlook CVE-2024-21413 RCE Exploit is shared\n\nThe bug not only allows the leaking of the local NTLM information, but it may also allow remote code execution and more as an attack vector. It could also bypass the Office Protected View when it’s used as an attack… https://t.co/AaGqN0dIQl",
+    "tweetretweets": 26,
+    "tweettext": "Alleged Microsoft Outlook CVE-2024-21413 RCE Exploit is shared\n\nThe bug not only allows the leaking of the local NTLM information, but it may also allow remote code execution and more as an attack vector. It could also bypass the Office Protected View when it’s used as an attack https://t.co/AaGqN0dIQl",
     "tweettime": "2024-02-22, 15:00:16",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1760680914479411587",
     "username": "DailyDarkWeb"

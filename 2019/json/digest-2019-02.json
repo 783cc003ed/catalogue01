@@ -111,10 +111,10 @@
     "expanded_url": [
         "http://www.jackson-t.com/lg-driver-lpe.html"
     ],
-    "tweetfavorites": 260,
+    "tweetfavorites": 250,
     "tweetquotes": 3,
     "tweetreplies": 7,
-    "tweetretweets": 136,
+    "tweetretweets": 133,
     "tweettext": "CVE-2019-8372: Local Privilege Elevation in LG Device Manager. This post details a driver-based LPE with an in-depth tutorial on discovery to root and details on two new tools. https://t.co/9jO6FDbeIH https://t.co/HXl3t2srvp",
     "tweettime": "2019-02-18, 04:33:33",
     "tweeturl": "https://twitter.com/Jackson_T/status/1097353402034475009",

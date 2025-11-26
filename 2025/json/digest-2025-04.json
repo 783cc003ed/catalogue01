@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html"
+    ],
+    "tweetfavorites": 94,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 52,
+    "tweettext": "🚨 UPDATE: Active Exploitation Since March\n\nCVE-2025-31324, a new SAP zero-day, was exploited weeks before disclosure.\n\nAttackers could upload files without authentication, hijack full system access, and plant persistent web shells.\n\nRead: https://t.co/uWvH68J5dK\n\n🔍 Check logs. https://t.co/Puum8AYqoR",
+    "tweettime": "2025-04-29, 09:13:06",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1917145104931815445",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/cellebrite-android-zero-day-exploit-poc-released-cve-2024-53104/"
     ],
     "tweetfavorites": 78,
