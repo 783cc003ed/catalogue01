@@ -1147,7 +1147,7 @@
     "expanded_url": [
         "https://jmpeax.dev/CVE-2022-2586-writeup.html"
     ],
-    "tweetfavorites": 220,
+    "tweetfavorites": 221,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 50,
@@ -1225,10 +1225,10 @@
         "https://github.com/CloudCrowSec001/CVE-2024-38077-POC",
         "https://github.com/qi4L/CVE-2024-38077"
     ],
-    "tweetfavorites": 126,
+    "tweetfavorites": 125,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 37,
+    "tweetretweets": 36,
     "tweettext": "CVE-2024-38077 - MadLicense: 0-Click RCE Vulnerability\n\nMitigation: Update Windows Server systems immediately.\n\nDetails: \nhttps://t.co/XihHDQYMk9\n\nhttps://t.co/dSBT9LfOcB\n\nPoC1: https://t.co/l886SBWUvW\n\nPoC2: https://t.co/TE8IutgLwd\n\nPoC authenticity unconfirmed.",
     "tweettime": "2024-08-09, 08:52:00",
     "tweeturl": "https://twitter.com/win3zz/status/1821831786906923350",

@@ -223,6 +223,21 @@
 }
 {
     "expanded_url": [
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=protocol%3D%3D%22mssql%22",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49719"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 8,
+    "tweettext": "🚨Alert🚨 CVE-2025-49719(Zero-day):Microsoft SQL Server Information Disclosure Vulnerability\n📊2.9M Services are found on the https://t.co/ysWb28Crld yearly.\n🔗Hunter Link:https://t.co/mD8Fxp9Ffz\n👇Query\nHUNTER : protocol==\"mssql\"\n📰Refer:https://t.co/AoIcJyjOhU https://t.co/cm71yWFBHF",
+    "tweettime": "2025-07-09, 02:08:15",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1942767728391250153",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
         "https://github.com/win3zz/CVE-2025-5777"
     ],
     "tweetfavorites": 221,

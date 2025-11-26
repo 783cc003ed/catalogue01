@@ -1,18 +1,18 @@
 {
-    "tweetfavorites": 120,
-    "tweetquotes": 0,
+    "tweetfavorites": 126,
+    "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 50,
+    "tweetretweets": 52,
     "tweettext": "🚨🚨Attackers are exploiting the critical WSUS flaw CVE-2025-59287 to gain SYSTEM-level remote code execution and deploy ShadowPad, a modular backdoor linked to Chinese state-sponsored actors. \n\nThey use PowerCat for shell access, then download the payload with tools like https://t.co/4m1P1BRgwB",
     "tweettime": "2025-11-24, 11:20:27",
     "tweeturl": "https://twitter.com/H4ckManac/status/1992916218479534474",
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 388,
+    "tweetfavorites": 412,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 137,
+    "tweetretweets": 148,
     "tweettext": "🚨 Hackers are using a fixed Windows bug (CVE-2025-59287) to spread ShadowPad malware through WSUS servers.\n\nThey used normal Windows tools like curl and certutil to install it — a method seen before in Chinese hacking groups.\n\nSystems patched too late may have already been https://t.co/kbi5AK8XfV",
     "tweettime": "2025-11-24, 07:20:28",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1992855824818176223",
@@ -74,7 +74,7 @@
     "expanded_url": [
         "https://github.com/rapid7/metasploit-framework/pull/20717"
     ],
-    "tweetfavorites": 340,
+    "tweetfavorites": 343,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 68,
@@ -94,7 +94,7 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 556,
+    "tweetfavorites": 555,
     "tweetquotes": 14,
     "tweetreplies": 12,
     "tweetretweets": 165,
@@ -195,7 +195,7 @@
     "expanded_url": [
         "https://ghst.ly/43wTzLx"
     ],
-    "tweetfavorites": 171,
+    "tweetfavorites": 172,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 64,
@@ -529,7 +529,7 @@
     "expanded_url": [
         "https://youtu.be/1Ymnvd1uyzQ"
     ],
-    "tweetfavorites": 271,
+    "tweetfavorites": 270,
     "tweetquotes": 2,
     "tweetreplies": 10,
     "tweetretweets": 42,
@@ -694,7 +694,7 @@
     "username": "FAMASoon"
 }
 {
-    "tweetfavorites": 333,
+    "tweetfavorites": 332,
     "tweetquotes": 5,
     "tweetreplies": 15,
     "tweetretweets": 120,

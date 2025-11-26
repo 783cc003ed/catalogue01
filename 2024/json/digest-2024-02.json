@@ -1055,10 +1055,10 @@
     "expanded_url": [
         "https://youtube.com/johnhammond010"
     ],
-    "tweetfavorites": 96,
+    "tweetfavorites": 80,
     "tweetquotes": 0,
     "tweetreplies": 4,
-    "tweetretweets": 11,
+    "tweetretweets": 10,
     "tweettext": "Showcasing CVE-2023-43208: the NextGen Mirth Connect Pre-Authentication Remote Code Execution exploit! Stepping through Horizon3's writeup, converting their PoC to run against a Windows target, and writing a very simple Sigma rule to detect exploitation! https://t.co/iiIN52HB9y https://t.co/oXllUPQSyY",
     "tweettime": "2024-02-13, 14:04:11",
     "tweeturl": "https://twitter.com/_JohnHammond/status/1757405309532881379",
