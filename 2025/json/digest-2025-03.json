@@ -58,6 +58,19 @@
     "username": "TheHackersNews"
 }
 {
+    "expanded_url": [
+        "https://securityonline.info/critical-flaw-exposes-100000-woocommerce-sites-unauthenticated-file-inclusion-threatens-total-takeover/"
+    ],
+    "tweetfavorites": 187,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 73,
+    "tweettext": "Una vulnerabilidad crítica expone más de 100.000 sitios  con el plugin de WordPress para WooCommerce\n\n➡️ HUSKY – WooCommerce Products Filter Professional - WOOF\n\n⚠️ CVE-2025-1661 permite LFI (Local File Inclusion)\nhttps://t.co/FPb57iq38p https://t.co/mz7LjVSHN0",
+    "tweettime": "2025-03-12, 12:53:14",
+    "tweeturl": "https://twitter.com/elhackernet/status/1899805883686666567",
+    "username": "elhackernet"
+}
+{
     "tweetfavorites": 269,
     "tweetquotes": 7,
     "tweetreplies": 4,

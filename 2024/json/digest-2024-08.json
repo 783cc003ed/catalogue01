@@ -1001,10 +1001,10 @@
     "username": "NikitaTarakanov"
 }
 {
-    "tweetfavorites": 67,
+    "tweetfavorites": 75,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 5,
     "tweettext": "My Windows LPE bug at TyphoonPwn has been fixed, though I don't know why it is credited as Anonymous here.\nCVE-2024-38196 https://t.co/wuqBj8IIhO",
     "tweettime": "2024-08-13, 19:05:18",
     "tweeturl": "https://twitter.com/bienpnn/status/1823435680707760221",
