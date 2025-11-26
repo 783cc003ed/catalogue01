@@ -12,10 +12,23 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 127,
+    "expanded_url": [
+        "https://github.com/garrettfoster13/CVE-2025-59501"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 9,
+    "tweettext": "GitHub - garrettfoster13/CVE-2025-59501: CVE-2025-59501 POC code - https://t.co/BBd0DTNAZ6",
+    "tweettime": "2025-11-24, 14:57:37",
+    "tweeturl": "https://twitter.com/piedpiper1616/status/1992970870755852708",
+    "username": "piedpiper1616"
+}
+{
+    "tweetfavorites": 128,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 52,
+    "tweetretweets": 53,
     "tweettext": "🚨🚨Attackers are exploiting the critical WSUS flaw CVE-2025-59287 to gain SYSTEM-level remote code execution and deploy ShadowPad, a modular backdoor linked to Chinese state-sponsored actors. \n\nThey use PowerCat for shell access, then download the payload with tools like https://t.co/4m1P1BRgwB",
     "tweettime": "2025-11-24, 11:20:27",
     "tweeturl": "https://twitter.com/H4ckManac/status/1992916218479534474",
@@ -198,7 +211,7 @@
     "tweetfavorites": 63,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 28,
+    "tweetretweets": 27,
     "tweettext": "🛡️ We added Google Chromium V8 type confusion vulnerability CVE-2025-13223 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/U7AVLgtbXD",
     "tweettime": "2025-11-19, 18:59:33",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1991219812547043404",

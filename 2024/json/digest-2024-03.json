@@ -58,6 +58,19 @@
     "username": "wallet_guard"
 }
 {
+    "expanded_url": [
+        "https://github.com/notselwyn/cve-2024-1086"
+    ],
+    "tweetfavorites": 267,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 92,
+    "tweettext": "Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.\n\nhttps://t.co/gs9D2PV6Vo",
+    "tweettime": "2024-03-26, 19:45:43",
+    "tweeturl": "https://twitter.com/Dinosn/status/1772711549410386240",
+    "username": "Dinosn"
+}
+{
     "tweetfavorites": 49,
     "tweetquotes": 0,
     "tweetreplies": 1,
