@@ -189,7 +189,7 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 244,
+    "tweetfavorites": 242,
     "tweetquotes": 1,
     "tweetreplies": 6,
     "tweetretweets": 28,
@@ -362,8 +362,8 @@
     "expanded_url": [
         "https://github.com/j00sean/SecBugs/tree/main/CVEs/CVE-2023-27363"
     ],
-    "tweetfavorites": 239,
-    "tweetquotes": 3,
+    "tweetfavorites": 237,
+    "tweetquotes": 4,
     "tweetreplies": 2,
     "tweetretweets": 62,
     "tweettext": "Foxit pdf reader exportxfadata exposed dangerous method remote code execution vulnerability (cve-2023-27363).\n\nhttps://t.co/pYhWW8qGts\n\n#cve #cybersecurity #exploit https://t.co/jWHf34sVQ0",
@@ -441,10 +441,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29344"
     ],
-    "tweetfavorites": 257,
-    "tweetquotes": 6,
-    "tweetreplies": 10,
-    "tweetretweets": 62,
+    "tweetfavorites": 249,
+    "tweetquotes": 5,
+    "tweetreplies": 9,
+    "tweetretweets": 61,
     "tweettext": "Can you imagine Microsoft just assigned one CVE(Microsoft Office Remote Code Execution Vulnerability - CVE-2023-29344) for ~100 vulnerabilities?  Today's Microsoft Tuesday patch fixed ~100 vulnerabilities I found during 3 months  https://t.co/gkOZL5k3Gd\n@msftsecresponse https://t.co/B5nHXg0AgJ",
     "tweettime": "2023-05-09, 19:04:46",
     "tweeturl": "https://twitter.com/K3vinLuSec/status/1656012350380711936",
@@ -490,10 +490,10 @@
     "expanded_url": [
         "https://blog.grimm-co.com/2021/03/new-old-bugs-in-linux-kernel.html"
     ],
-    "tweetfavorites": 200,
+    "tweetfavorites": 189,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 72,
+    "tweetretweets": 69,
     "tweettext": "Analysis and exploitation of a Linux kernel heap buffer overflow in iSCSI data structures (CVE-2021-27365)\n\nhttps://t.co/iktLpbSYcv\n\n#Linux #kernel #exploit #infosec #cybersecurity https://t.co/MeQLnbpCVf",
     "tweettime": "2023-05-07, 07:30:03",
     "tweeturl": "https://twitter.com/0xor0ne/status/1655112744574525440",

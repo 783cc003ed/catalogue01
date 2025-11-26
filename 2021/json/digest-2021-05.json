@@ -270,7 +270,7 @@
     "expanded_url": [
         "https://adepts.of0x.cc/exim-cve-2020-28018/"
     ],
-    "tweetfavorites": 78,
+    "tweetfavorites": 77,
     "tweetquotes": 3,
     "tweetreplies": 0,
     "tweetretweets": 25,
@@ -323,10 +323,10 @@
     "expanded_url": [
         "https://github.com/0vercl0k/CVE-2021-31166"
     ],
-    "tweetfavorites": 1247,
+    "tweetfavorites": 1206,
     "tweetquotes": 28,
-    "tweetreplies": 14,
-    "tweetretweets": 555,
+    "tweetreplies": 11,
+    "tweetretweets": 527,
     "tweettext": "I've built a PoC for CVE-2021-31166 the \"HTTP Protocol Stack Remote Code Execution Vulnerability\":  https://t.co/8mqLCByvCp 🔥🔥 https://t.co/yzgUs2CQO5",
     "tweettime": "2021-05-16, 16:45:20",
     "tweeturl": "https://twitter.com/0vercl0k/status/1393970836302811138",
@@ -396,10 +396,10 @@
     "expanded_url": [
         "https://kas.pr/t4z8"
     ],
-    "tweetfavorites": 135,
+    "tweetfavorites": 130,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 39,
+    "tweetretweets": 37,
     "tweettext": "Tomorrow I will be hosting a workshop on exploit analysis for beginners.\nI will demonstrate how to setup debugging, how to use WinDBG (+how to solve common problems), and we will analyse the latest Windows 0day CVE-2021-28310.\n\n(13/05 - 2:00 PM GMT) https://t.co/SPO8qYbymp https://t.co/yJTSqIM6gR",
     "tweettime": "2021-05-12, 12:27:07",
     "tweeturl": "https://twitter.com/oct0xor/status/1392456302069157889",
@@ -463,10 +463,10 @@
         "https://gist.github.com/testanull/9ebbd6830f7a501e35e67f2fcaa57bda",
         "https://testbnull.medium.com/microsoft-exchange-from-deserialization-to-post-auth-rce-cve-2021-28482-e713001d915f"
     ],
-    "tweetfavorites": 123,
+    "tweetfavorites": 121,
     "tweetquotes": 4,
-    "tweetreplies": 2,
-    "tweetretweets": 74,
+    "tweetreplies": 1,
+    "tweetretweets": 71,
     "tweettext": "Microsoft Exchange Deserialization to Post-Auth RCE (CVE-2021-28482)\n\n#PoC\nhttps://t.co/hzpypNjNyr\n\nhttps://t.co/SnJvOns24Y\n\nhttps://t.co/jKMpbQWOgw https://t.co/iyZBypNlTF",
     "tweettime": "2021-05-11, 02:37:36",
     "tweeturl": "https://twitter.com/wugeej/status/1391945556902121472",

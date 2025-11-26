@@ -12,10 +12,10 @@
     "username": "x0rz"
 }
 {
-    "tweetfavorites": 160,
+    "tweetfavorites": 151,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 103,
+    "tweetretweets": 98,
     "tweettext": "Here the memory disclosure fix in nt!NtTraceControl (CVE-2017-0259)\nfor \"Windows 10\" v1703 released in May (win32k filter bypass !) https://t.co/Veqe5k5gjb",
     "tweettime": "2017-05-25, 19:42:17",
     "tweeturl": "https://twitter.com/NicoEconomou/status/867828183231377408",
@@ -93,10 +93,10 @@
     "expanded_url": [
         "http://thehackernews.com/2017/05/intel-amt-vulnerability.html"
     ],
-    "tweetfavorites": 166,
-    "tweetquotes": 12,
+    "tweetfavorites": 160,
+    "tweetquotes": 11,
     "tweetreplies": 6,
-    "tweetretweets": 235,
+    "tweetretweets": 228,
     "tweettext": "It's Insanely easy — Just an empty Password String is enough to hack PCs remotely using Intel AMT Flaw CVE-2017-5689 https://t.co/52rWIcNQwL",
     "tweettime": "2017-05-05, 20:31:43",
     "tweeturl": "https://twitter.com/TheHackersNews/status/860592866300579840",

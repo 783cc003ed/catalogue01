@@ -45,14 +45,24 @@
     "expanded_url": [
         "https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/"
     ],
-    "tweetfavorites": 115,
+    "tweetfavorites": 156,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 26,
+    "tweetreplies": 2,
+    "tweetretweets": 38,
     "tweettext": "Exploitation of a type confusion vulnerability in v8 (Chrome, CVE-2024-5830)\n\nhttps://t.co/d0ZT5O8vHK\n\nCredits @mmolgtm\n\n#infosec #chrome https://t.co/zzF0IrE3i0",
     "tweettime": "2024-09-30, 15:00:59",
     "tweeturl": "https://twitter.com/0xor0ne/status/1840768810963407275",
     "username": "0xor0ne"
+}
+{
+    "tweetfavorites": 214,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 77,
+    "tweettext": "🤠 A notorious RCE in Zimbra, CVE-2024-45519 – here’s our expert breakdown ⬇️ https://t.co/Otwg0k1hmc",
+    "tweettime": "2024-09-30, 14:17:41",
+    "tweeturl": "https://twitter.com/ptswarm/status/1840757917596717360",
+    "username": "ptswarm"
 }
 {
     "expanded_url": [
@@ -69,10 +79,20 @@
     "username": "Netlas_io"
 }
 {
-    "tweetfavorites": 203,
+    "tweetfavorites": 242,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 71,
+    "tweettext": "Blind file read to RCE in PHP - without access to files, we need to build reliable arbitrary read primitive from the ISO-2022-CN-EXT overflow (CVE-2024-2961) #CNEXT https://t.co/XOiXdF9Nff",
+    "tweettime": "2024-09-30, 07:42:50",
+    "tweeturl": "https://twitter.com/cfreal_/status/1840658547287208319",
+    "username": "cfreal_"
+}
+{
+    "tweetfavorites": 245,
     "tweetquotes": 0,
     "tweetreplies": 4,
-    "tweetretweets": 29,
+    "tweetretweets": 38,
     "tweettext": "CVE-2024-38107 EOP\nALPC CallBack Race UAF\nThe vulnerability was confirmed by Microsoft to be exploited in the wild https://t.co/CO96vsYoAv",
     "tweettime": "2024-09-29, 08:32:06",
     "tweeturl": "https://twitter.com/YanZiShuang/status/1840308559453782108",
@@ -83,10 +103,10 @@
         "https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/",
         "https://cloud.projectdiscovery.io/?template=CVE-2024-47176"
     ],
-    "tweetfavorites": 481,
+    "tweetfavorites": 568,
     "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 104,
+    "tweetretweets": 117,
     "tweettext": "Scan for CVE-2024-47176 (CUPS - Remote Code Execution) with Nuclei\n\nVulnerability discovery and analysis by @evilsocket: https://t.co/dA3I9v6lYq\n\nNuclei Template: https://t.co/lSprZ47Zzg\n\n#hackwithautomation #cybersecurity #bugbounty https://t.co/k9VJsx3mq2",
     "tweettime": "2024-09-29, 01:01:34",
     "tweeturl": "https://twitter.com/pdnuclei/status/1840195177098453308",
@@ -119,7 +139,7 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 63,
+    "tweetfavorites": 71,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 21,
@@ -160,10 +180,10 @@
         "https://github.com/RickdeJager/cupshax",
         "https://github.com/OpenPrinting/cups-browsed/security/advisories/GHSA-rj88-6mr5-rcw8"
     ],
-    "tweetfavorites": 406,
+    "tweetfavorites": 401,
     "tweetquotes": 4,
-    "tweetreplies": 1,
-    "tweetretweets": 159,
+    "tweetreplies": 3,
+    "tweetretweets": 154,
     "tweettext": "🚨Alert🚨CVE-2024-47076/CVE-2024-47175/CVE-2024-47176/CVE-2024-47177: Multiple CUPS flaws enable Linux remote code execution\n🧐Deep Dive from @evilsocket: https://t.co/VtMvldO5cZ\n🔥PoC: https://t.co/5ErQu0j2ix\n🔥PoC: https://t.co/eZnz3xmmiq\n📊 2.9M+ Services are found on https://t.co/3ktNXNChhk",
     "tweettime": "2024-09-27, 03:23:09",
     "tweeturl": "https://twitter.com/HunterMapping/status/1839506035834282464",
@@ -223,6 +243,16 @@
     "username": "ptracesecurity"
 }
 {
+    "tweetfavorites": 588,
+    "tweetquotes": 16,
+    "tweetreplies": 8,
+    "tweetretweets": 182,
+    "tweettext": "⚠️ We've confirmed critical CVE-2024-45519 in Zimbra!\n\nSMTP-based vulnerability in postjournal service allows unauthenticated attackers to inject commands under zimbra user.\n\n✅ Update your software ASAP to avoid exploitation! https://t.co/fD2epVMvqL",
+    "tweettime": "2024-09-24, 15:17:50",
+    "tweeturl": "https://twitter.com/ptswarm/status/1838598724919914663",
+    "username": "ptswarm"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -255,20 +285,6 @@
     "tweettime": "2024-09-23, 13:12:17",
     "tweeturl": "https://twitter.com/momika233/status/1838204744554406369",
     "username": "momika233"
-}
-{
-    "expanded_url": [
-        "http://Netlas.io",
-        "https://nt.ls/LJfRK"
-    ],
-    "tweetfavorites": 32,
-    "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 6,
-    "tweettext": "CVE-2024-8698: Privelege Escalation in Keycloak, 7.7 rating❗️\n\nImproper signature verification allows an attacker to create a document that is only partially signed.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/099ZWcwVdC\n\n#cybersecurity #vulnerability_map #keycloak https://t.co/O5sZOf73Us",
-    "tweettime": "2024-09-23, 10:48:07",
-    "tweeturl": "https://twitter.com/Netlas_io/status/1838168459902939190",
-    "username": "Netlas_io"
 }
 {
     "expanded_url": [
@@ -334,9 +350,7 @@
     "username": "kmkz_security"
 }
 {
-    "expanded_url": [
-        null
-    ],
+    "expanded_url": [],
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -452,6 +466,19 @@
 }
 {
     "expanded_url": [
+        "https://securityonline.info/poc-exploit-released-for-cve-2024-7965-zero-day-chrome-vulnerability/"
+    ],
+    "tweetfavorites": 49,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "PoC Exploit Released for CVE-2024-7965 Zero-Day Chrome Vulnerability https://t.co/i2tRYdjr2z",
+    "tweettime": "2024-09-19, 02:51:21",
+    "tweeturl": "https://twitter.com/Dinosn/status/1836598929682518027",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/researchers-detail-cve-2024-38014-0-day-vulnerability-in-windows-msi-installers-exploited-in-the-wild/"
     ],
     "tweetfavorites": 83,
@@ -462,6 +489,19 @@
     "tweettime": "2024-09-19, 02:47:29",
     "tweeturl": "https://twitter.com/Dinosn/status/1836597956914430312",
     "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/poc-exploit-released-for-cve-2024-7965-zero-day-chrome-vulnerability/"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 5,
+    "tweettext": "#PoC Exploit Released for CVE-2024-7965 Zero-Day #Chrome Vulnerability\n\nFind out about the highly dangerous #0day vulnerability and its exploitation. Learn how to protect your devices from this critical threat\nhttps://t.co/xyEO5NSIeh",
+    "tweettime": "2024-09-19, 01:47:17",
+    "tweeturl": "https://twitter.com/the_yellow_fall/status/1836582807226749131",
+    "username": "the_yellow_fall"
 }
 {
     "expanded_url": [
@@ -626,7 +666,7 @@
     "tweetfavorites": 37,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 7,
+    "tweetretweets": 8,
     "tweettext": "CVE-2024-29847: Deserialization of untrusted data in the agent portal of Ivanti EPM before 2022 SU6, or the 2024 September update allows a remote unauthenticated attacker to achieve remote code execution.\n\nPoC\nhttps://t.co/wOiSzjspbv https://t.co/RAQ2AZBJhj",
     "tweettime": "2024-09-14, 22:29:24",
     "tweeturl": "https://twitter.com/cyber_advising/status/1835083454834254269",
@@ -749,10 +789,10 @@
     "username": "reverseame"
 }
 {
-    "tweetfavorites": 202,
+    "tweetfavorites": 312,
     "tweetquotes": 3,
-    "tweetreplies": 2,
-    "tweetretweets": 71,
+    "tweetreplies": 4,
+    "tweetretweets": 108,
     "tweettext": "🚨 Windows MSI installers can let attackers escalate privileges to SYSTEM! Our latest blog explains these attacks &amp; introduces \"msiscan\" an open-source tool to detect #vulnerabilities like CVE-2024-38014. Learn about the new technique for reliable exploits https://t.co/CLfjGMl148",
     "tweettime": "2024-09-12, 09:57:02",
     "tweeturl": "https://twitter.com/sec_consult/status/1834169340410593519",
@@ -772,9 +812,9 @@
     "expanded_url": [
         "https://forums.ivanti.com/s/article/Security-Advisory-EPM-September-2024-for-EPM-2024-and-EPM-2022?language=en_US"
     ],
-    "tweetfavorites": 141,
+    "tweetfavorites": 147,
     "tweetquotes": 3,
-    "tweetreplies": 4,
+    "tweetreplies": 5,
     "tweetretweets": 55,
     "tweettext": "🔥 CVE-2024-29847 - 10.0 (Critical)\n\nDeserialization of untrusted data in the agent portal of Ivanti EPM allows a remote unauthenticated attacker to achieve remote code execution.\n\n[+] https://t.co/EBSmDcUevh https://t.co/p0cQVtX8Bx",
     "tweettime": "2024-09-11, 18:01:09",
@@ -856,6 +896,19 @@
     "tweettime": "2024-09-10, 13:37:06",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1833499945221148810",
     "username": "piedpiper1616"
+}
+{
+    "expanded_url": [
+        "https://ii4gsp.github.io/cve-2020-27786/"
+    ],
+    "tweetfavorites": 87,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "How to exploit a use-after-free vulnerability due to a race condition in MIDI devices in Linux Kernel 5.6.13 (CVE-2020-27786) : https://t.co/vVTge7nrUJ https://t.co/obekyHh1uT",
+    "tweettime": "2024-09-10, 11:45:30",
+    "tweeturl": "https://twitter.com/binitamshah/status/1833471858831986706",
+    "username": "binitamshah"
 }
 {
     "tweetfavorites": 56,
@@ -1037,10 +1090,10 @@
     "expanded_url": [
         "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
     ],
-    "tweetfavorites": 73,
+    "tweetfavorites": 71,
     "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 19,
+    "tweetreplies": 1,
+    "tweetretweets": 18,
     "tweettext": "Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078 : https://t.co/FoWALEWo6g credits @crowdfense @Void_Sec https://t.co/KbsLeLfPHB",
     "tweettime": "2024-09-06, 19:42:18",
     "tweeturl": "https://twitter.com/binitamshah/status/1832142301600334198",
@@ -1472,9 +1525,7 @@
     "username": "ksg93rd"
 }
 {
-    "expanded_url": [
-        null
-    ],
+    "expanded_url": [],
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -1515,10 +1566,10 @@
         "https://github.com/convisolabs/CVE-2024-43044-jenkins",
         "https://blog.convisoappsec.com/en/analysis-of-cve-2024-43044/"
     ],
-    "tweetfavorites": 165,
-    "tweetquotes": 0,
+    "tweetfavorites": 591,
+    "tweetquotes": 6,
     "tweetreplies": 0,
-    "tweetretweets": 60,
+    "tweetretweets": 189,
     "tweettext": "🤖CVE-2024-43044: Critical Jenkins Vulnerability Exposes Servers to RCE, PoC Exploit Published\n🔥PoC: https://t.co/87CR2g6bUD\n🧐Deep Dive:https://t.co/1aCH9N8wul https://t.co/mxkynjmp1k",
     "tweettime": "2024-09-02, 06:09:46",
     "tweeturl": "https://twitter.com/HunterMapping/status/1830488268502159869",
@@ -1564,10 +1615,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/"
     ],
-    "tweetfavorites": 198,
+    "tweetfavorites": 229,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 41,
+    "tweetreplies": 0,
+    "tweetretweets": 52,
     "tweettext": "Well written blog post on exploiting a Use-after-Free (UaF) in Linux kernel (CVE-2024-0582, io_uring)\n\nhttps://t.co/8eKtsR9t8G\n\nCredits Oriol Castejón (@XI_Research)\n\n#iouring #infosec https://t.co/AyTftwdFRm",
     "tweettime": "2024-09-01, 07:30:01",
     "tweeturl": "https://twitter.com/0xor0ne/status/1830146076742938638",

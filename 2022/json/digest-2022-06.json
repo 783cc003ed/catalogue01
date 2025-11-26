@@ -12,7 +12,7 @@
     "username": "GHSecurityLab"
 }
 {
-    "tweetfavorites": 201,
+    "tweetfavorites": 200,
     "tweetquotes": 4,
     "tweetreplies": 5,
     "tweetretweets": 51,
@@ -48,10 +48,10 @@
     "expanded_url": [
         "https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/"
     ],
-    "tweetfavorites": 805,
-    "tweetquotes": 13,
+    "tweetfavorites": 789,
+    "tweetquotes": 15,
     "tweetreplies": 10,
-    "tweetretweets": 356,
+    "tweetretweets": 344,
     "tweettext": "⚠️ Zimbra Mail pre-auth RCE via Path Traversal bug in unrar (CVE-2022-30333).  This is probably my most impactful bug so far, especially after Zimbra has been the target of a 0day campaign likely conducted by a state actor. More details in this blog post: https://t.co/8v0ujC1Nyl https://t.co/VZQm0NdqnU",
     "tweettime": "2022-06-28, 15:06:05",
     "tweeturl": "https://twitter.com/scannell_simon/status/1541800107909185537",
@@ -139,10 +139,10 @@
     "expanded_url": [
         "https://github.com/omair2084/CVE-2022-26937"
     ],
-    "tweetfavorites": 451,
+    "tweetfavorites": 438,
     "tweetquotes": 6,
     "tweetreplies": 3,
-    "tweetretweets": 162,
+    "tweetretweets": 159,
     "tweettext": "From what was available online, a rough PoC for Windows NFS vulnerability (CVE-2022-26937). https://t.co/tk43aHWHpa https://t.co/KR1yibxLx7",
     "tweettime": "2022-06-17, 01:52:53",
     "tweeturl": "https://twitter.com/w3bd3vil/status/1537614224595501056",
@@ -315,10 +315,10 @@
     "expanded_url": [
         "https://github.com/tr3ee/CVE-2022-23222"
     ],
-    "tweetfavorites": 538,
-    "tweetquotes": 5,
+    "tweetfavorites": 514,
+    "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 189,
+    "tweetretweets": 176,
     "tweettext": "CVE-2022-23222: Linux kernel through 5.15.14 allows local users to gain privileges because of the availability of pointer arithmetic via certain *_OR_NULL pointer types.\n\nPoC\nhttps://t.co/zFAfB0UXg3 https://t.co/lBT5BLTO6w",
     "tweettime": "2022-06-12, 07:47:27",
     "tweeturl": "https://twitter.com/cyber_advising/status/1535891514387218432",
@@ -613,10 +613,10 @@
     "expanded_url": [
         "https://github.com/vulhub/vulhub/tree/master/confluence/CVE-2022-26134"
     ],
-    "tweetfavorites": 562,
+    "tweetfavorites": 536,
     "tweetquotes": 8,
     "tweetreplies": 2,
-    "tweetretweets": 200,
+    "tweetretweets": 186,
     "tweettext": "Very simple POC for Atlassian Confluence Pre-Auth OGNL Injection &amp;&amp; RCE (CVE-2022-26134)\nSetup a pre-built environment to test it in 5 seconds: https://t.co/oH6GJ1mel1\nWhy 5 minutes not 10 seconds? Because you should apply a trial license from Atlassian😂#vulhub https://t.co/CS1EVOHbKg",
     "tweettime": "2022-06-04, 00:50:44",
     "tweeturl": "https://twitter.com/phithon_xg/status/1532887542722269184",

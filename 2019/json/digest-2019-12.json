@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://github.com/rapid7/metasploit-framework/pull/12433"
     ],
-    "tweetfavorites": 634,
-    "tweetquotes": 30,
-    "tweetreplies": 11,
-    "tweetretweets": 261,
+    "tweetfavorites": 558,
+    "tweetquotes": 26,
+    "tweetreplies": 8,
+    "tweetretweets": 235,
     "tweettext": "Blue teamers you can target #metasploit with this exploit... #metasploit dropped yesterday ;)\nNo RCE but a DoS: red teamers will lost their sessions, don't get new ones and will have to restart MSF.\nCVE-2019-5645\nhttps://t.co/zH8D4GCTYU https://t.co/zmG1jmYsaF",
     "tweettime": "2019-12-27, 15:50:24",
     "tweeturl": "https://twitter.com/ddouhine/status/1210588750008463360",
@@ -144,10 +144,10 @@
         "https://securelist.com/chrome-0-day-exploit-cve-2019-13720-used-in-operation-wizardopium/94866/",
         "https://securelist.com/windows-0-day-exploit-cve-2019-1458-used-in-operation-wizardopium/95432/"
     ],
-    "tweetfavorites": 161,
+    "tweetfavorites": 155,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 103,
+    "tweetretweets": 100,
     "tweettext": "#APT #Darkhotel #0day #WizardOpium\nChrome RCE to windows Privilege Escalation\n\nFirst\nChrome 0-day exploit CVE-2019-13720 used in Operation WizardOpium\nhttps://t.co/WmUj2BkieG\nThen\nWindows 0-day exploit CVE-2019-1458 used in Operation WizardOpium(Windows 7)\nhttps://t.co/Gqkmmn9Ujc https://t.co/VUwL14hPNf",
     "tweettime": "2019-12-11, 02:14:31",
     "tweeturl": "https://twitter.com/blackorbird/status/1204585220529258496",
@@ -183,10 +183,10 @@
     "expanded_url": [
         "https://github.com/0vercl0k/CVE-2019-11708"
     ],
-    "tweetfavorites": 958,
+    "tweetfavorites": 943,
     "tweetquotes": 7,
     "tweetreplies": 7,
-    "tweetretweets": 446,
+    "tweetretweets": 430,
     "tweettext": "Here is an exploit chain I wrote for Firefox that gets RCE via CVE-2019-9810 and escape the sandbox with CVE-2019-11708/CVE-2019-9810. Once compromised, it drops a payload and injects privileged JS code in already/newly created tabs. https://t.co/ZmUxjBBhpC https://t.co/LeAOCgqpMG",
     "tweettime": "2019-12-06, 14:18:38",
     "tweeturl": "https://twitter.com/0vercl0k/status/1202955509738934272",

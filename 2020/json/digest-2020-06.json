@@ -117,6 +117,19 @@
 }
 {
     "expanded_url": [
+        "https://itm4n.github.io/cve-2020-1170-windows-defender-eop/"
+    ],
+    "tweetfavorites": 837,
+    "tweetquotes": 5,
+    "tweetreplies": 12,
+    "tweetretweets": 407,
+    "tweettext": "And here is my latest Windows 10 EoP writeup! 🥳\n\nCVE-2020-1170 | 🛡️ Microsoft Windows Defender Elevation of Privilege Vulnerability\n\n👉https://t.co/QBxosbSyVx https://t.co/dbZnkRoxY7",
+    "tweettime": "2020-06-21, 09:20:23",
+    "tweeturl": "https://twitter.com/itm4n/status/1274633253216026624",
+    "username": "itm4n"
+}
+{
+    "expanded_url": [
         "https://labs.sentinelone.com/click-from-the-backyard-cve-2020-9332/"
     ],
     "tweetfavorites": 38,
@@ -353,10 +366,10 @@
     "expanded_url": [
         "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1301"
     ],
-    "tweetfavorites": 678,
-    "tweetquotes": 23,
-    "tweetreplies": 11,
-    "tweetretweets": 372,
+    "tweetfavorites": 616,
+    "tweetquotes": 20,
+    "tweetreplies": 9,
+    "tweetretweets": 323,
     "tweettext": "CVE-2020-1301 | Windows SMB Remote Code Execution Vulnerability\n\n- all Windows versions affected\n\nhttps://t.co/dNZfQrSgPv https://t.co/0hWG6m8EqU",
     "tweettime": "2020-06-09, 21:03:36",
     "tweeturl": "https://twitter.com/cyb3rops/status/1270461568900358144",
@@ -393,7 +406,7 @@
         "https://github.com/chompie1337/SMBGhost_RCE_PoC",
         "https://www.bleepingcomputer.com/news/security/windows-10-smbghost-bug-gets-public-proof-of-concept-rce-exploit/"
     ],
-    "tweetfavorites": 67,
+    "tweetfavorites": 68,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 12,

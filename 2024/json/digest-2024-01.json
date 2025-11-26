@@ -422,10 +422,10 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 514,
-    "tweetquotes": 1,
-    "tweetreplies": 12,
-    "tweetretweets": 78,
+    "tweetfavorites": 507,
+    "tweetquotes": 2,
+    "tweetreplies": 8,
+    "tweetretweets": 83,
     "tweettext": "Jenkins CVE-2024-23897 Arbitrary file read vulnerability through the CLI can lead to RCE \n\nPOC \n\n#BugBounty  #vulnerabilities #rce https://t.co/Lxf8TI5Oug",
     "tweettime": "2024-01-25, 19:04:57",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1750595628797989287",
@@ -448,10 +448,10 @@
     "expanded_url": [
         "https://github.com/RomanRybachek/CVE-2024-20698"
     ],
-    "tweetfavorites": 166,
+    "tweetfavorites": 165,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 52,
+    "tweetretweets": 53,
     "tweettext": "CVE-2024-20698:  Windows Kernel Elevation of Privilege Vulnerability.\n\nPoC\nhttps://t.co/CzMtWKoyRu https://t.co/Y9lB57bqOF",
     "tweettime": "2024-01-25, 13:30:54",
     "tweeturl": "https://twitter.com/cyber_advising/status/1750511565457986024",
@@ -819,10 +819,10 @@
     "expanded_url": [
         "https://securityonline.info/experts-reveal-details-and-poc-on-chrome-cve-2024-0517-rce-flaw/"
     ],
-    "tweetfavorites": 140,
+    "tweetfavorites": 137,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 44,
+    "tweetretweets": 41,
     "tweettext": "Experts Reveal Details and PoC on Chrome CVE-2024-0517 RCE Flaw https://t.co/M5UWxHlpum",
     "tweettime": "2024-01-22, 06:35:28",
     "tweeturl": "https://twitter.com/Dinosn/status/1749319854904021392",
@@ -842,7 +842,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 225,
+    "tweetfavorites": 226,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 27,
@@ -855,10 +855,10 @@
     "expanded_url": [
         "http://Hunter.how"
     ],
-    "tweetfavorites": 541,
-    "tweetquotes": 4,
+    "tweetfavorites": 526,
+    "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 221,
+    "tweetretweets": 213,
     "tweettext": "🚨Alert🚨New Outlook Exploit Unveiled: CVE-2023-35636 Leads to NTLM v2 Password Breach\n⚠️This exploit enables attackers to intercept NTLM v2 hashes, which are used for authentication in Microsoft Windows systems. \n📊910k+ Services are found on the https://t.co/WrjZaG0jRH https://t.co/HWs30NJUah",
     "tweettime": "2024-01-22, 02:45:36",
     "tweeturl": "https://twitter.com/HunterMapping/status/1749262005310300311",
@@ -914,10 +914,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/"
     ],
-    "tweetfavorites": 320,
-    "tweetquotes": 2,
+    "tweetfavorites": 310,
+    "tweetquotes": 1,
     "tweetreplies": 5,
-    "tweetretweets": 99,
+    "tweetretweets": 98,
     "tweettext": "CVE-2024-0517: Google Chrome V8 Out-of-Bounds Write Code Execution\n\nPoC\nhttps://t.co/hEpegMkuay https://t.co/3NHjadUVog",
     "tweettime": "2024-01-20, 11:28:07",
     "tweeturl": "https://twitter.com/cyber_advising/status/1748668725887144410",
@@ -1003,10 +1003,10 @@
     "username": "BleepinComputer"
 }
 {
-    "tweetfavorites": 332,
+    "tweetfavorites": 331,
     "tweetquotes": 1,
     "tweetreplies": 5,
-    "tweetretweets": 93,
+    "tweetretweets": 92,
     "tweettext": "💥 We have reproduced CVE-2023-22527 in Atlassian Confluence.\n\nA template injection vulnerability allows an unauthenticated attacker to achieve RCE on an affected instance.\n\nUpdate your software ASAP! https://t.co/O0VsYui97B",
     "tweettime": "2024-01-19, 13:07:39",
     "tweeturl": "https://twitter.com/ptswarm/status/1748331385968795882",
@@ -1026,7 +1026,7 @@
     "username": "kmkz_security"
 }
 {
-    "tweetfavorites": 273,
+    "tweetfavorites": 269,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 72,
@@ -1233,10 +1233,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 311,
+    "tweetfavorites": 267,
     "tweetquotes": 24,
-    "tweetreplies": 22,
-    "tweetretweets": 153,
+    "tweetreplies": 21,
+    "tweetretweets": 140,
     "tweettext": "🚨 CHROME ZERO-DAY: CVE-2024-0519\n\nThe first Chrome zero-day exploit of 2024.\n\nUpdate your Chrome browsers (Brave, Opera, Edge, etc.) now! Google has released emergency updates to address this vulnerability.\n\nShare &amp; stay safe! 🫡 More information &amp; steps below ⬇️ https://t.co/LxnOMYe5oO",
     "tweettime": "2024-01-17, 02:49:45",
     "tweeturl": "https://twitter.com/wallet_guard/status/1747451110594347467",
@@ -1259,7 +1259,7 @@
     "tweetfavorites": 360,
     "tweetquotes": 16,
     "tweetreplies": 3,
-    "tweetretweets": 212,
+    "tweetretweets": 211,
     "tweettext": "🔥 Chrome Zero-Day Alert!\n\nUpdate your browser NOW to patch a new critical flaw exploited by hackers. This memory leak bug lets attackers steal your secrets.\n\nLearn more about CVE-2024-0519: https://t.co/tlplEnSeYD\n\n#cybersecurity #informationsecurity",
     "tweettime": "2024-01-17, 02:25:02",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1747444890425024787",
@@ -1269,10 +1269,10 @@
     "expanded_url": [
         "https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html"
     ],
-    "tweetfavorites": 296,
+    "tweetfavorites": 291,
     "tweetquotes": 3,
     "tweetreplies": 5,
-    "tweetretweets": 122,
+    "tweetretweets": 116,
     "tweettext": "Write up of the HVCI bypass vuln (CVE-2024-21305) with @aall86 !\nhttps://t.co/dJiiEpvPh3 https://t.co/pbMjmuX6iG",
     "tweettime": "2024-01-17, 01:35:53",
     "tweeturl": "https://twitter.com/standa_t/status/1747432523444191347",
@@ -1282,7 +1282,7 @@
     "expanded_url": [
         "https://github.com/Nassim-Asrir/ZDI-24-020/"
     ],
-    "tweetfavorites": 343,
+    "tweetfavorites": 344,
     "tweetquotes": 3,
     "tweetreplies": 6,
     "tweetretweets": 100,
@@ -1713,10 +1713,10 @@
     "expanded_url": [
         "https://www.mdsec.co.uk/2024/01/cve-2024-20656-local-privilege-escalation-in-vsstandardcollectorservice150-service/"
     ],
-    "tweetfavorites": 350,
+    "tweetfavorites": 341,
     "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 118,
+    "tweetretweets": 115,
     "tweettext": "Exploiting CVE-2024-20656, a Local Privilege Escalation in the VSStandardCollectorService150 Service https://t.co/zCj3o31RPn - new research from @filip_dragovic https://t.co/xfGL6eGLhi",
     "tweettime": "2024-01-12, 14:54:11",
     "tweeturl": "https://twitter.com/MDSecLabs/status/1745821479965446521",
@@ -2009,7 +2009,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 116,
+    "tweetretweets": 117,
     "tweettext": "RT @DebugPrivilege: Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a…",
     "tweettime": "2024-01-10, 14:00:08",
     "tweeturl": "https://twitter.com/testanull/status/1745083104161648746",
@@ -2029,10 +2029,10 @@
     "expanded_url": [
         "https://github.com/DebugPrivilege/InsightEngineering/tree/main/Debugging%20Case%20Studies/Debug%20Case%20Study%3A%20SharePoint%20Pre-Auth%20Code%20Injection%20RCE%20chain%20CVE-2023-29357%20%26%20CVE-2023-24955"
     ],
-    "tweetfavorites": 308,
+    "tweetfavorites": 290,
     "tweetquotes": 1,
-    "tweetreplies": 5,
-    "tweetretweets": 120,
+    "tweetreplies": 6,
+    "tweetretweets": 112,
     "tweettext": "Did a write-up about analyzing 'SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 &amp; CVE-2023-24955' through a memory dump of the w3wp.exe process. I cover different debugging techniques that can be applied to other w3wp.exe dumps as well. https://t.co/9EYBfr4opF https://t.co/X2NMluwQsL",
     "tweettime": "2024-01-10, 13:30:52",
     "tweeturl": "https://twitter.com/DebugPrivilege/status/1745075738783453604",
@@ -2091,10 +2091,10 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 218,
+    "tweetfavorites": 217,
     "tweetquotes": 6,
     "tweetreplies": 1,
-    "tweetretweets": 77,
+    "tweetretweets": 76,
     "tweettext": "Akamai researcher Ben Barnea found a remote code execution vulnerability in the MSHTML platform (CVE-2023-35628) that can be targeted at Microsoft Outlook. We will share more technical details about this vulnerability in the upcoming weeks, so stay tuned.",
     "tweettime": "2024-01-09, 22:35:10",
     "tweeturl": "https://twitter.com/akamai_research/status/1744850325977075828",
@@ -2353,10 +2353,10 @@
     "expanded_url": [
         "https://securityonline.info/cve-2023-32434-exploited-poc-unlocks-full-command-of-ios-devices/"
     ],
-    "tweetfavorites": 93,
+    "tweetfavorites": 86,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 41,
+    "tweetretweets": 39,
     "tweettext": "CVE-2023-32434 Exploited: PoC Unlocks Full Command of iOS Devices\nProof-of-concept (PoC) code has been released for a zero-day iOS vulnerability (CVE-2023-32434) that can be chained to take full control of a mobile device\nhttps://t.co/zNPOWz17tE https://t.co/GkynlvAo78",
     "tweettime": "2024-01-02, 15:01:20",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1742199402851106870",

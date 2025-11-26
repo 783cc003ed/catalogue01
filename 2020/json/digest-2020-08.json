@@ -149,10 +149,10 @@
     "username": "hackyzh"
 }
 {
-    "tweetfavorites": 287,
+    "tweetfavorites": 269,
     "tweetquotes": 6,
-    "tweetreplies": 12,
-    "tweetretweets": 108,
+    "tweetreplies": 10,
+    "tweetretweets": 105,
     "tweettext": "#DNS #WindowsServer #CVE #EXPLOIT\nDNS 漏洞 CVE-2020-1350 EXPLOIT 新鲜出炉 确定可以导致蠕虫\n\n关于DNS的研究报告在近期可能会分享\n\n堆风水-&gt;堆喷射-&gt;相关数据结构设置-&gt;(利用堆上数据结构任意地址写||信息泄露)-&gt;覆写全局函数指针-&gt;ShellCode 执行 https://t.co/VNfv2CYyrk",
     "tweettime": "2020-08-21, 05:22:20",
     "tweeturl": "https://twitter.com/YanZiShuang/status/1296679004343164928",
@@ -226,7 +226,7 @@
     "expanded_url": [
         "https://github.com/klinix5/Windows-Setup-EoP"
     ],
-    "tweetfavorites": 137,
+    "tweetfavorites": 136,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 80,
@@ -289,17 +289,17 @@
         "https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html",
         "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1530"
     ],
-    "tweetfavorites": 197,
+    "tweetfavorites": 163,
     "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 117,
+    "tweetretweets": 101,
     "tweettext": "Here are technical details for a new Windows Remote Access elevation of privilege #vulnerability (CVE-2020-1530) for which #Microsoft released a security patch yesterday.\n\nhttps://t.co/QaL3a1DbzC\n\nAdvisory: https://t.co/Nsc5X1cc5m\n\n#PatchTuesday https://t.co/QTQajyZluF",
     "tweettime": "2020-08-12, 18:03:46",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1293609136605675520",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 224,
+    "tweetfavorites": 223,
     "tweetquotes": 6,
     "tweetreplies": 1,
     "tweetretweets": 87,

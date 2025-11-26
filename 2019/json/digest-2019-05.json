@@ -104,10 +104,10 @@
     "username": "GreyNoiseIO"
 }
 {
-    "tweetfavorites": 227,
+    "tweetfavorites": 222,
     "tweetquotes": 1,
     "tweetreplies": 4,
-    "tweetretweets": 109,
+    "tweetretweets": 105,
     "tweettext": "Confirming SandboxEscaper's latest AppXSvc LPE (aka CVE-2019-0841-BYPASS) is indeed a 0day and works up to the latest 1903 build (but no collector abuse anymore 😢) . Weaponised demo on 1809.. https://t.co/ygLFJJJD2K",
     "tweettime": "2019-05-23, 17:12:29",
     "tweeturl": "https://twitter.com/buffaloverflow/status/1131608851369926658",
@@ -160,10 +160,10 @@
     "username": "zerosum0x0"
 }
 {
-    "tweetfavorites": 306,
+    "tweetfavorites": 300,
     "tweetquotes": 13,
-    "tweetreplies": 3,
-    "tweetretweets": 155,
+    "tweetreplies": 2,
+    "tweetretweets": 147,
     "tweettext": "We analyzed the vulnerability CVE-2019-0708 and can confirm that it is exploitable. \nWe have therefore developed detection strategies for attempts to exploit it and would now like to share those with trusted industry parties. \nPlease contact: nomoreworm@kaspersky.com https://t.co/pEzuEzok0d",
     "tweettime": "2019-05-20, 18:04:19",
     "tweeturl": "https://twitter.com/oct0xor/status/1130534732863803400",
@@ -186,10 +186,10 @@
     "expanded_url": [
         "https://cxsecurity.com/issue/WLB-2019050199"
     ],
-    "tweetfavorites": 36,
+    "tweetfavorites": 35,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 25,
+    "tweetretweets": 24,
     "tweettext": "[PoC] Horde Webmail - XSS + CSRF to SQLi, RCE, Stealing Emails &lt;= v5.2.22\n\nCVE-2019-12094\nCVE-2019-12095\n\nhttps://t.co/Gp4FgGvJKa https://t.co/bTNPZL21xs",
     "tweettime": "2019-05-20, 00:25:16",
     "tweeturl": "https://twitter.com/wugeej/status/1130268214913462272",
@@ -223,6 +223,16 @@
     "username": "seebug_team"
 }
 {
+    "tweetfavorites": 338,
+    "tweetquotes": 6,
+    "tweetreplies": 19,
+    "tweetretweets": 63,
+    "tweettext": "When I reported CVE-2019-8605 I could only repro it on macOS with root user. I've found a way to reach it from the app sandbox on iOS. Don't update to 12.3 needlessly while I continue to investigate!",
+    "tweettime": "2019-05-16, 17:26:46",
+    "tweeturl": "https://twitter.com/NedWilliamson/status/1129075730564829184",
+    "username": "NedWilliamson"
+}
+{
     "tweetfavorites": 32,
     "tweetquotes": 1,
     "tweetreplies": 0,
@@ -233,13 +243,23 @@
     "username": "su13ym4n"
 }
 {
+    "tweetfavorites": 1863,
+    "tweetquotes": 99,
+    "tweetreplies": 37,
+    "tweetretweets": 1232,
+    "tweettext": "We've confirmed exploitability of Windows Pre-Auth RDP bug (CVE-2019-0708) patched yesterday by Microsoft. Exploit works remotely, without authentication, and provides SYSTEM privileges on Windows Srv 2008, Win 7, Win 2003, XP. Enabling NLA mitigates the bug. Patch now or GFY!",
+    "tweettime": "2019-05-15, 17:25:16",
+    "tweeturl": "https://twitter.com/cBekrar/status/1128712967845961728",
+    "username": "cBekrar"
+}
+{
     "expanded_url": [
         "https://www.nccgroup.trust/uk/our-research/technical-advisory-intel-driver-support-and-assistance-local-privilege-escalation/"
     ],
-    "tweetfavorites": 202,
+    "tweetfavorites": 193,
     "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 113,
+    "tweetretweets": 102,
     "tweettext": "Here is the advisory for CVE-2019-11114, a Local Privilege Escalation vulnerability I found in Intel DSA. If you have an Intel based machine, double check if it's installed and update if required 👍\n\nhttps://t.co/Hgrci4roDC https://t.co/Xi5vmS0UP3",
     "tweettime": "2019-05-15, 14:04:14",
     "tweeturl": "https://twitter.com/buffaloverflow/status/1128662377111617538",
@@ -282,10 +302,10 @@
     "expanded_url": [
         "https://rce4fun.blogspot.com/2019/05/panda-antivirus-local-privilege.html"
     ],
-    "tweetfavorites": 260,
+    "tweetfavorites": 255,
     "tweetquotes": 3,
     "tweetreplies": 6,
-    "tweetretweets": 111,
+    "tweetretweets": 108,
     "tweettext": "Panda Antivirus - Local Privilege Escalation (CVE-2019-12042)\n https://t.co/QgsiufyWtJ https://t.co/t3he7xkNI4",
     "tweettime": "2019-05-14, 20:26:17",
     "tweeturl": "https://twitter.com/Dark_Puzzle/status/1128396134509105152",

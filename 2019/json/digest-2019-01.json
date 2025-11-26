@@ -12,10 +12,10 @@
     "expanded_url": [
         "https://bugs.chromium.org/p/chromium/issues/detail?id=889459"
     ],
-    "tweetfavorites": 166,
+    "tweetfavorites": 160,
     "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 95,
+    "tweetretweets": 92,
     "tweettext": "[PoC] [CVE-2018-18354] Chrome remote code execution attack chain\n\nIgnore Sandbox , Ignore Applock , Ignore download restriction \ncombined 3 bugs into logical vulnerability attack chain\n\nhttps://t.co/IUWnx1mgZM https://t.co/M72aT42a5J",
     "tweettime": "2019-01-28, 23:28:17",
     "tweeturl": "https://twitter.com/wugeej/status/1090028823280644096",
@@ -62,10 +62,10 @@
     "username": "RedDrip7"
 }
 {
-    "tweetfavorites": 326,
-    "tweetquotes": 2,
+    "tweetfavorites": 315,
+    "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 141,
+    "tweetretweets": 131,
     "tweettext": "Why path traversal vulnerabilities often \"work\" better on Windows. E.g. CVE-2018-1999002 (An arbitrary file read vulnerability in Jenkins/Stapler discovered by @orange_8361) https://t.co/lr5XgJDk7j",
     "tweettime": "2019-01-18, 13:11:25",
     "tweeturl": "https://twitter.com/ulldma/status/1086249703497453568",

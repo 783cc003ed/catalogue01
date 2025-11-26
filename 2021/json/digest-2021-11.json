@@ -146,10 +146,10 @@
     "username": "r00t_nasser"
 }
 {
-    "tweetfavorites": 390,
+    "tweetfavorites": 371,
     "tweetquotes": 12,
-    "tweetreplies": 9,
-    "tweetretweets": 149,
+    "tweetreplies": 8,
+    "tweetretweets": 146,
     "tweettext": "You can detect the exploitation of Windows InstallerFileTakeOver LPE CVE-2021-41379 with the published PoC with events from the 'Application' Eventlog\n\nSearch for EventID 1033 and the keyword 'test pkg' https://t.co/ypqqfKTROK",
     "tweettime": "2021-11-22, 09:16:56",
     "tweeturl": "https://twitter.com/cyb3rops/status/1462711685484101634",
@@ -313,10 +313,10 @@
         "https://github.com/httpvoid/CVE-Reverse/tree/master/CVE-2021-41349",
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-41349"
     ],
-    "tweetfavorites": 428,
+    "tweetfavorites": 416,
     "tweetquotes": 2,
-    "tweetreplies": 10,
-    "tweetretweets": 91,
+    "tweetreplies": 14,
+    "tweetretweets": 92,
     "tweettext": "We've been assigned with CVE-2021-41349 for pre-auth Reflected XSS in MS Exchange. Found this with @iamnoooob months back while playing with Proxyshell lol.\n\nhttps://t.co/jLdPSGyEAs\n\nhttps://t.co/6D5nzfHOMZ https://t.co/rIUGq0lheX",
     "tweettime": "2021-11-12, 18:09:47",
     "tweeturl": "https://twitter.com/rootxharsh/status/1459221904108097537",
@@ -521,6 +521,19 @@
     "tweettime": "2021-11-05, 04:56:00",
     "tweeturl": "https://twitter.com/campuscodi/status/1456485425405521921",
     "username": "campuscodi"
+}
+{
+    "expanded_url": [
+        "https://github.com/maldiohead/TFC-Chrome-v8-bug-CVE-2021-38001-poc"
+    ],
+    "tweetfavorites": 291,
+    "tweetquotes": 3,
+    "tweetreplies": 12,
+    "tweetretweets": 94,
+    "tweettext": "Here is the #TianfuCup 2021 chrome v8 bug CVE-2021-38001 poc write by myself , Enjoy it :)\nhttps://t.co/Hjapc3wOJY",
+    "tweettime": "2021-11-05, 03:15:17",
+    "tweeturl": "https://twitter.com/ma1fan/status/1456460081793544206",
+    "username": "ma1fan"
 }
 {
     "expanded_url": [

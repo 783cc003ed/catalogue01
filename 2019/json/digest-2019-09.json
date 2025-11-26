@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://thehackernews.com/2019/09/exim-email-security-vulnerability.html"
     ],
-    "tweetfavorites": 160,
+    "tweetfavorites": 152,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 143,
+    "tweetretweets": 137,
     "tweettext": "👉 CVE-2019-16928\n\nNew Critical Exim #Vulnerability Exposes Email Servers to Remote Attacks, Potentially Leading to Remote Code Execution (RCE).\n\nDetails ➤ https://t.co/wVXyPhAs12\n\nExim Version 4.92.3 Released With Patches. Update Now!\n\n—by @Swati_THN https://t.co/SLAFt8E6VV",
     "tweettime": "2019-09-30, 12:24:29",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1178646798493073408",
@@ -38,10 +38,10 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 47,
+    "tweetfavorites": 43,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 27,
+    "tweetretweets": 28,
     "tweettext": "مايكرسوفت  تصدر ترقيع لثغرتين حرجة إحداهم في المتصفح والأخرى في برنامج الحماية من مايكرسوفت CVE-2019-1367 — a critical IE zero-day under active attack.\nCVE-2019-1255 — DoS flaw in Microsoft Defender.\nالحل قم بتحديث الأمني في اسرع وقت https://t.co/TYUCBvRsq2",
     "tweettime": "2019-09-24, 16:03:31",
     "tweeturl": "https://twitter.com/MAlajab/status/1176527593304182784",
@@ -51,10 +51,10 @@
     "expanded_url": [
         "https://thehackernews.com/2019/09/windows-update-zero-day.html"
     ],
-    "tweetfavorites": 196,
+    "tweetfavorites": 190,
     "tweetquotes": 9,
     "tweetreplies": 2,
-    "tweetretweets": 203,
+    "tweetretweets": 190,
     "tweettext": "It's not a Patch Tuesday, but #Microsoft is rolling out emergency out-of-band security patches for two new vulnerabilities:\n\n➡️ CVE-2019-1367 — a critical IE zero-day under active attack.\n➡️ CVE-2019-1255 — DoS flaw in Microsoft Defender.\n\nRead details: https://t.co/oLonGzrR1O https://t.co/uxthA4IOaM",
     "tweettime": "2019-09-24, 07:51:09",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1176403685879902210",
@@ -79,10 +79,10 @@
         "https://jira.atlassian.com/issues/?filter=13085",
         "https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf"
     ],
-    "tweetfavorites": 654,
-    "tweetquotes": 6,
+    "tweetfavorites": 632,
+    "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 342,
+    "tweetretweets": 333,
     "tweettext": "CVE-2019-8451 Unauthorized SSRF via REST API /plugins/servlet/gadgets/makeRequest \n\nuse @ to bypass the whitelisting !\n\nhttps://t.co/aEJ2v7MACf\n\n👇 reading resources @orange_8361 \nhttps://t.co/9DBKCpRcQl https://t.co/QbKmyKYAMR",
     "tweettime": "2019-09-23, 16:06:32",
     "tweeturl": "https://twitter.com/chybeta/status/1176165964196376576",
@@ -118,7 +118,7 @@
     "expanded_url": [
         "https://link.medium.com/37fKrP5Pc0"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 39,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 8,
@@ -167,7 +167,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 680,
+    "tweetfavorites": 681,
     "tweetquotes": 17,
     "tweetreplies": 15,
     "tweetretweets": 307,
@@ -258,10 +258,10 @@
     "expanded_url": [
         "https://thehackernews.com/2019/09/exim-email-server-vulnerability.html"
     ],
-    "tweetfavorites": 162,
+    "tweetfavorites": 153,
     "tweetquotes": 7,
     "tweetreplies": 0,
-    "tweetretweets": 165,
+    "tweetretweets": 154,
     "tweettext": "🔥 Heads Up!\n\nA new Exim TLS #vulnerability (CVE-2019-15846) opens at least over half-a-million email ✉ servers to remote \"root\" code execution attacks.\n\nRead details ➤ https://t.co/8pTF3SF018\n\nExim project releases version 4.92.2 to patch the issue.\n\n#infosec #cybersecurity https://t.co/OEwD3D3UQT",
     "tweettime": "2019-09-06, 12:56:40",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1169957590140256257",

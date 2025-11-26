@@ -216,10 +216,10 @@
         "https://blog.google/threat-analysis-group/countering-threats-north-korea/",
         "https://www.virustotal.com/gui/file/03a41d29e3c9763093aca13f1cc8bcc41b201a6839c381aaaccf891204335685"
     ],
-    "tweetfavorites": 112,
+    "tweetfavorites": 110,
     "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 54,
+    "tweetretweets": 55,
     "tweettext": "Lazarus #APT groups exploiting a remote code execution vulnerability in Chrome:CVE-2022-0609. \n#DreamJob #AppleJeus \nReport:\nhttps://t.co/btxLtB9o21\nExploit:\nhttps://t.co/VD4ghF3OY8 https://t.co/8VmJORCXLm",
     "tweettime": "2022-03-24, 17:03:10",
     "tweeturl": "https://twitter.com/blackorbird/status/1507040337097027584",
@@ -321,7 +321,7 @@
     "expanded_url": [
         "https://github.com/0vercl0k/CVE-2022-21971"
     ],
-    "tweetfavorites": 152,
+    "tweetfavorites": 151,
     "tweetquotes": 3,
     "tweetreplies": 1,
     "tweetretweets": 74,
@@ -334,10 +334,10 @@
     "expanded_url": [
         "https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/"
     ],
-    "tweetfavorites": 273,
+    "tweetfavorites": 259,
     "tweetquotes": 3,
-    "tweetreplies": 3,
-    "tweetretweets": 125,
+    "tweetreplies": 2,
+    "tweetretweets": 123,
     "tweettext": "Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit \n\n#infosec #pentest #redteam\n\nhttps://t.co/xx3a70mHaH https://t.co/KCXnMm8u03",
     "tweettime": "2022-03-13, 10:37:04",
     "tweeturl": "https://twitter.com/CyberWarship/status/1502956904649302021",
@@ -370,10 +370,10 @@
     "username": "0xInfection"
 }
 {
-    "tweetfavorites": 409,
+    "tweetfavorites": 389,
     "tweetquotes": 2,
     "tweetreplies": 5,
-    "tweetretweets": 88,
+    "tweetretweets": 84,
     "tweettext": "12 ROP chains later - from CVE-2019-0567 crash POC to code execution.\n\nASLR, DEP, &amp; CFG bypass + ACG bypass using (since-patched) CVE-2017-8637 to abuse the way Chakra-based Edge handled (pun intended) supplying a handle from the out-of-process JIT server to a content process. https://t.co/aAC7WBGa1P",
     "tweettime": "2022-03-10, 21:13:36",
     "tweeturl": "https://twitter.com/33y0re/status/1502029931227893770",
@@ -420,10 +420,10 @@
     "expanded_url": [
         "https://www.mandiant.com/resources/apt41-us-state-governments"
     ],
-    "tweetfavorites": 104,
+    "tweetfavorites": 105,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 56,
+    "tweetretweets": 57,
     "tweettext": "New Mandiant blog: APT41 🇨🇳🐉🐉 Targeting U.S. State Government Networks \n\nCheck out our new blog detailing an ongoing months-long campaign, updated anti-analysis techniques, a new zero-day vulnerability (CVE-2021-44207), and more:\nhttps://t.co/5qmOUBcEq5",
     "tweettime": "2022-03-08, 15:00:21",
     "tweeturl": "https://twitter.com/rufusmbrown/status/1501211223521742855",
@@ -585,10 +585,10 @@
     "expanded_url": [
         "https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/"
     ],
-    "tweetfavorites": 362,
+    "tweetfavorites": 351,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 157,
+    "tweetretweets": 152,
     "tweettext": "#CVE-2022-22947 Spring Cloud Gateway SpEL Remote Code Execution\n\nhttps://t.co/t1zTel1Fq1 https://t.co/HU6C81FRS9",
     "tweettime": "2022-03-02, 16:11:05",
     "tweeturl": "https://twitter.com/pyn3rd/status/1499054695024709634",

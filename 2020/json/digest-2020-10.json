@@ -259,7 +259,7 @@
     "expanded_url": [
         "http://blog.pi3.com.pl/?p=780"
     ],
-    "tweetfavorites": 488,
+    "tweetfavorites": 490,
     "tweetquotes": 9,
     "tweetreplies": 1,
     "tweetretweets": 249,
@@ -295,10 +295,10 @@
     "expanded_url": [
         "https://gist.github.com/d4em0n/e8d209e786f63493339f2ddef4d44e3d"
     ],
-    "tweetfavorites": 211,
-    "tweetquotes": 2,
+    "tweetfavorites": 209,
+    "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 72,
+    "tweetretweets": 71,
     "tweettext": "Exploit CVE-2020-8835 (another kernel bpf bug). Same approach i did exploiting CVE-2017-16995 in the previous tweet. Overwriting bpf_map ops from array_of_map to array_of_maps_map_ops to gain arbitrary write, then overwriting modprobe_path to get root\nhttps://t.co/2fn5H0NKk3 https://t.co/m1OJPxUElp",
     "tweettime": "2020-10-16, 14:35:20",
     "tweeturl": "https://twitter.com/n0psledbyte/status/1317111893408968704",
@@ -321,10 +321,10 @@
     "expanded_url": [
         "https://github.com/0neb1n/CVE-2020-16947"
     ],
-    "tweetfavorites": 214,
+    "tweetfavorites": 207,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 82,
+    "tweetretweets": 78,
     "tweettext": "CVE-2020-16947: PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility)\n\nhttps://t.co/0ck5mrbwaO https://t.co/AOvsBKdGVF",
     "tweettime": "2020-10-16, 08:21:35",
     "tweeturl": "https://twitter.com/cyber_advising/status/1317017834791329792",
@@ -354,10 +354,10 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 505,
+    "tweetfavorites": 484,
     "tweetquotes": 7,
     "tweetreplies": 5,
-    "tweetretweets": 232,
+    "tweetretweets": 226,
     "tweettext": "Please make sure to patch your Windows systems. CVE-2020-16938 is no joke. Hard Drive encryption does break this attack, however, most servers and virtual machines don't have HDD encryption enabled. Patch! #ntdsdit op: @jonasLyk https://t.co/PmEfMIRMKg",
     "tweettime": "2020-10-15, 20:28:48",
     "tweeturl": "https://twitter.com/mubix/status/1316838457881300992",
@@ -442,10 +442,10 @@
     "username": "benreardon"
 }
 {
-    "tweetfavorites": 293,
+    "tweetfavorites": 278,
     "tweetquotes": 2,
     "tweetreplies": 5,
-    "tweetretweets": 80,
+    "tweetretweets": 77,
     "tweettext": "Looking at patch diff of tcpip.sys, it seems \"Ipv6pHandleRouterAdvertisement()\" function which is called by \"Icmpv6ReceiveDatagrams()\" function is guilty for Microsoft Windows ICMPv6 router advertisement RCE vulnerability (CVE-2020-16898): https://t.co/9HLISvpHil",
     "tweettime": "2020-10-14, 21:52:19",
     "tweeturl": "https://twitter.com/hosselot/status/1316497085320097792",
@@ -514,10 +514,10 @@
     "username": "Kevin2600"
 }
 {
-    "tweetfavorites": 195,
-    "tweetquotes": 9,
-    "tweetreplies": 6,
-    "tweetretweets": 117,
+    "tweetfavorites": 168,
+    "tweetquotes": 8,
+    "tweetreplies": 4,
+    "tweetretweets": 94,
     "tweettext": "Threat level: very préoccupé\n\nCVE-2020-16947 - Microsoft Outlook RCE Vulnerability” allows attackers to send specially crafted emails that can execute commands when opened in the Microsoft Outlook software. This attack also works when an email is viewed in the preview pane. https://t.co/P9ldLFkosM",
     "tweettime": "2020-10-14, 08:05:06",
     "tweeturl": "https://twitter.com/H_Miser/status/1316288911040274437",
@@ -567,7 +567,7 @@
     "tweetfavorites": 291,
     "tweetquotes": 7,
     "tweetreplies": 2,
-    "tweetretweets": 132,
+    "tweetretweets": 131,
     "tweettext": "CVE-2020-16898 (Windows TCP/IP RCE) is beaten by CVE-2020-16952 (SharePoint post auth file inclusion leading to RCE). CVE-2020-16952 has an exploit out and when combined with password spraying/phishing for creds s a threat right now - https://t.co/IZbbn8aB4o",
     "tweettime": "2020-10-13, 20:12:25",
     "tweeturl": "https://twitter.com/ollieatnccgroup/status/1316109559526838275",
@@ -584,10 +584,10 @@
     "username": "jonasLyk"
 }
 {
-    "tweetfavorites": 435,
+    "tweetfavorites": 430,
     "tweetquotes": 6,
-    "tweetreplies": 8,
-    "tweetretweets": 137,
+    "tweetreplies": 9,
+    "tweetretweets": 131,
     "tweettext": "CVE-2020-16938 WRITEUP- aka how I installed an UEFI bootkit from edge sandbox.\nSo- the UEFI partition runs FAT32( No ACL or owner concepts)- so instead access is controlled virtually.\nThing is though- by just requesting MAX for permissions everything is bypassed and you get write https://t.co/qcCZKFU6pg",
     "tweettime": "2020-10-13, 19:38:35",
     "tweeturl": "https://twitter.com/jonasLyk/status/1316101042279452673",
@@ -611,7 +611,7 @@
         "https://srcincite.io/advisories/src-2020-0022/",
         "https://srcincite.io/pocs/cve-2020-16952.py.txt"
     ],
-    "tweetfavorites": 381,
+    "tweetfavorites": 382,
     "tweetquotes": 3,
     "tweetreplies": 4,
     "tweetretweets": 209,

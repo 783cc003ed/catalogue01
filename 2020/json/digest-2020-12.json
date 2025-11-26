@@ -75,10 +75,10 @@
     "expanded_url": [
         "https://bugs.chromium.org/p/project-zero/issues/detail?id=2096"
     ],
-    "tweetfavorites": 379,
+    "tweetfavorites": 356,
     "tweetquotes": 15,
     "tweetreplies": 4,
-    "tweetretweets": 149,
+    "tweetretweets": 138,
     "tweettext": "In May, Kaspersky (@oct0xor) discovered CVE-2020-0986 in Windows splwow64 was exploited itw as a 0day. Microsoft released a patch in June, but that patch didnt fix the vuln. After reporting that bad fix in Sept under a 90day deadline, it's still not fixed. https://t.co/WDGNs3JGka",
     "tweettime": "2020-12-23, 16:22:46",
     "tweeturl": "https://twitter.com/maddiestone/status/1341781305126612995",
@@ -125,10 +125,10 @@
     "expanded_url": [
         "https://x41-dsec.de/security/advisory/exploit/research/2020/12/21/x41-microsoft-exchange-rce-dlp-bypass/"
     ],
-    "tweetfavorites": 349,
+    "tweetfavorites": 335,
     "tweetquotes": 8,
-    "tweetreplies": 2,
-    "tweetretweets": 155,
+    "tweetreplies": 1,
+    "tweetretweets": 149,
     "tweettext": "[ CVE-2020-16875 Protection/Filter Bypass ] MICROSOFT EXCHANGE REMOTE CODE EXECUTION\nhttps://t.co/y8bo9w9BUA https://t.co/yDDbZgmu4T",
     "tweettime": "2020-12-21, 20:29:34",
     "tweeturl": "https://twitter.com/cyber_advising/status/1341118637038575616",
@@ -302,10 +302,10 @@
     "expanded_url": [
         "https://github.com/Airboi/CVE-2020-17144-EXP"
     ],
-    "tweetfavorites": 187,
+    "tweetfavorites": 182,
     "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 74,
+    "tweetretweets": 70,
     "tweettext": "CVE-2020-17144: Microsoft Exchange Remote Code Execution Vulnerability\n\nhttps://t.co/texmYGydMe https://t.co/W2QkEOblD2",
     "tweettime": "2020-12-09, 14:37:56",
     "tweeturl": "https://twitter.com/cyber_advising/status/1336681491963781122",

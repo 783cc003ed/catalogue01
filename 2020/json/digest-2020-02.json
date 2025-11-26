@@ -17,10 +17,10 @@
         "https://www.trustedsec.com/blog/detecting-cve-20200688-remote-code-execution-vulnerability-on-microsoft-exchange-server/",
         "https://github.com/Neo23x0/sigma/pull/644/files"
     ],
-    "tweetfavorites": 235,
+    "tweetfavorites": 226,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 110,
+    "tweetretweets": 109,
     "tweettext": "Sigma rules to detect the exploitation of MS Exchange server vulnerability as described in blog post on CVE-2020-0688 by @TrustedSec \n\nBlog\nhttps://t.co/eU6tzQXyjk\n\nSigma rules\nhttps://t.co/RoXGG6pCfn\n\nNote: we already have a rule that detects shells spawned by web server procs https://t.co/RkWk3Z1mvT",
     "tweettime": "2020-02-29, 15:17:57",
     "tweeturl": "https://twitter.com/cyb3rops/status/1233773409114435584",
@@ -58,10 +58,10 @@
     "expanded_url": [
         "https://www.thezdi.com/blog/2020/2/24/cve-2020-0688-remote-code-execution-on-microsoft-exchange-server-through-fixed-cryptographic-keys"
     ],
-    "tweetfavorites": 366,
-    "tweetquotes": 12,
-    "tweetreplies": 4,
-    "tweetretweets": 200,
+    "tweetfavorites": 345,
+    "tweetquotes": 11,
+    "tweetreplies": 2,
+    "tweetretweets": 181,
     "tweettext": "CVE-2020-0688: REMOTE CODE EXECUTION ON MICROSOFT EXCHANGE SERVER THROUGH FIXED CRYPTOGRAPHIC KEYS\n\n- RCE with system privileges on all exchange server 😱\n\n#infosec #pentest #redteam  https://t.co/jGdfSOEgcl https://t.co/M3nRxGBfrE",
     "tweettime": "2020-02-26, 06:50:32",
     "tweeturl": "https://twitter.com/CyberWarship/status/1232558547344510978",
@@ -94,10 +94,10 @@
     "expanded_url": [
         "https://thehackernews.com/2020/02/opensmtpd-email-vulnerability.html"
     ],
-    "tweetfavorites": 176,
-    "tweetquotes": 10,
+    "tweetfavorites": 162,
+    "tweetquotes": 9,
     "tweetreplies": 1,
-    "tweetretweets": 152,
+    "tweetretweets": 142,
     "tweettext": "🔥 CVE-2020-8794\n\nYet another critical RCE #vulnerability disclosed in #OpenSMTPD email servers running on #OpenBSD or #Linux systems.\n\nRead: https://t.co/jLAKzj5nj3\n\nThe 5-year-old bug could let attackers takeover vulnerable remote servers by sending specially crafted emails. https://t.co/tIiXNOxj0u",
     "tweettime": "2020-02-25, 11:00:37",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1232259096780271616",
@@ -221,6 +221,19 @@
 }
 {
     "expanded_url": [
+        "https://itm4n.github.io/cve-2020-0668-windows-service-tracing-eop/"
+    ],
+    "tweetfavorites": 654,
+    "tweetquotes": 9,
+    "tweetreplies": 10,
+    "tweetretweets": 335,
+    "tweettext": "Yet another symlink-based Windows EoP... 🥱\n\nCVE-2020-0668 - A Trivial Privilege Escalation Bug in Windows Service Tracing\n\nThis bug probably existed since Windows XP! 🤯\n\n👉 https://t.co/pGzKmx9NHI\n\nMore coming soon.🤫 https://t.co/k53AppC1th",
+    "tweettime": "2020-02-14, 12:18:28",
+    "tweeturl": "https://twitter.com/itm4n/status/1228292422221824003",
+    "username": "itm4n"
+}
+{
+    "expanded_url": [
         "https://padovah4ck.github.io/CVE-2020-0683/",
         "https://github.com/padovah4ck/CVE-2020-0683"
     ],
@@ -325,7 +338,7 @@
     "expanded_url": [
         "https://labs.bluefrostsecurity.de/blog/2020/01/07/cve-2019-1215-analysis-of-a-use-after-free-in-ws2ifsl/"
     ],
-    "tweetfavorites": 118,
+    "tweetfavorites": 114,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 59,

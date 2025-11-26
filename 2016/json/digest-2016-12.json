@@ -26,6 +26,19 @@
 }
 {
     "expanded_url": [
+        "https://securingtomorrow.mcafee.com/mcafee-labs/digging-windows-kernel-privilege-escalation-vulnerability-cve-2016-7255/"
+    ],
+    "tweetfavorites": 139,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 85,
+    "tweettext": "Digging Into a Windows Kernel Privilege Escalation Vulnerability: CVE-2016-7255:\nhttps://t.co/B6rP7DcVzC",
+    "tweettime": "2016-12-30, 08:41:53",
+    "tweeturl": "https://twitter.com/hosselot/status/814753363531329536",
+    "username": "hosselot"
+}
+{
+    "expanded_url": [
         "http://thehackernews.com/2016/12/phpmailer-security.html"
     ],
     "tweetfavorites": 150,
@@ -38,10 +51,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 170,
-    "tweetquotes": 3,
-    "tweetreplies": 1,
-    "tweetretweets": 117,
+    "tweetfavorites": 180,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 116,
     "tweettext": "\"Bug\" vs. \"Exploit\"\n\n1: Tor 0day (cve-2016-9079) minimized test case\n2: approximately 1/10th of the original exploit code https://t.co/UAh4ZuRzac",
     "tweettime": "2016-12-05, 09:22:27",
     "tweeturl": "https://twitter.com/alisaesage/status/805703873629331457",

@@ -26,10 +26,10 @@
     "expanded_url": [
         "https://seclists.org/oss-sec/2023/q1/20"
     ],
-    "tweetfavorites": 301,
+    "tweetfavorites": 293,
     "tweetquotes": 6,
-    "tweetreplies": 4,
-    "tweetretweets": 104,
+    "tweetreplies": 2,
+    "tweetretweets": 101,
     "tweettext": "Example of buffer overflow in Linux kernel (6.2.0-rc1) with exploit PoC by Davide Ornaghi\n(CVE-2023-0179 affecting nftables)\n\nhttps://t.co/5UyLN1XSUo\n\n#Linux #kernel #infosec #cybersecurity #cve https://t.co/v9QJSXUIb7",
     "tweettime": "2023-02-27, 17:30:22",
     "tweeturl": "https://twitter.com/0xor0ne/status/1630259057213726720",
@@ -145,10 +145,10 @@
         "https://github.com/Florian-R0th/CVE-2022-39952",
         "https://t.me/hackgit/7638"
     ],
-    "tweetfavorites": 366,
+    "tweetfavorites": 351,
     "tweetquotes": 1,
-    "tweetreplies": 11,
-    "tweetretweets": 131,
+    "tweetreplies": 10,
+    "tweetretweets": 124,
     "tweettext": "CVE-2022-39952\n\nUnauthenticated RCE in Fortinet FortiNAC\n\nhttps://t.co/B5cQ62RfTV\n\n#cve #RCE https://t.co/0LpjCAHEEx https://t.co/91v32Kqov2",
     "tweettime": "2023-02-21, 09:12:07",
     "tweeturl": "https://twitter.com/hack_git/status/1627959342757470208",
@@ -158,7 +158,7 @@
     "expanded_url": [
         "https://github.com/Immersive-Labs-Sec/msrc-api"
     ],
-    "tweetfavorites": 64,
+    "tweetfavorites": 62,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 19,
@@ -168,7 +168,7 @@
     "username": "SeguInfo"
 }
 {
-    "tweetfavorites": 92,
+    "tweetfavorites": 83,
     "tweetquotes": 0,
     "tweetreplies": 14,
     "tweetretweets": 5,
@@ -194,7 +194,7 @@
     "expanded_url": [
         "http://hyp3rlinx.altervista.org/advisories/MICROSOFT_WINDOWS_CONTACT_FILE_RCE_CVE-2022-44666.txt"
     ],
-    "tweetfavorites": 53,
+    "tweetfavorites": 52,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 19,
@@ -220,10 +220,10 @@
     "expanded_url": [
         "https://www.fortiguard.com/psirt/FG-IR-22-300"
     ],
-    "tweetfavorites": 987,
+    "tweetfavorites": 953,
     "tweetquotes": 39,
     "tweetreplies": 19,
-    "tweetretweets": 376,
+    "tweetretweets": 357,
     "tweettext": "CVE-2022-39952, announced today, allows for unauthenticated RCE against #Fortinet FortiNAC as the root user. Blog post and POC to be released soon. \n\nSee Fortinet's PSIRT: https://t.co/sBsrs8Wxqb https://t.co/EqkIo3ap4s",
     "tweettime": "2023-02-17, 21:19:15",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1626692778062237713",
@@ -380,10 +380,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 1132,
+    "tweetfavorites": 1015,
     "tweetquotes": 68,
-    "tweetreplies": 34,
-    "tweetretweets": 576,
+    "tweetreplies": 28,
+    "tweetretweets": 485,
     "tweettext": "⚠️ CRITICAL ALERT\n🚨 ZERO-DAY on iOS &amp; macOS DEVICES\n\nApple fixed a WebKit Zero-Day allowing attackers to execute arbitrary code on compromised devices. This vulnerability is ALREADY in the wild. \n\nUPDATE YOUR DEVICES NOW &amp; PLEASE SHARE\n\nCVE-2023-23529 https://t.co/rYHlvsRIc3",
     "tweettime": "2023-02-14, 03:10:02",
     "tweeturl": "https://twitter.com/wallet_guard/status/1625331505131134980",
@@ -445,10 +445,10 @@
     "expanded_url": [
         "https://blog.grimm-co.com/2021/03/new-old-bugs-in-linux-kernel.html"
     ],
-    "tweetfavorites": 269,
+    "tweetfavorites": 260,
     "tweetquotes": 1,
-    "tweetreplies": 2,
-    "tweetretweets": 96,
+    "tweetreplies": 1,
+    "tweetretweets": 95,
     "tweettext": "CVE-2021-27365: analysis and exploitation of a Linux kernel heap buffer overflow in iSCSI data structures \n\nhttps://t.co/iktLpbSYcv \n\n#Linux #kernel #exploit #infosec #cybersecurity https://t.co/HwXGZaFEUD",
     "tweettime": "2023-02-06, 12:15:04",
     "tweeturl": "https://twitter.com/0xor0ne/status/1622569562561454080",
@@ -468,10 +468,10 @@
     "username": "0xor0ne"
 }
 {
-    "tweetfavorites": 214,
+    "tweetfavorites": 209,
     "tweetquotes": 7,
     "tweetreplies": 11,
-    "tweetretweets": 67,
+    "tweetretweets": 65,
     "tweettext": "The #ESXi mass exploitations is almost 100% NOT: CVE-2021-21974\n\n CVE-2021-21974 attacks SLP on TCP 427.\n\nThe affected hosts DO NOT have this exposed based on shodan scans. I'll look at some port scan data to double check this but @shodan does scan this port and see below #vmware https://t.co/ifS7nOlOdS",
     "tweettime": "2023-02-04, 14:24:36",
     "tweeturl": "https://twitter.com/UK_Daniel_Card/status/1621877385791414274",

@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 454,
+    "tweetquotes": 55,
+    "tweetreplies": 16,
+    "tweetretweets": 458,
+    "tweettext": "@defcon This voting machine has a vulnerable OpenSSL (CVE-2011-4109) which allows remote attackers execute stuff. These machines are a scary 😨 https://t.co/unfxFU9jX3",
+    "tweettime": "2017-07-28, 18:39:31",
+    "tweeturl": "https://twitter.com/0xDUDE/status/891005212344954883",
+    "username": "0xDUDE"
+}
+{
     "tweetfavorites": 524,
     "tweetquotes": 19,
     "tweetreplies": 55,

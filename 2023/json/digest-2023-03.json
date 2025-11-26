@@ -2,10 +2,10 @@
     "expanded_url": [
         "http://github.com/projectdiscovery/nuclei-templates/releases/tag/v9.4.1"
     ],
-    "tweetfavorites": 250,
-    "tweetquotes": 2,
-    "tweetreplies": 3,
-    "tweetretweets": 46,
+    "tweetfavorites": 229,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 43,
     "tweettext": "🚨 Nuclei-Templates v9.4.1 🚨\n\n🆕 69 templates, 7 contributors + 27 new CVEs including:\n\n💥 CVE-2023-28343: Command Injection\n💣 CVE-2023-28432: Information Disclosure\n💣 CVE-2022-1329: RCE Vulnerability\n\nFind out more here:\n👉 🔗 https://t.co/QrEohn9K6p https://t.co/OGDt0dr6a6",
     "tweettime": "2023-03-30, 21:01:59",
     "tweeturl": "https://twitter.com/pdnuclei/status/1641546334304976899",
@@ -74,10 +74,10 @@
     "username": "RedDrip7"
 }
 {
-    "tweetfavorites": 1123,
-    "tweetquotes": 7,
-    "tweetreplies": 16,
-    "tweetretweets": 375,
+    "tweetfavorites": 1084,
+    "tweetquotes": 8,
+    "tweetreplies": 15,
+    "tweetretweets": 361,
     "tweettext": "Played with Outlook CVE-2023-23397. Made a simple PoC email builder &amp; sender featuring malicious reminder (just a Msg, no need to use a Task or Cal. Ev.). \n\nCritical 0-click account takeover on internal networks even after MS patch, no need to open the message on the victim side. https://t.co/S2FxA1jVAR",
     "tweettime": "2023-03-27, 10:49:16",
     "tweeturl": "https://twitter.com/an0n_r0/status/1640304974755135488",
@@ -100,10 +100,10 @@
     "expanded_url": [
         "https://adamdoupe.com/blog/2022/12/13/cve-2022-42845-xnu-use-after-free-vulnerability-in-ndrv-dot-c/"
     ],
-    "tweetfavorites": 99,
-    "tweetquotes": 3,
+    "tweetfavorites": 98,
+    "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 34,
+    "tweetretweets": 33,
     "tweettext": "Analysis and poc of CVE-2022-42845 (XNU Use After Free Vulnerability in ndrv.c)\nWriteup by @adamdoupe\n\nhttps://t.co/0Q08z5Xva6\n\n#xnu #apple #infosec #cybersecurity #cve https://t.co/7zsSJtiLPl",
     "tweettime": "2023-03-25, 08:30:04",
     "tweeturl": "https://twitter.com/0xor0ne/status/1639545168847306753",
@@ -114,10 +114,10 @@
         "https://github.com/Acceis/exploit-CVE-2023-23752",
         "https://t.me/hackgit/8006"
     ],
-    "tweetfavorites": 204,
+    "tweetfavorites": 195,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 70,
+    "tweetretweets": 62,
     "tweettext": "CVE-2023-23752\n\nJoomla! &lt; 4.2.8 - Unauthenticated information disclosure.\n\nhttps://t.co/gTecXt1lbT\n\n#cve #exploit #cybersecurity #infosec https://t.co/DWOl3q2grb https://t.co/2tP549DpX7",
     "tweettime": "2023-03-25, 08:08:47",
     "tweeturl": "https://twitter.com/hack_git/status/1639539815812321280",
@@ -141,10 +141,10 @@
         "https://github.com/sfewer-r7/CVE-2023-27532",
         "https://t.me/hackgit/7995"
     ],
-    "tweetfavorites": 152,
+    "tweetfavorites": 148,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 37,
+    "tweetretweets": 34,
     "tweettext": "CVE-2023-27532\n\nProof of Concept code to exploit CVE-2023-27532 and either leak plaintext credentials or perform remote command execution.\n\nhttps://t.co/vQQD8QtsZn\n\n#cve #exploit #cybersecurity #infosec https://t.co/36xTuOx8Ou https://t.co/ceWgzylqqS",
     "tweettime": "2023-03-24, 09:12:03",
     "tweeturl": "https://twitter.com/hack_git/status/1639193349143019520",
@@ -302,12 +302,12 @@
     "expanded_url": [
         "https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/proc_creation_win_rundll32_webdav_client_susp_execution.yml",
         "https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/proc_creation_win_rundll32_webdav_client_execution.yml",
-        "https://twitter.com/aceresponder/status/1636116096506818562"
+        "https://x.com/aceresponder/status/1636116096506818562"
     ],
-    "tweetfavorites": 232,
+    "tweetfavorites": 222,
     "tweetquotes": 2,
-    "tweetreplies": 5,
-    "tweetretweets": 85,
+    "tweetreplies": 4,
+    "tweetretweets": 83,
     "tweettext": "Sigma rule to detect the exploitation of CVE-2023-23397 (Outlook)\n\nNew rule (level high; run queries on old data)\nhttps://t.co/Pe70ruaQU9\n\nOld rule (level medium; check past matches with this rule)\nhttps://t.co/4nEaM0sRDg\n\nbased on tweet by @ACEResponder \nhttps://t.co/LFn4AhfFr0 https://t.co/4mJx8gr7hy",
     "tweettime": "2023-03-16, 22:18:35",
     "tweeturl": "https://twitter.com/cyb3rops/status/1636492182210199555",
@@ -317,10 +317,10 @@
     "expanded_url": [
         "https://github.com/Neo23x0/signature-base/blob/master/yara/expl_outlook_cve_2023_23397.yar"
     ],
-    "tweetfavorites": 245,
+    "tweetfavorites": 238,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 82,
+    "tweetretweets": 79,
     "tweettext": "Our current rule set to detect MSG files that exploit CVE-2023-23397 (Outlook) \n\nIt's a work-in-progress - we're trying to extend the rules and weed out FPs \n\n@0x3c7 @delivrto \n\nhttps://t.co/kDAqCDrqql https://t.co/tCpMlX9mvW",
     "tweettime": "2023-03-16, 08:33:02",
     "tweeturl": "https://twitter.com/cyb3rops/status/1636284425985048577",
@@ -331,23 +331,33 @@
         "https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY",
         "https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability"
     ],
-    "tweetfavorites": 382,
+    "tweetfavorites": 369,
     "tweetquotes": 1,
-    "tweetreplies": 2,
-    "tweetretweets": 144,
+    "tweetreplies": 3,
+    "tweetretweets": 140,
     "tweettext": "CVE-2023-23397\n\nExploiting CVE-2023-23397: Microsoft Outlook Elevation of Privilege Vulnerability.\n\nhttps://t.co/0beKMen1Fl\n\nDetails:\nhttps://t.co/VdTW9uViLk\n\n#infosec #CyberSecurity  #Pentesting  #redteam https://t.co/bT4RCzZpDZ",
     "tweettime": "2023-03-16, 06:52:35",
     "tweeturl": "https://twitter.com/hack_git/status/1636259145304162305",
     "username": "hack_git"
 }
 {
+    "tweetfavorites": 533,
+    "tweetquotes": 7,
+    "tweetreplies": 14,
+    "tweetretweets": 192,
+    "tweettext": "From our initial recreation of CVE-2023-23397 based on @MDSecLabs, this is what it looks like from a defender's perspective.\n\nLucky for us, it's super easy to spot. \n1. svchost spawns rundll32 w/attacker UNC path\n2. svchost makes distinct HTTP requests\n\n#ThreatHunting #DFIR https://t.co/8GYKKTQiAv",
+    "tweettime": "2023-03-15, 21:24:09",
+    "tweeturl": "https://twitter.com/ACEResponder/status/1636116096506818562",
+    "username": "ACEResponder"
+}
+{
     "expanded_url": [
         "https://access.redhat.com/security/cve/CVE-2023-1390"
     ],
-    "tweetfavorites": 256,
+    "tweetfavorites": 238,
     "tweetquotes": 2,
-    "tweetreplies": 12,
-    "tweetretweets": 50,
+    "tweetreplies": 11,
+    "tweetretweets": 48,
     "tweettext": "CVE-2023-1390, a remote denial of service vulnerability was found in the Linux kernel’s TIPC kernel module.\n\"Red Hat would like to thank Remy (@GreyNoiseIO)  for reporting this issue.\"\nBaby's first CVE. 🥳\nhttps://t.co/mCjNZVQb9I https://t.co/4SreUeq4kL",
     "tweettime": "2023-03-15, 17:45:42",
     "tweeturl": "https://twitter.com/_mattata/status/1636061119558164487",
@@ -413,10 +423,10 @@
     "expanded_url": [
         "https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/"
     ],
-    "tweetfavorites": 849,
+    "tweetfavorites": 823,
     "tweetquotes": 25,
-    "tweetreplies": 10,
-    "tweetretweets": 428,
+    "tweetreplies": 9,
+    "tweetretweets": 412,
     "tweettext": "We've just published a quick write up on CVE-2023-23397, which allows a remote adversary to leak NetNTLMv2 hashes: https://t.co/xDxGwJfY2e by @domchell https://t.co/hmZsMZDz2P",
     "tweettime": "2023-03-14, 23:55:46",
     "tweeturl": "https://twitter.com/MDSecLabs/status/1635791863478091778",
@@ -452,10 +462,10 @@
     "expanded_url": [
         "https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-overflow/"
     ],
-    "tweetfavorites": 249,
+    "tweetfavorites": 239,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 99,
+    "tweetretweets": 95,
     "tweettext": "Linux unauthenticated remote code execution in kernel context (CVE-2023-0210 affecting KSMBD)\nCVE analysis writeup by @sysdig\n\nhttps://t.co/1eKncHlLx7\n\n#Linux #kernel #exploit #infosec #cybersecurity https://t.co/6wc4TuZRoX",
     "tweettime": "2023-03-14, 12:15:09",
     "tweeturl": "https://twitter.com/0xor0ne/status/1635615545838952449",
@@ -498,10 +508,10 @@
     "username": "HuntressLabs"
 }
 {
-    "tweetfavorites": 92,
-    "tweetquotes": 1,
-    "tweetreplies": 3,
-    "tweetretweets": 21,
+    "tweetfavorites": 98,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 19,
     "tweettext": "I just wrote my first exploit for a real-world kernel vulnerability. It is about CVE-2022-24122. I did some cross-cache UAF attack to corrupt modprobe_path. You need to know the kernel base to prevent an oops during the exploit process. Reliability isn't great 😅 maybe like 5% https://t.co/OhZHjSBT7r",
     "tweettime": "2023-03-12, 10:58:21",
     "tweeturl": "https://twitter.com/BitFriends1/status/1634871445758042112",
@@ -576,10 +586,10 @@
     "expanded_url": [
         "https://github.com/xforcered/Windows_LPE_AFD_CVE-2023-21768"
     ],
-    "tweetfavorites": 1946,
+    "tweetfavorites": 1841,
     "tweetquotes": 17,
-    "tweetreplies": 32,
-    "tweetretweets": 579,
+    "tweetreplies": 31,
+    "tweetretweets": 549,
     "tweettext": "Releasing a Windows 11 LPE exploit by @FuzzySec and I. Exploits CVE-2023-21768, a vuln in afd.sys. Blog post soon!\nhttps://t.co/iqQYsw5TmP https://t.co/8ypb4mZGtN",
     "tweettime": "2023-03-08, 16:02:20",
     "tweeturl": "https://twitter.com/chompie1337/status/1633498392125997056",
@@ -740,10 +750,10 @@
     "expanded_url": [
         "https://www.crowdstrike.com/blog/exploiting-cve-2021-3490-for-container-escapes/"
     ],
-    "tweetfavorites": 254,
+    "tweetfavorites": 251,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 96,
+    "tweetretweets": 93,
     "tweettext": "Cool blog post by Karsten König (@CrowdStrike) showing how to modify an existing Linux kernel exploit (CVE-2021-3490) to achieve container escape\n\nhttps://t.co/UQ0I3wHBSL https://t.co/rNrcYbPJHS",
     "tweettime": "2023-03-04, 08:30:02",
     "tweeturl": "https://twitter.com/0xor0ne/status/1631935016988016640",
@@ -754,7 +764,7 @@
         "https://seclists.org/oss-sec/2023/q1/20",
         "https://github.com/TurtleARM/CVE-2023-0179-PoC"
     ],
-    "tweetfavorites": 206,
+    "tweetfavorites": 204,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 80,

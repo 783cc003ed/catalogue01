@@ -281,7 +281,20 @@
     "username": "buffaloverflow"
 }
 {
-    "tweetfavorites": 126,
+    "expanded_url": [
+        "https://itm4n.github.io/cve-2020-0863-windows-diagtrack-info-disclo/"
+    ],
+    "tweetfavorites": 183,
+    "tweetquotes": 3,
+    "tweetreplies": 9,
+    "tweetretweets": 71,
+    "tweettext": "You now have plenty of time to do some reading?! 🙄\n\nWell, you can check out my latest blog post about CVE-2020-0863 - Connected User Experiences and Telemetry Service Information Disclosure Vulnerability\n\n👉 https://t.co/oXxYYWcLfk https://t.co/IQSSsdR8i4",
+    "tweettime": "2020-03-18, 21:15:37",
+    "tweeturl": "https://twitter.com/itm4n/status/1240386397560848386",
+    "username": "itm4n"
+}
+{
+    "tweetfavorites": 125,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 83,
@@ -447,10 +460,10 @@
     "expanded_url": [
         "https://blog.talosintelligence.com/2020/03/microsoft-patch-tuesday-march-2020.html"
     ],
-    "tweetfavorites": 164,
-    "tweetquotes": 12,
+    "tweetfavorites": 154,
+    "tweetquotes": 10,
     "tweetreplies": 7,
-    "tweetretweets": 118,
+    "tweetretweets": 106,
     "tweettext": "Give your Windows sysadmins a virtual hug. Looks like they may be busy for a while... Potentially wormable RCE in SMBv3 CVE-2020-0796 (which incidentally, I cannot find any MSFT disclosure for yet). Let's see what WannaCry and NotPetya taught us... https://t.co/gqhJx5h2zV https://t.co/cGlCH6QVN7",
     "tweettime": "2020-03-10, 17:41:38",
     "tweeturl": "https://twitter.com/dnlongen/status/1237433447309852674",
@@ -523,7 +536,7 @@
     "expanded_url": [
         "https://pivotal.io/security/cve-2020-5405"
     ],
-    "tweetfavorites": 119,
+    "tweetfavorites": 118,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 35,
@@ -595,10 +608,10 @@
     "expanded_url": [
         "https://github.com/Yt1g3r/CVE-2020-0688_EXP/blob/master/CVE-2020-0688_EXP.py"
     ],
-    "tweetfavorites": 47,
+    "tweetfavorites": 46,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 23,
+    "tweetretweets": 22,
     "tweettext": "CVE-2020-0688: REMOTE CODE EXECUTION ON MICROSOFT EXCHANGE SERVER \n\nPOC\n\nhttps://t.co/g2M2Ixb60F https://t.co/CsSdDnYIcW",
     "tweettime": "2020-03-01, 02:18:51",
     "tweeturl": "https://twitter.com/cyber_advising/status/1233939728107372544",

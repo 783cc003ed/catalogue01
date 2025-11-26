@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 16,
+    "tweettext": "CVE-2024-0582: memory leak flaw was found in the Linux kernel’s io_uring functionality .. IORING_REGISTER_PBUF_RING, mmap() it, and then frees it. This flaw allows a local user to crash or potentially escalate their privileges on the system.\n\nPoC\nhttps://t.co/g4tmiTYwZn",
+    "tweettime": "2024-03-31, 02:19:43",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1774260255418982669",
+    "username": "cyber_advising"
+}
+{
+    "expanded_url": [
         "https://dailydarkweb.net/threat-actor-offers-windows-1-day-lpe-cve-2024-26169-exploit-for-sale-at-10000/"
     ],
     "tweetfavorites": 59,
@@ -9,6 +22,16 @@
     "tweettext": "Threat Actor Offers Windows 1-Day LPE (CVE-2024-26169) Exploit for Sale at $10,000\n\nhttps://t.co/TvaNgSUjBp\n\n#DarkWeb https://t.co/VKesKo5RdN",
     "tweettime": "2024-03-30, 09:03:29",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1773999478426468844",
+    "username": "DailyDarkWeb"
+}
+{
+    "tweetfavorites": 282,
+    "tweetquotes": 5,
+    "tweetreplies": 8,
+    "tweetretweets": 111,
+    "tweettext": "Backdoor found in XZ utilities used by many Linux distros (CVE-2024-3094)\n\nA vulnerability (CVE-2024-3094) in XZ Utils, the XZ format compression utilities included in most Linux distributions, may “enable a malicious actor to break sshd authentication and gain unauthorized https://t.co/8m7Rmei1Sb",
+    "tweettime": "2024-03-30, 08:00:06",
+    "tweeturl": "https://twitter.com/DailyDarkWeb/status/1773983526481781137",
     "username": "DailyDarkWeb"
 }
 {
@@ -35,8 +58,8 @@
     "username": "wallet_guard"
 }
 {
-    "tweetfavorites": 51,
-    "tweetquotes": 1,
+    "tweetfavorites": 49,
+    "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 15,
     "tweettext": "A threat actor claims to be selling RCE for FortiOS CVE-2024-21762\n\nIt is a vulnerability may allow a remote unauthenticated attacker to execute arbitrary code or command via specially crafted HTTP requests.\n\n#DarkWeb https://t.co/OdvIA7wb8l",
@@ -331,6 +354,16 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
+    "tweetfavorites": 0,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 42,
+    "tweettext": "RT @0xor0ne: Great advisories writeup by @qualys as usual.\nOut-of-bounds read &amp; write and Heap-based buffer overflow (CVE-2023-6246) in gli…",
+    "tweettime": "2024-03-21, 08:03:18",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1770722842285371652",
+    "username": "kmkz_security"
+}
+{
     "tweetfavorites": 51,
     "tweetquotes": 1,
     "tweetreplies": 0,
@@ -365,6 +398,34 @@
     "tweettime": "2024-03-21, 03:38:19",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1770656154202333475",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/h4x0r-dz/CVE-2024-21762",
+        "https://www.fortiguard.com/psirt/FG-IR-24-015",
+        "https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "😈CVE-2024-21762 : Fortinet FortiOS &amp; FortiProxy 'sslvpnd' - Unauthenticated Remote Code Execution (OOB)\n😈POC : https://t.co/3OyApd6wqA\n❗️Version : https://t.co/VqmDnTCmv3\n🟢Blog / POC : https://t.co/ciyNu5SMgz https://t.co/vwehNde5Lg",
+    "tweettime": "2024-03-20, 18:16:05",
+    "tweeturl": "https://twitter.com/HackingTeam1/status/1770514665539318248",
+    "username": "HackingTeam1"
+}
+{
+    "expanded_url": [
+        "https://securitylab.github.com/advisories/GHSL-2023-235_GHSL-2023-237_Open_Metadata/"
+    ],
+    "tweetfavorites": 55,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 18,
+    "tweettext": "GHSL-2023-235_GHSL-2023-237,GHSL-2023-251_GHSL-2023-252: Pre-authentication RCE in OpenMetadata - CVE-2024-28253, CVE-2024-28254, CVE-2024-28255, CVE-2024-28845, CVE-2024-28848 https://t.co/coP9b7p8Yh",
+    "tweettime": "2024-03-20, 16:50:33",
+    "tweeturl": "https://twitter.com/GHSecurityLab/status/1770493140757017033",
+    "username": "GHSecurityLab"
 }
 {
     "expanded_url": [
@@ -452,7 +513,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 124,
+    "tweetretweets": 130,
     "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-6241, a vulnerability in the Arm Mali GPU that I reported last November to gain arbitrary kerne…",
     "tweettime": "2024-03-19, 14:45:48",
     "tweeturl": "https://twitter.com/0vercl0k/status/1770099357783818508",
@@ -508,7 +569,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 122,
+    "tweetretweets": 129,
     "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-6241, a vulnerability in the Arm Mali GPU that I reported last November to gain arbitrary kerne…",
     "tweettime": "2024-03-18, 17:21:02",
     "tweeturl": "https://twitter.com/steventseeley/status/1769776034528874955",
@@ -518,17 +579,17 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 114,
+    "tweetretweets": 128,
     "tweettext": "RT @mmolgtm: In this post I'll use CVE-2023-6241, a vulnerability in the Arm Mali GPU that I reported last November to gain arbitrary kerne…",
     "tweettime": "2024-03-18, 16:34:30",
     "tweeturl": "https://twitter.com/chompie1337/status/1769764325332222150",
     "username": "chompie1337"
 }
 {
-    "tweetfavorites": 124,
-    "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 20,
+    "tweetfavorites": 238,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 57,
     "tweettext": "CVE-2022-0412 is time based sql injection but you can extract databases with this command\n\nsqlmap./py -r request./txt --dbs --random-agent --time-sec=12 --level=5 --risk=3 --batch --flush-session\n\n#bugbounty #bugbountytips https://t.co/2IhmC6XF6D",
     "tweettime": "2024-03-18, 13:12:00",
     "tweeturl": "https://twitter.com/0x_rood/status/1769713363712655517",
@@ -551,7 +612,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 144,
+    "tweetretweets": 150,
     "tweettext": "RT @LIJI32: I've exploited MadDirtyCow (CVE-2022-46689) and 2022 CoreTrust bug (CVE-2022-26766) to allow installation of perma-signed apps…",
     "tweettime": "2024-03-18, 12:37:56",
     "tweeturl": "https://twitter.com/jedisct1/status/1769704790504657086",
@@ -574,7 +635,7 @@
     "tweetfavorites": 77,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 29,
+    "tweetretweets": 30,
     "tweettext": "🆕🆕🆕Security Research: Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762\n📰The research details the steps to identify the patched vulnerability and produce a working exploit.\n⚠️⚠️It is another case of a network/security appliance having a pretty serious memory corruption… https://t.co/E6rpK5t71V",
     "tweettime": "2024-03-18, 04:01:35",
     "tweeturl": "https://twitter.com/HunterMapping/status/1769574848999919631",
@@ -644,7 +705,7 @@
     "expanded_url": [
         "https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT"
     ],
-    "tweetfavorites": 142,
+    "tweetfavorites": 143,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 57,
@@ -739,7 +800,7 @@
     "expanded_url": [
         "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html"
     ],
-    "tweetfavorites": 92,
+    "tweetfavorites": 93,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 48,
@@ -871,10 +932,10 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 223,
+    "tweetfavorites": 224,
     "tweetquotes": 4,
     "tweetreplies": 0,
-    "tweetretweets": 105,
+    "tweetretweets": 106,
     "tweettext": "The recent #Fortinet #FortiClient Endpoint Management Server (EMS) SQL injection vulnerability, CVE-2023-48788, allows an unauth attacker to obtain RCE as SYSTEM on the server.\n\nIOCs, POC, and deep-dive blog to be released next week. In the meantime, check DAS service logs for… https://t.co/57ps2WiY8R",
     "tweettime": "2024-03-13, 17:27:37",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1767965754744312161",
@@ -907,10 +968,10 @@
     "expanded_url": [
         "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/?utm_source=organic_social&utm_medium=organic_social&utm_campaign=tech_blog&utm_term=outlook-cve"
     ],
-    "tweetfavorites": 111,
+    "tweetfavorites": 113,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 33,
+    "tweetretweets": 32,
     "tweettext": "CVE-2024-21378 — Remote Code Execution in Microsoft Outlook https://t.co/7ELyXiPiBi #Pentesting #CyberSecurity #Infosec https://t.co/IYWQLMnTht",
     "tweettime": "2024-03-13, 14:30:28",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1767921171176059138",
@@ -970,7 +1031,7 @@
         "https://t.zsxq.com/183GqPIax"
     ],
     "tweetfavorites": 86,
-    "tweetquotes": 2,
+    "tweetquotes": 3,
     "tweetreplies": 0,
     "tweetretweets": 14,
     "tweettext": "analysis for CVE-2024-23917 \n\nhttps://t.co/CBABOYOBec",
@@ -1022,11 +1083,11 @@
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22Outlook%20Web%20App%22"
     ],
-    "tweetfavorites": 302,
-    "tweetquotes": 3,
+    "tweetfavorites": 301,
+    "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 117,
-    "tweettext": "🚨Alert🚨CVE-2024-21378:Remote Code Execution in Microsoft Outlook \n⚠New research has been published on how to discover and exploit the vulnerability️!\n📊662K+ Services are found on https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/D4e39xFXWj\n\nDorks 👇👇👇\nHunter:… https://t.co/BuDUXFkD3I",
+    "tweetretweets": 114,
+    "tweettext": "🚨Alert🚨CVE-2024-21378:Remote Code Execution in Microsoft Outlook \n⚠New research has been published on how to discover and exploit the vulnerability️!\n📊662K+ Services are found on https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/D4e39xFXWj\n\nDorks 👇👇👇\nHunter: https://t.co/BuDUXFkD3I",
     "tweettime": "2024-03-12, 02:53:03",
     "tweeturl": "https://twitter.com/HunterMapping/status/1767383273146376540",
     "username": "HunterMapping"
@@ -1135,7 +1196,7 @@
     "expanded_url": [
         "https://www.netspi.com/blog/technical/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
     ],
-    "tweetfavorites": 456,
+    "tweetfavorites": 458,
     "tweetquotes": 5,
     "tweetreplies": 2,
     "tweetretweets": 187,
@@ -1148,10 +1209,10 @@
     "expanded_url": [
         "https://ow.ly/L29F50QQ7s4"
     ],
-    "tweetfavorites": 183,
+    "tweetfavorites": 195,
     "tweetquotes": 5,
-    "tweetreplies": 2,
-    "tweetretweets": 83,
+    "tweetreplies": 3,
+    "tweetretweets": 89,
     "tweettext": "[Blog] CVE-2024-21378 – Microsoft Outlook Remote Code Execution \n\nHow we discovered &amp; were able to exploit this vulnerability: https://t.co/6R2THE2paW\n\nWritten by: Rich Wolferd, NetSPI’s Director of Red Team Operations &amp; Nick Landers @monoxgas https://t.co/LrAelKRs3R",
     "tweettime": "2024-03-11, 13:07:00",
     "tweeturl": "https://twitter.com/NetSPI/status/1767175389569290359",
@@ -1201,10 +1262,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/"
     ],
-    "tweetfavorites": 254,
+    "tweetfavorites": 250,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 57,
+    "tweetretweets": 56,
     "tweettext": "Great blog post on exploiting Chrome’s V8 JavaScript engine (CVE-2024-0517)\nCredits Javier Jimenez and Vignesh Rao (@XI_Research)\n\nhttps://t.co/NwRnwpMQfR\n\n#infosec #chrome https://t.co/V2ZC1v0Gss",
     "tweettime": "2024-03-09, 16:30:12",
     "tweeturl": "https://twitter.com/0xor0ne/status/1766501753187447058",
@@ -1214,7 +1275,7 @@
     "expanded_url": [
         "https://github.com/hd3s5aa/CVE-2023-21674"
     ],
-    "tweetfavorites": 144,
+    "tweetfavorites": 145,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 30,
@@ -1263,10 +1324,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 204,
+    "tweetfavorites": 203,
     "tweetquotes": 4,
     "tweetreplies": 4,
-    "tweetretweets": 29,
+    "tweetretweets": 30,
     "tweettext": "CVE-2024-23917 Teamcity &lt; 2023.11.3 unauth RCE\n\nyes, CVE-2024-23917 ,  \nnot  CVE-2024-27198 https://t.co/embVgw5RI3",
     "tweettime": "2024-03-07, 17:03:58",
     "tweeturl": "https://twitter.com/chybeta/status/1765785473895780688",
@@ -1362,7 +1423,7 @@
     "tweetfavorites": 55,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 21,
+    "tweetretweets": 22,
     "tweettext": "#Kimsuky  CVE-2024-1709 + CVE-2024-1708\nConnectWise ScreenConnect Vulnerability Exploited to Deploy BABYSHARK Variant\nhttps://t.co/okyQjwRTLN https://t.co/JIHTOAnn3p",
     "tweettime": "2024-03-06, 01:59:23",
     "tweeturl": "https://twitter.com/blackorbird/status/1765195442835382433",

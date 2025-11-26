@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://github.com/bigb0x/CVE-2024-34102"
     ],
-    "tweetfavorites": 34,
+    "tweetfavorites": 35,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 12,
+    "tweetretweets": 13,
     "tweettext": "CVE-2024-34102: Adobe Commerce versions 2.4.7, 2.4.6-p5, 2.4.5-p7, 2.4.4-p8 and earlier are affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability that could result in arbitrary code execution.\n\nPoC\nhttps://t.co/XjtjhVHReX https://t.co/9q8upGebCM",
     "tweettime": "2024-06-29, 13:09:12",
     "tweeturl": "https://twitter.com/cyber_advising/status/1807038611075821689",
@@ -65,10 +65,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/"
     ],
-    "tweetfavorites": 222,
+    "tweetfavorites": 207,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 52,
+    "tweetretweets": 48,
     "tweettext": "Well written blog post on exploiting a Use-after-Free (UaF) in Linux kernel (CVE-2024-0582, io_uring)\nCredits Oriol Castejón (@XI_Research)\n\nhttps://t.co/8eKtsR9t8G\n\n#iouring #infosec https://t.co/0x0ALrpjI9",
     "tweettime": "2024-06-26, 07:00:01",
     "tweeturl": "https://twitter.com/0xor0ne/status/1805858539916669319",
@@ -78,10 +78,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-published-for-windows-kernel-elevation-of-privilege-vulnerability-cve-2024-30088/"
     ],
-    "tweetfavorites": 310,
+    "tweetfavorites": 306,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 120,
+    "tweetretweets": 114,
     "tweettext": "PoC Exploit Published for Windows Kernel Elevation of Privilege Vulnerability (CVE-2024-30088) https://t.co/rAXyin7uyf",
     "tweettime": "2024-06-26, 02:35:03",
     "tweeturl": "https://twitter.com/Dinosn/status/1805791859509223766",
@@ -108,10 +108,10 @@
     "username": "hd3s5"
 }
 {
-    "tweetfavorites": 1662,
+    "tweetfavorites": 1625,
     "tweetquotes": 27,
-    "tweetreplies": 23,
-    "tweetretweets": 355,
+    "tweetreplies": 24,
+    "tweetretweets": 341,
     "tweettext": "We found a Remote Code Execution (RCE) vulnerability in @Ollama - one of the most popular AI inference projects on GitHub. Here is everything you need to know about #Probllama (CVE-2024-37032) 🧵👇 https://t.co/DcYmrwisPC",
     "tweettime": "2024-06-24, 15:27:50",
     "tweeturl": "https://twitter.com/sagitz_/status/1805261557481312623",
@@ -183,7 +183,7 @@
     "expanded_url": [
         "https://github.com/Marven11/CVE-2024-28397-js2py-Sandbox-Escape"
     ],
-    "tweetfavorites": 119,
+    "tweetfavorites": 118,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 37,
@@ -213,10 +213,10 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 237,
-    "tweetquotes": 2,
+    "tweetfavorites": 232,
+    "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 97,
+    "tweetretweets": 93,
     "tweettext": "🚨Alert🚨CVE-2024-37079 &amp; CVE-2024-37080 (CVSS scores: 9.8): Multiple heap-overflow vulnerabilities in the implementation of the DCE/RPC protocol!\n⚠They could allow a bad actor with network access to vCenter Server to achieve remote code execution by sending a specially crafted https://t.co/yaciVaJDDO",
     "tweettime": "2024-06-18, 10:33:30",
     "tweeturl": "https://twitter.com/HunterMapping/status/1803013162297598162",
@@ -262,10 +262,10 @@
     "username": "elhackernet"
 }
 {
-    "tweetfavorites": 421,
+    "tweetfavorites": 412,
     "tweetquotes": 7,
     "tweetreplies": 6,
-    "tweetretweets": 182,
+    "tweetretweets": 176,
     "tweettext": "🚨Alert🚨CVE-2024-30103: Microsoft Outlook Remote Code Execution Vulnerability\n⚠This Microsoft Outlook vulnerability can be circulated from user to user and doesn’t require a click to execute. Rather, execution initiates when an affected email is opened.This is notably dangerous https://t.co/bP3FfbT0Vu",
     "tweettime": "2024-06-17, 08:01:02",
     "tweeturl": "https://twitter.com/HunterMapping/status/1802612402510512523",
@@ -275,10 +275,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/"
     ],
-    "tweetfavorites": 184,
+    "tweetfavorites": 181,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 47,
+    "tweetretweets": 44,
     "tweettext": "Exploiting a Linux kernel io_uring use-after-free (UAF) vulnerability (CVE-2024-0582)\nCredits Oriol Castejón (@ExodusIntel)\n\nhttps://t.co/8eKtsR9t8G\n\n#Linux https://t.co/MdusDariPC",
     "tweettime": "2024-06-16, 07:30:05",
     "tweeturl": "https://twitter.com/0xor0ne/status/1802242228598743169",
@@ -334,6 +334,19 @@
     "username": "linkersec"
 }
 {
+    "expanded_url": [
+        "https://summoning.team/blog/veeam-recovery-orchestrator-auth-bypass-cve-2024-29855/"
+    ],
+    "tweetfavorites": 392,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 46,
+    "tweettext": "🚨🚨DO NOT PANIC! I'm publishing my detailed analysis of CVE-2024-29855 which targets Veeam Recovery Orchestrator Authentication 🩸, this has a score of CVSS 9 🪲, but IMHO its not as severe, however, I like the technical details of it, so here we go 🔥\nhttps://t.co/skbvln88Lg",
+    "tweettime": "2024-06-13, 11:12:20",
+    "tweeturl": "https://twitter.com/SinSinology/status/1801210994963751236",
+    "username": "SinSinology"
+}
+{
     "tweetfavorites": 431,
     "tweetquotes": 1,
     "tweetreplies": 11,
@@ -372,10 +385,10 @@
         "https://dashboard.shadowserver.org/statistics/combined/tree/?day=2024-06-11&source=population&source=population6&tag=msmq&geo=all&data_set=count&scale=log",
         "https://www.shadowserver.org/what-we-do/network-reporting/accessible-msmq-service-report/"
     ],
-    "tweetfavorites": 150,
-    "tweetquotes": 13,
+    "tweetfavorites": 148,
+    "tweetquotes": 12,
     "tweetreplies": 4,
-    "tweetretweets": 79,
+    "tweetretweets": 75,
     "tweettext": "Critical Microsoft Message Queuing (MSMQ) Remote Code Execution (RCE) vulnerability CVE-2024-30080\n\n~256,000 publicly exposed devices: \nhttps://t.co/qjYHm5hikZ\n\nhttps://t.co/DQdwlz6u0t\n\nCheck our free Accessible MSMQ Service Report &amp; patch immediately:\nhttps://t.co/F80eTnh6cx https://t.co/X51kAWyOnr",
     "tweettime": "2024-06-12, 20:19:13",
     "tweeturl": "https://twitter.com/Shadowserver/status/1800986234753302891",
@@ -385,10 +398,10 @@
     "expanded_url": [
         "https://github.com/varwara/CVE-2024-26229"
     ],
-    "tweetfavorites": 634,
+    "tweetfavorites": 627,
     "tweetquotes": 3,
-    "tweetreplies": 9,
-    "tweetretweets": 184,
+    "tweetreplies": 8,
+    "tweetretweets": 180,
     "tweettext": "CVE-2024-26229: An attacker who successfully exploited this vulnerability could gain SYSTEM privileges.\n\nPoC\nhttps://t.co/19siS5H6E6 https://t.co/UabSUIkGO2",
     "tweettime": "2024-06-11, 12:02:59",
     "tweeturl": "https://twitter.com/cyber_advising/status/1800498964980269148",
@@ -408,6 +421,16 @@
     "username": "WangTielei"
 }
 {
+    "tweetfavorites": 1321,
+    "tweetquotes": 9,
+    "tweetreplies": 809,
+    "tweetretweets": 1045,
+    "tweettext": "The @CertiKSkyfall  team identified and collaborated with @Apple  to fix a vulnerability (CVE-2024-27801) in the low-level implementation of NSXPC, affecting all Apple platforms. \n\nThis vulnerability could have potentially allowed malicious apps to gain unauthorized access to https://t.co/sjgS1SExF9",
+    "tweettime": "2024-06-11, 09:35:43",
+    "tweeturl": "https://twitter.com/certik_io/status/1800461903514239158",
+    "username": "certik_io"
+}
+{
     "expanded_url": [
         "https://github.com/rapid7/metasploit-framework/pull/19240",
         "https://mohemiv.com/all/rejetto-http-file-server-2-3m-unauthenticated-rce/#/"
@@ -422,10 +445,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 667,
+    "tweetfavorites": 642,
     "tweetquotes": 10,
     "tweetreplies": 37,
-    "tweetretweets": 82,
+    "tweetretweets": 73,
     "tweettext": "CVE-2024-23282 : A maliciously crafted email may be able to initiate FaceTime calls without user authorization\n\nI submitted a complete PoC for this vulnerability to Apple, but they awarded me a reward of $5,000. I requested a re-evaluation, but Apple declined.😢 https://t.co/CyfMz87GSG",
     "tweettime": "2024-06-10, 22:51:21",
     "tweeturl": "https://twitter.com/l33d0hyun/status/1800299745623367867",
@@ -435,10 +458,10 @@
     "expanded_url": [
         "https://github.com/varwara/CVE-2024-26229"
     ],
-    "tweetfavorites": 279,
+    "tweetfavorites": 269,
     "tweetquotes": 0,
     "tweetreplies": 5,
-    "tweetretweets": 104,
+    "tweetretweets": 98,
     "tweettext": "[CVE-2024-26229] Windows #LPE (PoC)\n\nCWE-781: Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code in the csc.sys driver\n\nhttps://t.co/fzn36DOlVW https://t.co/LItWczp13R",
     "tweettime": "2024-06-10, 21:06:13",
     "tweeturl": "https://twitter.com/injectexp/status/1800273284745023740",
@@ -456,6 +479,19 @@
     "tweettime": "2024-06-10, 10:26:00",
     "tweeturl": "https://twitter.com/elhackernet/status/1800112169054548010",
     "username": "elhackernet"
+}
+{
+    "expanded_url": [
+        "https://github.com/sinsinology/CVE-2024-29849"
+    ],
+    "tweetfavorites": 252,
+    "tweetquotes": 1,
+    "tweetreplies": 6,
+    "tweetretweets": 75,
+    "tweettext": "⚠️Here is the Exploit 🩸 for the Veeam Enterprise Manager Authentication Bypass CVE-2024-29849 🔥🔥🔥\nhttps://t.co/UlZeyatSqm https://t.co/6QBxV21nXy",
+    "tweettime": "2024-06-10, 06:39:57",
+    "tweeturl": "https://twitter.com/SinSinology/status/1800055281230979080",
+    "username": "SinSinology"
 }
 {
     "expanded_url": [
@@ -521,10 +557,10 @@
     "expanded_url": [
         "https://www.jmpeax.dev/CVE-2022-2586-writeup.html"
     ],
-    "tweetfavorites": 174,
+    "tweetfavorites": 162,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 39,
+    "tweetretweets": 36,
     "tweettext": "Writeup on exploiting a Use-after-free (UAF) vulnerability in Linux kernel nf_tables (CVE-2022-2586)\n\nhttps://t.co/hHnuzFbFDO\n\n#cve https://t.co/8XgJ36d06c",
     "tweettime": "2024-06-06, 15:00:03",
     "tweeturl": "https://twitter.com/0xor0ne/status/1798731586046943588",
@@ -547,10 +583,10 @@
     "expanded_url": [
         "https://github.com/sinsinology/CVE-2024-4358"
     ],
-    "tweetfavorites": 324,
+    "tweetfavorites": 326,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 72,
+    "tweetretweets": 74,
     "tweettext": "Always test the :83 default port on servers, maybe there is Telerik Report Server, you can take advantage of the newly revealed vulnerability.\n\n#BugBounty #BugBountyTip\n \n#CVE-2024-4358 / #CVE-2024-1800\n\nhttps://t.co/9yEQkk5toi https://t.co/4HyHrNFAwG",
     "tweettime": "2024-06-04, 05:46:51",
     "tweeturl": "https://twitter.com/ynsmroztas/status/1797867594063450317",
@@ -607,12 +643,25 @@
 }
 {
     "expanded_url": [
+        "https://summoning.team/blog/progress-report-server-rce-cve-2024-4358-cve-2024-1800/"
+    ],
+    "tweetfavorites": 287,
+    "tweetquotes": 4,
+    "tweetreplies": 10,
+    "tweetretweets": 114,
+    "tweettext": "🚨🚨🚨 PoC DROP! Full Details of the CVE-2024-4358 are out now!, a deserialization issue 🔥 chained with an authentication bypass 🪲 leading to pre-auth RCE🩸, This research would've not been possible without the help of my dear friend Soroush @irsdl 💪\nhttps://t.co/qb1noefRtE",
+    "tweettime": "2024-06-03, 09:44:22",
+    "tweeturl": "https://twitter.com/SinSinology/status/1797564978624692305",
+    "username": "SinSinology"
+}
+{
+    "expanded_url": [
         "https://github.com/Zeyad-Azima/CVE-2024-27348"
     ],
     "tweetfavorites": 242,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 49,
+    "tweetretweets": 51,
     "tweettext": "CVE-2024-27348 (RCE) - Unauth users can execute commands via Groovy injection in Apache HugeGraph-Server.\n\nFix: Upgrade to version 1.3.0\n\nPython Scanner: https://t.co/1yZjtsRVuW\n\n#bugbounty #bugbountytip #bugbountytips https://t.co/6XTeioqU4E",
     "tweettime": "2024-06-02, 16:41:14",
     "tweeturl": "https://twitter.com/adrielsec/status/1797307496408784921",

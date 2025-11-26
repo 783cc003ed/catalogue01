@@ -179,10 +179,10 @@
         "https://youtu.be/OdEwBY7rXMw",
         "https://www.exploit-db.com/exploits/46536"
     ],
-    "tweetfavorites": 294,
+    "tweetfavorites": 286,
     "tweetquotes": 5,
     "tweetreplies": 3,
-    "tweetretweets": 174,
+    "tweetretweets": 164,
     "tweettext": "MSHTML Engine RCE - CVE-2019-0541: Running arbitrary code on any Windows version since at least XP up to latest 10 and Server 2019 made SURPRISINGLY easy. Video: https://t.co/V1jQ0TJ7C7  and PoC: https://t.co/KRLmCHXYpN",
     "tweettime": "2019-03-14, 04:25:15",
     "tweeturl": "https://twitter.com/Edu_Braun_0day/status/1106048620678311942",
@@ -218,10 +218,10 @@
     "expanded_url": [
         "https://thehackernews.com/2019/03/update-google-chrome-hack.html"
     ],
-    "tweetfavorites": 449,
-    "tweetquotes": 62,
+    "tweetfavorites": 434,
+    "tweetquotes": 61,
     "tweetreplies": 10,
-    "tweetretweets": 562,
+    "tweetretweets": 534,
     "tweettext": "⚠️ Important — Update your #Google Chrome immediately to patch a new high-severity 0-day RCE #vulnerability (CVE-2019-5786) that hackers are actively exploiting in the wild\n\nhttps://t.co/vrorvFYuU8\n\nPatched Chrome version 72.0.3626.121 has been released for Windows, macOS, Linux https://t.co/IoW8ZjQgZZ",
     "tweettime": "2019-03-06, 09:57:27",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1103233119434489857",

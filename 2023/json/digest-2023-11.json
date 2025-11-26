@@ -35,10 +35,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-for-windows-ntlm-privilege-escalation-flaw-cve-2023-21746-published/"
     ],
-    "tweetfavorites": 436,
+    "tweetfavorites": 423,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 167,
+    "tweetretweets": 165,
     "tweettext": "\"PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published\"\n\n#infosec #pentest #redteam \nhttps://t.co/3VKVO5dqdJ https://t.co/uhFIPdEpux",
     "tweettime": "2023-11-30, 08:22:02",
     "tweeturl": "https://twitter.com/CyberWarship/status/1730140113898721389",
@@ -111,7 +111,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 189,
+    "tweetfavorites": 188,
     "tweetquotes": 10,
     "tweetreplies": 19,
     "tweetretweets": 81,
@@ -378,10 +378,10 @@
     "expanded_url": [
         "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation"
     ],
-    "tweetfavorites": 77,
+    "tweetfavorites": 74,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 30,
+    "tweetretweets": 29,
     "tweettext": "GitHub - OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation: Apt style exploitation of Chrome 0day CVE-2023-4357 - https://t.co/a4k1f3O4wO",
     "tweettime": "2023-11-20, 04:29:18",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1726457667357651091",
@@ -446,7 +446,7 @@
     "tweetfavorites": 264,
     "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 84,
+    "tweetretweets": 86,
     "tweettext": "Splunk RCE -  Proof of concept exploit for CVE-2023-46214, SVD-2023-1104 https://t.co/GTu2IugDtO",
     "tweettime": "2023-11-19, 05:16:50",
     "tweeturl": "https://twitter.com/Dinosn/status/1726107240711819355",
@@ -797,10 +797,10 @@
     "expanded_url": [
         "https://securityonline.info/cve-2023-46850-openvpn-access-server-flaw-exposes-sensitive-data-rce-possible/"
     ],
-    "tweetfavorites": 232,
-    "tweetquotes": 3,
+    "tweetfavorites": 220,
+    "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 74,
+    "tweetretweets": 65,
     "tweettext": "CVE-2023-46850: OpenVPN Access Server Flaw Exposes Sensitive Data, RCE Possible\nhttps://t.co/g5ViH1m9YE\n#opensource #pentesting #infosec #security #vulnerability #OpenVPN #VPN https://t.co/eN2Z4G1xDV",
     "tweettime": "2023-11-12, 13:45:57",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1723698649249821071",
@@ -847,10 +847,10 @@
         "https://gist.github.com/win3zz/aa1ac16c4458aaaec6dd79343b8cd46f",
         "https://www.wiz.io/blog/ubuntu-overlayfs-vulnerability"
     ],
-    "tweetfavorites": 232,
+    "tweetfavorites": 224,
     "tweetquotes": 1,
-    "tweetreplies": 3,
-    "tweetretweets": 69,
+    "tweetreplies": 2,
+    "tweetretweets": 68,
     "tweettext": "PoC Privilege Escalation in Ubuntu/Kali Linux (CVE-2023-2640 and CVE-2023-32629)\n\nCode is available at: https://t.co/OCfMxMZ7UY\n\nFor more details, refer to the original research article: https://t.co/equiPnU9Ph\n\n#hacking #bugbounty #bugbountytip #bugbountytips #ubuntu https://t.co/A0z2wbHEya",
     "tweettime": "2023-11-10, 16:49:32",
     "tweeturl": "https://twitter.com/adrielsec/status/1723020076012429762",
@@ -861,10 +861,10 @@
         "https://gist.github.com/win3zz/aa1ac16c4458aaaec6dd79343b8cd46f",
         "https://www.wiz.io/blog/ubuntu-overlayfs-vulnerability"
     ],
-    "tweetfavorites": 295,
+    "tweetfavorites": 286,
     "tweetquotes": 4,
     "tweetreplies": 0,
-    "tweetretweets": 96,
+    "tweetretweets": 91,
     "tweettext": "PoC - Privilege Escalation in Ubuntu/Kali Linux (CVE-2023-2640 and CVE-2023-32629)\n\nCode is available at: https://t.co/uM2SfV7RIU\n\nFor more details, refer to the original research article: https://t.co/ohMVBkEXeI https://t.co/eDThKn3EuB",
     "tweettime": "2023-11-10, 16:31:51",
     "tweeturl": "https://twitter.com/win3zz/status/1723015625474445451",
@@ -900,10 +900,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 411,
+    "tweetfavorites": 386,
     "tweetquotes": 8,
-    "tweetreplies": 7,
-    "tweetretweets": 87,
+    "tweetreplies": 6,
+    "tweetretweets": 82,
     "tweettext": "We've recreated a proof-of-concept for the SysAid CVE-2023-47246 remote code execution and compromise -- blog post coming ASAP😜\n\nBig thanks to @gleeda @HuskyHacksMK @DaveKleinatland @calebjstewart and the whole @HuntressLabs crew helping dig into this one! https://t.co/zma48YUrCq",
     "tweettime": "2023-11-09, 17:24:18",
     "tweeturl": "https://twitter.com/_JohnHammond/status/1722666437112922300",
@@ -962,10 +962,10 @@
     "expanded_url": [
         "https://zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
     ],
-    "tweetfavorites": 224,
+    "tweetfavorites": 215,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 67,
+    "tweetretweets": 62,
     "tweettext": "Windows privilege escalation through Use-After-Free (UAF) in win32kfull (CVE-2023-21822)\nInteresting writeup by Marcin Wiązowski (@thezdi)\n\nhttps://t.co/Q3j7bxjs44\n\n#exploit #Windows #infosec https://t.co/eCiIS8xueo",
     "tweettime": "2023-11-08, 19:01:01",
     "tweeturl": "https://twitter.com/0xor0ne/status/1722328386280849899",
@@ -975,7 +975,7 @@
     "expanded_url": [
         "https://blog.securelayer7.net/analysis-of-cve-2023-38831-zero-day-vulnerability-in-winrar/"
     ],
-    "tweetfavorites": 77,
+    "tweetfavorites": 76,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 23,
@@ -988,10 +988,10 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 59,
+    "tweetfavorites": 55,
     "tweetquotes": 1,
-    "tweetreplies": 12,
-    "tweetretweets": 31,
+    "tweetreplies": 11,
+    "tweetretweets": 28,
     "tweettext": "🛡️ @CISAgov added 2 🆕 vulnerabilities to the Known Exploited Vulnerabilities Catalog: CVE-2023-46604: #Apache ActiveMQ Deserialization of Untrusted Data Vulnerability &amp; CVE-2023-29552: Service Location Protocol (SLP) Denial-of-Service Vulnerability. 👉https://t.co/myxOwap1Tf https://t.co/wT815lxT12",
     "tweettime": "2023-11-07, 16:16:59",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1721924719077700072",
@@ -1002,10 +1002,10 @@
         "https://github.com/vu-ls/Zenbleed-Chrome-PoC",
         "https://vu.ls/blog/exploiting-zenbleed-from-chrome"
     ],
-    "tweetfavorites": 209,
+    "tweetfavorites": 205,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 60,
+    "tweetretweets": 59,
     "tweettext": "CVE-2023-20593 — Exploiting Zenbleed from Chrome\n\nThis repository contains a proof-of-concept for exploiting Zenbleed from Chrome using a V8 vulnerability which enbles arbitrary code execution in the renderer process.\n\nhttps://t.co/fjlzfcc7Hv\n\nDetails:\nhttps://t.co/L4CQxpE8oh https://t.co/iyLXpvDrRc",
     "tweettime": "2023-11-07, 07:31:19",
     "tweeturl": "https://twitter.com/hack_git/status/1721792430184235114",
@@ -1041,10 +1041,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-for-windows-ntlm-privilege-escalation-flaw-cve-2023-21746-published/"
     ],
-    "tweetfavorites": 360,
+    "tweetfavorites": 346,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 103,
+    "tweetretweets": 101,
     "tweettext": "PoC Exploit for Windows NTLM Privilege Escalation Flaw (CVE-2023-21746) Published\nHTTP/WebDAV scenario is currently unpatched\nhttps://t.co/kZxcKuFj0u\n#opensource #pentesting #infosec #security https://t.co/cgoBaNJAIa",
     "tweettime": "2023-11-04, 09:01:44",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1720728019852280099",
@@ -1065,7 +1065,7 @@
         "https://templates.nuclei.sh/public/CVE-2023-43795",
         "https://www.synacktiv.com/advisories/unauthenticated-server-side-request-forgery-crlf-injection-in-geoserver-wms.html"
     ],
-    "tweetfavorites": 209,
+    "tweetfavorites": 208,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 42,
@@ -1078,10 +1078,10 @@
     "expanded_url": [
         "https://securityonline.info/cve-2023-31102-7-zip-remote-code-execution-vulnerability/"
     ],
-    "tweetfavorites": 346,
+    "tweetfavorites": 331,
     "tweetquotes": 5,
     "tweetreplies": 6,
-    "tweetretweets": 94,
+    "tweetretweets": 92,
     "tweettext": "CVE-2023-31102: 7-Zip Remote Code Execution Vulnerability\nhttps://t.co/8N5ZgN4tOD\n#opensource #pentesting #infosec #security #vulnerability https://t.co/K4bEvcZbgq",
     "tweettime": "2023-11-03, 07:10:00",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1720337516119892209",
@@ -1114,10 +1114,10 @@
     "expanded_url": [
         "https://github.com/W01fh4cker/CVE-2023-46747-RCE"
     ],
-    "tweetfavorites": 323,
+    "tweetfavorites": 306,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 87,
+    "tweetretweets": 85,
     "tweettext": "CVE-2023-46747-RCE\n\nF5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability.\n\nhttps://t.co/xaCLWFXMa3\n\n#cve #cybersecurity #infosec https://t.co/rFDen7Tjbw",
     "tweettime": "2023-11-02, 10:21:05",
     "tweeturl": "https://twitter.com/hack_git/status/1720023214175195232",
@@ -1128,10 +1128,10 @@
         "https://t.zsxq.com/13ZBgTRdQ",
         "https://t.zsxq.com/13OZcG8KI"
     ],
-    "tweetfavorites": 106,
+    "tweetfavorites": 101,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 23,
+    "tweetretweets": 22,
     "tweettext": "analysis for CVE-2023-22518\nconfluence unauth RCE\n\nhttps://t.co/fQrejfcPA6\n\n​https://t.co/eNWmwtqcTh https://t.co/jfvC4CLrdp",
     "tweettime": "2023-11-02, 10:10:23",
     "tweeturl": "https://twitter.com/chybeta/status/1720020520132137382",

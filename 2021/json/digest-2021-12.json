@@ -62,10 +62,10 @@
         "https://github.com/jeffssh/CVE-2021-30860",
         "https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html"
     ],
-    "tweetfavorites": 218,
+    "tweetfavorites": 213,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 75,
+    "tweetretweets": 71,
     "tweettext": "As far as I know this is the first public PoC (just triggers the vuln) for FORCEDENTRY (CVE-2021-30860) https://t.co/Vk8L2VQsFJ. Will eventually publish the code to create this PDF.\nAmazing blogpost by Project Zero on the issue/exploit: https://t.co/BQ0Cdx4Pbi https://t.co/3mwRbtyfwk",
     "tweettime": "2021-12-25, 04:59:29",
     "tweeturl": "https://twitter.com/jeffssh/status/1474605696020881409",
@@ -200,7 +200,7 @@
     "username": "Laughing_Mantis"
 }
 {
-    "tweetfavorites": 147,
+    "tweetfavorites": 146,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 49,
@@ -348,6 +348,19 @@
 }
 {
     "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/releaseNote/2021-Dec"
+    ],
+    "tweetfavorites": 255,
+    "tweetquotes": 7,
+    "tweetreplies": 8,
+    "tweetretweets": 94,
+    "tweettext": "December 2021 Patch Tuesday:\n- 55 Vulnerabilities\n- 7 are Critical \n- 60 are Important\n- 6 are 0day\n- CVE-2021-43890 actively used by Bazar, TrickBot, Emotet for initial access (followed by #ransomware often)\n- 5 0days are Privilege Escalation\n\nhttps://t.co/bb9HH2H6G9",
+    "tweettime": "2021-12-14, 19:10:41",
+    "tweeturl": "https://twitter.com/jorgeorchilles/status/1470833639617351680",
+    "username": "jorgeorchilles"
+}
+{
+    "expanded_url": [
         "https://rawcdn.githack.com/campuscodi/Microsoft-Patch-Tuesday-Security-Reports/b8b6957e33171f633ada139a162df7066765f32b/Reports/MSRC_CVEs2021-Dec.html"
     ],
     "tweetfavorites": 105,
@@ -465,10 +478,10 @@
     "expanded_url": [
         "https://threatfox.abuse.ch/browse/tag/log4j/"
     ],
-    "tweetfavorites": 218,
+    "tweetfavorites": 214,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 86,
+    "tweetretweets": 82,
     "tweettext": "We pushed all rogue LDAP server we are aware of and that are used in #log4j (CVE-2021-44228) exploitation attempts to ThreatFox 🦊\n\n👉 https://t.co/lzovUkwgsQ\n\nAPI call ⚙️:\ncurl -X POST https://threatfox-api.abuse[.]ch/api/v1/ -d '{ \"query\": \"taginfo\", \"tag\": \"log4j\" } https://t.co/dDbne9oJ24",
     "tweettime": "2021-12-13, 07:24:28",
     "tweeturl": "https://twitter.com/abuse_ch/status/1470293527192121345",

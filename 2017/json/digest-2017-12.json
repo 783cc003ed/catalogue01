@@ -22,10 +22,10 @@
     "username": "bellis1000"
 }
 {
-    "tweetfavorites": 274,
-    "tweetquotes": 2,
-    "tweetreplies": 10,
-    "tweetretweets": 44,
+    "tweetfavorites": 239,
+    "tweetquotes": 1,
+    "tweetreplies": 7,
+    "tweetretweets": 37,
     "tweettext": "Progress! Successfully exploited CVE-2016-4655 to leak data from the kernel stack &amp; calculate the KASLR slide :) time to look at the CVE-2016-4656 UAF next https://t.co/qGwkdBW6AD",
     "tweettime": "2017-12-22, 18:09:54",
     "tweeturl": "https://twitter.com/bellis1000/status/944268776261988352",

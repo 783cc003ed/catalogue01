@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/"
     ],
-    "tweetfavorites": 236,
+    "tweetfavorites": 226,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 48,
+    "tweetretweets": 46,
     "tweettext": "Great write up on exploiting CVE-2023-20938: Use-after-free in Android's Binder Linux kernel driver\n\nhttps://t.co/qtlAMph0wW\n\n#Linux https://t.co/cy52O0Nv1i",
     "tweettime": "2024-07-27, 15:30:08",
     "tweeturl": "https://twitter.com/0xor0ne/status/1817220936279396617",
@@ -41,10 +41,10 @@
     "expanded_url": [
         "https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/"
     ],
-    "tweetfavorites": 190,
+    "tweetfavorites": 176,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 41,
+    "tweetretweets": 37,
     "tweettext": "Great blog post by the Android Red Team on exploiting CVE-2023-20938 (Binder Use After Free)\n\nhttps://t.co/qtlAMph0wW\n\n#android https://t.co/oloShnkCU3",
     "tweettime": "2024-07-26, 16:00:59",
     "tweeturl": "https://twitter.com/0xor0ne/status/1816866314188640317",
@@ -68,10 +68,10 @@
         "https://www.ambionics.io/blog/iconv-cve-2024-2961-p1",
         "https://github.com/ambionics/cnext-exploits/"
     ],
-    "tweetfavorites": 426,
-    "tweetquotes": 1,
+    "tweetfavorites": 401,
+    "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 89,
+    "tweetretweets": 85,
     "tweettext": "Exploiting a buffer overflow (CVE-2024-2961) in glibc's iconv()\n\nBlog post: https://t.co/d2SdBplIfs\nPoC: https://t.co/7l9AJveV0D\n\n#glibc https://t.co/tRu2uRV28K",
     "tweettime": "2024-07-23, 15:30:05",
     "tweeturl": "https://twitter.com/0xor0ne/status/1815771372334772653",
@@ -109,10 +109,10 @@
         "https://www.trendmicro.com/en_us/research/24/g/CVE-2024-38112-void-banshee.html",
         "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/g/cve-2024-38112-void-banshee-targets-windows-users-through-zombie-internet-explorer-in-zero-day-attacks/IOCs-CVE-2024-38112.txt"
     ],
-    "tweetfavorites": 104,
-    "tweetquotes": 4,
+    "tweetfavorites": 98,
+    "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 49,
+    "tweetretweets": 46,
     "tweettext": "APT Group Void Banshee +  Microsoft 0day CVE-2024-38112 \nhttps://t.co/wKtY6a1blW\nhttps://t.co/oFlIgm5FHC\nioc:\nhttps://t.co/O0nK9mVkl0 https://t.co/yuAJFvUNxO",
     "tweettime": "2024-07-17, 09:32:11",
     "tweeturl": "https://twitter.com/blackorbird/status/1813506977919848720",
@@ -367,7 +367,7 @@
     "username": "binitamshah"
 }
 {
-    "tweetfavorites": 263,
+    "tweetfavorites": 255,
     "tweetquotes": 2,
     "tweetreplies": 3,
     "tweetretweets": 38,
@@ -435,10 +435,10 @@
         "https://hunter.how/list?searchValue=product.name%3D%22OpenSSH%22",
         "https://github.com/xaitax/CVE-2024-6387_Check"
     ],
-    "tweetfavorites": 262,
+    "tweetfavorites": 269,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 78,
+    "tweetretweets": 80,
     "tweettext": "🚨Alert🚨CVE-2024-6387: Remote Unauthenticated Code Execution Vulnerability in OpenSSH server\n🔗Hunter Link: https://t.co/P2bN5nm6UJ\n💼Scan Tool @xaitax: https://t.co/IwIP1EChQq\n⚠The vulnerability, which is a signal handler race condition in OpenSSH’s server (sshd), allows https://t.co/msUJVaodFT",
     "tweettime": "2024-07-02, 01:38:44",
     "tweeturl": "https://twitter.com/HunterMapping/status/1807952010991620464",
@@ -493,6 +493,19 @@
     "tweettime": "2024-07-01, 11:17:02",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1807735158990111005",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/cve-2024-6387-critical-openssh-unauthenticated-rce-flaw-regresshion-exposes-millions-of-linux-systems/"
+    ],
+    "tweetfavorites": 721,
+    "tweetquotes": 18,
+    "tweetreplies": 9,
+    "tweetretweets": 274,
+    "tweettext": "CVE-2024-6387: Critical OpenSSH Unauthenticated RCE Flaw ‘regreSSHion’ Exposes Millions of Linux Systems https://t.co/k11ECE3RHl",
+    "tweettime": "2024-07-01, 09:14:03",
+    "tweeturl": "https://twitter.com/Dinosn/status/1807704207035658652",
+    "username": "Dinosn"
 }
 {
     "expanded_url": [

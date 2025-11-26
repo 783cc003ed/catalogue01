@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://thehackernews.com/2017/11/cobalt-strike-malware.html"
     ],
-    "tweetfavorites": 168,
+    "tweetfavorites": 161,
     "tweetquotes": 7,
     "tweetreplies": 3,
-    "tweetretweets": 203,
+    "tweetretweets": 188,
     "tweettext": "Hackers Exploit Recently Disclosed Microsoft Office RCE Vulnerability (CVE-2017-11882) to Install Cobalt Backdoor On Computers.\n\nhttps://t.co/ZtE0RwXJ7p\n\nMake sure you have the latest MS Office update installed. https://t.co/ZOz8MVoQw9",
     "tweettime": "2017-11-29, 10:14:03",
     "tweeturl": "https://twitter.com/TheHackersNews/status/935814102886227968",
@@ -38,10 +38,10 @@
     "expanded_url": [
         "https://thehackernews.com/2017/11/exim-internet-mailer-flaws.html"
     ],
-    "tweetfavorites": 138,
+    "tweetfavorites": 129,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 199,
+    "tweetretweets": 188,
     "tweettext": "Critical Vulnerabilities Found in 'Exim' Mail Transfer Agent (MTA) Application:\n\n■ Remote Code Execution (CVE-2017-16943) — PoC Released\n■ Denial Of Service (CVE-2017-16944)  — PoC Released\n\nPatch Update — Exim version 4.90 RC2\n\nhttps://t.co/Cv6FVvRJIL https://t.co/5Ary4wLtCQ",
     "tweettime": "2017-11-27, 10:04:43",
     "tweeturl": "https://twitter.com/TheHackersNews/status/935086979028541440",
@@ -51,10 +51,10 @@
     "expanded_url": [
         "https://thehackernews.com/2017/11/microsoft-office-rce-exploit.html"
     ],
-    "tweetfavorites": 365,
-    "tweetquotes": 16,
-    "tweetreplies": 7,
-    "tweetretweets": 446,
+    "tweetfavorites": 329,
+    "tweetquotes": 14,
+    "tweetreplies": 5,
+    "tweetretweets": 396,
     "tweettext": "17-Year-Old Microsoft Office RCE Vulnerability (CVE-2017-11882) Allows Hackers to Install Malware On Windows PCs Without User Interaction\n\nhttps://t.co/AUA99KSVs9 https://t.co/IEcsoKpgPd",
     "tweettime": "2017-11-15, 10:08:55",
     "tweeturl": "https://twitter.com/TheHackersNews/status/930739383094988801",
@@ -71,10 +71,10 @@
     "username": "GossiTheDog"
 }
 {
-    "tweetfavorites": 104,
+    "tweetfavorites": 101,
     "tweetquotes": 5,
     "tweetreplies": 3,
-    "tweetretweets": 62,
+    "tweetretweets": 61,
     "tweettext": "(CVE-2017-11882) RCE on all MS Office/Windows versions without user interaction. https://t.co/2gdJ1SBjdp",
     "tweettime": "2017-11-15, 09:15:12",
     "tweeturl": "https://twitter.com/PaulWebSec/status/930725861627760640",

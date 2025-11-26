@@ -41,10 +41,10 @@
     "expanded_url": [
         "https://www.nccgroup.trust/uk/our-research/technical-advisory-bypassing-microsoft-xoml-workflows-protection-mechanisms-using-deserialisation-of-untrusted-data/"
     ],
-    "tweetfavorites": 254,
+    "tweetfavorites": 250,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 179,
+    "tweetretweets": 176,
     "tweettext": "Blog post on XOML deserialization has been updated with a working SharePoint RCE  (using CVE-2018-8421): https://t.co/8YlDorMvnR @NCCGroupInfosec @pwntester https://t.co/eUPTiyl0Ul",
     "tweettime": "2018-11-12, 14:24:26",
     "tweeturl": "https://twitter.com/irsdl/status/1061988090124926977",
@@ -93,7 +93,7 @@
     "expanded_url": [
         "https://blog.talosintelligence.com/2018/11/TALOS-2018-0636.html"
     ],
-    "tweetfavorites": 198,
+    "tweetfavorites": 199,
     "tweetquotes": 4,
     "tweetreplies": 2,
     "tweetretweets": 158,

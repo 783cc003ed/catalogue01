@@ -48,10 +48,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 278,
+    "tweetfavorites": 273,
     "tweetquotes": 4,
     "tweetreplies": 14,
-    "tweetretweets": 117,
+    "tweetretweets": 112,
     "tweettext": "#CVE-2019-2729 Weblogic RCE, it’s the bypass of CVE-2019-2725.But the PoC only works in JDK1.6. BTW maybe it’s the last time to disclose PoC, because it’s illegal in my country from now on. https://t.co/462V5wUxj8",
     "tweettime": "2019-06-22, 14:18:06",
     "tweeturl": "https://twitter.com/pyn3rd/status/1142436602989297664",
@@ -97,20 +97,20 @@
     "username": "thezdi"
 }
 {
-    "tweetfavorites": 187,
-    "tweetquotes": 4,
+    "tweetfavorites": 182,
+    "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 67,
+    "tweetretweets": 64,
     "tweettext": "Weblogic XMLDecoder RCE\nstart from CVE-2017-3506, end at CVE-2019-2729. We drive Oracle crazy ,finally they utilize WHITELIST to fix. https://t.co/CWXN6zVAsQ",
     "tweettime": "2019-06-20, 04:43:35",
     "tweeturl": "https://twitter.com/pyn3rd/status/1141567246864539654",
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 740,
+    "tweetfavorites": 710,
     "tweetquotes": 13,
-    "tweetreplies": 13,
-    "tweetretweets": 250,
+    "tweetreplies": 12,
+    "tweetretweets": 238,
     "tweettext": "Finally I've got RCE with CVE-2019-0708 on Win7 x64 (#BlueKeep). Thanks @ryHanson for the help. https://t.co/6gLkisHOAR",
     "tweettime": "2019-06-20, 03:37:35",
     "tweeturl": "https://twitter.com/straight_blast/status/1141550634920890369",
@@ -133,10 +133,10 @@
     "expanded_url": [
         "https://zeropwn.github.io/2019-05-22-fun-with-uri-handlers/"
     ],
-    "tweetfavorites": 208,
+    "tweetfavorites": 209,
     "tweetquotes": 1,
     "tweetreplies": 5,
-    "tweetretweets": 74,
+    "tweetretweets": 75,
     "tweettext": "CVE-2019-12828 Origin RCE analysis and proof of concept. https://t.co/O96NK8BmOZ #security #bounty #bugbounty #redteam #rce #qt  #bugbountytips",
     "tweettime": "2019-06-19, 23:32:39",
     "tweeturl": "https://twitter.com/zer0pwn/status/1141488997182709760",
@@ -196,10 +196,10 @@
         "https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/",
         "https://github.com/D4stiny/Dell-Support-Assist-RCE-PoC"
     ],
-    "tweetfavorites": 190,
+    "tweetfavorites": 175,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 91,
+    "tweetretweets": 80,
     "tweettext": "CVE-2019-3719 - WriteUp &amp; Poc \n\n- Dell SupportAssist RCE ! (from 05/2019, but i think it's still hot ;-)\n\nWriteUp\nhttps://t.co/v3w6HE01V6\n\nPoC\nhttps://t.co/tjqZEELDsI\n\n#infosec #pentest #exploit https://t.co/2laptTCDtF",
     "tweettime": "2019-06-10, 06:50:25",
     "tweeturl": "https://twitter.com/CyberWarship/status/1137975287419940864",
@@ -216,10 +216,10 @@
     "username": "MsftSecIntel"
 }
 {
-    "tweetfavorites": 300,
+    "tweetfavorites": 289,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 99,
+    "tweetretweets": 97,
     "tweettext": "Now that SandboxEscaper found 2 bypasses for CVE-2019-0841 and released them as 0days both based on my public PoC. I wonder if these 0days wouldn't be public if I never disclosed the details. 🤔 https://t.co/szdrY73T1L",
     "tweettime": "2019-06-07, 14:46:26",
     "tweeturl": "https://twitter.com/rogue_kdc/status/1137007917125853184",
@@ -229,10 +229,10 @@
     "expanded_url": [
         "https://thehackernews.com/2019/06/windows-eop-exploit.html"
     ],
-    "tweetfavorites": 473,
-    "tweetquotes": 21,
-    "tweetreplies": 7,
-    "tweetretweets": 365,
+    "tweetfavorites": 435,
+    "tweetquotes": 20,
+    "tweetreplies": 6,
+    "tweetretweets": 332,
     "tweettext": "Hacker going by the name of #SandboxEscaper today discloses a second zero-day exploit that apparently bypasses #Microsoft's patch for a Windows EoP vulnerability (CVE-2019-0841)\n\nhttps://t.co/DdO0bztrO5\n\n—by @security_wang https://t.co/LNDzqajDOc",
     "tweettime": "2019-06-07, 10:52:58",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1136949163587821568",
@@ -252,10 +252,10 @@
     "username": "pozdnychev"
 }
 {
-    "tweetfavorites": 1036,
-    "tweetquotes": 17,
+    "tweetfavorites": 989,
+    "tweetquotes": 16,
     "tweetreplies": 15,
-    "tweetretweets": 361,
+    "tweetretweets": 341,
     "tweettext": "I've got reliable RCE on Windows 7 / Server 2008 and I have very little experience with kernel exploitation... Now I understand why MSRC considers CVE-2019-0708 so dangerous. https://t.co/ChGYTgyetV",
     "tweettime": "2019-06-03, 23:13:14",
     "tweeturl": "https://twitter.com/ryHanson/status/1135685906965262336",

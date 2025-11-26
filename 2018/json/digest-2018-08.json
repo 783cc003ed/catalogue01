@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://blog.ret2.io/2018/08/28/pwn2own-2018-sandbox-escape/"
     ],
-    "tweetfavorites": 478,
+    "tweetfavorites": 463,
     "tweetquotes": 6,
-    "tweetreplies": 8,
-    "tweetretweets": 285,
+    "tweetreplies": 7,
+    "tweetretweets": 277,
     "tweettext": "Closing out the #Pwn2Own 2018 blog series with with the details behind our sandbox-to-root privilege escalation (CVE-2018-4193). Write a less-shady exploit, and we'll give you a free #BinaryNinja Commercial License! https://t.co/ZwnVlobPUN https://t.co/Dm2zEqCa8A",
     "tweettime": "2018-08-28, 15:56:50",
     "tweeturl": "https://twitter.com/ret2systems/status/1034469866626064384",
@@ -88,12 +88,38 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2018/08/apache-struts-vulnerability.html"
+    ],
+    "tweetfavorites": 214,
+    "tweetquotes": 12,
+    "tweetreplies": 3,
+    "tweetretweets": 178,
+    "tweettext": "Incoming, take cover! A hacker releases PoC exploit for the newly discovered #RCE vulnerability (CVE-2018-11776) in #ApacheStruts web app framework \n\nhttps://t.co/8so0ryRtDM https://t.co/XG84O3YDU5",
+    "tweettime": "2018-08-23, 18:28:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1032696163798065154",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/08/apache-struts-vulnerability.html"
+    ],
+    "tweetfavorites": 213,
+    "tweetquotes": 13,
+    "tweetreplies": 5,
+    "tweetretweets": 223,
+    "tweettext": "⚡Important — a new critical RCE vulnerability (CVE-2018-11776) discovered in the \"Apache Struts\" framework that could let remote hackers take over affected web servers.\n\nhttps://t.co/8so0ryRtDM\n\n— PATCH NOW!\n\n#hacking #exploit #security #infosec #patch #cybersecurity https://t.co/1OCE7wULLX",
+    "tweettime": "2018-08-22, 14:14:45",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1032269850025119744",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://www.atredis.com/blog/cve-2018-0952-privilege-escalation-vulnerability-in-windows-standard-collector-service"
     ],
-    "tweetfavorites": 854,
+    "tweetfavorites": 831,
     "tweetquotes": 8,
     "tweetreplies": 6,
-    "tweetretweets": 476,
+    "tweetretweets": 464,
     "tweettext": "Here is my write up on how I discovered and exploited a privilege escalation bug affecting Windows 10, Server 2016, and Visual Studio (CVE-2018-0952): https://t.co/z4eVe7TFRC https://t.co/oR3rvDYqTj",
     "tweettime": "2018-08-21, 21:10:33",
     "tweeturl": "https://twitter.com/ryHanson/status/1032012102473404421",
@@ -103,10 +129,10 @@
     "expanded_url": [
         "https://github.com/Rhynorater/CVE-2018-15473-Exploit"
     ],
-    "tweetfavorites": 782,
-    "tweetquotes": 14,
+    "tweetfavorites": 753,
+    "tweetquotes": 13,
     "tweetreplies": 16,
-    "tweetretweets": 417,
+    "tweetretweets": 399,
     "tweettext": "Just released a new exploit for CVE-2018-15473 OpenSSH Username Enumeration! You can find it here: https://t.co/EWn4PSyo4F https://t.co/xs7S6eQkG6",
     "tweettime": "2018-08-21, 01:33:36",
     "tweeturl": "https://twitter.com/Rhynorater/status/1031715914197225475",

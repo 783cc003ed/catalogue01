@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://github.com/k8gege/ZimbraExploit"
     ],
-    "tweetfavorites": 43,
+    "tweetfavorites": 44,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 17,
     "tweettext": "Zimbra Mail System Vulnerability XE/RCE/SSRF/Upload GetShell Exploit 1. (CVE-2019-9621 Zimbra&lt;8.8.11 XXE GetShell Exploit)\n\nhttps://t.co/0TS616lEWL",
     "tweettime": "2022-01-29, 17:53:15",
     "tweeturl": "https://twitter.com/Alra3ees/status/1487483996250456078",
@@ -294,10 +294,10 @@
     "expanded_url": [
         "https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/"
     ],
-    "tweetfavorites": 406,
+    "tweetfavorites": 398,
     "tweetquotes": 7,
-    "tweetreplies": 6,
-    "tweetretweets": 176,
+    "tweetreplies": 7,
+    "tweetretweets": 171,
     "tweettext": "Our first blog post is up! \n\nCVE-2021-45467: Preauth RCE in CentOS Web Panel affecting 200k+ web servers on Shodan (pls patch). We bypass strstr() based LFI protection and put a shell on the server. \nhttps://t.co/DvyakBkajj #bugbounty #bugbountytip https://t.co/0Z0cPU6HFl",
     "tweettime": "2022-01-22, 04:05:04",
     "tweeturl": "https://twitter.com/OctagonNetworks/status/1484738862865739782",
@@ -429,10 +429,10 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 1742,
-    "tweetquotes": 13,
-    "tweetreplies": 41,
-    "tweetretweets": 223,
+    "tweetfavorites": 1632,
+    "tweetquotes": 12,
+    "tweetreplies": 35,
+    "tweetretweets": 212,
     "tweettext": "i'll admit - when i found it, i wasn't totally sure if i could get LPE with this strange little kernel bug alone. it took triggering the vuln 4x to do a full privesc with #CVE-2021-41073, a vuln in io_uring. blog post soon :) https://t.co/2dJKDMLdUv",
     "tweettime": "2022-01-12, 23:43:32",
     "tweeturl": "https://twitter.com/chompie1337/status/1481411553698238465",
@@ -517,7 +517,7 @@
     "expanded_url": [
         "https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce"
     ],
-    "tweetfavorites": 766,
+    "tweetfavorites": 764,
     "tweetquotes": 15,
     "tweetreplies": 4,
     "tweetretweets": 304,

@@ -150,10 +150,10 @@
     "expanded_url": [
         "https://github.com/duc-nt/CVE-2020-6287-exploit"
     ],
-    "tweetfavorites": 453,
-    "tweetquotes": 3,
+    "tweetfavorites": 427,
+    "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 195,
+    "tweetretweets": 184,
     "tweettext": "So, here is a gift for you about CVE-2020-6287 SAP RCE exploit :). \nOnly user create, no more administrator permission set. 😄\n\nhttps://t.co/9eXHQF2x3u https://t.co/W5Gp2tEhBI",
     "tweettime": "2020-07-20, 18:52:24",
     "tweeturl": "https://twitter.com/ducnt_/status/1285286454910844928",
@@ -767,10 +767,10 @@
     "expanded_url": [
         "https://swarm.ptsecurity.com/remote-code-execution-in-citrix-adc/"
     ],
-    "tweetfavorites": 507,
+    "tweetfavorites": 489,
     "tweetquotes": 9,
     "tweetreplies": 4,
-    "tweetretweets": 250,
+    "tweetretweets": 243,
     "tweettext": "Read this article about CVE-2019-19781 RCE in Citrix by its author, Mikhail Klyuchnikov: https://t.co/PrWRwzVtXD https://t.co/hlV0y8005p",
     "tweettime": "2020-07-08, 14:05:09",
     "tweeturl": "https://twitter.com/ptswarm/status/1280865508875816960",
@@ -807,10 +807,10 @@
     "expanded_url": [
         "https://viz.greynoise.io/ip/63.250.33.58"
     ],
-    "tweetfavorites": 327,
+    "tweetfavorites": 272,
     "tweetquotes": 3,
-    "tweetreplies": 10,
-    "tweetretweets": 141,
+    "tweetreplies": 9,
+    "tweetretweets": 110,
     "tweettext": "Someone in Namecheap already using the Metasploit module to exploit the F5 Big-IP CVE-2020-5902 RCE vuln. \n\nThis module was merged to master in Metasploit GitHub...... four hours ago\n\nhttps://t.co/1qiPhBgXFU https://t.co/SrsTj3LkS5",
     "tweettime": "2020-07-07, 21:46:30",
     "tweeturl": "https://twitter.com/Andrew___Morris/status/1280619226454163458",
@@ -931,10 +931,10 @@
     "expanded_url": [
         "https://link.medium.com/XCqDRN6nT7"
     ],
-    "tweetfavorites": 332,
+    "tweetfavorites": 323,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 158,
+    "tweetretweets": 153,
     "tweettext": "I just published \"Weaponizes #nuclei Workflows to Pwn All the Things\" https://t.co/H3TrR50QtQ \n\nIncluding Spring Boot (CVE-2018-1271, CVE-2019-3799, CVE-2020-5410, Jolokia XXE) &amp; F5 BIG-IP Remote Command Execution (CVE-2020-5902)\n\n#bugbountytips #infosec https://t.co/WNb6XBz9Hq",
     "tweettime": "2020-07-06, 05:54:27",
     "tweeturl": "https://twitter.com/dwisiswant0/status/1280017244789993472",
@@ -1115,10 +1115,10 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 255,
+    "tweetfavorites": 223,
     "tweetquotes": 3,
-    "tweetreplies": 11,
-    "tweetretweets": 96,
+    "tweetreplies": 10,
+    "tweetretweets": 81,
     "tweettext": "Spent some time with @0xm1rch to get our exploit working for the F5 Big-IP TMUI vuln (CVE-2020-5902) We also got LPE working easily #infosec https://t.co/BxMUSPcLAD",
     "tweettime": "2020-07-05, 01:03:43",
     "tweeturl": "https://twitter.com/CharlesDardaman/status/1279581691573567489",
@@ -1246,10 +1246,10 @@
     "username": "pentestltd"
 }
 {
-    "tweetfavorites": 263,
+    "tweetfavorites": 259,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 76,
+    "tweetretweets": 74,
     "tweettext": "#CVE-2020-1948 Apache Dubbo Hessian Remote Code Execution(RPC over HTTP) https://t.co/WM9swFY3fM",
     "tweettime": "2020-07-03, 02:49:47",
     "tweeturl": "https://twitter.com/pyn3rd/status/1278883609588318208",
@@ -1259,10 +1259,10 @@
     "expanded_url": [
         "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1088"
     ],
-    "tweetfavorites": 286,
+    "tweetfavorites": 280,
     "tweetquotes": 1,
     "tweetreplies": 5,
-    "tweetretweets": 78,
+    "tweetretweets": 77,
     "tweettext": "CVE-2020-12418 - Mozilla Firefox URL mPath Information Disclosure Vulnerability \nAll details in the advisory : https://t.co/LcfB0us26b\nor just take a glance at this picture: https://t.co/VVH41jvtzg",
     "tweettime": "2020-07-01, 19:55:19",
     "tweeturl": "https://twitter.com/_Icewall/status/1278416918492446720",

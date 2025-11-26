@@ -13,10 +13,10 @@
     "username": "steventseeley"
 }
 {
-    "tweetfavorites": 306,
+    "tweetfavorites": 300,
     "tweetquotes": 4,
     "tweetreplies": 6,
-    "tweetretweets": 151,
+    "tweetretweets": 147,
     "tweettext": "#CVE-2018-3246 Weblogic XML External Entity (XXE). I utilized Weblogic  12.1.3.0.0 for the test. https://t.co/5yjGBafXBD",
     "tweettime": "2018-10-27, 14:39:08",
     "tweeturl": "https://twitter.com/pyn3rd/status/1056193585987706882",
@@ -53,10 +53,10 @@
     "expanded_url": [
         "https://hacker.house/releasez/expl0itz/openbsd-0day-cve-2018-14665.sh"
     ],
-    "tweetfavorites": 548,
-    "tweetquotes": 24,
-    "tweetreplies": 22,
-    "tweetretweets": 425,
+    "tweetfavorites": 479,
+    "tweetquotes": 21,
+    "tweetreplies": 20,
+    "tweetretweets": 356,
     "tweettext": "OpenBSD #0day Xorg LPE via CVE-2018-14665 can be triggered from a remote SSH session, does not need to be on a local console. An attacker can literally take over impacted systems with 3 commands or less. exploit https://t.co/3FqgJPeCvO 🙄 https://t.co/8HCBXwBj5M",
     "tweettime": "2018-10-25, 21:14:26",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1055568290112831490",
@@ -92,10 +92,10 @@
     "expanded_url": [
         "https://blog.skullsecurity.org/2018/technical-rundown-of-webexec"
     ],
-    "tweetfavorites": 187,
+    "tweetfavorites": 179,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 138,
+    "tweetretweets": 129,
     "tweettext": "Technical Rundown of WebExec (CVE-2018-15442) - Cisco Webex Meetings Desktop App for Windows RCE with SYSTEM privileges https://t.co/lF4sJBfxs7 #WebExec #vulnerability https://t.co/cqK0FFw5rY",
     "tweettime": "2018-10-25, 14:33:50",
     "tweeturl": "https://twitter.com/x0rz/status/1055467476560031749",
@@ -105,10 +105,10 @@
     "expanded_url": [
         "https://www.youtube.com/watch?v=0uejy9aCNbI"
     ],
-    "tweetfavorites": 291,
+    "tweetfavorites": 282,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 78,
+    "tweetretweets": 75,
     "tweettext": "HOW FRCKN' HARD IS IT TO UNDERSTAND A URL?! \n\nA video looking at the underlaying issue of a universal XSS in Chrome on iOS (CVE-2018-6128)\n\nhttps://t.co/FNI17rg6qW https://t.co/EQm0CaUpNP",
     "tweettime": "2018-10-19, 20:41:47",
     "tweeturl": "https://twitter.com/LiveOverflow/status/1053385745870786561",
@@ -159,6 +159,19 @@
     "tweettime": "2018-10-10, 19:26:00",
     "tweeturl": "https://twitter.com/SelsRoger/status/1050105182422556672",
     "username": "SelsRoger"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2018/10/router-hacking-exploit.html"
+    ],
+    "tweetfavorites": 180,
+    "tweetquotes": 12,
+    "tweetreplies": 2,
+    "tweetretweets": 177,
+    "tweettext": "Turns Out #MikroTik Router's WinBox #Vulnerability (CVE-2018-14847) is More Dangerous Than Previously Thought\n\nNew PoC Exploit Allows Attackers to Gain Full Root Access—Turned  'Medium' Vulnerability Into 'Critical' in Severity\n\nhttps://t.co/ZD9qWT8YW3 https://t.co/MDfspXziMU",
+    "tweettime": "2018-10-08, 15:41:58",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1049324028144640000",
+    "username": "TheHackersNews"
 }
 {
     "expanded_url": [

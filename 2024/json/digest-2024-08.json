@@ -15,7 +15,7 @@
     "tweetfavorites": 95,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 30,
+    "tweetretweets": 29,
     "tweettext": "North Korean threat actor exploiting a zero-day vulnerability in Chromium CVE-2024-7971\nhttps://t.co/sNlGAA3gyY https://t.co/8P5FyHTY79",
     "tweettime": "2024-08-31, 01:41:16",
     "tweeturl": "https://twitter.com/blackorbird/status/1829695919635513513",
@@ -48,10 +48,10 @@
     "expanded_url": [
         "https://msft.it/6010l7S6w"
     ],
-    "tweetfavorites": 606,
+    "tweetfavorites": 588,
     "tweetquotes": 30,
-    "tweetreplies": 22,
-    "tweetretweets": 254,
+    "tweetreplies": 25,
+    "tweetretweets": 245,
     "tweettext": "Microsoft identified a North Korean threat actor exploiting a zero-day vulnerability in Chromium (CVE-2024-7971) to gain remote code execution. Our assessment of ongoing analysis and observed infrastructure attributes this activity to Citrine Sleet. https://t.co/ITqOQpWn2v",
     "tweettime": "2024-08-30, 16:05:00",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1829550899766653064",
@@ -324,10 +324,10 @@
     "expanded_url": [
         "https://github.com/ynwarcs/CVE-2024-38063"
     ],
-    "tweetfavorites": 335,
+    "tweetfavorites": 479,
     "tweetquotes": 1,
-    "tweetreplies": 3,
-    "tweetretweets": 92,
+    "tweetreplies": 4,
+    "tweetretweets": 118,
     "tweettext": "POC for CVE-2024-38063 (RCE in Windows TCP/IP) : https://t.co/ZnSrAbjqQ3 https://t.co/vmS3wudegs",
     "tweettime": "2024-08-27, 09:58:04",
     "tweeturl": "https://twitter.com/binitamshah/status/1828371393282744718",
@@ -462,7 +462,7 @@
         "https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-proxying-to-kernel-part1-en/",
         "https://big5-sec.github.io/posts/CVE-2023-29360-analysis/"
     ],
-    "tweetfavorites": 119,
+    "tweetfavorites": 118,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 38,
@@ -692,28 +692,14 @@
     "expanded_url": [
         "https://github.com/Sachinart/CVE-2024-38063-POC"
     ],
-    "tweetfavorites": 133,
+    "tweetfavorites": 127,
     "tweetquotes": 2,
-    "tweetreplies": 1,
-    "tweetretweets": 40,
+    "tweetreplies": 0,
+    "tweetretweets": 38,
     "tweettext": "#exploit\nCVE-2024-38063:\nWindows TCP/IP RCE\n]-&gt; https://t.co/kPXgQpxUOU",
     "tweettime": "2024-08-21, 04:33:52",
     "tweeturl": "https://twitter.com/ksg93rd/status/1826115480182264151",
     "username": "ksg93rd"
-}
-{
-    "expanded_url": [
-        "http://Netlas.io",
-        "https://nt.ls/xS1vx"
-    ],
-    "tweetfavorites": 35,
-    "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 9,
-    "tweettext": "CVE-2024-5932: Deserialization of Untrusted Data in GiveWP plugin, 10.0 rating 🔥🔥🔥\n\nVuln leaves thousands of WordPress sites vulnerable to RCE and arbitrary file deletion\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/JUijK3K9No\n\n#cybersecurity #vulnerability_map https://t.co/QYCUzndj51",
-    "tweettime": "2024-08-20, 18:37:23",
-    "tweeturl": "https://twitter.com/Netlas_io/status/1825965369925714114",
-    "username": "Netlas_io"
 }
 {
     "expanded_url": [
@@ -742,10 +728,10 @@
     "expanded_url": [
         "https://xintra.org"
     ],
-    "tweetfavorites": 295,
+    "tweetfavorites": 287,
     "tweetquotes": 2,
     "tweetreplies": 8,
-    "tweetretweets": 89,
+    "tweetretweets": 86,
     "tweettext": "NEW LAB 🥳: WinDbg Crash Dump Analysis by @DebugPrivilege \n\nUsing WinDbg to analyze dumps of CVE-2024-29824 and CVE-2023-29357 exploited in the wild.\n\n👇Solve the incident here 👇\nhttps://t.co/HSjQ9Itkwp \n\nTest your memory forensic skills on:   \n👀Reflective DLL Injection https://t.co/EQzECGGYWv",
     "tweettime": "2024-08-20, 09:54:12",
     "tweeturl": "https://twitter.com/inversecos/status/1825833704306126924",
@@ -756,10 +742,10 @@
         "http://hunter.how",
         "https://hunter.how/list?searchValue=web.body%3D%22%2Fwp-content%2Fplugins%2Fgive%22"
     ],
-    "tweetfavorites": 403,
+    "tweetfavorites": 394,
     "tweetquotes": 8,
-    "tweetreplies": 5,
-    "tweetretweets": 134,
+    "tweetreplies": 4,
+    "tweetretweets": 130,
     "tweettext": "🚨Alert🚨CVE-2024-5932 (CVSS 10): Critical RCE Vulnerability Impacts 100k+ WordPress Sites!\n📊 173K+ Services are found on https://t.co/ysWb28BTvF yearly\n🔗Hunter Link: https://t.co/oyEIfqsipF\n👇Search Query\nHUNTER:  web.body=\"/wp-content/plugins/give\" https://t.co/CrX5kmdWrH",
     "tweettime": "2024-08-20, 07:22:46",
     "tweeturl": "https://twitter.com/HunterMapping/status/1825795597850292566",
@@ -851,20 +837,33 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063"
     ],
-    "tweetfavorites": 994,
+    "tweetfavorites": 939,
     "tweetquotes": 22,
-    "tweetreplies": 28,
-    "tweetretweets": 331,
+    "tweetreplies": 27,
+    "tweetretweets": 304,
     "tweettext": "💥 Windows TCP/IP RCE Vulnerability\n💥 CVSS 9.8\n💥 Microsoft just released patches for end-of-life Windows 2008\n\nNeed I say more?\n\nCVE-2024-38063\n\nhttps://t.co/RSo8OJFZWZ https://t.co/4xv30ukyRk",
     "tweettime": "2024-08-15, 15:31:31",
     "tweeturl": "https://twitter.com/cyb3rops/status/1824106655388508579",
     "username": "cyb3rops"
 }
 {
-    "tweetfavorites": 250,
+    "expanded_url": [
+        "https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-bitlocker-security-fix-advises-manual-mitigation/"
+    ],
+    "tweetfavorites": 375,
+    "tweetquotes": 26,
+    "tweetreplies": 17,
+    "tweetretweets": 203,
+    "tweettext": "Microsoft has disabled the fix for a BitLocker security feature bypass vulnerability (CVE-2024-38058) and advises customers to apply manual mitigations instead, which require eight restarts - @serghei\nhttps://t.co/ySWF3LNkg4",
+    "tweettime": "2024-08-15, 15:27:17",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1824105591297475048",
+    "username": "BleepinComputer"
+}
+{
+    "tweetfavorites": 249,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 45,
+    "tweetretweets": 48,
     "tweettext": "#CVE-2024-21733, a Tomcat HTTP Request Smuggling vulnerability, reminds me of the HeartBleed vulnerability, which had a profound impact 10 years ago. In both cases, buffer over-reading is the root cause. Attacker is overwhelmingly likely to skim sensitive data from buffer cache. https://t.co/VG9qu2SCs4",
     "tweettime": "2024-08-15, 15:10:51",
     "tweeturl": "https://twitter.com/pyn3rd/status/1824101455969788274",
@@ -874,10 +873,10 @@
     "expanded_url": [
         "https://bit.ly/46PQiXS"
     ],
-    "tweetfavorites": 47,
+    "tweetfavorites": 44,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 16,
+    "tweetretweets": 11,
     "tweettext": "Make sure to assess if CVE-2024-38063 (Windows TCP/IP Remote Code Execution Vulnerability) could impact your environment and patch accordingly. Microsoft has labeled this as “Exploitation More Likely.” https://t.co/1f0kmL4y8T\n\n#CVE202438063 #RemoteCodeExecution https://t.co/3lBeJTi33W",
     "tweettime": "2024-08-15, 14:19:06",
     "tweeturl": "https://twitter.com/Unit42_Intel/status/1824088429207912733",
@@ -920,10 +919,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063"
     ],
-    "tweetfavorites": 85,
-    "tweetquotes": 4,
-    "tweetreplies": 1,
-    "tweetretweets": 37,
+    "tweetfavorites": 254,
+    "tweetquotes": 7,
+    "tweetreplies": 4,
+    "tweetretweets": 118,
     "tweettext": "CVE-2024-38063, puntuación de 9.8\nWindows TCP/IP Remote Code Execution Vulnerability \nImpact: Remote Code Execution Max Severity: Critical\nSystems are not affected if IPv6 is disabled on the target machine.\n👇ñapa mitigadora, desactivar IPv6\nhttps://t.co/Qq8BE4QwlX https://t.co/OLEyfBkVdW",
     "tweettime": "2024-08-14, 13:12:30",
     "tweeturl": "https://twitter.com/cibernicola_es/status/1823709283953074517",
@@ -982,10 +981,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 214,
-    "tweetquotes": 8,
+    "tweetfavorites": 236,
+    "tweetquotes": 9,
     "tweetreplies": 9,
-    "tweetretweets": 54,
+    "tweetretweets": 55,
     "tweettext": "Anyone else side-eyeing  CVE-2024-38063 patched today? 👀  Unauthenticated RCE w/SYSTEM privs 😒. Microsoft assessed this sucker with Max criticality &amp; Low attack complexity. https://t.co/vACoXeJ98w",
     "tweettime": "2024-08-14, 00:39:52",
     "tweeturl": "https://twitter.com/KyleHanslovan/status/1823519875358187822",
@@ -1117,16 +1116,15 @@
 }
 {
     "expanded_url": [
-        "http://hunter.how",
-        "https://laburity.com/exploiting-pfsense-remote-code-execution-cve-2022-31814/",
         "https://github.com/Laburity/CVE-2022-31814",
-        "https://twitter.com/HunterMapping/status/1822928565526036757/photo/1",
+        "https://laburity.com/exploiting-pfsense-remote-code-execution-cve-2022-31814/",
+        "http://hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22pfsense%22"
     ],
-    "tweetfavorites": 259,
+    "tweetfavorites": 253,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 80,
+    "tweetretweets": 78,
     "tweettext": "🚨Alert🚨CVE-2022-31814: Exploiting pfsense Remote Code Execution\n🔥PoC:https://t.co/fJVaHXjb48\n🧐Deep Dive:https://t.co/Dh835xRkwV\n📊 422K+ Services are found on https://t.co/ysWb28BTvF nearly year.\n🔗Hunter Link:https://t.co/6CWfkiZZUv\n👇Search Query https://t.co/vA3mWNZt3l",
     "tweettime": "2024-08-12, 09:30:13",
     "tweeturl": "https://twitter.com/HunterMapping/status/1822928565526036757",
@@ -1149,10 +1147,10 @@
     "expanded_url": [
         "https://jmpeax.dev/CVE-2022-2586-writeup.html"
     ],
-    "tweetfavorites": 234,
+    "tweetfavorites": 220,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 53,
+    "tweetretweets": 50,
     "tweettext": "Achieving arbitrary read/write in through a UAF vulnerability in Linux kernel nf_tables (CVE-2022-2586)\n\nhttps://t.co/EAipCIRDDq\n\n#Linux #infosec https://t.co/eQDVj9pPHl",
     "tweettime": "2024-08-10, 15:30:07",
     "tweeturl": "https://twitter.com/0xor0ne/status/1822294362551635981",
@@ -1253,10 +1251,10 @@
     "expanded_url": [
         "https://securityonline.info/exploitable-poc-released-for-cve-2024-38077-0-click-rce-threatens-all-windows-servers/"
     ],
-    "tweetfavorites": 148,
+    "tweetfavorites": 146,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 44,
+    "tweetretweets": 43,
     "tweettext": "Exploitable PoC Released for CVE-2024-38077: 0-Click RCE Threatens All Windows Servers\n\nResearchers have successfully demonstrated a proof-of-concept (POC) exploit on Windows Server 2025, achieving a near 100% success rate\nhttps://t.co/trGH9Y2z5D",
     "tweettime": "2024-08-09, 02:21:09",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1821733425067561425",
@@ -1394,10 +1392,10 @@
     "expanded_url": [
         "https://www.crowdfense.com/windows-applocker-driver-lpe-vulnerability-cve-2024-21338/"
     ],
-    "tweetfavorites": 263,
+    "tweetfavorites": 252,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 67,
+    "tweetretweets": 64,
     "tweettext": "Windows AppLocker Driver LPE Vulnerability – CVE-2024-21338 : https://t.co/iLvgJRKkOd \n\nPoC : 1 – Abusing PreviousMode : https://t.co/juyoIT9K87",
     "tweettime": "2024-08-02, 14:50:17",
     "tweeturl": "https://twitter.com/binitamshah/status/1819385235244831193",
@@ -1407,10 +1405,10 @@
     "expanded_url": [
         "https://www.crowdfense.com/windows-applocker-driver-lpe-vulnerability-cve-2024-21338/"
     ],
-    "tweetfavorites": 57,
+    "tweetfavorites": 56,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 24,
+    "tweetretweets": 23,
     "tweettext": "Windows AppLocker Driver LPE Vulnerability – CVE-2024-21338 https://t.co/KZ7zigiyZp  #Pentesting #Windows #AppLocker #Vulnerability  #CyberSecurity #Infosec https://t.co/DMLYNuY2ff",
     "tweettime": "2024-08-02, 11:45:06",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1819338635050619181",
@@ -1433,10 +1431,10 @@
     "expanded_url": [
         "https://research.nccgroup.com/2024/06/11/pumping-iron-on-the-musl-heap-real-world-cve-2022-24834-exploitation-on-an-alpine-mallocng-heap/"
     ],
-    "tweetfavorites": 229,
+    "tweetfavorites": 215,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 60,
+    "tweetretweets": 55,
     "tweettext": "CVE-2022-24834: exploiting an integer overflow in Lua cjson module in Redis servers\n\nhttps://t.co/QuZJiJRePF\n\nCredits @NCCGroupInfosec\n\n#infosec https://t.co/3Pin7hQb6e",
     "tweettime": "2024-08-01, 15:00:01",
     "tweeturl": "https://twitter.com/0xor0ne/status/1819025297292874217",

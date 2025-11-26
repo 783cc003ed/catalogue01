@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 228,
+    "tweetfavorites": 226,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 102,
+    "tweetretweets": 101,
     "tweettext": "#CVE-2019-2725 Weblogic 10.3.6  Remote Code Execution, here I utilize JRMP(LDAP/JNDI) to exploit it. https://t.co/NBktegBZBJ",
     "tweettime": "2019-04-29, 05:11:38",
     "tweeturl": "https://twitter.com/pyn3rd/status/1122730137047293954",
@@ -126,7 +126,7 @@
     "expanded_url": [
         "https://www.exploit-db.com/exploits/46536"
     ],
-    "tweetfavorites": 306,
+    "tweetfavorites": 307,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 162,
@@ -139,10 +139,10 @@
     "expanded_url": [
         "https://github.com/pyn3rd/CVE-2019-0232"
     ],
-    "tweetfavorites": 579,
-    "tweetquotes": 7,
+    "tweetfavorites": 566,
+    "tweetquotes": 6,
     "tweetreplies": 4,
-    "tweetretweets": 301,
+    "tweetretweets": 294,
     "tweettext": "#CVE-2019-0232 Apache Tomcat Remote Code Execution on Windows(Tomcat 8.5.39/JDK 1.8)\nreproduce:\nhttps://t.co/1dJigpyjp4 https://t.co/vtlULBBq3v",
     "tweettime": "2019-04-15, 08:24:34",
     "tweeturl": "https://twitter.com/pyn3rd/status/1117705259059515393",
@@ -199,10 +199,10 @@
     "username": "CodeColorist"
 }
 {
-    "tweetfavorites": 291,
+    "tweetfavorites": 282,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 132,
+    "tweetretweets": 131,
     "tweettext": "#CVE-2019-0232 Apache Tomcat Remote Code Execution on Windows https://t.co/E00qp4Dhai",
     "tweettime": "2019-04-11, 16:13:02",
     "tweeturl": "https://twitter.com/pyn3rd/status/1116373602813784069",
@@ -269,4 +269,17 @@
     "tweettime": "2019-04-07, 09:50:22",
     "tweeturl": "https://twitter.com/cyber_advising/status/1114827747048685569",
     "username": "cyber_advising"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2019/04/apache-web-server-security.html"
+    ],
+    "tweetfavorites": 226,
+    "tweetquotes": 29,
+    "tweetreplies": 3,
+    "tweetretweets": 216,
+    "tweettext": "New Apache Web Server Vulnerability Threatens Security of Shared Web Hosts\n\nhttps://t.co/1al3oRMBRL\n\nThe flaw (CVE-2019-0211) could allow less-privileged web host users to execute arbitrary code with root privileges on the targeted servers. https://t.co/SlCDkBIELo",
+    "tweettime": "2019-04-02, 17:48:30",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1113136135016939520",
+    "username": "TheHackersNews"
 }

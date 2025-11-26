@@ -16,10 +16,10 @@
     "expanded_url": [
         "https://bishopfox.com/blog/building-exploit-fortigate-vulnerability-cve-2023-27997"
     ],
-    "tweetfavorites": 243,
+    "tweetfavorites": 232,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 74,
+    "tweetretweets": 71,
     "tweettext": "Exploiting a heap based buffer overflow in Fortinet SSL VPN (CVE-2023-27997)\nCredits @bishopfox\n\nhttps://t.co/P9TOyL6ihN\n\n#fortinet #cybersecurity https://t.co/tRwFMxEsaR",
     "tweettime": "2023-12-30, 19:30:03",
     "tweeturl": "https://twitter.com/0xor0ne/status/1741179863447289960",
@@ -98,7 +98,7 @@
     "expanded_url": [
         "https://github.com/Cacti/cacti/security"
     ],
-    "tweetfavorites": 46,
+    "tweetfavorites": 45,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 10,
@@ -219,10 +219,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 362,
+    "tweetfavorites": 349,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 105,
+    "tweetretweets": 104,
     "tweettext": "CVE-2022-1040 - RCE in Sophos Firewall \n\ncurl -sk -H \"X-Requested-With: XMLHttpRequest\" -X POST 'hxxps://x.x.x.x/userportal/Controller?mode=8700&amp;operation=1&amp;datagrid=179&amp;json=\\{\"x\":\"test\"\\}' | grep -q 'Session Expired'\n\n#CVE #RCE \n—————— https://t.co/m3yz2Lknwk",
     "tweettime": "2023-12-25, 07:47:15",
     "tweeturl": "https://twitter.com/TheMsterDoctor1/status/1739191059710705748",
@@ -317,7 +317,7 @@
     "expanded_url": [
         "https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html"
     ],
-    "tweetfavorites": 330,
+    "tweetfavorites": 329,
     "tweetquotes": 2,
     "tweetreplies": 3,
     "tweetretweets": 132,
@@ -538,7 +538,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 260,
+    "tweetfavorites": 261,
     "tweetquotes": 21,
     "tweetreplies": 12,
     "tweetretweets": 133,
@@ -564,7 +564,7 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop_20.html"
     ],
-    "tweetfavorites": 231,
+    "tweetfavorites": 230,
     "tweetquotes": 4,
     "tweetreplies": 6,
     "tweetretweets": 54,
@@ -776,10 +776,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-sharepoint-pre-auth-rce-chain-cve-2023-29357-cve-2023-24955/"
     ],
-    "tweetfavorites": 479,
-    "tweetquotes": 3,
+    "tweetfavorites": 457,
+    "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 164,
+    "tweetretweets": 150,
     "tweettext": "PoC Released for SharePoint Pre-Auth RCE Chain (CVE-2023-29357 &amp; CVE-2023-24955)\nIt can be exploited to achieve unauthenticated remote code execution\nhttps://t.co/uRjXzpnW54 https://t.co/UtMv4LZBLt",
     "tweettime": "2023-12-16, 07:49:06",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1735930032152023288",
@@ -1025,10 +1025,10 @@
     "expanded_url": [
         "https://github.com/rvizx/CVE-2023-30547"
     ],
-    "tweetfavorites": 93,
+    "tweetfavorites": 87,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 19,
+    "tweetretweets": 17,
     "tweettext": "CVE-2023-30547\n\nPoC Exploit for VM2 Sandbox Escape Vulnerability\n\nhttps://t.co/TD63bRhWX5\n\n#cve #cybersecurity #infosec https://t.co/FqTvk4MUUR",
     "tweettime": "2023-12-12, 08:54:12",
     "tweeturl": "https://twitter.com/PentestingN/status/1734496865683460489",
@@ -1130,7 +1130,7 @@
     "expanded_url": [
         "https://securityonline.info/poc-exploit-for-windows-ntlm-privilege-escalation-flaw-cve-2023-21746-published/?expand_article=1"
     ],
-    "tweetfavorites": 211,
+    "tweetfavorites": 205,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 64,
@@ -1246,7 +1246,7 @@
     "expanded_url": [
         "https://blog.securelayer7.net/analysis-of-cve-2023-38831-zero-day-vulnerability-in-winrar/"
     ],
-    "tweetfavorites": 126,
+    "tweetfavorites": 125,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 48,

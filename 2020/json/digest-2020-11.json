@@ -39,7 +39,7 @@
     "username": "ptswarm"
 }
 {
-    "tweetfavorites": 102,
+    "tweetfavorites": 99,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 8,
@@ -104,10 +104,10 @@
     "expanded_url": [
         "https://windows-internals.com/exploiting-a-simple-vulnerability-in-35-easy-steps-or-less"
     ],
-    "tweetfavorites": 480,
+    "tweetfavorites": 481,
     "tweetquotes": 10,
     "tweetreplies": 4,
-    "tweetretweets": 156,
+    "tweetretweets": 154,
     "tweettext": "I pretended I'm an exploit dev and created a stable exploit to CVE-2020-1034, that's tagged by MS as \"low complexity\". But only if crashing the machine is your only goal:\nhttps://t.co/G0HZffpIq0\nThank you @aionescu for all the help and reviews! 😄 https://t.co/JMbbyJGyxN",
     "tweettime": "2020-11-23, 12:38:45",
     "tweeturl": "https://twitter.com/yarden_shafir/status/1330853292352679936",
@@ -199,20 +199,20 @@
     "username": "wugeej"
 }
 {
-    "tweetfavorites": 469,
+    "tweetfavorites": 459,
     "tweetquotes": 7,
     "tweetreplies": 12,
-    "tweetretweets": 162,
+    "tweetretweets": 157,
     "tweettext": "#CVE-2020-13942 Apache Unomi Remote Code Execution\n\nPoC:\n{\"filters\":[{\"id\" : \"pyn3rd\",\"filters\": [{\"condition\": {\"parameterValues\": {\"pyn3rd\": \"script::Runtime.getRuntime().exec('open -a Calculator')\"},\"type\":\"profilePropertyCondition\"}}]}],\"sessionId\": \"pyn3rd\"} https://t.co/Gcw5FcZiNp",
     "tweettime": "2020-11-18, 04:38:42",
     "tweeturl": "https://twitter.com/pyn3rd/status/1328920545442680837",
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 208,
+    "tweetfavorites": 201,
     "tweetquotes": 2,
-    "tweetreplies": 1,
-    "tweetretweets": 46,
+    "tweetreplies": 2,
+    "tweetretweets": 45,
     "tweettext": "CVE-2020-13942 Apache Unomi pre-auth RCE (bypass CVE-2020-11975 ) https://t.co/q7ppLTJdiT",
     "tweettime": "2020-11-18, 04:05:59",
     "tweeturl": "https://twitter.com/chybeta/status/1328912309440311297",
@@ -248,10 +248,10 @@
     "expanded_url": [
         "https://x-stream.github.io/CVE-2020-26217.html"
     ],
-    "tweetfavorites": 211,
+    "tweetfavorites": 206,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 69,
+    "tweetretweets": 65,
     "tweettext": "#CVE-2020-26217 XStream Remote Code Execution \n\nhttps://t.co/baqFucu0BQ https://t.co/o9UHU8eTQv",
     "tweettime": "2020-11-16, 02:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1328167793611554819",
@@ -549,10 +549,10 @@
     "username": "benhawkes"
 }
 {
-    "tweetfavorites": 696,
-    "tweetquotes": 26,
-    "tweetreplies": 18,
-    "tweetretweets": 263,
+    "tweetfavorites": 603,
+    "tweetquotes": 25,
+    "tweetreplies": 16,
+    "tweetretweets": 222,
     "tweettext": "CVE-2020-14871 - well that was easy, SSH pre-auth RCE on Solaris through libpam. As a PoC trigger you need to ensure the remote host is using keyboard-interactive and then reach the vulnerable code path by specifying a blank username to get PAM to hit the vulnerable function. https://t.co/HQtSBBQ6g1",
     "tweettime": "2020-11-03, 01:07:15",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1323431512822435841",

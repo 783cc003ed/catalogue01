@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 192,
+    "tweetfavorites": 187,
     "tweetquotes": 2,
     "tweetreplies": 11,
-    "tweetretweets": 66,
+    "tweetretweets": 65,
     "tweettext": "Wordpress - XSS( CVE-2022-29455)\n\n/wp-content/plugins/elementor/assets/js/frontend.min.js\n\npoc\nhttps://site/#elementor-action:action=lightbox&amp;settings=eyJ0eXBlIjoibnVsbCIsImh0bWwiOiI8c2NyaXB0PmFsZXJ0KCd4c3MnKTwvc2NyaXB0PiJ9Cg==\n\nVulnerable Version &lt;= 3.5.5 versions\nNice finding🤠 https://t.co/bE65fr5mTS",
     "tweettime": "2022-12-31, 18:11:19",
     "tweeturl": "https://twitter.com/0x0SojalSec/status/1609250864207921154",
@@ -13,7 +13,7 @@
         "https://omar0x01.medium.com/15cebd072ed6",
         "https://github.com/omarhashem123/Security-Research/tree/main/CVE-2022-38627"
     ],
-    "tweetfavorites": 315,
+    "tweetfavorites": 317,
     "tweetquotes": 1,
     "tweetreplies": 5,
     "tweetretweets": 120,
@@ -52,10 +52,10 @@
     "expanded_url": [
         "https://www.shadowserver.org/what-we-do/network-reporting/vulnerable-exchange-server-report/"
     ],
-    "tweetfavorites": 268,
+    "tweetfavorites": 258,
     "tweetquotes": 11,
     "tweetreplies": 6,
-    "tweetretweets": 115,
+    "tweetretweets": 111,
     "tweettext": "We are reporting out Microsoft Exchange servers still likely vulnerable to CVE-2022-41082 #ProxyNotShell. Nearly 70K IPs found without MS patches applied (based on version info). Previously recommended mitigation techniques can be bypassed by attackers\n\nhttps://t.co/ApcM9HwiOK https://t.co/dGA0LvEAbG",
     "tweettime": "2022-12-26, 18:12:33",
     "tweeturl": "https://twitter.com/Shadowserver/status/1607439237615419400",
@@ -101,10 +101,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 214,
-    "tweetquotes": 3,
+    "tweetfavorites": 203,
+    "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 25,
+    "tweetretweets": 24,
     "tweettext": "Merry Christmas to me! 🎅🎄 I finally developed a working RCE exploit for CVE-2018-17463! 🥳 I'll be sharing details on how this was achieved in the 3rd and final part of my browser exploitation series on Chrome. Keep an eye out for the update! https://t.co/3zuulNher4",
     "tweettime": "2022-12-25, 00:13:34",
     "tweeturl": "https://twitter.com/jack_halon/status/1606805314132639744",
@@ -214,6 +214,19 @@
 }
 {
     "expanded_url": [
+        "https://crwdstr.ke/60123Jq8I"
+    ],
+    "tweetfavorites": 456,
+    "tweetquotes": 10,
+    "tweetreplies": 2,
+    "tweetretweets": 178,
+    "tweettext": "CrowdStrike recently discovered a new exploit method using CVE-2022-41080 and CVE-2022-41082 to achieve remote code execution (RCE) through Outlook Web Access. https://t.co/eP0eDW9DnF",
+    "tweettime": "2022-12-20, 19:02:25",
+    "tweeturl": "https://twitter.com/CrowdStrike/status/1605277457829036033",
+    "username": "CrowdStrike"
+}
+{
+    "expanded_url": [
         "https://securelist.com/cve-2022-41040-and-cve-2022-41082-zero-days-in-ms-exchange/108364/"
     ],
     "tweetfavorites": 199,
@@ -255,10 +268,10 @@
     "expanded_url": [
         "https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html"
     ],
-    "tweetfavorites": 217,
-    "tweetquotes": 3,
+    "tweetfavorites": 209,
+    "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 64,
+    "tweetretweets": 61,
     "tweettext": "Titam M reverse engineering and exploitation (CVE-2022-20233)\nGreat research from @quarkslab \n\nhttps://t.co/aqyJ3ESx1A \n\n#exploit #infosec #cybersec https://t.co/CQpsBLVevO",
     "tweettime": "2022-12-16, 20:30:09",
     "tweeturl": "https://twitter.com/0xor0ne/status/1603849985363267585",
@@ -333,10 +346,10 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/critical-remote-code-execution-vulnerability-spnego-extended-negotiation-security-mechanism/"
     ],
-    "tweetfavorites": 3772,
+    "tweetfavorites": 3571,
     "tweetquotes": 57,
-    "tweetreplies": 78,
-    "tweetretweets": 1078,
+    "tweetreplies": 68,
+    "tweetretweets": 1015,
     "tweettext": "Demonstrating CVE-2022-37958 RCE Vuln. Reachable via any Windows application protocol that authenticates. Yes, that means RDP, SMB and many more. Please patch this one, it's serious! \n\nhttps://t.co/ikOrTvQIJs https://t.co/bOTmL5Fh2H",
     "tweettime": "2022-12-13, 20:08:21",
     "tweeturl": "https://twitter.com/chompie1337/status/1602757336908660736",
@@ -421,10 +434,10 @@
     "username": "sirifu4k1"
 }
 {
-    "tweetfavorites": 281,
+    "tweetfavorites": 304,
     "tweetquotes": 2,
-    "tweetreplies": 10,
-    "tweetretweets": 62,
+    "tweetreplies": 11,
+    "tweetretweets": 63,
     "tweettext": "1- found server in shodan with ibm http server 8.5.5\n2- search on google about cve’s on it\n3- found CVE-2020-4463 XXE and pii leak\n4- search exploit on github\n5- exploit it \n6- the rest servers i’m found it on shodan than test it directly\n\n#bugbountytips #bugbounty https://t.co/4gClvKdSOA",
     "tweettime": "2022-12-11, 08:25:54",
     "tweeturl": "https://twitter.com/0x_rood/status/1601855784291545088",
@@ -444,10 +457,10 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 439,
+    "tweetfavorites": 464,
     "tweetquotes": 1,
-    "tweetreplies": 11,
-    "tweetretweets": 100,
+    "tweetreplies": 15,
+    "tweetretweets": 111,
     "tweettext": "Another Tip: I found this VMWare vCenter #Log4Shell  vulnerability in an endpoint using POST: /analytics/telemetry/ph/api/hyper/send?_c=\"${payload}\". This RCE method actually of CVE-2021-22005, however this ep is vulnerable to Log4Shell as well. #BugBounty --&gt; Bounty $2100.00. https://t.co/qdMlg9cN9V",
     "tweettime": "2022-12-09, 10:13:45",
     "tweeturl": "https://twitter.com/nav1n0x/status/1601158148316098560",

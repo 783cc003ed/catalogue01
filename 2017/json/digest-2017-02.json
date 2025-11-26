@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://ticketbleed.com"
     ],
-    "tweetfavorites": 450,
+    "tweetfavorites": 423,
     "tweetquotes": 39,
-    "tweetreplies": 10,
-    "tweetretweets": 579,
+    "tweetreplies": 9,
+    "tweetretweets": 536,
     "tweettext": "Ticketbleed (CVE-2016-9244): leak of up to 31 bytes of memory via TLS Session IDs, affecting most F5 BIG-IP versions https://t.co/hoyZZzgM7i https://t.co/Gf920FcvVg",
     "tweettime": "2017-02-09, 01:51:24",
     "tweeturl": "https://twitter.com/FiloSottile/status/829507961819107330",

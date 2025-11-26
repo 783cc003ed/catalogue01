@@ -110,7 +110,7 @@
     "expanded_url": [
         "https://ruia-ruia.github.io/NFC-UAF/"
     ],
-    "tweetfavorites": 74,
+    "tweetfavorites": 73,
     "tweetquotes": 4,
     "tweetreplies": 0,
     "tweetretweets": 15,
@@ -123,7 +123,7 @@
     "expanded_url": [
         "https://ruia-ruia.github.io/NFC-UAF/"
     ],
-    "tweetfavorites": 118,
+    "tweetfavorites": 117,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 39,
@@ -252,10 +252,10 @@
     "username": "Big5_sec"
 }
 {
-    "tweetfavorites": 207,
+    "tweetfavorites": 197,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 41,
+    "tweetretweets": 37,
     "tweettext": "CVE-2022-22004: Microsoft Office ClickToRun Remote Code Execution Vulnerability\n\nThanks! https://t.co/mMq8pCC2Zp",
     "tweettime": "2022-02-08, 19:05:53",
     "tweeturl": "https://twitter.com/l33d0hyun/status/1491126152005820417",
@@ -265,10 +265,10 @@
     "expanded_url": [
         "https://github.com/Audiobahn/CVE-2022-20699"
     ],
-    "tweetfavorites": 245,
+    "tweetfavorites": 235,
     "tweetquotes": 2,
-    "tweetreplies": 3,
-    "tweetretweets": 99,
+    "tweetreplies": 2,
+    "tweetretweets": 95,
     "tweettext": "CVE-2022-20699: Cisco Anyconnect VPN unauth RCE (rwx stack) it is not well checked.  cc @FlashbackPwn\n\nPoC\nhttps://t.co/RYwnG0slD6 https://t.co/bkKsqLi9Bw",
     "tweettime": "2022-02-08, 12:45:48",
     "tweeturl": "https://twitter.com/cyber_advising/status/1491030502413049863",

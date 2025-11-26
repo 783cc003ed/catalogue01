@@ -161,7 +161,7 @@
     "expanded_url": [
         "https://github.com/forrest-orr/Exploits/tree/main/Chains/Hydseven"
     ],
-    "tweetfavorites": 86,
+    "tweetfavorites": 87,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 41,
@@ -215,6 +215,19 @@
     "tweettime": "2022-04-17, 03:30:34",
     "tweeturl": "https://twitter.com/MeAsHacker_HNA/status/1515533146636312587",
     "username": "MeAsHacker_HNA"
+}
+{
+    "expanded_url": [
+        "https://github.com/kagancapar/CVE-2022-29072"
+    ],
+    "tweetfavorites": 187,
+    "tweetquotes": 8,
+    "tweetreplies": 7,
+    "tweetretweets": 93,
+    "tweettext": "The zero-day (CVE-2022-29072) included in 7-zip software is based on misconfiguration of 7z.dll and heap overflow. After the installation of 7-zip software, the help file in the HELP &gt; contents area. #7zip #privilegeescalation @TheHackersNews\nhttps://t.co/b76ir9sVv0",
+    "tweettime": "2022-04-16, 06:43:41",
+    "tweeturl": "https://twitter.com/kagancapar/status/1515219358234161153",
+    "username": "kagancapar"
 }
 {
     "expanded_url": [
@@ -311,10 +324,10 @@
     "expanded_url": [
         "https://www.akamai.com/blog/security/critical-remote-code-execution-vulnerabilities-windows-rpc-runtime"
     ],
-    "tweetfavorites": 779,
+    "tweetfavorites": 739,
     "tweetquotes": 16,
-    "tweetreplies": 8,
-    "tweetretweets": 321,
+    "tweetreplies": 5,
+    "tweetretweets": 301,
     "tweettext": "Everyone's talking about the 9.8 RCE bug in Windows RPC runtime (CVE-2022-26809). @nachoskrnl bin-diffed rpcrt4.dll and located the integer overflow that was patched. Read about it here - https://t.co/jIakqMaDHh\nPatch now, and ffs don't expose TCP 445 to the internet. https://t.co/Adj8tvctlA",
     "tweettime": "2022-04-13, 21:41:03",
     "tweeturl": "https://twitter.com/OphirHarpaz/status/1514358026668552197",
@@ -338,10 +351,10 @@
         "https://www.rapid7.com/blog/post/2022/04/12/cve-2022-24527-microsoft-connected-cache-local-privilege-escalation-fixed/",
         "https://github.com/SigmaHQ/sigma/blob/master/rules/windows/file_event/file_event_win_cve_2022_24527_lpe.yml"
     ],
-    "tweetfavorites": 95,
+    "tweetfavorites": 86,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 28,
+    "tweetretweets": 27,
     "tweettext": "Sigma rule to detect LPE reported in CVE-2022-24527\n\nReport with PoC\nhttps://t.co/ceHUcDIMar\n\nRule\nhttps://t.co/TjsUaGKMWe https://t.co/m6gjBxP7Ze",
     "tweettime": "2022-04-13, 18:18:24",
     "tweeturl": "https://twitter.com/cyb3rops/status/1514307028201754625",
@@ -375,10 +388,10 @@
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26809",
         "https://www.zerodayinitiative.com/blog/2022/4/11/the-april-2022-security-update-review"
     ],
-    "tweetfavorites": 302,
+    "tweetfavorites": 291,
     "tweetquotes": 6,
-    "tweetreplies": 11,
-    "tweetretweets": 74,
+    "tweetreplies": 10,
+    "tweetretweets": 71,
     "tweettext": "CVE-2022-26809\n\nA clear guidance is everything\n\nhttps://t.co/ezD1N6r0Nu\n\nhttps://t.co/bdOsrVwbvj https://t.co/ybqQjdndTK",
     "tweettime": "2022-04-13, 10:02:50",
     "tweeturl": "https://twitter.com/cyb3rops/status/1514182313093087236",
@@ -405,10 +418,10 @@
     "username": "mikko"
 }
 {
-    "tweetfavorites": 211,
+    "tweetfavorites": 189,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 36,
+    "tweetretweets": 30,
     "tweettext": "CVE-2022-24543: Windows Upgrade Assistant Remote Code Execution Vulnerability\n\nI was assigned a second Microsoft Product Remote Code Execution CVE. https://t.co/zwIBNSB1vR",
     "tweettime": "2022-04-13, 02:09:34",
     "tweeturl": "https://twitter.com/l33d0hyun/status/1514063211087396866",
@@ -441,7 +454,7 @@
     "expanded_url": [
         "https://www.rapid7.com/blog/post/2022/04/12/cve-2022-24527-microsoft-connected-cache-local-privilege-escalation-fixed/"
     ],
-    "tweetfavorites": 150,
+    "tweetfavorites": 149,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 46,
@@ -549,7 +562,7 @@
     "username": "thezdi"
 }
 {
-    "tweetfavorites": 555,
+    "tweetfavorites": 554,
     "tweetquotes": 8,
     "tweetreplies": 7,
     "tweetretweets": 207,
@@ -562,10 +575,10 @@
     "expanded_url": [
         "https://github.com/jhftss/CVE-2022-22639"
     ],
-    "tweetfavorites": 248,
+    "tweetfavorites": 237,
     "tweetquotes": 6,
-    "tweetreplies": 5,
-    "tweetretweets": 61,
+    "tweetreplies": 4,
+    "tweetretweets": 58,
     "tweettext": "CVE-2022-22639: This issue is fixed in iOS 15.4 and iPadOS 15.4, macOS Monterey 12.3. An application may be able to gain elevated privileges...\n\nPoC\nhttps://t.co/ulsDd5b7fh https://t.co/pQoBSykjLQ",
     "tweettime": "2022-04-07, 11:17:36",
     "tweeturl": "https://twitter.com/cyber_advising/status/1512026801723355143",
@@ -606,6 +619,19 @@
     "tweettime": "2022-04-04, 08:47:43",
     "tweeturl": "https://twitter.com/GossiTheDog/status/1510901921657331716",
     "username": "GossiTheDog"
+}
+{
+    "expanded_url": [
+        "https://github.com/pqlx/CVE-2022-1015"
+    ],
+    "tweetfavorites": 186,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 66,
+    "tweettext": "Local privilege escalation PoC for Linux kernel CVE-2022-1015 https://t.co/GRFSKvRY5H",
+    "tweettime": "2022-04-02, 09:07:07",
+    "tweeturl": "https://twitter.com/sirifu4k1/status/1510182027286355968",
+    "username": "sirifu4k1"
 }
 {
     "expanded_url": [

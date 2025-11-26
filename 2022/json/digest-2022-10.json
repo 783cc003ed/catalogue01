@@ -36,10 +36,10 @@
         "https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part",
         "https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis"
     ],
-    "tweetfavorites": 225,
+    "tweetfavorites": 221,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 95,
+    "tweetretweets": 96,
     "tweettext": "My new blog series: Technical Analysis of Windows CLFS Zero-Day Vulnerability CVE-2022-37969 - Part 1: Root Cause Analysis https://t.co/WAoH9jkDJ0\nPart 2: Exploit Analysis https://t.co/HAL0XSKf9M\n#0day #exploit #vulnerability #CVE_2022_37969 https://t.co/qbK60MHhv8",
     "tweettime": "2022-10-28, 17:32:34",
     "tweeturl": "https://twitter.com/K3vinLuSec/status/1586048292160356354",
@@ -141,10 +141,10 @@
     "expanded_url": [
         "https://securityonline.info/researchers-release-poc-for-windows-tcp-ip-rce-flaw-cve-2022-34718/"
     ],
-    "tweetfavorites": 168,
+    "tweetfavorites": 167,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 71,
+    "tweetretweets": 70,
     "tweettext": "Researchers Release PoC for Windows TCP/IP RCE Flaw (CVE-2022-34718) https://t.co/E48KL9yzSO",
     "tweettime": "2022-10-26, 17:51:36",
     "tweeturl": "https://twitter.com/Dinosn/status/1585328304722411520",
@@ -266,10 +266,10 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 3105,
-    "tweetquotes": 49,
-    "tweetreplies": 55,
-    "tweetretweets": 535,
+    "tweetfavorites": 2856,
+    "tweetquotes": 48,
+    "tweetreplies": 54,
+    "tweetretweets": 489,
     "tweettext": "Remotely exploiting CVE-2022-34718, TCP/IP RCE bug #EvilEsp for DoS. This is a bug in Ipv6 fragmentation/IpSec, which allows OOB write if an Ipv6 fragment is contained inside an IpSec ESP payload. https://t.co/k1aoZX2kWq",
     "tweettime": "2022-10-22, 03:47:55",
     "tweeturl": "https://twitter.com/chompie1337/status/1583666434668101637",
@@ -515,10 +515,23 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 395,
+    "expanded_url": [
+        "http://dlvr.it/Sb8X0g"
+    ],
+    "tweetfavorites": 191,
+    "tweetquotes": 2,
+    "tweetreplies": 5,
+    "tweetretweets": 80,
+    "tweettext": "F5 BIG-IP Vulnerability (CVE-2022-1388) Exploited by BlackTech – JPCERT/CC Eyes https://t.co/dlwLIAo0pz #Security https://t.co/dIf4lBf5H1",
+    "tweettime": "2022-10-16, 01:42:03",
+    "tweeturl": "https://twitter.com/blueteamsec1/status/1581460430278782976",
+    "username": "blueteamsec1"
+}
+{
+    "tweetfavorites": 380,
     "tweetquotes": 4,
-    "tweetreplies": 13,
-    "tweetretweets": 133,
+    "tweetreplies": 8,
+    "tweetretweets": 129,
     "tweettext": "Added @metasploit  module for the new authentication bypass #vulnerability (CVE-2022-40684) affecting FortiGate firewalls and FortiProxy web proxies.\n#infosec #hacking #cybersecurity #sysadmin https://t.co/UHGtvYBv47",
     "tweettime": "2022-10-15, 08:40:22",
     "tweeturl": "https://twitter.com/HeyderAndrade/status/1581203315140235266",
@@ -787,6 +800,16 @@
     "username": "pyn3rd"
 }
 {
+    "tweetfavorites": 650,
+    "tweetquotes": 7,
+    "tweetreplies": 13,
+    "tweetretweets": 127,
+    "tweettext": "I can confirm, CVE-2022-40684 is really simple to exploit and easy to weaponize. \n\nis not only a \"Auth bypass to some functions\", this vulnerability causes a full device takeover!",
+    "tweettime": "2022-10-10, 17:59:24",
+    "tweeturl": "https://twitter.com/carlos_crowsec/status/1579532062503362560",
+    "username": "carlos_crowsec"
+}
+{
     "expanded_url": [
         "https://talosintelligence.com/vulnerability_reports/TALOS-2022-1587"
     ],
@@ -836,10 +859,10 @@
     "username": "Horizon3Attack"
 }
 {
-    "tweetfavorites": 223,
+    "tweetfavorites": 215,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 58,
+    "tweetretweets": 51,
     "tweettext": "#CVE-2022-41852 Apache Commons JXPath Remote Code Execution. Apparently, it’s a real RCE, however, the official vulnerability description misled me to wast too much time. https://t.co/vKsNTgFSyd",
     "tweettime": "2022-10-09, 15:20:34",
     "tweeturl": "https://twitter.com/pyn3rd/status/1579129700597010433",
@@ -895,10 +918,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 272,
+    "tweetfavorites": 265,
     "tweetquotes": 6,
     "tweetreplies": 5,
-    "tweetretweets": 72,
+    "tweetretweets": 71,
     "tweettext": "Guacamaya explotó 3 vulnerabilidades en Zimbra que derivó en los #SEDENALeaks\n\nUna empresa de ciberseguridad los alertó con anticipación vía ✉️\n\nLa alerta de CVE-2022-27925 y CVE-2022-27924, el 21 Abril 22\nY la de CVE-2022-37042, el 12 Agosto 22 https://t.co/Xf2ugKpGxT",
     "tweettime": "2022-10-07, 21:27:48",
     "tweeturl": "https://twitter.com/hiramcoop/status/1578497345053859840",
@@ -1067,10 +1090,10 @@
     "username": "wdormann"
 }
 {
-    "tweetfavorites": 285,
+    "tweetfavorites": 264,
     "tweetquotes": 3,
-    "tweetreplies": 4,
-    "tweetretweets": 115,
+    "tweetreplies": 3,
+    "tweetretweets": 105,
     "tweettext": "[Oh noo] Two new #0day vulnerabilities affecting Microsoft Exchange Server (CVE-2022-41040, CVE-2022-41082) exploited in the wild\n\nHow to search for it at mass scale\n👇 🚨\n\n#exchange #microsoft #recon #AttackSurface #bugbountytips #bugbounty #cve2022 #ProxyNotShell #rce https://t.co/NobzbFXPsi",
     "tweettime": "2022-10-03, 10:34:28",
     "tweeturl": "https://twitter.com/ReconOne_bk/status/1576883375964844032",
@@ -1103,10 +1126,10 @@
     "username": "FuzzySec"
 }
 {
-    "tweetfavorites": 587,
-    "tweetquotes": 3,
-    "tweetreplies": 14,
-    "tweetretweets": 153,
+    "tweetfavorites": 666,
+    "tweetquotes": 4,
+    "tweetreplies": 19,
+    "tweetretweets": 188,
     "tweettext": "My 2nd RoR 'CVE-2019-5418' LFI in last 15 days. This is 3 years old bug and still exists... The page gives 404, but the buggy app is still in the server running. \n\nAdd \"Accept: ../../../../../../../../etc/passwd{{\" to GET Request and read /etc/passwd #bugbountytips  #BugBounty https://t.co/lHooK4hgAM",
     "tweettime": "2022-10-02, 11:27:27",
     "tweeturl": "https://twitter.com/nav1n0x/status/1576534319824138240",

@@ -9,10 +9,10 @@
     "username": "testanull"
 }
 {
-    "tweetfavorites": 229,
+    "tweetfavorites": 208,
     "tweetquotes": 6,
     "tweetreplies": 5,
-    "tweetretweets": 86,
+    "tweetretweets": 75,
     "tweettext": "About CVE-2021-26084, Block endpoint /pages/createpage-entervariables.action\nIf you can't patch your server. The attacker can exploit without authentication although signup is disabled by default\nMass scan already start and bug bounty hunters are farming it 🙂\n#RCE #Confluence https://t.co/C0JfIEYPhb",
     "tweettime": "2021-08-31, 15:47:31",
     "tweeturl": "https://twitter.com/haxor31337/status/1432731786719551489",
@@ -76,6 +76,21 @@
     "tweettime": "2021-08-29, 16:58:14",
     "tweeturl": "https://twitter.com/bad_packets/status/1432024809425145864",
     "username": "bad_packets"
+}
+{
+    "expanded_url": [
+        "https://a13xp0p0v.github.io/2021/08/25/lkrg-bypass.html",
+        "https://a13xp0p0v.github.io/img/CVE-2021-26708_LKRG_bypass.pdf",
+        "https://www.youtube.com/watch?v=O6rsuGVXkmE"
+    ],
+    "tweetfavorites": 297,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 144,
+    "tweettext": "I've published the article covering my talk at @ZeroNights!\n\nImproving the exploit for CVE-2021-26708 in the Linux kernel to bypass LKRG\nhttps://t.co/iZ8QRGbyhg\n\nSlides: \nhttps://t.co/5HcO2MNSYV\n\nPoC exploit demo video: https://t.co/p6yMkNCeRL\n\nEnjoy! https://t.co/6rbezPQ5uK",
+    "tweettime": "2021-08-26, 10:50:48",
+    "tweeturl": "https://twitter.com/a13xp0p0v/status/1430845177242046464",
+    "username": "a13xp0p0v"
 }
 {
     "expanded_url": [

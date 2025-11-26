@@ -272,20 +272,20 @@
     "username": "_CPResearch_"
 }
 {
-    "tweetfavorites": 493,
-    "tweetquotes": 13,
-    "tweetreplies": 5,
-    "tweetretweets": 222,
+    "tweetfavorites": 442,
+    "tweetquotes": 11,
+    "tweetreplies": 4,
+    "tweetretweets": 195,
     "tweettext": "We have reproduced the CVE-2020-1472 #zerologon vulnerability! It's an unauth RCE for Domain Controllers. https://t.co/qFe45O7WPR",
     "tweettime": "2020-09-14, 12:13:18",
     "tweeturl": "https://twitter.com/ptswarm/status/1305479737234599941",
     "username": "ptswarm"
 }
 {
-    "tweetfavorites": 1893,
+    "tweetfavorites": 1749,
     "tweetquotes": 52,
-    "tweetreplies": 22,
-    "tweetretweets": 927,
+    "tweetreplies": 21,
+    "tweetretweets": 844,
     "tweettext": "So yes, Zerologon (CVE-2020-1472) is quite easy to exploit. Unauthenticated user to Domain Admin. This is really scary. Run exploit, DCSync with DC account and empty NT hash: you have Domain Admin and a broken DC.\nAwesome find by Tom Tervoort 🙂. Patch patch patch! https://t.co/XHRO7n50Qh",
     "tweettime": "2020-09-14, 12:00:25",
     "tweeturl": "https://twitter.com/_dirkjan/status/1305476492386861059",
@@ -318,10 +318,10 @@
     "expanded_url": [
         "https://srcincite.io/pocs/cve-2020-16875.py.txt"
     ],
-    "tweetfavorites": 165,
+    "tweetfavorites": 155,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 73,
+    "tweetretweets": 68,
     "tweettext": "CVE-2020-16875: Microsoft Exchange Server DlpUtils AddTenantDlpPolicy Remote Code Execution Vulnerability\n\nPoC\nhttps://t.co/yjvJlbmchI https://t.co/V4HbRHEmZY",
     "tweettime": "2020-09-13, 14:08:31",
     "tweeturl": "https://twitter.com/cyber_advising/status/1305146341992140803",
@@ -537,10 +537,10 @@
     "expanded_url": [
         "https://github.com/withdk/pulse-gosecure-rce-poc/blob/master/pulse-gosecure-rce.py"
     ],
-    "tweetfavorites": 296,
+    "tweetfavorites": 291,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 126,
+    "tweetretweets": 123,
     "tweettext": "RCE in Pulse Connect Secure SSL VPN (CVE-2020-8218) \n\n[Proof Of Concept]\n/dana-admin/license/downloadlicenses.cgi?cmd=download&amp;txtVLSAuthCode=whatever -n '($x=\"ls /\",system$x); #' -e /data/runtime/tmp/tt/setcookie.thtml.ttc\n\nhttps://t.co/XhlYdrrWqB https://t.co/C4mjbngIq0",
     "tweettime": "2020-09-02, 04:57:25",
     "tweeturl": "https://twitter.com/wugeej/status/1301021388455596032",

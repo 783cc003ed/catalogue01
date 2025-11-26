@@ -48,10 +48,10 @@
     "username": "Truesec"
 }
 {
-    "tweetfavorites": 486,
+    "tweetfavorites": 460,
     "tweetquotes": 20,
     "tweetreplies": 11,
-    "tweetretweets": 244,
+    "tweetretweets": 231,
     "tweettext": "#PrinterNightmare CVE-2021-1675 in a nutshell\n- affects print spooler service\n- June patch day didn’t resolve the issue\n- Local &amp; remote privilege escalation via SMB\n- Quick workaround is to disable the service (can have implications &gt; PDF printing etc.)\n- 2+ PoCs are public https://t.co/JgO72reeHz",
     "tweettime": "2021-06-30, 13:42:33",
     "tweeturl": "https://twitter.com/cyb3rops/status/1410232292308664323",
@@ -71,10 +71,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 937,
+    "tweetfavorites": 886,
     "tweetquotes": 37,
     "tweetreplies": 23,
-    "tweetretweets": 429,
+    "tweetretweets": 405,
     "tweettext": "Fully patched Windows 2019 domain controller, popped with 0day exploit (CVE-2021-1675) from a regular Domain User's account giving full SYSTEM privileges. Disable \"Print Spooler\" service on servers that do not require it. https://t.co/6SUVQYy5Tl",
     "tweettime": "2021-06-30, 04:58:27",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1410100394492112898",
@@ -91,10 +91,10 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 1142,
-    "tweetquotes": 50,
+    "tweetfavorites": 1055,
+    "tweetquotes": 49,
     "tweetreplies": 14,
-    "tweetretweets": 567,
+    "tweetretweets": 515,
     "tweettext": "This #printnightmare / CVE-2021-1675 is really serious 🤪\n\nJust adapted/simplified original POC then:\n*From Remote standard user to SYSTEM*\n\nHere on a domain controller, but valid on all systems with RPC to spooler available, remote or local\n\n➡️ disable service now (no patch yet) https://t.co/qpUFgPUZyh",
     "tweettime": "2021-06-30, 02:45:04",
     "tweeturl": "https://twitter.com/gentilkiwi/status/1410066827590447108",
@@ -205,10 +205,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1675"
     ],
-    "tweetfavorites": 309,
+    "tweetfavorites": 304,
     "tweetquotes": 11,
-    "tweetreplies": 2,
-    "tweetretweets": 126,
+    "tweetreplies": 1,
+    "tweetretweets": 121,
     "tweettext": "Recently, we found right approaches to exploit #CVE-2021-1675 successfully, both #LPE and #RCE. It is interesting that the vulnerability was classified into #LPE only by Microsoft, however, it was changed into Remote Code Execution recently.\n\nhttps://t.co/PQO3B12hoE https://t.co/kbYknK9fBw",
     "tweettime": "2021-06-28, 03:29:00",
     "tweeturl": "https://twitter.com/RedDrip7/status/1409353110187757575",
@@ -632,10 +632,10 @@
     "expanded_url": [
         "https://iamelli0t.github.io/2021/04/10/RPC-Bypass-CFG.html"
     ],
-    "tweetfavorites": 86,
+    "tweetfavorites": 83,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 43,
+    "tweetretweets": 42,
     "tweettext": "Exploiting Windows RPC to bypass CFG mitigation: analysis of CVE-2021-26411 in-the-wild sample  https://t.co/3MXtAo0Gxn  #Pentesting #CVE #Windows #Exploit #Infosec https://t.co/ZuqlYDwca6",
     "tweettime": "2021-06-03, 04:54:41",
     "tweeturl": "https://twitter.com/ptracesecurity/status/1400314975151874049",

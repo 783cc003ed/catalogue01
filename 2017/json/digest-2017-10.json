@@ -54,10 +54,10 @@
     "expanded_url": [
         "https://www.talosintelligence.com/reports/TALOS-2017-0432"
     ],
-    "tweetfavorites": 159,
+    "tweetfavorites": 153,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 121,
+    "tweetretweets": 118,
     "tweettext": "CVE-2017-5133: Google Chrome PDFium TIFF off-by-one read/write #vulnerability (could lead to code exec) https://t.co/A6eKIpkiQw #chrome https://t.co/HMKwEOckma",
     "tweettime": "2017-10-21, 09:43:00",
     "tweeturl": "https://twitter.com/x0rz/status/921673163997700096",
@@ -88,6 +88,32 @@
     "tweettime": "2017-10-08, 22:08:51",
     "tweeturl": "https://twitter.com/mazen160/status/917149821483540481",
     "username": "mazen160"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2017/10/apache-tomcat-rce.html"
+    ],
+    "tweetfavorites": 169,
+    "tweetquotes": 9,
+    "tweetreplies": 2,
+    "tweetretweets": 293,
+    "tweettext": "Immediately Patch New Discovered Apache Tomcat RCE Flaw (CVE-2017-12617) that Allows Attackers to Hack Your Servers https://t.co/jUlsDee7VR https://t.co/IkYRH7GUUc",
+    "tweettime": "2017-10-05, 11:18:28",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/915898980583780352",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://github.com/Bo0oM/CVE-2017-7089"
+    ],
+    "tweetfavorites": 196,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 120,
+    "tweettext": "WebKit UXSS (CVE-2017-7089).\nSafari 10 exploit:\nhttps://t.co/UEePjkqHfW",
+    "tweettime": "2017-10-03, 14:14:20",
+    "tweeturl": "https://twitter.com/i_bo0om/status/915218465526620160",
+    "username": "i_bo0om"
 }
 {
     "expanded_url": [

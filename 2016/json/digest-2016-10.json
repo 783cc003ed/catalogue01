@@ -13,6 +13,19 @@
 }
 {
     "expanded_url": [
+        "http://www.cyberciti.biz/faq/dirtycow-linux-cve-2016-5195-kernel-local-privilege-escalation-vulnerability-fix/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 9,
+    "tweetreplies": 4,
+    "tweetretweets": 156,
+    "tweettext": "CVE-2016-5195: A serious Linux Kernel Zero Day Local Privilege Escalation bug need to be fixed ASAP. #dirtycow \n\nhttps://t.co/hdTYl3vKOp",
+    "tweettime": "2016-10-21, 08:24:11",
+    "tweeturl": "https://twitter.com/nixcraft/status/789381757556568064",
+    "username": "nixcraft"
+}
+{
+    "expanded_url": [
         "https://cyseclabs.com/blog/cve-2016-6187-heap-off-by-one-exploit"
     ],
     "tweetfavorites": 96,

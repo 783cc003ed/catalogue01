@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://github.com/r4j0x00/exploits/tree/master/CVE-2021-3156"
     ],
-    "tweetfavorites": 1471,
-    "tweetquotes": 23,
-    "tweetreplies": 26,
-    "tweetretweets": 502,
+    "tweetfavorites": 1372,
+    "tweetquotes": 24,
+    "tweetreplies": 27,
+    "tweetretweets": 452,
     "tweettext": "My exploit for sudo CVE-2021-3156 that ACTUALLY works. Tested on ubuntu 18.04 and 20.04.\nhttps://t.co/d6pE5dVBWJ https://t.co/7KhsRjy24s",
     "tweettime": "2021-01-30, 12:13:33",
     "tweeturl": "https://twitter.com/r4j0x00/status/1355489323794108417",
@@ -86,10 +86,10 @@
     "username": "spoofyroot"
 }
 {
-    "tweetfavorites": 276,
+    "tweetfavorites": 260,
     "tweetquotes": 3,
-    "tweetreplies": 1,
-    "tweetretweets": 89,
+    "tweetreplies": 2,
+    "tweetretweets": 91,
     "tweettext": "#CVE-2021-2109 Weblogic Server Remote Code Execution involving JNDI, another gadget.\n\n1. Hide Command in HTTP Request Header to evade WAF detection.\n\n2. Retrieve positive information from HTTP Response to make sure the vulnerability exists. https://t.co/i9BpimfIDt",
     "tweettime": "2021-01-27, 09:59:45",
     "tweeturl": "https://twitter.com/pyn3rd/status/1354368489553686533",
@@ -119,6 +119,16 @@
     "tweettime": "2021-01-27, 01:51:57",
     "tweeturl": "https://twitter.com/binitamshah/status/1354245732157546502",
     "username": "binitamshah"
+}
+{
+    "tweetfavorites": 273,
+    "tweetquotes": 25,
+    "tweetreplies": 4,
+    "tweetretweets": 125,
+    "tweettext": "Got Root?   You do now with CVE-2021-3156 privilege escalation in SUDO.  Exploitable Heap-based buffer overflow in a utility that is available in almost all major linux/unix OS versions.",
+    "tweettime": "2021-01-26, 21:28:46",
+    "tweeturl": "https://twitter.com/RGB_Lights/status/1354179500418981891",
+    "username": "RGB_Lights"
 }
 {
     "expanded_url": [
@@ -152,10 +162,10 @@
         "https://github.com/knqyf263/dnspooq",
         "https://www.jsof-tech.com/wp-content/uploads/2021/01/DNSpooq-Technical-WP.pdf"
     ],
-    "tweetfavorites": 299,
+    "tweetfavorites": 287,
     "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 162,
+    "tweetretweets": 157,
     "tweettext": "DNSpooq PoC - dnsmasq cache poisoning (CVE-2020-25686, CVE-2020-25684, CVE-2020-25685)\nexploit\nhttps://t.co/ianD1toRlI\nreport\nhttps://t.co/yjLmvuZj9o https://t.co/dShkZ4P2Yx",
     "tweettime": "2021-01-25, 02:57:04",
     "tweeturl": "https://twitter.com/blackorbird/status/1353537341915238400",
@@ -254,10 +264,10 @@
     "expanded_url": [
         "https://mp.weixin.qq.com/s/wX9TMXl1KVWwB_k6EZOklw"
     ],
-    "tweetfavorites": 703,
+    "tweetfavorites": 686,
     "tweetquotes": 4,
     "tweetreplies": 9,
-    "tweetretweets": 303,
+    "tweetretweets": 297,
     "tweettext": "#CVE-2021-2109 Weblogic Remote Code Execution involving HTTP protocol and JNDI injection gadget.\nHere is the writeup \n\nhttps://t.co/DuZRA2L1RR https://t.co/ZtLU8pTZxj",
     "tweettime": "2021-01-20, 01:03:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1351696768065409026",
@@ -381,7 +391,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1647"
     ],
-    "tweetfavorites": 175,
+    "tweetfavorites": 176,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 62,
@@ -519,10 +529,10 @@
     "expanded_url": [
         "https://blog.zecops.com/vulnerabilities/ntfs-remote-code-execution-cve-2020-17096-analysis/"
     ],
-    "tweetfavorites": 61,
+    "tweetfavorites": 60,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 27,
+    "tweetretweets": 26,
     "tweettext": "NTFS Remote Code Execution (CVE-2020-17096) Analysis:\n\nhttps://t.co/QeH0EuzRQu\n\n#exploitation #windows #ntfs #cybersecurity https://t.co/7cTlb5RvpI",
     "tweettime": "2021-01-06, 06:20:50",
     "tweeturl": "https://twitter.com/ale_sp_brazil/status/1346703252507787264",
@@ -545,10 +555,10 @@
     "expanded_url": [
         "https://www.mdsec.co.uk/2020/01/code-injection-in-workflows-leading-to-sharepoint-rce-cve-2020-0646/?fbclid=IwAR0b4QZxdQKVYN-ES62rdt9yN5MMzfgpK7DkdkbIq44Flm-ODiuqzeIglUQ"
     ],
-    "tweetfavorites": 418,
+    "tweetfavorites": 398,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 179,
+    "tweetretweets": 165,
     "tweettext": "CVE-2020-0646 SharePoint RCE\n\nPoC\nCallExternalMethodActivity x:Name=\"foo\" \n....System.Diagnostics.Process.Start(\"cmd.exe\",\n\nGoogle Dork\n.sharepoint.com/_vti_bin/webpartpages/asmx -docs -msdn -mdsec\n\nhttps://t.co/DRGcSRZ6Co https://t.co/w1OI4ADbbJ",
     "tweettime": "2021-01-05, 06:49:15",
     "tweeturl": "https://twitter.com/wugeej/status/1346348017389998081",

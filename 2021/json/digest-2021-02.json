@@ -45,10 +45,10 @@
     "username": "pdnuclei"
 }
 {
-    "tweetfavorites": 287,
+    "tweetfavorites": 263,
     "tweetquotes": 1,
-    "tweetreplies": 3,
-    "tweetretweets": 92,
+    "tweetreplies": 2,
+    "tweetretweets": 83,
     "tweettext": "An unauthorized server-side request forgery (SSRF) vulnerabilities (#CVE-2021-21973) POC https://t.co/odVlMaiwDQ",
     "tweettime": "2021-02-27, 08:54:57",
     "tweeturl": "https://twitter.com/osama_hroot/status/1365586206982082560",
@@ -614,10 +614,10 @@
     "username": "mubix"
 }
 {
-    "tweetfavorites": 962,
+    "tweetfavorites": 916,
     "tweetquotes": 5,
     "tweetreplies": 19,
-    "tweetretweets": 222,
+    "tweetretweets": 209,
     "tweettext": "learned a ton about userland heap exploitation in Windows + DNS protocol writing an RCE exploit for #SigRed CVE-2020-1350. detailed technical writeup + PoC coming soon (sans rickroll 😇) https://t.co/BetRkRiUfj",
     "tweettime": "2021-02-05, 18:08:44",
     "tweeturl": "https://twitter.com/chompie1337/status/1357753038451183620",
@@ -759,10 +759,10 @@
     "username": "RealTryHackMe"
 }
 {
-    "tweetfavorites": 528,
+    "tweetfavorites": 497,
     "tweetquotes": 36,
     "tweetreplies": 13,
-    "tweetretweets": 252,
+    "tweetretweets": 241,
     "tweettext": "CVE-2021-3156 also impacts @apple MacOS Big Sur (unpatched at present), you can enable exploitation of the issue by symlinking sudo to sudoedit and then triggering the heap overflow to escalate one's privileges to 1337 uid=0. Fun for @p0sixninja https://t.co/tyXFB3odxE",
     "tweettime": "2021-02-02, 16:48:20",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1356645638151303169",

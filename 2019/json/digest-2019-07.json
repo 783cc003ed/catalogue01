@@ -1,5 +1,19 @@
 {
     "expanded_url": [
+        "https://bugs.chromium.org/p/project-zero/issues/detail?id=1858",
+        "https://bugs.chromium.org/p/project-zero/issues/list?q=label%3AiMessage&can=1"
+    ],
+    "tweetfavorites": 381,
+    "tweetquotes": 19,
+    "tweetreplies": 7,
+    "tweetretweets": 265,
+    "tweettext": "CVE-2019-8646 (iMessage) is a scary bug! Leaking  files remotely, without user interaction, via a callback from iOS. Delivery of SMS database in a silver plate via 0 tap, anyone?\nhttps://t.co/uJZMRXLmvj\nOther 4 bugs are as bad:\nhttps://t.co/74XtBY82OP\nyou dead if not on iOS 12.4",
+    "tweettime": "2019-07-31, 08:05:08",
+    "tweeturl": "https://twitter.com/hkashfi/status/1156475870107844608",
+    "username": "hkashfi"
+}
+{
+    "expanded_url": [
         "https://github.com/smgorelik/Windows-RCE-exploits"
     ],
     "tweetfavorites": 137,
@@ -83,7 +97,7 @@
         "https://paper.seebug.org/990/",
         "https://medium.com/@knownsec404team/analysis-of-cve-2019-11229-from-git-config-to-rce-32c217727baa"
     ],
-    "tweetfavorites": 131,
+    "tweetfavorites": 133,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 66,
@@ -159,6 +173,19 @@
 }
 {
     "expanded_url": [
+        "https://www.welivesecurity.com/2019/07/10/windows-zero-day-cve-2019-1132-exploit/"
+    ],
+    "tweetfavorites": 192,
+    "tweetquotes": 5,
+    "tweetreplies": 3,
+    "tweetretweets": 122,
+    "tweettext": "Windows zero-day CVE-2019-1132 exploited in targeted attacks https://t.co/9QDm5AFsh4",
+    "tweettime": "2019-07-10, 09:32:20",
+    "tweeturl": "https://twitter.com/cherepanov74/status/1148887669948030977",
+    "username": "cherepanov74"
+}
+{
+    "expanded_url": [
         "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0966"
     ],
     "tweetfavorites": 42,
@@ -177,7 +204,7 @@
     "tweetfavorites": 37,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 34,
+    "tweetretweets": 33,
     "tweettext": "CVE-2019-0888: Use-After-Free in Windows ActiveX Data Objects (ADO) \n\nIt's been over a month since the patch was released, so we've published the following explanation of the bug, and how to exploit it to achieve an ASLR bypass and Read/Write primitive: https://t.co/LHeKeXR0fl https://t.co/fanX9ClNR7",
     "tweettime": "2019-07-09, 15:05:19",
     "tweeturl": "https://twitter.com/SophosLabs/status/1148609081965514752",

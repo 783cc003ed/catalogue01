@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://blog.fuzzing-project.org/60-Optionsbleed-HTTP-OPTIONS-method-can-leak-Apaches-server-memory.html"
     ],
-    "tweetfavorites": 213,
+    "tweetfavorites": 204,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 191,
+    "tweetretweets": 183,
     "tweettext": "Optionsbleed (CVE-2017-9798): HTTP OPTIONS method can leak Apache's server memory https://t.co/ON4y4r8QN1 #optionsbleed #vulnerability https://t.co/ba15MzLXcK",
     "tweettime": "2017-09-18, 14:54:52",
     "tweeturl": "https://twitter.com/x0rz/status/909792844969398273",
@@ -78,6 +78,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/vysec/CVE-2017-8759"
+    ],
+    "tweetfavorites": 736,
+    "tweetquotes": 13,
+    "tweetreplies": 12,
+    "tweetretweets": 504,
+    "tweettext": "Exploit CVE-2017-8759 without Macros or any interaction. Simply click on the infected file and boom code execution.\nhttps://t.co/vpc6M8mGXY",
+    "tweettime": "2017-09-13, 18:58:23",
+    "tweeturl": "https://twitter.com/vysecurity/status/908042192115159040",
+    "username": "vysecurity"
+}
+{
+    "expanded_url": [
         "https://helpx.adobe.com/security/products/coldfusion/apsb17-30.html"
     ],
     "tweetfavorites": 84,
@@ -114,6 +127,19 @@
     "tweettime": "2017-09-08, 17:20:59",
     "tweeturl": "https://twitter.com/Dinosn/status/906205737893945348",
     "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html"
+    ],
+    "tweetfavorites": 153,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 62,
+    "tweettext": "Google fixed two remote code execution vulnerabilities I found in Chrome (CVE-2017-5112 and CVE-2017-5117) https://t.co/hMauN2hqWf",
+    "tweettime": "2017-09-06, 17:10:11",
+    "tweeturl": "https://twitter.com/tobiklein/status/905478245935710208",
+    "username": "tobiklein"
 }
 {
     "expanded_url": [

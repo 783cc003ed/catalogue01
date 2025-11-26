@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 886,
-    "tweetquotes": 7,
-    "tweetreplies": 24,
-    "tweetretweets": 280,
+    "tweetfavorites": 863,
+    "tweetquotes": 6,
+    "tweetreplies": 23,
+    "tweetretweets": 274,
     "tweettext": "I'll be presenting \"Crashing to root: How to escape the iOS sandbox using abort()\" at @bevxcon this September. I'll show how to exploit CVE-2018-4280, fixed in iOS 11.4.1, by crashing maliciously in order to elevate privileges, defeat codesigning, and spawn a shell on iOS 11.2.6. https://t.co/tRxLqD55fY",
     "tweettime": "2018-07-30, 17:21:38",
     "tweeturl": "https://twitter.com/_bazad/status/1023981959519694848",
@@ -29,10 +29,10 @@
     "username": "80vul"
 }
 {
-    "tweetfavorites": 200,
+    "tweetfavorites": 197,
     "tweetquotes": 3,
     "tweetreplies": 3,
-    "tweetretweets": 91,
+    "tweetretweets": 89,
     "tweettext": "#CVE-2018-2894   Unrestricted File Upload, just upload a jsp backdoor and take over the server. (the username and password  in KeyStore setting page are random.) https://t.co/KVfIt7D4kF",
     "tweettime": "2018-07-21, 10:46:07",
     "tweeturl": "https://twitter.com/pyn3rd/status/1020620932967223296",
@@ -42,10 +42,10 @@
     "expanded_url": [
         "https://github.com/rapid7/metasploit-framework/pull/10335"
     ],
-    "tweetfavorites": 538,
-    "tweetquotes": 16,
-    "tweetreplies": 8,
-    "tweetretweets": 457,
+    "tweetfavorites": 510,
+    "tweetquotes": 15,
+    "tweetreplies": 7,
+    "tweetretweets": 429,
     "tweettext": "Update VLC ! Incoming #metasploit exploit targeting a UAF in VideoLAN VLC media player &lt;= 2.2.8 ! CVE-2018-11529 discovered and exploited by Eugene Ng and module coded by Winston Ho. I guess sharing this on Torrent will pop a few shells ;) https://t.co/CiKuiAtK0q https://t.co/p61iqjFdJF",
     "tweettime": "2018-07-19, 10:54:54",
     "tweeturl": "https://twitter.com/ddouhine/status/1019898366996680705",
@@ -68,10 +68,10 @@
     "expanded_url": [
         "https://www.patreon.com/posts/19985285"
     ],
-    "tweetfavorites": 587,
+    "tweetfavorites": 567,
     "tweetquotes": 32,
     "tweetreplies": 11,
-    "tweetretweets": 425,
+    "tweetretweets": 400,
     "tweettext": "Apple added code to iOS to appease the Chinese 🇨🇳🤑 ...it contained a remote 'emoji-related' flaw (CVE-2018-4290).\n\nRead my latest blog post: \"A Remote iOS Bug 🇹🇼\" https://t.co/MKIATiSIAl \n\np.s. if you can read this tweet on your iOS device, you're not vulnerable 🤣 https://t.co/aaLWIZQ72N",
     "tweettime": "2018-07-10, 19:04:18",
     "tweeturl": "https://twitter.com/patrickwardle/status/1016760037409263616",
@@ -134,10 +134,10 @@
     "expanded_url": [
         "http://msft.social/UaLTYT"
     ],
-    "tweetfavorites": 283,
+    "tweetfavorites": 276,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 247,
+    "tweetretweets": 241,
     "tweettext": "New blog post: More technical info on the CVE-2018-4990 &amp; CVE-2018-8120 dual exploit. Finding and neutralizing the double zero-day before an attacker could use it was an amazing result of great collaboration between ESET, Microsoft, &amp; Adobe researchers. https://t.co/whJS7r5blS https://t.co/dd64DAgMQo",
     "tweettime": "2018-07-02, 15:05:01",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1013800717558206465",

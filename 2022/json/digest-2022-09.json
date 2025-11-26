@@ -297,10 +297,10 @@
     "expanded_url": [
         "https://www.x86matthew.com/view_post?id=windows_seagate_lpe"
     ],
-    "tweetfavorites": 732,
+    "tweetfavorites": 685,
     "tweetquotes": 8,
-    "tweetreplies": 8,
-    "tweetretweets": 251,
+    "tweetreplies": 9,
+    "tweetretweets": 238,
     "tweettext": "Exploiting a Seagate service to create a SYSTEM shell (CVE-2022-40286)\n\nA brief overview of reverse-engineering a Windows service to discover local privilege escalation exploits.\n\nhttps://t.co/zKLvaYzryf https://t.co/0hnFhv2KkK",
     "tweettime": "2022-09-20, 18:35:05",
     "tweeturl": "https://twitter.com/x86matthew/status/1572293283761758210",
@@ -382,10 +382,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-34718"
     ],
-    "tweetfavorites": 259,
+    "tweetfavorites": 238,
     "tweetquotes": 10,
-    "tweetreplies": 2,
-    "tweetretweets": 92,
+    "tweetreplies": 1,
+    "tweetretweets": 81,
     "tweettext": "Windows TCP/IP Remote Code Execution Vulnerability (CVE-2022-34718) 🤨 \n\nhttps://t.co/BVodCpwfLc https://t.co/FgwstUEUj1",
     "tweettime": "2022-09-16, 06:09:55",
     "tweeturl": "https://twitter.com/0xdea/status/1570656207509110787",
@@ -464,7 +464,7 @@
     "expanded_url": [
         "https://securityonline.info/researcher-releases-poc-code-for-windows-ike-rce-cve-2022-34721/"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 49,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 20,
@@ -534,10 +534,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-34718"
     ],
-    "tweetfavorites": 63,
+    "tweetfavorites": 58,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 18,
+    "tweetretweets": 16,
     "tweettext": "CVE-2022-34718 FAQ\n\nHow could an attacker exploit this vulnerability?\n\nAn unauthenticated attacker could send a specially crafted IPv6 packet to a Windows node where IPSec is enabled, which could enable a remote code execution exploitation on that machine.\nhttps://t.co/WKO2tWTK58 https://t.co/Y4ZT6U63xO",
     "tweettime": "2022-09-14, 00:42:33",
     "tweeturl": "https://twitter.com/netspooky/status/1569849045127929858",
@@ -560,7 +560,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-34718"
     ],
-    "tweetfavorites": 90,
+    "tweetfavorites": 89,
     "tweetquotes": 10,
     "tweetreplies": 1,
     "tweetretweets": 34,
@@ -583,10 +583,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37969"
     ],
-    "tweetfavorites": 247,
-    "tweetquotes": 5,
+    "tweetfavorites": 234,
+    "tweetquotes": 6,
     "tweetreplies": 1,
-    "tweetretweets": 94,
+    "tweetretweets": 90,
     "tweettext": "ThreatLabz discovered a #0day #exploit that targeted CVE-2022-37969 on fully patched Windows 10 and Windows 11 systems. This vulnerability was addressed in today's #PatchTuesday. More information can be found here: https://t.co/jqdxmadTtj https://t.co/eYGihXX6fV",
     "tweettime": "2022-09-13, 21:58:52",
     "tweeturl": "https://twitter.com/Threatlabz/status/1569807855238402048",
@@ -606,10 +606,10 @@
     "username": "campuscodi"
 }
 {
-    "tweetfavorites": 314,
-    "tweetquotes": 2,
-    "tweetreplies": 2,
-    "tweetretweets": 113,
+    "tweetfavorites": 302,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 107,
     "tweettext": "[Oh noo] New 0-Day affecting WordPress exploited in the wild 👇\n\nWordPress BackupBuddy Plugin LFI\n(CVE-2022-31474) \n\nTry this non-destructive Template to detect the vulnerability at scale 👇\n\n#recon #AttackSurface #bugbountytips #bugbounty #nuclei #cve #cve2022 #wordpress #0day https://t.co/VsHdwMn6QK",
     "tweettime": "2022-09-13, 13:59:26",
     "tweeturl": "https://twitter.com/ReconOne_bk/status/1569687199523966977",

@@ -41,10 +41,10 @@
     "expanded_url": [
         "https://www.nsa.gov/News-Features/News-Stories/Article-View/Article/2196511/exim-mail-transfer-agent-actively-exploited-by-russian-gru-cyber-actors/"
     ],
-    "tweetfavorites": 608,
+    "tweetfavorites": 566,
     "tweetquotes": 55,
-    "tweetreplies": 16,
-    "tweetretweets": 411,
+    "tweetreplies": 14,
+    "tweetretweets": 383,
     "tweettext": "Sandworm Team, Russian GRU Main Center for Special Technologies actors, continue to exploit Exim mail transfer agent #vulnerability, CVE-2019-10149. \n\nPatch to the latest version to protect your networks. Learn more here: https://t.co/6HU3mSPam9 https://t.co/Btuq3KBmhM",
     "tweettime": "2020-05-28, 15:04:02",
     "tweeturl": "https://twitter.com/NSACyber/status/1266022426317643778",
@@ -54,10 +54,10 @@
     "expanded_url": [
         "https://byteraptors.github.io/windows/exploitation/2020/05/24/sandboxescape.html"
     ],
-    "tweetfavorites": 109,
+    "tweetfavorites": 106,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 50,
+    "tweetretweets": 49,
     "tweettext": "Chronicles of a Sandbox Escape: Deep Analysis of CVE-2019-0880 https://t.co/iv9XIVPEBT",
     "tweettime": "2020-05-28, 13:22:52",
     "tweeturl": "https://twitter.com/andersonc0d3/status/1265996967135580164",
@@ -80,10 +80,10 @@
     "expanded_url": [
         "https://siguza.github.io/psychicpaper/"
     ],
-    "tweetfavorites": 198,
+    "tweetfavorites": 192,
     "tweetquotes": 1,
     "tweetreplies": 6,
-    "tweetretweets": 35,
+    "tweetretweets": 32,
     "tweettext": "R.I.P. CVE-2020-9842 aka \"Psychic Paper\" sandbox escape\n\nhttps://t.co/DgDksDoO81\n\nAwesome logic flaw found by @s1guza and reported to Apple by @LinusHenze. https://t.co/Ah8ztJNoBQ",
     "tweettime": "2020-05-26, 23:09:14",
     "tweeturl": "https://twitter.com/axi0mX/status/1265419754342215680",

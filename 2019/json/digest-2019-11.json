@@ -40,6 +40,20 @@
 }
 {
     "expanded_url": [
+        "https://github.com/Neo23x0/sigma/blob/master/rules/windows/process_creation/win_exploit_cve_2019_1388.yml",
+        "https://www.zerodayinitiative.com/blog/2019/11/19/thanksgiving-treat-easy-as-pie-windows-7-secure-desktop-escalation-of-privilege"
+    ],
+    "tweetfavorites": 103,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 54,
+    "tweettext": "Sigma rule to detect the exploitation of UAC vulnerability CVE-2019-1388 as described by @thezdi\n\nWe use:\nParentImage=consent.exe\nImage=iexplore.exe\nCommandLine=* http*\n+ User/IntegrityLevel\n\nRule\nhttps://t.co/P1lUvD832w\n\nReport\nhttps://t.co/0kJJXmLVnD https://t.co/fxCNn3vobr",
+    "tweettime": "2019-11-20, 08:28:11",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1197069110577893376",
+    "username": "cyb3rops"
+}
+{
+    "expanded_url": [
         "https://lucene.apache.org/solr/news.html",
         "http://mjet.py",
         "https://mogwailabs.de/blog/2019/04/attacking-rmi-based-jmx-services/"
@@ -78,6 +92,20 @@
     "tweettime": "2019-11-15, 01:37:01",
     "tweeturl": "https://twitter.com/andersonc0d3/status/1195153699070451712",
     "username": "andersonc0d3"
+}
+{
+    "expanded_url": [
+        "https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua",
+        "https://github.com/Neo23x0/sigma/blob/master/rules/windows/process_creation/win_exploit_cve_2019_1378.yml"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "Sigma rule that tries to detect exploitation attempts of CVE-2019-1379 in SetupComplete.cmd\n\nBlog post by @ember_sec\nhttps://t.co/wsLkVGFYm8\n\nRule\nhttps://t.co/llJ5wRyC3M https://t.co/QhcbfYQte3",
+    "tweettime": "2019-11-14, 23:35:19",
+    "tweeturl": "https://twitter.com/cyb3rops/status/1195123072896045057",
+    "username": "cyb3rops"
 }
 {
     "expanded_url": [
@@ -144,10 +172,10 @@
         "http://tpm.fail/tpmfail.pdf",
         "http://tpm.fail/"
     ],
-    "tweetfavorites": 181,
-    "tweetquotes": 11,
+    "tweetfavorites": 171,
+    "tweetquotes": 9,
     "tweetreplies": 4,
-    "tweetretweets": 125,
+    "tweetretweets": 118,
     "tweettext": "This is pretty cool and important stuff on full working timing attacks on real-life TPMs; paper https://t.co/2eAzLRTtoU  Intel TPM chips: CVE-2019-11090, ST's TPM chips: CVE-2019-16863. In this case a vulnerability website is entirely appropriate: https://t.co/Y1AxxhsFaL https://t.co/851Bt3A6JA",
     "tweettime": "2019-11-12, 20:13:03",
     "tweeturl": "https://twitter.com/mjos_crypto/status/1194347394646851585",
@@ -159,7 +187,7 @@
         "https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105",
         "https://medium.com/@navne3t/csv-injection-at-comment-section-d5009ddd176"
     ],
-    "tweetfavorites": 58,
+    "tweetfavorites": 59,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 27,
@@ -221,10 +249,10 @@
     "expanded_url": [
         "https://thehackernews.com/2019/11/chrome-zero-day-update.html"
     ],
-    "tweetfavorites": 735,
-    "tweetquotes": 93,
-    "tweetreplies": 21,
-    "tweetretweets": 1022,
+    "tweetfavorites": 650,
+    "tweetquotes": 84,
+    "tweetreplies": 18,
+    "tweetretweets": 884,
     "tweettext": "🎃 0-Day Alert!\n\n#Google is warning Windows, Mac, #Linux users to update their #Chrome browser (to 78.0.3904.87) immediately due to a security vulnerability (CVE-2019-13720) that attackers are actively exploiting in the wild to hijack computers.\n\nhttps://t.co/tw7Msba4kb\n\n#infosec https://t.co/QJj7ojqEDU",
     "tweettime": "2019-11-01, 09:38:21",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1190201400279453697",

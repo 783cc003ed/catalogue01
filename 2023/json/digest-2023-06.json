@@ -3,10 +3,10 @@
         "https://hunter.how/list?searchValue=web.body%3D%22%2Fwp-content%2Fplugins%2Fminiorange-login-openid%22",
         "https://lana.codes/lanavdb/2326f41f-a39f-4fde-8627-9d29fff91443/"
     ],
-    "tweetfavorites": 304,
-    "tweetquotes": 3,
+    "tweetfavorites": 292,
+    "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 102,
+    "tweetretweets": 100,
     "tweettext": "🚨Alert🚨 CVE-2023-2982 # WordPress Social Login and Register authentication bypass 🔥9.8🔥\n📎 https://t.co/bzHc08BxgU\n\nDork: \"/wp-content/plugins/miniorange-login-openid\"\n\nRefer to:\n@LanaCodes https://t.co/6LBv0XEaPG\n\n#CVE #infosec #vulnerabilities #Security https://t.co/8nx6Fndbfl",
     "tweettime": "2023-06-29, 10:00:02",
     "tweeturl": "https://twitter.com/HunterMapping/status/1674357044587929600",
@@ -16,10 +16,10 @@
     "expanded_url": [
         "https://www.mdsec.co.uk/2023/06/cve-2023-26258-remote-code-execution-in-arcserve-udp-backup/"
     ],
-    "tweetfavorites": 242,
+    "tweetfavorites": 236,
     "tweetquotes": 5,
     "tweetreplies": 4,
-    "tweetretweets": 99,
+    "tweetretweets": 95,
     "tweettext": "Following a recent successful red team engagement, @TheXC3LL deep dives in to a 0day we discovered... CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup https://t.co/gKBleJBwYc https://t.co/M6udhKyAMg",
     "tweettime": "2023-06-28, 13:59:03",
     "tweeturl": "https://twitter.com/MDSecLabs/status/1674054810801172480",
@@ -52,7 +52,7 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 187,
+    "tweetfavorites": 189,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 43,
@@ -104,7 +104,7 @@
     "expanded_url": [
         "https://blog.coffinsec.com/0day/2023/06/19/minidlna-cve-2023-33476-exploits.html"
     ],
-    "tweetfavorites": 49,
+    "tweetfavorites": 48,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 18,
@@ -150,7 +150,7 @@
     "username": "CyberWarship"
 }
 {
-    "tweetfavorites": 86,
+    "tweetfavorites": 84,
     "tweetquotes": 4,
     "tweetreplies": 1,
     "tweetretweets": 38,
@@ -232,10 +232,10 @@
     "username": "pdnuclei"
 }
 {
-    "tweetfavorites": 268,
+    "tweetfavorites": 259,
     "tweetquotes": 14,
-    "tweetreplies": 7,
-    "tweetretweets": 129,
+    "tweetreplies": 6,
+    "tweetretweets": 122,
     "tweettext": "Today Apple released updates for CVE-2023-32434 (Kernel) and CVE-2023-32435 (WebKit) in-the-wild zero-days which were discovered by us (@kucher1n, @bzvr_ and yours truly) in the #iOSTriangulation attacks. Update your iOS/iPadOS/macOS/watchOS now! https://t.co/w1HxJwq4GO",
     "tweettime": "2023-06-21, 18:51:00",
     "tweeturl": "https://twitter.com/oct0xor/status/1671591564894773258",
@@ -311,7 +311,7 @@
     "expanded_url": [
         "https://github.com/j00sean/CVE-2022-44666#jar-files-as-payload"
     ],
-    "tweetfavorites": 39,
+    "tweetfavorites": 35,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 16,
@@ -383,10 +383,10 @@
     "expanded_url": [
         "https://securityonline.info/poc-released-for-windows-sysinternals-sysmon-privilege-escalation-cve-2023-29343-bug/"
     ],
-    "tweetfavorites": 569,
-    "tweetquotes": 5,
+    "tweetfavorites": 529,
+    "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 193,
+    "tweetretweets": 181,
     "tweettext": "PoC Released for Windows SysInternals Sysmon Privilege Escalation (CVE-2023-29343) Bug https://t.co/HqOyRw6etH",
     "tweettime": "2023-06-18, 16:54:51",
     "tweeturl": "https://twitter.com/Dinosn/status/1670475171415613441",
@@ -515,7 +515,7 @@
     "tweetfavorites": 140,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 38,
+    "tweetretweets": 37,
     "tweettext": "CVE-2023-20887\n\nPOC for CVE-2023-20887 VMWare Aria Operations for Networks (vRealize Network Insight) unauthenticated RCE\n\nhttps://t.co/5oRf0sj1NW\n\n#cve #cybersecurity #infosec https://t.co/QH3xZv87qx",
     "tweettime": "2023-06-14, 05:19:07",
     "tweeturl": "https://twitter.com/hack_git/status/1668850531979108354",
@@ -591,10 +591,10 @@
     "expanded_url": [
         "https://summoning.team/blog/vmware-vrealize-network-insight-rce-cve-2023-20887/"
     ],
-    "tweetfavorites": 250,
+    "tweetfavorites": 245,
     "tweetquotes": 6,
-    "tweetreplies": 5,
-    "tweetretweets": 103,
+    "tweetreplies": 6,
+    "tweetretweets": 99,
     "tweettext": "🚨 Here is the #Exploit and technical detail for the CVE-2023-20887 Pre-Authenticated Remote Code Execution in #VMWare vRealize Network Insight.\nhttps://t.co/s3aifF2wc9 https://t.co/89F7DfiILt",
     "tweettime": "2023-06-13, 13:49:58",
     "tweeturl": "https://twitter.com/SinSinology/status/1668616705344704518",
@@ -653,10 +653,10 @@
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html",
         "https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part4.html"
     ],
-    "tweetfavorites": 422,
+    "tweetfavorites": 391,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 118,
+    "tweetretweets": 107,
     "tweettext": "Still a great series for learning Linux kernel exploitation\nGuide for exploiting CVE-2017-11176 (UaF in mq_notify function)\nCredits @LexfoSecurite\n\nhttps://t.co/9dvQOGgpeG\nhttps://t.co/JsvFkbr9iQ\nhttps://t.co/PANcb1P6In\nhttps://t.co/2qEPjbier7\n\n#Linux #kernel #exploit #infosec https://t.co/H9MBn8xizo",
     "tweettime": "2023-06-12, 19:30:06",
     "tweeturl": "https://twitter.com/0xor0ne/status/1668339915963129864",
@@ -819,10 +819,10 @@
     "expanded_url": [
         "https://www.barracuda.com/company/legal/esg-vulnerability"
     ],
-    "tweetfavorites": 204,
+    "tweetfavorites": 192,
     "tweetquotes": 10,
-    "tweetreplies": 18,
-    "tweetretweets": 51,
+    "tweetreplies": 16,
+    "tweetretweets": 48,
     "tweettext": "Does anyone know if these Barracuda Email Security Gateways are all physical?  If so, CVE-2023-2868 will be the CVE of the year.  https://t.co/QhGoKwRssJ https://t.co/sja6aZmSza",
     "tweettime": "2023-06-07, 20:22:56",
     "tweeturl": "https://twitter.com/JGamblin/status/1666541272876580864",
@@ -852,30 +852,30 @@
     "username": "DailyDarkWeb"
 }
 {
-    "tweetfavorites": 800,
-    "tweetquotes": 8,
+    "tweetfavorites": 777,
+    "tweetquotes": 6,
     "tweetreplies": 14,
-    "tweetretweets": 268,
+    "tweetretweets": 254,
     "tweettext": "This video shows my PoC for libssh CVE-2023-2283 (authentication bypass vuln). The attacker logs in with ED25519 authentication, despite not knowing the private key. https://t.co/v9dn1fTD6r",
     "tweettime": "2023-06-07, 14:57:15",
     "tweeturl": "https://twitter.com/kevin_backhouse/status/1666459308941357056",
     "username": "kevin_backhouse"
 }
 {
-    "tweetfavorites": 273,
+    "tweetfavorites": 269,
     "tweetquotes": 0,
     "tweetreplies": 8,
-    "tweetretweets": 55,
+    "tweetretweets": 52,
     "tweettext": "Thousands of government websites are still vulnerable to CVE-2023-25157\n#exploit #Security https://t.co/FNfppPb5cO",
     "tweettime": "2023-06-07, 13:08:01",
     "tweeturl": "https://twitter.com/win3zz/status/1666431822643994624",
     "username": "win3zz"
 }
 {
-    "tweetfavorites": 336,
+    "tweetfavorites": 328,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 70,
+    "tweetretweets": 66,
     "tweettext": "Looked at security patch for CVE-2023-3079, the latest zero day exploit for Chrome/v8 (JavaScript), patched in v114.0.5735.106-110.   My quick reverse engineering notes in thread (root cause analysis) https://t.co/OFWqrXisqP",
     "tweettime": "2023-06-07, 08:54:56",
     "tweeturl": "https://twitter.com/alisaesage/status/1666368128207720448",
@@ -947,10 +947,10 @@
     "expanded_url": [
         "https://securityonline.info/cve-2023-3079-new-google-chrome-0-day-vulnerability-being-exploited-in-the-wild/"
     ],
-    "tweetfavorites": 207,
+    "tweetfavorites": 200,
     "tweetquotes": 2,
-    "tweetreplies": 1,
-    "tweetretweets": 94,
+    "tweetreplies": 0,
+    "tweetretweets": 89,
     "tweettext": "CVE-2023-3079: New Google Chrome 0-Day Vulnerability Being Exploited in the Wild https://t.co/QTLZrSO7UX",
     "tweettime": "2023-06-06, 04:41:39",
     "tweeturl": "https://twitter.com/Dinosn/status/1665942000573579265",
@@ -960,7 +960,7 @@
     "expanded_url": [
         "https://github.com/hacksysteam/CVE-2023-21608"
     ],
-    "tweetfavorites": 363,
+    "tweetfavorites": 360,
     "tweetquotes": 6,
     "tweetreplies": 2,
     "tweetretweets": 140,
@@ -1016,10 +1016,10 @@
     "username": "MsftSecIntel"
 }
 {
-    "tweetfavorites": 817,
-    "tweetquotes": 41,
-    "tweetreplies": 10,
-    "tweetretweets": 411,
+    "tweetfavorites": 764,
+    "tweetquotes": 42,
+    "tweetreplies": 8,
+    "tweetretweets": 379,
     "tweettext": "Microsoft is attributing attacks exploiting the CVE-2023-34362 MOVEit Transfer 0-day vulnerability to Lace Tempest, known for ransomware operations &amp; running the Clop extortion site. The threat actor has used similar vulnerabilities in the past to steal data &amp; extort victims. https://t.co/q73WtGru7j",
     "tweettime": "2023-06-05, 01:55:13",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1665537730946670595",
@@ -1032,17 +1032,17 @@
     "tweetfavorites": 99,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 37,
+    "tweetretweets": 36,
     "tweettext": "CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF -exploit:\nhttps://t.co/C9DI6WTyMO",
     "tweettime": "2023-06-04, 21:31:58",
     "tweeturl": "https://twitter.com/kmkz_security/status/1665471481344655361",
     "username": "kmkz_security"
 }
 {
-    "tweetfavorites": 463,
+    "tweetfavorites": 464,
     "tweetquotes": 9,
     "tweetreplies": 5,
-    "tweetretweets": 175,
+    "tweetretweets": 174,
     "tweettext": "🚨 Massive zero-day exploitation for MOVEit Transfer (now formally CVE-2023-34362).\n\nAt this moment, at least 57 instances potentially compromised with the human2.aspx backdoor, 39 in the US.\n\nAfter the respective analysis, the validation process I use is as follows:\n1.- I verify… https://t.co/f6Z2lcog8g",
     "tweettime": "2023-06-02, 22:42:08",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1664764361515192322",

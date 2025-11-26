@@ -28,7 +28,7 @@
     "expanded_url": [
         "https://starlabs.sg/blog/2023/04-microsoft-exchange-powershell-remoting-deserialization-leading-to-rce-cve-2023-21707/"
     ],
-    "tweetfavorites": 191,
+    "tweetfavorites": 190,
     "tweetquotes": 4,
     "tweetreplies": 2,
     "tweetretweets": 69,
@@ -90,10 +90,10 @@
     "expanded_url": [
         "https://github.com/PabloMK7/ENLBufferPwn"
     ],
-    "tweetfavorites": 221,
+    "tweetfavorites": 222,
     "tweetquotes": 3,
-    "tweetreplies": 0,
-    "tweetretweets": 59,
+    "tweetreplies": 7,
+    "tweetretweets": 58,
     "tweettext": "Analysis and exploitation of a buffer overflow vulnerability (CVE-2022-47949) in Nintendo games network code by @Pablomf6 \n\nhttps://t.co/bMdPnwjzhk\n\n#cybersecurity https://t.co/XChiM0tkUu",
     "tweettime": "2023-04-26, 18:00:32",
     "tweeturl": "https://twitter.com/0xor0ne/status/1651285146371346435",
@@ -142,7 +142,7 @@
     "expanded_url": [
         "https://www.randori.com/blog/vulnerability-analysis-queuejumper-cve-2023-21554/"
     ],
-    "tweetfavorites": 118,
+    "tweetfavorites": 117,
     "tweetquotes": 6,
     "tweetreplies": 2,
     "tweetretweets": 61,
@@ -286,7 +286,7 @@
     "expanded_url": [
         "https://www.forescout.com/resources/l1-lateral-movement-report"
     ],
-    "tweetfavorites": 246,
+    "tweetfavorites": 237,
     "tweetquotes": 3,
     "tweetreplies": 1,
     "tweetretweets": 84,
@@ -542,10 +542,10 @@
     "expanded_url": [
         "https://gist.github.com/seongil-wi/2a44e082001b959bfe304b62121fb76d"
     ],
-    "tweetfavorites": 39,
+    "tweetfavorites": 37,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 13,
+    "tweetretweets": 12,
     "tweettext": "CVE-2023-29017: VM2 JavaScript sandbox escape; bypass the sandbox protections to gain remote code execution rights on the host running the sandbox.\n\nvm2 version: ~3.9.14\nNode version: 18.15.0, 19.8.1, 17.9.1\n\nPoC\nhttps://t.co/8C7ZEL11Ri https://t.co/ayFSIJkww6",
     "tweettime": "2023-04-10, 02:36:55",
     "tweeturl": "https://twitter.com/cyber_advising/status/1645254503568998404",
@@ -578,10 +578,10 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
     ],
-    "tweetfavorites": 292,
+    "tweetfavorites": 270,
     "tweetquotes": 4,
     "tweetreplies": 2,
-    "tweetretweets": 78,
+    "tweetretweets": 72,
     "tweettext": "Patch analysis, vulnerability bug identification and exploit development for CVE-2022-34718 (Windows TCP/IP Remote Code Execution Vulnerability)\nGreat writeup by @chompie1337 \n\nhttps://t.co/ZDEOVqM765 \n\n#infosec #cybersecurity #cve #exploit https://t.co/IXb4omcfiJ",
     "tweettime": "2023-04-08, 07:30:11",
     "tweeturl": "https://twitter.com/0xor0ne/status/1644603530416627713",

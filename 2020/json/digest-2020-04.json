@@ -81,20 +81,20 @@
     "expanded_url": [
         "https://bugs.chromium.org/p/project-zero/issues/detail?id=2023"
     ],
-    "tweetfavorites": 634,
-    "tweetquotes": 5,
-    "tweetreplies": 3,
-    "tweetretweets": 260,
+    "tweetfavorites": 579,
+    "tweetquotes": 4,
+    "tweetreplies": 4,
+    "tweetretweets": 231,
     "tweettext": "My writeup for the haproxy http2 bug (CVE-2020-11100) is now public: https://t.co/rWgz4bfnCZ.  Includes a PoC exploit to demonstrate RCE against Ubuntu 19.10.",
     "tweettime": "2020-04-21, 07:39:52",
     "tweeturl": "https://twitter.com/_fel1x/status/1252502296661016576",
     "username": "_fel1x"
 }
 {
-    "tweetfavorites": 267,
+    "tweetfavorites": 264,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 124,
+    "tweetretweets": 121,
     "tweettext": "We were able to exploit #SMBGhost (CVE-2020-0796) as a Preauth RCE. It was not trivial but totally possible. @ZecOps implementation is done through another infoleak vulnerability so we'll only post full details once it's patched. https://t.co/4ocaQQrPsI",
     "tweettime": "2020-04-20, 17:28:45",
     "tweeturl": "https://twitter.com/ZecOps/status/1252288104435761154",
@@ -233,7 +233,7 @@
         "https://chromereleases.googleblog.com/2020/04/stable-channel-update-for-desktop_7.html",
         "https://bugs.chromium.org/p/chromium/issues/detail?id=950328"
     ],
-    "tweetfavorites": 89,
+    "tweetfavorites": 90,
     "tweetquotes": 0,
     "tweetreplies": 4,
     "tweetretweets": 7,
@@ -324,10 +324,10 @@
     "expanded_url": [
         "https://labs.bluefrostsecurity.de/blog/2020/03/31/cve-2020-0041-part-1-sandbox-escape/"
     ],
-    "tweetfavorites": 42,
+    "tweetfavorites": 41,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 15,
     "tweettext": "(good write-up) Exploiting CVE-2020-0041 - Part 1: Escaping the Chrome Sandbox --\n\nhttps://t.co/zttL2bBQQm \n\n#cve #exploitation #chrome #security #sandbox https://t.co/ET9LsgpKne",
     "tweettime": "2020-04-01, 18:52:20",
     "tweeturl": "https://twitter.com/ale_sp_brazil/status/1245423772938764295",
