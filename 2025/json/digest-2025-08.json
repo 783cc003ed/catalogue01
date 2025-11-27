@@ -126,6 +126,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/knight0x07/WinRAR-CVE-2025-8088-PoC-RAR"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 42,
+    "tweettext": "I developed a PoC RAR Archive for the #WinRAR #0day (CVE-2025-8088) vulnerability exploited ITW by a Russian #APT group #RomCom.\n\nhttps://t.co/EMFL5WYZHu\n\n #cyber #infosec #cybersecurity #malware",
+    "tweettime": "2025-08-12, 13:48:44",
+    "tweeturl": "https://twitter.com/knight0x07/status/1955265195023978830",
+    "username": "knight0x07"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2025/08/winrar-zero-day-under-active.html"
     ],
     "tweetfavorites": 390,

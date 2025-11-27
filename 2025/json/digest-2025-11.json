@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 37,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 5,
+    "tweettext": "#APT35 File Leak: Cyber Attack Technical Analysis Report\nRapid Vulnerability Exploitation:\nThey prioritize zero-day and N-day exploits, such as CVE-2024-1709 (ConnectWise ScreenConnect) within 24 hours of disclosure, using tools like SQLMap and Nuclei for automated scanning and https://t.co/7yUTy4QrD7",
+    "tweettime": "2025-11-26, 08:12:32",
+    "tweeturl": "https://twitter.com/blackorbird/status/1993593700380033305",
+    "username": "blackorbird"
+}
+{
     "expanded_url": [
         "https://www.zoomeye.ai/searchResult?q=YXBwPSJXb3JkUHJlc3MgU25lZWl0IFBsdWdpbiI%3D&utm_source=x&utm_medium=x&utm_campaign=x_Sneeit_25112501"
     ],
@@ -100,7 +110,7 @@
     "expanded_url": [
         "https://github.com/rapid7/metasploit-framework/pull/20717"
     ],
-    "tweetfavorites": 344,
+    "tweetfavorites": 345,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 68,
@@ -306,7 +316,7 @@
     "expanded_url": [
         "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html"
     ],
-    "tweetfavorites": 485,
+    "tweetfavorites": 484,
     "tweetquotes": 25,
     "tweetreplies": 15,
     "tweetretweets": 174,
@@ -733,7 +743,7 @@
     "username": "FAMASoon"
 }
 {
-    "tweetfavorites": 332,
+    "tweetfavorites": 333,
     "tweetquotes": 5,
     "tweetreplies": 15,
     "tweetretweets": 120,
