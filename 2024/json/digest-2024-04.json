@@ -409,7 +409,7 @@
     "tweetfavorites": 205,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 57,
+    "tweetretweets": 58,
     "tweettext": "🚨Alert🚨CVE-2024-3116: Remote Code Execution (RCE) in pgAdmin version 8.4 or below.(CVSS: 7.4)\n⚠This vulnerability allows attackers to execute malicious code on servers running pgAdmin, potentially compromising the entire database system.\n📊 1K+ Services are found on https://t.co/4ViJhdnljj",
     "tweettime": "2024-04-07, 02:26:30",
     "tweeturl": "https://twitter.com/HunterMapping/status/1776798677128130683",

@@ -56,7 +56,7 @@
     "tweetfavorites": 479,
     "tweetquotes": 21,
     "tweetreplies": 20,
-    "tweetretweets": 356,
+    "tweetretweets": 355,
     "tweettext": "OpenBSD #0day Xorg LPE via CVE-2018-14665 can be triggered from a remote SSH session, does not need to be on a local console. An attacker can literally take over impacted systems with 3 commands or less. exploit https://t.co/3FqgJPeCvO 🙄 https://t.co/8HCBXwBj5M",
     "tweettime": "2018-10-25, 21:14:26",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1055568290112831490",

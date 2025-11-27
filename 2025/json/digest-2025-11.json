@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/water-gamayun-apt-hackers-exploit-msc/"
     ],
-    "tweetfavorites": 56,
+    "tweetfavorites": 70,
     "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 17,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
     "tweettext": "🚨 Water Gamayun Hackers Exploit Windows MSC EvilTwin 0-Day to Inject Stealthy Malware \n\nSource: https://t.co/kgaHLV8SzD\n\nWater Gamayun, a persistent threat group, has recently intensified its efforts by exploiting a newly identified MSC EvilTwin vulnerability (CVE-2025-26633) in https://t.co/7v9ZvywI4R",
     "tweettime": "2025-11-27, 01:51:57",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1993860314249711702",
@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://github.com/D4m0n/CVE-2025-50168-pwn2own-berlin-2025"
     ],
-    "tweetfavorites": 80,
+    "tweetfavorites": 87,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 25,
+    "tweetretweets": 26,
     "tweettext": "''GitHub - D4m0n/CVE-2025-50168-pwn2own-berlin-2025: CVE-2025-50168 Exploit PoC — Pwn2Own Berlin 2025 - LPE(Windows 11) winning bug.''\n\n#infosec #pentest #redteam #blueteam\nhttps://t.co/HA4tMCNFLZ",
     "tweettime": "2025-11-26, 14:40:01",
     "tweeturl": "https://twitter.com/CyberWarship/status/1993691216429420577",
@@ -51,7 +51,7 @@
     "tweetfavorites": 62,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetretweets": 15,
     "tweettext": "#APT35 File Leak: Cyber Attack Technical Analysis Report\nRapid Vulnerability Exploitation:\nThey prioritize zero-day and N-day exploits, such as CVE-2024-1709 (ConnectWise ScreenConnect) within 24 hours of disclosure, using tools like SQLMap and Nuclei for automated scanning and https://t.co/7yUTy4QrD7",
     "tweettime": "2025-11-26, 08:12:32",
     "tweeturl": "https://twitter.com/blackorbird/status/1993593700380033305",
@@ -59,9 +59,24 @@
 }
 {
     "expanded_url": [
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22GeoServer%22",
+        "http://product.name"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 15,
+    "tweettext": "🚨Alert🚨:CVE-2025-58360:XML External Entity Vulnerability in GeoServer WMS\nGetMap Operation\n📊51.7K Services are found on the https://t.co/ysWb28BTvF yearly.\n🔗Hunter Link:https://t.co/0Qu4uLnPo6\n👇Query\nHUNTER : https://t.co/q9rtuGfZuz=\"GeoServer\" https://t.co/pTNTZQeHMk",
+    "tweettime": "2025-11-26, 07:36:24",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1993584607728423217",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
         "https://www.zoomeye.ai/searchResult?q=YXBwPSJXb3JkUHJlc3MgU25lZWl0IFBsdWdpbiI%3D&utm_source=x&utm_medium=x&utm_campaign=x_Sneeit_25112501"
     ],
-    "tweetfavorites": 40,
+    "tweetfavorites": 41,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 8,
@@ -94,7 +109,7 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 414,
+    "tweetfavorites": 416,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 149,

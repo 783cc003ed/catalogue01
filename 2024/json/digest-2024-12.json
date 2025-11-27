@@ -49,6 +49,19 @@
     "username": "stephenfewer"
 }
 {
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49112"
+    ],
+    "tweetfavorites": 141,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 17,
+    "tweettext": "CVE-2024-49112, Windows LDAP Remote Code Execution Vulnerability\n\nhttps://t.co/NwuKCtgbsk https://t.co/2RIPXkHl0V",
+    "tweettime": "2024-12-16, 04:19:18",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1868511192085581975",
+    "username": "h4x0r_dz"
+}
+{
     "tweetfavorites": 280,
     "tweetquotes": 3,
     "tweetreplies": 3,
@@ -116,4 +129,17 @@
     "tweettime": "2024-12-03, 16:30:12",
     "tweeturl": "https://twitter.com/LukeGix/status/1863984088559812929",
     "username": "LukeGix"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/zero-day-exploit-code-released-for-windows-task-scheduler-flaw-cve-2024-49039-actively-exploited-by-romcom-group/"
+    ],
+    "tweetfavorites": 329,
+    "tweetquotes": 4,
+    "tweetreplies": 1,
+    "tweetretweets": 112,
+    "tweettext": "Zero-Day Exploit Code Released for Windows Task Scheduler Flaw (CVE-2024-49039), Actively Exploited by RomCom Group https://t.co/XRrouZUz7O",
+    "tweettime": "2024-12-03, 05:45:56",
+    "tweeturl": "https://twitter.com/Dinosn/status/1863821954903326765",
+    "username": "Dinosn"
 }
