@@ -39,6 +39,20 @@
 }
 {
     "expanded_url": [
+        "https://cloud.projectdiscovery.io/?template=CVE-2024-46938",
+        "https://www.assetnote.io/resources/research/leveraging-an-order-of-operations-bug-to-achieve-rce-in-sitecore-8-x---10-x"
+    ],
+    "tweetfavorites": 287,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 72,
+    "tweettext": "Detect Sitecore RCE (CVE-2024-46938) with Nuclei 🚀\n\n🔹 Nuclei Template: https://t.co/0ZphvIlDdC by @DhiyaneshDK \n🔹 Research: https://t.co/xp5Nf5icVm by @assetnote \n\n#hackwithautomation #Cybersecurity #AppSec #BugBounty https://t.co/6V12paoFJk",
+    "tweettime": "2024-11-24, 11:41:28",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1860649937052266685",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
         "https://github.com/ebrasha/abdal-anydesk-remote-ip-detector/blob/main/README.md"
     ],
     "tweetfavorites": 319,

@@ -232,7 +232,7 @@
     "expanded_url": [
         "https://github.com/mverschu/CVE-2025-33073"
     ],
-    "tweetfavorites": 488,
+    "tweetfavorites": 487,
     "tweetquotes": 0,
     "tweetreplies": 6,
     "tweetretweets": 105,
@@ -324,6 +324,16 @@
     "tweettime": "2025-10-06, 05:20:09",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1975068537954701517",
     "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 191,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 74,
+    "tweettext": "⚠️Oracle issued an emergency fix for a a critical E-Business Suite zero-day flaw tracked as CVE-2025-61882 that was exploited in Clop data theft attacks.\n\n🔥The flaw is a critical unauthenticated RCE flaw. An exploit is publicly available to open a reverse shell. \n\n🚨Patch now! https://t.co/eDGhsr9kdp",
+    "tweettime": "2025-10-06, 01:45:19",
+    "tweeturl": "https://twitter.com/BleepinComputer/status/1975014476874481713",
+    "username": "BleepinComputer"
 }
 {
     "expanded_url": [

@@ -110,7 +110,7 @@
     ],
     "tweetfavorites": 290,
     "tweetquotes": 0,
-    "tweetreplies": 4,
+    "tweetreplies": 5,
     "tweetretweets": 107,
     "tweettext": "I published a post describing the exploitation process for CVE-2024-38193, a use-after-free vulnerability in the afd.sys Windows driver. Hope you enjoy it! :) \n\nhttps://t.co/tzazvZxOqp",
     "tweettime": "2024-12-03, 16:30:12",

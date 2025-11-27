@@ -39,6 +39,16 @@
     "username": "0xor0ne"
 }
 {
+    "tweetfavorites": 336,
+    "tweetquotes": 12,
+    "tweetreplies": 6,
+    "tweetretweets": 158,
+    "tweettext": "🛑 2 critical Firefox zero-days — CVE-2025-4918 &amp; CVE-2025-4919 — proven exploitable.\n\nAttackers can read/write sensitive data or trigger remote code execution.\n\nAffects all versions before: • Firefox 138.0.4 • ESR 128.10.1 / 115.23.1\n🔗 Patch now. Full story: https://t.co/YkjaXhcj8f",
+    "tweettime": "2025-05-19, 10:40:03",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1924414745865605150",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 237,
     "tweetquotes": 7,
     "tweetreplies": 4,
