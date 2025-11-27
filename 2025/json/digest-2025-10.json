@@ -2,7 +2,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/cisa-threat-detections-wsus-vulnerability/"
     ],
-    "tweetfavorites": 208,
+    "tweetfavorites": 207,
     "tweetquotes": 4,
     "tweetreplies": 1,
     "tweetretweets": 61,
@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://go.dhs.gov/in5"
     ],
-    "tweetfavorites": 144,
+    "tweetfavorites": 142,
     "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 72,
+    "tweetretweets": 73,
     "tweettext": "We’ve released updated information on vulnerable product identification &amp; threat detections to address CVE-2025-59287, a critical remote code execution vulnerability affecting Windows Server Update Service. Review our Alert &amp; take immediate action. 🔗 https://t.co/t5xpDWjSWS https://t.co/haphNJCf7N",
     "tweettime": "2025-10-29, 21:15:40",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1983643925341438111",
@@ -196,7 +196,7 @@
     "tweetfavorites": 145,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 48,
+    "tweetretweets": 49,
     "tweettext": "🚨Alert🚨 CVE-2025-49844 (CVSS 10.0) :Critical Remote Code Execution Vulnerability in Redis\n🧐Detail:https://t.co/u7Obt9Oeoh\n🔥EXP:https://t.co/PD3foEAoVh\n📊1.9M Services are found on the https://t.co/ysWb28Crld yearly.\n🔗Hunter\nLink:https://t.co/LhLk0voAPy\n👇Query\nHUNTER : https://t.co/WujWsQGyWL",
     "tweettime": "2025-10-21, 03:15:58",
     "tweeturl": "https://twitter.com/HunterMapping/status/1980473107103248878",

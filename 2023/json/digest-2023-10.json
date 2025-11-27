@@ -518,10 +518,10 @@
         "https://support.apple.com/en-us/HT213926",
         "https://github.com/po6ix/POC-for-CVE-2023-41993"
     ],
-    "tweetfavorites": 569,
+    "tweetfavorites": 556,
     "tweetquotes": 4,
-    "tweetreplies": 30,
-    "tweetretweets": 128,
+    "tweetreplies": 29,
+    "tweetretweets": 121,
     "tweettext": "I have written POC and brief explanation for CVE-2023-41993 WebKit JSC bug fixed at iOS 17.0.1.\ncommit: 66ffc7ca6a7c833c5720eb71b427784\nadvisory: https://t.co/jmX69L9y49\nexploit: https://t.co/wBto9IkGy1",
     "tweettime": "2023-10-15, 12:19:49",
     "tweeturl": "https://twitter.com/po6ix/status/1713530112707101079",

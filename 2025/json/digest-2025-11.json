@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://cybersecuritynews.com/water-gamayun-apt-hackers-exploit-msc/"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "🚨 Water Gamayun Hackers Exploit Windows MSC EvilTwin 0-Day to Inject Stealthy Malware \n\nSource: https://t.co/kgaHLV8SzD\n\nWater Gamayun, a persistent threat group, has recently intensified its efforts by exploiting a newly identified MSC EvilTwin vulnerability (CVE-2025-26633) in https://t.co/7v9ZvywI4R",
+    "tweettime": "2025-11-27, 01:51:57",
+    "tweeturl": "https://twitter.com/The_Cyber_News/status/1993860314249711702",
+    "username": "The_Cyber_News"
+}
+{
+    "expanded_url": [
         "https://nccgroup.com/media/b2chcbti/vmware-workstation-guest-to-host-escape.pdf"
     ],
     "tweetfavorites": 126,
@@ -12,10 +25,20 @@
     "username": "0xor0ne"
 }
 {
-    "tweetfavorites": 37,
-    "tweetquotes": 0,
+    "tweetfavorites": 42,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 7,
+    "tweettext": "🔥ZoomEye's Black Friday event is almost here! Don't miss the launch at 10 AM on the 27th!\n\n🚨🚨 CVE-2025-58360 (CVSS 8.2): GeoServer XXE Vulnerability\nA critical flaw in the /geoserver/wms GetMap endpoint allows unsafe XML parsing, enabling attackers to inject external entities https://t.co/kXe80Hdm6C",
+    "tweettime": "2025-11-26, 10:05:42",
+    "tweeturl": "https://twitter.com/zoomeye_team/status/1993622182984061002",
+    "username": "zoomeye_team"
+}
+{
+    "tweetfavorites": 57,
+    "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 5,
+    "tweetretweets": 12,
     "tweettext": "#APT35 File Leak: Cyber Attack Technical Analysis Report\nRapid Vulnerability Exploitation:\nThey prioritize zero-day and N-day exploits, such as CVE-2024-1709 (ConnectWise ScreenConnect) within 24 hours of disclosure, using tools like SQLMap and Nuclei for automated scanning and https://t.co/7yUTy4QrD7",
     "tweettime": "2025-11-26, 08:12:32",
     "tweeturl": "https://twitter.com/blackorbird/status/1993593700380033305",
@@ -329,7 +352,7 @@
     "expanded_url": [
         "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html"
     ],
-    "tweetfavorites": 484,
+    "tweetfavorites": 485,
     "tweetquotes": 25,
     "tweetreplies": 15,
     "tweetretweets": 174,
@@ -452,10 +475,10 @@
     "expanded_url": [
         "https://go.dhs.gov/i8Y"
     ],
-    "tweetfavorites": 174,
+    "tweetfavorites": 168,
     "tweetquotes": 2,
     "tweetreplies": 5,
-    "tweetretweets": 72,
+    "tweetretweets": 70,
     "tweettext": "Malicious cyber actors are exploiting a newly disclosed Fortinet FortiWeb path traversal vulnerability, CVE-2025-64446. We urge organizations to implement Fortinet’s guidance immediately by applying upgrades or disabling HTTP/HTTPS services. Learn more 👉 https://t.co/GSY4BgTnUt https://t.co/3VeWzxbjem",
     "tweettime": "2025-11-14, 21:46:48",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1989449965614035038",
@@ -482,7 +505,7 @@
     "tweetfavorites": 72,
     "tweetquotes": 2,
     "tweetreplies": 7,
-    "tweetretweets": 35,
+    "tweetretweets": 34,
     "tweettext": "We added Fortinet FortiWeb path traversal vulnerability CVE-2025-64446 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/okZl7pm6Jj",
     "tweettime": "2025-11-14, 17:33:42",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1989386270808637559",

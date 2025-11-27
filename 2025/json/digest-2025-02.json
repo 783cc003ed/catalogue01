@@ -114,6 +114,16 @@
     "username": "hakivvi"
 }
 {
+    "tweetfavorites": 41,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 4,
+    "tweettext": "⚠️ Another CVE SOC Alert: Windows OLE Zero-Click RCE Exploitation Detected\n\nCVE: CVE-2025-21298 \nType: Malware\nDifficulty: Medium\nEvent ID: 314 https://t.co/vwe2FCwf5p",
+    "tweettime": "2025-02-08, 13:43:01",
+    "tweeturl": "https://twitter.com/LetsDefendIO/status/1888222002089017805",
+    "username": "LetsDefendIO"
+}
+{
     "expanded_url": [
         "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
         "http://hunter.how",

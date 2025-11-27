@@ -51,7 +51,7 @@
     "tweetfavorites": 588,
     "tweetquotes": 30,
     "tweetreplies": 25,
-    "tweetretweets": 245,
+    "tweetretweets": 246,
     "tweettext": "Microsoft identified a North Korean threat actor exploiting a zero-day vulnerability in Chromium (CVE-2024-7971) to gain remote code execution. Our assessment of ongoing analysis and observed infrastructure attributes this activity to Citrine Sleet. https://t.co/ITqOQpWn2v",
     "tweettime": "2024-08-30, 16:05:00",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1829550899766653064",
@@ -386,10 +386,10 @@
     "expanded_url": [
         "https://securityonline.info/zero-click-windows-rce-threat-researcher-publishes-poc-exploit-for-cve-2024-38063/"
     ],
-    "tweetfavorites": 152,
+    "tweetfavorites": 162,
     "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 70,
+    "tweetretweets": 75,
     "tweettext": "Windowsの深刻なIPv6の脆弱性CVE-2024-38063のPoC（攻撃の概念実証コード）が公開された。PoCはDoS。IPv6の終点オプションヘッダのパースエラーが原因で、IPv6パケットのリアセンブルにおけるタイムアウトから悪用することで整数アンダーフローバッファオーバーフロー可能。 https://t.co/Fa8s8GkYod",
     "tweettime": "2024-08-27, 03:31:15",
     "tweeturl": "https://twitter.com/__kokumoto/status/1828274047224029675",
@@ -763,6 +763,19 @@
     "tweettime": "2024-08-20, 03:08:10",
     "tweeturl": "https://twitter.com/Dinosn/status/1825731522382442665",
     "username": "Dinosn"
+}
+{
+    "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 38,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 21,
+    "tweettext": "🛡️ We added #Jenkins command line interface path traversal vulnerability, #CVE-2024-23897, to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/upuaGpgluf",
+    "tweettime": "2024-08-19, 15:10:10",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1825550833150251488",
+    "username": "USCERT_gov"
 }
 {
     "expanded_url": [
@@ -1379,10 +1392,10 @@
     "expanded_url": [
         "https://securityonline.info/cve-2024-38100-leaked-wallpaper-exploit-exposes-windows-users-to-privilege-escalation-attacks/"
     ],
-    "tweetfavorites": 533,
-    "tweetquotes": 4,
-    "tweetreplies": 7,
-    "tweetretweets": 174,
+    "tweetfavorites": 502,
+    "tweetquotes": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 168,
     "tweettext": "CVE-2024-38100: Leaked Wallpaper Exploit Exposes Windows Users to Privilege Escalation Attacks https://t.co/z5WlVcwljX",
     "tweettime": "2024-08-05, 03:05:04",
     "tweeturl": "https://twitter.com/Dinosn/status/1820294925981831547",
