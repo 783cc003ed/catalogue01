@@ -265,7 +265,7 @@
     "tweetfavorites": 411,
     "tweetquotes": 7,
     "tweetreplies": 6,
-    "tweetretweets": 177,
+    "tweetretweets": 176,
     "tweettext": "🚨Alert🚨CVE-2024-30103: Microsoft Outlook Remote Code Execution Vulnerability\n⚠This Microsoft Outlook vulnerability can be circulated from user to user and doesn’t require a click to execute. Rather, execution initiates when an affected email is opened.This is notably dangerous https://t.co/bP3FfbT0Vu",
     "tweettime": "2024-06-17, 08:01:02",
     "tweeturl": "https://twitter.com/HunterMapping/status/1802612402510512523",

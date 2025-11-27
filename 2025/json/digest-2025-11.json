@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/water-gamayun-apt-hackers-exploit-msc/"
     ],
-    "tweetfavorites": 45,
+    "tweetfavorites": 56,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 17,
     "tweettext": "🚨 Water Gamayun Hackers Exploit Windows MSC EvilTwin 0-Day to Inject Stealthy Malware \n\nSource: https://t.co/kgaHLV8SzD\n\nWater Gamayun, a persistent threat group, has recently intensified its efforts by exploiting a newly identified MSC EvilTwin vulnerability (CVE-2025-26633) in https://t.co/7v9ZvywI4R",
     "tweettime": "2025-11-27, 01:51:57",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1993860314249711702",
@@ -35,10 +35,10 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 57,
+    "tweetfavorites": 62,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 13,
     "tweettext": "#APT35 File Leak: Cyber Attack Technical Analysis Report\nRapid Vulnerability Exploitation:\nThey prioritize zero-day and N-day exploits, such as CVE-2024-1709 (ConnectWise ScreenConnect) within 24 hours of disclosure, using tools like SQLMap and Nuclei for automated scanning and https://t.co/7yUTy4QrD7",
     "tweettime": "2025-11-26, 08:12:32",
     "tweeturl": "https://twitter.com/blackorbird/status/1993593700380033305",
@@ -48,10 +48,10 @@
     "expanded_url": [
         "https://www.zoomeye.ai/searchResult?q=YXBwPSJXb3JkUHJlc3MgU25lZWl0IFBsdWdpbiI%3D&utm_source=x&utm_medium=x&utm_campaign=x_Sneeit_25112501"
     ],
-    "tweetfavorites": 37,
+    "tweetfavorites": 40,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 6,
+    "tweetretweets": 8,
     "tweettext": "🚨🚨CVE-2025-6389 (CVSS 9.8): Critical Unauthenticated RCE in Sneeit Framework for WordPress\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-6389\"\nZoomEye Dork👉app=\"WordPress Sneeit Plugin\"\n308 public instances exposed.\nZoomEye Link: https://t.co/8TdekJb41y\n\nRefer: \n1. https://t.co/is3rZUhPKH",
     "tweettime": "2025-11-25, 03:27:36",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1993159608542924983",

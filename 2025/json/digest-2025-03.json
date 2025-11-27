@@ -91,10 +91,20 @@
     "username": "TheHackersNews"
 }
 {
+    "tweetfavorites": 200,
+    "tweetquotes": 7,
+    "tweetreplies": 3,
+    "tweetretweets": 73,
+    "tweettext": "#ESETresearch has discovered a zero day exploit abusing #CVE-2025-24983 vulnerability in Windows Kernel to elevate privileges (#LPE). First seen in the wild in March 2023, the exploit was deployed through #PipeMagic backdoor on the compromised machines. 1/4 https://t.co/qCOgYiltfs",
+    "tweettime": "2025-03-11, 17:12:09",
+    "tweeturl": "https://twitter.com/ESETresearch/status/1899508656258875756",
+    "username": "ESETresearch"
+}
+{
     "expanded_url": [
         "https://github.com/0xZipp0/CVE-2022-24500"
     ],
-    "tweetfavorites": 594,
+    "tweetfavorites": 593,
     "tweetquotes": 3,
     "tweetreplies": 5,
     "tweetretweets": 156,

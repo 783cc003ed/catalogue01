@@ -26,6 +26,19 @@
 }
 {
     "expanded_url": [
+        "https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/"
+    ],
+    "tweetfavorites": 67,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 41,
+    "tweettext": "RomCom/Storm-0978 exploits Firefox and Windows zero days in the wild\n\nFirefox 0day CVE-2024-9680 + Windows privilege escalation 0day CVE‑2024‑49039\n\nhttps://t.co/KH7ZsfNTm4 https://t.co/x4g519A0sO",
+    "tweettime": "2024-11-26, 15:34:05",
+    "tweeturl": "https://twitter.com/blackorbird/status/1861433251543556420",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
         "https://securityonline.info/cve-2024-11477-7-zip-vulnerability-allows-remote-code-execution-update-now/"
     ],
     "tweetfavorites": 2062,
@@ -88,7 +101,22 @@
     "username": "JoshuaProvoste"
 }
 {
-    "tweetfavorites": 417,
+    "expanded_url": [
+        "https://labs.watchtowr.com/hop-skip-fortijump-fortijumphigher-cve-2024-23113-cve-2024-47575/",
+        "https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575",
+        "http://hunter.how"
+    ],
+    "tweetfavorites": 68,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 21,
+    "tweettext": "🚨Alert🚨CVE-2024-47575: Fortinet Fortimanager Unauthenticated Remote Code Execution AKA FortiJump\n🔥PoC &amp; Deep Dive: https://t.co/KrEvYPIZG9\n🧐Git Link: :  https://t.co/aOdodYPJZZ\n📊 9.9K+ Services are found on https://t.co/ysWb28BTvF yearly.\n🔗Hunter Link: https://t.co/BAJVDUAtPy",
+    "tweettime": "2024-11-19, 08:15:45",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1858786225601077650",
+    "username": "HunterMapping"
+}
+{
+    "tweetfavorites": 418,
     "tweetquotes": 1,
     "tweetreplies": 5,
     "tweetretweets": 72,
