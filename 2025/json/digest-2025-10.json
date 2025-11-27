@@ -25,7 +25,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 174,
+    "tweetfavorites": 172,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 54,
@@ -296,10 +296,10 @@
         "https://hunter.how/list?searchValue=product.name%3D%22Flowise%22",
         "http://product.name"
     ],
-    "tweetfavorites": 100,
+    "tweetfavorites": 99,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 23,
+    "tweetretweets": 22,
     "tweettext": "🚨Alert🚨:CVE-2025-61913 (CVSS 10.0) : Critical Flowise RCE Flaw Allows\nArbitrary File Write\n🔥POC\n:https://t.co/LVmjAD4JgA\n📊42.9K Services are found on the https://t.co/ysWb28BTvF yearly.\n🔗Hunter\nLink:https://t.co/q2FFmybO8d\n👇Query\nHUNTER : https://t.co/q9rtuGfZuz=\"Flowise\" https://t.co/vb9wgbJgaC",
     "tweettime": "2025-10-10, 02:48:21",
     "tweeturl": "https://twitter.com/HunterMapping/status/1976479890955280851",

@@ -25,6 +25,19 @@
     "username": "0xor0ne"
 }
 {
+    "expanded_url": [
+        "https://github.com/D4m0n/CVE-2025-50168-pwn2own-berlin-2025"
+    ],
+    "tweetfavorites": 80,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 25,
+    "tweettext": "''GitHub - D4m0n/CVE-2025-50168-pwn2own-berlin-2025: CVE-2025-50168 Exploit PoC — Pwn2Own Berlin 2025 - LPE(Windows 11) winning bug.''\n\n#infosec #pentest #redteam #blueteam\nhttps://t.co/HA4tMCNFLZ",
+    "tweettime": "2025-11-26, 14:40:01",
+    "tweeturl": "https://twitter.com/CyberWarship/status/1993691216429420577",
+    "username": "CyberWarship"
+}
+{
     "tweetfavorites": 42,
     "tweetquotes": 2,
     "tweetreplies": 2,
@@ -38,7 +51,7 @@
     "tweetfavorites": 62,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 13,
+    "tweetretweets": 14,
     "tweettext": "#APT35 File Leak: Cyber Attack Technical Analysis Report\nRapid Vulnerability Exploitation:\nThey prioritize zero-day and N-day exploits, such as CVE-2024-1709 (ConnectWise ScreenConnect) within 24 hours of disclosure, using tools like SQLMap and Nuclei for automated scanning and https://t.co/7yUTy4QrD7",
     "tweettime": "2025-11-26, 08:12:32",
     "tweeturl": "https://twitter.com/blackorbird/status/1993593700380033305",
@@ -81,7 +94,7 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 415,
+    "tweetfavorites": 414,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 149,
@@ -133,10 +146,10 @@
     "expanded_url": [
         "https://specterops.io/blog/2025/11/21/an-evening-with-claude-code/"
     ],
-    "tweetfavorites": 250,
+    "tweetfavorites": 351,
     "tweetquotes": 3,
-    "tweetreplies": 5,
-    "tweetretweets": 56,
+    "tweetreplies": 8,
+    "tweetretweets": 87,
     "tweettext": "New blog post is up exploring a vuln I found in Claude Code (CVE-2025-64755) allowing arbitrary file write without a consent prompt. New tech is always fun to explore, hopefully this post gives you some hints as to future research :) https://t.co/UiXp9XN5NA",
     "tweettime": "2025-11-21, 14:25:18",
     "tweeturl": "https://twitter.com/_xpn_/status/1991875571324973471",
@@ -352,7 +365,7 @@
     "expanded_url": [
         "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html"
     ],
-    "tweetfavorites": 485,
+    "tweetfavorites": 484,
     "tweetquotes": 25,
     "tweetreplies": 15,
     "tweetretweets": 174,
@@ -704,15 +717,28 @@
 }
 {
     "expanded_url": [
+        "https://github.com/open-webui/open-webui/security/advisories/GHSA-w7xj-8fx7-wfch"
+    ],
+    "tweetfavorites": 41,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 9,
+    "tweettext": "🚨🚨CVE-2025-64495 (CVSS 8.7): Open WebUI suffers from a Stored DOM XSS when \"Insert Prompt as Rich Text\" is enabled. Unsanitized .innerHTML lets attackers inject payloads via prompts, leading to ATO/RCE.\n🔥PoC: https://t.co/Y8j5hMm5J1\n\nSearch by vul.cve https://t.co/CPJtHYc7bF",
+    "tweettime": "2025-11-10, 11:25:17",
+    "tweeturl": "https://twitter.com/zoomeye_team/status/1987844002650226846",
+    "username": "zoomeye_team"
+}
+{
+    "expanded_url": [
         "https://github.com/open-webui/open-webui/security/advisories/GHSA-w7xj-8fx7-wfch",
         "http://hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22open-webui%22",
         "http://product.name"
     ],
-    "tweetfavorites": 84,
+    "tweetfavorites": 83,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 25,
+    "tweetretweets": 24,
     "tweettext": "🚨Alert🚨:CVE-2025-64495 : Open WebUI Stored DOM XSS Vulnerability Leading to\nATO/RCE\n🔥POC :\nhttps://t.co/R9cKKA6ZBS\n📊1.0M+ Services are found on the https://t.co/ysWb28BTvF yearly.\n🔗Hunter\nLink:https://t.co/tD97gGPaov\n👇Query\nHUNTER : https://t.co/q9rtuGfZuz=\"open-webui\" https://t.co/KtRXrC5GBj",
     "tweettime": "2025-11-10, 08:44:38",
     "tweeturl": "https://twitter.com/HunterMapping/status/1987803575058084135",
@@ -739,7 +765,7 @@
     "tweetfavorites": 83,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 19,
+    "tweetretweets": 20,
     "tweettext": "CVE-2025-64439 - Full PoC of  RCE in \"json\" mode of LangGraph’s JsonPlusSerializer.\n\n#pruva reproduced this in like 15mins 100 steps.\n\nReport: https://t.co/97ZhR5dpqi\n\nAdvs: https://t.co/OBE6TPRtye https://t.co/kDp0DO4lBw",
     "tweettime": "2025-11-06, 22:09:20",
     "tweeturl": "https://twitter.com/gN3mes1s/status/1986556534642328016",
@@ -789,7 +815,7 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 460,
+    "tweetfavorites": 461,
     "tweetquotes": 3,
     "tweetreplies": 1,
     "tweetretweets": 104,

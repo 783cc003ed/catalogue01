@@ -855,10 +855,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38018"
     ],
-    "tweetfavorites": 76,
+    "tweetfavorites": 97,
     "tweetquotes": 0,
-    "tweetreplies": 3,
-    "tweetretweets": 14,
+    "tweetreplies": 4,
+    "tweetretweets": 16,
     "tweettext": "My SharePoint RCE got fixed: CVE-2024-38018. Site Member privs should be enough to exploit. \n\nI also found a DoS vuln that got patched today: CVE-2024-43466\n\nhttps://t.co/JldGOJfzeI",
     "tweettime": "2024-09-10, 18:06:25",
     "tweeturl": "https://twitter.com/chudyPB/status/1833567722502037643",
