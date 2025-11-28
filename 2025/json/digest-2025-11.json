@@ -28,7 +28,7 @@
     "expanded_url": [
         "https://github.com/D4m0n/CVE-2025-50168-pwn2own-berlin-2025"
     ],
-    "tweetfavorites": 116,
+    "tweetfavorites": 117,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 31,
@@ -48,9 +48,9 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 68,
+    "tweetfavorites": 69,
     "tweetquotes": 1,
-    "tweetreplies": 0,
+    "tweetreplies": 1,
     "tweetretweets": 18,
     "tweettext": "#APT35 File Leak: Cyber Attack Technical Analysis Report\nRapid Vulnerability Exploitation:\nThey prioritize zero-day and N-day exploits, such as CVE-2024-1709 (ConnectWise ScreenConnect) within 24 hours of disclosure, using tools like SQLMap and Nuclei for automated scanning and https://t.co/7yUTy4QrD7",
     "tweettime": "2025-11-26, 08:12:32",
@@ -207,7 +207,7 @@
     "expanded_url": [
         "https://asec.ahnlab.com/en/91166/"
     ],
-    "tweetfavorites": 42,
+    "tweetfavorites": 43,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 18,
@@ -820,10 +820,10 @@
     "username": "FAMASoon"
 }
 {
-    "tweetfavorites": 331,
+    "tweetfavorites": 332,
     "tweetquotes": 5,
     "tweetreplies": 15,
-    "tweetretweets": 119,
+    "tweetretweets": 120,
     "tweettext": "🚨Cyber Alert‼️\n\nWindows Zero-Day Exploit Actively Abused in Diplomatic Attacks. No Patch Available Yet\n\nChinese group UNC6384 exploited an unpatched Windows zero-day (CVE-2025-9491) to target EU diplomats via spearphishing in September–October 2025. \n\nVictims downloaded fake https://t.co/hWX9cM24WJ",
     "tweettime": "2025-11-03, 14:08:09",
     "tweeturl": "https://twitter.com/H4ckManac/status/1985348276304920874",
