@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/water-gamayun-apt-hackers-exploit-msc/"
     ],
-    "tweetfavorites": 73,
+    "tweetfavorites": 100,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 23,
+    "tweetretweets": 29,
     "tweettext": "🚨 Water Gamayun Hackers Exploit Windows MSC EvilTwin 0-Day to Inject Stealthy Malware \n\nSource: https://t.co/kgaHLV8SzD\n\nWater Gamayun, a persistent threat group, has recently intensified its efforts by exploiting a newly identified MSC EvilTwin vulnerability (CVE-2025-26633) in https://t.co/7v9ZvywI4R",
     "tweettime": "2025-11-27, 01:51:57",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1993860314249711702",
@@ -48,10 +48,10 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 64,
+    "tweetfavorites": 67,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 17,
+    "tweetretweets": 18,
     "tweettext": "#APT35 File Leak: Cyber Attack Technical Analysis Report\nRapid Vulnerability Exploitation:\nThey prioritize zero-day and N-day exploits, such as CVE-2024-1709 (ConnectWise ScreenConnect) within 24 hours of disclosure, using tools like SQLMap and Nuclei for automated scanning and https://t.co/7yUTy4QrD7",
     "tweettime": "2025-11-26, 08:12:32",
     "tweeturl": "https://twitter.com/blackorbird/status/1993593700380033305",
@@ -109,10 +109,10 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 416,
+    "tweetfavorites": 417,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 149,
+    "tweetretweets": 152,
     "tweettext": "🚨 Hackers are using a fixed Windows bug (CVE-2025-59287) to spread ShadowPad malware through WSUS servers.\n\nThey used normal Windows tools like curl and certutil to install it — a method seen before in Chinese hacking groups.\n\nSystems patched too late may have already been https://t.co/kbi5AK8XfV",
     "tweettime": "2025-11-24, 07:20:28",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1992855824818176223",
@@ -125,7 +125,7 @@
     "tweetfavorites": 105,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 38,
+    "tweetretweets": 39,
     "tweettext": "🚨 CISA warns Oracle Identity Manager flaw (CVE-2025-61757) is under active attack.\n\nHackers can run code without login by adding ?WSDL or ;.wadl to URLs — a tiny trick that opens locked systems.\n\nExploited since August. Patch by Dec 12.\n\nFull details ↓ https://t.co/iEcvFYZuDg",
     "tweettime": "2025-11-22, 06:55:14",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1992124696909996038",
@@ -603,7 +603,7 @@
     "expanded_url": [
         "https://zhero-web-sec.github.io/research-and-things/astro-framework-and-standards-weaponization"
     ],
-    "tweetfavorites": 334,
+    "tweetfavorites": 332,
     "tweetquotes": 4,
     "tweetreplies": 12,
     "tweetretweets": 86,

