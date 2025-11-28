@@ -25,6 +25,16 @@
     "username": "the_yellow_fall"
 }
 {
+    "tweetfavorites": 388,
+    "tweetquotes": 2,
+    "tweetreplies": 6,
+    "tweetretweets": 138,
+    "tweettext": "🚨 New NTLM flaw (CVE-2025-24054) is being actively exploited to steal Windows credentials—just by downloading a file. No clicks, no execution needed.\n\nThis \"low-interaction\" bug leaks NTLMv2 hashes via SMB—perfect for pass-the-hash attacks.\n\n🔗 Details here: https://t.co/UmhDtKiY4V",
+    "tweettime": "2025-04-18, 04:30:58",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1913087835403411636",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 436,
     "tweetquotes": 8,
     "tweetreplies": 13,

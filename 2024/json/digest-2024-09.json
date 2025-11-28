@@ -243,7 +243,7 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 587,
+    "tweetfavorites": 586,
     "tweetquotes": 16,
     "tweetreplies": 8,
     "tweetretweets": 182,
@@ -267,10 +267,10 @@
         "https://ambionics.io/blog/iconv-cve-2024-2961-p1",
         "https://github.com/ambionics/cnext-exploits/"
     ],
-    "tweetfavorites": 278,
+    "tweetfavorites": 265,
     "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 65,
+    "tweetreplies": 1,
+    "tweetretweets": 67,
     "tweettext": "glibc's iconv() buffer overflow exploitation (CVE-2024-2961)\n\nBlog post: https://t.co/hIzkUPwdzV\nPoC: https://t.co/7l9AJveV0D\n\n#glibc https://t.co/1OSCkKniPa",
     "tweettime": "2024-09-23, 15:00:25",
     "tweeturl": "https://twitter.com/0xor0ne/status/1838231955491451374",

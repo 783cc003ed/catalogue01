@@ -40,6 +40,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/projectdiscovery/nuclei-templates/issues/12266"
+    ],
+    "tweetfavorites": 72,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 17,
+    "tweettext": "🚨 New Templates Bounty Issue 💰\n\nCVE-2020-11984 - Apache HTTP Server - mod_proxy_uwsgi Info Disclosure &amp; RCE 💰 👾\n\nIssue: https://t.co/XiBfrY58lC\n\n#bugbounty #NucleiTemplates #cve #opensource",
+    "tweettime": "2025-06-25, 08:38:41",
+    "tweeturl": "https://twitter.com/pdnuclei/status/1937792553912250628",
+    "username": "pdnuclei"
+}
+{
+    "expanded_url": [
         "https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/team46-and-taxoff-two-sides-of-the-same-coin",
         "https://habr.com/ru/companies/pt/articles/841176/"
     ],

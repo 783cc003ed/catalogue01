@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/water-gamayun-apt-hackers-exploit-msc/"
     ],
-    "tweetfavorites": 100,
+    "tweetfavorites": 103,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 29,
+    "tweetretweets": 30,
     "tweettext": "🚨 Water Gamayun Hackers Exploit Windows MSC EvilTwin 0-Day to Inject Stealthy Malware \n\nSource: https://t.co/kgaHLV8SzD\n\nWater Gamayun, a persistent threat group, has recently intensified its efforts by exploiting a newly identified MSC EvilTwin vulnerability (CVE-2025-26633) in https://t.co/7v9ZvywI4R",
     "tweettime": "2025-11-27, 01:51:57",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1993860314249711702",
@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://github.com/D4m0n/CVE-2025-50168-pwn2own-berlin-2025"
     ],
-    "tweetfavorites": 91,
+    "tweetfavorites": 114,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 26,
+    "tweetretweets": 30,
     "tweettext": "''GitHub - D4m0n/CVE-2025-50168-pwn2own-berlin-2025: CVE-2025-50168 Exploit PoC — Pwn2Own Berlin 2025 - LPE(Windows 11) winning bug.''\n\n#infosec #pentest #redteam #blueteam\nhttps://t.co/HA4tMCNFLZ",
     "tweettime": "2025-11-26, 14:40:01",
     "tweeturl": "https://twitter.com/CyberWarship/status/1993691216429420577",
@@ -48,7 +48,7 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 67,
+    "tweetfavorites": 68,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 18,
@@ -109,7 +109,7 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 417,
+    "tweetfavorites": 418,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 152,
@@ -654,7 +654,7 @@
 {
     "tweetfavorites": 64,
     "tweetquotes": 2,
-    "tweetreplies": 1,
+    "tweetreplies": 2,
     "tweetretweets": 16,
     "tweettext": "🚨8 months after public disclosure, @RHEL @AlmaLinux @rocky_linux are still vulnerable for a Ghostscript RCE with a reliable public exploit (CVE-2025-27835 and others)! It can be triggered by opening LibreOffice docs or through a server that uses ImageMagick for file conversion! https://t.co/xnzjp9MBMh",
     "tweettime": "2025-11-13, 08:54:19",
