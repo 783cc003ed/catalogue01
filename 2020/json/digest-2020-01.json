@@ -599,10 +599,10 @@
     "username": "benhawkes"
 }
 {
-    "tweetfavorites": 176,
+    "tweetfavorites": 170,
     "tweetquotes": 4,
-    "tweetreplies": 4,
-    "tweetretweets": 69,
+    "tweetreplies": 3,
+    "tweetretweets": 63,
     "tweettext": "CVE-2019-19781 Citrix NetScaler Directory Traversal is on heavy 🔥\n \ncurl -vk –path-as-is https://$TARGET/vpn/../vpns/ 2&gt;&amp;1 | grep “You don’t have permission to access /vpns/” &gt;/dev/null &amp;&amp; echo “VULNERABLE: $TARGET” || echo “MITIGATED: $TARGET”\n\n🧙‍♂️better check your targets 😏 https://t.co/xcsvXWen42",
     "tweettime": "2020-01-08, 22:57:53",
     "tweeturl": "https://twitter.com/ITSecurityguard/status/1215044986808545281",

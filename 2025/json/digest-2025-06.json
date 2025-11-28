@@ -116,6 +116,19 @@
 }
 {
     "expanded_url": [
+        "https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/"
+    ],
+    "tweetfavorites": 296,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 69,
+    "tweettext": "LLM (OpenAI’s o3) for vulnerability research. Zero day in Linux kernel’s SMB (CVE-2025-37899)\n\nhttps://t.co/1UdtbL2MhZ\n\nCredits @seanhn\n\n#infsec #llm https://t.co/4Tsa3nFxLO",
+    "tweettime": "2025-06-12, 07:01:01",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1933056932366934071",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
         "https://www.synacktiv.com/publications/ntlm-reflection-is-dead-long-live-ntlm-reflection-an-in-depth-analysis-of-cve-2025"
     ],
     "tweetfavorites": 599,
