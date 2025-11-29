@@ -779,6 +779,19 @@
 }
 {
     "expanded_url": [
+        "https://github.blog/2024-06-26-attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/"
+    ],
+    "tweetfavorites": 138,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "Exploiting an object corruption bug in v8 Javascript engine (CVE-2024-3833)\n\nhttps://t.co/wyJGIFK3Tp\n\nCredits @mmolgtm\n\n#chrome #cybersecurity https://t.co/XTZqnTHtkX",
+    "tweettime": "2024-08-19, 08:00:28",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1825442697882042791",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
         "https://thehackernews.com/2024/08/microsoft-patches-zero-day-flaw.html"
     ],
     "tweetfavorites": 311,
