@@ -105,7 +105,7 @@
     "expanded_url": [
         "https://github.com/watchtowrlabs/watchTowr-vs-FortiWeb-CVE-2025-25257"
     ],
-    "tweetfavorites": 298,
+    "tweetfavorites": 299,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 67,
@@ -113,6 +113,19 @@
     "tweettime": "2025-07-20, 11:04:34",
     "tweeturl": "https://twitter.com/TodayCyberNews/status/1946888961064108303",
     "username": "TodayCyberNews"
+}
+{
+    "expanded_url": [
+        "https://bit.ly/4kQZS2e"
+    ],
+    "tweetfavorites": 303,
+    "tweetquotes": 9,
+    "tweetreplies": 5,
+    "tweetretweets": 121,
+    "tweettext": "We are observing active global exploitation of critical Microsoft SharePoint vulns CVE-2025-49704 and CVE-2025-49706. \n\nOrgs worldwide are being targeted. Patch immediately. The exploits are real, in-the-wild and pose a serious threat.\n\nIoCs we've seen: https://t.co/Yp3KaWRtCz https://t.co/OOmwNoOIKq",
+    "tweettime": "2025-07-19, 19:31:05",
+    "tweeturl": "https://twitter.com/Unit42_Intel/status/1946654044316905883",
+    "username": "Unit42_Intel"
 }
 {
     "expanded_url": [

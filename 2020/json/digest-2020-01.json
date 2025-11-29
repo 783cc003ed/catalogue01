@@ -58,10 +58,10 @@
     "username": "pozdnychev"
 }
 {
-    "tweetfavorites": 2798,
+    "tweetfavorites": 2799,
     "tweetquotes": 46,
     "tweetreplies": 52,
-    "tweetretweets": 931,
+    "tweetretweets": 932,
     "tweettext": "Ladies and gentlemen, I present you a working Remote Code Execution (RCE) exploit for the Remote Desktop Gateway (CVE-2020-0609 &amp; CVE-2020-0610). Accidentally followed a few rabbit holes but got it to work! Time to write a blog post ;)\n\nDon't forget to patch! https://t.co/FekupjS6qG",
     "tweettime": "2020-01-26, 19:24:46",
     "tweeturl": "https://twitter.com/layle_ctf/status/1221514332049113095",

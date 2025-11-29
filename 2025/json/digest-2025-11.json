@@ -1,11 +1,24 @@
 {
     "expanded_url": [
+        "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/"
+    ],
+    "tweetfavorites": 95,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 23,
+    "tweettext": "RCE in FreePBX Endpoint through unauthenticated SQL injection (CVE-2025-57819)\n\nhttps://t.co/dvPIYaPnMJ\n\nCredits @watchtowrcyber\n\n#infosec https://t.co/uCj4Zenpdf",
+    "tweettime": "2025-11-28, 16:01:27",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1994436484019933230",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
         "https://cybersecuritynews.com/water-gamayun-apt-hackers-exploit-msc/"
     ],
-    "tweetfavorites": 107,
+    "tweetfavorites": 119,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 30,
+    "tweetreplies": 2,
+    "tweetretweets": 34,
     "tweettext": "🚨 Water Gamayun Hackers Exploit Windows MSC EvilTwin 0-Day to Inject Stealthy Malware \n\nSource: https://t.co/kgaHLV8SzD\n\nWater Gamayun, a persistent threat group, has recently intensified its efforts by exploiting a newly identified MSC EvilTwin vulnerability (CVE-2025-26633) in https://t.co/7v9ZvywI4R",
     "tweettime": "2025-11-27, 01:51:57",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1993860314249711702",
@@ -99,7 +112,7 @@
     "username": "piedpiper1616"
 }
 {
-    "tweetfavorites": 128,
+    "tweetfavorites": 127,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 53,
@@ -109,7 +122,7 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 418,
+    "tweetfavorites": 417,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 152,
@@ -174,10 +187,10 @@
     "expanded_url": [
         "https://github.com/rapid7/metasploit-framework/pull/20717"
     ],
-    "tweetfavorites": 345,
-    "tweetquotes": 1,
+    "tweetfavorites": 348,
+    "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 68,
+    "tweetretweets": 70,
     "tweettext": "We now have a (draft) @metasploit exploit module for the recent Fortinet FortiWeb vulns, chaining CVE-2025-64446 (auth bypass) + CVE-2025-58034 (command injection) to achieve unauthenticated RCE with root privileges: https://t.co/Xh15JybxsC https://t.co/n7sMp6qCJU",
     "tweettime": "2025-11-21, 13:28:16",
     "tweeturl": "https://twitter.com/stephenfewer/status/1991861220635492628",
@@ -606,7 +619,7 @@
     "tweetfavorites": 333,
     "tweetquotes": 4,
     "tweetreplies": 12,
-    "tweetretweets": 86,
+    "tweetretweets": 85,
     "tweettext": "release of our new paper (w/ @inzo____) which resulted in CVE-2025-64525:\n\nAstro framework and standards weaponization\n\nfrom path-based middleware protection bypass to potential SSRF &amp; XSS + full bypass of CVE-2025-61925 on @astrodotbuild\n\nhttps://t.co/xTO55gNFu4 https://t.co/EYqe7wdCAa",
     "tweettime": "2025-11-13, 14:35:34",
     "tweeturl": "https://twitter.com/blank_cold/status/1988979054138253349",
@@ -652,7 +665,7 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 64,
+    "tweetfavorites": 65,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 16,

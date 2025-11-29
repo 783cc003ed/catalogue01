@@ -421,10 +421,10 @@
     "username": "WangTielei"
 }
 {
-    "tweetfavorites": 1321,
-    "tweetquotes": 9,
-    "tweetreplies": 809,
-    "tweetretweets": 1045,
+    "tweetfavorites": 1196,
+    "tweetquotes": 7,
+    "tweetreplies": 796,
+    "tweetretweets": 928,
     "tweettext": "The @CertiKSkyfall  team identified and collaborated with @Apple  to fix a vulnerability (CVE-2024-27801) in the low-level implementation of NSXPC, affecting all Apple platforms. \n\nThis vulnerability could have potentially allowed malicious apps to gain unauthorized access to https://t.co/sjgS1SExF9",
     "tweettime": "2024-06-11, 09:35:43",
     "tweeturl": "https://twitter.com/certik_io/status/1800461903514239158",
