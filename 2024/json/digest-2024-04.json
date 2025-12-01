@@ -394,6 +394,19 @@
 }
 {
     "expanded_url": [
+        "https://buff.ly/3U8YHB2"
+    ],
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "⚠️  New Vuln: CVE-2024-3273 ⚠️ Active exploitation of a remote code execution vulnerability in D-Link NAS devices, affecting as many as 92,000 devices. Check out the blog for further details + check your router's UPnP configuration. https://t.co/8Wl6FGNtZB https://t.co/OstWe3B5yq",
+    "tweettime": "2024-04-08, 19:27:01",
+    "tweeturl": "https://twitter.com/GreyNoiseIO/status/1777417884421050809",
+    "username": "GreyNoiseIO"
+}
+{
+    "expanded_url": [
         "https://sensepost.com/blog/2024/from-discovery-to-disclosure-recrystallize-server-vulnerabilities/"
     ],
     "tweetfavorites": 68,

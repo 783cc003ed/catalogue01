@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html"
     ],
-    "tweetfavorites": 135,
+    "tweetfavorites": 139,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 45,
+    "tweetretweets": 48,
     "tweettext": "🚨 CISA added a real-world exploited flaw in OpenPLC ScadaBR to its Known Exploited Vulnerabilities list.\n\nHackers used the bug (CVE-2021-26829) to deface a fake water plant system in under 26 hours — disabling logs and alarms.\n\nRead → https://t.co/VFcoYrM0fs",
     "tweettime": "2025-11-30, 09:25:20",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1995061576085410210",
@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 44,
+    "tweetfavorites": 45,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 18,
+    "tweetretweets": 19,
     "tweettext": "🛡️We added OpenPLC ScadaBR cross-site scripting vulnerability CVE-2021-26829 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/opqcQ6rWSL",
     "tweettime": "2025-11-28, 18:47:08",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1994478182041285112",
@@ -41,7 +41,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/water-gamayun-apt-hackers-exploit-msc/"
     ],
-    "tweetfavorites": 117,
+    "tweetfavorites": 118,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 34,
@@ -67,7 +67,7 @@
     "expanded_url": [
         "https://github.com/D4m0n/CVE-2025-50168-pwn2own-berlin-2025"
     ],
-    "tweetfavorites": 125,
+    "tweetfavorites": 126,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 35,

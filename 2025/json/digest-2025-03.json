@@ -2,7 +2,7 @@
     "tweetfavorites": 915,
     "tweetquotes": 6,
     "tweetreplies": 14,
-    "tweetretweets": 213,
+    "tweetretweets": 214,
     "tweettext": "Our team has just successfully reproduced the IngressNightmare vulnerability (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974) and created a custom exploit achieving RCE.\n\nIt's a Pre-Auth RCE affecting Ingress NGINX that allows complete cluster takeover. We'll https://t.co/eifX4Ykl9S",
     "tweettime": "2025-03-26, 16:52:20",
     "tweeturl": "https://twitter.com/carlos_crowsec/status/1904939487224050162",
@@ -120,10 +120,10 @@
     "expanded_url": [
         "https://github.com/0xZipp0/CVE-2022-24500"
     ],
-    "tweetfavorites": 593,
+    "tweetfavorites": 594,
     "tweetquotes": 3,
     "tweetreplies": 5,
-    "tweetretweets": 156,
+    "tweetretweets": 157,
     "tweettext": "CVE-2022-24500 : Exploit Windows SMB Remote Code Execution Vulnerability https://t.co/GmzGzS2F6u https://t.co/2Dsq5eml0X",
     "tweettime": "2025-03-10, 07:41:12",
     "tweeturl": "https://twitter.com/elhackernet/status/1899002586155421757",

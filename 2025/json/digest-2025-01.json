@@ -116,7 +116,7 @@
     "expanded_url": [
         "https://crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
     ],
-    "tweetfavorites": 299,
+    "tweetfavorites": 298,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 69,
@@ -124,6 +124,19 @@
     "tweettime": "2025-01-05, 17:00:09",
     "tweeturl": "https://twitter.com/0xor0ne/status/1875950426756952222",
     "username": "0xor0ne"
+}
+{
+    "expanded_url": [
+        "https://github.com/BridgerAlderson/Zabbix-CVE-2024-42327-SQL-Injection-RCE"
+    ],
+    "tweetfavorites": 316,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 87,
+    "tweettext": "Zabbix-CVE-2024-42327 RCE PoC\n\nSQL injection vulnerability  of Zabbix server\nhttps://t.co/kkFDTCp0lI https://t.co/zqrLD3J2RV",
+    "tweettime": "2025-01-04, 08:59:39",
+    "tweeturl": "https://twitter.com/elhackernet/status/1875467117019177450",
+    "username": "elhackernet"
 }
 {
     "tweetfavorites": 69,
