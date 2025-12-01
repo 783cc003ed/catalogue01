@@ -55,7 +55,7 @@
     "username": "0xor0ne"
 }
 {
-    "tweetfavorites": 214,
+    "tweetfavorites": 212,
     "tweetquotes": 2,
     "tweetreplies": 5,
     "tweetretweets": 77,
@@ -246,7 +246,7 @@
     "tweetfavorites": 586,
     "tweetquotes": 16,
     "tweetreplies": 8,
-    "tweetretweets": 181,
+    "tweetretweets": 182,
     "tweettext": "⚠️ We've confirmed critical CVE-2024-45519 in Zimbra!\n\nSMTP-based vulnerability in postjournal service allows unauthenticated attackers to inject commands under zimbra user.\n\n✅ Update your software ASAP to avoid exploitation! https://t.co/fD2epVMvqL",
     "tweettime": "2024-09-24, 15:17:50",
     "tweeturl": "https://twitter.com/ptswarm/status/1838598724919914663",
