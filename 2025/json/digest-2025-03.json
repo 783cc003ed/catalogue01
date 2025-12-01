@@ -58,6 +58,22 @@
     "username": "blank_cold"
 }
 {
+    "expanded_url": [
+        "https://github.com/0x6rss/CVE-2025-24071_PoC",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Windows%20Server%22",
+        "http://product.name"
+    ],
+    "tweetfavorites": 57,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "🚨Alert🚨 CVE-2025-24071:Microsoft Windows File Explorer Spoofing Vulnerability\n🔥PoC from @0x6rss :https://t.co/OOjT2qvDDe\n📊 246M+ Services are found on the https://t.co/ysWb28Crld yearly.\n🔗Hunter Link:https://t.co/CyIRQG2Aqw\n👇Query\nHUNTER : https://t.co/q9rtuGgxk7=\"Windows https://t.co/g8YoDDYmKV",
+    "tweettime": "2025-03-20, 07:32:28",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1902624267164156068",
+    "username": "HunterMapping"
+}
+{
     "tweetfavorites": 350,
     "tweetquotes": 7,
     "tweetreplies": 5,

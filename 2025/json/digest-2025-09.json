@@ -42,10 +42,10 @@
     "username": "The_Cyber_News"
 }
 {
-    "tweetfavorites": 220,
+    "tweetfavorites": 222,
     "tweetquotes": 3,
     "tweetreplies": 7,
-    "tweetretweets": 93,
+    "tweetretweets": 92,
     "tweettext": "🚨New Chrome Zero-Day Under Attack. PATCH NOW\n\nEdge, Brave, Opera, and Vivaldi users are also advised to update as soon as patches are available.\n\nGoogle patched four Chrome vulnerabilities, including the actively exploited zero-day CVE-2025-10585, a type confusion bug in the V8 https://t.co/RIn31xu8BD",
     "tweettime": "2025-09-18, 08:37:21",
     "tweeturl": "https://twitter.com/H4ckManac/status/1968595183030653073",
@@ -55,8 +55,8 @@
     "expanded_url": [
         "https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html"
     ],
-    "tweetfavorites": 575,
-    "tweetquotes": 16,
+    "tweetfavorites": 576,
+    "tweetquotes": 15,
     "tweetreplies": 16,
     "tweetretweets": 237,
     "tweettext": "🚨 Chrome users: a new zero-day is under active attack.\n\nCVE-2025-10585 targets Chrome’s V8 engine—Chrome’s 6th zero-day of 2025.\n\nDetails → https://t.co/Vs2OH8SQeJ\n\n⚡ Update now: 140.0.7339.185/.186 (Win/macOS), 140.0.7339.185 (Linux).\n\nIf you use Edge/Brave/Opera/Vivaldi, https://t.co/5H2bgLLLd2",
@@ -68,7 +68,7 @@
     "expanded_url": [
         "https://github.com/xairy/kernel-exploits/tree/master/CVE-2025-38494"
     ],
-    "tweetfavorites": 509,
+    "tweetfavorites": 510,
     "tweetquotes": 5,
     "tweetreplies": 5,
     "tweetretweets": 81,

@@ -95,7 +95,7 @@
     "expanded_url": [
         "https://github.com/mverschu/CVE-2025-33073"
     ],
-    "tweetfavorites": 678,
+    "tweetfavorites": 677,
     "tweetquotes": 1,
     "tweetreplies": 8,
     "tweetretweets": 196,
@@ -142,6 +142,19 @@
 }
 {
     "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47956"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 14,
+    "tweettext": "CVE-2025-47956 - Windows Security App Spoofing Vulnerability\n\nhttps://t.co/78nKn1twa0 https://t.co/0u1MjFnOg5",
+    "tweettime": "2025-06-10, 20:57:44",
+    "tweeturl": "https://twitter.com/bohops/status/1932542721886937153",
+    "username": "bohops"
+}
+{
+    "expanded_url": [
         "https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/"
     ],
     "tweetfavorites": 83,
@@ -154,7 +167,7 @@
     "username": "linkersec"
 }
 {
-    "tweetfavorites": 376,
+    "tweetfavorites": 377,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 77,

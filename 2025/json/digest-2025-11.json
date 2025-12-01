@@ -1,11 +1,37 @@
 {
     "expanded_url": [
+        "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html"
+    ],
+    "tweetfavorites": 126,
+    "tweetquotes": 2,
+    "tweetreplies": 2,
+    "tweetretweets": 41,
+    "tweettext": "🚨 CISA added a real-world exploited flaw in OpenPLC ScadaBR to its Known Exploited Vulnerabilities list.\n\nHackers used the bug (CVE-2021-26829) to deface a fake water plant system in under 26 hours — disabling logs and alarms.\n\nRead → https://t.co/VFcoYrM0fs",
+    "tweettime": "2025-11-30, 09:25:20",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1995061576085410210",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 18,
+    "tweettext": "🛡️We added OpenPLC ScadaBR cross-site scripting vulnerability CVE-2021-26829 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/opqcQ6rWSL",
+    "tweettime": "2025-11-28, 18:47:08",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1994478182041285112",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
         "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/"
     ],
-    "tweetfavorites": 100,
+    "tweetfavorites": 214,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 23,
+    "tweetretweets": 46,
     "tweettext": "RCE in FreePBX Endpoint through unauthenticated SQL injection (CVE-2025-57819)\n\nhttps://t.co/dvPIYaPnMJ\n\nCredits @watchtowrcyber\n\n#infosec https://t.co/uCj4Zenpdf",
     "tweettime": "2025-11-28, 16:01:27",
     "tweeturl": "https://twitter.com/0xor0ne/status/1994436484019933230",
@@ -15,7 +41,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/water-gamayun-apt-hackers-exploit-msc/"
     ],
-    "tweetfavorites": 119,
+    "tweetfavorites": 118,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 34,
@@ -115,14 +141,14 @@
     "tweetfavorites": 127,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 53,
+    "tweetretweets": 52,
     "tweettext": "🚨🚨Attackers are exploiting the critical WSUS flaw CVE-2025-59287 to gain SYSTEM-level remote code execution and deploy ShadowPad, a modular backdoor linked to Chinese state-sponsored actors. \n\nThey use PowerCat for shell access, then download the payload with tools like https://t.co/4m1P1BRgwB",
     "tweettime": "2025-11-24, 11:20:27",
     "tweeturl": "https://twitter.com/H4ckManac/status/1992916218479534474",
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 416,
+    "tweetfavorites": 415,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 152,
@@ -616,7 +642,7 @@
     "expanded_url": [
         "https://zhero-web-sec.github.io/research-and-things/astro-framework-and-standards-weaponization"
     ],
-    "tweetfavorites": 333,
+    "tweetfavorites": 339,
     "tweetquotes": 4,
     "tweetreplies": 12,
     "tweetretweets": 85,
@@ -698,7 +724,7 @@
     "username": "gothburz"
 }
 {
-    "tweetfavorites": 235,
+    "tweetfavorites": 234,
     "tweetquotes": 3,
     "tweetreplies": 12,
     "tweetretweets": 87,
@@ -833,10 +859,10 @@
     "username": "FAMASoon"
 }
 {
-    "tweetfavorites": 332,
+    "tweetfavorites": 334,
     "tweetquotes": 5,
     "tweetreplies": 15,
-    "tweetretweets": 120,
+    "tweetretweets": 119,
     "tweettext": "🚨Cyber Alert‼️\n\nWindows Zero-Day Exploit Actively Abused in Diplomatic Attacks. No Patch Available Yet\n\nChinese group UNC6384 exploited an unpatched Windows zero-day (CVE-2025-9491) to target EU diplomats via spearphishing in September–October 2025. \n\nVictims downloaded fake https://t.co/hWX9cM24WJ",
     "tweettime": "2025-11-03, 14:08:09",
     "tweeturl": "https://twitter.com/H4ckManac/status/1985348276304920874",

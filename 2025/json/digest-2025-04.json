@@ -45,10 +45,10 @@
     "username": "Horizon3Attack"
 }
 {
-    "tweetfavorites": 372,
+    "tweetfavorites": 371,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 95,
+    "tweetretweets": 94,
     "tweettext": "Exploitation of CVE-2025-21204. Low-privileged user creates an \"inetpub\" and populates with content. Administrator later installs IIS (logic bomb). The attackers malicious IIS data is still available, executes code under IIS privileges resulting in an LPE. KB/patches do stuff too https://t.co/GhXHxpb0cs",
     "tweettime": "2025-04-17, 01:16:21",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1912676470385672413",
@@ -72,7 +72,7 @@
     "expanded_url": [
         "https://starlabs.sg/blog/2025/03-cimfs-crashing-in-memory-finding-system-kernel-edition/"
     ],
-    "tweetfavorites": 201,
+    "tweetfavorites": 200,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 50,

@@ -129,6 +129,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/Wh04m1001/CVE-2025-48799"
+    ],
+    "tweetfavorites": 222,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 59,
+    "tweettext": "This is PoC for CVE-2025-48799, an elevation of privilege vulnerability in Windows Update service.\n\nhttps://t.co/lvkdODTXLb",
+    "tweettime": "2025-07-18, 14:51:43",
+    "tweeturl": "https://twitter.com/Dinosn/status/1946221349963252078",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://www.sophos.com/en-us/security-advisories/sophos-sa-20250717-cix-lpe"
     ],
     "tweetfavorites": 221,
