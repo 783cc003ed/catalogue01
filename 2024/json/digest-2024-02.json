@@ -409,7 +409,7 @@
         "https://snicco.io/vulnerability-disclosure/bricks/unauthenticated-rce-in-bricks-1-9-6",
         "https://github.com/Chocapikk/CVE-2024-25600"
     ],
-    "tweetfavorites": 809,
+    "tweetfavorites": 807,
     "tweetquotes": 4,
     "tweetreplies": 10,
     "tweetretweets": 215,
@@ -1394,10 +1394,10 @@
     "expanded_url": [
         "https://github.com/Chocapikk/CVE-2024-21887/blob/main/exploit.py"
     ],
-    "tweetfavorites": 470,
+    "tweetfavorites": 464,
     "tweetquotes": 1,
-    "tweetreplies": 11,
-    "tweetretweets": 112,
+    "tweetreplies": 12,
+    "tweetretweets": 114,
     "tweettext": "Use @Chocapikk_ CVE-2024-21887 exploit tool to get easy shell on vulnerable endpoints.  https://t.co/pkl2cFC5yH\n\n#bugbounty https://t.co/toRgmdqXV9",
     "tweettime": "2024-02-07, 21:02:22",
     "tweeturl": "https://twitter.com/nav1n0x/status/1755336222937886728",

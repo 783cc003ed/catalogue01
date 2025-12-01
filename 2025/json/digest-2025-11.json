@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html"
     ],
-    "tweetfavorites": 128,
-    "tweetquotes": 2,
+    "tweetfavorites": 135,
+    "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 41,
+    "tweetretweets": 45,
     "tweettext": "🚨 CISA added a real-world exploited flaw in OpenPLC ScadaBR to its Known Exploited Vulnerabilities list.\n\nHackers used the bug (CVE-2021-26829) to deface a fake water plant system in under 26 hours — disabling logs and alarms.\n\nRead → https://t.co/VFcoYrM0fs",
     "tweettime": "2025-11-30, 09:25:20",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1995061576085410210",
@@ -28,7 +28,7 @@
     "expanded_url": [
         "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/"
     ],
-    "tweetfavorites": 213,
+    "tweetfavorites": 214,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 46,
@@ -41,7 +41,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/water-gamayun-apt-hackers-exploit-msc/"
     ],
-    "tweetfavorites": 116,
+    "tweetfavorites": 117,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 34,
@@ -246,10 +246,10 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 555,
+    "tweetfavorites": 553,
     "tweetquotes": 14,
     "tweetreplies": 12,
-    "tweetretweets": 165,
+    "tweetretweets": 164,
     "tweettext": "Zscaler ThreatLabz has discovered CVE-2025-50165 in the Microsoft Windows Graphics Component. With a CVSS score of 9.8, this vulnerability enables attackers to execute arbitrary code using a specially crafted JPEG image that can be triggered by any application that leverages the https://t.co/QC9DIhp6kN",
     "tweettime": "2025-11-20, 15:48:53",
     "tweeturl": "https://twitter.com/Threatlabz/status/1991534221366907269",
@@ -308,7 +308,7 @@
     "expanded_url": [
         "https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/"
     ],
-    "tweetfavorites": 157,
+    "tweetfavorites": 158,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 51,
@@ -321,10 +321,10 @@
     "expanded_url": [
         "https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/"
     ],
-    "tweetfavorites": 57,
+    "tweetfavorites": 158,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 42,
     "tweettext": "Oracle Cloud was breached in Jan 2025 through vulns in Oracle Access Manager. @SLCyberSec's Research team found a new pre-auth RCE vulnerability in Oracle Identity Manager (CVE-2025-61757). This is a critical vulnerability and is trivial to exploit. https://t.co/hXdzU4TJVP https://t.co/OHxacKZFbN",
     "tweettime": "2025-11-20, 03:11:38",
     "tweeturl": "https://twitter.com/infosec_au/status/1991343649427431883",
@@ -455,7 +455,7 @@
     "username": "linkersec"
 }
 {
-    "tweetfavorites": 74,
+    "tweetfavorites": 73,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 16,
@@ -655,7 +655,7 @@
     "expanded_url": [
         "https://zhero-web-sec.github.io/research-and-things/astro-framework-and-standards-weaponization"
     ],
-    "tweetfavorites": 340,
+    "tweetfavorites": 341,
     "tweetquotes": 4,
     "tweetreplies": 12,
     "tweetretweets": 85,

@@ -353,10 +353,10 @@
     "expanded_url": [
         "http://blog.coffinsec.com/nday/2022/08/04/CVE-2022-1215-libinput-fmt-canary-leak.html"
     ],
-    "tweetfavorites": 192,
+    "tweetfavorites": 182,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 63,
+    "tweetretweets": 62,
     "tweettext": "Format string vulnerability leading to stack canary leak: analysis of cve-2022-1215 affecting libinput\nNice blog post by @hyprdude\n\nhttps://t.co/Rxw8AxTESf\n\n#cve #infosec #cybersecurity https://t.co/yp3BqAmjjr",
     "tweettime": "2023-08-06, 06:30:18",
     "tweeturl": "https://twitter.com/0xor0ne/status/1688075004007641088",

@@ -290,6 +290,16 @@
     "username": "zoomeye_team"
 }
 {
+    "tweetfavorites": 299,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 132,
+    "tweettext": "🚨 Google confirms dozens of organizations breached via Oracle E-Business Suite zero-day (CVE-2025-61882).\n\nAttackers exploited the flaw since July 2025, using multi-stage Java implants and extortion tactics.\n\n🔹 Oracle issued an emergency patch Oct 4\n🔹 Exploit code is now https://t.co/KzdiG9iA8s",
+    "tweettime": "2025-10-10, 06:47:44",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1976540132430745617",
+    "username": "TheHackersNews"
+}
+{
     "expanded_url": [
         "https://github.com/FlowiseAI/Flowise/security/advisories/GHSA-jv9m-vf54-chjj",
         "http://hunter.how",
@@ -319,7 +329,7 @@
     "tweetfavorites": 336,
     "tweetquotes": 11,
     "tweetreplies": 11,
-    "tweetretweets": 114,
+    "tweetretweets": 113,
     "tweettext": "🚨 Oracle just rushed a patch for CVE-2025-61882 — a 9.8 critical flaw in E-Business Suite already exploited by Cl0p in live data theft attacks.\n\nThe zero-day lets attackers seize control without a username or password.\n\nExperts warn many may already be breached.\n\nDetails here ↓ https://t.co/w25oqDIpwp",
     "tweettime": "2025-10-06, 05:20:09",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1975068537954701517",

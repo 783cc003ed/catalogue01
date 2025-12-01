@@ -320,10 +320,10 @@
     "expanded_url": [
         "https://support.apple.com/en-gb/HT214101"
     ],
-    "tweetfavorites": 1019,
+    "tweetfavorites": 974,
     "tweetquotes": 30,
-    "tweetreplies": 42,
-    "tweetretweets": 148,
+    "tweetreplies": 41,
+    "tweetretweets": 143,
     "tweettext": "I reported CVE-2024-27804, an iOS/macOS kernel vulnerability that leads to the execution of arbitrary code with kernel privileges.\nWill publish the POC soon.\nhttps://t.co/12r1PxZfpT",
     "tweettime": "2024-05-13, 17:46:15",
     "tweeturl": "https://twitter.com/R00tkitSMM/status/1790076101672284594",

@@ -516,10 +516,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21817"
     ],
-    "tweetfavorites": 223,
-    "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 111,
+    "tweetfavorites": 240,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 119,
     "tweettext": "A short🧵 detailing a Kerberos LPE I discovered while working with @tiraniddo on our BlackHat research.\n\nhttps://t.co/LjM3t1b0DC (CVE-2023-21817)\n\nThis was fixed in Feb, but I think some will find the vulnerability &amp; exploitation interesting.\n\n1/",
     "tweettime": "2023-04-10, 23:11:05",
     "tweeturl": "https://twitter.com/monoxgas/status/1645565092229189632",

