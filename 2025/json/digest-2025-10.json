@@ -15,7 +15,7 @@
     "expanded_url": [
         "https://go.dhs.gov/in5"
     ],
-    "tweetfavorites": 142,
+    "tweetfavorites": 143,
     "tweetquotes": 4,
     "tweetreplies": 5,
     "tweetretweets": 73,
@@ -127,7 +127,7 @@
     "expanded_url": [
         "https://www.huntress.com/blog/exploitation-of-windows-server-update-services-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 520,
+    "tweetfavorites": 521,
     "tweetquotes": 13,
     "tweetreplies": 7,
     "tweetretweets": 83,
@@ -232,10 +232,10 @@
     "expanded_url": [
         "https://github.com/mverschu/CVE-2025-33073"
     ],
-    "tweetfavorites": 487,
+    "tweetfavorites": 488,
     "tweetquotes": 0,
     "tweetreplies": 6,
-    "tweetretweets": 104,
+    "tweetretweets": 106,
     "tweettext": "CVE-2025-33073: PoC Exploit for the NTLM reflection SMB flaw.\n\nCheck: https://t.co/5FuycV0ksK https://t.co/bdM07o5duJ",
     "tweettime": "2025-10-17, 15:41:22",
     "tweeturl": "https://twitter.com/7h3h4ckv157/status/1979211141302661153",

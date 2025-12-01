@@ -78,3 +78,16 @@
     "tweeturl": "https://twitter.com/TheHackersNews/status/1919438844333621713",
     "username": "TheHackersNews"
 }
+{
+    "expanded_url": [
+        "https://github.com/Oblivionsage/fastify-cve-2025-47240"
+    ],
+    "tweetfavorites": 186,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 51,
+    "tweettext": "CVE-2025-47240: Remote Code Execution via @fastify/view raw rendering\n\nPoC\nhttps://t.co/cLIK7MtEj6 https://t.co/rbN0Zuo56P",
+    "tweettime": "2025-05-04, 16:10:48",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1919062160036024508",
+    "username": "cyber_advising"
+}

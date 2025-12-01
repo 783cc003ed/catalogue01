@@ -92,14 +92,27 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 360,
+    "tweetfavorites": 359,
     "tweetquotes": 17,
     "tweetreplies": 4,
-    "tweetretweets": 157,
+    "tweetretweets": 156,
     "tweettext": "🔥 ALERT ➟ Microsoft issues urgent security patches for critical SharePoint RCE flaw (CVE-2025-53770), now under active exploitation worldwide.\n\nHackers are bypassing MFA, stealing keys, and targeting banks, government agencies, hospitals &amp; more.\n\nDetails → https://t.co/MYAMR6D2u2",
     "tweettime": "2025-07-21, 03:31:13",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1947137258525474964",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 105,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 55,
+    "tweettext": "We added Microsoft SharePoint server remote code execution vulnerability CVE-2025-53770 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #ToolShell https://t.co/Y6aNU7o1B9",
+    "tweettime": "2025-07-20, 19:51:20",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1947021525426598151",
+    "username": "USCERT_gov"
 }
 {
     "expanded_url": [
@@ -213,6 +226,19 @@
     "tweettime": "2025-07-11, 16:26:22",
     "tweeturl": "https://twitter.com/ksg93rd/status/1943708455128215904",
     "username": "ksg93rd"
+}
+{
+    "expanded_url": [
+        "https://github.com/bughuntar/CVE-2025-5777"
+    ],
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "CVE-2025-5777 : Citrix NetScaler Memory Leak Exploit (CitrixBleed 2) \n\nhttps://t.co/OJCJhLzsQj https://t.co/ROPrTYD5GI",
+    "tweettime": "2025-07-11, 11:05:56",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1943627812922851604",
+    "username": "cyber_advising"
 }
 {
     "expanded_url": [

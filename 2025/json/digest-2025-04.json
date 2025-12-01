@@ -25,10 +25,10 @@
     "username": "the_yellow_fall"
 }
 {
-    "tweetfavorites": 388,
+    "tweetfavorites": 386,
     "tweetquotes": 2,
     "tweetreplies": 6,
-    "tweetretweets": 138,
+    "tweetretweets": 137,
     "tweettext": "🚨 New NTLM flaw (CVE-2025-24054) is being actively exploited to steal Windows credentials—just by downloading a file. No clicks, no execution needed.\n\nThis \"low-interaction\" bug leaks NTLMv2 hashes via SMB—perfect for pass-the-hash attacks.\n\n🔗 Details here: https://t.co/UmhDtKiY4V",
     "tweettime": "2025-04-18, 04:30:58",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1913087835403411636",
@@ -48,7 +48,7 @@
     "tweetfavorites": 371,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 94,
+    "tweetretweets": 95,
     "tweettext": "Exploitation of CVE-2025-21204. Low-privileged user creates an \"inetpub\" and populates with content. Administrator later installs IIS (logic bomb). The attackers malicious IIS data is still available, executes code under IIS privileges resulting in an LPE. KB/patches do stuff too https://t.co/GhXHxpb0cs",
     "tweettime": "2025-04-17, 01:16:21",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1912676470385672413",
@@ -72,7 +72,7 @@
     "expanded_url": [
         "https://starlabs.sg/blog/2025/03-cimfs-crashing-in-memory-finding-system-kernel-edition/"
     ],
-    "tweetfavorites": 200,
+    "tweetfavorites": 199,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 50,

@@ -2,7 +2,7 @@
     "expanded_url": [
         "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html"
     ],
-    "tweetfavorites": 126,
+    "tweetfavorites": 128,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 41,
@@ -28,7 +28,7 @@
     "expanded_url": [
         "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/"
     ],
-    "tweetfavorites": 214,
+    "tweetfavorites": 213,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 46,
@@ -41,7 +41,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/water-gamayun-apt-hackers-exploit-msc/"
     ],
-    "tweetfavorites": 118,
+    "tweetfavorites": 116,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 34,
@@ -67,10 +67,10 @@
     "expanded_url": [
         "https://github.com/D4m0n/CVE-2025-50168-pwn2own-berlin-2025"
     ],
-    "tweetfavorites": 121,
+    "tweetfavorites": 125,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 33,
+    "tweetretweets": 35,
     "tweettext": "''GitHub - D4m0n/CVE-2025-50168-pwn2own-berlin-2025: CVE-2025-50168 Exploit PoC — Pwn2Own Berlin 2025 - LPE(Windows 11) winning bug.''\n\n#infosec #pentest #redteam #blueteam\nhttps://t.co/HA4tMCNFLZ",
     "tweettime": "2025-11-26, 14:40:01",
     "tweeturl": "https://twitter.com/CyberWarship/status/1993691216429420577",
@@ -90,11 +90,24 @@
     "tweetfavorites": 69,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 18,
+    "tweetretweets": 17,
     "tweettext": "#APT35 File Leak: Cyber Attack Technical Analysis Report\nRapid Vulnerability Exploitation:\nThey prioritize zero-day and N-day exploits, such as CVE-2024-1709 (ConnectWise ScreenConnect) within 24 hours of disclosure, using tools like SQLMap and Nuclei for automated scanning and https://t.co/7yUTy4QrD7",
     "tweettime": "2025-11-26, 08:12:32",
     "tweeturl": "https://twitter.com/blackorbird/status/1993593700380033305",
     "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://xploitbengineer.github.io/CVE-2025-21479"
+    ],
+    "tweetfavorites": 214,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 49,
+    "tweettext": "Exploiting CVE-2025-21479 on a Samsung S23 by @XploitBengineer\n\nhttps://t.co/0HNtCww89D https://t.co/an8S2ilNqe",
+    "tweettime": "2025-11-26, 08:00:00",
+    "tweeturl": "https://twitter.com/alexjplaskett/status/1993590549421740455",
+    "username": "alexjplaskett"
 }
 {
     "expanded_url": [
@@ -141,14 +154,14 @@
     "tweetfavorites": 127,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 52,
+    "tweetretweets": 53,
     "tweettext": "🚨🚨Attackers are exploiting the critical WSUS flaw CVE-2025-59287 to gain SYSTEM-level remote code execution and deploy ShadowPad, a modular backdoor linked to Chinese state-sponsored actors. \n\nThey use PowerCat for shell access, then download the payload with tools like https://t.co/4m1P1BRgwB",
     "tweettime": "2025-11-24, 11:20:27",
     "tweeturl": "https://twitter.com/H4ckManac/status/1992916218479534474",
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 415,
+    "tweetfavorites": 416,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 152,
@@ -642,7 +655,7 @@
     "expanded_url": [
         "https://zhero-web-sec.github.io/research-and-things/astro-framework-and-standards-weaponization"
     ],
-    "tweetfavorites": 339,
+    "tweetfavorites": 340,
     "tweetquotes": 4,
     "tweetreplies": 12,
     "tweetretweets": 85,
@@ -849,7 +862,7 @@
     "expanded_url": [
         "https://github.com/D4m0n/CVE-2025-50168-pwn2own-berlin-2025"
     ],
-    "tweetfavorites": 132,
+    "tweetfavorites": 131,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 26,

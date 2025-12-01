@@ -422,10 +422,10 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 507,
+    "tweetfavorites": 506,
     "tweetquotes": 2,
     "tweetreplies": 8,
-    "tweetretweets": 83,
+    "tweetretweets": 82,
     "tweettext": "Jenkins CVE-2024-23897 Arbitrary file read vulnerability through the CLI can lead to RCE \n\nPOC \n\n#BugBounty  #vulnerabilities #rce https://t.co/Lxf8TI5Oug",
     "tweettime": "2024-01-25, 19:04:57",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1750595628797989287",
@@ -2029,7 +2029,7 @@
     "expanded_url": [
         "https://github.com/DebugPrivilege/InsightEngineering/tree/main/Debugging%20Case%20Studies/Debug%20Case%20Study%3A%20SharePoint%20Pre-Auth%20Code%20Injection%20RCE%20chain%20CVE-2023-29357%20%26%20CVE-2023-24955"
     ],
-    "tweetfavorites": 291,
+    "tweetfavorites": 290,
     "tweetquotes": 1,
     "tweetreplies": 6,
     "tweetretweets": 112,

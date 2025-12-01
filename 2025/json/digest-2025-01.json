@@ -126,6 +126,16 @@
     "username": "0xor0ne"
 }
 {
+    "tweetfavorites": 69,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "Można przejmować Windows Serwery bez uwierzytelnienia. RCE: CVE-2024-49113\n\n❌ Jedyne wymaganie - serwer DNS używany przez ofiarę ma dostęp do Internetu\n\n❌ Pojawił się na razie exploit \"wywalający\" cel (czyli DoS)\n\n❌ Microsoft w informacji o błędzie pisze o tym, że jest to",
+    "tweettime": "2025-01-03, 08:42:32",
+    "tweeturl": "https://twitter.com/Sekurak/status/1875100421431116243",
+    "username": "Sekurak"
+}
+{
     "expanded_url": [
         "https://blog.exodusintel.com/2024/12/02/"
     ],
