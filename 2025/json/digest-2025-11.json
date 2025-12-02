@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html"
     ],
-    "tweetfavorites": 143,
+    "tweetfavorites": 144,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 52,
+    "tweetretweets": 53,
     "tweettext": "🚨 CISA added a real-world exploited flaw in OpenPLC ScadaBR to its Known Exploited Vulnerabilities list.\n\nHackers used the bug (CVE-2021-26829) to deface a fake water plant system in under 26 hours — disabling logs and alarms.\n\nRead → https://t.co/VFcoYrM0fs",
     "tweettime": "2025-11-30, 09:25:20",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1995061576085410210",
@@ -54,10 +54,10 @@
     "expanded_url": [
         "https://nccgroup.com/media/b2chcbti/vmware-workstation-guest-to-host-escape.pdf"
     ],
-    "tweetfavorites": 167,
+    "tweetfavorites": 244,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 28,
+    "tweetreplies": 2,
+    "tweetretweets": 50,
     "tweettext": "VMware Workstation guest-to-host escape (CVE-2023-20870/CVE-2023-34044 and CVE-2023-20869) by Alexander Zaviyalov (@NCCGroupInfosec)\n\nhttps://t.co/qAKnS15RLn\n\n#infosec https://t.co/ydixOPn1m9",
     "tweettime": "2025-11-26, 16:02:15",
     "tweeturl": "https://twitter.com/0xor0ne/status/1993711910190031157",
@@ -100,10 +100,10 @@
     "expanded_url": [
         "https://xploitbengineer.github.io/CVE-2025-21479"
     ],
-    "tweetfavorites": 214,
+    "tweetfavorites": 215,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 49,
+    "tweetretweets": 50,
     "tweettext": "Exploiting CVE-2025-21479 on a Samsung S23 by @XploitBengineer\n\nhttps://t.co/0HNtCww89D https://t.co/an8S2ilNqe",
     "tweettime": "2025-11-26, 08:00:00",
     "tweeturl": "https://twitter.com/alexjplaskett/status/1993590549421740455",
@@ -432,10 +432,10 @@
     "expanded_url": [
         "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html"
     ],
-    "tweetfavorites": 484,
+    "tweetfavorites": 485,
     "tweetquotes": 25,
     "tweetreplies": 15,
-    "tweetretweets": 174,
+    "tweetretweets": 173,
     "tweettext": "🔴 Google confirms new Chrome zero-day under attack.\n\nThe flaw — CVE-2025-13223 — lets hackers run code through a crafted web page.\n\nIt’s the third V8 exploit this year, and it’s already being used in the wild.\n\nPatch now ↓ https://t.co/EGlJmKgYL5",
     "tweettime": "2025-11-18, 04:46:32",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1990642756587565120",
@@ -684,7 +684,7 @@
     "tweetfavorites": 270,
     "tweetquotes": 2,
     "tweetreplies": 10,
-    "tweetretweets": 42,
+    "tweetretweets": 41,
     "tweettext": "Previously there was a report of threat actors using .URL files pointed at a WebDAV server, which made for, air quotes, \"remote code execution\", and was tracked as CVE-2025-33053. Turns out, you can do the same thing with a regular Windows Shortcut. Video: https://t.co/zw5UzSDVEn https://t.co/EPxLFGgG0p",
     "tweettime": "2025-11-13, 14:01:00",
     "tweeturl": "https://twitter.com/_JohnHammond/status/1988970352634970423",
@@ -872,7 +872,7 @@
     "username": "FAMASoon"
 }
 {
-    "tweetfavorites": 335,
+    "tweetfavorites": 334,
     "tweetquotes": 5,
     "tweetreplies": 15,
     "tweetretweets": 119,

@@ -127,7 +127,7 @@
     "expanded_url": [
         "https://www.huntress.com/blog/exploitation-of-windows-server-update-services-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 521,
+    "tweetfavorites": 520,
     "tweetquotes": 13,
     "tweetreplies": 7,
     "tweetretweets": 83,
@@ -232,7 +232,7 @@
     "expanded_url": [
         "https://github.com/mverschu/CVE-2025-33073"
     ],
-    "tweetfavorites": 488,
+    "tweetfavorites": 487,
     "tweetquotes": 0,
     "tweetreplies": 6,
     "tweetretweets": 106,
@@ -324,6 +324,16 @@
     "tweettime": "2025-10-10, 02:48:21",
     "tweeturl": "https://twitter.com/HunterMapping/status/1976479890955280851",
     "username": "HunterMapping"
+}
+{
+    "tweetfavorites": 308,
+    "tweetquotes": 10,
+    "tweetreplies": 5,
+    "tweetretweets": 133,
+    "tweettext": "🚨 Microsoft just confirmed a critical GoAnywhere flaw (CVE-2025-10035) — already exploited to deploy Medusa ransomware.\n\nAttackers had a month-long head start — silently breaching orgs while vendors stayed quiet.\n\nIt’s not just RCE — it’s persistence, lateral movement, and https://t.co/1ScluCphdc",
+    "tweettime": "2025-10-07, 08:17:09",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1975475470880666064",
+    "username": "TheHackersNews"
 }
 {
     "tweetfavorites": 525,
