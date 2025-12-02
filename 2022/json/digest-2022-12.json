@@ -26,10 +26,10 @@
     "expanded_url": [
         "https://jhalon.github.io/chrome-browser-exploitation-3/"
     ],
-    "tweetfavorites": 447,
+    "tweetfavorites": 453,
     "tweetquotes": 1,
-    "tweetreplies": 7,
-    "tweetretweets": 125,
+    "tweetreplies": 8,
+    "tweetretweets": 130,
     "tweettext": "To wrap up 2022, I'm releasing the final part of my 3-part browser exploitation series on Chrome!\n\nIn this post, we demonstrate the practical use of the concepts we've learned throughout the series by analyzing and exploiting CVE-2018-17463.\n\nEnjoy!\nhttps://t.co/Xhrnh4fqNB",
     "tweettime": "2022-12-29, 19:05:26",
     "tweeturl": "https://twitter.com/jack_halon/status/1608539708694429699",
