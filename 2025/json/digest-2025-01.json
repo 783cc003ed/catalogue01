@@ -161,3 +161,16 @@
     "tweeturl": "https://twitter.com/0xor0ne/status/1874727361360392409",
     "username": "0xor0ne"
 }
+{
+    "expanded_url": [
+        "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42"
+    ],
+    "tweetfavorites": 146,
+    "tweetquotes": 0,
+    "tweetreplies": 6,
+    "tweetretweets": 29,
+    "tweettext": "Analysis of race Condition vulnerability caused by the incorrect use of an RCU API (CVE-2024-27394)\n\nhttps://t.co/I72FDaHjth\n\n#infosec #Linux https://t.co/YqjT2q0DT1",
+    "tweettime": "2025-01-01, 16:00:30",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1874485861879775732",
+    "username": "0xor0ne"
+}

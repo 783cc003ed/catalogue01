@@ -1532,10 +1532,10 @@
     "expanded_url": [
         "https://research.nccgroup.com/2022/09/01/settlers-of-netlink-exploiting-a-limited-uaf-in-nf_tables-cve-2022-32250/"
     ],
-    "tweetfavorites": 95,
+    "tweetfavorites": 85,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 22,
+    "tweetretweets": 18,
     "tweettext": "CVE-2022-32250 (credits @nccgroupinfosec)\n\n\"UAF vulnerability affecting the netlink subsystem can be exploited twice to open up other more powerful use-after-free primitives\"\n\nhttps://t.co/NKTlRmplK6\n\n#cybersecurity #Linux https://t.co/yClXooPzem",
     "tweettime": "2024-03-05, 08:00:21",
     "tweeturl": "https://twitter.com/0xor0ne/status/1764923891690958863",

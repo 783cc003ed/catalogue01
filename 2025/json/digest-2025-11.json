@@ -5,7 +5,7 @@
     "tweetfavorites": 143,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 51,
+    "tweetretweets": 52,
     "tweettext": "🚨 CISA added a real-world exploited flaw in OpenPLC ScadaBR to its Known Exploited Vulnerabilities list.\n\nHackers used the bug (CVE-2021-26829) to deface a fake water plant system in under 26 hours — disabling logs and alarms.\n\nRead → https://t.co/VFcoYrM0fs",
     "tweettime": "2025-11-30, 09:25:20",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1995061576085410210",
@@ -41,7 +41,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/water-gamayun-apt-hackers-exploit-msc/"
     ],
-    "tweetfavorites": 118,
+    "tweetfavorites": 119,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 34,

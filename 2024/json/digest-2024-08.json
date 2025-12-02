@@ -742,10 +742,10 @@
         "http://hunter.how",
         "https://hunter.how/list?searchValue=web.body%3D%22%2Fwp-content%2Fplugins%2Fgive%22"
     ],
-    "tweetfavorites": 394,
+    "tweetfavorites": 393,
     "tweetquotes": 8,
     "tweetreplies": 4,
-    "tweetretweets": 130,
+    "tweetretweets": 129,
     "tweettext": "🚨Alert🚨CVE-2024-5932 (CVSS 10): Critical RCE Vulnerability Impacts 100k+ WordPress Sites!\n📊 173K+ Services are found on https://t.co/ysWb28BTvF yearly\n🔗Hunter Link: https://t.co/oyEIfqsipF\n👇Search Query\nHUNTER:  web.body=\"/wp-content/plugins/give\" https://t.co/CrX5kmdWrH",
     "tweettime": "2024-08-20, 07:22:46",
     "tweeturl": "https://twitter.com/HunterMapping/status/1825795597850292566",
