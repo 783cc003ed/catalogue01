@@ -531,11 +531,11 @@
     "expanded_url": [
         "https://github.com/bjrjk/CVE-2022-4262/blob/main/CVE-2022-4262.md"
     ],
-    "tweetfavorites": 122,
+    "tweetfavorites": 120,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 33,
-    "tweettext": "More good stuff on Chrome RCE vuln research: @bjrjk wrote a super deep dive analysis of CVE-2022-4262, a non-trivial type confusion in v8 JavaScript engine which I reverse-engineered from patch early this year and briefly covered in my PHDays talk in May:  https://t.co/lhWuQPXngG…",
+    "tweetretweets": 30,
+    "tweettext": "More good stuff on Chrome RCE vuln research: @bjrjk wrote a super deep dive analysis of CVE-2022-4262, a non-trivial type confusion in v8 JavaScript engine which I reverse-engineered from patch early this year and briefly covered in my PHDays talk in May:  https://t.co/lhWuQPXngG",
     "tweettime": "2023-09-07, 08:33:17",
     "tweeturl": "https://twitter.com/alisaesage/status/1699702365337870413",
     "username": "alisaesage"

@@ -39,6 +39,16 @@
     "username": "crowdfense"
 }
 {
+    "tweetfavorites": 903,
+    "tweetquotes": 8,
+    "tweetreplies": 23,
+    "tweetretweets": 43,
+    "tweettext": "CVE-2025-49144: An elevation of privilege \"vulnerability\"\nRequirement: You need to execute installer as admin 🤣🤣🤣",
+    "tweettime": "2025-06-25, 17:55:47",
+    "tweeturl": "https://twitter.com/filip_dragovic/status/1937932750415086010",
+    "username": "filip_dragovic"
+}
+{
     "expanded_url": [
         "https://github.com/projectdiscovery/nuclei-templates/issues/12266"
     ],

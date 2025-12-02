@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://msft.it/6012lbTai"
     ],
-    "tweetfavorites": 1252,
+    "tweetfavorites": 1192,
     "tweetquotes": 108,
-    "tweetreplies": 26,
-    "tweetretweets": 490,
+    "tweetreplies": 24,
+    "tweetretweets": 464,
     "tweettext": "Microsoft has uncovered a vulnerability in ESXi hypervisors, identified as CVE-2024-37085, being exploited by threat actors to obtain full administrative permissions on domain-joined ESXi hypervisors and encrypt critical servers in ransomware attacks. https://t.co/7NUvHGrzXM",
     "tweettime": "2024-07-29, 16:14:42",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1817956927000682955",

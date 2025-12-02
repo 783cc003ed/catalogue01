@@ -1019,7 +1019,7 @@
     "tweetfavorites": 204,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 59,
+    "tweetretweets": 58,
     "tweettext": "CVE-2023-20593 — Exploiting Zenbleed from Chrome\n\nThis repository contains a proof-of-concept for exploiting Zenbleed from Chrome using a V8 vulnerability which enbles arbitrary code execution in the renderer process.\n\nhttps://t.co/fjlzfcc7Hv\n\nDetails:\nhttps://t.co/L4CQxpE8oh https://t.co/iyLXpvDrRc",
     "tweettime": "2023-11-07, 07:31:19",
     "tweeturl": "https://twitter.com/hack_git/status/1721792430184235114",

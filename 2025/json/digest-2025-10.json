@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://go.dhs.gov/in5"
     ],
-    "tweetfavorites": 143,
+    "tweetfavorites": 140,
     "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 73,
+    "tweetretweets": 71,
     "tweettext": "We’ve released updated information on vulnerable product identification &amp; threat detections to address CVE-2025-59287, a critical remote code execution vulnerability affecting Windows Server Update Service. Review our Alert &amp; take immediate action. 🔗 https://t.co/t5xpDWjSWS https://t.co/haphNJCf7N",
     "tweettime": "2025-10-29, 21:15:40",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1983643925341438111",
@@ -127,7 +127,7 @@
     "expanded_url": [
         "https://www.huntress.com/blog/exploitation-of-windows-server-update-services-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 521,
+    "tweetfavorites": 519,
     "tweetquotes": 13,
     "tweetreplies": 7,
     "tweetretweets": 83,
@@ -151,7 +151,7 @@
     "username": "linkersec"
 }
 {
-    "tweetfavorites": 212,
+    "tweetfavorites": 211,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 64,
@@ -277,9 +277,9 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 202,
+    "tweetfavorites": 199,
     "tweetquotes": 8,
-    "tweetreplies": 3,
+    "tweetreplies": 4,
     "tweetretweets": 62,
     "tweettext": "🚨🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Harvard University\n\nCl0p hacking group claims to have breached Harvard University.\n\nN.B: A zero-day vulnerability in Oracle E-Business Suite is under active exploitation by the Cl0p ransomware group. The vulnerability is tracked as CVE-2025-61882 https://t.co/9sxfoDFw2i",
     "tweettime": "2025-10-11, 05:53:00",
@@ -382,7 +382,7 @@
     "expanded_url": [
         "https://blog.nviso.eu/2025/09/29/you-name-it-vmware-elevates-it-cve-2025-41244/"
     ],
-    "tweetfavorites": 251,
+    "tweetfavorites": 252,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 51,
