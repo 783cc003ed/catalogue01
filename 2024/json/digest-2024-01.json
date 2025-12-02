@@ -1391,10 +1391,10 @@
     "username": "stephenfewer"
 }
 {
-    "tweetfavorites": 307,
+    "tweetfavorites": 290,
     "tweetquotes": 5,
-    "tweetreplies": 7,
-    "tweetretweets": 81,
+    "tweetreplies": 6,
+    "tweetretweets": 76,
     "tweettext": "I reproduced the full chain of Ivanti Connect Secure CVE-2023-46805 (auth bypass) + CVE-2024-21887 (RCE) 🥳\n\nWhile it is mentioned in the advisory, it's worth noting that 21887 is multiple command injection vulns under one CVE. I counted 5 before I got bored looking 😆 https://t.co/DKKhjeDAni",
     "tweettime": "2024-01-16, 13:12:01",
     "tweeturl": "https://twitter.com/buffaloverflow/status/1747245319425786027",

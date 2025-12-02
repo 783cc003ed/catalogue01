@@ -326,6 +326,20 @@
 }
 {
     "expanded_url": [
+        "https://dawnslab.jd.com/CVE-2025-22056",
+        "https://allelesecurity.com/use-after-free-vulnerability-in-can-bcm-subsystem-leading-to-information-disclosure-cve-2023-52922"
+    ],
+    "tweetfavorites": 90,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 19,
+    "tweettext": "#exploit\n#Kernel_Security\n1. CVE-2025-22056:\nThe tragedy of Netfilter Tunnel - https://t.co/YsrT8m5Ksx\n2. CVE-2023-52922:\nUaF in CAN BCM subsystem leading to information disclosure - https://t.co/70ehMbC8OP\n3. CVE-2025-22037:\nRemote NULL Deref in Linux KSMBD -",
+    "tweettime": "2025-07-05, 15:02:57",
+    "tweeturl": "https://twitter.com/ksg93rd/status/1941513135644451285",
+    "username": "ksg93rd"
+}
+{
+    "expanded_url": [
         "https://xbow.com/blog/xbow-akamai-cloudtest-xxe/",
         "https://github.com/MuhammadWaseem29/CVE-2025-49493-Poc",
         "http://hunter.how"

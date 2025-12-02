@@ -12,6 +12,16 @@
     "username": "TheHackersNews"
 }
 {
+    "tweetfavorites": 620,
+    "tweetquotes": 6,
+    "tweetreplies": 26,
+    "tweetretweets": 67,
+    "tweettext": "another research effort with @inzo____ led to the discovery of two new vulnerabilities in React Router (14M+ downloads/week), resulting in:  \n\n- CVE-2025-43865 (High-8.2)  \n- CVE-2025-43864 (High-7.5) https://t.co/ooTe702fat",
+    "tweettime": "2025-04-24, 23:55:28",
+    "tweeturl": "https://twitter.com/blank_cold/status/1915555220165107916",
+    "username": "blank_cold"
+}
+{
     "expanded_url": [
         "https://securityonline.info/cellebrite-android-zero-day-exploit-poc-released-cve-2024-53104/"
     ],
@@ -45,7 +55,7 @@
     "username": "Horizon3Attack"
 }
 {
-    "tweetfavorites": 372,
+    "tweetfavorites": 371,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 95,
@@ -72,10 +82,10 @@
     "expanded_url": [
         "https://starlabs.sg/blog/2025/03-cimfs-crashing-in-memory-finding-system-kernel-edition/"
     ],
-    "tweetfavorites": 202,
+    "tweetfavorites": 201,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 50,
+    "tweetretweets": 49,
     "tweettext": "Exploiting a Windows Composite Image File System (CimFS) vulnerability (CVE-2024-26170)\n\nhttps://t.co/RKgbCoKyOX\n\n#infosec #windows https://t.co/7Rn8p11ecG",
     "tweettime": "2025-04-15, 07:00:48",
     "tweeturl": "https://twitter.com/0xor0ne/status/1912038381741088945",
@@ -108,7 +118,7 @@
     "expanded_url": [
         "https://zhero-web-sec.github.io/research-and-things/react-router-and-the-remixed-path"
     ],
-    "tweetfavorites": 778,
+    "tweetfavorites": 776,
     "tweetquotes": 13,
     "tweetreplies": 32,
     "tweetretweets": 149,

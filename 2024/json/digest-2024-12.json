@@ -108,7 +108,7 @@
     "username": "7h3h4ckv157"
 }
 {
-    "tweetfavorites": 648,
+    "tweetfavorites": 649,
     "tweetquotes": 16,
     "tweetreplies": 16,
     "tweetretweets": 180,
@@ -116,6 +116,19 @@
     "tweettime": "2024-12-12, 06:43:37",
     "tweeturl": "https://twitter.com/TalBeerySec/status/1867097961907257346",
     "username": "TalBeerySec"
+}
+{
+    "expanded_url": [
+        "https://securityonline.info/windows-zero-day-vulnerability-cve-2024-38193-exploited-in-the-wild-poc-published/"
+    ],
+    "tweetfavorites": 58,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 14,
+    "tweettext": "Windows Zero-Day Vulnerability CVE-2024-38193 Exploited in the Wild: PoC Published\nhttps://t.co/0twcdeXNEG",
+    "tweettime": "2024-12-09, 19:16:35",
+    "tweeturl": "https://twitter.com/H4ckManac/status/1866200286433251349",
+    "username": "H4ckManac"
 }
 {
     "expanded_url": [

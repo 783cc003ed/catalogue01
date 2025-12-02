@@ -56,7 +56,7 @@
     "expanded_url": [
         "https://tinyurl.com/mprcjp9b"
     ],
-    "tweetfavorites": 234,
+    "tweetfavorites": 233,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 45,
@@ -64,6 +64,19 @@
     "tweettime": "2025-08-24, 07:29:35",
     "tweeturl": "https://twitter.com/win3zz/status/1959518434792014307",
     "username": "win3zz"
+}
+{
+    "expanded_url": [
+        "https://allelesecurity.com/use-after-free-vulnerability-in-can-bcm-subsystem-leading-to-information-disclosure-cve-2023-52922/"
+    ],
+    "tweetfavorites": 132,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 29,
+    "tweettext": "Exploiting a CAN BCM subsystem vulnerability to allow unprivileged users to read data from kernel space (CVE-2023-52922)\n\nhttps://t.co/cmsuw8m8Fp\n\n#infosec #Linux https://t.co/AHpYw5XfjK",
+    "tweettime": "2025-08-22, 07:00:29",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1958786336212611250",
+    "username": "0xor0ne"
 }
 {
     "expanded_url": [
@@ -154,7 +167,7 @@
     "expanded_url": [
         "https://securityonline.info/linux-kernel-flaw-privilege-escalation-risk-poc-code-available/"
     ],
-    "tweetfavorites": 39,
+    "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 9,
@@ -164,7 +177,7 @@
     "username": "the_yellow_fall"
 }
 {
-    "tweetfavorites": 300,
+    "tweetfavorites": 299,
     "tweetquotes": 3,
     "tweetreplies": 2,
     "tweetretweets": 94,

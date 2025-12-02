@@ -120,7 +120,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 200,
+    "tweetfavorites": 199,
     "tweetquotes": 7,
     "tweetreplies": 3,
     "tweetretweets": 73,
@@ -146,10 +146,10 @@
     "expanded_url": [
         "https://securityonline.info/windows-hyper-v-zero-day-cve-2025-21333-poc-drops-system-access-exposed/"
     ],
-    "tweetfavorites": 317,
+    "tweetfavorites": 316,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 86,
+    "tweetretweets": 85,
     "tweettext": "Windows Hyper-V Zero-Day CVE-2025-21333: PoC Drops, SYSTEM Access Exposed\n\nExplore the CVE-2025-21333 #PoC exploit revealing a zero-day vulnerability in #Windows Hyper-V that allows SYSTEM privilege escalation.\nhttps://t.co/RqcG6xPxW0",
     "tweettime": "2025-03-03, 02:32:16",
     "tweeturl": "https://twitter.com/the_yellow_fall/status/1896388124877729964",
