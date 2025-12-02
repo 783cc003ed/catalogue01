@@ -2,7 +2,7 @@
     "expanded_url": [
         "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html"
     ],
-    "tweetfavorites": 144,
+    "tweetfavorites": 146,
     "tweetquotes": 3,
     "tweetreplies": 2,
     "tweetretweets": 53,
@@ -44,7 +44,7 @@
     "tweetfavorites": 119,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 34,
+    "tweetretweets": 33,
     "tweettext": "🚨 Water Gamayun Hackers Exploit Windows MSC EvilTwin 0-Day to Inject Stealthy Malware \n\nSource: https://t.co/kgaHLV8SzD\n\nWater Gamayun, a persistent threat group, has recently intensified its efforts by exploiting a newly identified MSC EvilTwin vulnerability (CVE-2025-26633) in https://t.co/7v9ZvywI4R",
     "tweettime": "2025-11-27, 01:51:57",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1993860314249711702",
@@ -740,7 +740,7 @@
     "tweetfavorites": 234,
     "tweetquotes": 3,
     "tweetreplies": 12,
-    "tweetretweets": 87,
+    "tweetretweets": 86,
     "tweettext": "🚨 Microsoft just fixed a Windows flaw hackers are already exploiting in the wild.\n\nThe kernel bug (CVE-2025-62215) lets anyone with local access gain full control — and it’s being linked with other attacks for complete takeover.\n\nInstall the latest patches now ↓ https://t.co/LA8LKon8iX",
     "tweettime": "2025-11-12, 10:23:54",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1988553332118736943",

@@ -218,7 +218,7 @@
     "tweetfavorites": 70,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 31,
+    "tweetretweets": 30,
     "tweettext": "[CVE-2019-2215] critical unpatched zero-day vulnerability affecting the Android mobile operating system.\n\nEscalate privileges to gain root access to a vulnerable device. \n\n[poc.c] https://t.co/rFquk1LWpO\n\n[uaf_test.c] https://t.co/JGmCVuj1WX\n\nhttps://t.co/R3o8hNkGGf https://t.co/t0pU2cYJoQ",
     "tweettime": "2019-10-06, 23:49:31",
     "tweeturl": "https://twitter.com/wugeej/status/1180993519327924225",

@@ -45,7 +45,7 @@
     ],
     "tweetfavorites": 386,
     "tweetquotes": 7,
-    "tweetreplies": 7,
+    "tweetreplies": 6,
     "tweetretweets": 81,
     "tweettext": "Video showcase of the recent WinRAR 0-day, CVE-2025-8088, uncovered by ESET after threat actor RomCom exploited it in the wild leveraging alternate data streams &amp; path traversal on Windows -- we examine the uncovered RAR file and a proof-of-concept demo! https://t.co/38pMK6rlrO https://t.co/4VYg1g8hNO",
     "tweettime": "2025-08-26, 13:00:04",
