@@ -192,10 +192,10 @@
     "expanded_url": [
         "https://github.com/mpgn/CVE-2019-0192/"
     ],
-    "tweetfavorites": 212,
+    "tweetfavorites": 200,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 111,
+    "tweetretweets": 103,
     "tweettext": "GitHub - mpgn/CVE-2019-0192: RCE on Apache Solr using deserialization of untrusted data via jmx.serviceUrl https://t.co/y0wUfQknsU",
     "tweettime": "2019-03-10, 19:49:05",
     "tweeturl": "https://twitter.com/piedpiper1616/status/1104831560744751104",

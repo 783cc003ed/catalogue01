@@ -246,10 +246,10 @@
     "username": "malmoeb"
 }
 {
-    "tweetfavorites": 67,
+    "tweetfavorites": 61,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 9,
+    "tweetretweets": 5,
     "tweettext": "Windows TCP/IP Remote Code Execution Vulnerability.\nCVE-2022-34718 \nPoC: https://t.co/seAsYggGuo",
     "tweettime": "2022-10-23, 11:58:09",
     "tweeturl": "https://twitter.com/18a/status/1584152191740219392",
