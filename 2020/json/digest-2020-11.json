@@ -552,7 +552,7 @@
     "tweetfavorites": 603,
     "tweetquotes": 25,
     "tweetreplies": 16,
-    "tweetretweets": 222,
+    "tweetretweets": 221,
     "tweettext": "CVE-2020-14871 - well that was easy, SSH pre-auth RCE on Solaris through libpam. As a PoC trigger you need to ensure the remote host is using keyboard-interactive and then reach the vulnerable code path by specifying a blank username to get PAM to hit the vulnerable function. https://t.co/HQtSBBQ6g1",
     "tweettime": "2020-11-03, 01:07:15",
     "tweeturl": "https://twitter.com/hackerfantastic/status/1323431512822435841",

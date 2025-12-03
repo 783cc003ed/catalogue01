@@ -101,7 +101,7 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 203,
+    "tweetfavorites": 204,
     "tweetquotes": 2,
     "tweetreplies": 2,
     "tweetretweets": 24,
@@ -346,10 +346,10 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/critical-remote-code-execution-vulnerability-spnego-extended-negotiation-security-mechanism/"
     ],
-    "tweetfavorites": 3569,
+    "tweetfavorites": 3570,
     "tweetquotes": 57,
     "tweetreplies": 68,
-    "tweetretweets": 1014,
+    "tweetretweets": 1015,
     "tweettext": "Demonstrating CVE-2022-37958 RCE Vuln. Reachable via any Windows application protocol that authenticates. Yes, that means RDP, SMB and many more. Please patch this one, it's serious! \n\nhttps://t.co/ikOrTvQIJs https://t.co/bOTmL5Fh2H",
     "tweettime": "2022-12-13, 20:08:21",
     "tweeturl": "https://twitter.com/chompie1337/status/1602757336908660736",
