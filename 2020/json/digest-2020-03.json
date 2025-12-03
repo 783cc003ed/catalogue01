@@ -121,10 +121,10 @@
     "expanded_url": [
         "https://blog.zecops.com/vulnerabilities/vulnerability-reproduction-cve-2020-0796-poc/"
     ],
-    "tweetfavorites": 671,
-    "tweetquotes": 7,
-    "tweetreplies": 5,
-    "tweetretweets": 327,
+    "tweetfavorites": 641,
+    "tweetquotes": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 314,
     "tweettext": "Did you know that #SMBGhost / CVE-2020-0796 can be used for a Local Privilege Escalation?\nWe'll post the details + POC in the next few days #PatchNow #ComingSoon\nand in the meantime: https://t.co/78gmQU78Ae https://t.co/WHDmaXo1Ar",
     "tweettime": "2020-03-29, 18:50:14",
     "tweeturl": "https://twitter.com/ZecOps/status/1244336079022374912",
