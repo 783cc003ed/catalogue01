@@ -167,9 +167,9 @@
     "username": "hack_git"
 }
 {
-    "tweetfavorites": 592,
+    "tweetfavorites": 591,
     "tweetquotes": 6,
-    "tweetreplies": 9,
+    "tweetreplies": 8,
     "tweetretweets": 228,
     "tweettext": "Citrix Gateway VPN compromised via CVE-2023-3519 (a critical unauthenticated RCE) shows evidence of exploitation on 7th July, 11 days before the official patch.\n\nThe attackers exfiltrated the system configuration file to then probably use the Metasploit module called https://t.co/vZuXdKsQ3r",
     "tweettime": "2023-07-23, 05:04:14",

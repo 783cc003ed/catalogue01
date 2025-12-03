@@ -784,7 +784,7 @@
     "tweetfavorites": 292,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 101,
+    "tweetretweets": 102,
     "tweettext": "CVE-2023-43261 - PoC\nCredential Leakage Through Unprotected System Logs and Weak Password Encryption\n\nPoC: https://t.co/2pw9hzOtTt https://t.co/GMMMMx0YtR",
     "tweettime": "2023-10-01, 17:04:15",
     "tweeturl": "https://twitter.com/win3zz/status/1708528262853677174",
