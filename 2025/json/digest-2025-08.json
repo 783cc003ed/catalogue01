@@ -67,6 +67,19 @@
 }
 {
     "expanded_url": [
+        "https://googleprojectzero.blogspot.com/2025/08/from-chrome-renderer-code-exec-to-kernel.html"
+    ],
+    "tweetfavorites": 135,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 35,
+    "tweettext": "From Chrome renderer code exec to kernel with MSG_OOB\n\nJann Horn @tehjh posted an article about exploiting CVE-2025-38236, a UAF in the UNIX domain sockets:\nhttps://t.co/xRBYnLAU8X",
+    "tweettime": "2025-08-23, 23:13:18",
+    "tweeturl": "https://twitter.com/linkersec/status/1959393539194044501",
+    "username": "linkersec"
+}
+{
+    "expanded_url": [
         "https://allelesecurity.com/use-after-free-vulnerability-in-can-bcm-subsystem-leading-to-information-disclosure-cve-2023-52922/"
     ],
     "tweetfavorites": 132,
@@ -95,7 +108,7 @@
     "tweetfavorites": 118,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 18,
+    "tweetretweets": 19,
     "tweettext": "🔥 The team is cooking\n\nNew Alert: WinRAR Zero-Day Path Traversal Vulnerability\n\nCVE-2025-8088 is a WinRAR zero-day path traversal flaw in Windows versions, allowing attackers to execute arbitrary code by crafting malicious archives that place files in unauthorized locations, https://t.co/Mm7LMyQO7b",
     "tweettime": "2025-08-16, 13:00:20",
     "tweeturl": "https://twitter.com/LetsDefendIO/status/1956702568718995655",
