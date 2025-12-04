@@ -990,7 +990,7 @@
     "tweetfavorites": 1033,
     "tweetquotes": 18,
     "tweetreplies": 12,
-    "tweetretweets": 327,
+    "tweetretweets": 326,
     "tweettext": "The new F5 RCE vulnerability, CVE-2022-1388, is trivial to exploit. We spent some time chasing unrelated diffs within the newest version, but @jameshorseman2 ultimately got first blood. We'll release a POC next week to give more time for orgs to patch.\n\n#f5 #CyberSecurity https://t.co/O1SivUE4vA",
     "tweettime": "2022-05-06, 23:09:24",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1522715182014902272",
