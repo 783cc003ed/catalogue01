@@ -15,7 +15,7 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 49,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 20,
@@ -668,8 +668,8 @@
     "expanded_url": [
         "https://zhero-web-sec.github.io/research-and-things/astro-framework-and-standards-weaponization"
     ],
-    "tweetfavorites": 341,
-    "tweetquotes": 4,
+    "tweetfavorites": 342,
+    "tweetquotes": 5,
     "tweetreplies": 12,
     "tweetretweets": 85,
     "tweettext": "release of our new paper (w/ @inzo____) which resulted in CVE-2025-64525:\n\nAstro framework and standards weaponization\n\nfrom path-based middleware protection bypass to potential SSRF &amp; XSS + full bypass of CVE-2025-61925 on @astrodotbuild\n\nhttps://t.co/xTO55gNFu4 https://t.co/EYqe7wdCAa",

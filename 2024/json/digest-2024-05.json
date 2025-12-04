@@ -180,10 +180,10 @@
         "https://support.zabbix.com/browse/ZBX-24505#/",
         "https://github.com/W01fh4cker/CVE-2024-22120-RCE"
     ],
-    "tweetfavorites": 277,
+    "tweetfavorites": 275,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 87,
+    "tweetretweets": 86,
     "tweettext": "🚨Alert🚨CVE-2024-22120 (CVSS 9.1): Zabbix SQLi Vulnerability Exposes IT Infrastructure to Attack\n🔥PoC: https://t.co/9esaIMwxkV\n🔥PoC: https://t.co/hlcziDdwS6\n⚠This time-based SQL injection flaw poses a significant risk to systems running affected Zabbix, potentially allowing https://t.co/BjaPvEZPkd",
     "tweettime": "2024-05-20, 07:10:22",
     "tweeturl": "https://twitter.com/HunterMapping/status/1792452790809464925",

@@ -488,10 +488,10 @@
     "expanded_url": [
         "https://github.com/duy-31/CVE-2024-21413"
     ],
-    "tweetfavorites": 46,
+    "tweetfavorites": 44,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 18,
+    "tweetretweets": 17,
     "tweettext": "Vulnerabilidad Microsoft Outlook MonikerLink  \n\nFuga de credenciales y ejecución remota de código cuando se encadena con CVE-2023-21716 (a través del panel de vista previa) \n\n PoC disponibleCVE-2024-21413) un RCE de Microsoft Outlook\nhttps://t.co/ceghAWQqZx https://t.co/GLd0nM78M8",
     "tweettime": "2024-02-20, 17:43:00",
     "tweeturl": "https://twitter.com/elhackernet/status/1759997090594468146",

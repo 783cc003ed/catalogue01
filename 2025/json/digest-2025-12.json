@@ -1,11 +1,37 @@
 {
     "expanded_url": [
+        "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
+    ],
+    "tweetfavorites": 339,
+    "tweetquotes": 5,
+    "tweetreplies": 7,
+    "tweetretweets": 47,
+    "tweettext": "CVE-2025-55182 RCE in React Server Components 💀\n\nhttps://t.co/tKKyd9WljA https://t.co/DEt9nHFC1f",
+    "tweettime": "2025-12-03, 18:46:37",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1996289988078510464",
+    "username": "h4x0r_dz"
+}
+{
+    "expanded_url": [
+        "https://www.synacktiv.com/en/publications/paint-it-blue-attacking-the-bluetooth-stack"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 9,
+    "tweettext": "Analysis and exploitation of an integer underflow in the Bluetooth GATT protocol (CVE-2023-40129)\n\nhttps://t.co/NfIMAlnxN6\n\nCredits Mehdi Talbi and Etienne Helluy-Lafont (@Synacktiv)\n\n#infosec #Android https://t.co/XyYPQjCJbb",
+    "tweettime": "2025-12-03, 16:01:58",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1996248552842961247",
+    "username": "0xor0ne"
+}
+{
+    "expanded_url": [
         "https://syst3mfailure.io/rbtree-family-drama/"
     ],
-    "tweetfavorites": 225,
+    "tweetfavorites": 235,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 53,
+    "tweetretweets": 54,
     "tweettext": "Analysis and exploitation of a Use-After-Free vulnerability in the Linux network packet schedule (CVE-2025-38001)\n\nhttps://t.co/t0C6wWlyWI\n\n#infosec #Linux https://t.co/wsIxrGgwWo",
     "tweettime": "2025-12-02, 08:00:48",
     "tweeturl": "https://twitter.com/0xor0ne/status/1995765077895532828",
@@ -15,7 +41,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 448,
+    "tweetfavorites": 451,
     "tweetquotes": 0,
     "tweetreplies": 6,
     "tweetretweets": 153,
