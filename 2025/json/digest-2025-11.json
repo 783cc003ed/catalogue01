@@ -174,10 +174,10 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 415,
+    "tweetfavorites": 416,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 151,
+    "tweetretweets": 152,
     "tweettext": "🚨 Hackers are using a fixed Windows bug (CVE-2025-59287) to spread ShadowPad malware through WSUS servers.\n\nThey used normal Windows tools like curl and certutil to install it — a method seen before in Chinese hacking groups.\n\nSystems patched too late may have already been https://t.co/kbi5AK8XfV",
     "tweettime": "2025-11-24, 07:20:28",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1992855824818176223",
