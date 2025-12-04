@@ -288,6 +288,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/rxerium/CVE-2025-11371"
+    ],
+    "tweetfavorites": 164,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 33,
+    "tweettext": "🚨 Active Exploitation of Gladinet CentreStack and Triofox Local File Inclusion Flaw (CVE-2025-11371)\n\nI've created a vulnerability detection script here: https://t.co/sOr7tZBjGP\n\nAs reported by Huntress this is an unauthenticated Local File Inclusion flaw in Gladinet CentreStack https://t.co/0a2GxU16cy",
+    "tweettime": "2025-10-10, 10:43:45",
+    "tweeturl": "https://twitter.com/hakrishi/status/1976599525981585550",
+    "username": "hakrishi"
+}
+{
+    "expanded_url": [
         "https://github.com/dwisiswant0/CVE-2025-49844"
     ],
     "tweetfavorites": 93,

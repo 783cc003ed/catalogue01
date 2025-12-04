@@ -1,8 +1,18 @@
 {
-    "tweetfavorites": 211,
-    "tweetquotes": 0,
+    "tweetfavorites": 53,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 10,
+    "tweettext": "Heads-up on CVE-2025-55182: a CVSS 10.0 pre-auth RCE affecting React Server Components 19.x. Can be triggered through malicious HTTP payloads, so there will be chaos when a POC comes out.\n\nOn that note...there are many fake POCs circulating. Be careful what you run. A POC is not https://t.co/q9RjLzw7lO",
+    "tweettime": "2025-12-04, 07:44:19",
+    "tweeturl": "https://twitter.com/Kostastsale/status/1996485704218521920",
+    "username": "Kostastsale"
+}
+{
+    "tweetfavorites": 254,
+    "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 26,
+    "tweetretweets": 31,
     "tweettext": "#CVE-2025-55182: Remote Code Execution in React Server Components via a Unicode-based WAF bypass https://t.co/JEVDKrd9nz",
     "tweettime": "2025-12-04, 04:10:36",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996431921736519886",
@@ -14,10 +24,10 @@
         "https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js",
         "https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182"
     ],
-    "tweetfavorites": 73,
+    "tweetfavorites": 84,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 17,
+    "tweetretweets": 20,
     "tweettext": "🚨Alert🚨:Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote\nCode Execution(CVE-2025-55182&amp;CVE-2025-66478)\n🔥PoC :\nhttps://t.co/RG8kg59GfU\nhttps://t.co/fg5Qdjrzy1\n🧐Detail :\nhttps://t.co/MyU68wMNZ7\n-----------------------------------------\nCVE-2025-55182(CVSS https://t.co/1vhUBYiQqY",
     "tweettime": "2025-12-04, 02:31:43",
     "tweeturl": "https://twitter.com/HunterMapping/status/1996407037672968257",
@@ -27,10 +37,10 @@
     "expanded_url": [
         "https://github.com/ejpir/CVE-2025-55182-poc/blob/main/exploit-rce-v4.js"
     ],
-    "tweetfavorites": 105,
-    "tweetquotes": 1,
+    "tweetfavorites": 157,
+    "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 20,
+    "tweetretweets": 34,
     "tweettext": "🚨🚨CVE-2025-55182 (CVSS 10.0): RCE in React Server Components\nA decoding bug in React Server Function payloads enables full unauthenticated RCE on vulnerable RSC backends.\n🔥PoC: https://t.co/4yHxpp9RPc\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-55182\"\nZoomEye https://t.co/0f44l2v5JW",
     "tweettime": "2025-12-04, 02:27:05",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1996405871631589451",
@@ -38,16 +48,39 @@
 }
 {
     "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
+    "tweettext": "🛡️We added OpenPLC ScadaBR vulnerability CVE-2021-26828 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/cUimHeit92",
+    "tweettime": "2025-12-03, 19:08:38",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1996295531610390588",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
-    "tweetfavorites": 405,
-    "tweetquotes": 5,
-    "tweetreplies": 7,
-    "tweetretweets": 48,
+    "tweetfavorites": 423,
+    "tweetquotes": 6,
+    "tweetreplies": 8,
+    "tweetretweets": 50,
     "tweettext": "CVE-2025-55182 RCE in React Server Components 💀\n\nhttps://t.co/tKKyd9WljA https://t.co/DEt9nHFC1f",
     "tweettime": "2025-12-03, 18:46:37",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1996289988078510464",
     "username": "h4x0r_dz"
+}
+{
+    "tweetfavorites": 239,
+    "tweetquotes": 13,
+    "tweetreplies": 3,
+    "tweetretweets": 67,
+    "tweettext": "🚨 CRITICAL RCE ALERT: React &amp; Next.js Vulnerability ↓\n\nCritical remote code execution (RCE) vulnerabilities have been published affecting the React 19 ecosystem and Next.js.\n\nThese vulnerabilities (CVE-2025-55182 &amp; CVE-2025-66478) reside in the React Server Components (RSC) https://t.co/DwIAjXJ0h2",
+    "tweettime": "2025-12-03, 16:13:47",
+    "tweeturl": "https://twitter.com/wiz_io/status/1996251528512893026",
+    "username": "wiz_io"
 }
 {
     "expanded_url": [
@@ -66,10 +99,10 @@
     "expanded_url": [
         "https://www.synacktiv.com/en/publications/paint-it-blue-attacking-the-bluetooth-stack"
     ],
-    "tweetfavorites": 74,
+    "tweetfavorites": 81,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 9,
+    "tweetretweets": 10,
     "tweettext": "Analysis and exploitation of an integer underflow in the Bluetooth GATT protocol (CVE-2023-40129)\n\nhttps://t.co/NfIMAlnxN6\n\nCredits Mehdi Talbi and Etienne Helluy-Lafont (@Synacktiv)\n\n#infosec #Android https://t.co/XyYPQjCJbb",
     "tweettime": "2025-12-03, 16:01:58",
     "tweeturl": "https://twitter.com/0xor0ne/status/1996248552842961247",
@@ -92,10 +125,10 @@
     "expanded_url": [
         "https://github.com/SpiralBL0CK/CVE-2023-1206-CVE-2025-40040-CVE-2024-49882/tree/main"
     ],
-    "tweetfavorites": 78,
+    "tweetfavorites": 89,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 15,
+    "tweetretweets": 16,
     "tweettext": "Releasing a 3 linux kernel bugs chains to do secure comm app using side channel to establish key and establish covert channe: CVE-2023-1206+CVE-2025-40040+CVE-2024-49882 https://t.co/PklpQLbjrZ \nAnyways a little thread about this later this week :1/n https://t.co/f6dMet1EFd",
     "tweettime": "2025-12-02, 21:26:02",
     "tweeturl": "https://twitter.com/f00fc7c800/status/1995967720610037856",
@@ -118,10 +151,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 452,
+    "tweetfavorites": 453,
     "tweetquotes": 0,
     "tweetreplies": 6,
-    "tweetretweets": 154,
+    "tweetretweets": 155,
     "tweettext": "🚨 PoC Exploit Released For Outlook 0-Click Remote Code Execution Vulnerability \n\nSource: https://t.co/zpeuGMQuHa\n\nA Proof-of-Concept (PoC) exploit code has been released for a critical remote code execution (RCE) vulnerability in Microsoft Outlook, identified as CVE-2024-21413. https://t.co/GZAl0rTJOp",
     "tweettime": "2025-12-01, 06:21:15",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1995377636772864286",
