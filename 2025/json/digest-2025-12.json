@@ -9,10 +9,10 @@
     "username": "Kostastsale"
 }
 {
-    "tweetfavorites": 254,
+    "tweetfavorites": 269,
     "tweetquotes": 1,
-    "tweetreplies": 3,
-    "tweetretweets": 31,
+    "tweetreplies": 4,
+    "tweetretweets": 33,
     "tweettext": "#CVE-2025-55182: Remote Code Execution in React Server Components via a Unicode-based WAF bypass https://t.co/JEVDKrd9nz",
     "tweettime": "2025-12-04, 04:10:36",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996431921736519886",
@@ -50,10 +50,10 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 32,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 13,
     "tweettext": "🛡️We added OpenPLC ScadaBR vulnerability CVE-2021-26828 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/cUimHeit92",
     "tweettime": "2025-12-03, 19:08:38",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1996295531610390588",
@@ -86,10 +86,10 @@
     "expanded_url": [
         "https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182"
     ],
-    "tweetfavorites": 132,
+    "tweetfavorites": 140,
     "tweetquotes": 5,
     "tweetreplies": 5,
-    "tweetretweets": 38,
+    "tweetretweets": 41,
     "tweettext": "Here's our initial analysis of CVE-2025-55182 and CVE-2025-66478, critical RCE vulnerabilities in React and Next.js - these bugs allow for unauthenticated RCE on default configurations - patch ASAP:\nhttps://t.co/EQaPopth22",
     "tweettime": "2025-12-03, 16:11:06",
     "tweeturl": "https://twitter.com/AmitaiCo/status/1996250852563239198",
@@ -99,7 +99,7 @@
     "expanded_url": [
         "https://www.synacktiv.com/en/publications/paint-it-blue-attacking-the-bluetooth-stack"
     ],
-    "tweetfavorites": 81,
+    "tweetfavorites": 82,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 10,
@@ -112,7 +112,7 @@
     "expanded_url": [
         "https://www.securifera.com/blog/2025/12/02/n-able-formerly-solarwinds-msp-windows-software-probe-remote-code-execution-cve-2025-11367/"
     ],
-    "tweetfavorites": 37,
+    "tweetfavorites": 39,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 9,
@@ -151,7 +151,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 453,
+    "tweetfavorites": 454,
     "tweetquotes": 0,
     "tweetreplies": 6,
     "tweetretweets": 155,
