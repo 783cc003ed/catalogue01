@@ -1,12 +1,32 @@
 {
-    "tweetfavorites": 121,
-    "tweetquotes": 1,
+    "tweetfavorites": 56,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 8,
+    "tweettext": "#CVE-2025-55182: RSC RCE — It functions as an in-memory webshell backdoor, offering a significantly more covert foothold. Please verify this again on your own endpoint. https://t.co/aOic5sCu94",
+    "tweettime": "2025-12-05, 07:15:27",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1996840827897954542",
+    "username": "pyn3rd"
+}
+{
+    "tweetfavorites": 165,
+    "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 19,
+    "tweetretweets": 25,
     "tweettext": "#CVE-2025-55182: RSC RCE — Full Unicode encoding can bypass certain WAFs that lack proper decoding or normalization capabilities. Please verify this on your end. https://t.co/70Ovx7lu5g",
     "tweettime": "2025-12-05, 03:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996788502386909539",
     "username": "pyn3rd"
+}
+{
+    "tweetfavorites": 173,
+    "tweetquotes": 0,
+    "tweetreplies": 10,
+    "tweetretweets": 14,
+    "tweettext": "CVE-2025-55182这个漏洞，公网可以直接打，已经成功了，成功率不低！👿\n​真正利用场景下，是没有回显结果的，直接RCE就行了😎\n目前测试来看还能打Dify😱 https://t.co/KV6j8vLOAj",
+    "tweettime": "2025-12-05, 02:46:26",
+    "tweeturl": "https://twitter.com/AabyssZG/status/1996773126433366225",
+    "username": "AabyssZG"
 }
 {
     "tweetfavorites": 325,
@@ -19,7 +39,7 @@
     "username": "stephenfewer"
 }
 {
-    "tweetfavorites": 47,
+    "tweetfavorites": 48,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 6,
@@ -65,10 +85,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 387,
+    "tweetfavorites": 393,
     "tweetquotes": 1,
     "tweetreplies": 4,
-    "tweetretweets": 47,
+    "tweetretweets": 46,
     "tweettext": "#CVE-2025-55182: Remote Code Execution in React Server Components via a Unicode-based WAF bypass https://t.co/JEVDKrd9nz",
     "tweettime": "2025-12-04, 04:10:36",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996431921736519886",
@@ -119,10 +139,10 @@
     "expanded_url": [
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
-    "tweetfavorites": 470,
+    "tweetfavorites": 476,
     "tweetquotes": 6,
     "tweetreplies": 8,
-    "tweetretweets": 56,
+    "tweetretweets": 57,
     "tweettext": "CVE-2025-55182 RCE in React Server Components 💀\n\nhttps://t.co/tKKyd9WljA https://t.co/DEt9nHFC1f",
     "tweettime": "2025-12-03, 18:46:37",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1996289988078510464",
@@ -142,10 +162,10 @@
     "expanded_url": [
         "https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182"
     ],
-    "tweetfavorites": 140,
-    "tweetquotes": 5,
-    "tweetreplies": 5,
-    "tweetretweets": 41,
+    "tweetfavorites": 150,
+    "tweetquotes": 6,
+    "tweetreplies": 6,
+    "tweetretweets": 42,
     "tweettext": "Here's our initial analysis of CVE-2025-55182 and CVE-2025-66478, critical RCE vulnerabilities in React and Next.js - these bugs allow for unauthenticated RCE on default configurations - patch ASAP:\nhttps://t.co/EQaPopth22",
     "tweettime": "2025-12-03, 16:11:06",
     "tweeturl": "https://twitter.com/AmitaiCo/status/1996250852563239198",
@@ -155,7 +175,7 @@
     "expanded_url": [
         "https://www.synacktiv.com/en/publications/paint-it-blue-attacking-the-bluetooth-stack"
     ],
-    "tweetfavorites": 91,
+    "tweetfavorites": 93,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 10,
@@ -168,7 +188,7 @@
     "expanded_url": [
         "https://www.securifera.com/blog/2025/12/02/n-able-formerly-solarwinds-msp-windows-software-probe-remote-code-execution-cve-2025-11367/"
     ],
-    "tweetfavorites": 61,
+    "tweetfavorites": 62,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 17,
@@ -181,10 +201,10 @@
     "expanded_url": [
         "https://github.com/SpiralBL0CK/CVE-2023-1206-CVE-2025-40040-CVE-2024-49882/tree/main"
     ],
-    "tweetfavorites": 89,
+    "tweetfavorites": 100,
     "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 16,
+    "tweetreplies": 3,
+    "tweetretweets": 18,
     "tweettext": "Releasing a 3 linux kernel bugs chains to do secure comm app using side channel to establish key and establish covert channe: CVE-2023-1206+CVE-2025-40040+CVE-2024-49882 https://t.co/PklpQLbjrZ \nAnyways a little thread about this later this week :1/n https://t.co/f6dMet1EFd",
     "tweettime": "2025-12-02, 21:26:02",
     "tweeturl": "https://twitter.com/f00fc7c800/status/1995967720610037856",

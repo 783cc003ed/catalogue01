@@ -280,7 +280,7 @@
         "https://ambionics.io/blog/iconv-cve-2024-2961-p1",
         "https://github.com/ambionics/cnext-exploits/"
     ],
-    "tweetfavorites": 264,
+    "tweetfavorites": 265,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 67,
@@ -805,7 +805,7 @@
     "tweetfavorites": 312,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 107,
+    "tweetretweets": 108,
     "tweettext": "🚨 Windows MSI installers can let attackers escalate privileges to SYSTEM! Our latest blog explains these attacks &amp; introduces \"msiscan\" an open-source tool to detect #vulnerabilities like CVE-2024-38014. Learn about the new technique for reliable exploits https://t.co/CLfjGMl148",
     "tweettime": "2024-09-12, 09:57:02",
     "tweeturl": "https://twitter.com/sec_consult/status/1834169340410593519",

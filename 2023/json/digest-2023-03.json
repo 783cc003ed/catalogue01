@@ -240,6 +240,19 @@
     "username": "pentest_swissky"
 }
 {
+    "expanded_url": [
+        "https://blog.segu-info.com.ar/2023/03/microsoft-parchea-zero-day-utilizados.html"
+    ],
+    "tweetfavorites": 231,
+    "tweetquotes": 4,
+    "tweetreplies": 6,
+    "tweetretweets": 104,
+    "tweettext": "Ayer te fuiste del trabajo sin parchear el Zero-Day de Microsoft Outlook que está siendo utilizado por el #ransomware (CVE-2023-23397).\nTiene un score de 9.8/10, PoC y exploit disponible.\nDebería ser lo primero que haces el lunes 😉\n\nInfo: https://t.co/Ae2yWdXbNR",
+    "tweettime": "2023-03-18, 14:33:34",
+    "tweeturl": "https://twitter.com/SeguInfo/status/1637099933676326913",
+    "username": "SeguInfo"
+}
+{
     "tweetfavorites": 64,
     "tweetquotes": 2,
     "tweetreplies": 5,
