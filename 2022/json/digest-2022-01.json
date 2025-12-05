@@ -432,7 +432,7 @@
     "tweetfavorites": 1631,
     "tweetquotes": 12,
     "tweetreplies": 35,
-    "tweetretweets": 212,
+    "tweetretweets": 211,
     "tweettext": "i'll admit - when i found it, i wasn't totally sure if i could get LPE with this strange little kernel bug alone. it took triggering the vuln 4x to do a full privesc with #CVE-2021-41073, a vuln in io_uring. blog post soon :) https://t.co/2dJKDMLdUv",
     "tweettime": "2022-01-12, 23:43:32",
     "tweeturl": "https://twitter.com/chompie1337/status/1481411553698238465",

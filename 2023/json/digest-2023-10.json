@@ -729,10 +729,10 @@
     "expanded_url": [
         "https://hubs.la/Q024Mbgp0"
     ],
-    "tweetfavorites": 211,
+    "tweetfavorites": 205,
     "tweetquotes": 1,
-    "tweetreplies": 2,
-    "tweetretweets": 47,
+    "tweetreplies": 3,
+    "tweetretweets": 45,
     "tweettext": "NEW RECENT THREAT ROOM - LOONEY TUNABLES🐇 \n\nCVE-2023-4911: exploit a vulnerability in glibc affecting all major Linux distributions.\n🐰 Exploit the Linux Linker via GLIBC_TUNABLES\n🧠 Learn how to predict memory addresses\n📚 Build your library for PrivEsc\n\nhttps://t.co/0xhDTB7gyJ https://t.co/M5VK8jYVDX",
     "tweettime": "2023-10-09, 10:54:22",
     "tweeturl": "https://twitter.com/RealTryHackMe/status/1711334281241383352",
