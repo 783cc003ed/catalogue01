@@ -114,10 +114,10 @@
     "expanded_url": [
         "https://go.dhs.gov/in5"
     ],
-    "tweetfavorites": 470,
+    "tweetfavorites": 473,
     "tweetquotes": 10,
     "tweetreplies": 23,
-    "tweetretweets": 181,
+    "tweetretweets": 182,
     "tweettext": "CVE-2025-59287 is being actively exploited. Update Windows Server Update Services now to reduce risk of a threat actor achieving remote code execution with system privileges. See our Alert for details ➡️ https://t.co/t5xpDWjSWS #Cybersecurity https://t.co/tOHXCgFbyk",
     "tweettime": "2025-10-24, 20:33:41",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1981821419219493365",
@@ -359,10 +359,10 @@
     "username": "wiz_io"
 }
 {
-    "tweetfavorites": 336,
+    "tweetfavorites": 335,
     "tweetquotes": 11,
     "tweetreplies": 11,
-    "tweetretweets": 114,
+    "tweetretweets": 113,
     "tweettext": "🚨 Oracle just rushed a patch for CVE-2025-61882 — a 9.8 critical flaw in E-Business Suite already exploited by Cl0p in live data theft attacks.\n\nThe zero-day lets attackers seize control without a username or password.\n\nExperts warn many may already be breached.\n\nDetails here ↓ https://t.co/w25oqDIpwp",
     "tweettime": "2025-10-06, 05:20:09",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1975068537954701517",

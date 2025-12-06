@@ -2,24 +2,37 @@
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
-    "tweetfavorites": 275,
+    "tweetfavorites": 312,
     "tweetquotes": 9,
-    "tweetreplies": 14,
-    "tweetretweets": 32,
+    "tweetreplies": 15,
+    "tweetretweets": 34,
     "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
     "tweettime": "2025-12-06, 03:54:16",
     "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",
     "username": "cramforce"
 }
 {
-    "tweetfavorites": 1532,
-    "tweetquotes": 23,
-    "tweetreplies": 32,
-    "tweetretweets": 164,
+    "tweetfavorites": 1737,
+    "tweetquotes": 25,
+    "tweetreplies": 33,
+    "tweetretweets": 188,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
     "username": "securityshell"
+}
+{
+    "expanded_url": [
+        "https://labs.watchtowr.com/yikes-watchguard-fireware-os-ikev2-out-of-bounds-write-cve-2025-9242"
+    ],
+    "tweetfavorites": 137,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "pre-auth RCE (CVE-2025-9242) stack buffer overflow vulnerability in WatchGuard Fireware OS\n\nhttps://t.co/8gUrO3steS\n\nCredits @watchtowrcyber\n\n#infosec https://t.co/v4ft0JravA",
+    "tweettime": "2025-12-05, 16:02:05",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1996973360450768999",
+    "username": "0xor0ne"
 }
 {
     "expanded_url": [
@@ -35,20 +48,20 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 442,
-    "tweetquotes": 4,
+    "tweetfavorites": 469,
+    "tweetquotes": 6,
     "tweetreplies": 5,
-    "tweetretweets": 54,
+    "tweetretweets": 56,
     "tweettext": "#CVE-2025-55182: RSC RCE — It functions as an in-memory webshell backdoor, offering a significantly more covert foothold. Please verify this again on your own endpoint. https://t.co/aOic5sCu94",
     "tweettime": "2025-12-05, 07:15:27",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996840827897954542",
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 424,
+    "tweetfavorites": 436,
     "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 49,
+    "tweetretweets": 51,
     "tweettext": "#CVE-2025-55182: RSC RCE — Full Unicode encoding can bypass certain WAFs that lack proper decoding or normalization capabilities. Please verify this on your end. https://t.co/70Ovx7lu5g",
     "tweettime": "2025-12-05, 03:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996788502386909539",
@@ -58,10 +71,10 @@
     "expanded_url": [
         "https://gist.github.com/maple3142/48bc9393f45e068cf8c90ab865c0f5f3"
     ],
-    "tweetfavorites": 83,
+    "tweetfavorites": 85,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 22,
+    "tweetretweets": 23,
     "tweettext": "🚨Latest Update🚨RCE in React Server Components(CVE-2025-55182)\nAn insecure deserialization flaw in RSC's Flight data handling enables unauthenticated RCE. It affects default create-next-app projects and the latest version of Dify.\n🔥PoC: https://t.co/qEhjjfVqZE\n\n⚠️Note: Only https://t.co/B9WAnmlBev",
     "tweettime": "2025-12-05, 03:27:36",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1996783486737539282",
@@ -88,10 +101,10 @@
     "username": "stephenfewer"
 }
 {
-    "tweetfavorites": 48,
+    "tweetfavorites": 74,
     "tweetquotes": 0,
-    "tweetreplies": 3,
-    "tweetretweets": 6,
+    "tweetreplies": 4,
+    "tweetretweets": 9,
     "tweettext": "A critical RCE vulnerability (CVE-2025-55182) in React Server Components was disclosed on December 3. Early signs show meaningful exposure across monitored environments.\n\nBugcrowd has activated its zero-day workflow, formed a dedicated triage group, and is validating submissions. https://t.co/o4Z6b3ZLIK",
     "tweettime": "2025-12-04, 16:07:47",
     "tweeturl": "https://twitter.com/Bugcrowd/status/1996612405829480823",
@@ -134,7 +147,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 431,
+    "tweetfavorites": 433,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 51,
@@ -188,10 +201,10 @@
     "expanded_url": [
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
-    "tweetfavorites": 491,
+    "tweetfavorites": 492,
     "tweetquotes": 6,
     "tweetreplies": 8,
-    "tweetretweets": 59,
+    "tweetretweets": 60,
     "tweettext": "CVE-2025-55182 RCE in React Server Components 💀\n\nhttps://t.co/tKKyd9WljA https://t.co/DEt9nHFC1f",
     "tweettime": "2025-12-03, 18:46:37",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1996289988078510464",
@@ -276,10 +289,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 455,
+    "tweetfavorites": 454,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 154,
+    "tweetretweets": 153,
     "tweettext": "🚨 PoC Exploit Released For Outlook 0-Click Remote Code Execution Vulnerability \n\nSource: https://t.co/zpeuGMQuHa\n\nA Proof-of-Concept (PoC) exploit code has been released for a critical remote code execution (RCE) vulnerability in Microsoft Outlook, identified as CVE-2024-21413. https://t.co/GZAl0rTJOp",
     "tweettime": "2025-12-01, 06:21:15",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1995377636772864286",

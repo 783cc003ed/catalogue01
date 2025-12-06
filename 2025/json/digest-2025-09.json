@@ -9,6 +9,19 @@
     "username": "HackingTeam1"
 }
 {
+    "expanded_url": [
+        "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/"
+    ],
+    "tweetfavorites": 255,
+    "tweetquotes": 0,
+    "tweetreplies": 4,
+    "tweetretweets": 47,
+    "tweettext": "Unauthenticated RCE exploit targeting FreePBX Endpoint module (CVE-2025-57819) via SQL injection.\n\nhttps://t.co/dvPIYaPnMJ\n\nCredits @watchtowrcyber\n\n#infosec https://t.co/nHFWe0BIRn",
+    "tweettime": "2025-09-29, 15:01:03",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1972678013117477288",
+    "username": "0xor0ne"
+}
+{
     "tweetfavorites": 37,
     "tweetquotes": 0,
     "tweetreplies": 5,

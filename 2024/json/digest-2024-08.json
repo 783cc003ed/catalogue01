@@ -932,6 +932,19 @@
     "username": "nekono_naha"
 }
 {
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063"
+    ],
+    "tweetfavorites": 134,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 33,
+    "tweettext": "IPv4 is dead. Long live IPv6. Unless you're on Windows. A critical flaw (CVE-2024-38063, CVSS 9.8) in the Windows TCP/IP stack allows for remote code execution. The fix? Disable IPv6 for now. https://t.co/SIIMHeuTRX https://t.co/LeuADauNMI",
+    "tweettime": "2024-08-14, 16:00:41",
+    "tweeturl": "https://twitter.com/cudeso/status/1823751605906227638",
+    "username": "cudeso"
+}
+{
     "tweetfavorites": 0,
     "tweetquotes": 0,
     "tweetreplies": 0,
