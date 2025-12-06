@@ -15,20 +15,20 @@
     "expanded_url": [
         "https://react2shell.com/"
     ],
-    "tweetfavorites": 53,
+    "tweetfavorites": 56,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 4,
+    "tweetretweets": 5,
     "tweettext": "CVE-2025-55182 (React2Shell) pre-auth RCE is likely to have a long tail time similar to Log4Shell Log4j injection and Telerik deserialisation vulnerabilities have in the past. This is already being weaponised by threat actors with public POCs available.\n\nhttps://t.co/DbrEsfTSrS https://t.co/y2nNRg7JWj",
     "tweettime": "2025-12-06, 00:29:02",
     "tweeturl": "https://twitter.com/CyberRaiju/status/1997100937744470457",
     "username": "CyberRaiju"
 }
 {
-    "tweetfavorites": 2294,
+    "tweetfavorites": 2410,
     "tweetquotes": 34,
-    "tweetreplies": 42,
-    "tweetretweets": 256,
+    "tweetreplies": 44,
+    "tweetretweets": 269,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -51,30 +51,30 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 80,
-    "tweetquotes": 0,
+    "tweetfavorites": 82,
+    "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 35,
+    "tweetretweets": 37,
     "tweettext": "🛡️We added Meta React Server Components remote code execution vulnerability CVE-2025-55182 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/QozFI5xbes",
     "tweettime": "2025-12-05, 15:21:34",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1996963163682566406",
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 513,
+    "tweetfavorites": 525,
     "tweetquotes": 6,
     "tweetreplies": 7,
-    "tweetretweets": 61,
+    "tweetretweets": 64,
     "tweettext": "#CVE-2025-55182: RSC RCE — It functions as an in-memory webshell backdoor, offering a significantly more covert foothold. Please verify this again on your own endpoint. https://t.co/aOic5sCu94",
     "tweettime": "2025-12-05, 07:15:27",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996840827897954542",
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 459,
+    "tweetfavorites": 461,
     "tweetquotes": 4,
-    "tweetreplies": 5,
-    "tweetretweets": 52,
+    "tweetreplies": 6,
+    "tweetretweets": 53,
     "tweettext": "#CVE-2025-55182: RSC RCE — Full Unicode encoding can bypass certain WAFs that lack proper decoding or normalization capabilities. Please verify this on your end. https://t.co/70Ovx7lu5g",
     "tweettime": "2025-12-05, 03:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996788502386909539",
@@ -160,7 +160,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 436,
+    "tweetfavorites": 435,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 52,
@@ -214,7 +214,7 @@
     "expanded_url": [
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
-    "tweetfavorites": 493,
+    "tweetfavorites": 494,
     "tweetquotes": 6,
     "tweetreplies": 8,
     "tweetretweets": 60,
@@ -302,10 +302,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 454,
+    "tweetfavorites": 453,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 155,
+    "tweetretweets": 154,
     "tweettext": "🚨 PoC Exploit Released For Outlook 0-Click Remote Code Execution Vulnerability \n\nSource: https://t.co/zpeuGMQuHa\n\nA Proof-of-Concept (PoC) exploit code has been released for a critical remote code execution (RCE) vulnerability in Microsoft Outlook, identified as CVE-2024-21413. https://t.co/GZAl0rTJOp",
     "tweettime": "2025-12-01, 06:21:15",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1995377636772864286",
