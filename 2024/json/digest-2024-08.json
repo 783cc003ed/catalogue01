@@ -948,7 +948,7 @@
     "tweetfavorites": 254,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 118,
+    "tweetretweets": 117,
     "tweettext": "CVE-2024-38063, puntuación de 9.8\nWindows TCP/IP Remote Code Execution Vulnerability \nImpact: Remote Code Execution Max Severity: Critical\nSystems are not affected if IPv6 is disabled on the target machine.\n👇ñapa mitigadora, desactivar IPv6\nhttps://t.co/Qq8BE4QwlX https://t.co/OLEyfBkVdW",
     "tweettime": "2024-08-14, 13:12:30",
     "tweeturl": "https://twitter.com/cibernicola_es/status/1823709283953074517",

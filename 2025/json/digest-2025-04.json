@@ -12,7 +12,20 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 620,
+    "expanded_url": [
+        "https://github.com/Profanatic/ExploitCVE2025"
+    ],
+    "tweetfavorites": 238,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 68,
+    "tweettext": "CVE-2025-31324: An automated exploitation tool for CVE-2025-31324, targeting SAP systems vulnerable to arbitrary file upload via path traversal.\nhttps://t.co/b2PInbsfGM https://t.co/9bibeZMdsy",
+    "tweettime": "2025-04-26, 15:43:51",
+    "tweeturl": "https://twitter.com/cyber_advising/status/1916156276318372288",
+    "username": "cyber_advising"
+}
+{
+    "tweetfavorites": 619,
     "tweetquotes": 6,
     "tweetreplies": 26,
     "tweetretweets": 67,
@@ -92,7 +105,7 @@
     "username": "0xor0ne"
 }
 {
-    "tweetfavorites": 897,
+    "tweetfavorites": 898,
     "tweetquotes": 3,
     "tweetreplies": 15,
     "tweetretweets": 102,

@@ -2,20 +2,20 @@
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
-    "tweetfavorites": 108,
-    "tweetquotes": 5,
-    "tweetreplies": 5,
-    "tweetretweets": 15,
+    "tweetfavorites": 275,
+    "tweetquotes": 9,
+    "tweetreplies": 14,
+    "tweetretweets": 32,
     "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
     "tweettime": "2025-12-06, 03:54:16",
     "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",
     "username": "cramforce"
 }
 {
-    "tweetfavorites": 1262,
-    "tweetquotes": 22,
-    "tweetreplies": 24,
-    "tweetretweets": 133,
+    "tweetfavorites": 1532,
+    "tweetquotes": 23,
+    "tweetreplies": 32,
+    "tweetretweets": 164,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -25,34 +25,47 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 66,
+    "tweetfavorites": 71,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 28,
+    "tweetretweets": 31,
     "tweettext": "🛡️We added Meta React Server Components remote code execution vulnerability CVE-2025-55182 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/QozFI5xbes",
     "tweettime": "2025-12-05, 15:21:34",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1996963163682566406",
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 418,
-    "tweetquotes": 3,
+    "tweetfavorites": 442,
+    "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 53,
+    "tweetretweets": 54,
     "tweettext": "#CVE-2025-55182: RSC RCE — It functions as an in-memory webshell backdoor, offering a significantly more covert foothold. Please verify this again on your own endpoint. https://t.co/aOic5sCu94",
     "tweettime": "2025-12-05, 07:15:27",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996840827897954542",
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 419,
+    "tweetfavorites": 424,
     "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 48,
+    "tweetretweets": 49,
     "tweettext": "#CVE-2025-55182: RSC RCE — Full Unicode encoding can bypass certain WAFs that lack proper decoding or normalization capabilities. Please verify this on your end. https://t.co/70Ovx7lu5g",
     "tweettime": "2025-12-05, 03:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996788502386909539",
     "username": "pyn3rd"
+}
+{
+    "expanded_url": [
+        "https://gist.github.com/maple3142/48bc9393f45e068cf8c90ab865c0f5f3"
+    ],
+    "tweetfavorites": 83,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 22,
+    "tweettext": "🚨Latest Update🚨RCE in React Server Components(CVE-2025-55182)\nAn insecure deserialization flaw in RSC's Flight data handling enables unauthenticated RCE. It affects default create-next-app projects and the latest version of Dify.\n🔥PoC: https://t.co/qEhjjfVqZE\n\n⚠️Note: Only https://t.co/B9WAnmlBev",
+    "tweettime": "2025-12-05, 03:27:36",
+    "tweeturl": "https://twitter.com/zoomeye_team/status/1996783486737539282",
+    "username": "zoomeye_team"
 }
 {
     "tweetfavorites": 173,
@@ -88,10 +101,10 @@
     "expanded_url": [
         "https://github.com/moscovium-mc/Tor-0day-JavaScript-Exploit"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 7,
+    "tweetretweets": 12,
     "tweettext": "GitHub - moscovium-mc/Tor-0day-JavaScript-Exploit: CVE-2024-9680 A UAF (use-after-free) vulnerability in Animation timelines allowed to achieve code execution in the content process in order to be potentially deanonymized.  https://t.co/KISRg0nVwr",
     "tweettime": "2025-12-04, 09:54:16",
     "tweeturl": "https://twitter.com/akaclandestine/status/1996518405323534761",
@@ -121,10 +134,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 430,
+    "tweetfavorites": 431,
     "tweetquotes": 1,
     "tweetreplies": 4,
-    "tweetretweets": 50,
+    "tweetretweets": 51,
     "tweettext": "#CVE-2025-55182: Remote Code Execution in React Server Components via a Unicode-based WAF bypass https://t.co/JEVDKrd9nz",
     "tweettime": "2025-12-04, 04:10:36",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996431921736519886",
@@ -211,10 +224,10 @@
     "expanded_url": [
         "https://www.synacktiv.com/en/publications/paint-it-blue-attacking-the-bluetooth-stack"
     ],
-    "tweetfavorites": 93,
+    "tweetfavorites": 99,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 10,
+    "tweetretweets": 13,
     "tweettext": "Analysis and exploitation of an integer underflow in the Bluetooth GATT protocol (CVE-2023-40129)\n\nhttps://t.co/NfIMAlnxN6\n\nCredits Mehdi Talbi and Etienne Helluy-Lafont (@Synacktiv)\n\n#infosec #Android https://t.co/XyYPQjCJbb",
     "tweettime": "2025-12-03, 16:01:58",
     "tweeturl": "https://twitter.com/0xor0ne/status/1996248552842961247",
