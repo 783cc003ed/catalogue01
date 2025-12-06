@@ -1,18 +1,54 @@
 {
-    "tweetfavorites": 56,
+    "expanded_url": [
+        "https://hackerone.com/vercel_platform_protection"
+    ],
+    "tweetfavorites": 108,
+    "tweetquotes": 5,
+    "tweetreplies": 5,
+    "tweetretweets": 15,
+    "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
+    "tweettime": "2025-12-06, 03:54:16",
+    "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",
+    "username": "cramforce"
+}
+{
+    "tweetfavorites": 1262,
+    "tweetquotes": 22,
+    "tweetreplies": 24,
+    "tweetretweets": 133,
+    "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
+    "tweettime": "2025-12-05, 16:12:42",
+    "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
+    "username": "securityshell"
+}
+{
+    "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 66,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 8,
+    "tweetreplies": 2,
+    "tweetretweets": 28,
+    "tweettext": "🛡️We added Meta React Server Components remote code execution vulnerability CVE-2025-55182 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/QozFI5xbes",
+    "tweettime": "2025-12-05, 15:21:34",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1996963163682566406",
+    "username": "USCERT_gov"
+}
+{
+    "tweetfavorites": 418,
+    "tweetquotes": 3,
+    "tweetreplies": 5,
+    "tweetretweets": 53,
     "tweettext": "#CVE-2025-55182: RSC RCE — It functions as an in-memory webshell backdoor, offering a significantly more covert foothold. Please verify this again on your own endpoint. https://t.co/aOic5sCu94",
     "tweettime": "2025-12-05, 07:15:27",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996840827897954542",
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 165,
-    "tweetquotes": 2,
-    "tweetreplies": 0,
-    "tweetretweets": 25,
+    "tweetfavorites": 419,
+    "tweetquotes": 4,
+    "tweetreplies": 5,
+    "tweetretweets": 48,
     "tweettext": "#CVE-2025-55182: RSC RCE — Full Unicode encoding can bypass certain WAFs that lack proper decoding or normalization capabilities. Please verify this on your end. https://t.co/70Ovx7lu5g",
     "tweettime": "2025-12-05, 03:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996788502386909539",
@@ -75,20 +111,20 @@
     "expanded_url": [
         "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html"
     ],
-    "tweetfavorites": 142,
+    "tweetfavorites": 148,
     "tweetquotes": 6,
     "tweetreplies": 4,
-    "tweetretweets": 41,
+    "tweetretweets": 44,
     "tweettext": "🚨 UPDATE: The RCE flaw in React Server Components now has a name — React2shell (CVE-2025-55182).\n\nExperts warn it’s a “master key” exploit — attackers can run any code just by sending a crafted HTTP request.\n\nNo login needed.\n\n🔗 Read: https://t.co/9pG1bxMlCw",
     "tweettime": "2025-12-04, 04:36:34",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1996438456747307153",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 393,
+    "tweetfavorites": 430,
     "tweetquotes": 1,
     "tweetreplies": 4,
-    "tweetretweets": 46,
+    "tweetretweets": 50,
     "tweettext": "#CVE-2025-55182: Remote Code Execution in React Server Components via a Unicode-based WAF bypass https://t.co/JEVDKrd9nz",
     "tweettime": "2025-12-04, 04:10:36",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996431921736519886",
@@ -126,10 +162,10 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 40,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 15,
+    "tweetretweets": 17,
     "tweettext": "🛡️We added OpenPLC ScadaBR vulnerability CVE-2021-26828 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/cUimHeit92",
     "tweettime": "2025-12-03, 19:08:38",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1996295531610390588",
@@ -139,10 +175,10 @@
     "expanded_url": [
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
-    "tweetfavorites": 476,
+    "tweetfavorites": 491,
     "tweetquotes": 6,
     "tweetreplies": 8,
-    "tweetretweets": 57,
+    "tweetretweets": 59,
     "tweettext": "CVE-2025-55182 RCE in React Server Components 💀\n\nhttps://t.co/tKKyd9WljA https://t.co/DEt9nHFC1f",
     "tweettime": "2025-12-03, 18:46:37",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1996289988078510464",
@@ -188,10 +224,10 @@
     "expanded_url": [
         "https://www.securifera.com/blog/2025/12/02/n-able-formerly-solarwinds-msp-windows-software-probe-remote-code-execution-cve-2025-11367/"
     ],
-    "tweetfavorites": 62,
+    "tweetfavorites": 66,
     "tweetquotes": 1,
-    "tweetreplies": 1,
-    "tweetretweets": 17,
+    "tweetreplies": 2,
+    "tweetretweets": 19,
     "tweettext": "Just uncovered and disclosed a .NET Remoting RCE 0day (CVE-2025-11367) in N-able (formerly SolarWinds MSP) Windows Software Probe during a pentest using Reverge. Worth a look. https://t.co/nxGj2GiRdS",
     "tweettime": "2025-12-03, 12:29:42",
     "tweeturl": "https://twitter.com/rwincey/status/1996195135093371334",
@@ -227,10 +263,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 456,
+    "tweetfavorites": 455,
     "tweetquotes": 0,
-    "tweetreplies": 6,
-    "tweetretweets": 155,
+    "tweetreplies": 7,
+    "tweetretweets": 154,
     "tweettext": "🚨 PoC Exploit Released For Outlook 0-Click Remote Code Execution Vulnerability \n\nSource: https://t.co/zpeuGMQuHa\n\nA Proof-of-Concept (PoC) exploit code has been released for a critical remote code execution (RCE) vulnerability in Microsoft Outlook, identified as CVE-2024-21413. https://t.co/GZAl0rTJOp",
     "tweettime": "2025-12-01, 06:21:15",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1995377636772864286",
