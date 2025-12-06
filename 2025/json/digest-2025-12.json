@@ -25,10 +25,10 @@
     "username": "CyberRaiju"
 }
 {
-    "tweetfavorites": 2116,
-    "tweetquotes": 31,
-    "tweetreplies": 39,
-    "tweetretweets": 235,
+    "tweetfavorites": 2294,
+    "tweetquotes": 34,
+    "tweetreplies": 42,
+    "tweetretweets": 256,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -61,20 +61,20 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 497,
+    "tweetfavorites": 513,
     "tweetquotes": 6,
     "tweetreplies": 7,
-    "tweetretweets": 60,
+    "tweetretweets": 61,
     "tweettext": "#CVE-2025-55182: RSC RCE — It functions as an in-memory webshell backdoor, offering a significantly more covert foothold. Please verify this again on your own endpoint. https://t.co/aOic5sCu94",
     "tweettime": "2025-12-05, 07:15:27",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996840827897954542",
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 446,
+    "tweetfavorites": 459,
     "tweetquotes": 4,
     "tweetreplies": 5,
-    "tweetretweets": 51,
+    "tweetretweets": 52,
     "tweettext": "#CVE-2025-55182: RSC RCE — Full Unicode encoding can bypass certain WAFs that lack proper decoding or normalization capabilities. Please verify this on your end. https://t.co/70Ovx7lu5g",
     "tweettime": "2025-12-05, 03:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996788502386909539",
@@ -160,7 +160,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 434,
+    "tweetfavorites": 436,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 52,
