@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
-    "tweetfavorites": 361,
-    "tweetquotes": 10,
-    "tweetreplies": 15,
-    "tweetretweets": 37,
+    "tweetfavorites": 538,
+    "tweetquotes": 18,
+    "tweetreplies": 21,
+    "tweetretweets": 55,
     "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
     "tweettime": "2025-12-06, 03:54:16",
     "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",
@@ -15,20 +15,20 @@
     "expanded_url": [
         "https://react2shell.com/"
     ],
-    "tweetfavorites": 56,
-    "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 5,
+    "tweetfavorites": 87,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 14,
     "tweettext": "CVE-2025-55182 (React2Shell) pre-auth RCE is likely to have a long tail time similar to Log4Shell Log4j injection and Telerik deserialisation vulnerabilities have in the past. This is already being weaponised by threat actors with public POCs available.\n\nhttps://t.co/DbrEsfTSrS https://t.co/y2nNRg7JWj",
     "tweettime": "2025-12-06, 00:29:02",
     "tweeturl": "https://twitter.com/CyberRaiju/status/1997100937744470457",
     "username": "CyberRaiju"
 }
 {
-    "tweetfavorites": 2410,
-    "tweetquotes": 34,
-    "tweetreplies": 44,
-    "tweetretweets": 269,
+    "tweetfavorites": 2493,
+    "tweetquotes": 35,
+    "tweetreplies": 43,
+    "tweetretweets": 281,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -61,20 +61,20 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 525,
+    "tweetfavorites": 569,
     "tweetquotes": 6,
-    "tweetreplies": 7,
-    "tweetretweets": 64,
+    "tweetreplies": 6,
+    "tweetretweets": 69,
     "tweettext": "#CVE-2025-55182: RSC RCE — It functions as an in-memory webshell backdoor, offering a significantly more covert foothold. Please verify this again on your own endpoint. https://t.co/aOic5sCu94",
     "tweettime": "2025-12-05, 07:15:27",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996840827897954542",
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 461,
-    "tweetquotes": 4,
+    "tweetfavorites": 494,
+    "tweetquotes": 5,
     "tweetreplies": 6,
-    "tweetretweets": 53,
+    "tweetretweets": 64,
     "tweettext": "#CVE-2025-55182: RSC RCE — Full Unicode encoding can bypass certain WAFs that lack proper decoding or normalization capabilities. Please verify this on your end. https://t.co/70Ovx7lu5g",
     "tweettime": "2025-12-05, 03:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996788502386909539",
@@ -84,10 +84,10 @@
     "expanded_url": [
         "https://gist.github.com/maple3142/48bc9393f45e068cf8c90ab865c0f5f3"
     ],
-    "tweetfavorites": 89,
-    "tweetquotes": 1,
+    "tweetfavorites": 91,
+    "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 23,
+    "tweetretweets": 24,
     "tweettext": "🚨Latest Update🚨RCE in React Server Components(CVE-2025-55182)\nAn insecure deserialization flaw in RSC's Flight data handling enables unauthenticated RCE. It affects default create-next-app projects and the latest version of Dify.\n🔥PoC: https://t.co/qEhjjfVqZE\n\n⚠️Note: Only https://t.co/B9WAnmlBev",
     "tweettime": "2025-12-05, 03:27:36",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1996783486737539282",
@@ -160,10 +160,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 435,
+    "tweetfavorites": 438,
     "tweetquotes": 1,
     "tweetreplies": 4,
-    "tweetretweets": 52,
+    "tweetretweets": 51,
     "tweettext": "#CVE-2025-55182: Remote Code Execution in React Server Components via a Unicode-based WAF bypass https://t.co/JEVDKrd9nz",
     "tweettime": "2025-12-04, 04:10:36",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996431921736519886",
@@ -289,7 +289,7 @@
     "expanded_url": [
         "https://syst3mfailure.io/rbtree-family-drama/"
     ],
-    "tweetfavorites": 236,
+    "tweetfavorites": 238,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 54,
@@ -305,7 +305,7 @@
     "tweetfavorites": 453,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 154,
+    "tweetretweets": 153,
     "tweettext": "🚨 PoC Exploit Released For Outlook 0-Click Remote Code Execution Vulnerability \n\nSource: https://t.co/zpeuGMQuHa\n\nA Proof-of-Concept (PoC) exploit code has been released for a critical remote code execution (RCE) vulnerability in Microsoft Outlook, identified as CVE-2024-21413. https://t.co/GZAl0rTJOp",
     "tweettime": "2025-12-01, 06:21:15",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1995377636772864286",

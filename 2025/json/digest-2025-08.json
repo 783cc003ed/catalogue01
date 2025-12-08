@@ -180,7 +180,7 @@
     "expanded_url": [
         "https://securityonline.info/linux-kernel-flaw-privilege-escalation-risk-poc-code-available/"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 39,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 9,
@@ -190,7 +190,7 @@
     "username": "the_yellow_fall"
 }
 {
-    "tweetfavorites": 298,
+    "tweetfavorites": 299,
     "tweetquotes": 3,
     "tweetreplies": 2,
     "tweetretweets": 94,
@@ -200,7 +200,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 288,
+    "tweetfavorites": 287,
     "tweetquotes": 5,
     "tweetreplies": 4,
     "tweetretweets": 85,
@@ -239,10 +239,10 @@
     "expanded_url": [
         "https://go.dhs.gov/iwQ"
     ],
-    "tweetfavorites": 262,
+    "tweetfavorites": 261,
     "tweetquotes": 8,
     "tweetreplies": 10,
-    "tweetretweets": 123,
+    "tweetretweets": 122,
     "tweettext": "⚠️MS Exchange server hybrid deployment elevation of privilege vulnerability CVE-2025-53786 could allow a threat actor with admin access to an Exchange server to escalate privileges by exploiting vulnerable hybrid-joined configurations. See guidance 👉 https://t.co/NzTYDGqMMq https://t.co/2Cc6mJBRqs",
     "tweettime": "2025-08-07, 00:27:06",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1953251518359929253",

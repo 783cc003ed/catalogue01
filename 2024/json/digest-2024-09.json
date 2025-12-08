@@ -256,7 +256,7 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 585,
+    "tweetfavorites": 586,
     "tweetquotes": 16,
     "tweetreplies": 8,
     "tweetretweets": 182,
@@ -1628,10 +1628,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/"
     ],
-    "tweetfavorites": 228,
+    "tweetfavorites": 229,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 52,
+    "tweetretweets": 51,
     "tweettext": "Well written blog post on exploiting a Use-after-Free (UaF) in Linux kernel (CVE-2024-0582, io_uring)\n\nhttps://t.co/8eKtsR9t8G\n\nCredits Oriol Castejón (@XI_Research)\n\n#iouring #infosec https://t.co/AyTftwdFRm",
     "tweettime": "2024-09-01, 07:30:01",
     "tweeturl": "https://twitter.com/0xor0ne/status/1830146076742938638",

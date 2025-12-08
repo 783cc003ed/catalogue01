@@ -114,10 +114,10 @@
     "expanded_url": [
         "https://go.dhs.gov/in5"
     ],
-    "tweetfavorites": 473,
+    "tweetfavorites": 472,
     "tweetquotes": 10,
     "tweetreplies": 23,
-    "tweetretweets": 182,
+    "tweetretweets": 181,
     "tweettext": "CVE-2025-59287 is being actively exploited. Update Windows Server Update Services now to reduce risk of a threat actor achieving remote code execution with system privileges. See our Alert for details ➡️ https://t.co/t5xpDWjSWS #Cybersecurity https://t.co/tOHXCgFbyk",
     "tweettime": "2025-10-24, 20:33:41",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1981821419219493365",
@@ -127,10 +127,10 @@
     "expanded_url": [
         "https://www.huntress.com/blog/exploitation-of-windows-server-update-services-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 521,
+    "tweetfavorites": 520,
     "tweetquotes": 12,
     "tweetreplies": 6,
-    "tweetretweets": 83,
+    "tweetretweets": 82,
     "tweettext": "hey hi hello\n\nwe've been seeing summa dat WSUS sussy baka CVE-2025-59287 remote code execution exploitation\n\nwindows servers with WSUS ports 8530 &amp; 8531 exposed ( -- why?) getting point-and-shoot popped from a POC already public\n\nhttps://t.co/tDCpFvlNVe\n\nprolly limited ITW https://t.co/DJPvXgpE28",
     "tweettime": "2025-10-24, 16:33:07",
     "tweeturl": "https://twitter.com/_JohnHammond/status/1981760877645672496",
