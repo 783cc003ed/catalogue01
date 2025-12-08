@@ -25,10 +25,10 @@
     "username": "CyberRaiju"
 }
 {
-    "tweetfavorites": 3353,
+    "tweetfavorites": 3359,
     "tweetquotes": 61,
     "tweetreplies": 59,
-    "tweetretweets": 396,
+    "tweetretweets": 399,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -38,10 +38,10 @@
     "expanded_url": [
         "https://labs.watchtowr.com/yikes-watchguard-fireware-os-ikev2-out-of-bounds-write-cve-2025-9242"
     ],
-    "tweetfavorites": 137,
+    "tweetfavorites": 204,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 19,
+    "tweetreplies": 4,
+    "tweetretweets": 37,
     "tweettext": "pre-auth RCE (CVE-2025-9242) stack buffer overflow vulnerability in WatchGuard Fireware OS\n\nhttps://t.co/8gUrO3steS\n\nCredits @watchtowrcyber\n\n#infosec https://t.co/v4ft0JravA",
     "tweettime": "2025-12-05, 16:02:05",
     "tweeturl": "https://twitter.com/0xor0ne/status/1996973360450768999",
@@ -51,17 +51,17 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 82,
+    "tweetfavorites": 94,
     "tweetquotes": 1,
-    "tweetreplies": 2,
-    "tweetretweets": 37,
+    "tweetreplies": 4,
+    "tweetretweets": 43,
     "tweettext": "🛡️We added Meta React Server Components remote code execution vulnerability CVE-2025-55182 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/QozFI5xbes",
     "tweettime": "2025-12-05, 15:21:34",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1996963163682566406",
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 569,
+    "tweetfavorites": 568,
     "tweetquotes": 6,
     "tweetreplies": 6,
     "tweetretweets": 69,
@@ -71,7 +71,7 @@
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 500,
+    "tweetfavorites": 501,
     "tweetquotes": 5,
     "tweetreplies": 6,
     "tweetretweets": 64,
@@ -94,10 +94,10 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 173,
+    "tweetfavorites": 347,
     "tweetquotes": 0,
-    "tweetreplies": 10,
-    "tweetretweets": 14,
+    "tweetreplies": 15,
+    "tweetretweets": 28,
     "tweettext": "CVE-2025-55182这个漏洞，公网可以直接打，已经成功了，成功率不低！👿\n​真正利用场景下，是没有回显结果的，直接RCE就行了😎\n目前测试来看还能打Dify😱 https://t.co/KV6j8vLOAj",
     "tweettime": "2025-12-05, 02:46:26",
     "tweeturl": "https://twitter.com/AabyssZG/status/1996773126433366225",
@@ -137,10 +137,10 @@
     "username": "akaclandestine"
 }
 {
-    "tweetfavorites": 53,
-    "tweetquotes": 1,
+    "tweetfavorites": 91,
+    "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 10,
+    "tweetretweets": 17,
     "tweettext": "Heads-up on CVE-2025-55182: a CVSS 10.0 pre-auth RCE affecting React Server Components 19.x. Can be triggered through malicious HTTP payloads, so there will be chaos when a POC comes out.\n\nOn that note...there are many fake POCs circulating. Be careful what you run. A POC is not https://t.co/q9RjLzw7lO",
     "tweettime": "2025-12-04, 07:44:19",
     "tweeturl": "https://twitter.com/Kostastsale/status/1996485704218521920",

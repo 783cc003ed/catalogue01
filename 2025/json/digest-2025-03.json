@@ -87,10 +87,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 350,
+    "tweetfavorites": 349,
     "tweetquotes": 7,
     "tweetreplies": 5,
-    "tweetretweets": 146,
+    "tweetretweets": 145,
     "tweettext": "🚨 Apache Tomcat Under Attack.\n\nHackers are actively exploiting CVE-2025-24813 just 30 hours after disclosure.\n\n🔹 RCE &amp; Info Disclosure Risk\n🔹 No Authentication Needed\n🔹 Attackers Upload &amp; Execute Malicious Files\n\n⚠️ Delaying could mean backdoors, config tampering &amp; full https://t.co/IIJWCB6tN2",
     "tweettime": "2025-03-17, 17:09:21",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1901682279937929632",
