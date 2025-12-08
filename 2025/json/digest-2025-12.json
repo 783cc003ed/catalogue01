@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 294,
+    "tweetquotes": 1,
+    "tweetreplies": 7,
+    "tweetretweets": 43,
+    "tweettext": "#CVE-2025-55182 React4Shell — How about Akamai WAF? Even more straightforward: toss a giant junk blob upfront and the parser taps out on sight. Bloody brute force. Go verify it on your own endpoint—again and again.\n\nFigure 1:  shows the payload validity check.\nFigure 2: https://t.co/pAzxoWNPCj",
+    "tweettime": "2025-12-06, 17:59:27",
+    "tweeturl": "https://twitter.com/pyn3rd/status/1997365282344677807",
+    "username": "pyn3rd"
+}
+{
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
@@ -10,6 +20,20 @@
     "tweettime": "2025-12-06, 03:54:16",
     "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",
     "username": "cramforce"
+}
+{
+    "expanded_url": [
+        "https://u1f383.github.io/slides/talks/2025_Hexacon-Deja_Vu_in_Linux_io_uring_Breaking_Memory_Sharing_Again_After_Generations_of_Fixes.pdf",
+        "https://www.youtube.com/watch?v=Ry4eOgLCo90"
+    ],
+    "tweetfavorites": 116,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "Déjà Vu in Linux io_uring\n\nTalk by @u1f383 about exploiting CVE-2025-21836 — a race condition that leads to a use-after-free in the io_uring subsystem.\n\nSlides: https://t.co/IsW8Nx8kyA\nVideo: https://t.co/kZ21botEkB",
+    "tweettime": "2025-12-06, 00:44:42",
+    "tweeturl": "https://twitter.com/linkersec/status/1997104881392378302",
+    "username": "linkersec"
 }
 {
     "expanded_url": [
@@ -25,10 +49,20 @@
     "username": "CyberRaiju"
 }
 {
-    "tweetfavorites": 3359,
-    "tweetquotes": 61,
+    "tweetfavorites": 86,
+    "tweetquotes": 1,
+    "tweetreplies": 8,
+    "tweetretweets": 7,
+    "tweettext": "Well, thanks to @leak_ix I have a list of 60.000 React webapps vulnerable to CVE-2025-55182 (#RCE in #React).\nAnd thanks to my friend @Chocapikk_ we have a working #PoC for it as well.\nThat's a lot of power at my hands now...\nLet's see what we can legally breach 😈 https://t.co/sv27bIJuDx",
+    "tweettime": "2025-12-05, 17:01:54",
+    "tweeturl": "https://twitter.com/Gi7w0rm/status/1996988412650233964",
+    "username": "Gi7w0rm"
+}
+{
+    "tweetfavorites": 3374,
+    "tweetquotes": 62,
     "tweetreplies": 59,
-    "tweetretweets": 399,
+    "tweetretweets": 400,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -51,7 +85,7 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 94,
+    "tweetfavorites": 95,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 43,
@@ -61,7 +95,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 568,
+    "tweetfavorites": 567,
     "tweetquotes": 6,
     "tweetreplies": 6,
     "tweetretweets": 69,
@@ -201,10 +235,10 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 40,
+    "tweetfavorites": 39,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 15,
     "tweettext": "🛡️We added OpenPLC ScadaBR vulnerability CVE-2021-26828 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/cUimHeit92",
     "tweettime": "2025-12-03, 19:08:38",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1996295531610390588",

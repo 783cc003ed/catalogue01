@@ -243,6 +243,19 @@
 }
 {
     "expanded_url": [
+        "https://ti.qianxin.com/blog/articles/a-brief-analysis-of-chrome-0day-cve-2025-6554-en/"
+    ],
+    "tweetfavorites": 104,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "A Brief Analysis of Chrome's CVE-2025-6554 in the Wild\nhttps://t.co/LtZBLuN0hJ",
+    "tweettime": "2025-10-17, 08:40:41",
+    "tweeturl": "https://twitter.com/kmkz_security/status/1979105272468561996",
+    "username": "kmkz_security"
+}
+{
+    "expanded_url": [
         "http://hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22Sambar%20Server%22&timestamp=1760584199331",
         "http://product.name"
