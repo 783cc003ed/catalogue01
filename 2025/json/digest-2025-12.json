@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
-    "tweetfavorites": 538,
-    "tweetquotes": 18,
-    "tweetreplies": 21,
-    "tweetretweets": 55,
+    "tweetfavorites": 783,
+    "tweetquotes": 24,
+    "tweetreplies": 30,
+    "tweetretweets": 74,
     "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
     "tweettime": "2025-12-06, 03:54:16",
     "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",
@@ -25,10 +25,10 @@
     "username": "CyberRaiju"
 }
 {
-    "tweetfavorites": 2493,
-    "tweetquotes": 35,
-    "tweetreplies": 43,
-    "tweetretweets": 281,
+    "tweetfavorites": 3339,
+    "tweetquotes": 59,
+    "tweetreplies": 58,
+    "tweetretweets": 394,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -71,7 +71,7 @@
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 494,
+    "tweetfavorites": 499,
     "tweetquotes": 5,
     "tweetreplies": 6,
     "tweetretweets": 64,
@@ -127,10 +127,10 @@
     "expanded_url": [
         "https://github.com/moscovium-mc/Tor-0day-JavaScript-Exploit"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 39,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 13,
     "tweettext": "GitHub - moscovium-mc/Tor-0day-JavaScript-Exploit: CVE-2024-9680 A UAF (use-after-free) vulnerability in Animation timelines allowed to achieve code execution in the content process in order to be potentially deanonymized.  https://t.co/KISRg0nVwr",
     "tweettime": "2025-12-04, 09:54:16",
     "tweeturl": "https://twitter.com/akaclandestine/status/1996518405323534761",
@@ -204,7 +204,7 @@
     "tweetfavorites": 40,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 17,
+    "tweetretweets": 16,
     "tweettext": "🛡️We added OpenPLC ScadaBR vulnerability CVE-2021-26828 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/cUimHeit92",
     "tweettime": "2025-12-03, 19:08:38",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1996295531610390588",
@@ -214,10 +214,10 @@
     "expanded_url": [
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
-    "tweetfavorites": 494,
+    "tweetfavorites": 497,
     "tweetquotes": 6,
-    "tweetreplies": 8,
-    "tweetretweets": 60,
+    "tweetreplies": 9,
+    "tweetretweets": 61,
     "tweettext": "CVE-2025-55182 RCE in React Server Components 💀\n\nhttps://t.co/tKKyd9WljA https://t.co/DEt9nHFC1f",
     "tweettime": "2025-12-03, 18:46:37",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1996289988078510464",
@@ -276,7 +276,7 @@
     "expanded_url": [
         "https://github.com/SpiralBL0CK/CVE-2023-1206-CVE-2025-40040-CVE-2024-49882/tree/main"
     ],
-    "tweetfavorites": 100,
+    "tweetfavorites": 103,
     "tweetquotes": 0,
     "tweetreplies": 3,
     "tweetretweets": 18,

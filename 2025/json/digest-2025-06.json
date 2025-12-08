@@ -180,7 +180,7 @@
     "tweetfavorites": 376,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 77,
+    "tweetretweets": 76,
     "tweettext": "🚨 CVE-2025-49113 – Authenticated RCE in Roundcube via unsafe deserialization in upload.php (via @FearsOff)\n\nPoC-based detection template and full details in comments. https://t.co/W1MG1NbeqM",
     "tweettime": "2025-06-05, 23:50:01",
     "tweeturl": "https://twitter.com/pdnuclei/status/1930774139696009268",

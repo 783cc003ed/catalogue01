@@ -174,10 +174,10 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 416,
+    "tweetfavorites": 415,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 152,
+    "tweetretweets": 150,
     "tweettext": "🚨 Hackers are using a fixed Windows bug (CVE-2025-59287) to spread ShadowPad malware through WSUS servers.\n\nThey used normal Windows tools like curl and certutil to install it — a method seen before in Chinese hacking groups.\n\nSystems patched too late may have already been https://t.co/kbi5AK8XfV",
     "tweettime": "2025-11-24, 07:20:28",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1992855824818176223",
@@ -658,7 +658,7 @@
     "tweetfavorites": 90,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 31,
+    "tweetretweets": 30,
     "tweettext": "🚨 Active Exploitation of Cisco ISE RCE Vulnerability (CVE-2025-20337) 🚨\n\nA critical unauthenticated RCE flaw in Cisco ISE and ISE-PIC is now being exploited. Amazon researchers observed an APT targeting a previously undocumented ISE endpoint.\n\n 🔴 Affects ISE/ISE-PIC versions https://t.co/7PyHgYwvW5",
     "tweettime": "2025-11-13, 22:45:32",
     "tweeturl": "https://twitter.com/censysio/status/1989102359679549574",
@@ -681,7 +681,7 @@
     "expanded_url": [
         "https://zhero-web-sec.github.io/research-and-things/astro-framework-and-standards-weaponization"
     ],
-    "tweetfavorites": 343,
+    "tweetfavorites": 345,
     "tweetquotes": 4,
     "tweetreplies": 12,
     "tweetretweets": 83,
@@ -766,7 +766,7 @@
     "tweetfavorites": 235,
     "tweetquotes": 3,
     "tweetreplies": 12,
-    "tweetretweets": 87,
+    "tweetretweets": 86,
     "tweettext": "🚨 Microsoft just fixed a Windows flaw hackers are already exploiting in the wild.\n\nThe kernel bug (CVE-2025-62215) lets anyone with local access gain full control — and it’s being linked with other attacks for complete takeover.\n\nInstall the latest patches now ↓ https://t.co/LA8LKon8iX",
     "tweettime": "2025-11-12, 10:23:54",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1988553332118736943",

@@ -59,7 +59,7 @@
     "tweetfavorites": 499,
     "tweetquotes": 4,
     "tweetreplies": 8,
-    "tweetretweets": 147,
+    "tweetretweets": 145,
     "tweettext": "We now have a (draft) @metasploit exploit module in the pull queue for the recent Microsoft SharePoint Server unauthenticated RCE zero-day (CVE-2025-53770), based on the in-the-wild exploit published a few days ago. Check it out here: https://t.co/J4EG2Wk5f5 https://t.co/euFcbFAeKi",
     "tweettime": "2025-07-23, 13:18:00",
     "tweeturl": "https://twitter.com/stephenfewer/status/1948009705881608612",

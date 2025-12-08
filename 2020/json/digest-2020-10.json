@@ -357,7 +357,7 @@
     "tweetfavorites": 484,
     "tweetquotes": 7,
     "tweetreplies": 5,
-    "tweetretweets": 226,
+    "tweetretweets": 225,
     "tweettext": "Please make sure to patch your Windows systems. CVE-2020-16938 is no joke. Hard Drive encryption does break this attack, however, most servers and virtual machines don't have HDD encryption enabled. Patch! #ntdsdit op: @jonasLyk https://t.co/PmEfMIRMKg",
     "tweettime": "2020-10-15, 20:28:48",
     "tweeturl": "https://twitter.com/mubix/status/1316838457881300992",
