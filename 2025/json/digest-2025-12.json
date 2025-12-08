@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
-    "tweetfavorites": 783,
+    "tweetfavorites": 788,
     "tweetquotes": 24,
     "tweetreplies": 30,
-    "tweetretweets": 74,
+    "tweetretweets": 75,
     "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
     "tweettime": "2025-12-06, 03:54:16",
     "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",
@@ -25,10 +25,10 @@
     "username": "CyberRaiju"
 }
 {
-    "tweetfavorites": 3339,
-    "tweetquotes": 59,
-    "tweetreplies": 58,
-    "tweetretweets": 394,
+    "tweetfavorites": 3353,
+    "tweetquotes": 61,
+    "tweetreplies": 59,
+    "tweetretweets": 396,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -71,7 +71,7 @@
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 499,
+    "tweetfavorites": 500,
     "tweetquotes": 5,
     "tweetreplies": 6,
     "tweetretweets": 64,
@@ -104,10 +104,10 @@
     "username": "AabyssZG"
 }
 {
-    "tweetfavorites": 325,
+    "tweetfavorites": 636,
     "tweetquotes": 0,
-    "tweetreplies": 3,
-    "tweetretweets": 45,
+    "tweetreplies": 8,
+    "tweetretweets": 78,
     "tweettext": "An unauthenticated RCE PoC for the React vuln (CVE-2025-55182) is now public. Confirmed to work on my test setup (Next.js 16.0.6 with React 19.2.0).",
     "tweettime": "2025-12-04, 21:45:54",
     "tweeturl": "https://twitter.com/stephenfewer/status/1996697494525264219",

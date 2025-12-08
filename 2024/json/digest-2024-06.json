@@ -239,10 +239,10 @@
     "expanded_url": [
         "https://www.netspi.com/blog/technical-blog/red-team-operations/microsoft-outlook-remote-code-execution-cve-2024-21378/"
     ],
-    "tweetfavorites": 267,
-    "tweetquotes": 4,
+    "tweetfavorites": 260,
+    "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 89,
+    "tweetretweets": 88,
     "tweettext": "CVE-2024-21378 — Remote Code Execution in Microsoft Outlook https://t.co/CMJrt9399E",
     "tweettime": "2024-06-17, 14:18:30",
     "tweeturl": "https://twitter.com/Dinosn/status/1802707396072022240",
@@ -398,10 +398,10 @@
     "expanded_url": [
         "https://github.com/varwara/CVE-2024-26229"
     ],
-    "tweetfavorites": 627,
+    "tweetfavorites": 626,
     "tweetquotes": 3,
     "tweetreplies": 8,
-    "tweetretweets": 178,
+    "tweetretweets": 179,
     "tweettext": "CVE-2024-26229: An attacker who successfully exploited this vulnerability could gain SYSTEM privileges.\n\nPoC\nhttps://t.co/19siS5H6E6 https://t.co/UabSUIkGO2",
     "tweettime": "2024-06-11, 12:02:59",
     "tweeturl": "https://twitter.com/cyber_advising/status/1800498964980269148",
