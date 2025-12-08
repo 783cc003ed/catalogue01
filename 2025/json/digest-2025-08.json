@@ -118,7 +118,7 @@
     "expanded_url": [
         "https://blog.ret2.io/2025/06/11/pwn2own-soho-2024-sonos-exploit/"
     ],
-    "tweetfavorites": 97,
+    "tweetfavorites": 98,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 22,
@@ -213,10 +213,10 @@
     "expanded_url": [
         "https://thehackernews.com/2025/08/microsoft-discloses-exchange-server.html"
     ],
-    "tweetfavorites": 367,
+    "tweetfavorites": 366,
     "tweetquotes": 3,
     "tweetreplies": 5,
-    "tweetretweets": 136,
+    "tweetretweets": 135,
     "tweettext": "🚨 Microsoft just warned: CVE-2025-53786 lets hackers silently escalate privileges from on-prem Exchange to the cloud.\n\nNo logs. No easy traces.\nYour hybrid setup could be a silent breach vector.\n\nFull details + fixes → https://t.co/ljhWvYH2rz",
     "tweettime": "2025-08-07, 12:58:43",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1953440669281775933",
