@@ -1,18 +1,18 @@
 {
-    "tweetfavorites": 1765,
-    "tweetquotes": 38,
-    "tweetreplies": 157,
-    "tweetretweets": 133,
+    "tweetfavorites": 2451,
+    "tweetquotes": 46,
+    "tweetreplies": 203,
+    "tweetretweets": 182,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
     "tweettime": "2025-12-08, 20:15:31",
     "tweeturl": "https://twitter.com/gothburz/status/1998124302177112470",
     "username": "gothburz"
 }
 {
-    "tweetfavorites": 233,
+    "tweetfavorites": 251,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 58,
+    "tweetretweets": 64,
     "tweettext": "🚨 A new CVSS 10.0 vulnerability (CVE-2025-55182) in RSC and the Flight protocol enables unauthenticated remote code execution. If you run RSC or a framework that ships it, this is a patch-now moment. In our latest OffSec blog, we break down how the exploit works, what’s",
     "tweettime": "2025-12-08, 13:01:09",
     "tweeturl": "https://twitter.com/offsectraining/status/1998014991186698643",
@@ -27,6 +27,21 @@
     "tweettime": "2025-12-08, 09:17:49",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1997958786284392654",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://slcyber.io/research-center/high-fidelity-detection-mechanism-for-rsc-next-js-rce-cve-2025-55182-cve-2025-66478",
+        "https://github.com/assetnote/react2shell-scanner",
+        "https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-"
+    ],
+    "tweetfavorites": 480,
+    "tweetquotes": 2,
+    "tweetreplies": 14,
+    "tweetretweets": 51,
+    "tweettext": "During my research on CVE-2025-55182 and CVE-2025-66478. I managed to find 4 instances to be vulnerable. The thing that helped me most:\n\nResearch link - https://t.co/gNZK6Bf6vX\n\nAssetnote Checker - https://t.co/hsc3MANsy3\n\nIf you want to increase impact - https://t.co/gakt6kCGum https://t.co/pBEDvG1tnB",
+    "tweettime": "2025-12-07, 13:35:35",
+    "tweeturl": "https://twitter.com/hunter0x1/status/1997661266379178325",
+    "username": "hunter0x1"
 }
 {
     "tweetfavorites": 315,
@@ -89,10 +104,10 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3468,
-    "tweetquotes": 67,
+    "tweetfavorites": 3473,
+    "tweetquotes": 68,
     "tweetreplies": 62,
-    "tweetretweets": 412,
+    "tweetretweets": 414,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -239,10 +254,10 @@
         "https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js",
         "https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182"
     ],
-    "tweetfavorites": 84,
-    "tweetquotes": 0,
+    "tweetfavorites": 154,
+    "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetretweets": 49,
     "tweettext": "🚨Alert🚨:Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote\nCode Execution(CVE-2025-55182&amp;CVE-2025-66478)\n🔥PoC :\nhttps://t.co/RG8kg59GfU\nhttps://t.co/fg5Qdjrzy1\n🧐Detail :\nhttps://t.co/MyU68wMNZ7\n-----------------------------------------\nCVE-2025-55182(CVSS https://t.co/1vhUBYiQqY",
     "tweettime": "2025-12-04, 02:31:43",
     "tweeturl": "https://twitter.com/HunterMapping/status/1996407037672968257",
@@ -314,7 +329,7 @@
     "expanded_url": [
         "https://www.synacktiv.com/en/publications/paint-it-blue-attacking-the-bluetooth-stack"
     ],
-    "tweetfavorites": 99,
+    "tweetfavorites": 100,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 13,

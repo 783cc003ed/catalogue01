@@ -91,6 +91,16 @@
     "username": "TheHackersNews"
 }
 {
+    "tweetfavorites": 33,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 4,
+    "tweettext": "🚨🚨Exploits for CVE-2025-5821 (CVSS 9.8) in the WordPress Case Theme User Plugin are ACTIVE IN THE WILD!\nUnauthenticated attackers can bypass authentication and hijack ANY account, including admin, just by knowing an email address.\n\nSearch by vul.cve https://t.co/W3I4QZ9DvH",
+    "tweettime": "2025-09-16, 03:36:20",
+    "tweeturl": "https://twitter.com/zoomeye_team/status/1967794655921324496",
+    "username": "zoomeye_team"
+}
+{
     "expanded_url": [
         "https://github.com/xairy/kernel-exploits/tree/master/CVE-2025-38494"
     ],
@@ -156,7 +166,7 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 446,
+    "tweetfavorites": 445,
     "tweetquotes": 0,
     "tweetreplies": 6,
     "tweetretweets": 44,
