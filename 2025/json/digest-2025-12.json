@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 89,
-    "tweetquotes": 1,
+    "tweetfavorites": 105,
+    "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 26,
+    "tweetretweets": 27,
     "tweettext": "⚠️ Hackers are exploiting a bug in the Sneeit Framework plugin (CVE-2025-6389) to run code on servers and create admin accounts on WordPress sites.\n\n⚠️ Separately, a flaw in ICTBroadcast (CVE-2025-2611) lets attackers use the BROADCAST cookie for unauthenticated remote shell https://t.co/VpAkRoIq0l",
     "tweettime": "2025-12-08, 09:17:49",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1997958786284392654",
@@ -22,10 +22,10 @@
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
-    "tweetfavorites": 791,
-    "tweetquotes": 24,
-    "tweetreplies": 30,
-    "tweetretweets": 75,
+    "tweetfavorites": 819,
+    "tweetquotes": 25,
+    "tweetreplies": 31,
+    "tweetretweets": 76,
     "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
     "tweettime": "2025-12-06, 03:54:16",
     "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",
@@ -39,7 +39,7 @@
     "tweetfavorites": 116,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetretweets": 21,
     "tweettext": "Déjà Vu in Linux io_uring\n\nTalk by @u1f383 about exploiting CVE-2025-21836 — a race condition that leads to a use-after-free in the io_uring subsystem.\n\nSlides: https://t.co/IsW8Nx8kyA\nVideo: https://t.co/kZ21botEkB",
     "tweettime": "2025-12-06, 00:44:42",
     "tweeturl": "https://twitter.com/linkersec/status/1997104881392378302",
@@ -69,7 +69,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3398,
+    "tweetfavorites": 3408,
     "tweetquotes": 63,
     "tweetreplies": 60,
     "tweetretweets": 404,
@@ -105,7 +105,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 568,
+    "tweetfavorites": 567,
     "tweetquotes": 6,
     "tweetreplies": 6,
     "tweetretweets": 69,
@@ -118,7 +118,7 @@
     "tweetfavorites": 501,
     "tweetquotes": 5,
     "tweetreplies": 6,
-    "tweetretweets": 64,
+    "tweetretweets": 65,
     "tweettext": "#CVE-2025-55182: RSC RCE — Full Unicode encoding can bypass certain WAFs that lack proper decoding or normalization capabilities. Please verify this on your end. https://t.co/70Ovx7lu5g",
     "tweettime": "2025-12-05, 03:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996788502386909539",
@@ -204,7 +204,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 438,
+    "tweetfavorites": 439,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 51,
@@ -245,10 +245,10 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 39,
+    "tweetfavorites": 40,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 15,
+    "tweetretweets": 17,
     "tweettext": "🛡️We added OpenPLC ScadaBR vulnerability CVE-2021-26828 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/cUimHeit92",
     "tweettime": "2025-12-03, 19:08:38",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1996295531610390588",
@@ -259,7 +259,7 @@
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
     "tweetfavorites": 497,
-    "tweetquotes": 6,
+    "tweetquotes": 7,
     "tweetreplies": 9,
     "tweetretweets": 61,
     "tweettext": "CVE-2025-55182 RCE in React Server Components 💀\n\nhttps://t.co/tKKyd9WljA https://t.co/DEt9nHFC1f",
@@ -349,7 +349,7 @@
     "tweetfavorites": 453,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 153,
+    "tweetretweets": 155,
     "tweettext": "🚨 PoC Exploit Released For Outlook 0-Click Remote Code Execution Vulnerability \n\nSource: https://t.co/zpeuGMQuHa\n\nA Proof-of-Concept (PoC) exploit code has been released for a critical remote code execution (RCE) vulnerability in Microsoft Outlook, identified as CVE-2024-21413. https://t.co/GZAl0rTJOp",
     "tweettime": "2025-12-01, 06:21:15",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1995377636772864286",

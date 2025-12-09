@@ -26,6 +26,16 @@
     "username": "HunterMapping"
 }
 {
+    "tweetfavorites": 919,
+    "tweetquotes": 25,
+    "tweetreplies": 23,
+    "tweetretweets": 185,
+    "tweettext": "I wrote-up how I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation. Link to the blog post below 👇",
+    "tweettime": "2025-05-22, 10:42:49",
+    "tweeturl": "https://twitter.com/seanhn/status/1925502601757372656",
+    "username": "seanhn"
+}
+{
     "expanded_url": [
         "https://ow.ly/8TT250VWuV3"
     ],
@@ -60,6 +70,16 @@
     "tweettime": "2025-05-19, 10:40:03",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1924414745865605150",
     "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 90,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "Every security researcher knows the dance: satisfy every parameter, only to hit a 403 at the finish line.\n\nIn our analysis of CVE-2025-4427 and 4428, that same flow led to unauthenticated RCE in Ivanti EPMM. Within 24 hours, we published a Nuclei template to detect the issue. https://t.co/WrqWw9fJNX",
+    "tweettime": "2025-05-15, 22:08:02",
+    "tweeturl": "https://twitter.com/pdiscoveryio/status/1923138331061387641",
+    "username": "pdiscoveryio"
 }
 {
     "tweetfavorites": 236,

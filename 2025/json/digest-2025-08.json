@@ -200,7 +200,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 287,
+    "tweetfavorites": 286,
     "tweetquotes": 5,
     "tweetreplies": 4,
     "tweetretweets": 85,
@@ -242,7 +242,7 @@
     "tweetfavorites": 261,
     "tweetquotes": 8,
     "tweetreplies": 10,
-    "tweetretweets": 122,
+    "tweetretweets": 123,
     "tweettext": "⚠️MS Exchange server hybrid deployment elevation of privilege vulnerability CVE-2025-53786 could allow a threat actor with admin access to an Exchange server to escalate privileges by exploiting vulnerable hybrid-joined configurations. See guidance 👉 https://t.co/NzTYDGqMMq https://t.co/2Cc6mJBRqs",
     "tweettime": "2025-08-07, 00:27:06",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1953251518359929253",
@@ -252,10 +252,10 @@
     "expanded_url": [
         "https://syst3mfailure.io/rbtree-family-drama/"
     ],
-    "tweetfavorites": 262,
+    "tweetfavorites": 261,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 64,
+    "tweetretweets": 63,
     "tweettext": "Exploiting a Use-After-Free vulnerability in the Linux network packet schedule (CVE-2025-38001) (@cor_ctf)\n\nhttps://t.co/t0C6wWlyWI\n\n#infosec #Linux https://t.co/r8cBRApYaX",
     "tweettime": "2025-08-04, 15:00:59",
     "tweeturl": "https://twitter.com/0xor0ne/status/1952384274272858557",

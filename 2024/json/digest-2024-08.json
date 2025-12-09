@@ -448,10 +448,10 @@
     "expanded_url": [
         "https://ssd-disclosure.com/ssd-advisory-google-chrome-rce/"
     ],
-    "tweetfavorites": 46,
+    "tweetfavorites": 58,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 12,
+    "tweetretweets": 14,
     "tweettext": "This can be considered a variant bug of CVE-2024-2887 discovered by Manfred Paul and presented in Vancouver 2024.\nGoogle Chrome Type Confusion Remote command execution\nhttps://t.co/4Ckt2pfX71",
     "tweettime": "2024-08-26, 05:40:26",
     "tweeturl": "https://twitter.com/momika233/status/1827944171711451402",
@@ -863,7 +863,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063"
     ],
-    "tweetfavorites": 940,
+    "tweetfavorites": 938,
     "tweetquotes": 22,
     "tweetreplies": 27,
     "tweetretweets": 304,
