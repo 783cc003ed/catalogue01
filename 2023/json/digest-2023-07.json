@@ -146,7 +146,7 @@
     "tweetfavorites": 301,
     "tweetquotes": 2,
     "tweetreplies": 5,
-    "tweetretweets": 101,
+    "tweetretweets": 102,
     "tweettext": "Our security research team has published Part 2 of our analysis for CVE-2023-3519 (Citrix Pre-Auth RCE). This writeup includes the correct vulnerable endpoint that is exploitable without any special configuration:\n\nhttps://t.co/1FeabjAIgG https://t.co/dw0S8q2OAK",
     "tweettime": "2023-07-24, 11:25:21",
     "tweeturl": "https://twitter.com/infosec_au/status/1683438211471933440",

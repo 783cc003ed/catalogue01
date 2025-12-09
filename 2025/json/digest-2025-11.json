@@ -259,7 +259,7 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 554,
+    "tweetfavorites": 550,
     "tweetquotes": 14,
     "tweetreplies": 12,
     "tweetretweets": 164,
@@ -648,7 +648,7 @@
     "tweetfavorites": 56,
     "tweetquotes": 8,
     "tweetreplies": 4,
-    "tweetretweets": 40,
+    "tweetretweets": 39,
     "tweettext": "🚨Cyberattack Alert ‼️\n\n🇯🇵Japan - SATO\n\nCl0p hacking group claims to have breached SATO.\n\nN.B: A zero-day vulnerability in Oracle E-Business Suite is under active exploitation by the Cl0p ransomware group. The vulnerability is tracked as CVE-2025-61882 and has a CVSS base score https://t.co/KzMWjav2XM",
     "tweettime": "2025-11-14, 05:38:59",
     "tweeturl": "https://twitter.com/H4ckManac/status/1989206405711298705",
@@ -844,7 +844,7 @@
     "tweetfavorites": 98,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 42,
+    "tweetretweets": 41,
     "tweettext": "Unit 42 uncovered LANDFALL, previously unknown Android spyware that exploited a zero-day vulnerability CVE-2025-21042 in Samsung Android’s image processing library. This is the first public analysis of the campaign and the implant. Read more: https://t.co/Tv6rnxRklp https://t.co/IJv9iOtROG",
     "tweettime": "2025-11-07, 16:00:57",
     "tweeturl": "https://twitter.com/Unit42_Intel/status/1986826213067739184",

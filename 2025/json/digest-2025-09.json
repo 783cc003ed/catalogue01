@@ -2,7 +2,7 @@
     "tweetfavorites": 287,
     "tweetquotes": 2,
     "tweetreplies": 5,
-    "tweetretweets": 68,
+    "tweetretweets": 67,
     "tweettext": "🕵‍♂WhatsApp: 0-Click RCE por DNG malicioso\n• Investigadores publicaron PoC que combina dos vulnerabilidades (CVE-2025-55177 y CVE-2025-43300) permitiendo ejecución remota sin interacción en iOS/macOS/iPadOS.\n• El exploit se entrega mediante un archivo DNG malformado enviado https://t.co/8R4K31yvYA",
     "tweettime": "2025-09-30, 18:22:54",
     "tweeturl": "https://twitter.com/HackingTeam1/status/1973091197301211525",
@@ -22,7 +22,20 @@
     "username": "0xor0ne"
 }
 {
-    "tweetfavorites": 37,
+    "expanded_url": [
+        "https://bit.ly/483O1eC"
+    ],
+    "tweetfavorites": 139,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 53,
+    "tweettext": "Three vulnerabilities (CVE-2025-20333, CVE-2025-20362, CVE-2025-20363) affecting Cisco ASA and FTD software are under active exploitation. We discuss the lifecycle of zero-day vulnerabilities and the phenomenon of “patch-or-perish.”  https://t.co/zTcQCf8hFP https://t.co/sPFvBWmHjL",
+    "tweettime": "2025-09-26, 20:41:08",
+    "tweeturl": "https://twitter.com/Unit42_Intel/status/1971676433241010365",
+    "username": "Unit42_Intel"
+}
+{
+    "tweetfavorites": 36,
     "tweetquotes": 0,
     "tweetreplies": 5,
     "tweetretweets": 2,
@@ -81,10 +94,10 @@
     "expanded_url": [
         "https://github.com/xairy/kernel-exploits/tree/master/CVE-2025-38494"
     ],
-    "tweetfavorites": 510,
+    "tweetfavorites": 508,
     "tweetquotes": 5,
     "tweetreplies": 5,
-    "tweetretweets": 81,
+    "tweetretweets": 80,
     "tweettext": "Wrote a trigger for CVE-2025-38494/5 (an integer underflow in the HID subsystem) that leaks 64 KB of OOB memory over USB.\n\nStill works on Pixels and Ubuntus (but the bug is fixed in stable kernels).\n\nhttps://t.co/4IvvqcVs4Q https://t.co/BDzfspHViO",
     "tweettime": "2025-09-11, 15:37:58",
     "tweeturl": "https://twitter.com/andreyknvl/status/1966164323488981155",
@@ -146,7 +159,7 @@
     "tweetfavorites": 446,
     "tweetquotes": 0,
     "tweetreplies": 6,
-    "tweetretweets": 43,
+    "tweetretweets": 44,
     "tweettext": "Google paid out $250,000 bounty for this bug. That's how it's done.\n\nA bug in Chromium's Mojo component (CVE-2025-4609) allowed for a full sandbox escape. 🤯\n\nA malicious renderer could basically trick the browser into handing over privileged process handles. Congrats to the https://t.co/VuihqvRLfv",
     "tweettime": "2025-09-01, 14:30:00",
     "tweeturl": "https://twitter.com/payloadartist/status/1962523339563659618",

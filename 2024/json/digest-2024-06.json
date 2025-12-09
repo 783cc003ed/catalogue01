@@ -301,10 +301,10 @@
     "expanded_url": [
         "https://sector7.computest.nl/post/2024-06-cve-2024-20693-windows-cached-code-signature-manipulation/"
     ],
-    "tweetfavorites": 298,
+    "tweetfavorites": 287,
     "tweetquotes": 4,
-    "tweetreplies": 6,
-    "tweetretweets": 95,
+    "tweetreplies": 5,
+    "tweetretweets": 88,
     "tweettext": "We've published our writeup of CVE-2024-20693, a vulnerability in Windows that allowed spoofing the code signature of binaries by placing them on an SMB share. This research originally was about something different, but we ran into a signature check...\n\nhttps://t.co/NXpMN4DNQz https://t.co/jhVoCPiVRO",
     "tweettime": "2024-06-14, 11:43:47",
     "tweeturl": "https://twitter.com/sector7_nl/status/1801581297023713487",
@@ -398,7 +398,7 @@
     "expanded_url": [
         "https://github.com/varwara/CVE-2024-26229"
     ],
-    "tweetfavorites": 626,
+    "tweetfavorites": 627,
     "tweetquotes": 3,
     "tweetreplies": 8,
     "tweetretweets": 179,
