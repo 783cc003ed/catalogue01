@@ -108,9 +108,9 @@
     "username": "hd3s5"
 }
 {
-    "tweetfavorites": 1624,
+    "tweetfavorites": 1623,
     "tweetquotes": 27,
-    "tweetreplies": 24,
+    "tweetreplies": 23,
     "tweetretweets": 341,
     "tweettext": "We found a Remote Code Execution (RCE) vulnerability in @Ollama - one of the most popular AI inference projects on GitHub. Here is everything you need to know about #Probllama (CVE-2024-37032) 🧵👇 https://t.co/DcYmrwisPC",
     "tweettime": "2024-06-24, 15:27:50",

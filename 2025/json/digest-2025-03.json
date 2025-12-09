@@ -12,10 +12,10 @@
     "username": "Dinosn"
 }
 {
-    "tweetfavorites": 915,
+    "tweetfavorites": 914,
     "tweetquotes": 6,
     "tweetreplies": 14,
-    "tweetretweets": 214,
+    "tweetretweets": 212,
     "tweettext": "Our team has just successfully reproduced the IngressNightmare vulnerability (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974) and created a custom exploit achieving RCE.\n\nIt's a Pre-Auth RCE affecting Ingress NGINX that allows complete cluster takeover. We'll https://t.co/eifX4Ykl9S",
     "tweettime": "2025-03-26, 16:52:20",
     "tweeturl": "https://twitter.com/carlos_crowsec/status/1904939487224050162",
@@ -113,7 +113,7 @@
     "tweetfavorites": 270,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 127,
+    "tweetretweets": 125,
     "tweettext": "🚨 Apple just patched a zero-day under active attack!\n\nCVE-2025-24201 lets hackers escape the WebKit sandbox—Apple calls the exploit “extremely sophisticated.”\n\nTargeted? Unknown\nDuration? Unknown\n\nBut if you use an iPhone, Mac, or Vision Pro—update NOW.\n\n📲 Details: https://t.co/m1y1jYuQr0",
     "tweettime": "2025-03-12, 04:04:11",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1899672744742002959",
@@ -133,7 +133,7 @@
     "expanded_url": [
         "https://github.com/0xZipp0/CVE-2022-24500"
     ],
-    "tweetfavorites": 595,
+    "tweetfavorites": 594,
     "tweetquotes": 3,
     "tweetreplies": 5,
     "tweetretweets": 157,

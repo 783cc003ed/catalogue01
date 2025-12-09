@@ -68,6 +68,19 @@
     "username": "The_Cyber_News"
 }
 {
+    "expanded_url": [
+        "https://github.com/rxerium/CVE-2025-10035"
+    ],
+    "tweetfavorites": 328,
+    "tweetquotes": 1,
+    "tweetreplies": 3,
+    "tweetretweets": 66,
+    "tweettext": "🚨 Critical — CVE-2025-10035 (CVSS 10.0): Fortra has disclosed a deserialization flaw in the GoAnywhere MFT License Servlet that can allow remote command-injection. \n\nI've created a #nuclei script to detect vulnerable instances at scale:\nhttps://t.co/tgEvGaFAJh https://t.co/ntCcupdXSN",
+    "tweettime": "2025-09-20, 08:36:50",
+    "tweeturl": "https://twitter.com/hakrishi/status/1969319831225684319",
+    "username": "hakrishi"
+}
+{
     "tweetfavorites": 221,
     "tweetquotes": 3,
     "tweetreplies": 7,

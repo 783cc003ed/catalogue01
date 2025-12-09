@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 2451,
-    "tweetquotes": 46,
-    "tweetreplies": 203,
-    "tweetretweets": 182,
+    "tweetfavorites": 2756,
+    "tweetquotes": 49,
+    "tweetreplies": 221,
+    "tweetretweets": 207,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
     "tweettime": "2025-12-08, 20:15:31",
     "tweeturl": "https://twitter.com/gothburz/status/1998124302177112470",
@@ -27,6 +27,19 @@
     "tweettime": "2025-12-08, 09:17:49",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1997958786284392654",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://cybersecuritynews.com/react2shell-rce-vulnerability/"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 27,
+    "tweettext": "🚨 React2Shell RCE Vulnerability Exploited in the Wild to Execute Malicious Code \n\nSource: https://t.co/EqIo5TTZy5\n\nA critical remote code execution vulnerability, tracked as CVE-2025-55182 and dubbed “React2Shell,” is now under active exploitation in the wild.\n\nA largely https://t.co/bMEN8Jc1Ij",
+    "tweettime": "2025-12-08, 06:08:14",
+    "tweeturl": "https://twitter.com/The_Cyber_News/status/1997911075933843913",
+    "username": "The_Cyber_News"
 }
 {
     "expanded_url": [
@@ -57,10 +70,10 @@
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
-    "tweetfavorites": 827,
+    "tweetfavorites": 828,
     "tweetquotes": 25,
     "tweetreplies": 31,
-    "tweetretweets": 76,
+    "tweetretweets": 77,
     "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
     "tweettime": "2025-12-06, 03:54:16",
     "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",
@@ -104,7 +117,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3473,
+    "tweetfavorites": 3474,
     "tweetquotes": 68,
     "tweetreplies": 62,
     "tweetretweets": 414,
@@ -140,10 +153,10 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 568,
+    "tweetfavorites": 579,
     "tweetquotes": 6,
     "tweetreplies": 6,
-    "tweetretweets": 68,
+    "tweetretweets": 69,
     "tweettext": "#CVE-2025-55182: RSC RCE — It functions as an in-memory webshell backdoor, offering a significantly more covert foothold. Please verify this again on your own endpoint. https://t.co/aOic5sCu94",
     "tweettime": "2025-12-05, 07:15:27",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996840827897954542",
@@ -303,10 +316,10 @@
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 239,
-    "tweetquotes": 13,
+    "tweetfavorites": 264,
+    "tweetquotes": 16,
     "tweetreplies": 3,
-    "tweetretweets": 67,
+    "tweetretweets": 71,
     "tweettext": "🚨 CRITICAL RCE ALERT: React &amp; Next.js Vulnerability ↓\n\nCritical remote code execution (RCE) vulnerabilities have been published affecting the React 19 ecosystem and Next.js.\n\nThese vulnerabilities (CVE-2025-55182 &amp; CVE-2025-66478) reside in the React Server Components (RSC) https://t.co/DwIAjXJ0h2",
     "tweettime": "2025-12-03, 16:13:47",
     "tweeturl": "https://twitter.com/wiz_io/status/1996251528512893026",
