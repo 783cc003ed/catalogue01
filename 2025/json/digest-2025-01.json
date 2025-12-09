@@ -176,6 +176,19 @@
 }
 {
     "expanded_url": [
+        "https://securityonline.info/poc-exploit-released-for-zero-click-vulnerability-cve-2024-49112-in-windows/"
+    ],
+    "tweetfavorites": 403,
+    "tweetquotes": 2,
+    "tweetreplies": 0,
+    "tweetretweets": 152,
+    "tweettext": "PoC Exploit Released for Zero-Click Vulnerability CVE-2024-49112 in Windows https://t.co/jDppxeBODM",
+    "tweettime": "2025-01-02, 05:08:18",
+    "tweeturl": "https://twitter.com/Dinosn/status/1874684119768264835",
+    "username": "Dinosn"
+}
+{
+    "expanded_url": [
         "https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42"
     ],
     "tweetfavorites": 146,

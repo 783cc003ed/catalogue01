@@ -48,10 +48,10 @@
     "username": "oct0xor"
 }
 {
-    "tweetfavorites": 285,
+    "tweetfavorites": 284,
     "tweetquotes": 3,
     "tweetreplies": 5,
-    "tweetretweets": 89,
+    "tweetretweets": 88,
     "tweettext": "So, rose87168 said he used CVE-2021-35587 to compromise the login[.]us2[.]oraclecloud[.]com server. Oracle then denied the attack and remains silent but quickly disconnected the server from the Internet (probably to investigate? also unknown). \n\nThe problem is that Oracle has, at https://t.co/uLu4itUBD5",
     "tweettime": "2025-03-24, 22:37:57",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1904301690519532019",

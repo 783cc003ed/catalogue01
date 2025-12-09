@@ -88,7 +88,7 @@
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 279,
+    "tweetfavorites": 280,
     "tweetquotes": 3,
     "tweetreplies": 3,
     "tweetretweets": 94,
@@ -98,10 +98,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 525,
+    "tweetfavorites": 524,
     "tweetquotes": 6,
     "tweetreplies": 10,
-    "tweetretweets": 95,
+    "tweetretweets": 94,
     "tweettext": "CVE-2024-49112 🚨🔥\n\nCritical RCE vulnerability affecting the Windows LDAP Client with a CVSS score of 9.8. This vulnerability could allow an unprivileged attacker to run arbitrary code on an Active Directory Server by sending a specialized set of LDAP calls to the server.",
     "tweettime": "2024-12-14, 04:59:27",
     "tweeturl": "https://twitter.com/7h3h4ckv157/status/1867796522915536927",

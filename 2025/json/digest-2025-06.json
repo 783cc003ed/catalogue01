@@ -213,7 +213,7 @@
     "tweetfavorites": 312,
     "tweetquotes": 47,
     "tweetreplies": 18,
-    "tweetretweets": 138,
+    "tweetretweets": 136,
     "tweettext": "🚨 WARNING: Another Chrome zero-day exploited in the wild.\n\nGoogle just patched CVE-2025-5419 — a high-severity V8 engine flaw found by its own Threat Analysis Group.\n\nAttackers are already using it via malicious HTML pages.\n\nUpdate Chrome NOW | Read: https://t.co/OgAGwctPpI",
     "tweettime": "2025-06-03, 04:23:14",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1929755732033130852",
