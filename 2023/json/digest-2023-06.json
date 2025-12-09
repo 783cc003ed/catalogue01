@@ -1016,10 +1016,10 @@
     "username": "MsftSecIntel"
 }
 {
-    "tweetfavorites": 766,
+    "tweetfavorites": 765,
     "tweetquotes": 42,
     "tweetreplies": 8,
-    "tweetretweets": 379,
+    "tweetretweets": 378,
     "tweettext": "Microsoft is attributing attacks exploiting the CVE-2023-34362 MOVEit Transfer 0-day vulnerability to Lace Tempest, known for ransomware operations &amp; running the Clop extortion site. The threat actor has used similar vulnerabilities in the past to steal data &amp; extort victims. https://t.co/q73WtGru7j",
     "tweettime": "2023-06-05, 01:55:13",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1665537730946670595",

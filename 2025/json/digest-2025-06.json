@@ -90,6 +90,19 @@
 }
 {
     "expanded_url": [
+        "https://horizon3.ai/attack-research/attack-blogs/cve-2025-34508-another-file-sharing-application-another-path-traversal/"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 29,
+    "tweettext": "Checkout our new deep dive on CVE-2025-34508 -- a path traversal vulnerability in #ZendTo.\nhttps://t.co/2NY1YdWiks https://t.co/TQcctHUups",
+    "tweettime": "2025-06-17, 13:47:02",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1934971046425178448",
+    "username": "Horizon3Attack"
+}
+{
+    "expanded_url": [
         "https://github.com/verylazytech/CVE-2025-3248"
     ],
     "tweetfavorites": 90,

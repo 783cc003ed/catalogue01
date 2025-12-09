@@ -25,7 +25,7 @@
     "username": "cyber_advising"
 }
 {
-    "tweetfavorites": 619,
+    "tweetfavorites": 620,
     "tweetquotes": 6,
     "tweetreplies": 26,
     "tweetretweets": 67,
@@ -134,7 +134,7 @@
     "tweetfavorites": 777,
     "tweetquotes": 13,
     "tweetreplies": 32,
-    "tweetretweets": 149,
+    "tweetretweets": 148,
     "tweettext": "new paper on a vulnerability discovered in React Router, resulting from a collaboration with @inzo____ that led to CVE-2025-31137;\n\nReact Router and the Remix'ed path\n\nhttps://t.co/LMiqASwZnf\n\ngood reading https://t.co/VgVIDrILH2",
     "tweettime": "2025-04-02, 20:16:04",
     "tweeturl": "https://twitter.com/blank_cold/status/1907527472423354859",

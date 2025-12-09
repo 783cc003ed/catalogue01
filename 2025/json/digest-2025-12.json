@@ -9,10 +9,10 @@
     "username": "gothburz"
 }
 {
-    "tweetfavorites": 220,
+    "tweetfavorites": 233,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 54,
+    "tweetretweets": 58,
     "tweettext": "🚨 A new CVSS 10.0 vulnerability (CVE-2025-55182) in RSC and the Flight protocol enables unauthenticated remote code execution. If you run RSC or a framework that ships it, this is a patch-now moment. In our latest OffSec blog, we break down how the exploit works, what’s",
     "tweettime": "2025-12-08, 13:01:09",
     "tweeturl": "https://twitter.com/offsectraining/status/1998014991186698643",
@@ -42,7 +42,7 @@
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
-    "tweetfavorites": 824,
+    "tweetfavorites": 827,
     "tweetquotes": 25,
     "tweetreplies": 31,
     "tweetretweets": 76,
@@ -89,10 +89,10 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3464,
+    "tweetfavorites": 3468,
     "tweetquotes": 67,
     "tweetreplies": 62,
-    "tweetretweets": 411,
+    "tweetretweets": 412,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -118,7 +118,7 @@
     "tweetfavorites": 95,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 45,
+    "tweetretweets": 44,
     "tweettext": "🛡️We added Meta React Server Components remote code execution vulnerability CVE-2025-55182 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/QozFI5xbes",
     "tweettime": "2025-12-05, 15:21:34",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1996963163682566406",
@@ -327,10 +327,10 @@
     "expanded_url": [
         "https://www.securifera.com/blog/2025/12/02/n-able-formerly-solarwinds-msp-windows-software-probe-remote-code-execution-cve-2025-11367/"
     ],
-    "tweetfavorites": 67,
+    "tweetfavorites": 68,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 19,
+    "tweetretweets": 20,
     "tweettext": "Just uncovered and disclosed a .NET Remoting RCE 0day (CVE-2025-11367) in N-able (formerly SolarWinds MSP) Windows Software Probe during a pentest using Reverge. Worth a look. https://t.co/nxGj2GiRdS",
     "tweettime": "2025-12-03, 12:29:42",
     "tweeturl": "https://twitter.com/rwincey/status/1996195135093371334",

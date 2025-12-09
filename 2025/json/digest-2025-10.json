@@ -273,7 +273,7 @@
     "tweetfavorites": 230,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 68,
+    "tweetretweets": 67,
     "tweettext": "🚨🚨CVE-2025-10230 (CVSS 10): Critical Samba RCE Flaw\nUnauthenticated RCE in Samba AD DCs: improper input sanitization in the WINS server lets attackers inject commands via \"wins hook\".\n\nZoomEye Dork👉banner=\"Samba\"\nOver 265.8k vulnerable instances.\nZoomEye Link: https://t.co/4qEETREmBx",
     "tweettime": "2025-10-16, 10:05:56",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1978764337092468972",
