@@ -1262,7 +1262,7 @@
     "expanded_url": [
         "https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/"
     ],
-    "tweetfavorites": 186,
+    "tweetfavorites": 185,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 39,
@@ -1655,11 +1655,11 @@
         "https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md",
         "https://github.com/marcnewlin/hi_my_name_is_keyboard/blob/main/slides/hi_my_name_is_keyboard.pdf"
     ],
-    "tweetfavorites": 477,
-    "tweetquotes": 11,
-    "tweetreplies": 7,
-    "tweetretweets": 152,
-    "tweettext": "Bluetooth vulnerabilities in Android, Linux, macOS, iOS and Windows can be exploited to pair an emulated bluetooth keyboard and inject keystrokes without user confirmation : https://t.co/lekyzS2abA  credits @marcnewlin \n\nSlides : https://t.co/RS6gZHxiIJ \n\nCVE's : \n\nCVE-2024-0230… https://t.co/ugUME8JMrf",
+    "tweetfavorites": 458,
+    "tweetquotes": 9,
+    "tweetreplies": 6,
+    "tweetretweets": 146,
+    "tweettext": "Bluetooth vulnerabilities in Android, Linux, macOS, iOS and Windows can be exploited to pair an emulated bluetooth keyboard and inject keystrokes without user confirmation : https://t.co/lekyzS2abA  credits @marcnewlin \n\nSlides : https://t.co/RS6gZHxiIJ \n\nCVE's : \n\nCVE-2024-0230 https://t.co/ugUME8JMrf",
     "tweettime": "2024-03-03, 13:17:43",
     "tweeturl": "https://twitter.com/binitamshah/status/1764278987444924869",
     "username": "binitamshah"

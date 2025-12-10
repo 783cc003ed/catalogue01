@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62468"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 58,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 1,
+    "tweetretweets": 3,
     "tweettext": "This month MSRC fixed my Windows Defender info leak vulnerability CVE-2025-62468, but all acknowledgments are incorrect. First, I provided a working exploit, so it’s not “exploitable unlikely.”😅https://t.co/TXNxu8XPjU https://t.co/ZjF7redx9w",
     "tweettime": "2025-12-10, 05:02:56",
     "tweeturl": "https://twitter.com/KeyZ3r0/status/1998619416444190747",
@@ -15,7 +15,7 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 33,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 19,
@@ -39,33 +39,46 @@
 }
 {
     "expanded_url": [
+        "https://r-7.co/4rN6TWo"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 14,
+    "tweettext": "🚨 Earlier this year, Rapid7 researchers discovered a stored cross-site scripting (XSS) vuln. in #Ivanti Endpoint Manager (EPM) – affecting versions 2024 SU4 and below.\n\nNow patched, CVE-2025-10573 has been assigned a CVSS score of 9.6. More in our blog: https://t.co/FtdADlLLee https://t.co/5OFzb4pu9x",
+    "tweettime": "2025-12-09, 17:31:55",
+    "tweeturl": "https://twitter.com/rapid7/status/1998445516087074912",
+    "username": "rapid7"
+}
+{
+    "expanded_url": [
         "http://Cal.com",
         "https://gist.github.com/N3mes1s/727c2d8f90858bc96853ad427b6ff532"
     ],
-    "tweetfavorites": 40,
+    "tweetfavorites": 49,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 6,
+    "tweetretweets": 7,
     "tweettext": "CVE-2025-66489 - https://t.co/nBfOsZLCJp Authentication Bypass via TOTP Code Presence\n\nAnother #Pruva reproduction for today\n\nhttps://t.co/x28Stcilan\n\ncurl -X POST http://localhost:3001/api/auth/callback/credentials \\\n  -H \"Content-Type: application/x-www-form-urlencoded\" \\\n  -b https://t.co/1ofp0PtUZe",
     "tweettime": "2025-12-09, 17:13:15",
     "tweeturl": "https://twitter.com/gN3mes1s/status/1998440820056223844",
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 359,
+    "tweetfavorites": 373,
     "tweetquotes": 1,
-    "tweetreplies": 7,
-    "tweetretweets": 75,
+    "tweetreplies": 8,
+    "tweetretweets": 78,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 2884,
-    "tweetquotes": 52,
-    "tweetreplies": 227,
-    "tweetretweets": 215,
+    "tweetfavorites": 3492,
+    "tweetquotes": 63,
+    "tweetreplies": 254,
+    "tweetretweets": 264,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
     "tweettime": "2025-12-08, 20:15:31",
     "tweeturl": "https://twitter.com/gothburz/status/1998124302177112470",
@@ -136,7 +149,7 @@
     "tweetfavorites": 320,
     "tweetquotes": 1,
     "tweetreplies": 7,
-    "tweetretweets": 48,
+    "tweetretweets": 49,
     "tweettext": "#CVE-2025-55182 React4Shell — How about Akamai WAF? Even more straightforward: toss a giant junk blob upfront and the parser taps out on sight. Bloody brute force. Go verify it on your own endpoint—again and again.\n\nFigure 1:  shows the payload validity check.\nFigure 2: https://t.co/pAzxoWNPCj",
     "tweettime": "2025-12-06, 17:59:27",
     "tweeturl": "https://twitter.com/pyn3rd/status/1997365282344677807",
@@ -196,7 +209,7 @@
     "tweetfavorites": 3489,
     "tweetquotes": 69,
     "tweetreplies": 61,
-    "tweetretweets": 417,
+    "tweetretweets": 418,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",

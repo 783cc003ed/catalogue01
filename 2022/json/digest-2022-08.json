@@ -565,10 +565,10 @@
     "expanded_url": [
         "https://www.volexity.com/blog/2022/08/10/mass-exploitation-of-unauthenticated-zimbra-rce-cve-2022-27925/"
     ],
-    "tweetfavorites": 99,
+    "tweetfavorites": 89,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 46,
+    "tweetretweets": 40,
     "tweettext": "We caught another zero-day in the wild (CVE-2022-37042)! This time it was an authentication bypass that was used to facilitate remote code execution via CVE-2022-27925 on Zimbra mail servers around the world. Check out the @Volexity blog on it! https://t.co/I5zLLHj6t1",
     "tweettime": "2022-08-11, 14:26:18",
     "tweeturl": "https://twitter.com/stevenadair/status/1557735162418380800",
