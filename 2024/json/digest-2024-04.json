@@ -145,7 +145,7 @@
     "tweetfavorites": 596,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 204,
+    "tweetretweets": 203,
     "tweettext": "PoC Exploit Released for 0-day Windows Kernel \nof Privilege Vulnerability (CVE-2024-21338) : https://t.co/vBcaCQ9MSi\n\nhttps://t.co/vHofGL819e\n\nDetails : https://t.co/ngV9GWaYDU https://t.co/FP2Wf6WT7I",
     "tweettime": "2024-04-17, 08:46:32",
     "tweeturl": "https://twitter.com/binitamshah/status/1780518191929897042",
@@ -286,10 +286,10 @@
         "https://bazaar.abuse.ch/sample/3de2a4392b8715bad070b2ae12243f166ead37830f7c6d24e778985927f9caac/",
         "https://volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/"
     ],
-    "tweetfavorites": 328,
+    "tweetfavorites": 320,
     "tweetquotes": 2,
     "tweetreplies": 7,
-    "tweetretweets": 130,
+    "tweetretweets": 124,
     "tweettext": "#UPSTYLE backdoor targeting GlobalProtect VPN devices via CVE-2024-3400 in 3 images/stages 🔥 #0day \n[+] https://t.co/DSdt5OldLo \n\nAll technical details in the blogs of: \n+ Volexity (#UTA0218): https://t.co/jt7DVfsgCs\n+ Unit 42 (Operation #MidnightEclipse): https://t.co/LsuN2WesJp",
     "tweettime": "2024-04-12, 22:59:44",
     "tweeturl": "https://twitter.com/1ZRR4H/status/1778920968078975262",
@@ -368,7 +368,7 @@
     "username": "wvuuuuuuuuuuuuu"
 }
 {
-    "tweetfavorites": 139,
+    "tweetfavorites": 140,
     "tweetquotes": 0,
     "tweetreplies": 7,
     "tweetretweets": 17,
@@ -435,7 +435,7 @@
     "tweetfavorites": 1594,
     "tweetquotes": 9,
     "tweetreplies": 17,
-    "tweetretweets": 427,
+    "tweetretweets": 428,
     "tweettext": "CVE-2024-1086 (Local Privilege Escalation) \n-\nWhile the xz backdoor was all over the place, this incredible exploit seemed to \"slip\" by!\n-\nThis is working on most Linux kernels from 5.14 to v6.6\n-\nRepo: https://t.co/C9wmPd7LuS\n-\nCreator: @notselwyn https://t.co/MUpTPau8Tz",
     "tweettime": "2024-04-06, 14:23:51",
     "tweeturl": "https://twitter.com/0dayCTF/status/1776616816460050891",

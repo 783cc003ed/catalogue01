@@ -28,7 +28,7 @@
     "tweetfavorites": 172,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 54,
+    "tweetretweets": 53,
     "tweettext": "🚨#WSUS CVE-2025-59287 #exploit found.\nPowerShell PoC that downloads ysoserial, crafts a BinaryFormatter blob, and brags about “RCE when you open the WSUS console.”\n\nwsus-rce.ps1➡️693745cff2bef06c58f6af649969cd9c\n\n#DFIR #ThreatHunting https://t.co/IoJVjzeeCW",
     "tweettime": "2025-10-29, 09:21:22",
     "tweeturl": "https://twitter.com/ShanHolo/status/1983464163151347782",
@@ -75,7 +75,7 @@
     "username": "Netlas_io"
 }
 {
-    "tweetfavorites": 306,
+    "tweetfavorites": 307,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 83,
@@ -127,7 +127,7 @@
     "expanded_url": [
         "https://www.huntress.com/blog/exploitation-of-windows-server-update-services-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 519,
+    "tweetfavorites": 520,
     "tweetquotes": 12,
     "tweetreplies": 6,
     "tweetretweets": 82,

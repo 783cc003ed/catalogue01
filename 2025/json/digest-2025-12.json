@@ -1,8 +1,61 @@
 {
-    "tweetfavorites": 339,
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62468"
+    ],
+    "tweetfavorites": 31,
     "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 1,
+    "tweettext": "This month MSRC fixed my Windows Defender info leak vulnerability CVE-2025-62468, but all acknowledgments are incorrect. First, I provided a working exploit, so it’s not “exploitable unlikely.”😅https://t.co/TXNxu8XPjU https://t.co/ZjF7redx9w",
+    "tweettime": "2025-12-10, 05:02:56",
+    "tweeturl": "https://twitter.com/KeyZ3r0/status/1998619416444190747",
+    "username": "KeyZ3r0"
+}
+{
+    "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 19,
+    "tweettext": "🛡️ We added RARLAB WinRAR path traversal vulnerability CVE-2025-6218 &amp; Microsoft Windows use after free vulnerability CVE-2025-62221 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. https://t.co/YICJDnTmdQ",
+    "tweettime": "2025-12-09, 19:11:24",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1998470555670810643",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
+        "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-62567"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 6,
+    "tweettext": "Myself and @HackyBoiiiii  were credited with CVE-2025-62567 in Hyper-V! Submitted as a DOS, but fun nonetheless to root cause!\n\nhttps://t.co/mPxWijA9Xg",
+    "tweettime": "2025-12-09, 18:51:15",
+    "tweeturl": "https://twitter.com/33y0re/status/1998465481485734222",
+    "username": "33y0re"
+}
+{
+    "expanded_url": [
+        "http://Cal.com",
+        "https://gist.github.com/N3mes1s/727c2d8f90858bc96853ad427b6ff532"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "CVE-2025-66489 - https://t.co/nBfOsZLCJp Authentication Bypass via TOTP Code Presence\n\nAnother #Pruva reproduction for today\n\nhttps://t.co/x28Stcilan\n\ncurl -X POST http://localhost:3001/api/auth/callback/credentials \\\n  -H \"Content-Type: application/x-www-form-urlencoded\" \\\n  -b https://t.co/1ofp0PtUZe",
+    "tweettime": "2025-12-09, 17:13:15",
+    "tweeturl": "https://twitter.com/gN3mes1s/status/1998440820056223844",
+    "username": "gN3mes1s"
+}
+{
+    "tweetfavorites": 359,
+    "tweetquotes": 1,
     "tweetreplies": 7,
-    "tweetretweets": 73,
+    "tweetretweets": 75,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
@@ -19,6 +72,19 @@
     "username": "gothburz"
 }
 {
+    "expanded_url": [
+        "https://objective-see.org/blog/blog_0x83.html"
+    ],
+    "tweetfavorites": 51,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 12,
+    "tweettext": "🔥 New (guest) blog just dropped!\n\n“When Good /bins Go Bad: A Remote Pre-Auth Overflow in LLDB’s debugserver”\nhttps://t.co/GtQJuWseLO\n\nMahalo to Nathan (@calysteon) for detailing his discovery of this bug, which has since been patched by Apple as CVE-2025-43504 🙏🏽",
+    "tweettime": "2025-12-08, 19:52:35",
+    "tweeturl": "https://twitter.com/objective_see/status/1998118531213533683",
+    "username": "objective_see"
+}
+{
     "tweetfavorites": 251,
     "tweetquotes": 2,
     "tweetreplies": 3,
@@ -29,10 +95,10 @@
     "username": "offsectraining"
 }
 {
-    "tweetfavorites": 170,
+    "tweetfavorites": 191,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 53,
+    "tweetretweets": 57,
     "tweettext": "⚠️ Hackers are exploiting a bug in the Sneeit Framework plugin (CVE-2025-6389) to run code on servers and create admin accounts on WordPress sites.\n\n⚠️ Separately, a flaw in ICTBroadcast (CVE-2025-2611) lets attackers use the BROADCAST cookie for unauthenticated remote shell https://t.co/VpAkRoIq0l",
     "tweettime": "2025-12-08, 09:17:49",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1997958786284392654",
@@ -67,7 +133,7 @@
     "username": "hunter0x1"
 }
 {
-    "tweetfavorites": 315,
+    "tweetfavorites": 320,
     "tweetquotes": 1,
     "tweetreplies": 7,
     "tweetretweets": 48,
@@ -80,9 +146,9 @@
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
-    "tweetfavorites": 829,
+    "tweetfavorites": 830,
     "tweetquotes": 25,
-    "tweetreplies": 31,
+    "tweetreplies": 32,
     "tweetretweets": 77,
     "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
     "tweettime": "2025-12-06, 03:54:16",
@@ -94,7 +160,7 @@
         "https://u1f383.github.io/slides/talks/2025_Hexacon-Deja_Vu_in_Linux_io_uring_Breaking_Memory_Sharing_Again_After_Generations_of_Fixes.pdf",
         "https://www.youtube.com/watch?v=Ry4eOgLCo90"
     ],
-    "tweetfavorites": 115,
+    "tweetfavorites": 118,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 21,
@@ -127,10 +193,10 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3475,
+    "tweetfavorites": 3489,
     "tweetquotes": 69,
     "tweetreplies": 61,
-    "tweetretweets": 414,
+    "tweetretweets": 417,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -156,17 +222,17 @@
     "tweetfavorites": 95,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 42,
+    "tweetretweets": 44,
     "tweettext": "🛡️We added Meta React Server Components remote code execution vulnerability CVE-2025-55182 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/QozFI5xbes",
     "tweettime": "2025-12-05, 15:21:34",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1996963163682566406",
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 579,
+    "tweetfavorites": 588,
     "tweetquotes": 6,
     "tweetreplies": 6,
-    "tweetretweets": 69,
+    "tweetretweets": 70,
     "tweettext": "#CVE-2025-55182: RSC RCE — It functions as an in-memory webshell backdoor, offering a significantly more covert foothold. Please verify this again on your own endpoint. https://t.co/aOic5sCu94",
     "tweettime": "2025-12-05, 07:15:27",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996840827897954542",
@@ -265,7 +331,7 @@
     "tweetfavorites": 438,
     "tweetquotes": 1,
     "tweetreplies": 4,
-    "tweetretweets": 51,
+    "tweetretweets": 52,
     "tweettext": "#CVE-2025-55182: Remote Code Execution in React Server Components via a Unicode-based WAF bypass https://t.co/JEVDKrd9nz",
     "tweettime": "2025-12-04, 04:10:36",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996431921736519886",
@@ -290,10 +356,10 @@
     "expanded_url": [
         "https://github.com/ejpir/CVE-2025-55182-poc/blob/main/exploit-rce-v4.js"
     ],
-    "tweetfavorites": 157,
+    "tweetfavorites": 236,
     "tweetquotes": 2,
-    "tweetreplies": 3,
-    "tweetretweets": 34,
+    "tweetreplies": 4,
+    "tweetretweets": 49,
     "tweettext": "🚨🚨CVE-2025-55182 (CVSS 10.0): RCE in React Server Components\nA decoding bug in React Server Function payloads enables full unauthenticated RCE on vulnerable RSC backends.\n🔥PoC: https://t.co/4yHxpp9RPc\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-55182\"\nZoomEye https://t.co/0f44l2v5JW",
     "tweettime": "2025-12-04, 02:27:05",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1996405871631589451",
@@ -316,7 +382,7 @@
     "expanded_url": [
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
-    "tweetfavorites": 497,
+    "tweetfavorites": 498,
     "tweetquotes": 7,
     "tweetreplies": 9,
     "tweetretweets": 61,

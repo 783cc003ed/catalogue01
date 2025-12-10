@@ -131,10 +131,10 @@
     "expanded_url": [
         "https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/"
     ],
-    "tweetfavorites": 126,
+    "tweetfavorites": 149,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 28,
+    "tweetretweets": 34,
     "tweettext": "Exploiting an object corruption bug in v8 (CVE-2024-3833)\n\nhttps://t.co/45cd2Sked4\n\nCredits @mmolgtm\n\n#infosec #chrome https://t.co/bzrOqns74g",
     "tweettime": "2024-10-27, 08:30:07",
     "tweeturl": "https://twitter.com/0xor0ne/status/1850454920836591951",
