@@ -5,7 +5,7 @@
     "tweetfavorites": 157,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 56,
+    "tweetretweets": 55,
     "tweettext": "Finishing off the week with a writeup of CVE-2025-0309 - Netskope Windows Client LPE \n\nThis was one of the bugs we demo’d in our DEF CON #ZeroTrustTotalBust talk.\n\nAlso releasing a NachoVPN plugin and our 🆙skope PoC. Details on the @AmberWolfSec blog:\n\nhttps://t.co/HJQCVbBpbk https://t.co/Orl0X3SuFK",
     "tweettime": "2025-08-29, 17:57:57",
     "tweeturl": "https://twitter.com/buffaloverflow/status/1961488505252598098",
@@ -200,7 +200,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 286,
+    "tweetfavorites": 287,
     "tweetquotes": 5,
     "tweetreplies": 4,
     "tweetretweets": 85,
