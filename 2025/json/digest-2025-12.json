@@ -75,10 +75,10 @@
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 3492,
-    "tweetquotes": 63,
-    "tweetreplies": 254,
-    "tweetretweets": 264,
+    "tweetfavorites": 3521,
+    "tweetquotes": 64,
+    "tweetreplies": 258,
+    "tweetretweets": 265,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
     "tweettime": "2025-12-08, 20:15:31",
     "tweeturl": "https://twitter.com/gothburz/status/1998124302177112470",

