@@ -2,9 +2,9 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62468"
     ],
-    "tweetfavorites": 134,
+    "tweetfavorites": 139,
     "tweetquotes": 0,
-    "tweetreplies": 3,
+    "tweetreplies": 4,
     "tweetretweets": 11,
     "tweettext": "This month MSRC fixed my Windows Defender info leak vulnerability CVE-2025-62468, but all acknowledgments are incorrect. First, I provided a working exploit, so it’s not “exploitable unlikely.”😅https://t.co/TXNxu8XPjU https://t.co/ZjF7redx9w",
     "tweettime": "2025-12-10, 05:02:56",
@@ -30,10 +30,10 @@
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62562",
         "https://x.com/HaifeiLi/status/1998478383504830856"
     ],
-    "tweetfavorites": 56,
+    "tweetfavorites": 58,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 4,
     "tweettext": "A fun fact: CVE-2025-62562 (https://t.co/qQ4rWn3L4B) was an Outlook RCE/UAF that can be only triggered by.. replying to a crafted email. A very close to a \"0-click Outlook RCE\".. of course, I found that by accident.. :)\nhttps://t.co/Wb4kgP3AAE",
     "tweettime": "2025-12-09, 19:47:25",
     "tweeturl": "https://twitter.com/HaifeiLi/status/1998479616449953900",
@@ -83,29 +83,29 @@
         "http://Cal.com",
         "https://gist.github.com/N3mes1s/727c2d8f90858bc96853ad427b6ff532"
     ],
-    "tweetfavorites": 49,
+    "tweetfavorites": 105,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 7,
+    "tweetretweets": 13,
     "tweettext": "CVE-2025-66489 - https://t.co/nBfOsZLCJp Authentication Bypass via TOTP Code Presence\n\nAnother #Pruva reproduction for today\n\nhttps://t.co/x28Stcilan\n\ncurl -X POST http://localhost:3001/api/auth/callback/credentials \\\n  -H \"Content-Type: application/x-www-form-urlencoded\" \\\n  -b https://t.co/1ofp0PtUZe",
     "tweettime": "2025-12-09, 17:13:15",
     "tweeturl": "https://twitter.com/gN3mes1s/status/1998440820056223844",
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 373,
-    "tweetquotes": 1,
-    "tweetreplies": 8,
-    "tweetretweets": 78,
+    "tweetfavorites": 455,
+    "tweetquotes": 3,
+    "tweetreplies": 12,
+    "tweetretweets": 95,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 3939,
-    "tweetquotes": 72,
-    "tweetreplies": 275,
+    "tweetfavorites": 3948,
+    "tweetquotes": 73,
+    "tweetreplies": 277,
     "tweetretweets": 296,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
     "tweettime": "2025-12-08, 20:15:31",
@@ -187,7 +187,7 @@
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
-    "tweetfavorites": 830,
+    "tweetfavorites": 836,
     "tweetquotes": 25,
     "tweetreplies": 32,
     "tweetretweets": 77,
@@ -234,7 +234,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3496,
+    "tweetfavorites": 3497,
     "tweetquotes": 69,
     "tweetreplies": 62,
     "tweetretweets": 419,
@@ -270,10 +270,10 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 593,
+    "tweetfavorites": 594,
     "tweetquotes": 6,
     "tweetreplies": 6,
-    "tweetretweets": 70,
+    "tweetretweets": 71,
     "tweettext": "#CVE-2025-55182: RSC RCE — It functions as an in-memory webshell backdoor, offering a significantly more covert foothold. Please verify this again on your own endpoint. https://t.co/aOic5sCu94",
     "tweettime": "2025-12-05, 07:15:27",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996840827897954542",
