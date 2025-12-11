@@ -45,10 +45,10 @@
     "username": "UK_Daniel_Card"
 }
 {
-    "tweetfavorites": 46,
+    "tweetfavorites": 47,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetretweets": 19,
     "tweettext": "🚨🚨Cisco drops 3 critical vuln advisories — 2 already exploited in the wild!\nCVE-2025-20333 (CVSS 9.9): Authenticated attacker can exploit via crafted HTTP(S) for RCE\nCVE-2025-20362: Unauthenticated attacker bypasses auth with crafted HTTP(S)\nZoomEye Dork👉app=\"Cisco ASA\"  || https://t.co/hcM1hjcib7",
     "tweettime": "2025-09-26, 09:21:23",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1971505370578419746",
