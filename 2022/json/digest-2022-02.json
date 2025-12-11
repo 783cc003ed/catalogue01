@@ -169,10 +169,10 @@
     "username": "ParsDefense"
 }
 {
-    "tweetfavorites": 353,
+    "tweetfavorites": 339,
     "tweetquotes": 14,
     "tweetreplies": 9,
-    "tweetretweets": 122,
+    "tweetretweets": 119,
     "tweettext": "🔥 We have reproduced the fresh CVE-2022-24086 Improper Input Validation vulnerability in Magento Open Source and Adobe Commerce.\n\nSuccessful exploitation could lead to RCE from an unauthenticated user. https://t.co/QFXd7M9VVO",
     "tweettime": "2022-02-17, 09:19:59",
     "tweeturl": "https://twitter.com/ptswarm/status/1494240197915123713",

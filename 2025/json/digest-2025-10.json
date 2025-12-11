@@ -144,7 +144,7 @@
     "tweetfavorites": 288,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 67,
+    "tweetretweets": 66,
     "tweettext": "ksmbd - Exploiting CVE-2025-37947\n\nArticle by @73696e65 about locally exploiting CVE-2025-37947 — a page OOB write in the ksmbd module.\n\nArticle: https://t.co/V5LBTtOqxY\nExploit: https://t.co/knpaTnIO2j https://t.co/jADk5UqFEn",
     "tweettime": "2025-10-24, 00:38:14",
     "tweeturl": "https://twitter.com/linkersec/status/1981520574758130066",

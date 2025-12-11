@@ -2,7 +2,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62468"
     ],
-    "tweetfavorites": 139,
+    "tweetfavorites": 142,
     "tweetquotes": 0,
     "tweetreplies": 4,
     "tweetretweets": 11,
@@ -16,7 +16,7 @@
         "https://github.com/osman1337-security/CVE-2025-54100/",
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-54100"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 39,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 5,
@@ -30,7 +30,7 @@
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62562",
         "https://x.com/HaifeiLi/status/1998478383504830856"
     ],
-    "tweetfavorites": 58,
+    "tweetfavorites": 62,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 4,
@@ -86,14 +86,14 @@
     "tweetfavorites": 105,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 13,
+    "tweetretweets": 14,
     "tweettext": "CVE-2025-66489 - https://t.co/nBfOsZLCJp Authentication Bypass via TOTP Code Presence\n\nAnother #Pruva reproduction for today\n\nhttps://t.co/x28Stcilan\n\ncurl -X POST http://localhost:3001/api/auth/callback/credentials \\\n  -H \"Content-Type: application/x-www-form-urlencoded\" \\\n  -b https://t.co/1ofp0PtUZe",
     "tweettime": "2025-12-09, 17:13:15",
     "tweeturl": "https://twitter.com/gN3mes1s/status/1998440820056223844",
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 455,
+    "tweetfavorites": 466,
     "tweetquotes": 3,
     "tweetreplies": 12,
     "tweetretweets": 95,
@@ -103,8 +103,8 @@
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 3948,
-    "tweetquotes": 73,
+    "tweetfavorites": 3958,
+    "tweetquotes": 74,
     "tweetreplies": 277,
     "tweetretweets": 296,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
@@ -190,7 +190,7 @@
     "tweetfavorites": 836,
     "tweetquotes": 25,
     "tweetreplies": 32,
-    "tweetretweets": 77,
+    "tweetretweets": 78,
     "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
     "tweettime": "2025-12-06, 03:54:16",
     "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",
@@ -498,7 +498,7 @@
     "expanded_url": [
         "https://syst3mfailure.io/rbtree-family-drama/"
     ],
-    "tweetfavorites": 238,
+    "tweetfavorites": 239,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 54,

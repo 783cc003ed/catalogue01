@@ -131,10 +131,10 @@
     "expanded_url": [
         "https://zhero-web-sec.github.io/research-and-things/react-router-and-the-remixed-path"
     ],
-    "tweetfavorites": 777,
+    "tweetfavorites": 775,
     "tweetquotes": 13,
     "tweetreplies": 32,
-    "tweetretweets": 148,
+    "tweetretweets": 149,
     "tweettext": "new paper on a vulnerability discovered in React Router, resulting from a collaboration with @inzo____ that led to CVE-2025-31137;\n\nReact Router and the Remix'ed path\n\nhttps://t.co/LMiqASwZnf\n\ngood reading https://t.co/VgVIDrILH2",
     "tweettime": "2025-04-02, 20:16:04",
     "tweeturl": "https://twitter.com/blank_cold/status/1907527472423354859",
