@@ -1,11 +1,21 @@
 {
+    "tweetfavorites": 77,
+    "tweetquotes": 4,
+    "tweetreplies": 3,
+    "tweetretweets": 28,
+    "tweettext": "🚨 700+ Gogs servers hacked — no patch yet.\n\nNew flaw (CVE-2025-8110) lets attackers overwrite files and run code through symbolic links, bypassing last year’s fix.\n\nWiz found Supershell malware — often used by Chinese groups — on many hacked servers.\n\n🔗 Read: https://t.co/pEbmbKXWaG",
+    "tweettime": "2025-12-11, 10:32:46",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1999064812433690758",
+    "username": "TheHackersNews"
+}
+{
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62468"
     ],
-    "tweetfavorites": 143,
+    "tweetfavorites": 174,
     "tweetquotes": 0,
     "tweetreplies": 4,
-    "tweetretweets": 11,
+    "tweetretweets": 14,
     "tweettext": "This month MSRC fixed my Windows Defender info leak vulnerability CVE-2025-62468, but all acknowledgments are incorrect. First, I provided a working exploit, so it’s not “exploitable unlikely.”😅https://t.co/TXNxu8XPjU https://t.co/ZjF7redx9w",
     "tweettime": "2025-12-10, 05:02:56",
     "tweeturl": "https://twitter.com/KeyZ3r0/status/1998619416444190747",
@@ -16,10 +26,10 @@
         "https://github.com/osman1337-security/CVE-2025-54100/",
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-54100"
     ],
-    "tweetfavorites": 39,
+    "tweetfavorites": 41,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 5,
+    "tweetretweets": 6,
     "tweettext": "Glad to share the technical blog post for the vulnerability we collaborated on with @luminaryxd \n\n📝 Technical write-up: https://t.co/dhyIqdCddk\n📎 MSRC advisory: https://t.co/477jLsXXu9\nThe vulnerability has been assigned the CVE ID: CVE-2025-54100 (CVE number updated)",
     "tweettime": "2025-12-09, 20:46:21",
     "tweeturl": "https://twitter.com/osman1337_/status/1998494447483400373",
@@ -30,7 +40,7 @@
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62562",
         "https://x.com/HaifeiLi/status/1998478383504830856"
     ],
-    "tweetfavorites": 62,
+    "tweetfavorites": 66,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 4,
@@ -93,10 +103,10 @@
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 468,
+    "tweetfavorites": 507,
     "tweetquotes": 3,
-    "tweetreplies": 12,
-    "tweetretweets": 96,
+    "tweetreplies": 13,
+    "tweetretweets": 108,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
@@ -113,10 +123,10 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 3971,
-    "tweetquotes": 75,
+    "tweetfavorites": 4007,
+    "tweetquotes": 76,
     "tweetreplies": 277,
-    "tweetretweets": 296,
+    "tweetretweets": 301,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
     "tweettime": "2025-12-08, 20:15:31",
     "tweeturl": "https://twitter.com/gothburz/status/1998124302177112470",
@@ -197,7 +207,7 @@
     "expanded_url": [
         "https://hackerone.com/vercel_platform_protection"
     ],
-    "tweetfavorites": 836,
+    "tweetfavorites": 837,
     "tweetquotes": 25,
     "tweetreplies": 32,
     "tweetretweets": 78,
@@ -244,9 +254,9 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3496,
+    "tweetfavorites": 3500,
     "tweetquotes": 69,
-    "tweetreplies": 62,
+    "tweetreplies": 63,
     "tweetretweets": 419,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",

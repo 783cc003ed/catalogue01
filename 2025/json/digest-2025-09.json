@@ -182,7 +182,7 @@
     "tweetfavorites": 445,
     "tweetquotes": 0,
     "tweetreplies": 6,
-    "tweetretweets": 44,
+    "tweetretweets": 43,
     "tweettext": "Google paid out $250,000 bounty for this bug. That's how it's done.\n\nA bug in Chromium's Mojo component (CVE-2025-4609) allowed for a full sandbox escape. 🤯\n\nA malicious renderer could basically trick the browser into handing over privileged process handles. Congrats to the https://t.co/VuihqvRLfv",
     "tweettime": "2025-09-01, 14:30:00",
     "tweeturl": "https://twitter.com/payloadartist/status/1962523339563659618",

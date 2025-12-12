@@ -457,10 +457,10 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 464,
+    "tweetfavorites": 467,
     "tweetquotes": 1,
     "tweetreplies": 15,
-    "tweetretweets": 111,
+    "tweetretweets": 110,
     "tweettext": "Another Tip: I found this VMWare vCenter #Log4Shell  vulnerability in an endpoint using POST: /analytics/telemetry/ph/api/hyper/send?_c=\"${payload}\". This RCE method actually of CVE-2021-22005, however this ep is vulnerable to Log4Shell as well. #BugBounty --&gt; Bounty $2100.00. https://t.co/qdMlg9cN9V",
     "tweettime": "2022-12-09, 10:13:45",
     "tweeturl": "https://twitter.com/nav1n0x/status/1601158148316098560",
