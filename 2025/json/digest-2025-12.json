@@ -49,6 +49,16 @@
     "username": "KeyZ3r0"
 }
 {
+    "tweetfavorites": 89,
+    "tweetquotes": 5,
+    "tweetreplies": 3,
+    "tweetretweets": 22,
+    "tweettext": "Exploitation of recent React RCE vul (CVE-2025-55182 - #React2Shell) leading to #Mirai infection ⤵️\n\nBotnet Mirai C2 domains 📡:\neffeminate.fuckphillipthegerman .ru\ntrap.fuckphillipthegerman .ru\ntranny.fuckphillipthegerman .ru \n\nBotnet Mirai C2 servers , all hosted at FORTIS 🇷🇺: https://t.co/1spHQh10rq",
+    "tweettime": "2025-12-10, 04:54:26",
+    "tweeturl": "https://twitter.com/abuse_ch/status/1998617280922501566",
+    "username": "abuse_ch"
+}
+{
     "expanded_url": [
         "https://github.com/osman1337-security/CVE-2025-54100/",
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-54100"
@@ -123,14 +133,14 @@
     "tweetfavorites": 108,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 15,
+    "tweetretweets": 16,
     "tweettext": "CVE-2025-66489 - https://t.co/nBfOsZLCJp Authentication Bypass via TOTP Code Presence\n\nAnother #Pruva reproduction for today\n\nhttps://t.co/x28Stcilan\n\ncurl -X POST http://localhost:3001/api/auth/callback/credentials \\\n  -H \"Content-Type: application/x-www-form-urlencoded\" \\\n  -b https://t.co/1ofp0PtUZe",
     "tweettime": "2025-12-09, 17:13:15",
     "tweeturl": "https://twitter.com/gN3mes1s/status/1998440820056223844",
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 507,
+    "tweetfavorites": 510,
     "tweetquotes": 3,
     "tweetreplies": 13,
     "tweetretweets": 108,
@@ -166,7 +176,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 4009,
+    "tweetfavorites": 4010,
     "tweetquotes": 76,
     "tweetreplies": 278,
     "tweetretweets": 301,
@@ -307,7 +317,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3499,
+    "tweetfavorites": 3498,
     "tweetquotes": 69,
     "tweetreplies": 63,
     "tweetretweets": 417,
@@ -496,7 +506,7 @@
     "expanded_url": [
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
-    "tweetfavorites": 498,
+    "tweetfavorites": 497,
     "tweetquotes": 7,
     "tweetreplies": 9,
     "tweetretweets": 61,
