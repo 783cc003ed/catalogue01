@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 46,
+    "tweetfavorites": 65,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 2,
+    "tweetretweets": 6,
     "tweettext": "Some LPE analysis in the December patch\n\nCVE-2025-62472&amp;CVE-2025-59517&amp;CVE-2025-62221\n\n1)CVE-2025-62472:rasmans!QueueCloseConnections.\nWrite an out-of-bounds conn pointer -&gt; overwrite the user_data linked list -&gt; unlink -&gt; uaf(conn) -&gt; uaf(port) -&gt; lpe https://t.co/QWiFGAusoD",
     "tweettime": "2025-12-12, 06:50:05",
     "tweeturl": "https://twitter.com/ezrak1e/status/1999371160119914519",
@@ -10,12 +10,25 @@
 }
 {
     "expanded_url": [
+        "https://github.com/3lp4tr0n/SessionHop/"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "#exploit\n1⃣. Windows Session Hijacking via COM - https://t.co/8KCZObJDgS\n// This technique serves as an alternative to remote process injection or LSASS dumping for activities like keylogging, screenshots, or LDAP access\n2⃣. CVE-2024-27822:\nmacOS PackageKit Privilege Escalation -",
+    "tweettime": "2025-12-12, 03:46:10",
+    "tweeturl": "https://twitter.com/ksg93rd/status/1999324875668824235",
+    "username": "ksg93rd"
+}
+{
+    "expanded_url": [
         "https://gist.github.com/N3mes1s/bb4d6077c15c39832d51218622b90650"
     ],
-    "tweetfavorites": 55,
+    "tweetfavorites": 57,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 11,
+    "tweetretweets": 12,
     "tweettext": "#Pruva reproduction and Detection/Scanner for the CVE-2024-55947 bypass CVE-2025-8110 , but as @wiz_io  said, it could be that the artficats are gone or private.\n\nGogs Path Traversal Vulnerability\n\nhttps://t.co/DpoWafsAcq https://t.co/Ii5u1wYR9q",
     "tweettime": "2025-12-11, 14:47:17",
     "tweeturl": "https://twitter.com/gN3mes1s/status/1999128861464809618",
@@ -163,10 +176,10 @@
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 517,
+    "tweetfavorites": 518,
     "tweetquotes": 3,
-    "tweetreplies": 13,
-    "tweetretweets": 109,
+    "tweetreplies": 15,
+    "tweetretweets": 110,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
@@ -199,10 +212,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 4013,
-    "tweetquotes": 76,
+    "tweetfavorites": 4018,
+    "tweetquotes": 77,
     "tweetreplies": 278,
-    "tweetretweets": 301,
+    "tweetretweets": 303,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
     "tweettime": "2025-12-08, 20:15:31",
     "tweeturl": "https://twitter.com/gothburz/status/1998124302177112470",
@@ -222,10 +235,10 @@
     "username": "objective_see"
 }
 {
-    "tweetfavorites": 251,
+    "tweetfavorites": 269,
     "tweetquotes": 2,
-    "tweetreplies": 3,
-    "tweetretweets": 64,
+    "tweetreplies": 4,
+    "tweetretweets": 73,
     "tweettext": "🚨 A new CVSS 10.0 vulnerability (CVE-2025-55182) in RSC and the Flight protocol enables unauthenticated remote code execution. If you run RSC or a framework that ships it, this is a patch-now moment. In our latest OffSec blog, we break down how the exploit works, what’s",
     "tweettime": "2025-12-08, 13:01:09",
     "tweeturl": "https://twitter.com/offsectraining/status/1998014991186698643",
@@ -306,7 +319,7 @@
     "tweetfavorites": 837,
     "tweetquotes": 25,
     "tweetreplies": 32,
-    "tweetretweets": 77,
+    "tweetretweets": 76,
     "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
     "tweettime": "2025-12-06, 03:54:16",
     "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",

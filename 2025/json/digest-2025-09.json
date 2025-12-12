@@ -146,7 +146,7 @@
     "tweetfavorites": 124,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 40,
+    "tweetretweets": 39,
     "tweettext": "CVE-2025-24893 is a critical unauthenticated remote code execution (RCE) vulnerability affecting the XWiki Platform.\n\nhttps://t.co/n2GGpZXvxH https://t.co/KjcnrjFv9x",
     "tweettime": "2025-09-04, 09:39:19",
     "tweeturl": "https://twitter.com/cyber_advising/status/1963537349783998900",

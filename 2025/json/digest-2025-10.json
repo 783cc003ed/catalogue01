@@ -280,10 +280,10 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 117,
+    "tweetfavorites": 118,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 53,
+    "tweetretweets": 52,
     "tweettext": "🍪 A cookie that spawns a shell 💀\n\nA critical flaw (CVE-2025-2611, CVSS 9.3) in ICTBroadcast autodialer software is under active exploitation.\n\nAttackers inject commands via the BROADCAST session cookie for unauthenticated remote code execution.\n\nNo patch yet — check your stack https://t.co/8CRiIhWhYW",
     "tweettime": "2025-10-15, 06:16:55",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1978344315538575431",
