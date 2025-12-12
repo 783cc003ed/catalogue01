@@ -288,7 +288,7 @@
     "tweetfavorites": 148,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 48,
+    "tweetretweets": 49,
     "tweettext": "🚨CISA Warns of Google Chrome 0-Day Vulnerability Exploited in Attacks \n\nSource: https://t.co/DCXNg2QE6x\n\nCISA has issued an urgent alert about a zero-day vulnerability in Google Chrome, actively exploited by threat actors.\n\nCVE-2025-13223 is a flaw in the Chromium V8 JavaScript https://t.co/J4V0VraUYc",
     "tweettime": "2025-11-20, 12:25:08",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1991482944612167920",
@@ -581,10 +581,10 @@
     "expanded_url": [
         "https://go.dhs.gov/i8Y"
     ],
-    "tweetfavorites": 170,
+    "tweetfavorites": 172,
     "tweetquotes": 2,
     "tweetreplies": 5,
-    "tweetretweets": 69,
+    "tweetretweets": 70,
     "tweettext": "Malicious cyber actors are exploiting a newly disclosed Fortinet FortiWeb path traversal vulnerability, CVE-2025-64446. We urge organizations to implement Fortinet’s guidance immediately by applying upgrades or disabling HTTP/HTTPS services. Learn more 👉 https://t.co/GSY4BgTnUt https://t.co/3VeWzxbjem",
     "tweettime": "2025-11-14, 21:46:48",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1989449965614035038",
@@ -608,7 +608,7 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 70,
+    "tweetfavorites": 71,
     "tweetquotes": 2,
     "tweetreplies": 7,
     "tweetretweets": 34,
