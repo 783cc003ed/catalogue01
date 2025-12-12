@@ -1,12 +1,22 @@
 {
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 0,
+    "tweettext": "Some LPE analysis in the December patch\n\nCVE-2025-62472&amp;CVE-2025-59517&amp;CVE-2025-62221\n\n1)CVE-2025-62472:rasmans!QueueCloseConnections.\nWrite an out-of-bounds conn pointer -&gt; overwrite the user_data linked list -&gt; unlink -&gt; uaf(conn) -&gt; uaf(port) -&gt; lpe https://t.co/QWiFGAusoD",
+    "tweettime": "2025-12-12, 06:50:05",
+    "tweeturl": "https://twitter.com/ezrak1e/status/1999371160119914519",
+    "username": "ezrak1e"
+}
+{
     "expanded_url": [
         "https://github.com/rxerium/CVE-2025-8110",
         "https://www.wiz.io/blog/wiz-research-gogs-cve-2025-8110-rce-exploit"
     ],
-    "tweetfavorites": 187,
+    "tweetfavorites": 246,
     "tweetquotes": 0,
-    "tweetreplies": 5,
-    "tweetretweets": 42,
+    "tweetreplies": 6,
+    "tweetretweets": 48,
     "tweettext": "🚨 New high severity zero day affecting Gogs (CVE-2025-8110) actively being exploited in the wild!\n\nI’ve created a detection script to detect vulnerable instances at scale:\nhttps://t.co/9si5WNN0BS\n\nAnalysis from Wiz:\nhttps://t.co/3bUuRz23rJ https://t.co/30kHCvz1M6",
     "tweettime": "2025-12-11, 10:58:35",
     "tweeturl": "https://twitter.com/hakrishi/status/1999071306537726221",
@@ -140,7 +150,7 @@
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 510,
+    "tweetfavorites": 515,
     "tweetquotes": 3,
     "tweetreplies": 13,
     "tweetretweets": 108,
@@ -176,7 +186,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 4010,
+    "tweetfavorites": 4013,
     "tweetquotes": 76,
     "tweetreplies": 278,
     "tweetretweets": 301,
@@ -247,10 +257,10 @@
         "https://github.com/assetnote/react2shell-scanner",
         "https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-"
     ],
-    "tweetfavorites": 480,
+    "tweetfavorites": 496,
     "tweetquotes": 2,
     "tweetreplies": 14,
-    "tweetretweets": 51,
+    "tweetretweets": 53,
     "tweettext": "During my research on CVE-2025-55182 and CVE-2025-66478. I managed to find 4 instances to be vulnerable. The thing that helped me most:\n\nResearch link - https://t.co/gNZK6Bf6vX\n\nAssetnote Checker - https://t.co/hsc3MANsy3\n\nIf you want to increase impact - https://t.co/gakt6kCGum https://t.co/pBEDvG1tnB",
     "tweettime": "2025-12-07, 13:35:35",
     "tweeturl": "https://twitter.com/hunter0x1/status/1997661266379178325",
@@ -317,8 +327,8 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3498,
-    "tweetquotes": 69,
+    "tweetfavorites": 3499,
+    "tweetquotes": 70,
     "tweetreplies": 63,
     "tweetretweets": 417,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
@@ -346,7 +356,7 @@
     "tweetfavorites": 95,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 44,
+    "tweetretweets": 45,
     "tweettext": "🛡️We added Meta React Server Components remote code execution vulnerability CVE-2025-55182 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/QozFI5xbes",
     "tweettime": "2025-12-05, 15:21:34",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1996963163682566406",
@@ -594,7 +604,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 454,
+    "tweetfavorites": 455,
     "tweetquotes": 0,
     "tweetreplies": 7,
     "tweetretweets": 155,

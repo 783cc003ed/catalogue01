@@ -13,6 +13,19 @@
 }
 {
     "expanded_url": [
+        "https://hackerone.com/reports/3031518"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 8,
+    "tweettext": "⚡ CVE-2025-24813: Remote Code Execution and/or Information disclosure and/or malicious content adde... \n👨🏻‍💻 sw0rd1ight ➟ Internet Bug Bounty \n🟥 High\n💰 $4,323\n🔗 https://t.co/N5uSAw7XOJ\n#bugbounty #bugbountytips #cybersecurity #infosec https://t.co/Yufoz6L9sm",
+    "tweettime": "2025-04-27, 15:00:43",
+    "tweeturl": "https://twitter.com/h1Disclosed/status/1916507809769795663",
+    "username": "h1Disclosed"
+}
+{
+    "expanded_url": [
         "https://github.com/Profanatic/ExploitCVE2025"
     ],
     "tweetfavorites": 238,
@@ -141,7 +154,7 @@
     "username": "blank_cold"
 }
 {
-    "tweetfavorites": 422,
+    "tweetfavorites": 423,
     "tweetquotes": 2,
     "tweetreplies": 5,
     "tweetretweets": 79,
