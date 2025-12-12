@@ -583,10 +583,10 @@
     "expanded_url": [
         "https://github.com/sinsinology/CVE-2024-4358"
     ],
-    "tweetfavorites": 325,
+    "tweetfavorites": 324,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 74,
+    "tweetretweets": 73,
     "tweettext": "Always test the :83 default port on servers, maybe there is Telerik Report Server, you can take advantage of the newly revealed vulnerability.\n\n#BugBounty #BugBountyTip\n \n#CVE-2024-4358 / #CVE-2024-1800\n\nhttps://t.co/9yEQkk5toi https://t.co/4HyHrNFAwG",
     "tweettime": "2024-06-04, 05:46:51",
     "tweeturl": "https://twitter.com/ynsmroztas/status/1797867594063450317",

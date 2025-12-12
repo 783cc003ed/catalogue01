@@ -380,10 +380,10 @@
     "expanded_url": [
         "https://msft.it/6018504d4"
     ],
-    "tweetfavorites": 244,
+    "tweetfavorites": 238,
     "tweetquotes": 13,
-    "tweetreplies": 12,
-    "tweetretweets": 127,
+    "tweetreplies": 8,
+    "tweetretweets": 125,
     "tweettext": "Microsoft has released CVE-2023-23397 to address the critical elevation of privilege (EoP) vulnerability affecting Microsoft Outlook for Windows. We strongly recommend all customers update Microsoft Outlook for Windows to remain secure. Learn more ⬇️\n\nhttps://t.co/GNovrlBniL",
     "tweettime": "2023-03-15, 17:43:12",
     "tweeturl": "https://twitter.com/msftsecresponse/status/1636060491133927427",
@@ -436,7 +436,7 @@
     "expanded_url": [
         "https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/"
     ],
-    "tweetfavorites": 823,
+    "tweetfavorites": 824,
     "tweetquotes": 25,
     "tweetreplies": 9,
     "tweetretweets": 412,

