@@ -1,12 +1,39 @@
 {
+    "expanded_url": [
+        "https://github.com/rxerium/CVE-2025-8110",
+        "https://www.wiz.io/blog/wiz-research-gogs-cve-2025-8110-rce-exploit"
+    ],
+    "tweetfavorites": 187,
+    "tweetquotes": 0,
+    "tweetreplies": 5,
+    "tweetretweets": 42,
+    "tweettext": "🚨 New high severity zero day affecting Gogs (CVE-2025-8110) actively being exploited in the wild!\n\nI’ve created a detection script to detect vulnerable instances at scale:\nhttps://t.co/9si5WNN0BS\n\nAnalysis from Wiz:\nhttps://t.co/3bUuRz23rJ https://t.co/30kHCvz1M6",
+    "tweettime": "2025-12-11, 10:58:35",
+    "tweeturl": "https://twitter.com/hakrishi/status/1999071306537726221",
+    "username": "hakrishi"
+}
+{
     "tweetfavorites": 77,
     "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 28,
+    "tweetretweets": 31,
     "tweettext": "🚨 700+ Gogs servers hacked — no patch yet.\n\nNew flaw (CVE-2025-8110) lets attackers overwrite files and run code through symbolic links, bypassing last year’s fix.\n\nWiz found Supershell malware — often used by Chinese groups — on many hacked servers.\n\n🔗 Read: https://t.co/pEbmbKXWaG",
     "tweettime": "2025-12-11, 10:32:46",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1999064812433690758",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://www.fortiguard.com/psirt/FG-IR-25-647"
+    ],
+    "tweetfavorites": 196,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 25,
+    "tweettext": "Here we go, another crits on fori. \nAuthentication bypass on FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager when SAML is on \nCVE-2025-59718 CVE-2025-59719\nhttps://t.co/F8lCILYD8t https://t.co/sEGuCaVqU2",
+    "tweettime": "2025-12-10, 11:14:40",
+    "tweeturl": "https://twitter.com/h4x0r_dz/status/1998712968842981606",
+    "username": "h4x0r_dz"
 }
 {
     "expanded_url": [
@@ -79,7 +106,7 @@
     "expanded_url": [
         "https://r-7.co/4rN6TWo"
     ],
-    "tweetfavorites": 57,
+    "tweetfavorites": 58,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 22,
@@ -93,10 +120,10 @@
         "http://Cal.com",
         "https://gist.github.com/N3mes1s/727c2d8f90858bc96853ad427b6ff532"
     ],
-    "tweetfavorites": 105,
+    "tweetfavorites": 108,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 14,
+    "tweetretweets": 15,
     "tweettext": "CVE-2025-66489 - https://t.co/nBfOsZLCJp Authentication Bypass via TOTP Code Presence\n\nAnother #Pruva reproduction for today\n\nhttps://t.co/x28Stcilan\n\ncurl -X POST http://localhost:3001/api/auth/callback/credentials \\\n  -H \"Content-Type: application/x-www-form-urlencoded\" \\\n  -b https://t.co/1ofp0PtUZe",
     "tweettime": "2025-12-09, 17:13:15",
     "tweeturl": "https://twitter.com/gN3mes1s/status/1998440820056223844",
@@ -125,8 +152,8 @@
 {
     "tweetfavorites": 4007,
     "tweetquotes": 76,
-    "tweetreplies": 277,
-    "tweetretweets": 301,
+    "tweetreplies": 278,
+    "tweetretweets": 300,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
     "tweettime": "2025-12-08, 20:15:31",
     "tweeturl": "https://twitter.com/gothburz/status/1998124302177112470",
@@ -159,7 +186,7 @@
     "tweetfavorites": 191,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 57,
+    "tweetretweets": 58,
     "tweettext": "⚠️ Hackers are exploiting a bug in the Sneeit Framework plugin (CVE-2025-6389) to run code on servers and create admin accounts on WordPress sites.\n\n⚠️ Separately, a flaw in ICTBroadcast (CVE-2025-2611) lets attackers use the BROADCAST cookie for unauthenticated remote shell https://t.co/VpAkRoIq0l",
     "tweettime": "2025-12-08, 09:17:49",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1997958786284392654",
@@ -210,7 +237,7 @@
     "tweetfavorites": 837,
     "tweetquotes": 25,
     "tweetreplies": 32,
-    "tweetretweets": 78,
+    "tweetretweets": 77,
     "tweettext": "We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell\nCritical bypass: $50K\nhttps://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl",
     "tweettime": "2025-12-06, 03:54:16",
     "tweeturl": "https://twitter.com/cramforce/status/1997152588253614425",
@@ -254,10 +281,10 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3500,
+    "tweetfavorites": 3498,
     "tweetquotes": 69,
     "tweetreplies": 63,
-    "tweetretweets": 419,
+    "tweetretweets": 417,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -290,7 +317,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 594,
+    "tweetfavorites": 593,
     "tweetquotes": 6,
     "tweetreplies": 6,
     "tweetretweets": 71,
@@ -389,7 +416,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 438,
+    "tweetfavorites": 440,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 52,
@@ -518,7 +545,7 @@
     "expanded_url": [
         "https://syst3mfailure.io/rbtree-family-drama/"
     ],
-    "tweetfavorites": 239,
+    "tweetfavorites": 240,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 54,
@@ -531,7 +558,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 455,
+    "tweetfavorites": 454,
     "tweetquotes": 0,
     "tweetreplies": 7,
     "tweetretweets": 155,

@@ -707,7 +707,7 @@
     "expanded_url": [
         "https://youtu.be/1Ymnvd1uyzQ"
     ],
-    "tweetfavorites": 269,
+    "tweetfavorites": 270,
     "tweetquotes": 2,
     "tweetreplies": 10,
     "tweetretweets": 41,
@@ -807,6 +807,16 @@
     "tweettime": "2025-11-11, 14:30:38",
     "tweeturl": "https://twitter.com/stephenfewer/status/1988253037370990982",
     "username": "stephenfewer"
+}
+{
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 12,
+    "tweettext": "CVE-2025-64518 - with exploit for leak/exfil CycloneDX Core Java Validator XXE \n\nCycloneDX's Java validator continued to instantiate an unconstrained SchemaFactory during BOM validation, so XXE/SSRF remained possible even after the earlier parsing fix for CVE-2024-38374 described https://t.co/XffJexfD7M",
+    "tweettime": "2025-11-11, 12:53:40",
+    "tweeturl": "https://twitter.com/gN3mes1s/status/1988228632116883535",
+    "username": "gN3mes1s"
 }
 {
     "expanded_url": [

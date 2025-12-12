@@ -445,7 +445,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 640,
+    "tweetfavorites": 639,
     "tweetquotes": 10,
     "tweetreplies": 37,
     "tweetretweets": 73,
@@ -484,9 +484,9 @@
     "expanded_url": [
         "https://github.com/sinsinology/CVE-2024-29849"
     ],
-    "tweetfavorites": 246,
+    "tweetfavorites": 245,
     "tweetquotes": 1,
-    "tweetreplies": 6,
+    "tweetreplies": 5,
     "tweetretweets": 72,
     "tweettext": "⚠️Here is the Exploit 🩸 for the Veeam Enterprise Manager Authentication Bypass CVE-2024-29849 🔥🔥🔥\nhttps://t.co/UlZeyatSqm https://t.co/6QBxV21nXy",
     "tweettime": "2024-06-10, 06:39:57",
