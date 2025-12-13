@@ -138,10 +138,10 @@
     "username": "kento932376"
 }
 {
-    "tweetfavorites": 449,
+    "tweetfavorites": 451,
     "tweetquotes": 5,
     "tweetreplies": 9,
-    "tweetretweets": 145,
+    "tweetretweets": 147,
     "tweettext": "\"POST /xxxx/token.oauth2\" in certain endpoints found to be vulnerable to #Log4Shell (CVE-2021-44228). Just replace the username with your payload.  Check below 👇tweet to verify the vulnerability. #BugBounty https://t.co/zeV305R8dI",
     "tweettime": "2022-12-22, 22:41:39",
     "tweeturl": "https://twitter.com/nav1n0x/status/1606057404625571858",
@@ -346,7 +346,7 @@
     "expanded_url": [
         "https://securityintelligence.com/posts/critical-remote-code-execution-vulnerability-spnego-extended-negotiation-security-mechanism/"
     ],
-    "tweetfavorites": 3566,
+    "tweetfavorites": 3567,
     "tweetquotes": 57,
     "tweetreplies": 68,
     "tweetretweets": 1015,

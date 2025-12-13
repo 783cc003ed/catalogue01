@@ -1,5 +1,18 @@
 {
     "expanded_url": [
+        "https://hubs.ly/Q03Y3Ym_0"
+    ],
+    "tweetfavorites": 36,
+    "tweetquotes": 0,
+    "tweetreplies": 4,
+    "tweetretweets": 11,
+    "tweettext": "🚨 CVE-2025-10573 | Ivanti Endpoint Manager\nCritical stored XSS (CVSS 9.6) → unauth JS in admin sessions.\n\n🔧 Fixed in Ivanti EPM 2024 SU4 SR1 (Dec 9)\n📊 Censys sees 1,898 exposed EPM instances, 80 vulnerable\n➡️ Upgrade immediately.\n\n🔗https://t.co/4EyNonmMaM\n\n#CVE202510573 https://t.co/ZH0rJZBXFR",
+    "tweettime": "2025-12-12, 22:23:18",
+    "tweeturl": "https://twitter.com/censysio/status/1999606010231554148",
+    "username": "censysio"
+}
+{
+    "expanded_url": [
         "https://github.com/garrettfoster13/CVE-2025-59501"
     ],
     "tweetfavorites": 33,
@@ -12,10 +25,10 @@
     "username": "pentest_swissky"
 }
 {
-    "tweetfavorites": 73,
+    "tweetfavorites": 75,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 9,
+    "tweetretweets": 10,
     "tweettext": "Some LPE analysis in the December patch\n\nCVE-2025-62472&amp;CVE-2025-59517&amp;CVE-2025-62221\n\n1)CVE-2025-62472:rasmans!QueueCloseConnections.\nWrite an out-of-bounds conn pointer -&gt; overwrite the user_data linked list -&gt; unlink -&gt; uaf(conn) -&gt; uaf(port) -&gt; lpe https://t.co/QWiFGAusoD",
     "tweettime": "2025-12-12, 06:50:05",
     "tweeturl": "https://twitter.com/ezrak1e/status/1999371160119914519",
@@ -52,20 +65,20 @@
         "https://github.com/rxerium/CVE-2025-8110",
         "https://www.wiz.io/blog/wiz-research-gogs-cve-2025-8110-rce-exploit"
     ],
-    "tweetfavorites": 300,
+    "tweetfavorites": 313,
     "tweetquotes": 0,
     "tweetreplies": 6,
-    "tweetretweets": 55,
+    "tweetretweets": 60,
     "tweettext": "🚨 New high severity zero day affecting Gogs (CVE-2025-8110) actively being exploited in the wild!\n\nI’ve created a detection script to detect vulnerable instances at scale:\nhttps://t.co/9si5WNN0BS\n\nAnalysis from Wiz:\nhttps://t.co/3bUuRz23rJ https://t.co/30kHCvz1M6",
     "tweettime": "2025-12-11, 10:58:35",
     "tweeturl": "https://twitter.com/hakrishi/status/1999071306537726221",
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 91,
+    "tweetfavorites": 92,
     "tweetquotes": 4,
     "tweetreplies": 4,
-    "tweetretweets": 34,
+    "tweetretweets": 35,
     "tweettext": "🚨 700+ Gogs servers hacked — no patch yet.\n\nNew flaw (CVE-2025-8110) lets attackers overwrite files and run code through symbolic links, bypassing last year’s fix.\n\nWiz found Supershell malware — often used by Chinese groups — on many hacked servers.\n\n🔗 Read: https://t.co/pEbmbKXWaG",
     "tweettime": "2025-12-11, 10:32:46",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1999064812433690758",
@@ -126,7 +139,7 @@
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62562",
         "https://x.com/HaifeiLi/status/1998478383504830856"
     ],
-    "tweetfavorites": 66,
+    "tweetfavorites": 67,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 4,
@@ -152,7 +165,7 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-62567"
     ],
-    "tweetfavorites": 72,
+    "tweetfavorites": 73,
     "tweetquotes": 1,
     "tweetreplies": 5,
     "tweetretweets": 7,
@@ -189,10 +202,20 @@
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 521,
+    "tweetfavorites": 33,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 2,
+    "tweettext": "We had a great collab with @luminaryxd , and we were awarded $5000 bounty by MSRC.\n\nWe will talk about our findings once it is disclosed by Microsoft\n\nCVE-2026-0386 👀 https://t.co/g2BkKNskUi",
+    "tweettime": "2025-12-09, 16:56:29",
+    "tweeturl": "https://twitter.com/osman1337_/status/1998436599890153859",
+    "username": "osman1337_"
+}
+{
+    "tweetfavorites": 523,
     "tweetquotes": 3,
     "tweetreplies": 15,
-    "tweetretweets": 112,
+    "tweetretweets": 113,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
@@ -246,6 +269,19 @@
     "tweettime": "2025-12-08, 19:52:35",
     "tweeturl": "https://twitter.com/objective_see/status/1998118531213533683",
     "username": "objective_see"
+}
+{
+    "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 0,
+    "tweetreplies": 3,
+    "tweetretweets": 30,
+    "tweettext": "🛡️We added D-Link routers and Array Networks vulnerabilities CVE-2022-37055 &amp; CVE-2025-66644 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/eFFWeGdTVJ",
+    "tweettime": "2025-12-08, 18:53:05",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1998103558592376938",
+    "username": "USCERT_gov"
 }
 {
     "tweetfavorites": 269,
@@ -526,10 +562,10 @@
         "https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js",
         "https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182"
     ],
-    "tweetfavorites": 154,
+    "tweetfavorites": 155,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 49,
+    "tweetretweets": 50,
     "tweettext": "🚨Alert🚨:Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote\nCode Execution(CVE-2025-55182&amp;CVE-2025-66478)\n🔥PoC :\nhttps://t.co/RG8kg59GfU\nhttps://t.co/fg5Qdjrzy1\n🧐Detail :\nhttps://t.co/MyU68wMNZ7\n-----------------------------------------\nCVE-2025-55182(CVSS https://t.co/1vhUBYiQqY",
     "tweettime": "2025-12-04, 02:31:43",
     "tweeturl": "https://twitter.com/HunterMapping/status/1996407037672968257",
@@ -575,7 +611,7 @@
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 264,
+    "tweetfavorites": 263,
     "tweetquotes": 16,
     "tweetreplies": 3,
     "tweetretweets": 71,

@@ -108,7 +108,7 @@
     "username": "hd3s5"
 }
 {
-    "tweetfavorites": 1623,
+    "tweetfavorites": 1621,
     "tweetquotes": 27,
     "tweetreplies": 23,
     "tweetretweets": 341,
@@ -203,10 +203,10 @@
     "username": "sirifu4k1"
 }
 {
-    "tweetfavorites": 406,
-    "tweetquotes": 13,
+    "tweetfavorites": 390,
+    "tweetquotes": 12,
     "tweetreplies": 13,
-    "tweetretweets": 142,
+    "tweetretweets": 128,
     "tweettext": "⚠️0-click #RCE in Outlook⚠️\n\nThe #CVE-2024-30103 vulnerability leverages a flaw in how Microsoft Outlook handles specific types of email content. An attacker can embed malicious code within the body of an email, which gets executed as soon as the email is opened. https://t.co/4JWs8FLaEW",
     "tweettime": "2024-06-18, 13:56:58",
     "tweeturl": "https://twitter.com/Gi7w0rm/status/1803064364536045631",
