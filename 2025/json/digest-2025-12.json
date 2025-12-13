@@ -1,8 +1,21 @@
 {
-    "tweetfavorites": 69,
+    "expanded_url": [
+        "https://github.com/garrettfoster13/CVE-2025-59501"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "CVE-2025-59501 - POC that abuses SCCM's AdminService API when Entra ID integration is enabled to elevate to Full Administrator and takeover an SCCM hierarchy. - @unsigned_sh0rt\nhttps://t.co/5hqHCbDVLi",
+    "tweettime": "2025-12-12, 18:31:00",
+    "tweeturl": "https://twitter.com/pentest_swissky/status/1999547550471274741",
+    "username": "pentest_swissky"
+}
+{
+    "tweetfavorites": 71,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 8,
+    "tweetretweets": 9,
     "tweettext": "Some LPE analysis in the December patch\n\nCVE-2025-62472&amp;CVE-2025-59517&amp;CVE-2025-62221\n\n1)CVE-2025-62472:rasmans!QueueCloseConnections.\nWrite an out-of-bounds conn pointer -&gt; overwrite the user_data linked list -&gt; unlink -&gt; uaf(conn) -&gt; uaf(port) -&gt; lpe https://t.co/QWiFGAusoD",
     "tweettime": "2025-12-12, 06:50:05",
     "tweeturl": "https://twitter.com/ezrak1e/status/1999371160119914519",
@@ -12,10 +25,10 @@
     "expanded_url": [
         "https://github.com/3lp4tr0n/SessionHop/"
     ],
-    "tweetfavorites": 33,
+    "tweetfavorites": 37,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 13,
+    "tweetretweets": 14,
     "tweettext": "#exploit\n1⃣. Windows Session Hijacking via COM - https://t.co/8KCZObJDgS\n// This technique serves as an alternative to remote process injection or LSASS dumping for activities like keylogging, screenshots, or LDAP access\n2⃣. CVE-2024-27822:\nmacOS PackageKit Privilege Escalation -",
     "tweettime": "2025-12-12, 03:46:10",
     "tweeturl": "https://twitter.com/ksg93rd/status/1999324875668824235",
@@ -139,10 +152,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-62567"
     ],
-    "tweetfavorites": 45,
+    "tweetfavorites": 72,
     "tweetquotes": 1,
-    "tweetreplies": 4,
-    "tweetretweets": 6,
+    "tweetreplies": 5,
+    "tweetretweets": 7,
     "tweettext": "Myself and @HackyBoiiiii  were credited with CVE-2025-62567 in Hyper-V! Submitted as a DOS, but fun nonetheless to root cause!\n\nhttps://t.co/mPxWijA9Xg",
     "tweettime": "2025-12-09, 18:51:15",
     "tweeturl": "https://twitter.com/33y0re/status/1998465481485734222",
@@ -176,10 +189,10 @@
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 518,
+    "tweetfavorites": 519,
     "tweetquotes": 3,
     "tweetreplies": 15,
-    "tweetretweets": 110,
+    "tweetretweets": 111,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
@@ -255,7 +268,7 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 191,
+    "tweetfavorites": 190,
     "tweetquotes": 2,
     "tweetreplies": 3,
     "tweetretweets": 58,
