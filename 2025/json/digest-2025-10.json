@@ -25,7 +25,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 172,
+    "tweetfavorites": 173,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 53,
@@ -332,7 +332,7 @@
     "tweetfavorites": 93,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 28,
+    "tweetretweets": 29,
     "tweettext": "🚨🚨CVE-2025-49844 (CVSS 10): Redis Lua RCE\n Authenticated attackers can exploit a Lua script to trigger a use-after-free, enabling RCE. Affects all Lua-enabled Redis versions.\n🔥PoC: https://t.co/OvL4Y7xcqc\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-49844\"\nZoomEye https://t.co/EDIFzXcSYU",
     "tweettime": "2025-10-10, 10:18:01",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1976593052358914358",

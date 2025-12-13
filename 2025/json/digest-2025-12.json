@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://hubs.ly/Q03Y3Ym_0"
     ],
-    "tweetfavorites": 36,
+    "tweetfavorites": 47,
     "tweetquotes": 0,
     "tweetreplies": 4,
-    "tweetretweets": 11,
+    "tweetretweets": 13,
     "tweettext": "🚨 CVE-2025-10573 | Ivanti Endpoint Manager\nCritical stored XSS (CVSS 9.6) → unauth JS in admin sessions.\n\n🔧 Fixed in Ivanti EPM 2024 SU4 SR1 (Dec 9)\n📊 Censys sees 1,898 exposed EPM instances, 80 vulnerable\n➡️ Upgrade immediately.\n\n🔗https://t.co/4EyNonmMaM\n\n#CVE202510573 https://t.co/ZH0rJZBXFR",
     "tweettime": "2025-12-12, 22:23:18",
     "tweeturl": "https://twitter.com/censysio/status/1999606010231554148",
@@ -25,10 +25,23 @@
     "username": "pentest_swissky"
 }
 {
-    "tweetfavorites": 75,
+    "expanded_url": [
+        "https://horizon3.ai/attack-research/the-freepbx-rabbit-hole-cve-2025-66039-and-others/"
+    ],
+    "tweetfavorites": 121,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 10,
+    "tweetretweets": 31,
+    "tweettext": "Check out our new deep dive on CVE-2025-66039 and other related CVEs. We found an authentication bypass, multiple SQL injections, and file upload to RCE in FreePBX.\n\nhttps://t.co/TuYCn7bHR3",
+    "tweettime": "2025-12-12, 13:54:01",
+    "tweeturl": "https://twitter.com/Horizon3Attack/status/1999477846067281974",
+    "username": "Horizon3Attack"
+}
+{
+    "tweetfavorites": 79,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 11,
     "tweettext": "Some LPE analysis in the December patch\n\nCVE-2025-62472&amp;CVE-2025-59517&amp;CVE-2025-62221\n\n1)CVE-2025-62472:rasmans!QueueCloseConnections.\nWrite an out-of-bounds conn pointer -&gt; overwrite the user_data linked list -&gt; unlink -&gt; uaf(conn) -&gt; uaf(port) -&gt; lpe https://t.co/QWiFGAusoD",
     "tweettime": "2025-12-12, 06:50:05",
     "tweeturl": "https://twitter.com/ezrak1e/status/1999371160119914519",
@@ -41,7 +54,7 @@
     "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 14,
+    "tweetretweets": 15,
     "tweettext": "#exploit\n1⃣. Windows Session Hijacking via COM - https://t.co/8KCZObJDgS\n// This technique serves as an alternative to remote process injection or LSASS dumping for activities like keylogging, screenshots, or LDAP access\n2⃣. CVE-2024-27822:\nmacOS PackageKit Privilege Escalation -",
     "tweettime": "2025-12-12, 03:46:10",
     "tweeturl": "https://twitter.com/ksg93rd/status/1999324875668824235",
@@ -248,9 +261,9 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 4018,
+    "tweetfavorites": 4020,
     "tweetquotes": 77,
-    "tweetreplies": 278,
+    "tweetreplies": 277,
     "tweetretweets": 303,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
     "tweettime": "2025-12-08, 20:15:31",
@@ -412,10 +425,10 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3498,
+    "tweetfavorites": 3499,
     "tweetquotes": 70,
     "tweetreplies": 63,
-    "tweetretweets": 418,
+    "tweetretweets": 419,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -575,7 +588,7 @@
     "expanded_url": [
         "https://github.com/ejpir/CVE-2025-55182-poc/blob/main/exploit-rce-v4.js"
     ],
-    "tweetfavorites": 235,
+    "tweetfavorites": 236,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 49,
@@ -689,7 +702,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 455,
+    "tweetfavorites": 454,
     "tweetquotes": 0,
     "tweetreplies": 7,
     "tweetretweets": 155,

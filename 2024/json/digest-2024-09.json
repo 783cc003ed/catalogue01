@@ -45,7 +45,7 @@
     "expanded_url": [
         "https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/"
     ],
-    "tweetfavorites": 154,
+    "tweetfavorites": 156,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 38,
@@ -256,7 +256,7 @@
     "username": "ptracesecurity"
 }
 {
-    "tweetfavorites": 586,
+    "tweetfavorites": 587,
     "tweetquotes": 16,
     "tweetreplies": 8,
     "tweetretweets": 182,
@@ -805,7 +805,7 @@
     "tweetfavorites": 312,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 108,
+    "tweetretweets": 109,
     "tweettext": "🚨 Windows MSI installers can let attackers escalate privileges to SYSTEM! Our latest blog explains these attacks &amp; introduces \"msiscan\" an open-source tool to detect #vulnerabilities like CVE-2024-38014. Learn about the new technique for reliable exploits https://t.co/CLfjGMl148",
     "tweettime": "2024-09-12, 09:57:02",
     "tweeturl": "https://twitter.com/sec_consult/status/1834169340410593519",
