@@ -766,7 +766,7 @@
     "tweetfavorites": 235,
     "tweetquotes": 3,
     "tweetreplies": 12,
-    "tweetretweets": 85,
+    "tweetretweets": 86,
     "tweettext": "🚨 Microsoft just fixed a Windows flaw hackers are already exploiting in the wild.\n\nThe kernel bug (CVE-2025-62215) lets anyone with local access gain full control — and it’s being linked with other attacks for complete takeover.\n\nInstall the latest patches now ↓ https://t.co/LA8LKon8iX",
     "tweettime": "2025-11-12, 10:23:54",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1988553332118736943",

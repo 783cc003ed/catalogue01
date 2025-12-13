@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 65,
+    "tweetfavorites": 69,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 6,
+    "tweetretweets": 8,
     "tweettext": "Some LPE analysis in the December patch\n\nCVE-2025-62472&amp;CVE-2025-59517&amp;CVE-2025-62221\n\n1)CVE-2025-62472:rasmans!QueueCloseConnections.\nWrite an out-of-bounds conn pointer -&gt; overwrite the user_data linked list -&gt; unlink -&gt; uaf(conn) -&gt; uaf(port) -&gt; lpe https://t.co/QWiFGAusoD",
     "tweettime": "2025-12-12, 06:50:05",
     "tweeturl": "https://twitter.com/ezrak1e/status/1999371160119914519",
@@ -12,10 +12,10 @@
     "expanded_url": [
         "https://github.com/3lp4tr0n/SessionHop/"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 33,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 13,
     "tweettext": "#exploit\n1⃣. Windows Session Hijacking via COM - https://t.co/8KCZObJDgS\n// This technique serves as an alternative to remote process injection or LSASS dumping for activities like keylogging, screenshots, or LDAP access\n2⃣. CVE-2024-27822:\nmacOS PackageKit Privilege Escalation -",
     "tweettime": "2025-12-12, 03:46:10",
     "tweeturl": "https://twitter.com/ksg93rd/status/1999324875668824235",
@@ -39,17 +39,17 @@
         "https://github.com/rxerium/CVE-2025-8110",
         "https://www.wiz.io/blog/wiz-research-gogs-cve-2025-8110-rce-exploit"
     ],
-    "tweetfavorites": 254,
+    "tweetfavorites": 300,
     "tweetquotes": 0,
     "tweetreplies": 6,
-    "tweetretweets": 49,
+    "tweetretweets": 55,
     "tweettext": "🚨 New high severity zero day affecting Gogs (CVE-2025-8110) actively being exploited in the wild!\n\nI’ve created a detection script to detect vulnerable instances at scale:\nhttps://t.co/9si5WNN0BS\n\nAnalysis from Wiz:\nhttps://t.co/3bUuRz23rJ https://t.co/30kHCvz1M6",
     "tweettime": "2025-12-11, 10:58:35",
     "tweeturl": "https://twitter.com/hakrishi/status/1999071306537726221",
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 84,
+    "tweetfavorites": 91,
     "tweetquotes": 4,
     "tweetreplies": 4,
     "tweetretweets": 34,
@@ -363,10 +363,10 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3499,
+    "tweetfavorites": 3498,
     "tweetquotes": 70,
     "tweetreplies": 63,
-    "tweetretweets": 417,
+    "tweetretweets": 418,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -526,7 +526,7 @@
     "expanded_url": [
         "https://github.com/ejpir/CVE-2025-55182-poc/blob/main/exploit-rce-v4.js"
     ],
-    "tweetfavorites": 236,
+    "tweetfavorites": 235,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 49,
@@ -640,7 +640,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 455,
+    "tweetfavorites": 454,
     "tweetquotes": 0,
     "tweetreplies": 7,
     "tweetretweets": 155,
