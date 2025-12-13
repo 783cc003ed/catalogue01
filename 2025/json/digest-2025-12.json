@@ -2,17 +2,17 @@
     "expanded_url": [
         "https://github.com/garrettfoster13/CVE-2025-59501"
     ],
-    "tweetfavorites": 31,
+    "tweetfavorites": 33,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 7,
+    "tweetretweets": 8,
     "tweettext": "CVE-2025-59501 - POC that abuses SCCM's AdminService API when Entra ID integration is enabled to elevate to Full Administrator and takeover an SCCM hierarchy. - @unsigned_sh0rt\nhttps://t.co/5hqHCbDVLi",
     "tweettime": "2025-12-12, 18:31:00",
     "tweeturl": "https://twitter.com/pentest_swissky/status/1999547550471274741",
     "username": "pentest_swissky"
 }
 {
-    "tweetfavorites": 71,
+    "tweetfavorites": 73,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 9,
@@ -25,9 +25,9 @@
     "expanded_url": [
         "https://github.com/3lp4tr0n/SessionHop/"
     ],
-    "tweetfavorites": 37,
+    "tweetfavorites": 38,
     "tweetquotes": 0,
-    "tweetreplies": 0,
+    "tweetreplies": 1,
     "tweetretweets": 14,
     "tweettext": "#exploit\n1⃣. Windows Session Hijacking via COM - https://t.co/8KCZObJDgS\n// This technique serves as an alternative to remote process injection or LSASS dumping for activities like keylogging, screenshots, or LDAP access\n2⃣. CVE-2024-27822:\nmacOS PackageKit Privilege Escalation -",
     "tweettime": "2025-12-12, 03:46:10",
@@ -189,10 +189,10 @@
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 519,
+    "tweetfavorites": 521,
     "tweetquotes": 3,
     "tweetreplies": 15,
-    "tweetretweets": 111,
+    "tweetretweets": 112,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
@@ -412,7 +412,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 593,
+    "tweetfavorites": 595,
     "tweetquotes": 6,
     "tweetreplies": 6,
     "tweetretweets": 71,
@@ -422,10 +422,10 @@
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 501,
+    "tweetfavorites": 505,
     "tweetquotes": 5,
     "tweetreplies": 6,
-    "tweetretweets": 66,
+    "tweetretweets": 67,
     "tweettext": "#CVE-2025-55182: RSC RCE — Full Unicode encoding can bypass certain WAFs that lack proper decoding or normalization capabilities. Please verify this on your end. https://t.co/70Ovx7lu5g",
     "tweettime": "2025-12-05, 03:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996788502386909539",
@@ -653,7 +653,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 454,
+    "tweetfavorites": 455,
     "tweetquotes": 0,
     "tweetreplies": 7,
     "tweetretweets": 155,

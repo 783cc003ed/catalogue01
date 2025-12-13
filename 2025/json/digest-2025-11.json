@@ -259,7 +259,7 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 550,
+    "tweetfavorites": 551,
     "tweetquotes": 14,
     "tweetreplies": 12,
     "tweetretweets": 164,
@@ -288,7 +288,7 @@
     "tweetfavorites": 148,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 49,
+    "tweetretweets": 48,
     "tweettext": "🚨CISA Warns of Google Chrome 0-Day Vulnerability Exploited in Attacks \n\nSource: https://t.co/DCXNg2QE6x\n\nCISA has issued an urgent alert about a zero-day vulnerability in Google Chrome, actively exploited by threat actors.\n\nCVE-2025-13223 is a flaw in the Chromium V8 JavaScript https://t.co/J4V0VraUYc",
     "tweettime": "2025-11-20, 12:25:08",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1991482944612167920",
@@ -321,7 +321,7 @@
     "expanded_url": [
         "https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/"
     ],
-    "tweetfavorites": 157,
+    "tweetfavorites": 161,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 51,
