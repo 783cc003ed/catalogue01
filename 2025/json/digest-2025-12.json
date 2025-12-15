@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 58,
+    "tweetfavorites": 67,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 7,
+    "tweetretweets": 10,
     "tweettext": "This issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 26.\n\nCVE-2025-43529 is a WebKit use-after-free remote code execution flaw that can be exploited by processing maliciously crafted web https://t.co/t8Q30PW6cy",
     "tweettime": "2025-12-14, 15:41:50",
     "tweeturl": "https://twitter.com/blackorbird/status/2000229752767156644",
@@ -49,6 +49,19 @@
 }
 {
     "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 44,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 17,
+    "tweettext": "🛡️ We added Sierra Wireless AirLink ALEOS unrestricted upload of file with dangerous type vulnerability CVE-2018-4063 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/0ykegNfGxU",
+    "tweettime": "2025-12-12, 18:46:37",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1999551479376396365",
+    "username": "USCERT_gov"
+}
+{
+    "expanded_url": [
         "https://github.com/garrettfoster13/CVE-2025-59501"
     ],
     "tweetfavorites": 33,
@@ -64,10 +77,10 @@
     "expanded_url": [
         "https://horizon3.ai/attack-research/the-freepbx-rabbit-hole-cve-2025-66039-and-others/"
     ],
-    "tweetfavorites": 121,
+    "tweetfavorites": 189,
     "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 31,
+    "tweetreplies": 4,
+    "tweetretweets": 49,
     "tweettext": "Check out our new deep dive on CVE-2025-66039 and other related CVEs. We found an authentication bypass, multiple SQL injections, and file upload to RCE in FreePBX.\n\nhttps://t.co/TuYCn7bHR3",
     "tweettime": "2025-12-12, 13:54:01",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1999477846067281974",
@@ -137,10 +150,10 @@
     "expanded_url": [
         "https://www.fortiguard.com/psirt/FG-IR-25-647"
     ],
-    "tweetfavorites": 196,
+    "tweetfavorites": 200,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 25,
+    "tweetretweets": 26,
     "tweettext": "Here we go, another crits on fori. \nAuthentication bypass on FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager when SAML is on \nCVE-2025-59718 CVE-2025-59719\nhttps://t.co/F8lCILYD8t https://t.co/sEGuCaVqU2",
     "tweettime": "2025-12-10, 11:14:40",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1998712968842981606",
@@ -264,7 +277,7 @@
     "tweetfavorites": 547,
     "tweetquotes": 3,
     "tweetreplies": 16,
-    "tweetretweets": 122,
+    "tweetretweets": 121,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
@@ -461,7 +474,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3501,
+    "tweetfavorites": 3502,
     "tweetquotes": 70,
     "tweetreplies": 64,
     "tweetretweets": 421,
@@ -596,7 +609,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 440,
+    "tweetfavorites": 439,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 52,

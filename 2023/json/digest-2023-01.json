@@ -587,6 +587,19 @@
 }
 {
     "expanded_url": [
+        "https://github.com/Wh04m1001/CVE-2023-21752"
+    ],
+    "tweetfavorites": 283,
+    "tweetquotes": 2,
+    "tweetreplies": 8,
+    "tweetretweets": 101,
+    "tweettext": "Here is PoC for CVE-2023-21752.\nArbitrary file delete in Windows Backup service.\nhttps://t.co/72Dz1uUMCg",
+    "tweettime": "2023-01-11, 20:26:07",
+    "tweeturl": "https://twitter.com/filip_dragovic/status/1613271057573486643",
+    "username": "filip_dragovic"
+}
+{
+    "expanded_url": [
         "https://github.com/michalbednarski/LeakValue"
     ],
     "tweetfavorites": 76,

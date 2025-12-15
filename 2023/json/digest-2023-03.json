@@ -266,10 +266,10 @@
     "expanded_url": [
         "https://vimeo.com/809084317"
     ],
-    "tweetfavorites": 336,
+    "tweetfavorites": 323,
     "tweetquotes": 7,
     "tweetreplies": 7,
-    "tweetretweets": 115,
+    "tweetretweets": 110,
     "tweettext": "Following some additional testing of #CVE-2023-23397 - I can confirm MS have only partially fixed this. You can still trigger auth to systems in trusted zones - ie other AD joined systems, which can then be relayed for privilege escalation 🔥https://t.co/6cZWHiNDjJ",
     "tweettime": "2023-03-17, 14:53:42",
     "tweeturl": "https://twitter.com/domchell/status/1636742613121236992",
@@ -344,7 +344,7 @@
         "https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY",
         "https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability"
     ],
-    "tweetfavorites": 369,
+    "tweetfavorites": 368,
     "tweetquotes": 1,
     "tweetreplies": 3,
     "tweetretweets": 140,

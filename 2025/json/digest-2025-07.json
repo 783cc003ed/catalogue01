@@ -214,6 +214,22 @@
 }
 {
     "expanded_url": [
+        "https://github.com/4m3rr0r/CVE-2025-47812-poc",
+        "https://www.rcesecurity.com/2025/06/what-the-null-wing-ftp-server-rce-cve-2025-47812/",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Wing%20FTP%20Server%22"
+    ],
+    "tweetfavorites": 63,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 13,
+    "tweettext": "🚨Alert🚨 CVE-2025-47812 (CVSS score: 10.0): Wing FTP Server Remote Code Execution (RCE) vulnerability\n🔥PoC :https://t.co/8obF5nbeUO\n🧐Deep Dive :https://t.co/izWfVAgPxY\n📊109K Services are found on the https://t.co/ysWb28Crld yearly.\n🔗Hunter Link:https://t.co/ddoU0pKL1U https://t.co/o0lGVch14R",
+    "tweettime": "2025-07-14, 06:17:49",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1944642469523861563",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
         "https://linz04.github.io/2025/06/20/CVE-2025-5959",
         "https://github.com/4m3rr0r/CVE-2025-47812-poc",
         "https://github.com/NetSPI/set_sail"
@@ -302,7 +318,7 @@
     "expanded_url": [
         "https://github.com/win3zz/CVE-2025-5777"
     ],
-    "tweetfavorites": 220,
+    "tweetfavorites": 221,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 66,
