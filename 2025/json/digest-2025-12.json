@@ -1,15 +1,51 @@
 {
+    "tweetfavorites": 58,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 7,
+    "tweettext": "This issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 26.\n\nCVE-2025-43529 is a WebKit use-after-free remote code execution flaw that can be exploited by processing maliciously crafted web https://t.co/t8Q30PW6cy",
+    "tweettime": "2025-12-14, 15:41:50",
+    "tweeturl": "https://twitter.com/blackorbird/status/2000229752767156644",
+    "username": "blackorbird"
+}
+{
+    "expanded_url": [
+        "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 3,
+    "tweetreplies": 4,
+    "tweetretweets": 46,
+    "tweettext": "🚨 Update: Chrome’s active zero-day is now CVE-2025-14174 (8.8), a remote out-of-bounds memory bug in the ANGLE graphics engine.\n\nAlready used in real attacks. Update now.\n\n🔗 Read: https://t.co/Y5QjvXkyL4",
+    "tweettime": "2025-12-13, 05:41:47",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1999716360365220055",
+    "username": "TheHackersNews"
+}
+{
     "expanded_url": [
         "https://hubs.ly/Q03Y3Ym_0"
     ],
-    "tweetfavorites": 47,
+    "tweetfavorites": 83,
     "tweetquotes": 0,
-    "tweetreplies": 4,
-    "tweetretweets": 13,
+    "tweetreplies": 6,
+    "tweetretweets": 24,
     "tweettext": "🚨 CVE-2025-10573 | Ivanti Endpoint Manager\nCritical stored XSS (CVSS 9.6) → unauth JS in admin sessions.\n\n🔧 Fixed in Ivanti EPM 2024 SU4 SR1 (Dec 9)\n📊 Censys sees 1,898 exposed EPM instances, 80 vulnerable\n➡️ Upgrade immediately.\n\n🔗https://t.co/4EyNonmMaM\n\n#CVE202510573 https://t.co/ZH0rJZBXFR",
     "tweettime": "2025-12-12, 22:23:18",
     "tweeturl": "https://twitter.com/censysio/status/1999606010231554148",
     "username": "censysio"
+}
+{
+    "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 45,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 20,
+    "tweettext": "🛡️ We added Google Chrome out-of-bounds memory access vulnerability CVE-2025-14174 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/9zaKqUmVJK",
+    "tweettime": "2025-12-12, 20:56:31",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1999584169198751846",
+    "username": "USCERT_gov"
 }
 {
     "expanded_url": [
@@ -38,10 +74,10 @@
     "username": "Horizon3Attack"
 }
 {
-    "tweetfavorites": 79,
+    "tweetfavorites": 126,
     "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 11,
+    "tweetreplies": 4,
+    "tweetretweets": 17,
     "tweettext": "Some LPE analysis in the December patch\n\nCVE-2025-62472&amp;CVE-2025-59517&amp;CVE-2025-62221\n\n1)CVE-2025-62472:rasmans!QueueCloseConnections.\nWrite an out-of-bounds conn pointer -&gt; overwrite the user_data linked list -&gt; unlink -&gt; uaf(conn) -&gt; uaf(port) -&gt; lpe https://t.co/QWiFGAusoD",
     "tweettime": "2025-12-12, 06:50:05",
     "tweeturl": "https://twitter.com/ezrak1e/status/1999371160119914519",
@@ -51,10 +87,10 @@
     "expanded_url": [
         "https://github.com/3lp4tr0n/SessionHop/"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 42,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 15,
+    "tweetretweets": 17,
     "tweettext": "#exploit\n1⃣. Windows Session Hijacking via COM - https://t.co/8KCZObJDgS\n// This technique serves as an alternative to remote process injection or LSASS dumping for activities like keylogging, screenshots, or LDAP access\n2⃣. CVE-2024-27822:\nmacOS PackageKit Privilege Escalation -",
     "tweettime": "2025-12-12, 03:46:10",
     "tweeturl": "https://twitter.com/ksg93rd/status/1999324875668824235",
@@ -88,7 +124,7 @@
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 92,
+    "tweetfavorites": 93,
     "tweetquotes": 4,
     "tweetreplies": 4,
     "tweetretweets": 35,
@@ -114,10 +150,10 @@
     "expanded_url": [
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62468"
     ],
-    "tweetfavorites": 174,
+    "tweetfavorites": 175,
     "tweetquotes": 0,
     "tweetreplies": 4,
-    "tweetretweets": 14,
+    "tweetretweets": 15,
     "tweettext": "This month MSRC fixed my Windows Defender info leak vulnerability CVE-2025-62468, but all acknowledgments are incorrect. First, I provided a working exploit, so it’s not “exploitable unlikely.”😅https://t.co/TXNxu8XPjU https://t.co/ZjF7redx9w",
     "tweettime": "2025-12-10, 05:02:56",
     "tweeturl": "https://twitter.com/KeyZ3r0/status/1998619416444190747",
@@ -138,7 +174,7 @@
         "https://github.com/osman1337-security/CVE-2025-54100/",
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-54100"
     ],
-    "tweetfavorites": 41,
+    "tweetfavorites": 42,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 6,
@@ -205,10 +241,10 @@
         "http://Cal.com",
         "https://gist.github.com/N3mes1s/727c2d8f90858bc96853ad427b6ff532"
     ],
-    "tweetfavorites": 108,
+    "tweetfavorites": 109,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 16,
+    "tweetretweets": 15,
     "tweettext": "CVE-2025-66489 - https://t.co/nBfOsZLCJp Authentication Bypass via TOTP Code Presence\n\nAnother #Pruva reproduction for today\n\nhttps://t.co/x28Stcilan\n\ncurl -X POST http://localhost:3001/api/auth/callback/credentials \\\n  -H \"Content-Type: application/x-www-form-urlencoded\" \\\n  -b https://t.co/1ofp0PtUZe",
     "tweettime": "2025-12-09, 17:13:15",
     "tweeturl": "https://twitter.com/gN3mes1s/status/1998440820056223844",
@@ -225,10 +261,10 @@
     "username": "osman1337_"
 }
 {
-    "tweetfavorites": 523,
+    "tweetfavorites": 547,
     "tweetquotes": 3,
-    "tweetreplies": 15,
-    "tweetretweets": 113,
+    "tweetreplies": 16,
+    "tweetretweets": 122,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
@@ -319,7 +355,7 @@
 {
     "tweetfavorites": 190,
     "tweetquotes": 2,
-    "tweetreplies": 3,
+    "tweetreplies": 7,
     "tweetretweets": 58,
     "tweettext": "⚠️ Hackers are exploiting a bug in the Sneeit Framework plugin (CVE-2025-6389) to run code on servers and create admin accounts on WordPress sites.\n\n⚠️ Separately, a flaw in ICTBroadcast (CVE-2025-2611) lets attackers use the BROADCAST cookie for unauthenticated remote shell https://t.co/VpAkRoIq0l",
     "tweettime": "2025-12-08, 09:17:49",
@@ -425,10 +461,10 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3499,
+    "tweetfavorites": 3501,
     "tweetquotes": 70,
-    "tweetreplies": 63,
-    "tweetretweets": 419,
+    "tweetreplies": 64,
+    "tweetretweets": 421,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -461,9 +497,9 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 595,
+    "tweetfavorites": 594,
     "tweetquotes": 6,
-    "tweetreplies": 6,
+    "tweetreplies": 7,
     "tweetretweets": 71,
     "tweettext": "#CVE-2025-55182: RSC RCE — It functions as an in-memory webshell backdoor, offering a significantly more covert foothold. Please verify this again on your own endpoint. https://t.co/aOic5sCu94",
     "tweettime": "2025-12-05, 07:15:27",
@@ -471,7 +507,7 @@
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 505,
+    "tweetfavorites": 506,
     "tweetquotes": 5,
     "tweetreplies": 6,
     "tweetretweets": 67,
@@ -702,7 +738,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 454,
+    "tweetfavorites": 453,
     "tweetquotes": 0,
     "tweetreplies": 7,
     "tweetretweets": 155,
