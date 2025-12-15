@@ -95,10 +95,10 @@
     "expanded_url": [
         "https://noperator.dev/posts/slice/"
     ],
-    "tweetfavorites": 168,
+    "tweetfavorites": 169,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 50,
+    "tweetretweets": 52,
     "tweettext": "A new tool: Slice 🔪 With the help of build-free CodeQL and Tree-Sitter, Slice can help GPT-5 can reliably reproduce discovery of CVE-2025-37778: use-after-free vulnerability in the Linux kernel! https://t.co/J2na8iX4hv https://t.co/JvTTXx4nEB",
     "tweettime": "2025-08-20, 14:16:58",
     "tweeturl": "https://twitter.com/noperator/status/1958171402353221657",
@@ -200,10 +200,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 286,
+    "tweetfavorites": 285,
     "tweetquotes": 5,
     "tweetreplies": 4,
-    "tweetretweets": 84,
+    "tweetretweets": 83,
     "tweettext": "CRITICAL: Microsoft Releases Guidance on High-Severity Vulnerability (CVE-2025-53786) in Exchange Hybrid Deployments!\n\nThe Cybersecurity and Infrastructure Security Agency (CISA) issues an Emergency Directive (ED 25-02), as exploitation could lead to complete identity takeover https://t.co/NyV8EEKrs2",
     "tweettime": "2025-08-08, 12:30:55",
     "tweeturl": "https://twitter.com/alitajran/status/1953796063573279070",
@@ -252,7 +252,7 @@
     "expanded_url": [
         "https://syst3mfailure.io/rbtree-family-drama/"
     ],
-    "tweetfavorites": 261,
+    "tweetfavorites": 260,
     "tweetquotes": 1,
     "tweetreplies": 2,
     "tweetretweets": 63,

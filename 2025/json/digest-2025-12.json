@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 67,
+    "tweetfavorites": 76,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 10,
+    "tweetretweets": 12,
     "tweettext": "This issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 26.\n\nCVE-2025-43529 is a WebKit use-after-free remote code execution flaw that can be exploited by processing maliciously crafted web https://t.co/t8Q30PW6cy",
     "tweettime": "2025-12-14, 15:41:50",
     "tweeturl": "https://twitter.com/blackorbird/status/2000229752767156644",
@@ -77,7 +77,7 @@
     "expanded_url": [
         "https://horizon3.ai/attack-research/the-freepbx-rabbit-hole-cve-2025-66039-and-others/"
     ],
-    "tweetfavorites": 189,
+    "tweetfavorites": 190,
     "tweetquotes": 0,
     "tweetreplies": 4,
     "tweetretweets": 49,
@@ -310,9 +310,9 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 4020,
+    "tweetfavorites": 4018,
     "tweetquotes": 77,
-    "tweetreplies": 277,
+    "tweetreplies": 279,
     "tweetretweets": 303,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
     "tweettime": "2025-12-08, 20:15:31",
@@ -477,7 +477,7 @@
     "tweetfavorites": 3502,
     "tweetquotes": 70,
     "tweetreplies": 64,
-    "tweetretweets": 421,
+    "tweetretweets": 422,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -751,7 +751,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 453,
+    "tweetfavorites": 452,
     "tweetquotes": 0,
     "tweetreplies": 7,
     "tweetretweets": 155,

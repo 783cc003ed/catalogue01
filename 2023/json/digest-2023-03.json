@@ -74,10 +74,10 @@
     "username": "RedDrip7"
 }
 {
-    "tweetfavorites": 1082,
+    "tweetfavorites": 1081,
     "tweetquotes": 8,
     "tweetreplies": 15,
-    "tweetretweets": 361,
+    "tweetretweets": 360,
     "tweettext": "Played with Outlook CVE-2023-23397. Made a simple PoC email builder &amp; sender featuring malicious reminder (just a Msg, no need to use a Task or Cal. Ev.). \n\nCritical 0-click account takeover on internal networks even after MS patch, no need to open the message on the victim side. https://t.co/S2FxA1jVAR",
     "tweettime": "2023-03-27, 10:49:16",
     "tweeturl": "https://twitter.com/an0n_r0/status/1640304974755135488",
@@ -475,7 +475,7 @@
     "expanded_url": [
         "https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-overflow/"
     ],
-    "tweetfavorites": 239,
+    "tweetfavorites": 237,
     "tweetquotes": 4,
     "tweetreplies": 3,
     "tweetretweets": 95,
@@ -599,7 +599,7 @@
     "expanded_url": [
         "https://github.com/xforcered/Windows_LPE_AFD_CVE-2023-21768"
     ],
-    "tweetfavorites": 1841,
+    "tweetfavorites": 1840,
     "tweetquotes": 17,
     "tweetreplies": 31,
     "tweetretweets": 549,
