@@ -28,10 +28,10 @@
     "expanded_url": [
         "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/"
     ],
-    "tweetfavorites": 218,
+    "tweetfavorites": 217,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 46,
+    "tweetretweets": 44,
     "tweettext": "RCE in FreePBX Endpoint through unauthenticated SQL injection (CVE-2025-57819)\n\nhttps://t.co/dvPIYaPnMJ\n\nCredits @watchtowrcyber\n\n#infosec https://t.co/uCj4Zenpdf",
     "tweettime": "2025-11-28, 16:01:27",
     "tweeturl": "https://twitter.com/0xor0ne/status/1994436484019933230",
@@ -239,7 +239,7 @@
     "expanded_url": [
         "https://github.com/rapid7/metasploit-framework/pull/20717"
     ],
-    "tweetfavorites": 350,
+    "tweetfavorites": 351,
     "tweetquotes": 2,
     "tweetreplies": 3,
     "tweetretweets": 70,
@@ -262,7 +262,7 @@
     "tweetfavorites": 551,
     "tweetquotes": 14,
     "tweetreplies": 12,
-    "tweetretweets": 164,
+    "tweetretweets": 166,
     "tweettext": "Zscaler ThreatLabz has discovered CVE-2025-50165 in the Microsoft Windows Graphics Component. With a CVSS score of 9.8, this vulnerability enables attackers to execute arbitrary code using a specially crafted JPEG image that can be triggered by any application that leverages the https://t.co/QC9DIhp6kN",
     "tweettime": "2025-11-20, 15:48:53",
     "tweeturl": "https://twitter.com/Threatlabz/status/1991534221366907269",
@@ -875,9 +875,9 @@
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 114,
+    "tweetfavorites": 117,
     "tweetquotes": 2,
-    "tweetreplies": 2,
+    "tweetreplies": 3,
     "tweetretweets": 36,
     "tweettext": "🚨🚨CVE-2025-11953(CVSS 9.8): Unauthenticated RCE in React Native CLI\nThe Metro server is reachable by default and contains an unauthenticated command-injection flaw that allows RCE.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-11953\"\nZoomEye Dork👉app=\"React Native Community https://t.co/LHBTzQTNQo",
     "tweettime": "2025-11-05, 02:32:20",
@@ -918,10 +918,10 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 459,
+    "tweetfavorites": 460,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 102,
+    "tweetretweets": 104,
     "tweettext": "🚨🚨CVE-2025-52665 (CVSS 10.0): RCE in UniFi OS\nA malicious actor on the management network could exploit a UniFi Access misconfiguration exposing an unauthenticated management API.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-52665\"\nZoomEye Dork👉app=\"UniFi OS\"\n279.8k+ live https://t.co/5Ug8zpu5oz",
     "tweettime": "2025-11-03, 03:33:17",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1985188506755575906",

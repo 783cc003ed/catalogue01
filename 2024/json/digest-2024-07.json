@@ -321,6 +321,21 @@
     "username": "SinSinology"
 }
 {
+    "expanded_url": [
+        "https://github.com/bigb0x/CVE-2024-36991",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Splunk%20Enterprise%22"
+    ],
+    "tweetfavorites": 321,
+    "tweetquotes": 1,
+    "tweetreplies": 12,
+    "tweetretweets": 78,
+    "tweettext": "🚨Alert🚨CVE-2024-36991: Path Traversal on the “/modules/messaging/“ endpoint in Splunk Enterprise on Windows\nPoC: https://t.co/vm2l0Gmi9H\n📊257.4K Services are found on https://t.co/ysWb28Crld\n🔗Hunter Link: https://t.co/F70di5ItZe\n👇Search Query\nHunter: /product.name=\"Splunk https://t.co/d0Naw5I4SB",
+    "tweettime": "2024-07-08, 02:12:09",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1810134748616155520",
+    "username": "HunterMapping"
+}
+{
     "tweetfavorites": 79,
     "tweetquotes": 2,
     "tweetreplies": 1,

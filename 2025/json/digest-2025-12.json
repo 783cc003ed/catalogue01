@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://msft.it/6011tmKSF"
     ],
-    "tweetfavorites": 101,
+    "tweetfavorites": 102,
     "tweetquotes": 6,
     "tweetreplies": 1,
-    "tweetretweets": 31,
+    "tweetretweets": 34,
     "tweettext": "Most exploitation activity related to the CVE-2025-55182 vulnerability affecting React Server Components, Next.js, and related frameworks originated from red teams assessments, but observed exploitation attempts by threat actors deliver various payloads. https://t.co/1bdRDguX1b",
     "tweettime": "2025-12-15, 19:43:34",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/2000652974595383475",
@@ -38,10 +38,10 @@
     "expanded_url": [
         "https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780"
     ],
-    "tweetfavorites": 171,
+    "tweetfavorites": 175,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 43,
+    "tweetretweets": 45,
     "tweettext": "🚨🚨 CVE-2025-13780 (CVSS: 9.1): pgAdmin4 Meta-Command Filter Command Execution\npgAdmin 4 &lt; 9.11 fails to detect meta-commands when a SQL file starts with UTF-8 BOM, leading to remote command execution during restore.\n🔥 PoC: https://t.co/XRlUUB3arH\n\nSearch by vul.cve https://t.co/qBiX4tGQD4",
     "tweettime": "2025-12-15, 02:31:09",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2000393159231385886",
@@ -113,7 +113,7 @@
     "expanded_url": [
         "https://github.com/garrettfoster13/CVE-2025-59501"
     ],
-    "tweetfavorites": 130,
+    "tweetfavorites": 129,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 32,
@@ -313,6 +313,16 @@
     "username": "gN3mes1s"
 }
 {
+    "tweetfavorites": 81,
+    "tweetquotes": 3,
+    "tweetreplies": 14,
+    "tweetretweets": 8,
+    "tweettext": "I found an RCE on someone's website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nThey don't have a bug bounty program.\n\nNobody asked me to test their site.\n\nI didn't even know who owned it until I had shell.\n\nI woke up at 2 AM because that's when real hackers work.\n\nI put on my Mr.",
+    "tweettime": "2025-12-09, 17:04:31",
+    "tweeturl": "https://twitter.com/gothburz/status/1998438624010924453",
+    "username": "gothburz"
+}
+{
     "tweetfavorites": 33,
     "tweetquotes": 2,
     "tweetreplies": 1,
@@ -323,7 +333,7 @@
     "username": "osman1337_"
 }
 {
-    "tweetfavorites": 556,
+    "tweetfavorites": 557,
     "tweetquotes": 3,
     "tweetreplies": 16,
     "tweetretweets": 123,
