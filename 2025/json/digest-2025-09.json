@@ -83,7 +83,7 @@
 {
     "tweetfavorites": 220,
     "tweetquotes": 3,
-    "tweetreplies": 7,
+    "tweetreplies": 6,
     "tweetretweets": 92,
     "tweettext": "🚨New Chrome Zero-Day Under Attack. PATCH NOW\n\nEdge, Brave, Opera, and Vivaldi users are also advised to update as soon as patches are available.\n\nGoogle patched four Chrome vulnerabilities, including the actively exploited zero-day CVE-2025-10585, a type confusion bug in the V8 https://t.co/RIn31xu8BD",
     "tweettime": "2025-09-18, 08:37:21",
@@ -169,10 +169,10 @@
     "expanded_url": [
         "https://gist.github.com/hawktrace/67836c7e9f35b72077b50f220349cd73"
     ],
-    "tweetfavorites": 251,
+    "tweetfavorites": 252,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 93,
+    "tweetretweets": 94,
     "tweettext": "🚨🚨CVE-2025-53772(CVSS 8.8): Critical RCE in Microsoft IIS WebDeploy!  Authenticated attackers can exploit untrusted data deserialization via HTTP headers to execute code remotely. \n🔥PoC: https://t.co/R4ZbT8BhvG\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-53772\"\nZoomEye https://t.co/RJZFjLsXkT",
     "tweettime": "2025-09-03, 06:32:03",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1963127835788443860",

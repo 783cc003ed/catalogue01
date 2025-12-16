@@ -2,20 +2,33 @@
     "expanded_url": [
         "https://msft.it/6011tmKSF"
     ],
-    "tweetfavorites": 94,
+    "tweetfavorites": 101,
     "tweetquotes": 6,
     "tweetreplies": 1,
-    "tweetretweets": 30,
+    "tweetretweets": 31,
     "tweettext": "Most exploitation activity related to the CVE-2025-55182 vulnerability affecting React Server Components, Next.js, and related frameworks originated from red teams assessments, but observed exploitation attempts by threat actors deliver various payloads. https://t.co/1bdRDguX1b",
     "tweettime": "2025-12-15, 19:43:34",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/2000652974595383475",
     "username": "MsftSecIntel"
 }
 {
-    "tweetfavorites": 50,
+    "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 16,
+    "tweettext": "🛡️ We added Gladinet &amp; Apple vulnerabilities CVE-2025-14611 &amp; CVE-2025-43529 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/BXihRl42AI",
+    "tweettime": "2025-12-15, 18:23:26",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/2000632809472327988",
+    "username": "USCERT_gov"
+}
+{
+    "tweetfavorites": 53,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 7,
+    "tweetretweets": 9,
     "tweettext": "🚨🚨CVE-2025-66430 (CVSS 9.1): Root Privilege Escalation in Plesk 18.0\nA flaw in Plesk's Password-Protected Directories lets any authenticated user inject arbitrary data into Apache config — escalating to full root command execution on the server.\n\nSearch by vul.cve https://t.co/tESv2ycLwJ",
     "tweettime": "2025-12-15, 10:02:18",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2000506697434239428",
@@ -35,7 +48,7 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 108,
+    "tweetfavorites": 109,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 16,
@@ -237,7 +250,7 @@
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62562",
         "https://x.com/HaifeiLi/status/1998478383504830856"
     ],
-    "tweetfavorites": 66,
+    "tweetfavorites": 67,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 4,
@@ -310,7 +323,7 @@
     "username": "osman1337_"
 }
 {
-    "tweetfavorites": 555,
+    "tweetfavorites": 556,
     "tweetquotes": 3,
     "tweetreplies": 16,
     "tweetretweets": 123,

@@ -61,7 +61,7 @@
     "tweetfavorites": 345,
     "tweetquotes": 11,
     "tweetreplies": 2,
-    "tweetretweets": 180,
+    "tweetretweets": 179,
     "tweettext": "CVE-2020-0688: REMOTE CODE EXECUTION ON MICROSOFT EXCHANGE SERVER THROUGH FIXED CRYPTOGRAPHIC KEYS\n\n- RCE with system privileges on all exchange server 😱\n\n#infosec #pentest #redteam  https://t.co/jGdfSOEgcl https://t.co/M3nRxGBfrE",
     "tweettime": "2020-02-26, 06:50:32",
     "tweeturl": "https://twitter.com/CyberWarship/status/1232558547344510978",
