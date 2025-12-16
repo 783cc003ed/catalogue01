@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://msft.it/6011tmKSF"
     ],
-    "tweetfavorites": 109,
+    "tweetfavorites": 110,
     "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 38,
+    "tweetretweets": 40,
     "tweettext": "Most exploitation activity related to the CVE-2025-55182 vulnerability affecting React Server Components, Next.js, and related frameworks originated from red teams assessments, but observed exploitation attempts by threat actors deliver various payloads. https://t.co/1bdRDguX1b",
     "tweettime": "2025-12-15, 19:43:34",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/2000652974595383475",
@@ -15,7 +15,7 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 38,
+    "tweetfavorites": 41,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 18,
@@ -250,7 +250,7 @@
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62562",
         "https://x.com/HaifeiLi/status/1998478383504830856"
     ],
-    "tweetfavorites": 66,
+    "tweetfavorites": 67,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 4,
@@ -336,7 +336,7 @@
     "tweetfavorites": 557,
     "tweetquotes": 3,
     "tweetreplies": 16,
-    "tweetretweets": 123,
+    "tweetretweets": 124,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
@@ -533,7 +533,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3505,
+    "tweetfavorites": 3506,
     "tweetquotes": 70,
     "tweetreplies": 63,
     "tweetretweets": 422,
