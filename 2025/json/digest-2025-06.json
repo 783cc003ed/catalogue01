@@ -213,7 +213,7 @@
     "tweetfavorites": 128,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 58,
+    "tweetretweets": 57,
     "tweettext": "🚨Zero-day Alert - PATCH NOW‼️\n\nGoogle has released an emergency out-of-band patch to address a high-severity Chrome zero-day vulnerability tracked as CVE-2025-5419, which is actively exploited in the wild. \n\nThe flaw is an out-of-bounds read and write vulnerability in Chrome’s https://t.co/g5oB1t7WHv",
     "tweettime": "2025-06-03, 08:07:55",
     "tweeturl": "https://twitter.com/H4ckManac/status/1929812277890285823",

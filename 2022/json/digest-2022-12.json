@@ -52,10 +52,10 @@
     "expanded_url": [
         "https://www.shadowserver.org/what-we-do/network-reporting/vulnerable-exchange-server-report/"
     ],
-    "tweetfavorites": 257,
+    "tweetfavorites": 258,
     "tweetquotes": 11,
     "tweetreplies": 6,
-    "tweetretweets": 110,
+    "tweetretweets": 111,
     "tweettext": "We are reporting out Microsoft Exchange servers still likely vulnerable to CVE-2022-41082 #ProxyNotShell. Nearly 70K IPs found without MS patches applied (based on version info). Previously recommended mitigation techniques can be bypassed by attackers\n\nhttps://t.co/ApcM9HwiOK https://t.co/dGA0LvEAbG",
     "tweettime": "2022-12-26, 18:12:33",
     "tweeturl": "https://twitter.com/Shadowserver/status/1607439237615419400",
