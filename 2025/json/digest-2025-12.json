@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://msft.it/6011tmKSF"
     ],
-    "tweetfavorites": 102,
-    "tweetquotes": 6,
+    "tweetfavorites": 109,
+    "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 34,
+    "tweetretweets": 38,
     "tweettext": "Most exploitation activity related to the CVE-2025-55182 vulnerability affecting React Server Components, Next.js, and related frameworks originated from red teams assessments, but observed exploitation attempts by threat actors deliver various payloads. https://t.co/1bdRDguX1b",
     "tweettime": "2025-12-15, 19:43:34",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/2000652974595383475",
@@ -15,20 +15,20 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 35,
+    "tweetfavorites": 38,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 16,
+    "tweetretweets": 18,
     "tweettext": "🛡️ We added Gladinet &amp; Apple vulnerabilities CVE-2025-14611 &amp; CVE-2025-43529 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/BXihRl42AI",
     "tweettime": "2025-12-15, 18:23:26",
     "tweeturl": "https://twitter.com/USCERT_gov/status/2000632809472327988",
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 53,
+    "tweetfavorites": 55,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 9,
+    "tweetretweets": 10,
     "tweettext": "🚨🚨CVE-2025-66430 (CVSS 9.1): Root Privilege Escalation in Plesk 18.0\nA flaw in Plesk's Password-Protected Directories lets any authenticated user inject arbitrary data into Apache config — escalating to full root command execution on the server.\n\nSearch by vul.cve https://t.co/tESv2ycLwJ",
     "tweettime": "2025-12-15, 10:02:18",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2000506697434239428",
@@ -38,20 +38,20 @@
     "expanded_url": [
         "https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780"
     ],
-    "tweetfavorites": 175,
+    "tweetfavorites": 176,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 45,
+    "tweetretweets": 46,
     "tweettext": "🚨🚨 CVE-2025-13780 (CVSS: 9.1): pgAdmin4 Meta-Command Filter Command Execution\npgAdmin 4 &lt; 9.11 fails to detect meta-commands when a SQL file starts with UTF-8 BOM, leading to remote command execution during restore.\n🔥 PoC: https://t.co/XRlUUB3arH\n\nSearch by vul.cve https://t.co/qBiX4tGQD4",
     "tweettime": "2025-12-15, 02:31:09",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2000393159231385886",
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 109,
+    "tweetfavorites": 111,
     "tweetquotes": 2,
     "tweetreplies": 1,
-    "tweetretweets": 16,
+    "tweetretweets": 17,
     "tweettext": "This issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 26.\n\nCVE-2025-43529 is a WebKit use-after-free remote code execution flaw that can be exploited by processing maliciously crafted web https://t.co/t8Q30PW6cy",
     "tweettime": "2025-12-14, 15:41:50",
     "tweeturl": "https://twitter.com/blackorbird/status/2000229752767156644",
@@ -61,7 +61,7 @@
     "expanded_url": [
         "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html"
     ],
-    "tweetfavorites": 138,
+    "tweetfavorites": 139,
     "tweetquotes": 3,
     "tweetreplies": 4,
     "tweetretweets": 46,
@@ -87,10 +87,10 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 46,
+    "tweetfavorites": 45,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 20,
+    "tweetretweets": 21,
     "tweettext": "🛡️ We added Google Chrome out-of-bounds memory access vulnerability CVE-2025-14174 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/9zaKqUmVJK",
     "tweettime": "2025-12-12, 20:56:31",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1999584169198751846",
@@ -103,7 +103,7 @@
     "tweetfavorites": 44,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 17,
+    "tweetretweets": 18,
     "tweettext": "🛡️ We added Sierra Wireless AirLink ALEOS unrestricted upload of file with dangerous type vulnerability CVE-2018-4063 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/0ykegNfGxU",
     "tweettime": "2025-12-12, 18:46:37",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1999551479376396365",
@@ -126,10 +126,10 @@
     "expanded_url": [
         "https://horizon3.ai/attack-research/the-freepbx-rabbit-hole-cve-2025-66039-and-others/"
     ],
-    "tweetfavorites": 190,
+    "tweetfavorites": 195,
     "tweetquotes": 0,
     "tweetreplies": 4,
-    "tweetretweets": 49,
+    "tweetretweets": 53,
     "tweettext": "Check out our new deep dive on CVE-2025-66039 and other related CVEs. We found an authentication bypass, multiple SQL injections, and file upload to RCE in FreePBX.\n\nhttps://t.co/TuYCn7bHR3",
     "tweettime": "2025-12-12, 13:54:01",
     "tweeturl": "https://twitter.com/Horizon3Attack/status/1999477846067281974",
@@ -199,7 +199,7 @@
     "expanded_url": [
         "https://www.fortiguard.com/psirt/FG-IR-25-647"
     ],
-    "tweetfavorites": 200,
+    "tweetfavorites": 201,
     "tweetquotes": 1,
     "tweetreplies": 1,
     "tweetretweets": 26,
@@ -250,7 +250,7 @@
         "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62562",
         "https://x.com/HaifeiLi/status/1998478383504830856"
     ],
-    "tweetfavorites": 67,
+    "tweetfavorites": 66,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 4,
@@ -359,7 +359,7 @@
         "https://hunter.how/list?searchValue=product.name%3D%22Apache%20Tika%22",
         "http://product.name"
     ],
-    "tweetfavorites": 155,
+    "tweetfavorites": 154,
     "tweetquotes": 0,
     "tweetreplies": 5,
     "tweetretweets": 32,

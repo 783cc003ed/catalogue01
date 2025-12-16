@@ -114,10 +114,10 @@
     "expanded_url": [
         "https://go.dhs.gov/in5"
     ],
-    "tweetfavorites": 472,
-    "tweetquotes": 10,
+    "tweetfavorites": 473,
+    "tweetquotes": 9,
     "tweetreplies": 23,
-    "tweetretweets": 181,
+    "tweetretweets": 180,
     "tweettext": "CVE-2025-59287 is being actively exploited. Update Windows Server Update Services now to reduce risk of a threat actor achieving remote code execution with system privileges. See our Alert for details ➡️ https://t.co/t5xpDWjSWS #Cybersecurity https://t.co/tOHXCgFbyk",
     "tweettime": "2025-10-24, 20:33:41",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1981821419219493365",
@@ -127,7 +127,7 @@
     "expanded_url": [
         "https://www.huntress.com/blog/exploitation-of-windows-server-update-services-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 521,
+    "tweetfavorites": 520,
     "tweetquotes": 12,
     "tweetreplies": 6,
     "tweetretweets": 83,

@@ -56,6 +56,19 @@
 }
 {
     "expanded_url": [
+        "https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html"
+    ],
+    "tweetfavorites": 381,
+    "tweetquotes": 10,
+    "tweetreplies": 12,
+    "tweetretweets": 176,
+    "tweettext": "🚨 WARNING: Cisco VPN gear under active attack!\n\nTwo zero-days (CVE-2025-20333, CVSS 9.9 &amp; CVE-2025-20362) let hackers gain root access and bypass auth.\n\nCISA issued an emergency directive—federal agencies have 24 hrs to patch.\n\nDetails → https://t.co/7Dz6adVyLP",
+    "tweettime": "2025-09-25, 18:19:02",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/1971278285138268395",
+    "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
         "https://cybersecuritynews.com/chrome-0-day-vulnerability-analysis/"
     ],
     "tweetfavorites": 37,

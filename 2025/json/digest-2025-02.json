@@ -153,6 +153,19 @@
     "username": "HunterMapping"
 }
 {
+    "expanded_url": [
+        "https://bit.ly/3zHsPI9"
+    ],
+    "tweetfavorites": 39,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 15,
+    "tweettext": "Trimble released security updates for a deserialization vulnerability CVE-2025-0994 impacting its Cityworks Server AMS. This enables threat actors to conduct remote code execution against a customer’s Microsoft IIS web server. Apply updates &amp; learn more 👉 https://t.co/TyBvD9evaQ https://t.co/Bqxe5mVe7r",
+    "tweettime": "2025-02-07, 18:39:04",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/1887934116353462620",
+    "username": "USCERT_gov"
+}
+{
     "tweetfavorites": 567,
     "tweetquotes": 7,
     "tweetreplies": 6,
