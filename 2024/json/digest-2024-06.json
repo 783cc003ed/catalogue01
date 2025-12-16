@@ -324,10 +324,10 @@
     "expanded_url": [
         "https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/"
     ],
-    "tweetfavorites": 61,
+    "tweetfavorites": 62,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 15,
+    "tweetretweets": 16,
     "tweettext": "Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938\n\nAn article by @abc_sup, Gulshan Singh, and @vxradius about exploiting a vulnerability in the Android Binder device driver that leads to a slab use-after-free.\n\nhttps://t.co/oXBNfePtSm https://t.co/fRfeiS9a7W",
     "tweettime": "2024-06-13, 23:10:07",
     "tweeturl": "https://twitter.com/linkersec/status/1801391631066599584",
@@ -445,7 +445,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 638,
+    "tweetfavorites": 639,
     "tweetquotes": 10,
     "tweetreplies": 37,
     "tweetretweets": 73,

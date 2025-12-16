@@ -193,7 +193,7 @@
     "tweetfavorites": 299,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 94,
+    "tweetretweets": 93,
     "tweettext": "🔥 Windows had a hole [CVE-2025-49760] in its core RPC system that let attackers pretend to be trusted services—like hijacking DNS, but inside your OS.\n\nThe wild part? Even Windows Defender’s ID could be spoofed.\n\nHere’s how the EPM poisoning attack worked ↓ https://t.co/pbUfGHGTdg",
     "tweettime": "2025-08-10, 12:34:19",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1954521693919068164",

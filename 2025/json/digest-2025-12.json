@@ -2,17 +2,17 @@
     "expanded_url": [
         "https://msft.it/6011tmKSF"
     ],
-    "tweetfavorites": 89,
+    "tweetfavorites": 94,
     "tweetquotes": 6,
     "tweetreplies": 1,
-    "tweetretweets": 29,
+    "tweetretweets": 30,
     "tweettext": "Most exploitation activity related to the CVE-2025-55182 vulnerability affecting React Server Components, Next.js, and related frameworks originated from red teams assessments, but observed exploitation attempts by threat actors deliver various payloads. https://t.co/1bdRDguX1b",
     "tweettime": "2025-12-15, 19:43:34",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/2000652974595383475",
     "username": "MsftSecIntel"
 }
 {
-    "tweetfavorites": 49,
+    "tweetfavorites": 50,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 7,
@@ -22,7 +22,20 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 107,
+    "expanded_url": [
+        "https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780"
+    ],
+    "tweetfavorites": 171,
+    "tweetquotes": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 43,
+    "tweettext": "🚨🚨 CVE-2025-13780 (CVSS: 9.1): pgAdmin4 Meta-Command Filter Command Execution\npgAdmin 4 &lt; 9.11 fails to detect meta-commands when a SQL file starts with UTF-8 BOM, leading to remote command execution during restore.\n🔥 PoC: https://t.co/XRlUUB3arH\n\nSearch by vul.cve https://t.co/qBiX4tGQD4",
+    "tweettime": "2025-12-15, 02:31:09",
+    "tweeturl": "https://twitter.com/zoomeye_team/status/2000393159231385886",
+    "username": "zoomeye_team"
+}
+{
+    "tweetfavorites": 108,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 16,
@@ -35,10 +48,10 @@
     "expanded_url": [
         "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html"
     ],
-    "tweetfavorites": 137,
+    "tweetfavorites": 138,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 45,
+    "tweetretweets": 46,
     "tweettext": "🚨 Update: Chrome’s active zero-day is now CVE-2025-14174 (8.8), a remote out-of-bounds memory bug in the ANGLE graphics engine.\n\nAlready used in real attacks. Update now.\n\n🔗 Read: https://t.co/Y5QjvXkyL4",
     "tweettime": "2025-12-13, 05:41:47",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1999716360365220055",
@@ -87,10 +100,10 @@
     "expanded_url": [
         "https://github.com/garrettfoster13/CVE-2025-59501"
     ],
-    "tweetfavorites": 33,
+    "tweetfavorites": 130,
     "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 8,
+    "tweetreplies": 1,
+    "tweetretweets": 32,
     "tweettext": "CVE-2025-59501 - POC that abuses SCCM's AdminService API when Entra ID integration is enabled to elevate to Full Administrator and takeover an SCCM hierarchy. - @unsigned_sh0rt\nhttps://t.co/5hqHCbDVLi",
     "tweettime": "2025-12-12, 18:31:00",
     "tweeturl": "https://twitter.com/pentest_swissky/status/1999547550471274741",
@@ -497,9 +510,9 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3504,
+    "tweetfavorites": 3505,
     "tweetquotes": 70,
-    "tweetreplies": 64,
+    "tweetreplies": 63,
     "tweetretweets": 422,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
@@ -543,10 +556,10 @@
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 506,
+    "tweetfavorites": 505,
     "tweetquotes": 5,
     "tweetreplies": 6,
-    "tweetretweets": 67,
+    "tweetretweets": 66,
     "tweettext": "#CVE-2025-55182: RSC RCE — Full Unicode encoding can bypass certain WAFs that lack proper decoding or normalization capabilities. Please verify this on your end. https://t.co/70Ovx7lu5g",
     "tweettime": "2025-12-05, 03:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996788502386909539",
@@ -774,10 +787,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 452,
+    "tweetfavorites": 453,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 155,
+    "tweetretweets": 154,
     "tweettext": "🚨 PoC Exploit Released For Outlook 0-Click Remote Code Execution Vulnerability \n\nSource: https://t.co/zpeuGMQuHa\n\nA Proof-of-Concept (PoC) exploit code has been released for a critical remote code execution (RCE) vulnerability in Microsoft Outlook, identified as CVE-2024-21413. https://t.co/GZAl0rTJOp",
     "tweettime": "2025-12-01, 06:21:15",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1995377636772864286",

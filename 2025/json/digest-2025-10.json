@@ -154,7 +154,7 @@
     "tweetfavorites": 211,
     "tweetquotes": 2,
     "tweetreplies": 0,
-    "tweetretweets": 63,
+    "tweetretweets": 64,
     "tweettext": "🚨🚨CVE-2025-22167 (CVSS 8.7): Jira Path Traversal flaw allows arbitrary file writes to any JVM-writable path. Possible RCE when chained with other exploits.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-22167\"\nZoomEye Dork👉app=\"Atlassian JIRA\"\nOver 107k vulnerable instances. https://t.co/PXi8CQQsYg",
     "tweettime": "2025-10-23, 02:48:09",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1981190881089900881",
