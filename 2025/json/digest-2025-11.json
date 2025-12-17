@@ -694,10 +694,10 @@
     "expanded_url": [
         "https://github.com/mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates"
     ],
-    "tweetfavorites": 173,
+    "tweetfavorites": 174,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 46,
+    "tweetretweets": 47,
     "tweettext": "#exploit\nHigh severity Windows vulnerabilities:\n\n1⃣. CVE-2025-26686:\nRCE in Windows 10/11/Srv TCP/IP stack - https://t.co/kswysi2zzg\n// leaves sensitive memory unlocked, allowing remote attackers to hijack systems. Exploitable over the network, it risks full compromise. Patch",
     "tweettime": "2025-11-13, 14:07:49",
     "tweeturl": "https://twitter.com/ksg93rd/status/1988972071683031414",

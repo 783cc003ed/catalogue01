@@ -191,7 +191,7 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/12/02/"
     ],
-    "tweetfavorites": 160,
+    "tweetfavorites": 159,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 51,
@@ -212,6 +212,16 @@
     "tweettime": "2025-01-02, 05:08:18",
     "tweeturl": "https://twitter.com/Dinosn/status/1874684119768264835",
     "username": "Dinosn"
+}
+{
+    "tweetfavorites": 472,
+    "tweetquotes": 2,
+    "tweetreplies": 4,
+    "tweetretweets": 110,
+    "tweettext": "1/ A DoS exploit demo for CVE-2024-49112 by @safebreach.\nRCE exploit is probably coming soon.\nPatch! https://t.co/HPcVjFH6xB",
+    "tweettime": "2025-01-01, 20:46:07",
+    "tweeturl": "https://twitter.com/TalBeerySec/status/1874557738312925268",
+    "username": "TalBeerySec"
 }
 {
     "expanded_url": [

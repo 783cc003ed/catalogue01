@@ -142,7 +142,7 @@
         "https://github.com/hakaioffsec/CVE-2024-21338",
         "https://hakaisecurity.io/cve-2024-21338-from-admin-to-kernel-through-token-manipulation-and-windows-kernel-exploitation/research-blog/"
     ],
-    "tweetfavorites": 595,
+    "tweetfavorites": 594,
     "tweetquotes": 2,
     "tweetreplies": 3,
     "tweetretweets": 202,
@@ -435,7 +435,7 @@
     "tweetfavorites": 1595,
     "tweetquotes": 9,
     "tweetreplies": 17,
-    "tweetretweets": 427,
+    "tweetretweets": 429,
     "tweettext": "CVE-2024-1086 (Local Privilege Escalation) \n-\nWhile the xz backdoor was all over the place, this incredible exploit seemed to \"slip\" by!\n-\nThis is working on most Linux kernels from 5.14 to v6.6\n-\nRepo: https://t.co/C9wmPd7LuS\n-\nCreator: @notselwyn https://t.co/MUpTPau8Tz",
     "tweettime": "2024-04-06, 14:23:51",
     "tweeturl": "https://twitter.com/0dayCTF/status/1776616816460050891",

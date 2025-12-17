@@ -1,11 +1,34 @@
 {
     "expanded_url": [
+        "https://cybersecuritynews.com/windows-admin-center-vulnerability/"
+    ],
+    "tweetfavorites": 136,
+    "tweetquotes": 3,
+    "tweetreplies": 3,
+    "tweetretweets": 48,
+    "tweettext": "🛡️ Windows Admin Center Vulnerability (CVE-2025-64669) Let Attackers Escalate Privileges \n\nSource: https://t.co/Or3UhwZLkq\n\nA new local privilege escalation vulnerability in Microsoft’s Windows Admin Center (WAC), affecting versions up to 2.4.2.1 and environments running WAC 2411 https://t.co/rvgP4yCpEA",
+    "tweettime": "2025-12-16, 18:48:00",
+    "tweeturl": "https://twitter.com/The_Cyber_News/status/2001001379318608263",
+    "username": "The_Cyber_News"
+}
+{
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 11,
+    "tweettext": "🚨🚨 Three Critical Vulnerabilities In FreePBX\nCVE-2025-61675: Authenticated SQL Injection - Affects endpoint module\nCVE-2025-61678: Authenticated Arbitrary File Upload - Affects endpoint module\nCVE-2025-66039: Authentication Bypass - Affects framework module\n\nZoomEye Dork👉 https://t.co/31mgogv5II",
+    "tweettime": "2025-12-16, 03:22:25",
+    "tweeturl": "https://twitter.com/zoomeye_team/status/2000768450202132578",
+    "username": "zoomeye_team"
+}
+{
+    "expanded_url": [
         "https://msft.it/6011tmKSF"
     ],
-    "tweetfavorites": 110,
+    "tweetfavorites": 119,
     "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 40,
+    "tweetretweets": 44,
     "tweettext": "Most exploitation activity related to the CVE-2025-55182 vulnerability affecting React Server Components, Next.js, and related frameworks originated from red teams assessments, but observed exploitation attempts by threat actors deliver various payloads. https://t.co/1bdRDguX1b",
     "tweettime": "2025-12-15, 19:43:34",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/2000652974595383475",
@@ -15,17 +38,17 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 41,
+    "tweetfavorites": 46,
     "tweetquotes": 0,
-    "tweetreplies": 1,
-    "tweetretweets": 18,
+    "tweetreplies": 2,
+    "tweetretweets": 22,
     "tweettext": "🛡️ We added Gladinet &amp; Apple vulnerabilities CVE-2025-14611 &amp; CVE-2025-43529 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/BXihRl42AI",
     "tweettime": "2025-12-15, 18:23:26",
     "tweeturl": "https://twitter.com/USCERT_gov/status/2000632809472327988",
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 55,
+    "tweetfavorites": 60,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 10,
@@ -38,17 +61,17 @@
     "expanded_url": [
         "https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780"
     ],
-    "tweetfavorites": 176,
+    "tweetfavorites": 179,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 46,
+    "tweetretweets": 47,
     "tweettext": "🚨🚨 CVE-2025-13780 (CVSS: 9.1): pgAdmin4 Meta-Command Filter Command Execution\npgAdmin 4 &lt; 9.11 fails to detect meta-commands when a SQL file starts with UTF-8 BOM, leading to remote command execution during restore.\n🔥 PoC: https://t.co/XRlUUB3arH\n\nSearch by vul.cve https://t.co/qBiX4tGQD4",
     "tweettime": "2025-12-15, 02:31:09",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2000393159231385886",
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 111,
+    "tweetfavorites": 113,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 17,
@@ -90,7 +113,7 @@
     "tweetfavorites": 45,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 21,
+    "tweetretweets": 20,
     "tweettext": "🛡️ We added Google Chrome out-of-bounds memory access vulnerability CVE-2025-14174 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/9zaKqUmVJK",
     "tweettime": "2025-12-12, 20:56:31",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1999584169198751846",
@@ -136,10 +159,10 @@
     "username": "Horizon3Attack"
 }
 {
-    "tweetfavorites": 126,
+    "tweetfavorites": 127,
     "tweetquotes": 0,
     "tweetreplies": 4,
-    "tweetretweets": 17,
+    "tweetretweets": 18,
     "tweettext": "Some LPE analysis in the December patch\n\nCVE-2025-62472&amp;CVE-2025-59517&amp;CVE-2025-62221\n\n1)CVE-2025-62472:rasmans!QueueCloseConnections.\nWrite an out-of-bounds conn pointer -&gt; overwrite the user_data linked list -&gt; unlink -&gt; uaf(conn) -&gt; uaf(port) -&gt; lpe https://t.co/QWiFGAusoD",
     "tweettime": "2025-12-12, 06:50:05",
     "tweeturl": "https://twitter.com/ezrak1e/status/1999371160119914519",
@@ -323,9 +346,9 @@
     "username": "gothburz"
 }
 {
-    "tweetfavorites": 33,
+    "tweetfavorites": 38,
     "tweetquotes": 2,
-    "tweetreplies": 1,
+    "tweetreplies": 4,
     "tweetretweets": 2,
     "tweettext": "We had a great collab with @luminaryxd , and we were awarded $5000 bounty by MSRC.\n\nWe will talk about our findings once it is disclosed by Microsoft\n\nCVE-2026-0386 👀 https://t.co/g2BkKNskUi",
     "tweettime": "2025-12-09, 16:56:29",
@@ -415,10 +438,10 @@
     "username": "offsectraining"
 }
 {
-    "tweetfavorites": 150,
+    "tweetfavorites": 151,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 21,
+    "tweetretweets": 22,
     "tweettext": "🚨🚨CVE-2025-66516 (CVSS 10): Apache Tika Critical XXE\nAttackers can carry out XML External Entity (XXE) injection via a crafted XFA file inside a PDF.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-66516\"\nZoomEye Dork👉app=\"Apache Tika\"\nOver 1.4k exposed instances.\nZoomEye Link: https://t.co/p0U8H3kyMn",
     "tweettime": "2025-12-08, 10:16:44",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1997973611446161828",
@@ -533,7 +556,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3506,
+    "tweetfavorites": 3507,
     "tweetquotes": 70,
     "tweetreplies": 63,
     "tweetretweets": 422,
@@ -569,7 +592,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 595,
+    "tweetfavorites": 597,
     "tweetquotes": 6,
     "tweetreplies": 7,
     "tweetretweets": 71,
@@ -579,7 +602,7 @@
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 505,
+    "tweetfavorites": 506,
     "tweetquotes": 5,
     "tweetreplies": 6,
     "tweetretweets": 66,
@@ -722,7 +745,7 @@
     "expanded_url": [
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
-    "tweetfavorites": 497,
+    "tweetfavorites": 496,
     "tweetquotes": 7,
     "tweetreplies": 9,
     "tweetretweets": 61,
