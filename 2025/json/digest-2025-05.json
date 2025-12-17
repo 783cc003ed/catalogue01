@@ -92,10 +92,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 411,
+    "tweetfavorites": 413,
     "tweetquotes": 1,
     "tweetreplies": 14,
-    "tweetretweets": 33,
+    "tweetretweets": 32,
     "tweettext": "with the security advisory published, I should publish my paper within a few hours\n\nRace-Condition to Cache Poisoning - CVE-2025-32421 on @nextjs \n\npartially leading to the bypass of my previous vulnerability the CVE-2024-46982 https://t.co/bQq01hn8Hl",
     "tweettime": "2025-05-14, 22:53:42",
     "tweeturl": "https://twitter.com/blank_cold/status/1922787432392450154",

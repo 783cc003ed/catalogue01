@@ -54,7 +54,7 @@
     "tweetfavorites": 318,
     "tweetquotes": 6,
     "tweetreplies": 4,
-    "tweetretweets": 131,
+    "tweetretweets": 130,
     "tweettext": "⚠️ ALERT: A Chrome zero-day (CVE-2025-2783) was exploited to deliver spyware built by Memento Labs — the firm behind past government surveillance tools.\n\nOne click in Chromium = full sandbox escape.\n\nRead this → https://t.co/aTkSq0QITK",
     "tweettime": "2025-10-28, 08:24:53",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1983087562362138764",
@@ -75,7 +75,7 @@
     "username": "Netlas_io"
 }
 {
-    "tweetfavorites": 306,
+    "tweetfavorites": 307,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 83,
@@ -365,10 +365,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 308,
+    "tweetfavorites": 306,
     "tweetquotes": 10,
     "tweetreplies": 5,
-    "tweetretweets": 133,
+    "tweetretweets": 132,
     "tweettext": "🚨 Microsoft just confirmed a critical GoAnywhere flaw (CVE-2025-10035) — already exploited to deploy Medusa ransomware.\n\nAttackers had a month-long head start — silently breaching orgs while vendors stayed quiet.\n\nIt’s not just RCE — it’s persistence, lateral movement, and https://t.co/1ScluCphdc",
     "tweettime": "2025-10-07, 08:17:09",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1975475470880666064",

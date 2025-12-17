@@ -1,8 +1,8 @@
 {
-    "tweetfavorites": 37,
+    "tweetfavorites": 47,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 8,
+    "tweetretweets": 12,
     "tweettext": "🚨 New advisory was just published! 🚨\n\nCVE-2025-55681 - A new Desktop Window Manager LPE. This vulnerability is caused when an out-of-bounds bug is first triggered to execute shellcode, then MapViewOfFile is hooked to tamper with shared memory and abuse consent.exe, and finally",
     "tweettime": "2025-12-17, 08:30:58",
     "tweeturl": "https://twitter.com/SecuriTeam_SSD/status/2001208485938106774",
@@ -12,10 +12,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/windows-admin-center-vulnerability/"
     ],
-    "tweetfavorites": 168,
+    "tweetfavorites": 177,
     "tweetquotes": 5,
     "tweetreplies": 4,
-    "tweetretweets": 69,
+    "tweetretweets": 72,
     "tweettext": "🛡️ Windows Admin Center Vulnerability (CVE-2025-64669) Let Attackers Escalate Privileges \n\nSource: https://t.co/Or3UhwZLkq\n\nA new local privilege escalation vulnerability in Microsoft’s Windows Admin Center (WAC), affecting versions up to 2.4.2.1 and environments running WAC 2411 https://t.co/rvgP4yCpEA",
     "tweettime": "2025-12-16, 18:48:00",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/2001001379318608263",
@@ -26,10 +26,10 @@
         "https://faith2dxy.xyz/2025-11-28/extending_race_window_fallocate/#poc-and-tldr",
         "https://faith2dxy.xyz/2025-10-02/kCTF-TLS-nday-analysis"
     ],
-    "tweetfavorites": 32,
+    "tweetfavorites": 36,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 8,
+    "tweetretweets": 12,
     "tweettext": "#exploit\n#Kernel_Security\n1⃣  Extending Kernel Race Windows Using '/dev/shm'\nhttps://t.co/77Jw3dFPAx\n// Ubuntu 25.04 kernel 6.14.11\n2⃣  Analysing a 1-day Vulnerability in the Linux Kernel's TLS Subsystem\nhttps://t.co/ZZz8kzQE0N\n// CVE-2025-39946",
     "tweettime": "2025-12-16, 17:34:45",
     "tweeturl": "https://twitter.com/ksg93rd/status/2000982946937794682",
@@ -198,7 +198,7 @@
     "username": "Horizon3Attack"
 }
 {
-    "tweetfavorites": 128,
+    "tweetfavorites": 127,
     "tweetquotes": 0,
     "tweetreplies": 4,
     "tweetretweets": 18,
@@ -605,7 +605,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3508,
+    "tweetfavorites": 3507,
     "tweetquotes": 70,
     "tweetreplies": 63,
     "tweetretweets": 422,
