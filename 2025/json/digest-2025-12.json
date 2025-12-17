@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/windows-admin-center-vulnerability/"
     ],
-    "tweetfavorites": 154,
+    "tweetfavorites": 161,
     "tweetquotes": 5,
-    "tweetreplies": 3,
-    "tweetretweets": 63,
+    "tweetreplies": 4,
+    "tweetretweets": 66,
     "tweettext": "🛡️ Windows Admin Center Vulnerability (CVE-2025-64669) Let Attackers Escalate Privileges \n\nSource: https://t.co/Or3UhwZLkq\n\nA new local privilege escalation vulnerability in Microsoft’s Windows Admin Center (WAC), affecting versions up to 2.4.2.1 and environments running WAC 2411 https://t.co/rvgP4yCpEA",
     "tweettime": "2025-12-16, 18:48:00",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/2001001379318608263",
@@ -37,12 +37,27 @@
 }
 {
     "expanded_url": [
+        "https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780",
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22pgAdmin%22"
+    ],
+    "tweetfavorites": 152,
+    "tweetquotes": 1,
+    "tweetreplies": 2,
+    "tweetretweets": 32,
+    "tweettext": "🚨Alert🚨:CVE-2025-13780 : pgAdmin are Affected by A Remote Code Execution (RCE) Vulnerability. It affects versions up to 9.10.\n🔥PoC :https://t.co/G6VnT4AarK\n📊189.9K Services are found on the https://t.co/ysWb28Crld yearly.\n🔗Hunter Link:https://t.co/H4H1mAxBfO\n👇Query\nHUNTER : https://t.co/Utiduq7ukG",
+    "tweettime": "2025-12-16, 02:21:25",
+    "tweeturl": "https://twitter.com/HunterMapping/status/2000753097719894170",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
         "https://msft.it/6011tmKSF"
     ],
     "tweetfavorites": 121,
     "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 48,
+    "tweetretweets": 47,
     "tweettext": "Most exploitation activity related to the CVE-2025-55182 vulnerability affecting React Server Components, Next.js, and related frameworks originated from red teams assessments, but observed exploitation attempts by threat actors deliver various payloads. https://t.co/1bdRDguX1b",
     "tweettime": "2025-12-15, 19:43:34",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/2000652974595383475",
@@ -779,7 +794,7 @@
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 263,
+    "tweetfavorites": 262,
     "tweetquotes": 16,
     "tweetreplies": 3,
     "tweetretweets": 71,
