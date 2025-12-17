@@ -2,17 +2,17 @@
     "expanded_url": [
         "https://cybersecuritynews.com/windows-admin-center-vulnerability/"
     ],
-    "tweetfavorites": 136,
-    "tweetquotes": 3,
+    "tweetfavorites": 147,
+    "tweetquotes": 4,
     "tweetreplies": 3,
-    "tweetretweets": 48,
+    "tweetretweets": 58,
     "tweettext": "🛡️ Windows Admin Center Vulnerability (CVE-2025-64669) Let Attackers Escalate Privileges \n\nSource: https://t.co/Or3UhwZLkq\n\nA new local privilege escalation vulnerability in Microsoft’s Windows Admin Center (WAC), affecting versions up to 2.4.2.1 and environments running WAC 2411 https://t.co/rvgP4yCpEA",
     "tweettime": "2025-12-16, 18:48:00",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/2001001379318608263",
     "username": "The_Cyber_News"
 }
 {
-    "tweetfavorites": 31,
+    "tweetfavorites": 32,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 11,
@@ -25,10 +25,10 @@
     "expanded_url": [
         "https://msft.it/6011tmKSF"
     ],
-    "tweetfavorites": 119,
+    "tweetfavorites": 120,
     "tweetquotes": 5,
     "tweetreplies": 1,
-    "tweetretweets": 44,
+    "tweetretweets": 45,
     "tweettext": "Most exploitation activity related to the CVE-2025-55182 vulnerability affecting React Server Components, Next.js, and related frameworks originated from red teams assessments, but observed exploitation attempts by threat actors deliver various payloads. https://t.co/1bdRDguX1b",
     "tweettime": "2025-12-15, 19:43:34",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/2000652974595383475",
@@ -41,7 +41,7 @@
     "tweetfavorites": 46,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 22,
+    "tweetretweets": 21,
     "tweettext": "🛡️ We added Gladinet &amp; Apple vulnerabilities CVE-2025-14611 &amp; CVE-2025-43529 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/BXihRl42AI",
     "tweettime": "2025-12-15, 18:23:26",
     "tweeturl": "https://twitter.com/USCERT_gov/status/2000632809472327988",
@@ -61,10 +61,10 @@
     "expanded_url": [
         "https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780"
     ],
-    "tweetfavorites": 179,
+    "tweetfavorites": 182,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 47,
+    "tweetretweets": 50,
     "tweettext": "🚨🚨 CVE-2025-13780 (CVSS: 9.1): pgAdmin4 Meta-Command Filter Command Execution\npgAdmin 4 &lt; 9.11 fails to detect meta-commands when a SQL file starts with UTF-8 BOM, leading to remote command execution during restore.\n🔥 PoC: https://t.co/XRlUUB3arH\n\nSearch by vul.cve https://t.co/qBiX4tGQD4",
     "tweettime": "2025-12-15, 02:31:09",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2000393159231385886",
@@ -126,7 +126,7 @@
     "tweetfavorites": 44,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 18,
+    "tweetretweets": 17,
     "tweettext": "🛡️ We added Sierra Wireless AirLink ALEOS unrestricted upload of file with dangerous type vulnerability CVE-2018-4063 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/0ykegNfGxU",
     "tweettime": "2025-12-12, 18:46:37",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1999551479376396365",
@@ -209,10 +209,10 @@
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 93,
+    "tweetfavorites": 92,
     "tweetquotes": 4,
     "tweetreplies": 4,
-    "tweetretweets": 35,
+    "tweetretweets": 34,
     "tweettext": "🚨 700+ Gogs servers hacked — no patch yet.\n\nNew flaw (CVE-2025-8110) lets attackers overwrite files and run code through symbolic links, bypassing last year’s fix.\n\nWiz found Supershell malware — often used by Chinese groups — on many hacked servers.\n\n🔗 Read: https://t.co/pEbmbKXWaG",
     "tweettime": "2025-12-11, 10:32:46",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1999064812433690758",
@@ -556,7 +556,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3507,
+    "tweetfavorites": 3508,
     "tweetquotes": 70,
     "tweetreplies": 63,
     "tweetretweets": 422,

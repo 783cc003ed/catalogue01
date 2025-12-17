@@ -51,7 +51,7 @@
     "tweetfavorites": 586,
     "tweetquotes": 30,
     "tweetreplies": 25,
-    "tweetretweets": 247,
+    "tweetretweets": 246,
     "tweettext": "Microsoft identified a North Korean threat actor exploiting a zero-day vulnerability in Chromium (CVE-2024-7971) to gain remote code execution. Our assessment of ongoing analysis and observed infrastructure attributes this activity to Citrine Sleet. https://t.co/ITqOQpWn2v",
     "tweettime": "2024-08-30, 16:05:00",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/1829550899766653064",
@@ -728,7 +728,7 @@
     "expanded_url": [
         "https://xintra.org"
     ],
-    "tweetfavorites": 286,
+    "tweetfavorites": 287,
     "tweetquotes": 1,
     "tweetreplies": 8,
     "tweetretweets": 85,

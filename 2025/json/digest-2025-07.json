@@ -80,6 +80,19 @@
 }
 {
     "expanded_url": [
+        "https://ti.qianxin.com/blog/articles/a-brief-analysis-of-chrome-0day-cve-2025-6554-en/"
+    ],
+    "tweetfavorites": 62,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 30,
+    "tweettext": "Brief analysis of Chrome vuln #CVE-2025-6554, which was exploited in the wild.\n\nhttps://t.co/s0ru9dawua",
+    "tweettime": "2025-07-22, 04:48:53",
+    "tweeturl": "https://twitter.com/RedDrip7/status/1947519193446027545",
+    "username": "RedDrip7"
+}
+{
+    "expanded_url": [
         "https://exploitfinder.com/dbexploit/exploit.html?id=CVE-2025-49113&type=GitAI&returnTab=github-ai"
     ],
     "tweetfavorites": 244,
