@@ -139,6 +139,19 @@
     "username": "blackorbird"
 }
 {
+    "expanded_url": [
+        "https://attackerkb.com/topics/OFBGprmpIE/cve-2024-47575/rapid7-analysis"
+    ],
+    "tweetfavorites": 169,
+    "tweetquotes": 5,
+    "tweetreplies": 7,
+    "tweetretweets": 65,
+    "tweettext": "We have just published our AttackerKB @rapid7 Analysis for CVE-2024-47575, the recent FortiManager 0day, aka FortiJump 🔥 Read our full technical analysis; detailing firmware decryption, protocol analysis, and unauthenticated RCE 🚀 https://t.co/axuhj0kMuN",
+    "tweettime": "2024-11-13, 20:58:54",
+    "tweeturl": "https://twitter.com/stephenfewer/status/1856803952848695315",
+    "username": "stephenfewer"
+}
+{
     "tweetfavorites": 333,
     "tweetquotes": 0,
     "tweetreplies": 4,

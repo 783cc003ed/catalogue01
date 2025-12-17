@@ -385,10 +385,20 @@
     "username": "wiz_io"
 }
 {
-    "tweetfavorites": 335,
+    "tweetfavorites": 208,
+    "tweetquotes": 1,
+    "tweetreplies": 4,
+    "tweetretweets": 70,
+    "tweettext": "We just posted our AttackerKB @rapid7 Analysis for the recent Cisco ASA 0day chain; CVE-2025-20362 and CVE-2025-20333. The auth bypass appears to be a patch bypass of an older 2018 vuln. The buffer overflow is in a Lua endpoint, but unsafe native code operations allow a buffer to",
+    "tweettime": "2025-10-06, 08:35:36",
+    "tweeturl": "https://twitter.com/stephenfewer/status/1975117727875334247",
+    "username": "stephenfewer"
+}
+{
+    "tweetfavorites": 333,
     "tweetquotes": 11,
     "tweetreplies": 11,
-    "tweetretweets": 113,
+    "tweetretweets": 109,
     "tweettext": "🚨 Oracle just rushed a patch for CVE-2025-61882 — a 9.8 critical flaw in E-Business Suite already exploited by Cl0p in live data theft attacks.\n\nThe zero-day lets attackers seize control without a username or password.\n\nExperts warn many may already be breached.\n\nDetails here ↓ https://t.co/w25oqDIpwp",
     "tweettime": "2025-10-06, 05:20:09",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1975068537954701517",
