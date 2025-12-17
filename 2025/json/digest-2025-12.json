@@ -2,14 +2,28 @@
     "expanded_url": [
         "https://cybersecuritynews.com/windows-admin-center-vulnerability/"
     ],
-    "tweetfavorites": 147,
-    "tweetquotes": 4,
+    "tweetfavorites": 154,
+    "tweetquotes": 5,
     "tweetreplies": 3,
-    "tweetretweets": 58,
+    "tweetretweets": 63,
     "tweettext": "🛡️ Windows Admin Center Vulnerability (CVE-2025-64669) Let Attackers Escalate Privileges \n\nSource: https://t.co/Or3UhwZLkq\n\nA new local privilege escalation vulnerability in Microsoft’s Windows Admin Center (WAC), affecting versions up to 2.4.2.1 and environments running WAC 2411 https://t.co/rvgP4yCpEA",
     "tweettime": "2025-12-16, 18:48:00",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/2001001379318608263",
     "username": "The_Cyber_News"
+}
+{
+    "expanded_url": [
+        "https://faith2dxy.xyz/2025-11-28/extending_race_window_fallocate/#poc-and-tldr",
+        "https://faith2dxy.xyz/2025-10-02/kCTF-TLS-nday-analysis"
+    ],
+    "tweetfavorites": 31,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "#exploit\n#Kernel_Security\n1⃣  Extending Kernel Race Windows Using '/dev/shm'\nhttps://t.co/77Jw3dFPAx\n// Ubuntu 25.04 kernel 6.14.11\n2⃣  Analysing a 1-day Vulnerability in the Linux Kernel's TLS Subsystem\nhttps://t.co/ZZz8kzQE0N\n// CVE-2025-39946",
+    "tweettime": "2025-12-16, 17:34:45",
+    "tweeturl": "https://twitter.com/ksg93rd/status/2000982946937794682",
+    "username": "ksg93rd"
 }
 {
     "tweetfavorites": 32,
@@ -25,10 +39,10 @@
     "expanded_url": [
         "https://msft.it/6011tmKSF"
     ],
-    "tweetfavorites": 120,
+    "tweetfavorites": 121,
     "tweetquotes": 5,
-    "tweetreplies": 1,
-    "tweetretweets": 45,
+    "tweetreplies": 2,
+    "tweetretweets": 48,
     "tweettext": "Most exploitation activity related to the CVE-2025-55182 vulnerability affecting React Server Components, Next.js, and related frameworks originated from red teams assessments, but observed exploitation attempts by threat actors deliver various payloads. https://t.co/1bdRDguX1b",
     "tweettime": "2025-12-15, 19:43:34",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/2000652974595383475",
@@ -38,20 +52,20 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 46,
+    "tweetfavorites": 47,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 21,
+    "tweetretweets": 22,
     "tweettext": "🛡️ We added Gladinet &amp; Apple vulnerabilities CVE-2025-14611 &amp; CVE-2025-43529 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/BXihRl42AI",
     "tweettime": "2025-12-15, 18:23:26",
     "tweeturl": "https://twitter.com/USCERT_gov/status/2000632809472327988",
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 60,
+    "tweetfavorites": 63,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 10,
+    "tweetretweets": 12,
     "tweettext": "🚨🚨CVE-2025-66430 (CVSS 9.1): Root Privilege Escalation in Plesk 18.0\nA flaw in Plesk's Password-Protected Directories lets any authenticated user inject arbitrary data into Apache config — escalating to full root command execution on the server.\n\nSearch by vul.cve https://t.co/tESv2ycLwJ",
     "tweettime": "2025-12-15, 10:02:18",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2000506697434239428",
@@ -159,7 +173,7 @@
     "username": "Horizon3Attack"
 }
 {
-    "tweetfavorites": 127,
+    "tweetfavorites": 128,
     "tweetquotes": 0,
     "tweetreplies": 4,
     "tweetretweets": 18,
@@ -217,6 +231,16 @@
     "tweettime": "2025-12-11, 10:32:46",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1999064812433690758",
     "username": "TheHackersNews"
+}
+{
+    "tweetfavorites": 91,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 8,
+    "tweettext": "Before React exploded I was helping chase some more shenanigans with Gladinet CentreStack &amp; Triofox-- another LFI vulnerability that led (again) to the .NET ViewState deserialization CVE-2025-30406 remote code execution. Patch is available but we're seeing active exploitation: https://t.co/d2RhfYnCW0",
+    "tweettime": "2025-12-10, 22:04:10",
+    "tweeturl": "https://twitter.com/_JohnHammond/status/1998876419384865264",
+    "username": "_JohnHammond"
 }
 {
     "expanded_url": [
@@ -356,7 +380,7 @@
     "username": "osman1337_"
 }
 {
-    "tweetfavorites": 557,
+    "tweetfavorites": 560,
     "tweetquotes": 3,
     "tweetreplies": 16,
     "tweetretweets": 124,
