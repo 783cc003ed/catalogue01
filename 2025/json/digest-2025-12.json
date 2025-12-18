@@ -1,18 +1,18 @@
 {
-    "tweetfavorites": 137,
-    "tweetquotes": 8,
-    "tweetreplies": 3,
-    "tweetretweets": 58,
+    "tweetfavorites": 175,
+    "tweetquotes": 9,
+    "tweetreplies": 7,
+    "tweetretweets": 67,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 68,
+    "tweetfavorites": 73,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 18,
+    "tweetretweets": 19,
     "tweettext": "🚨 New advisory was just published! 🚨\n\nCVE-2025-55681 - A new Desktop Window Manager LPE. This vulnerability is caused when an out-of-bounds bug is first triggered to execute shellcode, then MapViewOfFile is hooked to tamper with shared memory and abuse consent.exe, and finally",
     "tweettime": "2025-12-17, 08:30:58",
     "tweeturl": "https://twitter.com/SecuriTeam_SSD/status/2001208485938106774",
@@ -618,7 +618,7 @@
     "tweetfavorites": 3507,
     "tweetquotes": 70,
     "tweetreplies": 63,
-    "tweetretweets": 423,
+    "tweetretweets": 422,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
