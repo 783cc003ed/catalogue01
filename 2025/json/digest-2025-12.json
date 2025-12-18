@@ -1,4 +1,14 @@
 {
+    "tweetfavorites": 55,
+    "tweetquotes": 2,
+    "tweetreplies": 1,
+    "tweetretweets": 23,
+    "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
+    "tweettime": "2025-12-18, 04:12:10",
+    "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
+    "username": "TheHackersNews"
+}
+{
     "tweetfavorites": 47,
     "tweetquotes": 1,
     "tweetreplies": 0,
@@ -12,10 +22,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/windows-admin-center-vulnerability/"
     ],
-    "tweetfavorites": 177,
+    "tweetfavorites": 198,
     "tweetquotes": 5,
     "tweetreplies": 4,
-    "tweetretweets": 72,
+    "tweetretweets": 80,
     "tweettext": "🛡️ Windows Admin Center Vulnerability (CVE-2025-64669) Let Attackers Escalate Privileges \n\nSource: https://t.co/Or3UhwZLkq\n\nA new local privilege escalation vulnerability in Microsoft’s Windows Admin Center (WAC), affecting versions up to 2.4.2.1 and environments running WAC 2411 https://t.co/rvgP4yCpEA",
     "tweettime": "2025-12-16, 18:48:00",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/2001001379318608263",
@@ -36,7 +46,7 @@
     "username": "ksg93rd"
 }
 {
-    "tweetfavorites": 33,
+    "tweetfavorites": 34,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 11,
@@ -64,10 +74,10 @@
     "expanded_url": [
         "https://msft.it/6011tmKSF"
     ],
-    "tweetfavorites": 122,
+    "tweetfavorites": 123,
     "tweetquotes": 5,
     "tweetreplies": 2,
-    "tweetretweets": 47,
+    "tweetretweets": 48,
     "tweettext": "Most exploitation activity related to the CVE-2025-55182 vulnerability affecting React Server Components, Next.js, and related frameworks originated from red teams assessments, but observed exploitation attempts by threat actors deliver various payloads. https://t.co/1bdRDguX1b",
     "tweettime": "2025-12-15, 19:43:34",
     "tweeturl": "https://twitter.com/MsftSecIntel/status/2000652974595383475",
@@ -77,7 +87,7 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 47,
+    "tweetfavorites": 48,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 22,
@@ -238,10 +248,10 @@
         "https://github.com/rxerium/CVE-2025-8110",
         "https://www.wiz.io/blog/wiz-research-gogs-cve-2025-8110-rce-exploit"
     ],
-    "tweetfavorites": 313,
+    "tweetfavorites": 338,
     "tweetquotes": 0,
     "tweetreplies": 6,
-    "tweetretweets": 60,
+    "tweetretweets": 62,
     "tweettext": "🚨 New high severity zero day affecting Gogs (CVE-2025-8110) actively being exploited in the wild!\n\nI’ve created a detection script to detect vulnerable instances at scale:\nhttps://t.co/9si5WNN0BS\n\nAnalysis from Wiz:\nhttps://t.co/3bUuRz23rJ https://t.co/30kHCvz1M6",
     "tweettime": "2025-12-11, 10:58:35",
     "tweeturl": "https://twitter.com/hakrishi/status/1999071306537726221",
@@ -405,7 +415,7 @@
     "username": "osman1337_"
 }
 {
-    "tweetfavorites": 561,
+    "tweetfavorites": 562,
     "tweetquotes": 3,
     "tweetreplies": 16,
     "tweetretweets": 124,
@@ -441,8 +451,8 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 4018,
-    "tweetquotes": 77,
+    "tweetfavorites": 4013,
+    "tweetquotes": 78,
     "tweetreplies": 279,
     "tweetretweets": 303,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
@@ -477,7 +487,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 269,
+    "tweetfavorites": 268,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 73,
@@ -605,7 +615,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3507,
+    "tweetfavorites": 3508,
     "tweetquotes": 70,
     "tweetreplies": 63,
     "tweetretweets": 422,

@@ -398,10 +398,10 @@
     "expanded_url": [
         "https://github.com/varwara/CVE-2024-26229"
     ],
-    "tweetfavorites": 627,
+    "tweetfavorites": 626,
     "tweetquotes": 3,
     "tweetreplies": 8,
-    "tweetretweets": 179,
+    "tweetretweets": 180,
     "tweettext": "CVE-2024-26229: An attacker who successfully exploited this vulnerability could gain SYSTEM privileges.\n\nPoC\nhttps://t.co/19siS5H6E6 https://t.co/UabSUIkGO2",
     "tweettime": "2024-06-11, 12:02:59",
     "tweeturl": "https://twitter.com/cyber_advising/status/1800498964980269148",
@@ -445,7 +445,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 639,
+    "tweetfavorites": 638,
     "tweetquotes": 10,
     "tweetreplies": 37,
     "tweetretweets": 73,

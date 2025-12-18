@@ -116,10 +116,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 416,
+    "tweetfavorites": 415,
     "tweetquotes": 1,
     "tweetreplies": 5,
-    "tweetretweets": 73,
+    "tweetretweets": 72,
     "tweettext": "0-Click RCE (Unauthenticated/Pre-Auth) Exploit for CVE-2024-9932 😇 #Wordpress #BugBounty https://t.co/noLpQn4Tnn",
     "tweettime": "2024-11-18, 01:59:51",
     "tweeturl": "https://twitter.com/JoshuaProvoste/status/1858329238153072668",
@@ -129,10 +129,10 @@
     "expanded_url": [
         "https://github.com/blackorbird/APT_REPORT/blob/master/Exploit/Zero-day-cve-2024-4351-report.pdf"
     ],
-    "tweetfavorites": 275,
+    "tweetfavorites": 274,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 85,
+    "tweetretweets": 84,
     "tweettext": "Analysis of the URL File Zero-Day Vulnerability \nCVE-2024-43451\nhttps://t.co/eKgRnbD1pd https://t.co/WeOOv5k5Py",
     "tweettime": "2024-11-14, 08:53:44",
     "tweeturl": "https://twitter.com/blackorbird/status/1856983846866358586",

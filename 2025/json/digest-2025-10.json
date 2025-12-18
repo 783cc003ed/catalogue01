@@ -434,7 +434,7 @@
     "tweetfavorites": 252,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 50,
+    "tweetretweets": 51,
     "tweettext": "You name it, VMware elevates it (CVE-2025-41244)\n\nTLDR; Broadcom disclosed local priv esc vuln, impacting VMware’s guest service discovery features. NVISO has identified zero-day exploitation in the wild beginning mid-October 2024.\n\nhttps://t.co/OIql07P3Rq https://t.co/PYDb2r4kgQ",
     "tweettime": "2025-10-04, 14:55:00",
     "tweeturl": "https://twitter.com/Smukx07/status/1974488429871366232",
