@@ -1,18 +1,18 @@
 {
-    "tweetfavorites": 55,
-    "tweetquotes": 2,
-    "tweetreplies": 1,
-    "tweetretweets": 23,
+    "tweetfavorites": 137,
+    "tweetquotes": 8,
+    "tweetreplies": 3,
+    "tweetretweets": 58,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 47,
+    "tweetfavorites": 68,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 18,
     "tweettext": "🚨 New advisory was just published! 🚨\n\nCVE-2025-55681 - A new Desktop Window Manager LPE. This vulnerability is caused when an out-of-bounds bug is first triggered to execute shellcode, then MapViewOfFile is hooked to tamper with shared memory and abuse consent.exe, and finally",
     "tweettime": "2025-12-17, 08:30:58",
     "tweeturl": "https://twitter.com/SecuriTeam_SSD/status/2001208485938106774",
@@ -25,7 +25,7 @@
     "tweetfavorites": 198,
     "tweetquotes": 5,
     "tweetreplies": 4,
-    "tweetretweets": 80,
+    "tweetretweets": 81,
     "tweettext": "🛡️ Windows Admin Center Vulnerability (CVE-2025-64669) Let Attackers Escalate Privileges \n\nSource: https://t.co/Or3UhwZLkq\n\nA new local privilege escalation vulnerability in Microsoft’s Windows Admin Center (WAC), affecting versions up to 2.4.2.1 and environments running WAC 2411 https://t.co/rvgP4yCpEA",
     "tweettime": "2025-12-16, 18:48:00",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/2001001379318608263",
@@ -36,10 +36,10 @@
         "https://faith2dxy.xyz/2025-11-28/extending_race_window_fallocate/#poc-and-tldr",
         "https://faith2dxy.xyz/2025-10-02/kCTF-TLS-nday-analysis"
     ],
-    "tweetfavorites": 36,
+    "tweetfavorites": 50,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 12,
+    "tweetretweets": 13,
     "tweettext": "#exploit\n#Kernel_Security\n1⃣  Extending Kernel Race Windows Using '/dev/shm'\nhttps://t.co/77Jw3dFPAx\n// Ubuntu 25.04 kernel 6.14.11\n2⃣  Analysing a 1-day Vulnerability in the Linux Kernel's TLS Subsystem\nhttps://t.co/ZZz8kzQE0N\n// CVE-2025-39946",
     "tweettime": "2025-12-16, 17:34:45",
     "tweeturl": "https://twitter.com/ksg93rd/status/2000982946937794682",
@@ -61,10 +61,10 @@
         "http://hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22pgAdmin%22"
     ],
-    "tweetfavorites": 152,
+    "tweetfavorites": 171,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 32,
+    "tweetretweets": 37,
     "tweettext": "🚨Alert🚨:CVE-2025-13780 : pgAdmin are Affected by A Remote Code Execution (RCE) Vulnerability. It affects versions up to 9.10.\n🔥PoC :https://t.co/G6VnT4AarK\n📊189.9K Services are found on the https://t.co/ysWb28Crld yearly.\n🔗Hunter Link:https://t.co/H4H1mAxBfO\n👇Query\nHUNTER : https://t.co/Utiduq7ukG",
     "tweettime": "2025-12-16, 02:21:25",
     "tweeturl": "https://twitter.com/HunterMapping/status/2000753097719894170",
@@ -133,10 +133,10 @@
     "expanded_url": [
         "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html"
     ],
-    "tweetfavorites": 139,
+    "tweetfavorites": 138,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 46,
+    "tweetretweets": 47,
     "tweettext": "🚨 Update: Chrome’s active zero-day is now CVE-2025-14174 (8.8), a remote out-of-bounds memory bug in the ANGLE graphics engine.\n\nAlready used in real attacks. Update now.\n\n🔗 Read: https://t.co/Y5QjvXkyL4",
     "tweettime": "2025-12-13, 05:41:47",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1999716360365220055",
@@ -149,7 +149,7 @@
     "tweetfavorites": 83,
     "tweetquotes": 0,
     "tweetreplies": 6,
-    "tweetretweets": 24,
+    "tweetretweets": 25,
     "tweettext": "🚨 CVE-2025-10573 | Ivanti Endpoint Manager\nCritical stored XSS (CVSS 9.6) → unauth JS in admin sessions.\n\n🔧 Fixed in Ivanti EPM 2024 SU4 SR1 (Dec 9)\n📊 Censys sees 1,898 exposed EPM instances, 80 vulnerable\n➡️ Upgrade immediately.\n\n🔗https://t.co/4EyNonmMaM\n\n#CVE202510573 https://t.co/ZH0rJZBXFR",
     "tweettime": "2025-12-12, 22:23:18",
     "tweeturl": "https://twitter.com/censysio/status/1999606010231554148",
@@ -615,10 +615,10 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3508,
+    "tweetfavorites": 3507,
     "tweetquotes": 70,
     "tweetreplies": 63,
-    "tweetretweets": 422,
+    "tweetretweets": 423,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -661,10 +661,10 @@
     "username": "pyn3rd"
 }
 {
-    "tweetfavorites": 507,
+    "tweetfavorites": 508,
     "tweetquotes": 5,
     "tweetreplies": 6,
-    "tweetretweets": 66,
+    "tweetretweets": 67,
     "tweettext": "#CVE-2025-55182: RSC RCE — Full Unicode encoding can bypass certain WAFs that lack proper decoding or normalization capabilities. Please verify this on your end. https://t.co/70Ovx7lu5g",
     "tweettime": "2025-12-05, 03:47:32",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996788502386909539",
@@ -674,7 +674,7 @@
     "expanded_url": [
         "https://gist.github.com/maple3142/48bc9393f45e068cf8c90ab865c0f5f3"
     ],
-    "tweetfavorites": 93,
+    "tweetfavorites": 91,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 23,
@@ -778,10 +778,10 @@
     "expanded_url": [
         "https://github.com/ejpir/CVE-2025-55182-poc/blob/main/exploit-rce-v4.js"
     ],
-    "tweetfavorites": 236,
+    "tweetfavorites": 237,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 49,
+    "tweetretweets": 50,
     "tweettext": "🚨🚨CVE-2025-55182 (CVSS 10.0): RCE in React Server Components\nA decoding bug in React Server Function payloads enables full unauthenticated RCE on vulnerable RSC backends.\n🔥PoC: https://t.co/4yHxpp9RPc\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-55182\"\nZoomEye https://t.co/0f44l2v5JW",
     "tweettime": "2025-12-04, 02:27:05",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1996405871631589451",
@@ -895,7 +895,7 @@
     "tweetfavorites": 453,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 154,
+    "tweetretweets": 153,
     "tweettext": "🚨 PoC Exploit Released For Outlook 0-Click Remote Code Execution Vulnerability \n\nSource: https://t.co/zpeuGMQuHa\n\nA Proof-of-Concept (PoC) exploit code has been released for a critical remote code execution (RCE) vulnerability in Microsoft Outlook, identified as CVE-2024-21413. https://t.co/GZAl0rTJOp",
     "tweettime": "2025-12-01, 06:21:15",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1995377636772864286",

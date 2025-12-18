@@ -78,10 +78,10 @@
         "https://labs.watchtowr.com/check-point-wrong-check-point-cve-2024-24919/#/",
         "http://hunter.how"
     ],
-    "tweetfavorites": 378,
-    "tweetquotes": 9,
+    "tweetfavorites": 368,
+    "tweetquotes": 8,
     "tweetreplies": 7,
-    "tweetretweets": 124,
+    "tweetretweets": 114,
     "tweettext": "🚨Alert🚨CVE-2024-24919: A path traversal leading to an arbitrary file read! \n🔥Deep Research:https://t.co/JB4tip0IOX\n⚠It is an arbitrary file read, allowing people to read any file on the system.\n📊109K+ Services are found on https://t.co/ysWb28Crld\n🔗Hunter https://t.co/m9VZkf00MQ",
     "tweettime": "2024-05-30, 07:28:14",
     "tweeturl": "https://twitter.com/HunterMapping/status/1796081167617405330",

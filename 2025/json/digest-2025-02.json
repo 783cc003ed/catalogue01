@@ -91,10 +91,10 @@
         "https://github.com/CICADA8-Research/Penetration/tree/main/POCs/CVE-2024-12754",
         "https://securityonline.info/anydesk-exploit-alert-cve-2024-12754-enables-privilege-escalation-poc-available/"
     ],
-    "tweetfavorites": 866,
+    "tweetfavorites": 867,
     "tweetquotes": 11,
     "tweetreplies": 5,
-    "tweetretweets": 232,
+    "tweetretweets": 233,
     "tweettext": "Vulnerabilidad en AnyDesk\n\nPoC disponible\nhttps://t.co/Rx2bfHGilO\n\nCVE-2024-12754\n\nhttps://t.co/Aj4PENSGcD https://t.co/W3XAOFtdZD",
     "tweettime": "2025-02-10, 14:53:32",
     "tweeturl": "https://twitter.com/elhackernet/status/1888964523454795881",
@@ -166,10 +166,10 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 567,
+    "tweetfavorites": 566,
     "tweetquotes": 7,
-    "tweetreplies": 6,
-    "tweetretweets": 134,
+    "tweetreplies": 7,
+    "tweetretweets": 135,
     "tweettext": "We identified a new #ZeroDay vulnerability exploiting 7-Zip (CVE-2025-0411) being actively exploited in-the-wild on September 25th, 2024. Russian groups utilized this vulnerability, deploying SmokeLoader for espionage operations targeting #Ukraine during the ongoing https://t.co/4OtiNphGUN",
     "tweettime": "2025-02-04, 15:35:27",
     "tweeturl": "https://twitter.com/gothburz/status/1886800745590096249",
