@@ -266,10 +266,10 @@
     "username": "momika233"
 }
 {
-    "tweetfavorites": 2852,
+    "tweetfavorites": 2850,
     "tweetquotes": 48,
     "tweetreplies": 54,
-    "tweetretweets": 489,
+    "tweetretweets": 488,
     "tweettext": "Remotely exploiting CVE-2022-34718, TCP/IP RCE bug #EvilEsp for DoS. This is a bug in Ipv6 fragmentation/IpSec, which allows OOB write if an Ipv6 fragment is contained inside an IpSec ESP payload. https://t.co/k1aoZX2kWq",
     "tweettime": "2022-10-22, 03:47:55",
     "tweeturl": "https://twitter.com/chompie1337/status/1583666434668101637",
@@ -1126,7 +1126,7 @@
     "username": "FuzzySec"
 }
 {
-    "tweetfavorites": 664,
+    "tweetfavorites": 663,
     "tweetquotes": 4,
     "tweetreplies": 19,
     "tweetretweets": 188,
