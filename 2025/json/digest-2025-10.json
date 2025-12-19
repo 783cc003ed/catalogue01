@@ -303,6 +303,19 @@
     "username": "quarkslab"
 }
 {
+    "expanded_url": [
+        "https://syst3mfailure.io/rbtree-family-drama/"
+    ],
+    "tweetfavorites": 250,
+    "tweetquotes": 1,
+    "tweetreplies": 1,
+    "tweetretweets": 44,
+    "tweettext": "Exploiting a Use-After-Free vulnerability in the Linux network packet schedule (CVE-2025-38001)\n\nhttps://t.co/t0C6wWlyWI\n\nCredits @cor_ctf\n\n#infosec #Linux https://t.co/ncVYtZAVwV",
+    "tweettime": "2025-10-12, 16:00:52",
+    "tweeturl": "https://twitter.com/0xor0ne/status/1977404109402562949",
+    "username": "0xor0ne"
+}
+{
     "tweetfavorites": 198,
     "tweetquotes": 8,
     "tweetreplies": 4,

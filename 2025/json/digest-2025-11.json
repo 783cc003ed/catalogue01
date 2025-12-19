@@ -174,10 +174,10 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 413,
+    "tweetfavorites": 411,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 151,
+    "tweetretweets": 150,
     "tweettext": "🚨 Hackers are using a fixed Windows bug (CVE-2025-59287) to spread ShadowPad malware through WSUS servers.\n\nThey used normal Windows tools like curl and certutil to install it — a method seen before in Chinese hacking groups.\n\nSystems patched too late may have already been https://t.co/kbi5AK8XfV",
     "tweettime": "2025-11-24, 07:20:28",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1992855824818176223",
@@ -239,7 +239,7 @@
     "expanded_url": [
         "https://github.com/rapid7/metasploit-framework/pull/20717"
     ],
-    "tweetfavorites": 351,
+    "tweetfavorites": 349,
     "tweetquotes": 2,
     "tweetreplies": 3,
     "tweetretweets": 70,
@@ -568,10 +568,10 @@
         "https://gist.github.com/N3mes1s/d882ee7ca4ddcad150f94b7460508a32",
         "https://fortiguard.fortinet.com/psirt/FG-IR-25-910"
     ],
-    "tweetfavorites": 163,
+    "tweetfavorites": 161,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 29,
+    "tweetretweets": 28,
     "tweettext": "CVE-2025-64446 - Root cause and exploit for FortiWeb Unauthenticated RCE via Path Traversal and CGI Auth Bypass \n\n#Pruva reproduction for the fortiweb unauth RCE\n\nReport: https://t.co/8RrWZkyq3o\n\nAdvs: https://t.co/nP5Tz98IA3 https://t.co/qNmnxSK86J",
     "tweettime": "2025-11-14, 22:36:00",
     "tweeturl": "https://twitter.com/gN3mes1s/status/1989462345584672790",
@@ -743,7 +743,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-vulnerability/"
     ],
-    "tweetfavorites": 104,
+    "tweetfavorites": 103,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 40,
@@ -878,7 +878,7 @@
     "tweetfavorites": 117,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 36,
+    "tweetretweets": 35,
     "tweettext": "🚨🚨CVE-2025-11953(CVSS 9.8): Unauthenticated RCE in React Native CLI\nThe Metro server is reachable by default and contains an unauthenticated command-injection flaw that allows RCE.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-11953\"\nZoomEye Dork👉app=\"React Native Community https://t.co/LHBTzQTNQo",
     "tweettime": "2025-11-05, 02:32:20",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1985897944927850694",
@@ -911,7 +911,7 @@
     "tweetfavorites": 333,
     "tweetquotes": 5,
     "tweetreplies": 15,
-    "tweetretweets": 118,
+    "tweetretweets": 119,
     "tweettext": "🚨Cyber Alert‼️\n\nWindows Zero-Day Exploit Actively Abused in Diplomatic Attacks. No Patch Available Yet\n\nChinese group UNC6384 exploited an unpatched Windows zero-day (CVE-2025-9491) to target EU diplomats via spearphishing in September–October 2025. \n\nVictims downloaded fake https://t.co/hWX9cM24WJ",
     "tweettime": "2025-11-03, 14:08:09",
     "tweeturl": "https://twitter.com/H4ckManac/status/1985348276304920874",
@@ -931,10 +931,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/linux-kernel-use-after-free-vulnerability-exploited/"
     ],
-    "tweetfavorites": 185,
+    "tweetfavorites": 183,
     "tweetquotes": 4,
     "tweetreplies": 13,
-    "tweetretweets": 45,
+    "tweetretweets": 42,
     "tweettext": "🚨 Linux Kernel Use-After-Free Vulnerability Exploited in Attacks to Deploy Ransomware \n\nRead more: https://t.co/MDspOCXjmQ\n\nCISA has issued an urgent alert about a critical use-after-free vulnerability in the Linux kernel, tracked as CVE-2024-1086.\n\nThis vulnerability, hidden https://t.co/GrL81R8ykT",
     "tweettime": "2025-11-01, 09:16:00",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1984549977129996430",

@@ -1,11 +1,36 @@
 {
-    "tweetfavorites": 35,
+    "tweetfavorites": 37,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 7,
+    "tweetretweets": 10,
     "tweettext": "🚨🚨Zero-Day Alert: CVE-2025-20393 (CVSS 10)\nAttack targets Cisco Secure Email Gateway &amp; Web Manager with exposed ports, allowing root-level command execution.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-20393\"\nZoomEye Dork👉app=\"Cisco Secure Email Platform\"\n2.4k+ exposed https://t.co/90gZetHyWJ",
     "tweettime": "2025-12-18, 10:03:26",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2001594144293294550",
+    "username": "zoomeye_team"
+}
+{
+    "expanded_url": [
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22SonicWall%20SMA1000%22",
+        "http://product.name"
+    ],
+    "tweetfavorites": 32,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 4,
+    "tweettext": "🚨Alert🚨:CVE-2025-40602(Zero-Day) : Hackers Chain SonicWall SMA1000 Flaws for\nUnauthenticated Root RCE\n📊23.9K+ Services are found on the https://t.co/ysWb28BTvF yearly.\n🔗Hunter\nLink:https://t.co/jGrnMs1bXv\n👇Query\nHUNTER : https://t.co/q9rtuGfZuz=\"SonicWall SMA1000\" https://t.co/XYlNDsnHgo",
+    "tweettime": "2025-12-18, 09:05:16",
+    "tweeturl": "https://twitter.com/HunterMapping/status/2001579507434561580",
+    "username": "HunterMapping"
+}
+{
+    "tweetfavorites": 57,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 13,
+    "tweettext": "🚨🚨CVE-2025-37164 (CVSS 10.0): RCE in HPE OneView\nThis vulnerability allows unauthenticated remote code execution in all versions prior to v11.00.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-37164\"\nZoomEye Dork👉app=\"HPE OneView\"\n138 exposed instances.\nZoomEye Link: https://t.co/sUmGe2wqTh",
+    "tweettime": "2025-12-18, 08:14:53",
+    "tweeturl": "https://twitter.com/zoomeye_team/status/2001566827269525912",
     "username": "zoomeye_team"
 }
 {
@@ -23,20 +48,20 @@
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 933,
-    "tweetquotes": 30,
+    "tweetfavorites": 945,
+    "tweetquotes": 31,
     "tweetreplies": 19,
-    "tweetretweets": 242,
+    "tweetretweets": 248,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 77,
+    "tweetfavorites": 78,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 22,
+    "tweetretweets": 23,
     "tweettext": "🚨 New advisory was just published! 🚨\n\nCVE-2025-55681 - A new Desktop Window Manager LPE. This vulnerability is caused when an out-of-bounds bug is first triggered to execute shellcode, then MapViewOfFile is hooked to tamper with shared memory and abuse consent.exe, and finally",
     "tweettime": "2025-12-17, 08:30:58",
     "tweeturl": "https://twitter.com/SecuriTeam_SSD/status/2001208485938106774",
@@ -111,17 +136,17 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 48,
+    "tweetfavorites": 47,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 22,
+    "tweetretweets": 23,
     "tweettext": "🛡️ We added Gladinet &amp; Apple vulnerabilities CVE-2025-14611 &amp; CVE-2025-43529 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/BXihRl42AI",
     "tweettime": "2025-12-15, 18:23:26",
     "tweeturl": "https://twitter.com/USCERT_gov/status/2000632809472327988",
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 63,
+    "tweetfavorites": 64,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 12,
@@ -173,7 +198,7 @@
     "tweetfavorites": 83,
     "tweetquotes": 0,
     "tweetreplies": 6,
-    "tweetretweets": 25,
+    "tweetretweets": 24,
     "tweettext": "🚨 CVE-2025-10573 | Ivanti Endpoint Manager\nCritical stored XSS (CVSS 9.6) → unauth JS in admin sessions.\n\n🔧 Fixed in Ivanti EPM 2024 SU4 SR1 (Dec 9)\n📊 Censys sees 1,898 exposed EPM instances, 80 vulnerable\n➡️ Upgrade immediately.\n\n🔗https://t.co/4EyNonmMaM\n\n#CVE202510573 https://t.co/ZH0rJZBXFR",
     "tweettime": "2025-12-12, 22:23:18",
     "tweeturl": "https://twitter.com/censysio/status/1999606010231554148",
@@ -183,10 +208,10 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 45,
+    "tweetfavorites": 44,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 20,
+    "tweetretweets": 19,
     "tweettext": "🛡️ We added Google Chrome out-of-bounds memory access vulnerability CVE-2025-14174 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/9zaKqUmVJK",
     "tweettime": "2025-12-12, 20:56:31",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1999584169198751846",
@@ -639,7 +664,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3507,
+    "tweetfavorites": 3506,
     "tweetquotes": 70,
     "tweetreplies": 64,
     "tweetretweets": 419,
@@ -802,7 +827,7 @@
     "expanded_url": [
         "https://github.com/ejpir/CVE-2025-55182-poc/blob/main/exploit-rce-v4.js"
     ],
-    "tweetfavorites": 237,
+    "tweetfavorites": 236,
     "tweetquotes": 2,
     "tweetreplies": 4,
     "tweetretweets": 50,
@@ -903,7 +928,7 @@
     "expanded_url": [
         "https://syst3mfailure.io/rbtree-family-drama/"
     ],
-    "tweetfavorites": 240,
+    "tweetfavorites": 239,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 54,
