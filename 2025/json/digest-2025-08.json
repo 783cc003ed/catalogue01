@@ -59,7 +59,7 @@
     "tweetfavorites": 234,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 45,
+    "tweetretweets": 44,
     "tweettext": "Remote Code Execution in Adobe AEM Forms via CVE-2025-54253 (Struts2 DevMode misconfig: auth bypass + OGNL eval) and CVE-2025-49533 (Insecure Deserialization). \n\nBoth rated critical, identified in a VDP (now patched). \n\nOriginal research: https://t.co/uJoFgzyDk0 https://t.co/H3SC8ytLhI",
     "tweettime": "2025-08-24, 07:29:35",
     "tweeturl": "https://twitter.com/win3zz/status/1959518434792014307",
@@ -239,10 +239,10 @@
     "expanded_url": [
         "https://go.dhs.gov/iwQ"
     ],
-    "tweetfavorites": 260,
+    "tweetfavorites": 259,
     "tweetquotes": 8,
     "tweetreplies": 10,
-    "tweetretweets": 123,
+    "tweetretweets": 122,
     "tweettext": "⚠️MS Exchange server hybrid deployment elevation of privilege vulnerability CVE-2025-53786 could allow a threat actor with admin access to an Exchange server to escalate privileges by exploiting vulnerable hybrid-joined configurations. See guidance 👉 https://t.co/NzTYDGqMMq https://t.co/2Cc6mJBRqs",
     "tweettime": "2025-08-07, 00:27:06",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1953251518359929253",

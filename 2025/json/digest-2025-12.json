@@ -1,12 +1,26 @@
 {
     "expanded_url": [
+        "https://github.com/rxerium/CVE-2025-68461",
+        "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
+    ],
+    "tweetfavorites": 69,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 3,
+    "tweettext": "🚨 CVE-2025-68461: XSS flaw in Roundcube Webmail (CVSS 7.2) via SVG animate tag. \n\nI've built a detection script here:\nhttps://t.co/bFOJ2CsyEX\n\nPatches are available - update to updated versions 1.6.12 and 1.5.12:\nhttps://t.co/CVLM5GL6fR https://t.co/lpLkRDVC7X",
+    "tweettime": "2025-12-19, 11:24:03",
+    "tweeturl": "https://twitter.com/hakrishi/status/2001976821261406303",
+    "username": "hakrishi"
+}
+{
+    "expanded_url": [
         "https://www.zoomeye.ai/searchResult?q=YXBwPSJSb3VuZEN1YmUgV2VibWFpbCI%3D&utm_source=x&utm_medium=x&utm_campaign=x_RoundCube_25121901",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 36,
+    "tweetfavorites": 44,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 6,
+    "tweetretweets": 9,
     "tweettext": "🚨🚨CVE-2025-68460 &amp; CVE-2025-68461: Roundcube Alert: High-Severity SVG XSS and CSS Sanitizer Flaws Threaten Webmail Privacy\n\nZoomEye Dork👉app=\"RoundCube Webmail\"\n642.9k+ exposed instances.\nZoomEye Link: https://t.co/s6g9BCPzEE\n\nRefer: \n1. https://t.co/ynzLaPxuZA\n2. https://t.co/1jsia48Kxf",
     "tweettime": "2025-12-19, 03:10:58",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2001852733075394575",
@@ -38,7 +52,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 58,
+    "tweetfavorites": 59,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 13,
@@ -62,17 +76,17 @@
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 985,
+    "tweetfavorites": 993,
     "tweetquotes": 31,
-    "tweetreplies": 19,
-    "tweetretweets": 256,
+    "tweetreplies": 20,
+    "tweetretweets": 260,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 78,
+    "tweetfavorites": 77,
     "tweetquotes": 1,
     "tweetreplies": 0,
     "tweetretweets": 23,
@@ -153,7 +167,7 @@
     "tweetfavorites": 47,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 23,
+    "tweetretweets": 22,
     "tweettext": "🛡️ We added Gladinet &amp; Apple vulnerabilities CVE-2025-14611 &amp; CVE-2025-43529 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/BXihRl42AI",
     "tweettime": "2025-12-15, 18:23:26",
     "tweeturl": "https://twitter.com/USCERT_gov/status/2000632809472327988",
@@ -209,7 +223,7 @@
     "expanded_url": [
         "https://hubs.ly/Q03Y3Ym_0"
     ],
-    "tweetfavorites": 83,
+    "tweetfavorites": 82,
     "tweetquotes": 0,
     "tweetreplies": 6,
     "tweetretweets": 24,
@@ -481,7 +495,7 @@
     "tweetfavorites": 562,
     "tweetquotes": 3,
     "tweetreplies": 16,
-    "tweetretweets": 124,
+    "tweetretweets": 125,
     "tweettext": "#CVE-2025-55182 #React2Shell \nLet me walk you through the technical path of the WAF bypass.\nWhen a request is sent as multipart/form-data, Next.js hands the raw body stream to Busboy. The bypass comes from Busboy’s charset logic: it cleanly accepts UTF‑16LE (and legacy UCS‑2) and https://t.co/ac8Lj7yXpA",
     "tweettime": "2025-12-09, 16:12:17",
     "tweeturl": "https://twitter.com/pyn3rd/status/1998425479284654420",
@@ -714,7 +728,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 596,
+    "tweetfavorites": 595,
     "tweetquotes": 6,
     "tweetreplies": 7,
     "tweetretweets": 71,
@@ -867,7 +881,7 @@
     "expanded_url": [
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
-    "tweetfavorites": 496,
+    "tweetfavorites": 497,
     "tweetquotes": 7,
     "tweetreplies": 9,
     "tweetretweets": 61,
@@ -958,7 +972,7 @@
     "tweetfavorites": 454,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 152,
+    "tweetretweets": 151,
     "tweettext": "🚨 PoC Exploit Released For Outlook 0-Click Remote Code Execution Vulnerability \n\nSource: https://t.co/zpeuGMQuHa\n\nA Proof-of-Concept (PoC) exploit code has been released for a critical remote code execution (RCE) vulnerability in Microsoft Outlook, identified as CVE-2024-21413. https://t.co/GZAl0rTJOp",
     "tweettime": "2025-12-01, 06:21:15",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1995377636772864286",

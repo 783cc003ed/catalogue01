@@ -174,7 +174,7 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 411,
+    "tweetfavorites": 410,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 150,
@@ -259,10 +259,10 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 551,
+    "tweetfavorites": 550,
     "tweetquotes": 14,
     "tweetreplies": 12,
-    "tweetretweets": 166,
+    "tweetretweets": 164,
     "tweettext": "Zscaler ThreatLabz has discovered CVE-2025-50165 in the Microsoft Windows Graphics Component. With a CVSS score of 9.8, this vulnerability enables attackers to execute arbitrary code using a specially crafted JPEG image that can be triggered by any application that leverages the https://t.co/QC9DIhp6kN",
     "tweettime": "2025-11-20, 15:48:53",
     "tweeturl": "https://twitter.com/Threatlabz/status/1991534221366907269",
@@ -911,7 +911,7 @@
     "tweetfavorites": 333,
     "tweetquotes": 5,
     "tweetreplies": 15,
-    "tweetretweets": 119,
+    "tweetretweets": 118,
     "tweettext": "🚨Cyber Alert‼️\n\nWindows Zero-Day Exploit Actively Abused in Diplomatic Attacks. No Patch Available Yet\n\nChinese group UNC6384 exploited an unpatched Windows zero-day (CVE-2025-9491) to target EU diplomats via spearphishing in September–October 2025. \n\nVictims downloaded fake https://t.co/hWX9cM24WJ",
     "tweettime": "2025-11-03, 14:08:09",
     "tweeturl": "https://twitter.com/H4ckManac/status/1985348276304920874",
