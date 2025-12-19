@@ -1,18 +1,42 @@
 {
-    "tweetfavorites": 175,
-    "tweetquotes": 9,
-    "tweetreplies": 7,
-    "tweetretweets": 67,
+    "tweetfavorites": 35,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 7,
+    "tweettext": "🚨🚨Zero-Day Alert: CVE-2025-20393 (CVSS 10)\nAttack targets Cisco Secure Email Gateway &amp; Web Manager with exposed ports, allowing root-level command execution.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-20393\"\nZoomEye Dork👉app=\"Cisco Secure Email Platform\"\n2.4k+ exposed https://t.co/90gZetHyWJ",
+    "tweettime": "2025-12-18, 10:03:26",
+    "tweeturl": "https://twitter.com/zoomeye_team/status/2001594144293294550",
+    "username": "zoomeye_team"
+}
+{
+    "expanded_url": [
+        "https://github.com/rxerium/CVE-2025-40602",
+        "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0019"
+    ],
+    "tweetfavorites": 40,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 9,
+    "tweettext": "🚨 CISA reports Zero Day CVE-2025-40602 as being actively exploited in the wild!\n\nI've created a detection script here:\nhttps://t.co/SAowaDDc3y\n\nPatches and workaround are now available.\n\nAdvisory from Sonicwall:\nhttps://t.co/OMzmm8TqrX https://t.co/hDVZ3vtO8H",
+    "tweettime": "2025-12-18, 07:50:32",
+    "tweeturl": "https://twitter.com/hakrishi/status/2001560699835687268",
+    "username": "hakrishi"
+}
+{
+    "tweetfavorites": 933,
+    "tweetquotes": 30,
+    "tweetreplies": 19,
+    "tweetretweets": 242,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 73,
+    "tweetfavorites": 77,
     "tweetquotes": 1,
     "tweetreplies": 0,
-    "tweetretweets": 19,
+    "tweetretweets": 22,
     "tweettext": "🚨 New advisory was just published! 🚨\n\nCVE-2025-55681 - A new Desktop Window Manager LPE. This vulnerability is caused when an out-of-bounds bug is first triggered to execute shellcode, then MapViewOfFile is hooked to tamper with shared memory and abuse consent.exe, and finally",
     "tweettime": "2025-12-17, 08:30:58",
     "tweeturl": "https://twitter.com/SecuriTeam_SSD/status/2001208485938106774",
@@ -22,9 +46,9 @@
     "expanded_url": [
         "https://cybersecuritynews.com/windows-admin-center-vulnerability/"
     ],
-    "tweetfavorites": 198,
+    "tweetfavorites": 199,
     "tweetquotes": 5,
-    "tweetreplies": 4,
+    "tweetreplies": 3,
     "tweetretweets": 81,
     "tweettext": "🛡️ Windows Admin Center Vulnerability (CVE-2025-64669) Let Attackers Escalate Privileges \n\nSource: https://t.co/Or3UhwZLkq\n\nA new local privilege escalation vulnerability in Microsoft’s Windows Admin Center (WAC), affecting versions up to 2.4.2.1 and environments running WAC 2411 https://t.co/rvgP4yCpEA",
     "tweettime": "2025-12-16, 18:48:00",
@@ -74,7 +98,7 @@
     "expanded_url": [
         "https://msft.it/6011tmKSF"
     ],
-    "tweetfavorites": 123,
+    "tweetfavorites": 124,
     "tweetquotes": 5,
     "tweetreplies": 2,
     "tweetretweets": 48,
@@ -617,8 +641,8 @@
 {
     "tweetfavorites": 3507,
     "tweetquotes": 70,
-    "tweetreplies": 63,
-    "tweetretweets": 422,
+    "tweetreplies": 64,
+    "tweetretweets": 419,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -651,7 +675,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 597,
+    "tweetfavorites": 596,
     "tweetquotes": 6,
     "tweetreplies": 7,
     "tweetretweets": 71,
@@ -750,7 +774,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 439,
+    "tweetfavorites": 438,
     "tweetquotes": 1,
     "tweetreplies": 4,
     "tweetretweets": 52,
@@ -892,10 +916,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 453,
+    "tweetfavorites": 454,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 153,
+    "tweetretweets": 152,
     "tweettext": "🚨 PoC Exploit Released For Outlook 0-Click Remote Code Execution Vulnerability \n\nSource: https://t.co/zpeuGMQuHa\n\nA Proof-of-Concept (PoC) exploit code has been released for a critical remote code execution (RCE) vulnerability in Microsoft Outlook, identified as CVE-2024-21413. https://t.co/GZAl0rTJOp",
     "tweettime": "2025-12-01, 06:21:15",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1995377636772864286",

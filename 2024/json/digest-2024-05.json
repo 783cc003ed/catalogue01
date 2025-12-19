@@ -245,7 +245,7 @@
     "tweetfavorites": 375,
     "tweetquotes": 1,
     "tweetreplies": 3,
-    "tweetretweets": 80,
+    "tweetretweets": 79,
     "tweettext": "If you discover a domain / subdomain using IBM Maximo Asset Management, be sure to check if it is XXE 🥳💰🤗\n\nUse ;\n\npython3 CVE-2020-4463[.]py --url http :// target / -x ( -x for xxe, -d for Data Leak)\n\nhttps://t.co/DIGucYqJIL\n\n#BugBounty #BugBountyTips https://t.co/MNsCVVrq8M",
     "tweettime": "2024-05-15, 20:27:01",
     "tweeturl": "https://twitter.com/ynsmroztas/status/1790841337224331561",

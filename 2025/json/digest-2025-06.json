@@ -203,7 +203,7 @@
     "tweetfavorites": 523,
     "tweetquotes": 10,
     "tweetreplies": 7,
-    "tweetretweets": 115,
+    "tweetretweets": 114,
     "tweettext": "⚠️ We’ve reproduced CVE-2025-49113 in Roundcube.\n\nThis vulnerability allows authenticated users to execute arbitrary commands via PHP object deserialization.\n\nIf you're running Roundcube — update immediately! https://t.co/iv3L56TRUB",
     "tweettime": "2025-06-03, 16:38:42",
     "tweeturl": "https://twitter.com/ptswarm/status/1929940817679962141",
