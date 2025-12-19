@@ -1,8 +1,22 @@
 {
-    "tweetfavorites": 41,
+    "expanded_url": [
+        "https://www.zoomeye.ai/searchResult?q=YXBwPSJSb3VuZEN1YmUgV2VibWFpbCI%3D&utm_source=x&utm_medium=x&utm_campaign=x_RoundCube_25121901",
+        "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
+    ],
+    "tweetfavorites": 36,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 6,
+    "tweettext": "🚨🚨CVE-2025-68460 &amp; CVE-2025-68461: Roundcube Alert: High-Severity SVG XSS and CSS Sanitizer Flaws Threaten Webmail Privacy\n\nZoomEye Dork👉app=\"RoundCube Webmail\"\n642.9k+ exposed instances.\nZoomEye Link: https://t.co/s6g9BCPzEE\n\nRefer: \n1. https://t.co/ynzLaPxuZA\n2. https://t.co/1jsia48Kxf",
+    "tweettime": "2025-12-19, 03:10:58",
+    "tweeturl": "https://twitter.com/zoomeye_team/status/2001852733075394575",
+    "username": "zoomeye_team"
+}
+{
+    "tweetfavorites": 43,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 12,
     "tweettext": "🚨🚨Zero-Day Alert: CVE-2025-20393 (CVSS 10)\nAttack targets Cisco Secure Email Gateway &amp; Web Manager with exposed ports, allowing root-level command execution.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-20393\"\nZoomEye Dork👉app=\"Cisco Secure Email Platform\"\n2.4k+ exposed https://t.co/90gZetHyWJ",
     "tweettime": "2025-12-18, 10:03:26",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2001594144293294550",
@@ -38,7 +52,7 @@
         "https://github.com/rxerium/CVE-2025-40602",
         "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0019"
     ],
-    "tweetfavorites": 40,
+    "tweetfavorites": 41,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 9,
@@ -48,10 +62,10 @@
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 972,
+    "tweetfavorites": 985,
     "tweetquotes": 31,
     "tweetreplies": 19,
-    "tweetretweets": 252,
+    "tweetretweets": 256,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
@@ -136,10 +150,10 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 46,
+    "tweetfavorites": 47,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 22,
+    "tweetretweets": 23,
     "tweettext": "🛡️ We added Gladinet &amp; Apple vulnerabilities CVE-2025-14611 &amp; CVE-2025-43529 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/BXihRl42AI",
     "tweettime": "2025-12-15, 18:23:26",
     "tweeturl": "https://twitter.com/USCERT_gov/status/2000632809472327988",
@@ -169,7 +183,7 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 114,
+    "tweetfavorites": 113,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 17,
@@ -664,7 +678,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3506,
+    "tweetfavorites": 3505,
     "tweetquotes": 70,
     "tweetreplies": 64,
     "tweetretweets": 419,
