@@ -133,10 +133,10 @@
     "expanded_url": [
         "https://nvd.nist.gov/vuln/detail/CVE-2023-29357"
     ],
-    "tweetfavorites": 274,
+    "tweetfavorites": 273,
     "tweetquotes": 7,
     "tweetreplies": 1,
-    "tweetretweets": 84,
+    "tweetretweets": 85,
     "tweettext": "CVE-2023-29357\n\nCVSS score: 9.8\n\nAffected product(s),verison(s): Microsoft SharePoint\n\nAn attacker exploiting this flaw could gain administrator-level privileges without requiring any prior authentication.\n\nhttps://t.co/kDz1J8tOaW\n\n#cybersecurity #infosec #exploit https://t.co/yETUrSaym8",
     "tweettime": "2023-09-27, 16:00:02",
     "tweeturl": "https://twitter.com/DailyDarkWeb/status/1707062549022142473",
