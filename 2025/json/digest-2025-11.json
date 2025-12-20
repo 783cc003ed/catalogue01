@@ -707,7 +707,7 @@
     "expanded_url": [
         "https://youtu.be/1Ymnvd1uyzQ"
     ],
-    "tweetfavorites": 268,
+    "tweetfavorites": 267,
     "tweetquotes": 2,
     "tweetreplies": 10,
     "tweetretweets": 41,
@@ -765,7 +765,7 @@
 {
     "tweetfavorites": 235,
     "tweetquotes": 3,
-    "tweetreplies": 12,
+    "tweetreplies": 11,
     "tweetretweets": 86,
     "tweettext": "🚨 Microsoft just fixed a Windows flaw hackers are already exploiting in the wild.\n\nThe kernel bug (CVE-2025-62215) lets anyone with local access gain full control — and it’s being linked with other attacks for complete takeover.\n\nInstall the latest patches now ↓ https://t.co/LA8LKon8iX",
     "tweettime": "2025-11-12, 10:23:54",
@@ -918,10 +918,10 @@
     "username": "H4ckManac"
 }
 {
-    "tweetfavorites": 460,
+    "tweetfavorites": 461,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 104,
+    "tweetretweets": 102,
     "tweettext": "🚨🚨CVE-2025-52665 (CVSS 10.0): RCE in UniFi OS\nA malicious actor on the management network could exploit a UniFi Access misconfiguration exposing an unauthenticated management API.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-52665\"\nZoomEye Dork👉app=\"UniFi OS\"\n279.8k+ live https://t.co/5Ug8zpu5oz",
     "tweettime": "2025-11-03, 03:33:17",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1985188506755575906",

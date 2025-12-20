@@ -1,33 +1,69 @@
 {
     "expanded_url": [
+        "https://cybersecuritynews.com/tool-cisco-secure-email-gateway-0-day/"
+    ],
+    "tweetfavorites": 50,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "🚨 New Tool Detects Cisco 0-Day Exploit in Secure Email Gateway! | Source: https://t.co/VZPKTxqhJB\n\nA lightweight Python script to help organizations quickly identify exposure to CVE-2025-20393, a critical zero-day vulnerability in Cisco Secure Email Gateway (SEG) and Secure https://t.co/024XBJ6H5A",
+    "tweettime": "2025-12-19, 17:25:19",
+    "tweeturl": "https://twitter.com/The_Cyber_News/status/2002067734675533863",
+    "username": "The_Cyber_News"
+}
+{
+    "expanded_url": [
+        "https://attackerkb.com/topics/ixWdbDvjwX/cve-2025-37164/rapid7-analysis"
+    ],
+    "tweetfavorites": 66,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "We just published our @rapid7 analysis of CVE-2025-37164 (h/t @the_emmons). Unauthenticated RCE against HPE OneView via an unauthenticated REST endpoint called executeCommand! Full details here: https://t.co/gyKwEjCsZ6",
+    "tweettime": "2025-12-19, 16:23:13",
+    "tweeturl": "https://twitter.com/stephenfewer/status/2002052107776700585",
+    "username": "stephenfewer"
+}
+{
+    "expanded_url": [
         "https://github.com/rxerium/CVE-2025-68461",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 69,
+    "tweetfavorites": 230,
     "tweetquotes": 0,
-    "tweetreplies": 0,
-    "tweetretweets": 3,
+    "tweetreplies": 2,
+    "tweetretweets": 27,
     "tweettext": "🚨 CVE-2025-68461: XSS flaw in Roundcube Webmail (CVSS 7.2) via SVG animate tag. \n\nI've built a detection script here:\nhttps://t.co/bFOJ2CsyEX\n\nPatches are available - update to updated versions 1.6.12 and 1.5.12:\nhttps://t.co/CVLM5GL6fR https://t.co/lpLkRDVC7X",
     "tweettime": "2025-12-19, 11:24:03",
     "tweeturl": "https://twitter.com/hakrishi/status/2001976821261406303",
     "username": "hakrishi"
 }
 {
+    "tweetfavorites": 37,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 6,
+    "tweettext": "🚨🚨CVE-2025-14733 (CVSS 9.3): WatchGuard Firebox IKEv2 Out-of-Bounds Write RCE\nUnauthenticated remote attackers can potentially execute arbitrary code on vulnerable Fireboxes via the iked process—targeting Mobile/User VPN or Branch Office VPN with dynamic peers.\n\nSearch by https://t.co/DbCCcg0y1s",
+    "tweettime": "2025-12-19, 06:48:47",
+    "tweeturl": "https://twitter.com/zoomeye_team/status/2001907545649434762",
+    "username": "zoomeye_team"
+}
+{
     "expanded_url": [
         "https://www.zoomeye.ai/searchResult?q=YXBwPSJSb3VuZEN1YmUgV2VibWFpbCI%3D&utm_source=x&utm_medium=x&utm_campaign=x_RoundCube_25121901",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 44,
+    "tweetfavorites": 60,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 9,
+    "tweetretweets": 11,
     "tweettext": "🚨🚨CVE-2025-68460 &amp; CVE-2025-68461: Roundcube Alert: High-Severity SVG XSS and CSS Sanitizer Flaws Threaten Webmail Privacy\n\nZoomEye Dork👉app=\"RoundCube Webmail\"\n642.9k+ exposed instances.\nZoomEye Link: https://t.co/s6g9BCPzEE\n\nRefer: \n1. https://t.co/ynzLaPxuZA\n2. https://t.co/1jsia48Kxf",
     "tweettime": "2025-12-19, 03:10:58",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2001852733075394575",
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 43,
+    "tweetfavorites": 44,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 12,
@@ -52,10 +88,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 59,
+    "tweetfavorites": 63,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 13,
+    "tweetretweets": 14,
     "tweettext": "🚨🚨CVE-2025-37164 (CVSS 10.0): RCE in HPE OneView\nThis vulnerability allows unauthenticated remote code execution in all versions prior to v11.00.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-37164\"\nZoomEye Dork👉app=\"HPE OneView\"\n138 exposed instances.\nZoomEye Link: https://t.co/sUmGe2wqTh",
     "tweettime": "2025-12-18, 08:14:53",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2001566827269525912",
@@ -76,14 +112,27 @@
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 993,
+    "tweetfavorites": 1023,
     "tweetquotes": 31,
-    "tweetreplies": 20,
-    "tweetretweets": 260,
+    "tweetreplies": 21,
+    "tweetretweets": 270,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
     "username": "TheHackersNews"
+}
+{
+    "expanded_url": [
+        "https://go.dhs.gov/Z3Q"
+    ],
+    "tweetfavorites": 48,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 11,
+    "tweettext": "🛡️ We added Cisco vulnerability CVE-2025-20393, SonicWall vulnerability CVE-2025-40602, and ASUS vulnerability CVE-2025-59374 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity https://t.co/9wFx44P372",
+    "tweettime": "2025-12-17, 20:27:30",
+    "tweeturl": "https://twitter.com/USCERT_gov/status/2001388807258554423",
+    "username": "USCERT_gov"
 }
 {
     "tweetfavorites": 77,
@@ -99,7 +148,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/windows-admin-center-vulnerability/"
     ],
-    "tweetfavorites": 199,
+    "tweetfavorites": 200,
     "tweetquotes": 5,
     "tweetreplies": 3,
     "tweetretweets": 81,
@@ -210,10 +259,10 @@
     "expanded_url": [
         "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html"
     ],
-    "tweetfavorites": 138,
+    "tweetfavorites": 137,
     "tweetquotes": 3,
     "tweetreplies": 4,
-    "tweetretweets": 47,
+    "tweetretweets": 46,
     "tweettext": "🚨 Update: Chrome’s active zero-day is now CVE-2025-14174 (8.8), a remote out-of-bounds memory bug in the ANGLE graphics engine.\n\nAlready used in real attacks. Update now.\n\n🔗 Read: https://t.co/Y5QjvXkyL4",
     "tweettime": "2025-12-13, 05:41:47",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1999716360365220055",
@@ -530,8 +579,8 @@
 {
     "tweetfavorites": 4013,
     "tweetquotes": 78,
-    "tweetreplies": 279,
-    "tweetretweets": 303,
+    "tweetreplies": 281,
+    "tweetretweets": 304,
     "tweettext": "Someone found an RCE on my website yesterday.\n\nCVE-2025-55182.\n\nReact2Shell.\n\nI don't have a bug bounty program.\n\nI never asked for a security assessment.\n\nI woke up to a DM: \"Hey I found a critical vulnerability in your site. I only ran the exploit to verify it worked. Here's my",
     "tweettime": "2025-12-08, 20:15:31",
     "tweeturl": "https://twitter.com/gothburz/status/1998124302177112470",
@@ -694,8 +743,8 @@
 {
     "tweetfavorites": 3505,
     "tweetquotes": 70,
-    "tweetreplies": 64,
-    "tweetretweets": 419,
+    "tweetreplies": 65,
+    "tweetretweets": 418,
     "tweettext": "Holy shit… the exploitation of CVE-2025-55182 has reached a new level. There’s now a publicly available Chrome extension on GitHub that automatically scans for and exploits vulnerable sites as you browse. Absolutely wild. 🤦‍♂️ https://t.co/Owpzb1llEr",
     "tweettime": "2025-12-05, 16:12:42",
     "tweeturl": "https://twitter.com/securityshell/status/1996976033069670548",
@@ -728,7 +777,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 595,
+    "tweetfavorites": 594,
     "tweetquotes": 6,
     "tweetreplies": 7,
     "tweetretweets": 71,
@@ -969,7 +1018,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 454,
+    "tweetfavorites": 455,
     "tweetquotes": 0,
     "tweetreplies": 7,
     "tweetretweets": 151,

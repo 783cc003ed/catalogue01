@@ -25,10 +25,10 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 173,
+    "tweetfavorites": 172,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 53,
+    "tweetretweets": 52,
     "tweettext": "🚨#WSUS CVE-2025-59287 #exploit found.\nPowerShell PoC that downloads ysoserial, crafts a BinaryFormatter blob, and brags about “RCE when you open the WSUS console.”\n\nwsus-rce.ps1➡️693745cff2bef06c58f6af649969cd9c\n\n#DFIR #ThreatHunting https://t.co/IoJVjzeeCW",
     "tweettime": "2025-10-29, 09:21:22",
     "tweeturl": "https://twitter.com/ShanHolo/status/1983464163151347782",
@@ -127,7 +127,7 @@
     "expanded_url": [
         "https://www.huntress.com/blog/exploitation-of-windows-server-update-services-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 519,
+    "tweetfavorites": 518,
     "tweetquotes": 12,
     "tweetreplies": 6,
     "tweetretweets": 81,
@@ -151,7 +151,7 @@
     "username": "linkersec"
 }
 {
-    "tweetfavorites": 211,
+    "tweetfavorites": 210,
     "tweetquotes": 2,
     "tweetreplies": 0,
     "tweetretweets": 64,
@@ -447,7 +447,7 @@
     "tweetfavorites": 252,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 51,
+    "tweetretweets": 49,
     "tweettext": "You name it, VMware elevates it (CVE-2025-41244)\n\nTLDR; Broadcom disclosed local priv esc vuln, impacting VMware’s guest service discovery features. NVISO has identified zero-day exploitation in the wild beginning mid-October 2024.\n\nhttps://t.co/OIql07P3Rq https://t.co/PYDb2r4kgQ",
     "tweettime": "2025-10-04, 14:55:00",
     "tweeturl": "https://twitter.com/Smukx07/status/1974488429871366232",
