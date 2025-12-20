@@ -82,10 +82,10 @@
     "username": "pdiscoveryio"
 }
 {
-    "tweetfavorites": 235,
+    "tweetfavorites": 234,
     "tweetquotes": 7,
     "tweetreplies": 4,
-    "tweetretweets": 113,
+    "tweetretweets": 111,
     "tweettext": "🚨 Warning: A new high-severity Google Chrome flaw is being actively exploited in the wild.\n\nCVE-2025-4664 allows attackers to steal sensitive data like account credentials via crafted HTML + image traps.\n\nIt affects Chrome &lt; 136.0.7103.113 — and likely other Chromium-based https://t.co/uMUVftLdfq",
     "tweettime": "2025-05-15, 06:19:29",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1922899618871820729",

@@ -2,7 +2,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/tool-cisco-secure-email-gateway-0-day/"
     ],
-    "tweetfavorites": 63,
+    "tweetfavorites": 65,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 27,
@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://attackerkb.com/topics/ixWdbDvjwX/cve-2025-37164/rapid7-analysis"
     ],
-    "tweetfavorites": 77,
+    "tweetfavorites": 78,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 21,
+    "tweetretweets": 22,
     "tweettext": "We just published our @rapid7 analysis of CVE-2025-37164 (h/t @the_emmons). Unauthenticated RCE against HPE OneView via an unauthenticated REST endpoint called executeCommand! Full details here: https://t.co/gyKwEjCsZ6",
     "tweettime": "2025-12-19, 16:23:13",
     "tweeturl": "https://twitter.com/stephenfewer/status/2002052107776700585",
@@ -29,7 +29,7 @@
         "https://github.com/rxerium/CVE-2025-68461",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 297,
+    "tweetfavorites": 313,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 44,
@@ -115,7 +115,7 @@
     "tweetfavorites": 1025,
     "tweetquotes": 31,
     "tweetreplies": 21,
-    "tweetretweets": 272,
+    "tweetretweets": 273,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
@@ -551,7 +551,7 @@
     "username": "osman1337_"
 }
 {
-    "tweetfavorites": 564,
+    "tweetfavorites": 563,
     "tweetquotes": 3,
     "tweetreplies": 16,
     "tweetretweets": 125,
@@ -751,7 +751,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3504,
+    "tweetfavorites": 3503,
     "tweetquotes": 70,
     "tweetreplies": 65,
     "tweetretweets": 418,
@@ -787,7 +787,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 594,
+    "tweetfavorites": 592,
     "tweetquotes": 6,
     "tweetreplies": 7,
     "tweetretweets": 71,
@@ -886,10 +886,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 438,
+    "tweetfavorites": 436,
     "tweetquotes": 1,
     "tweetreplies": 4,
-    "tweetretweets": 52,
+    "tweetretweets": 51,
     "tweettext": "#CVE-2025-55182: Remote Code Execution in React Server Components via a Unicode-based WAF bypass https://t.co/JEVDKrd9nz",
     "tweettime": "2025-12-04, 04:10:36",
     "tweeturl": "https://twitter.com/pyn3rd/status/1996431921736519886",
@@ -1028,10 +1028,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 455,
+    "tweetfavorites": 454,
     "tweetquotes": 0,
     "tweetreplies": 7,
-    "tweetretweets": 151,
+    "tweetretweets": 150,
     "tweettext": "🚨 PoC Exploit Released For Outlook 0-Click Remote Code Execution Vulnerability \n\nSource: https://t.co/zpeuGMQuHa\n\nA Proof-of-Concept (PoC) exploit code has been released for a critical remote code execution (RCE) vulnerability in Microsoft Outlook, identified as CVE-2024-21413. https://t.co/GZAl0rTJOp",
     "tweettime": "2025-12-01, 06:21:15",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/1995377636772864286",

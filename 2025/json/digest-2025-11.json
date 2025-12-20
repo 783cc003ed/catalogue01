@@ -458,10 +458,10 @@
     "expanded_url": [
         "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html"
     ],
-    "tweetfavorites": 484,
+    "tweetfavorites": 478,
     "tweetquotes": 25,
     "tweetreplies": 15,
-    "tweetretweets": 172,
+    "tweetretweets": 171,
     "tweettext": "🔴 Google confirms new Chrome zero-day under attack.\n\nThe flaw — CVE-2025-13223 — lets hackers run code through a crafted web page.\n\nIt’s the third V8 exploit this year, and it’s already being used in the wild.\n\nPatch now ↓ https://t.co/EGlJmKgYL5",
     "tweettime": "2025-11-18, 04:46:32",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1990642756587565120",
@@ -763,7 +763,7 @@
     "username": "gothburz"
 }
 {
-    "tweetfavorites": 235,
+    "tweetfavorites": 234,
     "tweetquotes": 3,
     "tweetreplies": 11,
     "tweetretweets": 86,

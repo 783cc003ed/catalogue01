@@ -282,10 +282,10 @@
     "username": "ptswarm"
 }
 {
-    "tweetfavorites": 1748,
+    "tweetfavorites": 1746,
     "tweetquotes": 52,
     "tweetreplies": 21,
-    "tweetretweets": 844,
+    "tweetretweets": 843,
     "tweettext": "So yes, Zerologon (CVE-2020-1472) is quite easy to exploit. Unauthenticated user to Domain Admin. This is really scary. Run exploit, DCSync with DC account and empty NT hash: you have Domain Admin and a broken DC.\nAwesome find by Tom Tervoort 🙂. Patch patch patch! https://t.co/XHRO7n50Qh",
     "tweettime": "2020-09-14, 12:00:25",
     "tweeturl": "https://twitter.com/_dirkjan/status/1305476492386861059",

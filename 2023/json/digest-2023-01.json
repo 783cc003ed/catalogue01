@@ -284,10 +284,10 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
     ],
-    "tweetfavorites": 232,
+    "tweetfavorites": 231,
     "tweetquotes": 2,
     "tweetreplies": 2,
-    "tweetretweets": 81,
+    "tweetretweets": 80,
     "tweettext": "CVE-2022-32250 : use-after-free in Linux kernel\nExploitation writeup by @ExodusIntel targeting Linux kernel 5.18.1\n\nhttps://t.co/W6U8j5bZtq \n\n#Linux #kernel #exploit #cve #infosec #cybersecurity https://t.co/rm0FV9O52n",
     "tweettime": "2023-01-20, 08:00:32",
     "tweeturl": "https://twitter.com/0xor0ne/status/1616344915520241672",
