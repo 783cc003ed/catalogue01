@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/tool-cisco-secure-email-gateway-0-day/"
     ],
-    "tweetfavorites": 65,
+    "tweetfavorites": 69,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 27,
+    "tweetretweets": 28,
     "tweettext": "🚨 New Tool Detects Cisco 0-Day Exploit in Secure Email Gateway! | Source: https://t.co/VZPKTxqhJB\n\nA lightweight Python script to help organizations quickly identify exposure to CVE-2025-20393, a critical zero-day vulnerability in Cisco Secure Email Gateway (SEG) and Secure https://t.co/024XBJ6H5A",
     "tweettime": "2025-12-19, 17:25:19",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/2002067734675533863",
@@ -15,10 +15,10 @@
     "expanded_url": [
         "https://attackerkb.com/topics/ixWdbDvjwX/cve-2025-37164/rapid7-analysis"
     ],
-    "tweetfavorites": 78,
+    "tweetfavorites": 79,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 22,
+    "tweetretweets": 23,
     "tweettext": "We just published our @rapid7 analysis of CVE-2025-37164 (h/t @the_emmons). Unauthenticated RCE against HPE OneView via an unauthenticated REST endpoint called executeCommand! Full details here: https://t.co/gyKwEjCsZ6",
     "tweettime": "2025-12-19, 16:23:13",
     "tweeturl": "https://twitter.com/stephenfewer/status/2002052107776700585",
@@ -29,10 +29,10 @@
         "https://github.com/rxerium/CVE-2025-68461",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 313,
+    "tweetfavorites": 325,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 44,
+    "tweetretweets": 47,
     "tweettext": "🚨 CVE-2025-68461: XSS flaw in Roundcube Webmail (CVSS 7.2) via SVG animate tag. \n\nI've built a detection script here:\nhttps://t.co/bFOJ2CsyEX\n\nPatches are available - update to updated versions 1.6.12 and 1.5.12:\nhttps://t.co/CVLM5GL6fR https://t.co/lpLkRDVC7X",
     "tweettime": "2025-12-19, 11:24:03",
     "tweeturl": "https://twitter.com/hakrishi/status/2001976821261406303",
@@ -53,7 +53,7 @@
         "https://www.zoomeye.ai/searchResult?q=YXBwPSJSb3VuZEN1YmUgV2VibWFpbCI%3D&utm_source=x&utm_medium=x&utm_campaign=x_RoundCube_25121901",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 65,
+    "tweetfavorites": 68,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 12,
@@ -88,7 +88,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 63,
+    "tweetfavorites": 62,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 14,
@@ -102,7 +102,7 @@
         "https://github.com/rxerium/CVE-2025-40602",
         "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0019"
     ],
-    "tweetfavorites": 42,
+    "tweetfavorites": 41,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 9,
@@ -112,10 +112,10 @@
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 1025,
-    "tweetquotes": 31,
-    "tweetreplies": 21,
-    "tweetretweets": 273,
+    "tweetfavorites": 1050,
+    "tweetquotes": 32,
+    "tweetreplies": 22,
+    "tweetretweets": 280,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
@@ -148,7 +148,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/windows-admin-center-vulnerability/"
     ],
-    "tweetfavorites": 200,
+    "tweetfavorites": 199,
     "tweetquotes": 5,
     "tweetreplies": 3,
     "tweetretweets": 81,
@@ -233,7 +233,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 64,
+    "tweetfavorites": 63,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 12,
@@ -256,7 +256,7 @@
     "username": "zoomeye_team"
 }
 {
-    "tweetfavorites": 113,
+    "tweetfavorites": 112,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 17,
@@ -481,10 +481,10 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 41,
+    "tweetfavorites": 40,
     "tweetquotes": 1,
     "tweetreplies": 1,
-    "tweetretweets": 28,
+    "tweetretweets": 27,
     "tweettext": "🛡️ We added RARLAB WinRAR path traversal vulnerability CVE-2025-6218 &amp; Microsoft Windows use after free vulnerability CVE-2025-62221 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. https://t.co/YICJDnTmdQ",
     "tweettime": "2025-12-09, 19:11:24",
     "tweeturl": "https://twitter.com/USCERT_gov/status/1998470555670810643",
@@ -751,7 +751,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3503,
+    "tweetfavorites": 3500,
     "tweetquotes": 70,
     "tweetreplies": 65,
     "tweetretweets": 418,
@@ -1015,10 +1015,10 @@
     "expanded_url": [
         "https://syst3mfailure.io/rbtree-family-drama/"
     ],
-    "tweetfavorites": 239,
+    "tweetfavorites": 238,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 54,
+    "tweetretweets": 53,
     "tweettext": "Analysis and exploitation of a Use-After-Free vulnerability in the Linux network packet schedule (CVE-2025-38001)\n\nhttps://t.co/t0C6wWlyWI\n\n#infosec #Linux https://t.co/wsIxrGgwWo",
     "tweettime": "2025-12-02, 08:00:48",
     "tweeturl": "https://twitter.com/0xor0ne/status/1995765077895532828",
@@ -1028,7 +1028,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/outlook-remote-code-execution-vulnerability-2/"
     ],
-    "tweetfavorites": 454,
+    "tweetfavorites": 453,
     "tweetquotes": 0,
     "tweetreplies": 7,
     "tweetretweets": 150,

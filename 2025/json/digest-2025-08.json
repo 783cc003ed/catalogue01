@@ -193,14 +193,14 @@
     "tweetfavorites": 298,
     "tweetquotes": 3,
     "tweetreplies": 2,
-    "tweetretweets": 93,
+    "tweetretweets": 92,
     "tweettext": "🔥 Windows had a hole [CVE-2025-49760] in its core RPC system that let attackers pretend to be trusted services—like hijacking DNS, but inside your OS.\n\nThe wild part? Even Windows Defender’s ID could be spoofed.\n\nHere’s how the EPM poisoning attack worked ↓ https://t.co/pbUfGHGTdg",
     "tweettime": "2025-08-10, 12:34:19",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1954521693919068164",
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 286,
+    "tweetfavorites": 285,
     "tweetquotes": 5,
     "tweetreplies": 4,
     "tweetretweets": 83,
@@ -255,7 +255,7 @@
     "tweetfavorites": 260,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 62,
+    "tweetretweets": 63,
     "tweettext": "Exploiting a Use-After-Free vulnerability in the Linux network packet schedule (CVE-2025-38001) (@cor_ctf)\n\nhttps://t.co/t0C6wWlyWI\n\n#infosec #Linux https://t.co/r8cBRApYaX",
     "tweettime": "2025-08-04, 15:00:59",
     "tweeturl": "https://twitter.com/0xor0ne/status/1952384274272858557",

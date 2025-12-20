@@ -152,10 +152,10 @@
     "username": "stephenfewer"
 }
 {
-    "tweetfavorites": 333,
+    "tweetfavorites": 334,
     "tweetquotes": 0,
     "tweetreplies": 4,
-    "tweetretweets": 41,
+    "tweetretweets": 40,
     "tweettext": "JavaScript Engines are everywhere and I know how to hack them [my PoC for FoxitPDF JavaScript UaF CVE-2024-28888] https://t.co/5FfBpoBgCq",
     "tweettime": "2024-11-11, 15:53:52",
     "tweeturl": "https://twitter.com/alisaesage/status/1856002410143220074",

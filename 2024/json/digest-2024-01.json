@@ -422,10 +422,10 @@
     "username": "hackerfantastic"
 }
 {
-    "tweetfavorites": 507,
+    "tweetfavorites": 506,
     "tweetquotes": 2,
     "tweetreplies": 8,
-    "tweetretweets": 82,
+    "tweetretweets": 81,
     "tweettext": "Jenkins CVE-2024-23897 Arbitrary file read vulnerability through the CLI can lead to RCE \n\nPOC \n\n#BugBounty  #vulnerabilities #rce https://t.co/Lxf8TI5Oug",
     "tweettime": "2024-01-25, 19:04:57",
     "tweeturl": "https://twitter.com/h4x0r_dz/status/1750595628797989287",

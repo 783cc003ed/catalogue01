@@ -169,10 +169,10 @@
     "expanded_url": [
         "https://hawktrace.com/blog/cve-2025-53772"
     ],
-    "tweetfavorites": 118,
+    "tweetfavorites": 116,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 32,
+    "tweetretweets": 30,
     "tweettext": "CVE-2025-53772 IIS WebDeploy RCE\nvulnerability in msdeployagentservice and msdeploy.axd endpoints of Microsoft Web Deploy, where unsafe deserialization of HTTP header contents allows an authenticated attacker (RCE).\n\nhttps://t.co/pcu08yldyg https://t.co/cDAJer1ZRS",
     "tweettime": "2025-09-03, 14:00:24",
     "tweeturl": "https://twitter.com/cyber_advising/status/1963240666349142425",
@@ -182,7 +182,7 @@
     "expanded_url": [
         "https://gist.github.com/hawktrace/67836c7e9f35b72077b50f220349cd73"
     ],
-    "tweetfavorites": 254,
+    "tweetfavorites": 252,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 94,

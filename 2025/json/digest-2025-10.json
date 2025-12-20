@@ -88,10 +88,10 @@
     "expanded_url": [
         "https://bit.ly/4huTE8d"
     ],
-    "tweetfavorites": 85,
+    "tweetfavorites": 82,
     "tweetquotes": 0,
     "tweetreplies": 1,
-    "tweetretweets": 31,
+    "tweetretweets": 28,
     "tweettext": "Critical RCE CVE-2025-59287 in Microsoft’s WSUS is actively exploited. Unauthenticated attackers can execute code with system privileges. Learn from Unit 42’s direct observations from cases: https://t.co/5I3Kbj9xj6 https://t.co/gwoc6vAlyI",
     "tweettime": "2025-10-27, 19:50:08",
     "tweeturl": "https://twitter.com/Unit42_Intel/status/1982897624970580271",
@@ -127,7 +127,7 @@
     "expanded_url": [
         "https://www.huntress.com/blog/exploitation-of-windows-server-update-services-remote-code-execution-vulnerability"
     ],
-    "tweetfavorites": 518,
+    "tweetfavorites": 517,
     "tweetquotes": 12,
     "tweetreplies": 6,
     "tweetretweets": 81,
@@ -283,7 +283,7 @@
     "tweetfavorites": 117,
     "tweetquotes": 3,
     "tweetreplies": 0,
-    "tweetretweets": 52,
+    "tweetretweets": 51,
     "tweettext": "🍪 A cookie that spawns a shell 💀\n\nA critical flaw (CVE-2025-2611, CVSS 9.3) in ICTBroadcast autodialer software is under active exploitation.\n\nAttackers inject commands via the BROADCAST session cookie for unauthenticated remote code execution.\n\nNo patch yet — check your stack https://t.co/8CRiIhWhYW",
     "tweettime": "2025-10-15, 06:16:55",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1978344315538575431",
@@ -378,10 +378,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 306,
+    "tweetfavorites": 305,
     "tweetquotes": 10,
     "tweetreplies": 5,
-    "tweetretweets": 132,
+    "tweetretweets": 130,
     "tweettext": "🚨 Microsoft just confirmed a critical GoAnywhere flaw (CVE-2025-10035) — already exploited to deploy Medusa ransomware.\n\nAttackers had a month-long head start — silently breaching orgs while vendors stayed quiet.\n\nIt’s not just RCE — it’s persistence, lateral movement, and https://t.co/1ScluCphdc",
     "tweettime": "2025-10-07, 08:17:09",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1975475470880666064",
