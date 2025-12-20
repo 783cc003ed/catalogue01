@@ -98,10 +98,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 524,
+    "tweetfavorites": 522,
     "tweetquotes": 6,
     "tweetreplies": 10,
-    "tweetretweets": 94,
+    "tweetretweets": 93,
     "tweettext": "CVE-2024-49112 🚨🔥\n\nCritical RCE vulnerability affecting the Windows LDAP Client with a CVSS score of 9.8. This vulnerability could allow an unprivileged attacker to run arbitrary code on an Active Directory Server by sending a specialized set of LDAP calls to the server.",
     "tweettime": "2024-12-14, 04:59:27",
     "tweeturl": "https://twitter.com/7h3h4ckv157/status/1867796522915536927",
@@ -111,7 +111,7 @@
     "tweetfavorites": 649,
     "tweetquotes": 16,
     "tweetreplies": 16,
-    "tweetretweets": 179,
+    "tweetretweets": 178,
     "tweettext": "Unauthenticated Remote Code Execution (RCE) on Domain Controllers (DC).\nIt does not get worse than that. Probably will be included in #ransomware campaigns.\nAny technical analysis of CVE-2024-49112 published? \nCC: @gentilkiwi @harmj0y @_wald0 https://t.co/JOL9w1KDOc",
     "tweettime": "2024-12-12, 06:43:37",
     "tweeturl": "https://twitter.com/TalBeerySec/status/1867097961907257346",

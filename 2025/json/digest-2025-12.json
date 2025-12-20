@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/tool-cisco-secure-email-gateway-0-day/"
     ],
-    "tweetfavorites": 61,
+    "tweetfavorites": 63,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 25,
+    "tweetretweets": 27,
     "tweettext": "🚨 New Tool Detects Cisco 0-Day Exploit in Secure Email Gateway! | Source: https://t.co/VZPKTxqhJB\n\nA lightweight Python script to help organizations quickly identify exposure to CVE-2025-20393, a critical zero-day vulnerability in Cisco Secure Email Gateway (SEG) and Secure https://t.co/024XBJ6H5A",
     "tweettime": "2025-12-19, 17:25:19",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/2002067734675533863",
@@ -15,7 +15,7 @@
     "expanded_url": [
         "https://attackerkb.com/topics/ixWdbDvjwX/cve-2025-37164/rapid7-analysis"
     ],
-    "tweetfavorites": 66,
+    "tweetfavorites": 77,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 21,
@@ -29,10 +29,10 @@
         "https://github.com/rxerium/CVE-2025-68461",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 285,
+    "tweetfavorites": 297,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 39,
+    "tweetretweets": 44,
     "tweettext": "🚨 CVE-2025-68461: XSS flaw in Roundcube Webmail (CVSS 7.2) via SVG animate tag. \n\nI've built a detection script here:\nhttps://t.co/bFOJ2CsyEX\n\nPatches are available - update to updated versions 1.6.12 and 1.5.12:\nhttps://t.co/CVLM5GL6fR https://t.co/lpLkRDVC7X",
     "tweettime": "2025-12-19, 11:24:03",
     "tweeturl": "https://twitter.com/hakrishi/status/2001976821261406303",
@@ -53,7 +53,7 @@
         "https://www.zoomeye.ai/searchResult?q=YXBwPSJSb3VuZEN1YmUgV2VibWFpbCI%3D&utm_source=x&utm_medium=x&utm_campaign=x_RoundCube_25121901",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 63,
+    "tweetfavorites": 65,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 12,
@@ -148,7 +148,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/windows-admin-center-vulnerability/"
     ],
-    "tweetfavorites": 199,
+    "tweetfavorites": 200,
     "tweetquotes": 5,
     "tweetreplies": 3,
     "tweetretweets": 81,
@@ -587,7 +587,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 4013,
+    "tweetfavorites": 4016,
     "tweetquotes": 78,
     "tweetreplies": 281,
     "tweetretweets": 304,
@@ -787,7 +787,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 595,
+    "tweetfavorites": 594,
     "tweetquotes": 6,
     "tweetreplies": 7,
     "tweetretweets": 71,
@@ -940,7 +940,7 @@
     "expanded_url": [
         "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
     ],
-    "tweetfavorites": 497,
+    "tweetfavorites": 498,
     "tweetquotes": 7,
     "tweetreplies": 9,
     "tweetretweets": 61,

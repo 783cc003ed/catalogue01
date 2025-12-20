@@ -94,7 +94,7 @@
     "expanded_url": [
         "https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/"
     ],
-    "tweetfavorites": 287,
+    "tweetfavorites": 288,
     "tweetquotes": 5,
     "tweetreplies": 0,
     "tweetretweets": 81,
@@ -236,10 +236,10 @@
         "https://unit42.paloaltonetworks.com/cve-2024-3400/",
         "https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/"
     ],
-    "tweetfavorites": 553,
+    "tweetfavorites": 552,
     "tweetquotes": 3,
     "tweetreplies": 12,
-    "tweetretweets": 125,
+    "tweetretweets": 126,
     "tweettext": "CVE-2024-3400: OS Command Injection Vulnerability in GlobalProtect Gateway\n\nSeverity: CRITICAL (10/10) ⚠️\n\nPoc: https://t.co/IMw8YQap2q\n\nOther info: \nhttps://t.co/VBttcYwwoJ\nhttps://t.co/0YsIHHirTX https://t.co/wbG4eCbsW3",
     "tweettime": "2024-04-13, 14:05:06",
     "tweeturl": "https://twitter.com/win3zz/status/1779148811497267352",

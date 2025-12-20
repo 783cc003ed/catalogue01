@@ -445,7 +445,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 639,
+    "tweetfavorites": 640,
     "tweetquotes": 10,
     "tweetreplies": 37,
     "tweetretweets": 73,
@@ -591,6 +591,21 @@
     "tweettime": "2024-06-04, 05:46:51",
     "tweeturl": "https://twitter.com/ynsmroztas/status/1797867594063450317",
     "username": "ynsmroztas"
+}
+{
+    "expanded_url": [
+        "https://github.com/sinsinology/CVE-2024-4358",
+        "https://summoning.team/blog/progress-report-server-rce-cve-2024-4358-cve-2024-1800/#/",
+        "http://hunter.how"
+    ],
+    "tweetfavorites": 84,
+    "tweetquotes": 0,
+    "tweetreplies": 1,
+    "tweetretweets": 29,
+    "tweettext": "🚨Alert🚨CVE-2024-4358/CVE-2024-1800:Progress Telerik Report Server pre-authenticated RCE chain\n🔥PoC:https://t.co/gNcfRO5mey\n💪Detailed Analysis from @SinSinology: https://t.co/vBE81ndoGz\n📊2.9K+ Services are found on the https://t.co/ysWb28Crld\n🔗Hunter https://t.co/W0hrJzQZbL",
+    "tweettime": "2024-06-04, 02:48:14",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1797822642059346082",
+    "username": "HunterMapping"
 }
 {
     "expanded_url": [

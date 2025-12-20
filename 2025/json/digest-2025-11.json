@@ -799,10 +799,10 @@
     "expanded_url": [
         "https://attackerkb.com/topics/5C4wRy6hY7/cve-2025-12480/rapid7-analysis"
     ],
-    "tweetfavorites": 74,
+    "tweetfavorites": 73,
     "tweetquotes": 0,
     "tweetreplies": 3,
-    "tweetretweets": 20,
+    "tweetretweets": 21,
     "tweettext": "We just published our AttackerKB @rapid7 analysis of CVE-2025-12480. Disclosed yesterday, but patch back in July, its an access control bypass affecting not only Gladinet Triofox, but as we show, also Gladinet CentreStack. Analysis &amp; RCE details here: https://t.co/OFuISM4fHn https://t.co/IoHZwlCt9s",
     "tweettime": "2025-11-11, 14:30:38",
     "tweeturl": "https://twitter.com/stephenfewer/status/1988253037370990982",
