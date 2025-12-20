@@ -102,10 +102,10 @@
     "username": "blank_cold"
 }
 {
-    "tweetfavorites": 244,
+    "tweetfavorites": 243,
     "tweetquotes": 8,
     "tweetreplies": 3,
-    "tweetretweets": 108,
+    "tweetretweets": 106,
     "tweettext": "🚨 Zero-click. Wormable. Network-spreading.\n\nNew flaws in Apple’s AirPlay protocol (🔓 AirBorne) could let hackers hijack your device without a click—then ride your Wi-Fi into corporate networks.\n\nCVE-2025-24252 + CVE-2025-24132 = silent RCE across Macs, TVs, speakers. Just being https://t.co/i7ZMYVfhlD",
     "tweettime": "2025-05-05, 17:07:36",
     "tweeturl": "https://twitter.com/TheHackersNews/status/1919438844333621713",

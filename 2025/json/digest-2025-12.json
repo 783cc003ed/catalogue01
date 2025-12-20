@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/tool-cisco-secure-email-gateway-0-day/"
     ],
-    "tweetfavorites": 69,
+    "tweetfavorites": 74,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 28,
+    "tweetretweets": 29,
     "tweettext": "🚨 New Tool Detects Cisco 0-Day Exploit in Secure Email Gateway! | Source: https://t.co/VZPKTxqhJB\n\nA lightweight Python script to help organizations quickly identify exposure to CVE-2025-20393, a critical zero-day vulnerability in Cisco Secure Email Gateway (SEG) and Secure https://t.co/024XBJ6H5A",
     "tweettime": "2025-12-19, 17:25:19",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/2002067734675533863",
@@ -29,10 +29,10 @@
         "https://github.com/rxerium/CVE-2025-68461",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 325,
+    "tweetfavorites": 339,
     "tweetquotes": 0,
-    "tweetreplies": 2,
-    "tweetretweets": 47,
+    "tweetreplies": 3,
+    "tweetretweets": 54,
     "tweettext": "🚨 CVE-2025-68461: XSS flaw in Roundcube Webmail (CVSS 7.2) via SVG animate tag. \n\nI've built a detection script here:\nhttps://t.co/bFOJ2CsyEX\n\nPatches are available - update to updated versions 1.6.12 and 1.5.12:\nhttps://t.co/CVLM5GL6fR https://t.co/lpLkRDVC7X",
     "tweettime": "2025-12-19, 11:24:03",
     "tweeturl": "https://twitter.com/hakrishi/status/2001976821261406303",
@@ -53,7 +53,7 @@
         "https://www.zoomeye.ai/searchResult?q=YXBwPSJSb3VuZEN1YmUgV2VibWFpbCI%3D&utm_source=x&utm_medium=x&utm_campaign=x_RoundCube_25121901",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 68,
+    "tweetfavorites": 69,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 12,
@@ -112,10 +112,10 @@
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 1050,
+    "tweetfavorites": 1075,
     "tweetquotes": 32,
-    "tweetreplies": 22,
-    "tweetretweets": 280,
+    "tweetreplies": 23,
+    "tweetretweets": 286,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
@@ -751,7 +751,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3500,
+    "tweetfavorites": 3502,
     "tweetquotes": 70,
     "tweetreplies": 65,
     "tweetretweets": 418,
@@ -787,7 +787,7 @@
     "username": "USCERT_gov"
 }
 {
-    "tweetfavorites": 592,
+    "tweetfavorites": 593,
     "tweetquotes": 6,
     "tweetreplies": 7,
     "tweetretweets": 71,
