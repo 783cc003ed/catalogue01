@@ -97,7 +97,7 @@
     "tweetfavorites": 220,
     "tweetquotes": 3,
     "tweetreplies": 6,
-    "tweetretweets": 91,
+    "tweetretweets": 92,
     "tweettext": "🚨New Chrome Zero-Day Under Attack. PATCH NOW\n\nEdge, Brave, Opera, and Vivaldi users are also advised to update as soon as patches are available.\n\nGoogle patched four Chrome vulnerabilities, including the actively exploited zero-day CVE-2025-10585, a type confusion bug in the V8 https://t.co/RIn31xu8BD",
     "tweettime": "2025-09-18, 08:37:21",
     "tweeturl": "https://twitter.com/H4ckManac/status/1968595183030653073",
@@ -130,10 +130,10 @@
     "expanded_url": [
         "https://github.com/xairy/kernel-exploits/tree/master/CVE-2025-38494"
     ],
-    "tweetfavorites": 509,
+    "tweetfavorites": 507,
     "tweetquotes": 5,
     "tweetreplies": 5,
-    "tweetretweets": 80,
+    "tweetretweets": 79,
     "tweettext": "Wrote a trigger for CVE-2025-38494/5 (an integer underflow in the HID subsystem) that leaks 64 KB of OOB memory over USB.\n\nStill works on Pixels and Ubuntus (but the bug is fixed in stable kernels).\n\nhttps://t.co/4IvvqcVs4Q https://t.co/BDzfspHViO",
     "tweettime": "2025-09-11, 15:37:58",
     "tweeturl": "https://twitter.com/andreyknvl/status/1966164323488981155",
@@ -182,7 +182,7 @@
     "expanded_url": [
         "https://gist.github.com/hawktrace/67836c7e9f35b72077b50f220349cd73"
     ],
-    "tweetfavorites": 252,
+    "tweetfavorites": 254,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 94,

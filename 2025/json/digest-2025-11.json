@@ -321,7 +321,7 @@
     "expanded_url": [
         "https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/"
     ],
-    "tweetfavorites": 161,
+    "tweetfavorites": 162,
     "tweetquotes": 0,
     "tweetreplies": 1,
     "tweetretweets": 51,
@@ -334,10 +334,10 @@
     "expanded_url": [
         "https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/"
     ],
-    "tweetfavorites": 159,
+    "tweetfavorites": 160,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 42,
+    "tweetretweets": 41,
     "tweettext": "Oracle Cloud was breached in Jan 2025 through vulns in Oracle Access Manager. @SLCyberSec's Research team found a new pre-auth RCE vulnerability in Oracle Identity Manager (CVE-2025-61757). This is a critical vulnerability and is trivial to exploit. https://t.co/hXdzU4TJVP https://t.co/OHxacKZFbN",
     "tweettime": "2025-11-20, 03:11:38",
     "tweeturl": "https://twitter.com/infosec_au/status/1991343649427431883",
@@ -908,7 +908,7 @@
     "username": "FAMASoon"
 }
 {
-    "tweetfavorites": 333,
+    "tweetfavorites": 332,
     "tweetquotes": 5,
     "tweetreplies": 15,
     "tweetretweets": 118,

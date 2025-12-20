@@ -141,10 +141,10 @@
     "username": "Smukx07"
 }
 {
-    "tweetfavorites": 1082,
+    "tweetfavorites": 1081,
     "tweetquotes": 17,
     "tweetreplies": 11,
-    "tweetretweets": 217,
+    "tweetretweets": 216,
     "tweettext": "💥 Remote Code Execution in GitHub Copilot (CVE-2025-53773) \n\n👉 Prompt injection exploit writes to Copilot config file and puts it into YOLO mode, then we get immediate RCE\n\n🔥 Bypasses all user approvals\n\n🛡️ Patch is out today. Update before someone else does it for you https://t.co/yTAHoPBmvh",
     "tweettime": "2025-08-12, 22:40:10",
     "tweeturl": "https://twitter.com/wunderwuzzi23/status/1955398935130017999",

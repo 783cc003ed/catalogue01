@@ -345,7 +345,7 @@
     "tweetfavorites": 93,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 29,
+    "tweetretweets": 28,
     "tweettext": "🚨🚨CVE-2025-49844 (CVSS 10): Redis Lua RCE\n Authenticated attackers can exploit a Lua script to trigger a use-after-free, enabling RCE. Affects all Lua-enabled Redis versions.\n🔥PoC: https://t.co/OvL4Y7xcqc\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-49844\"\nZoomEye https://t.co/EDIFzXcSYU",
     "tweettime": "2025-10-10, 10:18:01",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1976593052358914358",
@@ -418,10 +418,10 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 191,
+    "tweetfavorites": 189,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 74,
+    "tweetretweets": 72,
     "tweettext": "⚠️Oracle issued an emergency fix for a a critical E-Business Suite zero-day flaw tracked as CVE-2025-61882 that was exploited in Clop data theft attacks.\n\n🔥The flaw is a critical unauthenticated RCE flaw. An exploit is publicly available to open a reverse shell. \n\n🚨Patch now! https://t.co/eDGhsr9kdp",
     "tweettime": "2025-10-06, 01:45:19",
     "tweeturl": "https://twitter.com/BleepinComputer/status/1975014476874481713",
@@ -431,7 +431,7 @@
     "expanded_url": [
         "https://github.com/rxerium/CVE-2025-61882"
     ],
-    "tweetfavorites": 600,
+    "tweetfavorites": 598,
     "tweetquotes": 7,
     "tweetreplies": 4,
     "tweetretweets": 137,
@@ -452,4 +452,17 @@
     "tweettime": "2025-10-04, 14:55:00",
     "tweeturl": "https://twitter.com/Smukx07/status/1974488429871366232",
     "username": "Smukx07"
+}
+{
+    "expanded_url": [
+        "https://github.com/r1ngz3ro/my_v8_exploits/tree/main/CVE-2025-9864"
+    ],
+    "tweetfavorites": 92,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "CVE-2025-9864 v8 use-after-free exploit by @r1ngz3ro \nhttps://t.co/MSmsCoFfas",
+    "tweettime": "2025-10-03, 06:09:16",
+    "tweeturl": "https://twitter.com/hd3s5/status/1973993737647698396",
+    "username": "hd3s5"
 }

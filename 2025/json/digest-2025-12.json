@@ -2,10 +2,10 @@
     "expanded_url": [
         "https://cybersecuritynews.com/tool-cisco-secure-email-gateway-0-day/"
     ],
-    "tweetfavorites": 50,
+    "tweetfavorites": 56,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 20,
+    "tweetretweets": 23,
     "tweettext": "🚨 New Tool Detects Cisco 0-Day Exploit in Secure Email Gateway! | Source: https://t.co/VZPKTxqhJB\n\nA lightweight Python script to help organizations quickly identify exposure to CVE-2025-20393, a critical zero-day vulnerability in Cisco Secure Email Gateway (SEG) and Secure https://t.co/024XBJ6H5A",
     "tweettime": "2025-12-19, 17:25:19",
     "tweeturl": "https://twitter.com/The_Cyber_News/status/2002067734675533863",
@@ -29,10 +29,10 @@
         "https://github.com/rxerium/CVE-2025-68461",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 230,
+    "tweetfavorites": 263,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 27,
+    "tweetretweets": 31,
     "tweettext": "🚨 CVE-2025-68461: XSS flaw in Roundcube Webmail (CVSS 7.2) via SVG animate tag. \n\nI've built a detection script here:\nhttps://t.co/bFOJ2CsyEX\n\nPatches are available - update to updated versions 1.6.12 and 1.5.12:\nhttps://t.co/CVLM5GL6fR https://t.co/lpLkRDVC7X",
     "tweettime": "2025-12-19, 11:24:03",
     "tweeturl": "https://twitter.com/hakrishi/status/2001976821261406303",
@@ -53,10 +53,10 @@
         "https://www.zoomeye.ai/searchResult?q=YXBwPSJSb3VuZEN1YmUgV2VibWFpbCI%3D&utm_source=x&utm_medium=x&utm_campaign=x_RoundCube_25121901",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 60,
+    "tweetfavorites": 61,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 11,
+    "tweetretweets": 12,
     "tweettext": "🚨🚨CVE-2025-68460 &amp; CVE-2025-68461: Roundcube Alert: High-Severity SVG XSS and CSS Sanitizer Flaws Threaten Webmail Privacy\n\nZoomEye Dork👉app=\"RoundCube Webmail\"\n642.9k+ exposed instances.\nZoomEye Link: https://t.co/s6g9BCPzEE\n\nRefer: \n1. https://t.co/ynzLaPxuZA\n2. https://t.co/1jsia48Kxf",
     "tweettime": "2025-12-19, 03:10:58",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2001852733075394575",
@@ -102,7 +102,7 @@
         "https://github.com/rxerium/CVE-2025-40602",
         "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0019"
     ],
-    "tweetfavorites": 41,
+    "tweetfavorites": 42,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 9,
@@ -115,7 +115,7 @@
     "tweetfavorites": 1023,
     "tweetquotes": 31,
     "tweetreplies": 21,
-    "tweetretweets": 270,
+    "tweetretweets": 271,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
@@ -172,6 +172,16 @@
     "username": "ksg93rd"
 }
 {
+    "tweetfavorites": 103,
+    "tweetquotes": 1,
+    "tweetreplies": 0,
+    "tweetretweets": 20,
+    "tweettext": "🚨Alert🚨 CVE-2025-61675&amp;CVE-2025-61678&amp;CVE-2025-66039 : Critical SQLi,File-Upload, and AUTHTYPE Bypass Flaws in FreePBX could Lead to RCE.\n--------------------\nCVE-2025-61675: An authenticated SQL injection vulnerability\nCVE-2025-61678: An authenticated arbitrary file upload https://t.co/rVUMyIEKiE",
+    "tweettime": "2025-12-16, 03:24:02",
+    "tweeturl": "https://twitter.com/HunterMapping/status/2000768857351315894",
+    "username": "HunterMapping"
+}
+{
     "tweetfavorites": 34,
     "tweetquotes": 0,
     "tweetreplies": 1,
@@ -187,10 +197,10 @@
         "http://hunter.how",
         "https://hunter.how/list?searchValue=product.name%3D%22pgAdmin%22"
     ],
-    "tweetfavorites": 171,
+    "tweetfavorites": 179,
     "tweetquotes": 1,
     "tweetreplies": 2,
-    "tweetretweets": 37,
+    "tweetretweets": 38,
     "tweettext": "🚨Alert🚨:CVE-2025-13780 : pgAdmin are Affected by A Remote Code Execution (RCE) Vulnerability. It affects versions up to 9.10.\n🔥PoC :https://t.co/G6VnT4AarK\n📊189.9K Services are found on the https://t.co/ysWb28Crld yearly.\n🔗Hunter Link:https://t.co/H4H1mAxBfO\n👇Query\nHUNTER : https://t.co/Utiduq7ukG",
     "tweettime": "2025-12-16, 02:21:25",
     "tweeturl": "https://twitter.com/HunterMapping/status/2000753097719894170",
@@ -216,7 +226,7 @@
     "tweetfavorites": 47,
     "tweetquotes": 0,
     "tweetreplies": 2,
-    "tweetretweets": 22,
+    "tweetretweets": 21,
     "tweettext": "🛡️ We added Gladinet &amp; Apple vulnerabilities CVE-2025-14611 &amp; CVE-2025-43529 to our Known Exploited Vulnerabilities Catalog. Visit https://t.co/myxOwap1Tf &amp; apply mitigations to protect your org from cyberattacks. #Cybersecurity #InfoSec https://t.co/BXihRl42AI",
     "tweettime": "2025-12-15, 18:23:26",
     "tweeturl": "https://twitter.com/USCERT_gov/status/2000632809472327988",
@@ -661,10 +671,10 @@
         "https://github.com/assetnote/react2shell-scanner",
         "https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-"
     ],
-    "tweetfavorites": 496,
+    "tweetfavorites": 500,
     "tweetquotes": 2,
-    "tweetreplies": 14,
-    "tweetretweets": 53,
+    "tweetreplies": 15,
+    "tweetretweets": 56,
     "tweettext": "During my research on CVE-2025-55182 and CVE-2025-66478. I managed to find 4 instances to be vulnerable. The thing that helped me most:\n\nResearch link - https://t.co/gNZK6Bf6vX\n\nAssetnote Checker - https://t.co/hsc3MANsy3\n\nIf you want to increase impact - https://t.co/gakt6kCGum https://t.co/pBEDvG1tnB",
     "tweettime": "2025-12-07, 13:35:35",
     "tweeturl": "https://twitter.com/hunter0x1/status/1997661266379178325",
@@ -741,7 +751,7 @@
     "username": "Gi7w0rm"
 }
 {
-    "tweetfavorites": 3505,
+    "tweetfavorites": 3504,
     "tweetquotes": 70,
     "tweetreplies": 65,
     "tweetretweets": 418,
@@ -754,10 +764,10 @@
     "expanded_url": [
         "https://labs.watchtowr.com/yikes-watchguard-fireware-os-ikev2-out-of-bounds-write-cve-2025-9242"
     ],
-    "tweetfavorites": 205,
+    "tweetfavorites": 211,
     "tweetquotes": 0,
-    "tweetreplies": 4,
-    "tweetretweets": 37,
+    "tweetreplies": 5,
+    "tweetretweets": 38,
     "tweettext": "pre-auth RCE (CVE-2025-9242) stack buffer overflow vulnerability in WatchGuard Fireware OS\n\nhttps://t.co/8gUrO3steS\n\nCredits @watchtowrcyber\n\n#infosec https://t.co/v4ft0JravA",
     "tweettime": "2025-12-05, 16:02:05",
     "tweeturl": "https://twitter.com/0xor0ne/status/1996973360450768999",
@@ -940,7 +950,7 @@
     "username": "h4x0r_dz"
 }
 {
-    "tweetfavorites": 262,
+    "tweetfavorites": 263,
     "tweetquotes": 16,
     "tweetreplies": 3,
     "tweetretweets": 71,

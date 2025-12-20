@@ -41,10 +41,10 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 1088,
+    "tweetfavorites": 1089,
     "tweetquotes": 3,
     "tweetreplies": 16,
-    "tweetretweets": 241,
+    "tweetretweets": 243,
     "tweettext": "If your target uses Rails, look for Action View CVE-2019-5418 - File Content Disclosure vuln. Although this is an old bug, it can still be found.\n\nIntercept the request in Burp and replace the Accept header with: `Accept: ../../../../../../../../../../etc/passwd{{` #bugbountytips https://t.co/gpOlT37pvB",
     "tweettime": "2025-01-23, 06:58:08",
     "tweeturl": "https://twitter.com/nav1n0x/status/1882321903022477332",
