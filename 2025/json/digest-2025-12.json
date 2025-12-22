@@ -1,8 +1,23 @@
 {
     "expanded_url": [
+        "https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
+        "https://github.com/turistu/odds-n-ends/blob/main/CVE-2025-14282.md",
+        "https://github.com/richard-natan/PoC-CVE-2025-66224"
+    ],
+    "tweetfavorites": 107,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 40,
+    "tweettext": "#exploit\n\n1⃣.  CVE-2025-31200, CVE-2025-31201: https://t.co/l1YEKl5Wn9\niMessage Zero‑Click RCE Chain\n2⃣.  CVE-2025-14282: https://t.co/xhWFlsnWsq\nDropbear - privilege escalation via Unix domain socket forwarding\n3⃣.  CVE-2025-66224: https://t.co/BFGbZnVKgE\nOrangeHRM RCE\n4⃣.",
+    "tweettime": "2025-12-21, 17:46:16",
+    "tweeturl": "https://twitter.com/ksg93rd/status/2002797784991449253",
+    "username": "ksg93rd"
+}
+{
+    "expanded_url": [
         "https://cybersecuritynews.com/tool-cisco-secure-email-gateway-0-day/"
     ],
-    "tweetfavorites": 74,
+    "tweetfavorites": 75,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 29,
@@ -29,9 +44,9 @@
         "https://github.com/rxerium/CVE-2025-68461",
         "https://roundcube.net/news/2025/12/13/security-updates-1.6.12-and-1.5.12"
     ],
-    "tweetfavorites": 339,
+    "tweetfavorites": 346,
     "tweetquotes": 0,
-    "tweetreplies": 3,
+    "tweetreplies": 4,
     "tweetretweets": 54,
     "tweettext": "🚨 CVE-2025-68461: XSS flaw in Roundcube Webmail (CVSS 7.2) via SVG animate tag. \n\nI've built a detection script here:\nhttps://t.co/bFOJ2CsyEX\n\nPatches are available - update to updated versions 1.6.12 and 1.5.12:\nhttps://t.co/CVLM5GL6fR https://t.co/lpLkRDVC7X",
     "tweettime": "2025-12-19, 11:24:03",
@@ -39,10 +54,10 @@
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 37,
+    "tweetfavorites": 42,
     "tweetquotes": 0,
     "tweetreplies": 0,
-    "tweetretweets": 6,
+    "tweetretweets": 7,
     "tweettext": "🚨🚨CVE-2025-14733 (CVSS 9.3): WatchGuard Firebox IKEv2 Out-of-Bounds Write RCE\nUnauthenticated remote attackers can potentially execute arbitrary code on vulnerable Fireboxes via the iked process—targeting Mobile/User VPN or Branch Office VPN with dynamic peers.\n\nSearch by https://t.co/DbCCcg0y1s",
     "tweettime": "2025-12-19, 06:48:47",
     "tweeturl": "https://twitter.com/zoomeye_team/status/2001907545649434762",
@@ -88,7 +103,7 @@
     "username": "HunterMapping"
 }
 {
-    "tweetfavorites": 62,
+    "tweetfavorites": 63,
     "tweetquotes": 0,
     "tweetreplies": 0,
     "tweetretweets": 14,
@@ -112,10 +127,10 @@
     "username": "hakrishi"
 }
 {
-    "tweetfavorites": 1075,
+    "tweetfavorites": 1090,
     "tweetquotes": 32,
     "tweetreplies": 23,
-    "tweetretweets": 286,
+    "tweetretweets": 289,
     "tweettext": "🛑 WARNING: CVE-2025-20393 is rated 10.0, with no patch available.\n\nCisco confirmed active exploitation of an AsyncOS zero-day by a China-linked APT.\n\nThe flaw allows root-level command execution on affected email security appliances and enables attackers to establish https://t.co/wAkCq8RNkx",
     "tweettime": "2025-12-18, 04:12:10",
     "tweeturl": "https://twitter.com/TheHackersNews/status/2001505744739565885",
@@ -148,7 +163,7 @@
     "expanded_url": [
         "https://cybersecuritynews.com/windows-admin-center-vulnerability/"
     ],
-    "tweetfavorites": 199,
+    "tweetfavorites": 200,
     "tweetquotes": 5,
     "tweetreplies": 3,
     "tweetretweets": 81,
@@ -223,7 +238,7 @@
     "expanded_url": [
         "https://go.dhs.gov/Z3Q"
     ],
-    "tweetfavorites": 47,
+    "tweetfavorites": 46,
     "tweetquotes": 0,
     "tweetreplies": 2,
     "tweetretweets": 21,
@@ -246,7 +261,7 @@
     "expanded_url": [
         "https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780"
     ],
-    "tweetfavorites": 182,
+    "tweetfavorites": 181,
     "tweetquotes": 3,
     "tweetreplies": 2,
     "tweetretweets": 50,
@@ -810,7 +825,7 @@
     "expanded_url": [
         "https://gist.github.com/maple3142/48bc9393f45e068cf8c90ab865c0f5f3"
     ],
-    "tweetfavorites": 91,
+    "tweetfavorites": 90,
     "tweetquotes": 2,
     "tweetreplies": 1,
     "tweetretweets": 23,
@@ -896,6 +911,16 @@
     "username": "pyn3rd"
 }
 {
+    "tweetfavorites": 46,
+    "tweetquotes": 0,
+    "tweetreplies": 2,
+    "tweetretweets": 4,
+    "tweettext": "CVE-2025-55182 (React) and CVE-2025-66478 (Next.js) are critical unauthenticated RCE vulnerabilities in the React Server Components (RSC) \"Flight\" protocol.\n\nDefault configurations are vulnerable – a standard Next.js app created with create-next-app and built for production can https://t.co/QalLRU8wqT",
+    "tweettime": "2025-12-04, 03:26:18",
+    "tweeturl": "https://twitter.com/blackorbird/status/1996420771552563571",
+    "username": "blackorbird"
+}
+{
     "expanded_url": [
         "https://github.com/ejpir/CVE-2025-55182-poc",
         "https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js",
@@ -914,10 +939,10 @@
     "expanded_url": [
         "https://github.com/ejpir/CVE-2025-55182-poc/blob/main/exploit-rce-v4.js"
     ],
-    "tweetfavorites": 236,
+    "tweetfavorites": 235,
     "tweetquotes": 2,
     "tweetreplies": 4,
-    "tweetretweets": 50,
+    "tweetretweets": 49,
     "tweettext": "🚨🚨CVE-2025-55182 (CVSS 10.0): RCE in React Server Components\nA decoding bug in React Server Function payloads enables full unauthenticated RCE on vulnerable RSC backends.\n🔥PoC: https://t.co/4yHxpp9RPc\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-55182\"\nZoomEye https://t.co/0f44l2v5JW",
     "tweettime": "2025-12-04, 02:27:05",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1996405871631589451",

@@ -54,6 +54,21 @@
 }
 {
     "expanded_url": [
+        "http://hunter.how",
+        "https://hunter.how/list?searchValue=product.name%3D%22Directus%22",
+        "http://product.name"
+    ],
+    "tweetfavorites": 71,
+    "tweetquotes": 0,
+    "tweetreplies": 0,
+    "tweetretweets": 21,
+    "tweettext": "🚨Alert🚨 CVE-2025-55746: Critical Directus Flaw Exposes Servers to Unauthenticated File Upload and RCE\n📊177.7K+ Services are found on the https://t.co/ysWb28Crld yearly.\n🔗Hunter Link:https://t.co/9pi7JesJbk\n👇Query\nHUNTER : https://t.co/q9rtuGgxk7=\"Directus\" https://t.co/ravJvwChCu",
+    "tweettime": "2025-08-25, 02:28:12",
+    "tweeturl": "https://twitter.com/HunterMapping/status/1959804974663442613",
+    "username": "HunterMapping"
+}
+{
+    "expanded_url": [
         "https://tinyurl.com/mprcjp9b"
     ],
     "tweetfavorites": 233,
@@ -141,7 +156,7 @@
     "username": "Smukx07"
 }
 {
-    "tweetfavorites": 1079,
+    "tweetfavorites": 1078,
     "tweetquotes": 17,
     "tweetreplies": 11,
     "tweetretweets": 216,
@@ -200,7 +215,7 @@
     "username": "TheHackersNews"
 }
 {
-    "tweetfavorites": 285,
+    "tweetfavorites": 286,
     "tweetquotes": 5,
     "tweetreplies": 4,
     "tweetretweets": 83,

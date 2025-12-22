@@ -658,7 +658,7 @@
     "tweetfavorites": 90,
     "tweetquotes": 3,
     "tweetreplies": 1,
-    "tweetretweets": 30,
+    "tweetretweets": 28,
     "tweettext": "🚨 Active Exploitation of Cisco ISE RCE Vulnerability (CVE-2025-20337) 🚨\n\nA critical unauthenticated RCE flaw in Cisco ISE and ISE-PIC is now being exploited. Amazon researchers observed an APT targeting a previously undocumented ISE endpoint.\n\n 🔴 Affects ISE/ISE-PIC versions https://t.co/7PyHgYwvW5",
     "tweettime": "2025-11-13, 22:45:32",
     "tweeturl": "https://twitter.com/censysio/status/1989102359679549574",
@@ -681,7 +681,7 @@
     "expanded_url": [
         "https://zhero-web-sec.github.io/research-and-things/astro-framework-and-standards-weaponization"
     ],
-    "tweetfavorites": 345,
+    "tweetfavorites": 346,
     "tweetquotes": 4,
     "tweetreplies": 12,
     "tweetretweets": 83,
@@ -875,10 +875,10 @@
     "username": "gN3mes1s"
 }
 {
-    "tweetfavorites": 117,
+    "tweetfavorites": 116,
     "tweetquotes": 2,
     "tweetreplies": 3,
-    "tweetretweets": 35,
+    "tweetretweets": 34,
     "tweettext": "🚨🚨CVE-2025-11953(CVSS 9.8): Unauthenticated RCE in React Native CLI\nThe Metro server is reachable by default and contains an unauthenticated command-injection flaw that allows RCE.\n\nSearch by vul.cve Filter👉vul.cve=\"CVE-2025-11953\"\nZoomEye Dork👉app=\"React Native Community https://t.co/LHBTzQTNQo",
     "tweettime": "2025-11-05, 02:32:20",
     "tweeturl": "https://twitter.com/zoomeye_team/status/1985897944927850694",
